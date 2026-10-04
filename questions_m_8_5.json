@@ -421,3 +421,5 @@
       "difficulty": 3,
       "explanation": "Tüm renklerin çekilme olasılıklarının eşit (eş olasılıklı) olabilmesi için torbadaki her renkten eşit sayıda bilye olmalıdır. En az bilye ekleyerek eşitlemek için bilye sayılarını en çok olan mavi bilye sayısına (6'ya) tamamlamalıyız. Bunun için torbaya 2 kırmızı (6-4) ve 4 sarı (6-2) olmak üzere toplam 2 + 4 = 6 bilye eklenmelidir."
     }
+  ]
+}
