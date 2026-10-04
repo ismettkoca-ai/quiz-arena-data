@@ -228,7 +228,7 @@
     {
       "id": "Q_8_7_017",
       "questionText": "Seri bağlı özdeş lambalardan oluşan bir elektrik devresinde lambalardan biri patlarsa (duyundan çıkarılırsa) diğer lambaların durum nasıl olur?",
-      > [
+      "answers": [
         "Parlaklıkları artar.",
         "Hepsi söner.",
         "Işık vermeye devam eder.",
