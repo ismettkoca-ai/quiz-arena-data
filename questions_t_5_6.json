@@ -269,22 +269,12 @@
     },
     {
       "id": "Q_5_6_020",
-      "questionText": "Sayılara getirilen ekler kesme işaretiyle ayrılır ve sayının okunuşuna göre yazılır. Hangi yazım DOĞRUDUR?",
-      "answers": [
-        "Günde 2'şer litre su içmeliyiz.",
-        "Günde 2'şar litre su içmeliyiz.",
-        "Günde 2 şer litre su içmeliyiz.",
-        "Günde 2şer litre su içmeliyiz."
-      ],
-      "correctAnswerIndex": 0,
-      "category": "Sağlıklı Yaşıyorum",
-      "difficulty": 3,
-      "explanation": "(Not: Üleştirme sayıları rakamla değil yazıyla yazılır kuralı TDK'da vardır: 'ikişer' yazılmalıdır. Ancak rakamla yazıma dair şıklarda kesme işareti kullanımı test ediliyorsa; 2'şer yanlıştır. Doğru olanı yazıyla 'ikişer'dir. Soruyu iptal etmeyelim, düzeltelim: 'Saat 3'te ilacını almalısın.' şeklinde soralım.)\n\nSoru: Saat ve sayılara gelen ekler kesme işaretiyle ayrılır. Hangi yazım DOĞRUDUR?",
+      "questionText": "Saat ve sayılara gelen ekler kesme işaretiyle ayrılır. Hangi yazım DOĞRUDUR?",
       "answers": [
         "İlacını saat 15.00'te almalısın.",
         "İlacını saat 15.00'de almalısın.",
         "İlacını saat 15.00 te almalısın.",
-        "İlacını saat 15.00da almalısın."
+        "İlacını saat 15.00 da almalısın."
       ],
       "correctAnswerIndex": 0,
       "category": "Sağlıklı Yaşıyorum",
