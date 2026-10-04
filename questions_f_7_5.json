@@ -1,0 +1,425 @@
+{
+  "unit": "Maddenin Doğasına Yolculuk",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "Maddenin, gözle görülemeyecek kadar küçük olan ve bütün kimyasal özelliklerini taşıyan en küçük yapı taşına ne ad verilir?",
+      "answers": [
+        "Hücre",
+        "Atom",
+        "Molekül",
+        "Element"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Tüm maddeler, atom adı verilen gözle görülemeyecek kadar küçük taneciklerin bir araya gelmesiyle oluşur."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Atomu oluşturan temel parçacıklar ve elektriksel yükleri hangi seçenekte doğru eşleştirilmiştir?",
+      "answers": [
+        "Proton (+) , Elektron (-) , Nötron (Yüksüz)",
+        "Proton (-) , Elektron (+) , Nötron (Yüksüz)",
+        "Proton (Yüksüz) , Elektron (-) , Nötron (+)",
+        "Proton (+) , Elektron (Yüksüz) , Nötron (-)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Atomun çekirdeğinde pozitif yüklü protonlar ve yüksüz nötronlar bulunur; çekirdeğin etrafında ise negatif yüklü elektronlar dolanır."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "Atomun kütlesinin neredeyse tamamını oluşturan, hacimce çok küçük olan merkezindeki kısma ne ad verilir?",
+      "answers": [
+        "Katman",
+        "Yörünge",
+        "Çekirdek",
+        "Elektron bulutu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Atomun merkezinde proton ve nötronların bulunduğu, atomun kütlesini belirleyen yoğun bölgeye çekirdek denir."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "Atomun çekirdeği etrafındaki yörüngelerde (katmanlarda) çok yüksek hızla dönen, kütlesi protona göre ihmal edilebilecek kadar küçük olan parçacık hangisidir?",
+      "answers": [
+        "Proton",
+        "Nötron",
+        "Çekirdek",
+        "Elektron"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Elektronlar, çekirdeğin etrafında sürekli ve çok hızlı bir şekilde hareket eden negatif yüklü, çok hafif parçacıklardır."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "Atom hakkında ilk bilimsel çalışmayı yapan, atomu 'içi dolu berk (bölünemez) küreler' olarak tanımlayan ve bilardo topuna benzeten bilim insanı kimdir?",
+      "answers": [
+        "Democritus",
+        "John Dalton",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "John Dalton, atom modelini bilimsel temellere dayandıran ilk kişidir ve atomu içi dolu, parçalanamaz berk küreler olarak tarif etmiştir."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "Atomu 'üzümlü keke' benzeterek, pozitif yüklü kek hamurunun içinde negatif yüklü elektronların (üzümlerin) homojen dağıldığını öne süren atom modeli kime aittir?",
+      "answers": [
+        "John Dalton",
+        "J.J. Thomson",
+        "Ernest Rutherford",
+        "Niels Bohr"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "J.J. Thomson, elektronların varlığını keşfettikten sonra atomun üzümlü bir keke benzediğini ileri sürmüştür."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "Yaptığı altın folyo deneyi ile atomun merkezinde çok küçük ve pozitif yüklü bir çekirdek bulunduğunu, elektronların ise çekirdek etrafında Güneş sistemindeki gezegenler gibi dolandığını keşfeden bilim insanı kimdir?",
+      "answers": [
+        "J.J. Thomson",
+        "Niels Bohr",
+        "Ernest Rutherford",
+        "Democritus"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Rutherford, altın levha deneyiyle çekirdeği keşfetmiş ve atomun büyük kısmının boşluktan oluştuğunu kanıtlayarak Güneş Sistemi modelini kurmuştur."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "Modern Atom Teorisi'ne göre, elektronların hızı o kadar yüksektir ki belirli bir anda nerede oldukları kesin olarak bilinemez. Bu nedenle elektronların bulunma ihtimalinin en yüksek olduğu bölgelere ne ad verilir?",
+      "answers": [
+        "Çekirdek",
+        "Elektron Bulutu",
+        "Kesin Yörünge",
+        "Gezegen Yolu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Modern teoriye göre elektronlar belirli çizgisel yörüngelerde değil, bulunma olasılıklarının yüksek olduğu ve 'Elektron bulutu' adı verilen alanlarda hareket ederler."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "İki veya daha fazla atomun birbirine bağlanarak (kimyasal bağ kurarak) oluşturduğu atom kümelerine ne ad verilir?",
+      "answers": [
+        "Proton",
+        "Molekül",
+        "Karışım",
+        "Çözelti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Bağımsız hareket edebilen, en az iki atomun birleşmesiyle oluşan yapı taşlarına molekül denir (Örn: H2O molekülü, O2 molekülü)."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "Tek cins atomlardan oluşan, fiziksel veya kimyasal yollarla kendinden daha basit maddelere ayrılamayan saf maddelere ne ad verilir?",
+      "answers": [
+        "Bileşik",
+        "Karışım",
+        "Çözelti",
+        "Element"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "İçinde sadece tek bir cins atom barındıran en basit saf maddelere element denir (Örn: Demir, Altın, Oksijen)."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "Bilim insanları elementleri uzun isimleriyle yazmak yerine tek veya iki harfli sembollerle ifade ederler. Elementlerin sembollerle gösterilmesinin temel amacı nedir?",
+      "answers": [
+        "Elementlerin isimlerini gizli tutmak",
+        "Dünya genelinde ortak bir bilim dili oluşturarak bilimsel iletişimi kolaylaştırmak",
+        "Elementlerin kütlelerini belirlemek",
+        "Sadece bilim insanlarının anlamasını sağlamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Semboller uluslararasıdır. 'Demir' Türkçede demir, İngilizcede iron olsa da sembolü her dilde 'Fe'dir. Bu da ortak bilim dili yaratır."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "Sodyum, Karbon ve Kalsiyum elementlerinin bilimsel sembolleri sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "S - C - K",
+        "Na - C - Ca",
+        "So - Ka - Ca",
+        "N - Cr - K"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Sodyumun sembolü Na (Natrium), Karbonun C (Carbon), Kalsiyumun ise Ca'dır."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "İki veya daha fazla farklı cins atomun belirli oranlarda kimyasal bağlarla birleşerek oluşturduğu yeni saf maddeye ne ad verilir?",
+      "answers": [
+        "Bileşik",
+        "Element",
+        "Karışım",
+        "Çözelti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Farklı element atomlarının kendi özelliklerini kaybederek belirli oranlarda birleşmesiyle oluşan saf maddelere bileşik denir."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Bileşikler için aşağıda verilen özelliklerden hangisi yanlıştır?",
+      "answers": [
+        "Saf maddelerdir.",
+        "Formüllerle gösterilirler.",
+        "Kendilerini oluşturan elementlerin özelliklerini taşımaya devam ederler.",
+        "Kimyasal yollarla bileşenlerine ayrılabilirler."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Bileşikler oluşurken elementler tamamen yeni bir maddeye dönüşür ve eski özelliklerini kaybederler (Örn: Yanıcı hidrojen ve yakıcı oksijen birleşip söndürücü suyu oluşturur)."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "Günlük hayatta kullandığımız 'Sofra Tuzu' ve 'Su' bileşiklerinin kimyasal formülleri sırasıyla hangileridir?",
+      "answers": [
+        "HCl - CO2",
+        "NaCl - H2O",
+        "NH3 - HNO3",
+        "NaOH - H2O"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Sofra tuzu Sodyum Klorür (NaCl), su ise iki hidrojen ve bir oksijenden oluşan (H2O) bileşiklerdir."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "En az iki farklı maddenin kimyasal özelliklerini kaybetmeden, rastgele oranlarda bir araya gelmesiyle oluşan maddelere ne ad verilir?",
+      "answers": [
+        "Element",
+        "Bileşik",
+        "Karışım",
+        "Saf Madde"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Karışımlar saf madde değildir. Bileşenleri kendi özelliklerini korur ve herhangi bir oran kuralı olmadan fiziksel olarak bir araya gelirler."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "Dışarıdan bakıldığında tek bir madde gibi görünen, her yerinde aynı özelliği gösteren karışımlara ne ad verilir?",
+      "answers": [
+        "Heterojen Karışım",
+        "Homojen Karışım (Çözelti)",
+        "Bileşik",
+        "Süspansiyon"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Tuzlu su, şekerli su gibi içinde maddenin tamamen çözündüğü ve her tarafı aynı görünen karışımlara homojen karışım veya çözelti denir."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "Aşağıda verilen madde örneklerinden hangisi 'Heterojen Karışım'a (her yerinde aynı özelliği göstermeyen) bir örnektir?",
+      "answers": [
+        "Tuzlu Su",
+        "Kolonya",
+        "Maden Suyu",
+        "Zeytinyağlı Su"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Zeytinyağı suda çözünmez ve suyun üzerinde birikir. Dışarıdan bakıldığında iki farklı madde net şekilde görüldüğü için heterojen karışımdır."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Bir çözeltide çözünme hızını (şekerin çayda daha hızlı erimesini) artırmak için aşağıdaki yöntemlerden hangisi işe yaramaz?",
+      "answers": [
+        "Çözeltiyi ısıtmak (Sıcaklığı artırmak)",
+        "Çözücü miktarını (suyu) azaltmak",
+        "Çözeltiyi kaşıkla karıştırmak",
+        "Çözünen maddeyi küçültmek (Temas yüzeyini artırmak)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Çözünen maddeyi küçültmek (pudra şekeri yapmak), sıcaklığı artırmak ve karıştırmak çözünme hızını artırır. Suyu azaltmak ise çözünmeyi zorlaştırır."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Çayımıza attığımız toz şekerin, küp şekere göre çok daha hızlı çözünmesinin fiziksel nedeni nedir?",
+      "answers": [
+        "Toz şekerin daha tatlı olması",
+        "Toz şekerin kütlesinin daha az olması",
+        "Toz şekerin temas yüzeyinin daha geniş olması nedeniyle su moleküllerinin şekeri daha hızlı sarması",
+        "Toz şekerin kimyasal formülünün farklı olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Madde ne kadar ufalanırsa (toz haline getirilirse) sıvı ile temas eden yüzeyi o kadar artar, bu da çözünme hızını doğrudan artırır."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "Birbirine karışmayan ve yoğunlukları farklı olan sıvı-sıvı heterojen karışımları (örneğin zeytinyağı-su karışımını) birbirinden ayırmak için hangi laboratuvar aracı ve yöntemi kullanılır?",
+      "answers": [
+        "Mıknatısla ayırma",
+        "Ayırma hunisi ile ayırma",
+        "Buharlaştırma",
+        "Ayrımsal damıtma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Ayırma hunisine konulan zeytinyağı-su karışımında, yoğunluğu büyük olan su altta kalır. Musluk açılarak su tamamen boşaltılır ve zeytinyağı içeride kalarak ayrılmış olur."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "Tuzlu sudan (deniz suyundan) sadece tuzu elde etmek isteyen bir bilim insanının kullanması gereken ayırma yöntemi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Süzme",
+        "Mıknatısla ayırma",
+        "Buharlaştırma",
+        "Yüzdürme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Tuz suda homojen çözünmüştür, süzülemez. Suyu ısıtıp buharlaştırdığımızda geriye kabın dibinde katı tuz kristalleri kalır."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Kolonya, su ve alkolün homojen olarak karıştığı bir sıvıdır. Bu iki sıvıyı birbirinden ayırmak için 'Ayrımsal Damıtma' yöntemi kullanılır. Bu yöntem sıvıların hangi özelliklerinin farklı olmasına dayanır?",
+      "answers": [
+        "Renklerinin farklı olması",
+        "Yoğunluklarının (özkütlelerinin) farklı olması",
+        "Kaynama noktalarının farklı olması",
+        "Donma noktalarının farklı olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Ayrımsal damıtmada karışım ısıtılır. Kaynama noktası düşük olan sıvı (alkol 78°C) önce buharlaşıp diğer kaba geçer, suyu (100°C) geride bırakır."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "Kum, talaş ve demir tozundan oluşan bir karışımı ayırmak için sırasıyla hangi ayırma yöntemleri uygulanmalıdır?",
+      "answers": [
+        "Mıknatısla ayırma -> Suya atıp yüzdürme -> Süzme",
+        "Buharlaştırma -> Damıtma -> Süzme",
+        "Suya atma -> Süzme -> Mıknatısla ayırma",
+        "Mıknatısla ayırma -> Buharlaştırma -> Damıtma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Önce mıknatısla demir tozu çekilir. Kalan kum-talaş suya atılır. Talaş yoğunluğu az olduğu için yüzer (yüzdürme ile alınır), kum ise dibe çöker ve su süzülerek kum ayrılır."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "Katı ve sıvı maddelerden oluşan heterojen karışımları (örneğin makarna-su, kum-su) birbirinden ayırmak için en pratik yöntem hangisidir?",
+      "answers": [
+        "Damıtma",
+        "Mıknatısla ayırma",
+        "Süzme",
+        "Buharlaştırma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Süzgeç kullanılarak katı parçacıkların sıvıdan ayrılması işlemine süzme denir. Makarna süzmek veya çayı süzmek buna örnektir."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Evlerde kullandığımız atık kızartmalık yağların lavaboya veya çöpe dökülmesi neden çevre için büyük bir tehdit oluşturur?",
+      "answers": [
+        "Kötü koku yaydığı için",
+        "Sadece lavabo borularını tıkadığı için",
+        "Kanalizasyonla yeraltı sularına ve denizlere karışarak milyonlarca litre temiz suyu kirlettiği ve sudaki canlılara zarar verdiği için",
+        "Hava kirliliği yaptığı için"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "1 litre atık yağ, 1 milyon litre içme suyunu kirletebilir. Yağ, su yüzeyini kaplayarak sudaki oksijen alışverişini durdurur ve deniz yaşamını tehdit eder."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "Atıkların (kağıt, plastik, cam, metal) çeşitli fiziksel ve kimyasal işlemlerden geçirilerek yeniden hammaddeye dönüştürülüp üretime katılmasına ne ad verilir?",
+      "answers": [
+        "Geri dönüşüm",
+        "Yeniden kullanım",
+        "Çöpe atma",
+        "Kompostlama"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Kullanılmış ambalajların veya malzemelerin parçalanıp eritilerek yeni bir ürüne hammadde yapılmasına geri dönüşüm denir."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Geri dönüşümün doğaya ve ekonomiye sağladığı en büyük fayda aşağıdakilerden hangisidir?",
+      "answers": [
+        "Çöp miktarını artırması",
+        "Doğal kaynakların (ağaç, petrol vb.) tükenmesini yavaşlatması, enerji tasarrufu sağlaması ve çevre kirliliğini önlemesi",
+        "İnsanları daha çok tüketmeye teşvik etmesi",
+        "Sadece plastik endüstrisini büyütmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Kağıt geri dönüşümü ağaç kesimini, plastik geri dönüşümü petrol kullanımını, metal geri dönüşümü ise maden çıkarımını azaltarak doğayı ve enerjiyi korur."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "Tüm atıklar geri dönüştürülemez. Aşağıda verilen atıklardan hangisi geri dönüşüm kutusuna atılması uygun olmayan (geri dönüştürülemeyen) bir atıktır?",
+      "answers": [
+        "Alüminyum içecek kutusu",
+        "Temiz cam şişe",
+        "Okunmuş eski gazeteler",
+        "Kullanılmış ve yağlanmış pizza kutusu"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Kağıt ürünleri geri dönüştürülebilir ancak yemek artığı, yağ veya kimyasal bulaşmış kağıtlar/kutular dönüşüm işlemine zarar verdiği için geri dönüştürülemez."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "Hastanelerde kullanılan kanlı sargı bezleri, kullanılmış şırıngalar ve son kullanma tarihi geçmiş ilaçların çöpe atılması yerine sarı veya kırmızı özel kutularda toplanması gerekir. Bu atık türüne ne ad verilir?",
+      "answers": [
+        "Evsel Atık",
+        "Tıbbi Atık",
+        "Geri Dönüştürülebilir Atık",
+        "Organik Atık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğasına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Hastalık bulaştırma riski taşıyan hastane ve tıbbi işlem atıklarına tıbbi atık denir; doğaya zarar vermemeleri için özel yüksek ısılı fırınlarda imha edilirler."
+    }
+  ]
+}

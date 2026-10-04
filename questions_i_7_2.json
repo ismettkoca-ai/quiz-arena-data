@@ -1,0 +1,425 @@
+{
+  "unit": "Sports",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "If you want to play tennis, you need a ball, a net, and a ________.",
+      "answers": [
+        "racket",
+        "helmet",
+        "glove",
+        "bat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Tenis oynamak için top, file ve bir rakete (racket) ihtiyaç vardır."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Which of the following is an 'indoor' sport?",
+      "answers": [
+        "Table tennis",
+        "Skiing",
+        "Trekking",
+        "Surfing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Masa tenisi kapalı alanda (indoor) oynanan bir spordur. Diğerleri açık havada yapılır."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "To protect your head while cycling or riding a horse, you should always wear a ________.",
+      "answers": [
+        "helmet",
+        "knee pad",
+        "trainer",
+        "swimsuit"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Bisiklet veya at binerken başı korumak için kask (helmet) takılmalıdır."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "We usually ________ yoga and pilates in our free time to relax our bodies.",
+      "answers": [
+        "do",
+        "play",
+        "go",
+        "make"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "İngilizcede topla oynanmayan, bireysel salon sporları için 'do' fiili (do yoga, do karate) kullanılır."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "Jack loves the sea and the wind, so he prefers ________ in summer.",
+      "answers": [
+        "surfing",
+        "hiking",
+        "skating",
+        "bowling"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Denizi ve rüzgarı seven biri yaz aylarında sörf yapmayı (surfing) tercih eder."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "In football, if the score is 2-2 at the end of the match, it is a ________.",
+      "answers": [
+        "draw",
+        "win",
+        "loss",
+        "medal"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Bir maçta iki takımın da puanı / skoru eşitse maç berabere (draw) bitmiş demektir."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "Tom: How often do you ________ swimming?\nSue: Twice a week.",
+      "answers": [
+        "go",
+        "play",
+        "do",
+        "take"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Sonu '-ing' ile biten doğa ve hareket sporlarında (swimming, running, skiing) 'go' fiili kullanılır."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "A football match is played on a ________, but tennis is played on a ________.",
+      "answers": [
+        "pitch / court",
+        "court / pool",
+        "ring / pitch",
+        "pool / ring"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 3,
+      "explanation": "Futbol çim sahada (pitch), tenis ise tenis kortunda (court) oynanır."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "To succeed in a marathon, you need to ________ every day and eat healthy food.",
+      "answers": [
+        "train",
+        "sleep",
+        "draw",
+        "hit"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Bir maratonda başarılı olmak için her gün antrenman yapmak (train) gerekir."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "İngilizcede 'Spectator' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Seyirci / İzleyici",
+        "Oyuncu",
+        "Hakem",
+        "Antrenör"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Maçları stadyumda izleyen kişilere seyirci yani 'spectator' denir."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "Which word means 'to get the most points and finish first in a game or competition'?",
+      "answers": [
+        "Win",
+        "Lose",
+        "Beat",
+        "Draw"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Bir yarışmada en yüksek puanı alıp birinci olmak kazanmak, yani 'win' fiilidir."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Our school's basketball team ________ the guest team 80 to 65 yesterday.",
+      "answers": [
+        "beat",
+        "won",
+        "lost",
+        "drew"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 3,
+      "explanation": "Bir takımı veya rakibi yenmek anlamında 'beat' fiili kullanılır. (Maç kazanılırsa 'win', rakip yenilirse 'beat' kullanılır.)"
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "In basketball, players must ________ the ball to their teammates to score points.",
+      "answers": [
+        "pass",
+        "kick",
+        "hit",
+        "swim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Basketbolda oyuncular sayı yapmak için topu takım arkadaşlarına pas atmalıdır (pass)."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Which of the following is a 'team sport'?",
+      "answers": [
+        "Volleyball",
+        "Wrestling",
+        "Archery",
+        "Cycling"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Voleybol bir takım sporudur (team sport). Güreş, okçuluk ve bisiklet bireyseldir."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "If you do ________, you shoot arrows at a target with a bow.",
+      "answers": [
+        "archery",
+        "fencing",
+        "wrestling",
+        "weightlifting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Ok ve yay (bow and arrow) kullanılarak hedefe atış yapılan spor okçuluktur (archery)."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "He had a bad ________ on his leg during the match, so the doctor took him to the hospital.",
+      "answers": [
+        "injury",
+        "medal",
+        "success",
+        "equipment"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Maç sırasında bacağında oluşan kötü durum bir sakatlıktır (injury)."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "You need ice, special boots, and a warm coat to go ________.",
+      "answers": [
+        "ice skating",
+        "scuba diving",
+        "roller skating",
+        "cycling"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Buz, özel botlar ve sıcak tutan bir mont buz pateni (ice skating) için gereklidir."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "A ________ is a person who trains the athletes and teaches them how to play better.",
+      "answers": [
+        "coach",
+        "referee",
+        "spectator",
+        "player"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Sporcuları eğiten, çalıştıran ve taktik veren kişiye antrenör (coach) denir."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "What does a 'referee' do in a sports match?",
+      "answers": [
+        "He or she controls the game and makes sure players follow the rules.",
+        "He or she shouts and supports the team from the seats.",
+        "He or she scores the goals.",
+        "He or she gives medical help to injured players."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Hakem (referee), oyunu yönetir ve kurallara uyulup uyulmadığını kontrol eder."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "İngilizcede 'Equipment' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Ekipman / Malzeme",
+        "Skor / Puan",
+        "Sakatlık",
+        "Seyirci"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "'Equipment' bir sporu yapmak için gereken malzeme veya ekipman anlamına gelir."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "Which action is NOT allowed in football (soccer) for a regular player?",
+      "answers": [
+        "Touching the ball with hands",
+        "Kicking the ball",
+        "Running fast",
+        "Passing the ball to a teammate"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Futbolda kaleci hariç normal oyuncuların topa elle dokunması (touching the ball with hands) yasaktır."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "My sister is very tall and she can jump very high. I think she should play ________.",
+      "answers": [
+        "volleyball",
+        "chess",
+        "bowling",
+        "car racing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Uzun boylu olan ve yükseğe zıplayabilen biri için en uygun spor voleyboldur."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "At the end of the Olympics, the successful athletes stand on a platform and receive their ________.",
+      "answers": [
+        "medals",
+        "rackets",
+        "helmets",
+        "injuries"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Olimpiyatların sonunda başarılı olan sporcular platforma çıkarak madalyalarını (medals) alırlar."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "Which sport is related to 'hitting a small ball into holes in the ground with a special club'?",
+      "answers": [
+        "Golf",
+        "Tennis",
+        "Baseball",
+        "Hockey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Küçük bir topu özel bir sopayla yerdeki deliklere sokmaya çalışılan spor golftür."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Leo: How ________ do you exercise at the gym?\nMax: Three times a week.",
+      "answers": [
+        "often",
+        "much",
+        "many",
+        "long"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Cevap olarak sıklık (haftada üç kez) belirtildiği için soru 'How often' (Ne sıklıkla) olmalıdır."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Weightlifting is an ________ sport. You don't need a team to lift the weights.",
+      "answers": [
+        "individual",
+        "team",
+        "water",
+        "winter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Halter (weightlifting) bir takıma ihtiyaç duyulmadan yapılan bireysel (individual) bir spordur."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "A swimmer must wear ________ to protect their eyes from the water in the pool.",
+      "answers": [
+        "goggles",
+        "gloves",
+        "knee pads",
+        "rollerblades"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Yüzücülerin gözlerini sudan korumak için taktıkları deniz gözlüğüne 'goggles' denir."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "I always ________ my muscles before I start running to avoid any injuries.",
+      "answers": [
+        "stretch",
+        "break",
+        "hit",
+        "score"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 3,
+      "explanation": "Koşuya başlamadan önce sakatlanmamak için kasları esnetmek / germek (stretch) gerekir."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "In baseball, the player uses a wooden ________ to hit the ball.",
+      "answers": [
+        "bat",
+        "racket",
+        "net",
+        "glove"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 2,
+      "explanation": "Beyzbolda topa vurmak için kullanılan tahta sopaya 'bat' denir."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Which sentence means 'Maçı 2-1 kaybettik.' in English?",
+      "answers": [
+        "We lost the match 2-1.",
+        "We won the match 2-1.",
+        "We drew the match 2-1.",
+        "We beat the match 2-1."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sports",
+      "difficulty": 1,
+      "explanation": "Kaybetmek fiilinin geçmiş zamanı 'lost' kelimesidir. Doğru çeviri 'We lost the match 2-1' şeklindedir."
+    }
+  ]
+}

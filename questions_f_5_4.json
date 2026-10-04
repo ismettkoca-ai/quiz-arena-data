@@ -1,0 +1,425 @@
+{
+  "unit": "Işığın Dünyası",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Çevresini aydınlatarak etrafındaki cisimleri görmemizi sağlayan, kendi ışığını üreten cisimlere genel olarak ne ad verilir?",
+      "answers": [
+        "Yansıtıcı yüzey",
+        "Opak madde",
+        "Saydam madde",
+        "Işık kaynağı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Güneş, mum, ampul veya el feneri gibi kendi ışığını üreterek etrafa yayabilen maddelere 'Işık Kaynağı' denir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "Aşağıdaki araçlardan hangisi, insanlar tarafından yapılmayan, doğada kendiliğinden ışık yayabilen bir 'Doğal Işık Kaynağı'dır?",
+      "answers": [
+        "Sokak lambası",
+        "Ateş böceği",
+        "Gaz lambası",
+        "Mum"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Mum, fener ve lamba insanlar tarafından üretilmiş yapay ışık kaynaklarıdır. Güneş, şimşek, ateş böceği ise doğaldır."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Araba farlarından, el fenerinden veya bulutların arasından sızan Güneş ışınlarına baktığımızda ışığın etrafa dalgalar veya zikzaklar çizerek gitmediğini görürüz. Bu durum bize ışığın hangi özelliğini kanıtlar?",
+      "answers": [
+        "Işığın kırıldığını",
+        "Işığın her yöne 'doğrusal' (düz bir çizgi halinde) yayıldığını",
+        "Işığın çok yavaş olduğunu",
+        "Işığın sadece gündüz yayıldığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Işık, önünde bir engel (opak cisim) olmadığı sürece her yöne ok gibi dümdüz (doğrusal) olarak yayılır."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Bir ışık kaynağından çıkan ışık ışınları pürüzsüz ve çok parlak bir yüzeye (örneğin ayna veya durgun su) çarptığında nasıl bir yansıma gerçekleşir?",
+      "answers": [
+        "Dağınık yansıma",
+        "Karanlık yansıma",
+        "Düzgün yansıma",
+        "Kırılmalı yansıma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Işık düz ve parlak (cilalı) bir yüzeye çarptığında birbirine paralel şekilde geri döner. Buna düzgün yansıma denir ve net görüntü oluşur."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "Işık, buruşuk alüminyum folyo, toprak zemin veya dalgalı su gibi pürüzlü yüzeylere çarptığında ışınlar farklı yönlere saçılarak geri döner. Bu olaya ne ad verilir?",
+      "answers": [
+        "Düzgün Yansıma",
+        "Tam Yansıma",
+        "Dağınık Yansıma",
+        "Kırılma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Pürüzlü (girintili çıkıntılı) yüzeylere çarpan ışınlar her biri farklı bir açıya doğru saçılarak yansır. Bu yüzden bu yüzeylerde net bir görüntü (ayna gibi) göremeyiz."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "Üzerine düşen ışığın tamamını (veya büyük bir kısmını) arka tarafa geçiren ve arkasındaki cisimlerin net görünmesini sağlayan maddelere ne denir?",
+      "answers": [
+        "Opak madde",
+        "Yarı saydam madde",
+        "Saydam madde",
+        "Yansıtıcı madde"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Pencere camı, şeffaf naylon, su ve hava; ışığın rahatça içinden geçip gidebildiği (saydam) maddelerdir."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "Tahta kapı, beton duvar veya metal levha gibi üzerine gelen ışığı hiçbir şekilde arka tarafa geçirmeyen maddelere ne ad verilir?",
+      "answers": [
+        "Saydam madde",
+        "Opak (Saydam olmayan) madde",
+        "Yarı saydam madde",
+        "Ayna"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "İçinden ışık geçemediği için arkasındaki cisimleri görmemizin imkansız olduğu sert maddelere opak maddeler denir."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "Buzlu cam, yağlı kağıt ve ince tül perde gibi maddeler arkalarındaki ışığı bir miktar geçirir ancak arkasındaki cismi bulanık gösterir. Bu maddelere ne ad verilir?",
+      "answers": [
+        "Saydam madde",
+        "Yarı saydam madde",
+        "Opak madde",
+        "Işık kaynağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Işığın sadece bir kısmını geçirdiği için net görüntü vermeyen (buzlu veya sisli gibi gösteren) maddelere yarı saydam denir."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "Işık kaynağının önüne ışığı geçirmeyen (opak) bir cisim konulduğunda, cismin arkasında ışık almayan karanlık bir bölge oluşur. Bu karanlık bölgeye ne ad verilir?",
+      "answers": [
+        "Gölge",
+        "Yansıma",
+        "Saydam bölge",
+        "Odak noktası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Işık doğrusal yayıldığı için opak cismin etrafından dolanamaz. Cismin arkasına geçemediği bölge karanlık kalır ve buna tam gölge denir."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "Güneşli bir günde dışarıda yürüdüğümüzde yerdeki gölgemiz her zaman hangi yöne doğru oluşur?",
+      "answers": [
+        "Güneş ile aynı yöne doğru",
+        "Güneş'in olduğu (ışığın geldiği) yönün tam zıt (ters) yönüne doğru",
+        "Sürekli kendi etrafında döner",
+        "Güneş tam tepedeyken gölge çok uzar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Işık doğrusal yayıldığı için gölge her zaman ışık kaynağının (Güneş veya el feneri) geldiği yönün arka tarafında (zıddında) oluşur."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "Bir deneyde duvara el feneriyle ışık tutulmuş ve araya bir basketbol topu konarak duvarda gölgesi oluşturulmuştur. Duvardaki gölgenin 'büyümesi' (daha iri olması) için aşağıdakilerden hangisi yapılmalıdır?",
+      "answers": [
+        "Topu duvara yaklaştırmak",
+        "Feneri toptan çok uzağa çekmek",
+        "Feneri (ışık kaynağını) topa yaklaştırmak",
+        "Topu saydam bir maddeyle değiştirmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Işık kaynağı opak cisme yaklaştıkça cisim ışığın önünü daha fazla kapatır (daha geniş açı kaplar) ve duvara düşen gölge devasa boyutlara ulaşır."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "Ay, kendi ışığını üretmediği halde geceleri nasıl oluyor da gökyüzünde parlak bir şekilde parlıyor?",
+      "answers": [
+        "Ay'ın içinde devasa ateşler vardır.",
+        "Yıldızlardan enerji depolar.",
+        "Güneş'ten gelen ışık ışınlarını Dünya'ya yansıttığı (Yansıtıcı Yüzey olduğu) için parlar.",
+        "Ay bir yapay ışık kaynağıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Ay, gezegenler ve aynalar ışık kaynağı değildir. Bunlar sadece aydınlatılmış (ışığı yansıtan) cisimlerdir."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "Düz aynaya bakan bir kişi sağ elini kaldırdığında, aynadaki görüntüsünün sol elini kaldırdığını görür. Aynada oluşan görüntüyle ilgili aşağıdakilerden hangisi 'yanlıştır'?",
+      "answers": [
+        "Görüntü cisimle aynı boydadır.",
+        "Görüntü düzdür (ters dönmemiştir).",
+        "Görüntü cisme göre simetriktir (sağ-sol terstir).",
+        "Aynaya yaklaştıkça görüntü küçülür."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Düz aynada sen aynaya 1 metre yaklaşırsan, görüntün de sana 1 metre yaklaşır. Boyut küçülmez, daima cisimle aynı kalır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Sokakta park halinde olan bir arabanın yanından geçen kedi, arabanın parlak boyasında ve camında kendini net bir şekilde görebilmektedir. Bu olay hangi kavramla açıklanır?",
+      "answers": [
+        "Dağınık yansıma",
+        "Işığın kırılması",
+        "Düzgün yansıma",
+        "Tam gölge"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Arabanın kaportası pürüzsüz ve cilalı olduğu için ayna görevi görür ve ışığı paralel olarak (düzgün) yansıtarak net görüntü verir."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Yaz aylarında açık renkli kıyafetler giymemiz, kışın ise siyah ve koyu renkli kıyafetler tercih etmemiz ışığın hangi özelliği ile ilgilidir?",
+      "answers": [
+        "Siyah rengin ışığı çok iyi yansıtması",
+        "Koyu renklerin ışığı emmesi (soğurması) ve sıcaklık vermesi, açık renklerin ise ışığı yansıtarak serin tutması",
+        "Açık renklerin gece daha iyi görünmesi",
+        "Kıyafetlerin saydam olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Işığı emme olayına 'soğurma' denir. Siyah renk ışığı tamamen emerek ısıya dönüştürür (kışın sıcak tutar), beyaz ise ışığı tamamen geri yansıtır."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "Denizaltılarda suyun altındayken su yüzeyindeki (dışarıdaki) gemileri görebilmek için geliştirilen ve içinde birbirine paralel iki adet düz ayna barındıran alete ne ad verilir?",
+      "answers": [
+        "Mikroskop",
+        "Teleskop",
+        "Periskop",
+        "Dinamometre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Periskop, ışığın yansıma kuralından faydalanılarak tasarlanmıştır. Dışarıdan gelen ışık birinci aynadan ikinci aynaya yansıyarak gözlemcinin gözüne ulaşır."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Gün içinde Güneş'in gökyüzündeki hareketi nedeniyle gölge boyumuz sürekli değişir. Kendi gölgemizin en 'kısa' olduğu zaman dilimi ne zamandır?",
+      "answers": [
+        "Güneşin yeni doğduğu sabah saatlerinde",
+        "Güneşin tam tepemizde olduğu öğle saatlerinde",
+        "Güneşin batmaya yaklaştığı akşamüstü",
+        "Gece ay çıktığında"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Işık kaynağı cismin tam tepesindeyken (dik açıyla gelirken) gölge cismin hemen altına düşer ve en kısa halini alır. Eğik açılarda ise (sabah/akşam) gölge uzar."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "Düz bir borunun içinden bakan Ali mum ışığını görebilirken, boruyu ortasından 'V' şeklinde büktüğünde mumu görememiştir. Bu deney Ali'ye ışıkla ilgili hangi kuralı kanıtlar?",
+      "answers": [
+        "Işığın sadece camdan geçtiğini",
+        "Işığın doğrusal (düz çizgi halinde) yayıldığını, boru bükülünce ışığın dönemediğini",
+        "Işığın borunun içinde yandığını",
+        "Işığın çok hızlı yayıldığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Su hortumundan geçen su kıvrımları dönebilir ancak ışık dönemez. Boru yamulduğu an düz ilerleyen ışık borunun duvarına çarpar ve göze ulaşamaz."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "Öğretmen, sınıfın penceresindeki camları siyah bir kartonla kapladığında içeri hiç ışık girmemiştir. Siyah karton ışık geçirgenliğine göre hangi sınıfa girer?",
+      "answers": [
+        "Saydam madde",
+        "Yarı saydam madde",
+        "Opak madde",
+        "Parlak madde"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Karton, tahta veya taş gibi ışığın arka tarafa geçmesine engel olan, bu sayede karanlık (gölge) oluşturan maddelere Opak madde denir."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "Güneş ve Ay tutulmalarının meydana gelebilmesi için Dünya, Güneş ve Ay'ın aynı hizada dizilmesi gerekir. Tutulmaların bu şekilde oluşabilmesi ışığın hangi özelliğinin sonucudur?",
+      "answers": [
+        "Işığın doğrusal yayılması (Gölge oluşumu)",
+        "Işığın yansıması",
+        "Işığın renk değiştirmesi",
+        "Işığın yavaş olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Işık düz bir çizgi halinde (doğrusal) ilerlediği için ortadaki gezegen (örneğin Ay) devasa bir opak cisim görevi görür ve arkaya ışık geçirmeyerek uzayda tam gölge (tutulma) oluşturur."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Maddelerin kalınlığı (derinliği) arttıkça ışık geçirgenlik özellikleri değişebilir. Aşağıdakilerden hangisi bu duruma verilebilecek doğru bir örnektir?",
+      "answers": [
+        "Demirin inceldikçe aynaya dönüşmesi",
+        "Derin denizlerde dibe inildikçe ışığın geçememesi (Saydam olan suyun kalınlaştıkça opaka dönüşmesi)",
+        "Duvarın boyandıkça saydamlaşması",
+        "Tahtanın inceldikçe ışık saçması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Saydam bir poşeti 100 kere katlarsan ışığı geçirmez (opaklaşır). Aynı şekilde sığ sular saydamken, okyanusların dibi zifiri karanlıktır (opaklaşır)."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "Ambulansların ön kısmında 'AMBULANS' yazısının ters bir şekilde (aynadaki görüntüsü gibi simetrik) yazılmasının amacı nedir?",
+      "answers": [
+        "Estetik görünmesi için",
+        "Önde giden şoförlerin dikiz aynasından (düz aynadan) baktıklarında yazıyı düz (okunabilir) olarak görmeleri için",
+        "Yazının yağmurda silinmemesi için",
+        "Hastaların yazıyı rahat okuması için"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Düz ayna cismin görüntüsünü sağ-sol ters (simetrik) olarak yansıtır. Kaputtaki yazı ters yazılır ki aynaya çarptığında tekrar ters dönerek düz okunabilsin."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Işığın yansıması bir kurala bağlıdır. Gelen ışının yüzeye (aynaya) çarpma açısı (gelme açısı) ile yüzeyden yansıyarak giden ışının yansıma açısı arasında nasıl bir ilişki vardır?",
+      "answers": [
+        "Gelme açısı yansıma açısından daha büyüktür.",
+        "Yansıma açısı gelme açısından daha büyüktür.",
+        "Gelme açısı her zaman yansıma açısına eşittir.",
+        "Aralarında hiçbir ilişki yoktur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Yansıma Kanunu'nun en temel kuralıdır: Işık aynaya hangi açıyla gelip çarpıyorsa, aynadan da milimetrik olarak aynı açıyla yansıyarak uzaklaşır."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Saydam cama sahip bir odanın pencerelerine tül perde takılmasının ışık geçirgenliği açısından temel amacı nedir?",
+      "answers": [
+        "İçeriye ışık girmesini tamamen engellemek (Opaklaştırmak)",
+        "Pencereyi aynaya çevirmek",
+        "Dışarıdan gelen çok şiddetli ışığı yumuşatarak içeriye kısmen (Yarı Saydam olarak) almak",
+        "Odayı daha karanlık yapmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Cam tam saydamdır, dışarının görüntüsünü ve ışığı direkt alır. Tül perde ise yarı saydamdır; güneşi kesmeden hafifletir ve dışarıdan içerinin net görünmesini engeller."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Duvar ile el feneri arasındaki uzaklık sabitken, araya konulan bir vazonun gölgesini 'küçültmek' isteyen bir öğrenci ne yapmalıdır?",
+      "answers": [
+        "Vazoyu fenerden uzaklaştırıp duvara yaklaştırmalıdır.",
+        "Feneri vazoya yaklaştırmalıdır.",
+        "Vazoyu büyütmelidir.",
+        "Işığı kapatmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Opak cisim (vazo) ışık kaynağından (fenerden) ne kadar uzaklaşırsa (veya perdeye ne kadar yaklaşırsa) o kadar az ışık keser ve gölgesi o kadar küçük olur."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Aşağıdaki yüzeylerden hangisine tutulan el fenerinin ışığı 'Düzgün Yansıma' yaparak net bir ışık hüzmesi oluşturur?",
+      "answers": [
+        "Ağaç kabuğu",
+        "Halı yüzeyi",
+        "Sakin ve dalgasız bir göl yüzeyi",
+        "Toprak zemin"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 1,
+      "explanation": "Düzgün yansıma sadece ayna, cilalı ahşap veya dalgasız su yüzeyi gibi pürüzsüz yüzeylerde gerçekleşir."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Evlerimizde kullandığımız aynaların arka yüzeyi sırlanarak (gümüş veya alüminyumla kaplanarak) ışığı geçirmesi engellenir. Aynaların arka yüzeyinin kaplanmasıyla ayna hangi madde türüne dönüşmüş olur?",
+      "answers": [
+        "Saydam",
+        "Yarı Saydam",
+        "Opak (Yansıtıcı)",
+        "Doğal ışık kaynağı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Ayna aslında bir camdır (saydam). Ancak arkasına sürülen o koyu sır tabakası sayesinde ışığı arkaya geçiremez (opaklaşır) ve tüm ışığı geri fırlatarak (yansıtarak) görüntü verir."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "Bir ışık kaynağının önüne birbirine paralel olarak dizilmiş 3 adet levha konuluyor. 1. levha cam, 2. levha yağlı kağıt, 3. levha ise tahtadır. Işık hangi levhadan 'hiç' geçemez?",
+      "answers": [
+        "1. Levha (Cam)",
+        "2. Levha (Yağlı Kağıt)",
+        "3. Levha (Tahta)",
+        "Hepsinden geçer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Cam saydamdır (geçirir), yağlı kağıt yarı saydamdır (biraz geçirir), tahta ise opak (saydam olmayan) maddedir ve ışığı kesinlikle engeller."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Ay, gökyüzünde parlak görünmesine rağmen neden bir ışık kaynağı olarak kabul edilmez?",
+      "answers": [
+        "Çünkü sadece geceleri görünür.",
+        "Çünkü kendi ışığını (enerjisini) üretemez, sadece Güneş'ten gelen ışığı bir ayna gibi yansıtır.",
+        "Çünkü çok küçüktür.",
+        "Çünkü üzerinde canlı yaşamaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 2,
+      "explanation": "Bir cisme ışık kaynağı demek için (Güneş, mum gibi) yanarak veya enerji üreterek 'kendi' ışığını doğurması gerekir. Ay'ın pili (kendi ışığı) yoktur."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "Bir tiyatro oyununda sahnede duran oyuncunun arkasındaki perdeye çok büyük bir gölgesi düşürülmek isteniyor. Yönetmen bu efekti (büyük gölgeyi) elde etmek için spot ışığını (feneri) nereye koymalıdır?",
+      "answers": [
+        "Oyuncudan çok uzağa",
+        "Oyuncunun tam ayaklarının dibine (çok yakınına)",
+        "Oyuncunun arkasına",
+        "Tavana (tam tepeye)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Dünyası",
+      "difficulty": 3,
+      "explanation": "Gölgenin devasa olması için opak cismin (oyuncunun) ışık kaynağına (fenere) çok yakın durması gerekir ki, ışığın perdedeki açısını tamamen kapatsın."
+    }
+  ]
+}

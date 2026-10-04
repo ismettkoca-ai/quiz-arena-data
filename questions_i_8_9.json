@@ -1,0 +1,425 @@
+{
+  "unit": "Science",
+  "questions": [
+    {
+      "id": "Q_8_9_001",
+      "questionText": "A ............... is a person who studies science and does experiments in a laboratory.",
+      "answers": [
+        "tourist",
+        "scientist",
+        "waiter",
+        "mechanic"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Laboratuvarda deneyler yapan ve bilim üzerine çalışan kişiye 'scientist' (bilim insanı) denir."
+    },
+    {
+      "id": "Q_8_9_002",
+      "questionText": "Alexander Graham Bell ............... the first telephone in 1876.",
+      "answers": [
+        "discovered",
+        "explored",
+        "invented",
+        "deleted"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Telefon daha önce var olmayan bir şeydi ve sıfırdan yapıldı. Var olmayan bir şeyi icat etmek 'invent' fiiliyle ifade edilir."
+    },
+    {
+      "id": "Q_8_9_003",
+      "questionText": "Isaac Newton ............... gravity when an apple fell on his head.",
+      "answers": [
+        "invented",
+        "discovered",
+        "designed",
+        "painted"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Yerçekimi (gravity) zaten var olan bir şeydi, Newton onu buldu/keşfetti. Zaten var olan bir şeyi keşfetmek 'discover' kelimesidir."
+    },
+    {
+      "id": "Q_8_9_004",
+      "questionText": "To examine small things like cells or bacteria, scientists use a ...............",
+      "answers": [
+        "telescope",
+        "compass",
+        "microscope",
+        "test tube"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Hücre ve bakteri gibi çok küçük şeyleri (small things) incelemek için mikroskop (microscope) kullanılır."
+    },
+    {
+      "id": "Q_8_9_005",
+      "questionText": "A: Where are the students right now?\nB: They are in the ............... doing some chemistry experiments.",
+      "answers": [
+        "library",
+        "laboratory",
+        "gym",
+        "canteen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Kimya deneylerinin (chemistry experiments) yapıldığı yer laboratuvardır (laboratory / lab)."
+    },
+    {
+      "id": "Q_8_9_006",
+      "questionText": "Scientists are trying to find a ............... for cancer to save people's lives.",
+      "answers": [
+        "disease",
+        "patient",
+        "cure",
+        "reason"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "İnsanların hayatını kurtarmak için kanser gibi hastalıklara bir tedavi/çare (cure) bulmaya çalışırlar."
+    },
+    {
+      "id": "Q_8_9_007",
+      "questionText": "Which matching is WRONG?",
+      "answers": [
+        "Do - an experiment",
+        "Operate - a machine",
+        "Explore - the space",
+        "Invent - a new planet"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Gezegenler (planet) icat edilmez (invent), keşfedilir (discover). 'Invent a new planet' eşleştirmesi yanlıştır."
+    },
+    {
+      "id": "Q_8_9_008",
+      "questionText": "My uncle is a genius. He has completely changed the world with his ...............",
+      "answers": [
+        "chores",
+        "vacations",
+        "inventions",
+        "sports"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Dünyayı değiştiren dahi (genius) bir kişinin ürettiği şeyler icatlardır (inventions)."
+    },
+    {
+      "id": "Q_8_9_009",
+      "questionText": "A: What is he doing right now?\nB: He is looking through the ............... to observe the stars and the moon.",
+      "answers": [
+        "microscope",
+        "test tube",
+        "telescope",
+        "cell"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "Yıldızları ve Ay'ı (stars and the moon) gözlemlemek için teleskop (telescope) kullanılır."
+    },
+    {
+      "id": "Q_8_9_010",
+      "questionText": "If a device is 'high-tech', it means it uses the ............... and most advanced technology.",
+      "answers": [
+        "oldest",
+        "cheapest",
+        "newest",
+        "worst"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 1,
+      "explanation": "'High-tech' yüksek teknoloji demektir. Bu da en yeni (newest) ve en gelişmiş teknolojiyi ifade eder."
+    },
+    {
+      "id": "Q_8_9_011",
+      "questionText": "Marie Curie was a famous chemist and physicist. she ............... two Nobel Prizes in her life.",
+      "answers": [
+        "win",
+        "winning",
+        "won",
+        "wons"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Geçmişte yaşamış ve bitmiş bir olaydan (Marie Curie'nin ödül almasından) bahsedildiği için Simple Past Tense (V2) olan 'won' kullanılmalıdır."
+    },
+    {
+      "id": "Q_8_9_012",
+      "questionText": "A: ............... did Thomas Edison invent the light bulb?\nB: In 1879.",
+      "answers": [
+        "Where",
+        "When",
+        "Who",
+        "How"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Cevapta 'In 1879' (1879 yılında) denilerek zaman belirtildiği için soru 'Ne zaman?' (When?) olmalıdır."
+    },
+    {
+      "id": "Q_8_9_013",
+      "questionText": "Albert Einstein is ............... for his theory of relativity. Everyone knows his name.",
+      "answers": [
+        "sorry",
+        "unknown",
+        "famous",
+        "boring"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Herkes adını biliyorsa (Everyone knows his name), o kişi izafiyet teorisiyle ünlü/tanınmış (famous) demektir."
+    },
+    {
+      "id": "Q_8_9_014",
+      "questionText": "Researchers are ............... some experiments on animals to find a vaccine for the virus.",
+      "answers": [
+        "conducting",
+        "inventing",
+        "exploring",
+        "discovering"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Deney yapmak İngilizcede 'do an experiment' veya 'conduct an experiment' kalıplarıyla ifade edilir."
+    },
+    {
+      "id": "Q_8_9_015",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Test tube",
+        "Microscope",
+        "Scientist",
+        "Backpack"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Test tube (deney tüpü), Microscope (mikroskop) ve Scientist (bilim insanı) bilim/laboratuvar ile ilgili kelimelerdir. 'Backpack' (sırt çantası) bunlardan farklıdır."
+    },
+    {
+      "id": "Q_8_9_016",
+      "questionText": "A: Who ............... the compass?\nB: The Chinese did it first.",
+      "answers": [
+        "discovered",
+        "invented",
+        "explored",
+        "operated"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Pusula (compass) daha önce doğada bulunmayan ve insanlar tarafından sıfırdan üretilen bir araçtır. Bu yüzden 'icat edildi' (invented) fiili kullanılır."
+    },
+    {
+      "id": "Q_8_9_017",
+      "questionText": "Archimedes stepped into a bath and noticed that the water level rose. He suddenly shouted 'Eureka!' which means '...............'.",
+      "answers": [
+        "I lost it",
+        "I found it",
+        "I hate it",
+        "I need it"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Arşimet'in ünlü sözü 'Evreka' (Eureka), Eski Yunancada 'Onu buldum!' (I found it!) anlamına gelir."
+    },
+    {
+      "id": "Q_8_9_018",
+      "questionText": "I. No, I am searching for information about Louis Pasteur.\nII. What are you doing on the internet?\nIII. Oh, the man who found the rabies vaccine?\nIV. Are you playing an online game?\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "II - I - IV - III",
+        "II - IV - I - III",
+        "IV - I - II - III",
+        "IV - II - I - III"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Doğru sıralama: İnternette ne yapıyorsun (II) -> Oyun mu oynuyorsun (IV) -> Hayır, Pasteur'u araştırıyorum (I) -> Aa, kuduz aşısını bulan adam mı? (III)."
+    },
+    {
+      "id": "Q_8_9_019",
+      "questionText": "Some plants and animals became ............... millions of years ago, like dinosaurs. We can only find their fossils today.",
+      "answers": [
+        "popular",
+        "alive",
+        "extinct",
+        "successful"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Dinozorlar gibi milyonlarca yıl önce yaşayan ve bugün sadece fosili bulunan canlıların nesli tükenmiştir. Nesli tükenmek 'extinct' (veya become extinct) demektir."
+    },
+    {
+      "id": "Q_8_9_020",
+      "questionText": "Tim: ...............?\nSue: In a laboratory in Paris.",
+      "answers": [
+        "Where did Marie Curie do her experiments",
+        "When did she win the Nobel Prize",
+        "Who worked with Marie Curie",
+        "What did Marie Curie discover"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Cevapta 'Paris'te bir laboratuvarda' (In a laboratory in Paris) denilerek yer bildirildiği için soru 'Nerede?' (Where?) olmalıdır."
+    },
+    {
+      "id": "Q_8_9_021",
+      "questionText": "Read the text: 'Guglielmo Marconi was an Italian inventor. He was born in 1874. He was very interested in electricity and physics. He invented the radio in 1895. Thanks to him, we can listen to news and music today.'\n\nWhich of the following is CORRECT according to the text?",
+      "answers": [
+        "He invented the radio in the 20th century.",
+        "He had no interest in science.",
+        "He is the inventor of the radio.",
+        "He was born in France."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Metne göre Marconi radyoyu icat etmiştir (He is the inventor of the radio). İtalyandır (Fransa'da doğmamıştır) ve bilime çok ilgilidir."
+    },
+    {
+      "id": "Q_8_9_022",
+      "questionText": "Alexander Fleming ............... penicillin in 1928, and it saved millions of lives from bacterial infections.",
+      "answers": [
+        "discovered",
+        "invented",
+        "operated",
+        "flew"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Penisilin, doğada bulunan bir küf mantarının antibiyotik özelliğidir. Bu yüzden sıfırdan icat edilmemiş (invent), tesadüfen bulunmuştur/keşfedilmiştir (discover)."
+    },
+    {
+      "id": "Q_8_9_023",
+      "questionText": "Which sentence describes a 'continuous' scientific action happening right now?",
+      "answers": [
+        "Newton discovered the laws of gravity.",
+        "Scientists are currently working on a new DNA project.",
+        "I will buy a new telescope next week.",
+        "Tesla was a brilliant engineer."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Şu anda devam eden (continuous / right now) eylemler Present Continuous (am/is/are + V-ing) ile ifade edilir: 'Scientists are currently working...' (Bilim insanları şu an ... üzerinde çalışıyor)."
+    },
+    {
+      "id": "Q_8_9_024",
+      "questionText": "If you put water in the freezer, it turns into ice. This is a scientific ...............",
+      "answers": [
+        "fact",
+        "fiction",
+        "lie",
+        "disease"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "difficulty": 2,
+      "explanation": "Suyu dondurucuya koyarsanız buza dönüşür. Bu kanıtlanmış, bilimsel bir gerçektir (scientific fact)."
+    },
+    {
+      "id": "Q_8_9_025",
+      "questionText": "A: What is the most important invention in history in your opinion?\nB: I think it is the ............... because before it, people used candles to see in the dark.",
+      "answers": [
+        "telephone",
+        "wheel",
+        "compass",
+        "light bulb"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Ondan önce insanların karanlıkta görmek için mum (candles) kullandığı icat 'ampul'dür (light bulb)."
+    },
+    {
+      "id": "Q_8_9_026",
+      "questionText": "To show the chronological order of historical scientific events, we usually use a ...............",
+      "answers": [
+        "test tube",
+        "timeline",
+        "fossil",
+        "cell"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Tarihi olayları kronolojik sırayla (chronological order) göstermek için kullanılan araca 'zaman çizelgesi' (timeline) denir."
+    },
+    {
+      "id": "Q_8_9_027",
+      "questionText": "Read the sentences:\n1. Thomas Edison invented the phonograph.\n2. Wright Brothers flew the first airplane.\n3. Nicolaus Copernicus stated that the Earth goes around the Sun.\n\nWhich fields of science are mentioned above?",
+      "answers": [
+        "Biology - Chemistry - Medicine",
+        "Technology - Aviation - Astronomy",
+        "Geography - Math - Physics",
+        "Literature - Art - Music"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Fonograf icadı teknoloji (Technology), ilk uçağın uçurulması havacılık (Aviation), Dünya'nın Güneş etrafında döndüğünü belirtmek ise astronomi (Astronomy) alanına girer."
+    },
+    {
+      "id": "Q_8_9_028",
+      "questionText": "A: ............... you ............... about the new Mars mission?\nB: Yes! They are planning to send a rover there next year.",
+      "answers": [
+        "Have / heard",
+        "Did / heard",
+        "Are / hear",
+        "Do / hearing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Yeni bir haberi duyup duymadığını sormak için Present Perfect Tense ('Have you heard...?') kullanılır."
+    },
+    {
+      "id": "Q_8_9_029",
+      "questionText": "A ............... is the smallest basic unit of a plant or animal.",
+      "answers": [
+        "fossil",
+        "planet",
+        "cell",
+        "cure"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Bitki veya hayvanların en küçük temel yapı birimine 'hücre' (cell) denir."
+    },
+    {
+      "id": "Q_8_9_030",
+      "questionText": "Read the text: 'The discovery of DNA structure by Watson and Crick in 1953 was a milestone in biology. It helped scientists understand how genetic information is passed from parents to children. This discovery opened new doors in medicine and genetics.'\n\nWhat is the MAIN FOCUS of the text?",
+      "answers": [
+        "The negative effects of biology on medicine.",
+        "The personal lives of Watson and Crick.",
+        "The importance and results of discovering the DNA structure.",
+        "How to invent a new medicine."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Science",
+      "difficulty": 3,
+      "explanation": "Metin, DNA yapısının keşfedilmesinin (discovery of DNA) öneminden ve tıp ile genetik alanında açtığı yeni yollardan (sonuçlarından) bahsetmektedir. Ana odak C şıkkıdır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Işığın Yansıması ve Renkler",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "Işık ışınlarının bir yüzeye çarpıp geldiği ortama geri dönmesi olayına ne ad verilir?",
+      "answers": [
+        "Kırılma",
+        "Yansıma",
+        "Soğurulma",
+        "Dağılma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Işığın tıpkı duvara atılan bir top gibi sert ve pürüzsüz bir yüzeye çarpıp geldiği yöne geri sekmesine yansıma denir."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "Işığın yansımasını kağıt üzerinde çizerken, ışığın çarptığı yüzeye tam dik (90 derece) olarak çizilen hayali çizgiye ne ad verilir?",
+      "answers": [
+        "Gelen ışın",
+        "Yansıyan ışın",
+        "Yüzeyin Normali",
+        "Ekvator çizgisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Yüzeyin Normali (kısaca N), yüzeye 90 derecelik dik açıyla çizilen hayali bir çizgidir ve açıları hesaplamak için bir referans noktası olarak kullanılır."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Işığın Yansıma Kanunları'na göre, yüzeye çarpan ışının 'Gelme Açısı' ile yüzeyden dönen ışının 'Yansıma Açısı' arasında nasıl bir ilişki vardır?",
+      "answers": [
+        "Gelme açısı her zaman daha büyüktür.",
+        "Yansıma açısı her zaman daha büyüktür.",
+        "Gelme açısı, yansıma açısına her zaman eşittir.",
+        "Aralarında hiçbir ilişki yoktur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Yansıma kanunlarının en temel kuralıdır: Işık yüzeye (Normale) hangi açıyla yaklaşırsa, tam olarak aynı açıyla da yansıyarak uzaklaşır."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "Bir ışık ışını, aynaya tam 'Normal' çizgisi üzerinden (yüzeye 90 derece dik olarak) gönderilirse, ışın nasıl yansır?",
+      "answers": [
+        "Aynanın içinden geçer.",
+        "Geldiği yoldan (kendi üzerinden) geriye döner.",
+        "Kırılarak yön değiştirir.",
+        "Yüzeye paralel olarak yansır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Işık yüzeye tam dik (Normal üzerinden) gelirse, gelme açısı 0 derece olur. Yansıma açısı da 0 derece olacağı için ışın kendi üzerinden dümdüz geri döner."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "Bir aynaya gönderilen ışının gelme açısı 40° olarak ölçülmüştür. Buna göre ışının yansıma açısı kaç derecedir?",
+      "answers": [
+        "40°",
+        "50°",
+        "80°",
+        "90°"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Yansıma kanununa göre Gelme Açısı her zaman Yansıma Açısına eşittir. Gelme açısı 40 derece ise yansıma açısı da tam olarak 40 derecedir."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "Bir aynaya çarpan gelen ışın ile yansıyan ışın arasındaki toplam açı 100° ise, bu ışının 'Gelme Açısı' kaç derecedir?",
+      "answers": [
+        "100°",
+        "80°",
+        "50°",
+        "10°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Gelen ve yansıyan ışın arasındaki toplam açı (100 derece), Normal çizgisi tarafından tam ortadan iki eşit parçaya bölünür. 100 / 2 = 50° gelme açısı, 50° yansıma açısıdır."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "Bir ışın, yansıtıcı yüzey ile (ayna ile) 30°'lik bir açı yapacak şekilde yüzeye çarpıyor. Buna göre bu ışının 'Gelme Açısı' kaç derecedir?",
+      "answers": [
+        "30°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Gelme açısı, yüzeyle yapılan açı değil, Normal ile yapılan açıdır. Normal yüzeye 90 derecedir. Yüzeyle yapılan açı 30° ise, gelme açısı 90 - 30 = 60° olur."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Ayna veya durgun su gibi pürüzsüz yüzeylere birbirine paralel olarak gönderilen ışık ışınlarının, yüzeye çarptıktan sonra yine birbirine paralel olarak yansımasına ne ad verilir?",
+      "answers": [
+        "Dağınık yansıma",
+        "Düzgün yansıma",
+        "Kırılma",
+        "Soğurulma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Pürüzsüz yüzeylerde ışınlar düzenini bozmadan sekerek yansır. Bu 'Düzgün Yansıma' sayesinde ayna gibi yüzeylerde kendi net görüntümüzü görürüz."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "Buruşuk alüminyum folyo veya dalgalı deniz yüzeyi gibi pürüzlü yüzeylere paralel gelen ışınlar, yüzeye çarptıktan sonra her biri farklı (rastgele) yönlere doğru yansır. Bu olaya ne denir?",
+      "answers": [
+        "Düzgün yansıma",
+        "Kırılma",
+        "Dağınık yansıma",
+        "Soğurulma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Yüzeydeki girinti ve çıkıntılar, gelen paralel ışınların farklı açılarla (farklı yönlere) yansımasına sebep olur. Bu yüzden dalgalı suda net bir görüntü oluşmaz."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "Ali, 'Sadece pürüzsüz aynalarda yansıma kanunları geçerlidir, pürüzlü (dağınık) yüzeylerde yansıma kuralları bozulur' demiştir. Ali'nin bu düşüncesi için ne söylenebilir?",
+      "answers": [
+        "Kesinlikle doğrudur.",
+        "Yanlıştır, dağınık yansımada da her bir ışın kendi çarptığı noktanın Normal'ine göre yansıma kurallarına (Gelme = Yansıma) kesinlikle uyar.",
+        "Sadece kırmızı ışıkta geçerlidir.",
+        "Işığın hızına göre değişir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Yansıma kanunları istisnasız tüm yansımalar için geçerlidir. Dağınık yansımada ışınların farklı yöne gitmesinin sebebi kanunun bozulması değil, çarptıkları yüzeydeki pürüzlerin (Normallerin) farklı yönlere bakmasıdır."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "Işık ışınlarının çarptıkları maddeler tarafından tutulmasına (emilmesine) ne ad verilir?",
+      "answers": [
+        "Yansıma",
+        "Soğurulma",
+        "Kırılma",
+        "Dağılma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Soğurulma (emilme), maddenin ışığı yansıtmayıp içine hapsetmesi olayıdır. Işığı soğuran maddenin sahip olduğu enerji ve sıcaklık artar."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "Maddelerin rengi ile ışığı soğurma miktarı arasında doğrudan bir ilişki vardır. Aşağıdaki renklerden hangisi üzerine düşen ışığı en fazla soğurur (emer)?",
+      "answers": [
+        "Beyaz",
+        "Sarı",
+        "Açık Mavi",
+        "Siyah"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Siyah renkli (veya çok koyu) cisimler üzerlerine düşen ışığın neredeyse tamamını soğurur (emer) ve hapseder. Bu yüzden siyah cisimler daha çabuk ısınır."
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "Sıcak yaz günlerinde açık renkli (beyaz) kıyafetler giymeyi tercih etmemizin, kışın ise koyu renkli (siyah) montlar giymemizin bilimsel nedeni nedir?",
+      "answers": [
+        "Yazın modasının açık renkler olması",
+        "Beyaz kıyafetlerin ışığı yansıtarak serin tutması, siyah kıyafetlerin ise ışığı soğurarak (emerek) vücudumuzu ısıtması",
+        "Siyah kıyafetlerin daha hafif olması",
+        "Açık renklerin teri daha çok emmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Açık renkler ışığı bir ayna gibi geri yansıtır ve ışık enerjisini almaz (serin tutar). Koyu renkler ise ışığı emerek ısıya dönüştürür ve bizi sıcak tutar."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "Işık enerjisini hareket enerjisine dönüştüren; cam bir fanus içinde, yapraklarının bir yüzü siyah diğer yüzü beyaz olan ve ışık vurdukça fırıldak gibi dönen araca ne ad verilir?",
+      "answers": [
+        "Termometre",
+        "Barometre",
+        "Radyometre (Işık Değirmeni)",
+        "Dinamometre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Radyometre, ortamdaki ışığın gücünü gösterir. Işık vurduğunda pervanenin siyah kısımları ışığı daha çok soğurup ısınır ve basınç oluşturarak çarkın dönmesini sağlar."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "Aşağıdakilerden hangisi ışığın (özellikle Güneş enerjisinin) soğurulması prensibiyle çalışan bir teknoloji *değildir*?",
+      "answers": [
+        "Güneş fırınları",
+        "Çatılardaki Güneş panelleri (Elektrik üretimi)",
+        "Güneş enerjili su ısıtıcıları",
+        "Rüzgar türbinleri"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Güneş fırınları, su ısıtıcıları ve elektrik panelleri tamamen ışığın enerjisini emmek (soğurmak) için siyah zeminlerle tasarlanmıştır. Rüzgar türbini rüzgarla (hareketle) çalışır."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Beyaz ışık aslında tek bir renk değildir. Güneş'ten gelen beyaz ışığı bir cam prizmadan geçirdiğimizde ne gözlemleriz?",
+      "answers": [
+        "Işık tamamen kaybolur.",
+        "Işık siyah renge dönüşür.",
+        "Işık daha parlak beyaz bir hale gelir.",
+        "Işık kendini oluşturan renklere (kırmızı, turuncu, sarı, yeşil, mavi, mor) ayrılır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 1,
+      "explanation": "Güneş'in beyaz ışığı tüm renklerin kusursuz birleşimidir. Prizmadan veya yağmur damlasından geçerken kırılarak bu renklerine ayrılır (Spektrum oluşur)."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "Yağmur yağdıktan sonra güneşin açmasıyla birlikte gökyüzünde beliren Gökkuşağı hangi olay sonucunda oluşur?",
+      "answers": [
+        "Bulutların ışığı tamamen yansıtmasıyla",
+        "Havadaki su damlacıklarının birer 'prizma' görevi görerek beyaz güneş ışığını renklerine ayırmasıyla",
+        "Rüzgarın ışığı dağıtmasıyla",
+        "Uzaydan gelen renkli meteorlarla"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Havada asılı kalan milyonlarca yağmur damlası cam birer prizma gibi çalışır. Beyaz güneş ışığı damlanın içine girer ve kırılarak 7 farklı renkte dışarı çıkar."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "Beyaz ışık bir cam prizmadan geçirildiğinde en az kırılan (en üstte kalan) renk ile en çok kırılan (en alta sapan) renk hangileridir?",
+      "answers": [
+        "En az Yeşil - En çok Mavi",
+        "En az Kırmızı - En çok Mor",
+        "En az Sarı - En çok Turuncu",
+        "En az Mor - En çok Kırmızı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Prizmada renklerin kırılma sırası Kutu Sayamam (Kırmızı, Turuncu, Sarı, Yeşil, Mavi, Mor) şeklindedir. Kırmızı en az kırılan (yolundan sapmayan), Mor ise en çok kırılan renktir."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "Üzerinde gökkuşağının tüm renkleri (kırmızı, turuncu, sarı, yeşil, mavi, mor) bulunan bir çarkı (diski) çok hızlı bir şekilde döndürdüğümüzde çarkı hangi renkte görürüz?",
+      "answers": [
+        "Siyah",
+        "Beyaz",
+        "Kahverengi",
+        "Kırmızı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Bu araca Newton Çarkı denir. Bütün renkler hızla döndüğünde gözümüz renkleri birbirinden ayıramaz ve hepsinin birleşimi olan 'Beyaz' ışığı algılar."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Cisimleri çevremizde farklı renklerde görebilmemizin temel sebebi nedir?",
+      "answers": [
+        "Gözümüzün cisimleri boyaması",
+        "Cisimlerin beyaz ışık içindeki tüm renkleri aynı anda yansıtması",
+        "Cisimlerin üzerine düşen beyaz ışıktaki kendi rengini 'yansıtıp', diğer renkleri 'soğurması (emmesi)'",
+        "Cisimlerin ışık kaynağı olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Kırmızı bir elma kırmızı görünür çünkü beyaz ışıktaki sadece kırmızı ışını gözümüze fırlatır (yansıtır), diğer tüm renkleri ise içine çeker (soğurur)."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Kırmızı bir elmaya Güneş ışığı (beyaz ışık) altında bakıldığında elma kırmızı görünür. Eğer aynı kırmızı elmaya sadece 'Kırmızı Işık' yayan bir fenerle karanlıkta bakarsak elmayı hangi renkte görürüz?",
+      "answers": [
+        "Beyaz",
+        "Siyah",
+        "Sarı",
+        "Kırmızı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Kırmızı cisim, üzerine gelen kırmızı ışığı başarıyla yansıtır. Gözümüze yansıyan bir kırmızı ışık geldiği için elmayı yine kendi renginde, yani kırmızı görürüz."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Yeşil yapraklı bir bitkiye tamamen karanlık bir odada sadece 'Mavi Işık' tutulursa, yaprak gözümüze hangi renkte görünür?",
+      "answers": [
+        "Mavi",
+        "Siyah",
+        "Yeşil",
+        "Beyaz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Yeşil bir cisim sadece beyazı veya kendi rengi yeşili yansıtır. Mavi ışık geldiğinde yaprak onu tamamen emer (soğurur). Gözümüze hiçbir ışık yansımadığı için yaprak 'Siyah' görünür."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "Karanlık bir odada bulunan tamamen beyaz bir tişörte, mavi renkli bir el feneriyle ışık tutuluyor. Tişört hangi renkte görünür?",
+      "answers": [
+        "Beyaz",
+        "Siyah",
+        "Mavi",
+        "Sarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Beyaz cisimler üzerlerine düşen 'her rengi' aynen yansıtırlar. Mavi ışık düştüğünde tişört maviyi geri yansıtacağı için gözümüze Mavi görünür."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "Karanlık bir odada simsiyah bir kömür parçasına kırmızı bir lazer ışığı tutarsak kömür parçası hangi renkte görünür?",
+      "answers": [
+        "Kırmızı",
+        "Siyah",
+        "Beyaz",
+        "Görünmez olur"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Siyah cisimler renk ayırt etmez, üzerlerine düşen tüm renkleri soğurur (içine çeker). Kırmızı ışığı da yansıtmayıp emeceği için yine 'Siyah' görünmeye devam eder."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "Özdeş (aynı özellikteki) Beyaz, Siyah ve Mavi renkli üç tişört, Güneş altında eşit süre (1 saat) bekletiliyor. Süre sonunda tişörtlerin sıcaklıklarının 'en sıcaktan en soğuya doğru' sıralaması nasıl olur?",
+      "answers": [
+        "Beyaz > Mavi > Siyah",
+        "Siyah > Mavi > Beyaz",
+        "Mavi > Siyah > Beyaz",
+        "Üçünün de sıcaklığı aynı kalır"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Işığı en çok soğuran (emip ısınan) siyahtır. Sonra ara renk olan mavi ısınır. Beyaz ise tüm ışığı yansıtacağı için en serin (soğuk) kalan tişört olur."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "Açık renklerin ışığı yansıtması kuralı sadece kıyafetlerde kullanılmaz. Örneğin yaz aylarında çok sıcak olan şehirlerde (Bodrum gibi) evlerin dış cephesinin tamamen 'Beyaz'a boyanmasının sebebi nedir?",
+      "answers": [
+        "Beyaz boyanın daha ucuz olması",
+        "Güneş ışığını yansıtarak (soğurulmayı engelleyerek) evin içinin aşırı ısınmasını önlemek ve serin kalmasını sağlamak",
+        "Güneş enerjisi üretmek",
+        "Geceleri evlerin parlamasını sağlamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 2,
+      "explanation": "Beyaz renk adeta dev bir yansıtıcı kalkan gibidir. Güneş ışığını dışarı atarak binanın duvarlarının ısınmasını (soğurmayı) engeller ve enerji tasarrufu sağlar."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "Seracılıkla uğraşan bir çiftçi, bitkilerinin daha iyi büyümesi için (fotosentezin hızlanması için) serasını aydınlatacaktır. Çiftçi hangi renk ışığı kullanırsa fotosentez 'en yavaş' gerçekleşir?",
+      "answers": [
+        "Kırmızı Işık",
+        "Mor Işık",
+        "Yeşil Işık",
+        "Beyaz Işık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Bitkinin yaprağı zaten yeşildir. Yeşil ışık gelirse bitki onu yansıtır (soğurmaz). Işık soğurulmazsa enerji alınamaz ve fotosentez durma noktasına gelir."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "Eğer Güneş'ten Dünya'ya yansıyan beyaz ışığın içinde hiç 'mavi' renk tonu olmasaydı, açık denizler ve okyanuslar gözümüze nasıl görünürdü?",
+      "answers": [
+        "Yine mavi görünürdü.",
+        "Pembe görünürdü.",
+        "Siyah (karanlık) görünürdü.",
+        "Beyaz görünürdü."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Deniz, Güneş ışığındaki 'mavi' rengi yansıttığı için bize mavi görünür. Gelen ışıkta mavi olmazsa, yansıtacak renk bulamaz, her şeyi soğurur ve siyah görünürdü."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "Üzerine düşen ışığın %1'ini yansıtan X cismi ile %90'ını yansıtan Y cismi Güneş altında bekletiliyor. Bir süre sonra sıcaklıkları ölçüldüğünde hangi sonuç çıkar?",
+      "answers": [
+        "Y cismi, X cisminden çok daha sıcaktır.",
+        "X cismi, Y cisminden çok daha sıcaktır.",
+        "İkisi de eşit derecede ısınmıştır.",
+        "İkisi de buz gibi soğuk kalmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "X cismi ışığın sadece %1'ini yansıtıyor, yani %99'unu içine emiyor (soğuruyor). Bu yüzden X cismi müthiş bir hızla ısınarak Y'yi çok geride bırakır."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisinde 'Işık - Renk - Görülen Renk' ilişkisinde fiziksel olarak imkansız (yanlış) bir eşleşme yapılmıştır?",
+      "answers": [
+        "Beyaz Işık + Kırmızı Çilek = Kırmızı görünür",
+        "Kırmızı Işık + Kırmızı Çilek = Kırmızı görünür",
+        "Mavi Işık + Kırmızı Çilek = Siyah görünür",
+        "Yeşil Işık + Kırmızı Çilek = Yeşil görünür"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Yansıması ve Renkler",
+      "difficulty": 3,
+      "explanation": "Kırmızı bir cisim yeşil ışığı yansıtmaz, tamamen soğurur. Soğurulan (yansıtılmayan) ışık göze ulaşmayacağı için çilek yeşil değil, siyah görünmelidir."
+    }
+  ]
+}

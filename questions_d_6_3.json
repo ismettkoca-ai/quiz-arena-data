@@ -1,0 +1,425 @@
+{
+  "unit": "Ahlaki Davranışlar",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v) bir hadisinde 'Ben ancak .................... tamamlamak üzere gönderildim' buyurmuştur. Bu hadisteki boşluğa İslam'ın asıl hedefini gösteren hangi kelime gelmelidir?",
+      "answers": [
+        "Savaşları",
+        "Güzel ahlakı",
+        "Ticareti",
+        "Zenginliği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İslam dininin ve peygamberlerin gönderilişindeki en temel gaye (amaç), insanlara güzel ahlakı öğretmek ve toplumu ahlaken yükseltmektir."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "Pazarda meyve satan bir esnaf, çürük ve ezik elmaları kasasının altına, parlak ve taze olanları ise üste koyarak müşterilerine satmaktadır. Bu esnaf peygamberimizin hangi ahlaki uyarısına ters düşmektedir?",
+      "answers": [
+        "Temizlik imandandır.",
+        "Komşusu açken tok yatan bizden değildir.",
+        "Bizi aldatan bizden değildir.",
+        "Gülümsemek sadakadır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Ticarette hile yapmak, insanların görmediği kusurları gizleyerek mal satmak İslam ahlakına göre büyük bir haksızlıktır ve aldatmaktır."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Arkadaşı sırrını paylaştığında Ali bunu kimseye anlatmamış, birisi emanet bir eşya bıraktığında ise onu kendi eşyası gibi korumuştur. Ali'nin bu davranışları hangi güzel ahlaki özellikle tanımlanır?",
+      "answers": [
+        "Emaneti korumak (Güvenilirlik)",
+        "Tevazu (Alçakgönüllülük)",
+        "Cömertlik",
+        "Hoşgörü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Maddi eşyaların yanı sıra, insanların bizimle paylaştığı sırlar da birer emanettir. Bunları korumak Müslümanın en temel (Emin/Güvenilir) ahlaki özelliğidir."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "Kur'an-ı Kerim'de 'Ey inananlar! Kendinizin, anne babanızın ve akrabalarınızın aleyhine (zararına) bile olsa ............... titizlikle ayakta tutan şahitler olun' buyrulur. Boşluğa gelmesi gereken en temel ahlaki değer hangisidir?",
+      "answers": [
+        "Adaleti",
+        "Sessizliği",
+        "Ticareti",
+        "Zenginliği"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İslam'da adalet o kadar önemlidir ki, gerçekleri söylemek kendi ailemize veya kendimize zarar verecek bile olsa adaletten sapmamamız emredilir."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "Biri hakkında, onun arkasından hoşlanmayacağı şekilde (kusurlarını, hatalarını) konuşmaya İslam'da ne ad verilir ve bu durum Kur'an'da neye benzetilir?",
+      "answers": [
+        "İftira / Hırsızlık yapmaya",
+        "Gıybet / Ölü kardeşinin etini yemeye",
+        "Yalan / Zehir içmeye",
+        "Suizan / Düşmana yardım etmeye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Birinin arkasından (doğru bile olsa) onu üzecek şekilde konuşmak gıybettir. Hucurat suresinde bu durum, tiksindirici bir eylem olan 'ölü kardeşinin etini yemeye' benzetilerek kesinlikle yasaklanmıştır."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "Ahmet, sınavdan düşük not alınca, yüksek not alan arkadaşı Emre'yi çok kıskanmış, 'Keşke o da kötü not alsa da başarısız olsa' diye içinden geçirmiştir. Ahmet'in bu kötü huyu İslam'da hangi kavramla ifade edilir?",
+      "answers": [
+        "Tecessüs",
+        "Gıybet",
+        "Haset (Kıskançlık)",
+        "İsraf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Başkasının sahip olduğu başarı, mal veya güzelliği kıskanıp, 'Onda olmasın, onunki yok olsun' diye düşünmek haset adı verilen manevi bir hastalıktır."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "Peygamberimiz, 'Ateşin odunu yakıp yok ettiği gibi, ............ de insanın yaptığı iyilikleri (sevapları) yer bitirir' buyurmuştur. Boşluğa hangi ahlaki zafiyet getirilmelidir?",
+      "answers": [
+        "Haset (Kıskançlık)",
+        "Tevazu (Alçakgönüllülük)",
+        "Cömertlik",
+        "Sabır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 3,
+      "explanation": "Haset eden kişi, içindeki kıskançlık ve çekememezlik ateşi yüzünden yaptığı tüm güzel ibadetlerin ve iyiliklerin sevabını yok eder."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "Okul kantininde sıraya girmeden araya kaynak yapan, otobüse binerken başkalarını iterek öne geçen bir kişi, farkında olmadan İslam'daki hangi önemli hakkı ihlal (gasp) etmektedir?",
+      "answers": [
+        "Devlet Hakkını",
+        "Kul Hakkını",
+        "Komşu Hakkını",
+        "Misafir Hakkını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İnsanların zamanını çalmak veya onlara saygısızlık yaparak önlerine geçmek, Allah'ın 'Benim huzuruma bununla gelmeyin' dediği Kul Hakkına girmektir."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "Ayşe, silgisi kaybolduğunda hiçbir kanıtı olmadığı halde hemen sıra arkadaşından şüphelenmiş ve içinden 'Kesin silgimi o çaldı' demiştir. Ayşe'nin bu ön yargılı ve kötü düşüncesine dinimizde ne ad verilir?",
+      "answers": [
+        "Hüsnüzan",
+        "Suizan (Kötü zan)",
+        "İftira",
+        "Gıybet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İnsanlar hakkında kesin bir bilgiye veya kanıta dayanmadan içimizde oluşan kötü ön yargılara ve şüphelere 'Suizan' denir ve dinimizce sakıncalıdır."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "Kötü ahlaklardan biri de 'İftira' atmaktır. İftira kavramının en doğru tanımı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bir kişinin yaptığı hatayı yüzüne karşı söylemektir.",
+        "Birine, aslında hiç yapmadığı kötü bir işi, suçu veya sözü bilerek yüklemektir.",
+        "Bir kişinin sırrını başkalarıyla paylaşmaktır.",
+        "Kendi işlediği suçu itiraf etmektir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Suçsuz ve masum bir insana bilerek ve isteyerek çamur atmak, yapmadığı bir şeyi yaptı demek en büyük kul haklarından olan iftiradır."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "İnsanların gizli hallerini, mesajlarını, sırlarını ve kusurlarını izinsiz bir şekilde araştırıp ortaya çıkarmaya çalışmaya İslam'da 'Tecessüs' denir. Kur'an-ı Kerim tecessüsü neden kesin olarak yasaklamıştır?",
+      "answers": [
+        "İnsanların özel hayatının gizliliğine ve saygınlığına zarar verdiği için",
+        "İnsanların daha çok konuşmasını sağlamak için",
+        "Sadece devlet adamlarına ait bir hak olduğu için",
+        "Dedikodu yapmayı zorlaştırdığı için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İslam dini mahremiyete (özel hayata) büyük önem verir. Başkalarının telefonunu karıştırmak veya gizli kusurlarını araştırmak (tecessüs) saygısızlık ve günahtır."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "Zengin bir iş adamı olan Hasan Bey, çevresindeki yoksullara yardım ederken bunu özellikle kameralar önünde yapmakta, gazetelere çıkmayı istemektedir. Hasan Bey'in gösteriş amacıyla yaptığı bu ibadet tarzına ne denir?",
+      "answers": [
+        "İhlas",
+        "Riya (Gösteriş)",
+        "İnfak",
+        "Tevazu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İbadetlerin veya yapılan iyiliklerin Allah rızası için değil de 'İnsanlar beni görsün, övsün' diyerek gösteriş için yapılmasına Riya denir."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "Yiyebileceğinden çok daha fazla yemeği tabağına alıp çöpe döken, diş fırçalarken suyu boş yere akıtan bir kişi dinimizin hangi ahlaki kuralını ihlal etmektedir?",
+      "answers": [
+        "İsraf yasaklarını",
+        "Adalet kuralını",
+        "Dürüstlük ilkesini",
+        "Gıybet yasağını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Allah'ın bize verdiği zaman, sağlık, su, para veya yiyecek gibi nimetleri gereksiz yere, ölçüsüzce harcamaya İsraf denir."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "Okul birincisi olan Kerem, asla arkadaşlarına hava atmaz, aksine anlamadıkları konularda onlara yardımcı olur. Kendini kimseden üstün görmeyen Kerem'in bu güzel ahlakına ne ad verilir?",
+      "answers": [
+        "Kibir",
+        "Cimrilik",
+        "Tevazu (Alçakgönüllülük)",
+        "Riya"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Kişinin sahip olduğu başarı, zenginlik veya makamdan dolayı şımarmaması, kendini başkalarından üstün görmemesine Tevazu (Alçakgönüllülük) denir."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "Peygamberimiz 'Kalbinde zerre kadar ............. olan kimse cennete giremez' buyurmuştur. Kendini başkalarından üstün, büyük ve değerli görüp diğer insanları küçümseme hastalığına ne ad verilir?",
+      "answers": [
+        "Kibir (Büyüklenme)",
+        "Cesaret",
+        "Merhamet",
+        "Vefa"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Şeytanın da Allah'ın huzurundan kovulmasına sebep olan; kendini diğer canlılardan üstün görüp başkalarını aşağılama (Kibir) büyük bir ahlaki zafiyettir."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "Dinimizde sadaka (yardımlaşma) sadece parayla olmaz. Peygamberimize göre aşağıdakilerden hangisi manevi bir sadaka (iyilik) olarak değerlendirilemez?",
+      "answers": [
+        "Kardeşine gülümsemen (Tebessüm)",
+        "İnsanlara eziyet veren yoldaki bir dikeni veya taşı kenara çekmen",
+        "Küstürdüğün birine gizlice iftira atman",
+        "Görme engelli birine yol göstermen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İslam'a göre çevremize gösterdiğimiz bir tebessüm veya yoldaki bir taşı kaldırmak bile sadakadır. İftira atmak ise büyük bir günahtır."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Peygamberimiz (s.a.v), 'Kendisi için istediğini Müslüman kardeşi için de istemeyen kişi tam (gerçek) iman etmiş sayılmaz' buyurmuştur. Bu hadis bizi hangi ahlaki davranışa yönlendirir?",
+      "answers": [
+        "Bencilliğe",
+        "Empati kurmaya ve başkalarını da düşünmeye (Diğerkamlık)",
+        "Sadece kendi başarımıza odaklanmaya",
+        "İnsanlardan uzaklaşmaya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Kişinin bencilce yaşamayıp 'Ben mutluysam arkadaşım da mutlu olsun' diyebilmesi; empati ve İslam kardeşliğinin (diğerkamlık) temelidir."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v), çocukken kendisine annelik yapan sütannesi Halime'yi ve eşi Hz. Hatice'yi yıllar geçmesine rağmen hiç unutmamış, onlara hep iyilikle muamele etmiştir. Bu durum peygamberimizin hangi ahlaki özelliğini gösterir?",
+      "answers": [
+        "Vefa (İyilikleri unutmamak ve bağlılık)",
+        "Cesaret",
+        "Haset",
+        "Gıybet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Kendisine yapılan bir iyiliği veya dostluğu asla unutmamak, değer bilmek ve sözünde durmak 'Ahde Vefa' olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "Peygamber Efendimiz, 'Gerçek pehlivan (güçlü kimse) güreşte rakibini yenen değil, ..................... zaman nefsine (kendine) hakim olandır' buyurmuştur. Boşluğa hangi kelime gelmelidir?",
+      "answers": [
+        "Acıktığı",
+        "Uyuduğu",
+        "Öfkelendiği",
+        "Korktuğu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İnsanın en zayıf anı öfkelendiği andır. O an kırıcı söz söylememek ve şiddete başvurmamak (öfke kontrolü) gerçek gücün göstergesidir."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "Kur'an-ı Kerim'de, 'Rabbin, kendisinden başkasına ibadet etmemenizi ve anne-babaya iyilik etmenizi emretti. Onlardan biri veya her ikisi senin yanında yaşlanırsa onlara ........... bile deme, onları azarlama' buyrulur (İsra Suresi). Boşluğa hangi kelime gelmelidir?",
+      "answers": [
+        "Nasılsın",
+        "Öf",
+        "Hayır",
+        "Neden"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İslam dininde anne-babaya saygı o kadar önemlidir ki, yaşlandıklarında onlara bıkkınlık ifade eden 'Öf' kelimesinin söylenmesi bile yasaklanmıştır."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "Arkadaşının fiziksel bir kusuruyla veya zayıf bir yönüyle alay ederek ona hoşlanmadığı kötü bir 'Lakap takmak', İslam ahlakına göre nasıl değerlendirilir?",
+      "answers": [
+        "Hucurat suresinde kesinlikle yasaklanmış büyük bir saygısızlıktır.",
+        "Arkadaşlar arasında yapılabilecek bir şakadır.",
+        "Sadece büyükler yaparsa günahtır.",
+        "Kişinin özgüvenini artırır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İnsanlarla alay etmek, onları küçümsemek ve onlara kötü lakaplar takmak Kur'an'da (Hucurat Suresi) yasaklanmış kötü bir davranıştır."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "İslam inancına göre her insan kendi yaptığı iyi veya kötü davranışlardan ahirette tek başına sorumludur. Kimse başkasının günahını veya cezasını çekmez. Bu durum İslam'ın hangi ahlaki bilincini yansıtır?",
+      "answers": [
+        "Grup psikolojisi",
+        "Bireysel Sorumluluk bilinci",
+        "Kader kurbanı olma inancı",
+        "Kıskançlık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Her koyun kendi bacağından asılır atasözünde olduğu gibi, 'Sorumluluk' bilinci, kişinin kendi özgür iradesiyle yaptığı eylemlerin hesabını kendisinin vermesidir."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "İnsanlara verdiği sözde durmayan, kendisine verilen emanete ihanet eden ve konuştuğunda sürekli yalan söyleyen bir kişinin özellikleri, peygamberimiz tarafından hangi kötü karakterin belirtisi (alameti) sayılmıştır?",
+      "answers": [
+        "Müşrik (Allah'a ortak koşan)",
+        "Münafık (İkiyüzlü)",
+        "Kafir (İnkar eden)",
+        "Mümin (İnanan)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 3,
+      "explanation": "Peygamberimiz; yalan söylemeyi, sözünden dönmeyi ve emanete hıyanet etmeyi, içi başka dışı başka olan 'Münafık'ların 3 büyük özelliği olarak tanımlamıştır."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "Buluşma saatine hep geç kalan, 'Saat üçte oradayım' deyip dörtte giden bir öğrenci, İslam ahlakındaki hangi önemli ilkeyi ihlal etmektedir?",
+      "answers": [
+        "Ahde Vefa (Sözünde durmak)",
+        "İsraf yasaklarını",
+        "Merhamet ilkesini",
+        "Gıybet yasağını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "Söz (Ahid) vermek sadece büyük anlaşmalar için değil, randevulaşmak için de geçerlidir. Verilen söze uymak, Müslümanın dürüstlük (Ahde Vefa) borcudur."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "Sınavda arkadaşının kağıdına bakarak yüksek not alan veya pazarda sahte ürün satarak zengin olan bir kişinin elde ettiği bu kazanç (veya başarı) dinimizce nasıl isimlendirilir?",
+      "answers": [
+        "Helal (Temiz) Kazanç",
+        "Bereketli Kazanç",
+        "Haram (Hileli) Kazanç",
+        "Zekatlık Kazanç"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Kendi emeği ve alın teri olmadan, başkasının hakkına girilerek veya hile/kopya yoluyla elde edilen her türlü başarı ve para haram (yasak) kazançtır."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "Peygamberimiz, bir kişinin yolda susuzluktan ölmek üzere olan bir köpeğe ayakkabısıyla kuyudan su çıkarıp verdiği için Allah tarafından tüm günahlarının affedildiğini anlatmıştır. Bu hikaye İslam'ın hangi ahlaki temelini vurgular?",
+      "answers": [
+        "Ticareti",
+        "Merhamet ve Şefkati",
+        "Cesareti",
+        "Adaleti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "İslam ahlakı sadece insanlara değil, Allah'ın yarattığı tüm canlılara (hayvanlara, bitkilere) şefkat ve merhametle yaklaşmayı emreder."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "Arkadaşı Emre'nin okul çantasını devirip eşyalarını düşürdüğünü gören Sude, ona kızmak yerine 'Olur böyle kazalar, bilerek yapmadın sonuçta' diyerek eşyaları toplamasına yardım etmiştir. Sude'nin bu yapıcı tutumuna ne ad verilir?",
+      "answers": [
+        "Müsamaha (Hoşgörü)",
+        "Gıybet",
+        "Haset",
+        "Kibir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İnsanların bilmeden yaptıkları hatalara karşı anlayışlı olmak, onları hemen yargılamadan affedici yaklaşmaya 'Müsamaha' veya 'Hoşgörü' denir."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "İslam dinine göre kötü ve yanlış bir davranış gördüğümüzde, eğer gücümüz yetiyorsa onu elimizle (eylemle), yetmiyorsa dilimizle (uyararak) düzeltmeliyiz. Kur'an'da yer alan bu toplumsal sorumluluk ilkesine ne ad verilir?",
+      "answers": [
+        "İyiliği Emretmek, Kötülükten Sakındırmak",
+        "Sadece kendi işine bakmak",
+        "Ticareti yaygınlaştırmak",
+        "Savaşa hazırlıklı olmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 3,
+      "explanation": "Toplumda 'Bana dokunmayan yılan bin yaşasın' mantığı İslam'a terstir. Müslümanlar iyiliği yaymak (Amr bi'l-maruf) ve kötülüğü engellemekle (Nehiy ani'l-münker) sorumludur."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "Evdeki çöpü atmaya üşenen ve kapının önüne bırakan komşusunu gören Ali, 'Bu davranışın bütün apartmanı kokutuyor, komşuluk hakkına giriyorsun' diyerek onu uyarmıştır. Ali'nin bu uyarısı İslam'ın hangi kuralına dayanır?",
+      "answers": [
+        "Komşusuna iftira atmaya",
+        "Komşuluk hakkını ve çevre temizliğini gözetmeye",
+        "Gıybet yapmaya",
+        "Tevazu sahibi olmaya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 1,
+      "explanation": "Çevreye ve komşulara zarar veren davranışlar İslam ahlakına uymaz. Çevreyi temiz tutmak ve komşuları rahatsız etmemek önemli bir kul hakkıdır."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "Peygamberimizin eşi Hz. Aişe'ye, 'Onun ahlakı nasıldı?' diye sorulduğunda, Hz. Aişe 'Siz hiç Kur'an okumuyor musunuz? Onun ahlakı .....................' şeklinde cevap vermiştir. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "answers": [
+        "Ticarete dayalıydı",
+        "Kur'an'dı",
+        "Eski geleneklerdi",
+        "Sadece melekler gibiydi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ahlaki Davranışlar",
+      "difficulty": 2,
+      "explanation": "İslam'da güzel ahlakın en temel kaynağı Kur'an-ı Kerim'dir. Hz. Muhammed (s.a.v) ise Kur'an'ın canlı, yaşayan ve yürüyen hali olmuştur."
+    }
+  ]
+}

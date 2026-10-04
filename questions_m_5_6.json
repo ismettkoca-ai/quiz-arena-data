@@ -1,0 +1,425 @@
+{
+  "unit": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "3456 + 1289 işleminin sonucu kaçtır?",
+      "answers": [
+        "4645",
+        "4735",
+        "4745",
+        "4845"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Sayıları alt alta toplayalım: Birler basamağı 6+9=15 (Elde var 1). Onlar basamağı 5+8+1=14 (Elde var 1). Yüzler basamağı 4+2+1=7. Binler basamağı 3+1=4. Sonuç 4745 olur."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "8000 - 2435 işleminin sonucu kaçtır?",
+      "answers": [
+        "5565",
+        "5665",
+        "6565",
+        "6665"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "8000'den 2435 çıkarılırken onluk bozma işlemleri yapılır. Sonuç 5565 bulunur."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "204 · 15 işleminin sonucu kaçtır?",
+      "answers": [
+        "2060",
+        "3050",
+        "3060",
+        "3160"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "204 · 10 = 2040 ve 204 · 5 = 1020'dir. Toplamları 2040 + 1020 = 3060 yapar."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "144 / 12 işleminin sonucu kaçtır?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "144'ün içinde 12 tam 12 defa vardır. (12 · 12 = 144)."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Bir bölme işleminde bölen 15, bölüm 12 ve kalan 5'tir. Buna göre bölünen sayı kaçtır?",
+      "answers": [
+        "175",
+        "180",
+        "185",
+        "190"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Bölünen = (Bölen · Bölüm) + Kalan kuralı uygulanır. Bölünen = (15 · 12) + 5 = 180 + 5 = 185'tir."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "45 · 100 işleminin sonucu kaçtır?",
+      "answers": [
+        "450",
+        "4500",
+        "45 000",
+        "450 000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Bir sayıyı 100 ile kısa yoldan çarpmak için sonuna iki tane sıfır eklenir: 4500."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "48 + 35 işlemini zihinden yapan bir öğrenci şu adımları izlemiştir:\n1. Adım: 40 + 30 = 70\n2. Adım: 8 + 5 = 13\n3. Adım: 70 + 13 = 83\nBu öğrencinin kullandığı zihinden toplama stratejisi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Üzerine sayma",
+        "Onlukları ve birlikleri ayırma",
+        "Sayıları ona tamamlama",
+        "Kolay toplanan sayılardan başlama"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Öğrenci sayıları onluklarına (40 ve 30) ve birliklerine (8 ve 5) ayırarak toplamıştır."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "15 + ▲ = 42 eşitliğinde ▲ sembolü yerine hangi sayı gelmelidir?",
+      "answers": [
+        "25",
+        "27",
+        "33",
+        "57"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Toplananlardan birini bulmak için toplamdan diğer toplanan çıkarılır: ▲ = 42 - 15 = 27."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "8 · ■ = 72 eşitliğinde ■ sembolü yerine hangi sayı gelmelidir?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Çarpanlardan birini bulmak için çarpım diğer çarpana bölünür: ■ = 72 / 8 = 9."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "24 + (15 - 3) işleminin sonucu kaçtır?",
+      "answers": [
+        "36",
+        "39",
+        "42",
+        "45"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "İşlem önceliğine göre önce parantez içi yapılır: 15 - 3 = 12. Sonra toplama işlemi yapılır: 24 + 12 = 36."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "73 - 28 işlemini zihinden yapmak isteyen bir kişi, çıkan sayıyı en yakın onluğa yuvarlayarak işlemi kolaylaştırmak isterse aşağıdaki adımlardan hangisini kullanabilir?",
+      "answers": [
+        "73 - 30 = 43, sonra 43 + 2 = 45",
+        "73 - 20 = 53, sonra 53 - 8 = 45",
+        "70 - 20 = 50, sonra 50 - 5 = 45",
+        "73 - 10 = 63, sonra 63 - 18 = 45"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Çıkan sayı olan 28'i 30'a yuvarlar (fazladan 2 çıkardığı için). Farkı bulur (73 - 30 = 43) ve fazladan çıkardığı 2'yi sonuca ekler (43 + 2 = 45)."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Bir kırtasiyeden 25 TL'ye defter ve 14 TL'ye kalem alan Ali, kasiyere 50 TL vermiştir. Ali'nin alacağı para üstü kaç TL'dir?",
+      "answers": [
+        "9",
+        "11",
+        "15",
+        "21"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Ali'nin aldıklarının toplam tutarı: 25 + 14 = 39 TL'dir. Para üstü: 50 - 39 = 11 TL olur."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "395 / 21 işleminin sonucunu sayıları en yakın onluğa yuvarlayarak tahmin eden bir öğrenci hangi sonucu bulur?",
+      "answers": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "395 sayısını en yakın onluğa yuvarlarsak 400 olur. 21 sayısını en yakın onluğa yuvarlarsak 20 olur. 400 / 20 = 20 olarak tahmin edilir."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "140 kişilik bir turist kafilesi, her biri en fazla 16 yolcu alabilen minibüslerle taşınacaktır. Bu iş için en az kaç minibüs gerekir?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "140 / 16 işlemini yaptığımızda bölüm 8, kalan 12 olur. 8 minibüs tam dolar. Kalan 12 kişi için 1 minibüs daha gereklidir. Toplam 8 + 1 = 9 minibüs gerekir."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "30 - 10 / 2 işleminin sonucu kaçtır?",
+      "answers": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "İşlem önceliği kuralına göre önce çarpma/bölme, sonra toplama/çıkarma yapılır. Önce bölme yapılır: 10 / 2 = 5. Sonra çıkarma yapılır: 30 - 5 = 25."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "Dengede olan bir terazinin sol kefesinde 3 adet aynı ağırlıkta elma ve 50 gramlık bir ağırlık, sağ kefesinde ise 200 gramlık bir ağırlık vardır. Buna göre 1 elma kaç gramdır?",
+      "answers": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Eşitlik ilkesine göre: 3 elma + 50 g = 200 g. Her iki taraftan 50 g çıkarırsak 3 elma = 150 g olur. 1 elma = 150 / 3 = 50 gramdır."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Hangi sayının 4 katının 15 eksiği 45'tir? Problemin çözümü için uygulanması gereken ters işlem adımları hangi sırayla yapılmalıdır?",
+      "answers": [
+        "45'i 4'e bölmek, sonra 15 çıkarmak",
+        "45 ile 15'i toplamak, sonra sonucu 4'e bölmek",
+        "45 ile 4'ü çarpmak, sonra 15 çıkarmak",
+        "45'ten 15 çıkarmak, sonra sonucu 4'e bölmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Ters işlemde sondan başa doğru gidilir ve işlemlerin tersi uygulanır: 15 eksiği dediği için 45 + 15 = 60 yapılır. 4 katı dediği için 60 / 4 = 15 bulunur."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Ayşe 54 sayfalık bir kitabı her gün eşit sayıda sayfa okuyarak 6 günde bitiriyor. Ayşe bir günde kaç sayfa kitap okumuştur?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Toplam sayfa sayısını gün sayısına böleriz: 54 / 6 = 9 sayfa."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "■ + ■ + ■ = 36 ve ■ + ▲ = 20 eşitlikleri veriliyor. Buna göre ▲ sembolüne karşılık gelen sayı kaçtır?",
+      "answers": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Üç tane aynı sayının toplamı 36 ise bir tanesi ■ = 36 / 3 = 12'dir. İkinci eşitlikte yerine koyarsak 12 + ▲ = 20 => ▲ = 20 - 12 = 8 olur."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Bir çiftlikteki koyunların ayak sayılarının toplamı 120'dir. Bu çiftlikteki koyun sayısı kaçtır?",
+      "answers": [
+        "20",
+        "30",
+        "40",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Bir koyunun 4 ayağı vardır. Toplam ayak sayısını 4'e bölerek koyun sayısını buluruz: 120 / 4 = 30 koyun."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "Aşağıdaki ifadelerden hangisi cebirsel düşünmeye uygun olarak 'Bir sayının 3 fazlasının 2 katı' cümlesinin matematiksel gösterimi olabilir?",
+      "answers": [
+        "x + 3 · 2",
+        "(x + 3) · 2",
+        "x · 2 + 3",
+        "x / 2 + 3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Söylenen işlemler sırasıyla uygulanmalıdır. Önce 3 fazlası dendiği için toplama işlemi parantez içine alınır (x + 3), daha sonra 2 ile çarpılır: (x + 3) · 2."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Ali'nin yaşı, kardeşinin yaşının 3 katından 2 fazladır. Kardeşi 5 yaşında olduğuna göre Ali kaç yaşındadır?",
+      "answers": [
+        "13",
+        "15",
+        "17",
+        "21"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Kardeşinin yaşı 5'tir. 5'in 3 katı: 5 · 3 = 15. 2 fazlası: 15 + 2 = 17 yaşındadır."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "Bir satıcı 12 tanesini 60 TL'ye aldığı defterlerin 1 tanesini 8 TL'ye satıyor. Bu satıcı 1 defterden kaç TL kâr elde eder?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "1 defterin alış fiyatı (maliyeti) = 60 / 12 = 5 TL'dir. Satış fiyatı 8 TL olduğuna göre kâr = Satış - Alış = 8 - 5 = 3 TL'dir."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "48 / (8 - 2) + 5 işleminin sonucu kaçtır?",
+      "answers": [
+        "9",
+        "11",
+        "13",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Önce parantez içi: 8 - 2 = 6. Sonra bölme işlemi: 48 / 6 = 8. En son toplama işlemi: 8 + 5 = 13."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Zihinden hesaplama stratejilerinden birini kullanarak 45 · 5 işlemini yapmak isteyen biri aşağıdaki pratik yollardan hangisini kullanabilir?",
+      "answers": [
+        "45'i 10 ile çarpıp sonucu 2'ye bölmek",
+        "45'i 2 ile çarpıp sonuca 5 eklemek",
+        "45'i 10 ile bölüp sonucu 5 ile çarpmak",
+        "45'i 5 ile toplayıp sonucu 10 ile çarpmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Bir sayıyı 5 ile kısa yoldan çarpmak için, o sayı önce 10 ile çarpılır, ardından bulunan sonuç ikiye bölünür (5 = 10 / 2 mantığı)."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Kumbarasında 120 TL'si olan Efe, her hafta harçlığından artırdığı 25 TL'yi kumbarasına atmaktadır. Kaç hafta sonra Efe'nin kumbarasındaki para 270 TL olur?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Birikmesi gereken miktar = 270 - 120 = 150 TL'dir. Her hafta 25 TL attığına göre: 150 / 25 = 6 hafta sonra."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "Aşağıdaki eşitliklerden hangisi matematiksel olarak DOĞRUDUR?",
+      "answers": [
+        "15 + 5 · 2 = 40",
+        "(20 - 4) / 2 = 8",
+        "30 / 5 + 1 = 5",
+        "4 · (3 + 2) = 14"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "A şıkkı: 15 + 10 = 25 (Yanlış). B şıkkı: (16) / 2 = 8 (Doğru). C şıkkı: 6 + 1 = 7 (Yanlış). D şıkkı: 4 · 5 = 20 (Yanlış)."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "12 + 12 + 12 + 12 + 12 işleminin kısa yoldan (cebirsel) gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "12 · 12",
+        "5 + 12",
+        "5 · 12",
+        "12 / 5"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Toplanan sayı 12'dir ve 5 kere tekrar etmiştir. Tekrarlı toplama işlemi çarpma ile gösterilir: 5 · 12."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "4A - B = 10 eşitliğinde A = 5 olduğuna göre B kaçtır?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Eşitlikte A yerine 5 koyarsak: 4 · 5 - B = 10 olur. 20 - B = 10 işleminde çıkan sayıyı bulmak için eksilenden farkı çıkarırız: B = 20 - 10 = 10'dur."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "İçinde 250 litre su bulunan bir depodan her saat 15 litre su kullanılmaktadır. Depodaki su miktarının 70 litreye düşmesi için kaç saat geçmesi gerekir?",
+      "answers": [
+        "10",
+        "12",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Kullanılan toplam su miktarı: 250 - 70 = 180 litredir. Her saat 15 litre kullanıldığına göre geçen süre: 180 / 15 = 12 saattir."
+    }
+  ]
+}

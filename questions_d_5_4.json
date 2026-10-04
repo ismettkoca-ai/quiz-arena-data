@@ -1,0 +1,425 @@
+{
+  "unit": "Peygamber Kıssaları",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Kur'an-ı Kerim'de geçmişte yaşamış peygamberlerin ve toplumların hayatlarından kesitler sunan hikayelere 'Kıssa' denir. Kur'an'ın bu kıssaları anlatmasındaki asıl amaç aşağıdakilerden hangisidir?",
+      "answers": [
+        "Tarih kitaplarına konu bulmak",
+        "İnsanların eğlenceli masallar dinlemesini sağlamak",
+        "Geçmiş olaylardan ibret (ders) alıp doğru davranışlar sergilememizi sağlamak",
+        "Eski çağlardaki insanların ne giydiğini öğretmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Kıssalar masal veya hikaye değildir. Geçmiş toplumların yaptığı hataları yapmamamız ve peygamberlerin güzel ahlakını örnek almamız için anlatılır."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "Peygamberlerin, Allah'ın izniyle ve yardımıyla, insanları inandırmak için gösterdikleri olağanüstü olaylara ne ad verilir?",
+      "answers": [
+        "Sihir",
+        "Mucize",
+        "Keramet",
+        "Kıssa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Doğa kanunlarını aşan, sadece Allah'ın izniyle peygamberler tarafından gerçekleştirilebilen olağanüstü olaylara 'Mucize' denir."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Hz. Nuh, halkını tam 950 yıl boyunca bıkmadan, usanmadan hak dine davet etmiş ancak çok az kişi ona inanmıştır. Buna rağmen Hz. Nuh görevini asla bırakmamıştır. Bu durum peygamberlerin hangi özelliğini ön plana çıkarır?",
+      "answers": [
+        "Sabır ve kararlılık",
+        "Fiziksel güç",
+        "Zenginlik",
+        "Hızlı karar verme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Yüzlerce yıl boyunca alay edilmesine rağmen görevinden vazgeçmemesi, Hz. Nuh'un müthiş bir sabır ve kararlılığa sahip olduğunu gösterir."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Hz. İbrahim, putlara tapan halkına 'Kendi ellerinizle yaptığınız şu taşlara mı tapıyorsunuz?' diyerek onların akıllarını kullanmalarını istemiştir. Hz. İbrahim'in bu sorusu halkını neye davet etmektedir?",
+      "answers": [
+        "Putları daha güzel boyamaya",
+        "Düşünmeye ve mantıksız inançları sorgulamaya",
+        "Yeni bir şehir kurmaya",
+        "Put satarak para kazanmaya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. İbrahim, insanların kendi elleriyle yonttukları cansız nesnelerin ilah olamayacağını mantık ve akıl yoluyla onlara göstermeye çalışmıştır."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "Hz. Yusuf'un kardeşleri, onu çok kıskandıkları için bir kuyuya atmışlardır. Yıllar sonra Hz. Yusuf Mısır'a yönetici olmuş, kardeşleri ise ona muhtaç duruma düşmüştür. Hz. Yusuf onları cezalandırmak yerine affetmiştir. Bu kıssadan çıkarılacak en temel ders nedir?",
+      "answers": [
+        "İntikam almanın her zaman doğru olduğu",
+        "Zengin olanın her istediğini yapabileceği",
+        "Kıskançlığın zarar verdiği ve affetmenin en büyük erdem olduğu",
+        "Kardeşler arasında sürekli kavga edilmesi gerektiği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Hz. Yusuf'un kıssası bize, kıskançlığın insanı felakete sürükleyeceğini ve gücü yettiği halde affetmenin büyük bir ahlak olduğunu öğretir."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "Ağır bir hastalığa yakalanan Hz. Eyüp, yıllarca acı çekmesine rağmen hiçbir zaman 'Neden ben?' diyerek isyan etmemiş, her zaman Allah'a şükretmiştir. Zor bir durumla karşılaşan Kerem'in, Hz. Eyüp'ü örnek alarak nasıl davranması beklenir?",
+      "answers": [
+        "Hemen pes edip şikayet etmesi",
+        "Elinden geleni yaptıktan sonra sabretmesi ve ümidini kaybetmemesi",
+        "Başkalarını suçlaması",
+        "İçine kapanıp kimseyle konuşmaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. Eyüp sabrın sembolüdür. Zorluklar karşısında isyan etmemek, sabretmek ve Allah'tan ümit kesmemek bu kıssanın ana mesajıdır."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "Hz. Davud, kendisine verilen büyük krallığa ve güce rağmen demiri işleyerek zırh yapmış ve kendi el emeğiyle geçimini sağlamıştır. Hz. Davud'un bu davranışı bize neyi öğütler?",
+      "answers": [
+        "Zenginlerin çalışmasına gerek olmadığını",
+        "Kralların her zaman demirci olması gerektiğini",
+        "Makamı ne olursa olsun helal lokma için çalışmanın erdemini",
+        "Savaş aletleri yapmanın tek kazanç yolu olduğunu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Peygamberler de meslek sahibi olmuşlardır. Bir devlet başkanı (kral) olmasına rağmen Hz. Davud'un el emeğiyle geçinmesi helal kazancın önemini gösterir."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "Yüce Allah tarafından rüzgara emretme yetkisi ve hayvanların dilini anlama mucizesi hangi peygambere verilmiştir?",
+      "answers": [
+        "Hz. Davud",
+        "Hz. Süleyman",
+        "Hz. Nuh",
+        "Hz. İsa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Karıncaların ve kuşların (Hüdhüd) dilini anlayan, rüzgarı kullanan ve muazzam bir zenginliğe sahip olan peygamber Hz. Süleyman'dır."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "Tarihte ölçü ve tartıda hile yapan, ticarette insanları kandıran 'Medyen' halkına doğru yolu göstermesi için gönderilen peygamber kimdir?",
+      "answers": [
+        "Hz. Şuayb",
+        "Hz. Salih",
+        "Hz. Yunus",
+        "Hz. İbrahim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "Hz. Şuayb, ticarette hile yapan ve teraziyi eksik tartan halkını dürüst ticarete ve adalete davet etmiştir."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "Büyük bir gemi yaparak yeryüzündeki canlı türlerinden birer çifti alan ve inananları büyük tufandan (selden) kurtaran peygamber aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hz. Yunus",
+        "Hz. Musa",
+        "Hz. Nuh",
+        "Hz. Adem"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Allah'ın emriyle devasa bir gemi inşa edip, inananları ve hayvanları tufandan kurtaran peygamber Hz. Nuh'tur."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "Zalim bir yönetici olan Nemrut, Hz. İbrahim'i devasa bir ateşe atmış ancak Kur'an'ın ifadesiyle ateş ona 'serin ve selamet' olmuştur. Bu mucize bize Allah hakkında neyi öğretir?",
+      "answers": [
+        "Allah'ın doğa kurallarını değiştirebilecek sonsuz bir kudrete sahip olduğunu",
+        "Ateşin aslında hiçbir zaman yakıcı olmadığını",
+        "İnsanların ateşte yaşayabileceğini",
+        "Nemrut'un çok iyi bir insan olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Ateşin yakıcı özelliğini yaratan Allah'tır. Dilediğinde bu kuralı peygamberini korumak için durdurabilir; bu Allah'ın sonsuz gücünü gösterir."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "Hz. İsmail, babası Hz. İbrahim'in gördüğü bir rüya üzerine Allah'ın emrine hiç itiraz etmeden boyun eğmiştir. Hz. İsmail'in bu davranışı İslam'daki hangi kavramın en güzel örneğidir?",
+      "answers": [
+        "İsyan",
+        "Teslimiyet ve İtaat",
+        "Kıskançlık",
+        "Cesaret"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. İsmail'in 'Babacığım sana emredileni yap' demesi, Allah'ın emrine tam bir teslimiyet ve itaat gösterdiğinin sembolüdür."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "Zalim bir hükümdar olan Firavun, kendisini ilah (tanrı) ilan etmiş ve halkına zulmetmiştir. Allah, onu uyarması ve İsrailoğullarını kurtarması için hangi peygamberi görevlendirmiştir?",
+      "answers": [
+        "Hz. Harun",
+        "Hz. İsa",
+        "Hz. Musa",
+        "Hz. İdris"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Firavun'un zulmüne karşı çıkarak halkını özgürlüğe kavuşturmak için mücadele eden, asasıyla denizi yaran peygamber Hz. Musa'dır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Hz. Yunus, halkının yola gelmemesine kızarak görev yerini izinsiz terk etmiş, bindiği gemiden denize atılmış ve büyük bir balık tarafından yutulmuştur. Balığın karnında hatasını anlayıp dua etmiş ve kurtulmuştur. Bu kıssadan alınacak ders nedir?",
+      "answers": [
+        "İnsanların deniz yolculuğu yapmaması gerektiği",
+        "Hata yapıldığında samimiyetle tövbe edilirse Allah'ın affedeceği",
+        "Peygamberlerin hata yapamayacağı",
+        "Balıkların insanlara zarar vermediği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. Yunus'un duasının kabul olması, insanın düştüğü en karanlık ve umutsuz durumlarda bile tövbe ile Allah'a yönelmesi gerektiğini öğretir."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Kur'an'da peygamberlerin insanüstü varlıklar (melekler) yerine insanlar arasından seçildiği vurgulanır. Bunun en önemli nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Meleklerin dünya dilini bilmemesi",
+        "İnsanlara acıkma, yorulma, üzülme gibi insani hallerde de doğru modeli (örneği) gösterebilmek",
+        "Meleklerin daha yavaş hareket etmesi",
+        "İnsanların kendi aralarında daha kolay kavga edebilmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "Peygamber melek olsaydı, insanlar 'O melek, bizim gibi acıkmıyor, yorulmuyor, biz onun gibi ibadet edemeyiz' derlerdi. İnsan olmaları, bize en mükemmel örneği sunar."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "Hz. Süleyman, kendisine verilen muazzam zenginliğe, ordulara ve güce rağmen asla kibirlenmemiş, daima 'Bu Rabbimin bir lütfudur' diyerek şükretmiştir. Buna göre sahip olduğu imkanlarla övünen ve başkalarını küçümseyen bir kişi, Hz. Süleyman'ın hangi özelliğinden uzaktır?",
+      "answers": [
+        "Alçakgönüllülük (Tevazu) ve Şükür",
+        "Tembellik",
+        "Cesaret",
+        "Zenginlik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. Süleyman, tarihin en büyük krallıklarından birine sahip olmasına rağmen gücün Allah'tan geldiğini bilmiş ve şükrederek alçakgönüllü (mütevazı) olmuştur."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Kur'an-ı Kerim'de 'Allah'ın dostu' (Halilullah) unvanıyla anılan, Kâbe'yi oğluyla birlikte inşa eden ve İslam, Hristiyanlık ile Yahudilikte ortak ata kabul edilen büyük peygamber kimdir?",
+      "answers": [
+        "Hz. Muhammed",
+        "Hz. Musa",
+        "Hz. İbrahim",
+        "Hz. İsa"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Tevhid mücadelesiyle bilinen, putları yıkan, Kabe'yi inşa eden ve 'Halilullah' (Allah'ın dostu) unvanını alan peygamber Hz. İbrahim'dir."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "Kıssalarda sıkça anlatılan 'helak olma' (bir toplumun yıkılıp yok olması) durumunun temel sebebi her zaman aynıdır. Geçmiş toplumların cezalandırılmasının asıl nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Teknolojide geri kalmaları",
+        "Fakir olmaları",
+        "Zulmetmeleri, adaletsizlik yapmaları ve Allah'ın uyarılarında inatla inkara devam etmeleri",
+        "Savaşlarda yenilmeleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "Allah hiçbir toplumu haksız yere cezalandırmaz. Helak olan toplumlar; zayıfları ezen, adaletsiz olan ve peygamberlerin uyarılarını alaya alan zalim toplumlardır."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "Hz. Yakub, çok sevdiği oğlu Yusuf'u kaybettiğinde yıllarca gözyaşı dökmüş ancak 'Bana düşen güzel bir sabırdır' diyerek Allah'a isyan etmemiştir. Yıllar sonra oğluna kavuşmuştur. Hz. Yakub'un bu tavrı bize neyi öğretir?",
+      "answers": [
+        "Çocuklara güvenilmemesi gerektiğini",
+        "Büyük acılar karşısında Allah'tan ümit kesmeden sabretmenin önemini",
+        "Ağlamanın zayıflık olduğunu",
+        "Kardeşlerin her zaman düşman olacağını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. Yakub (a.s), evlat acısı gibi büyük bir sınavı isyanla değil, Allah'tan ümidini hiç kesmeden ve güzel bir sabır göstererek atlatmıştır."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "Peygamberler, insanları hak yola davet ederken genellikle toplumun önde gelen zenginleri ve yöneticileri onlara karşı çıkmış, fakirler ve zayıflar ise onlara inanmıştır. Bunun temel nedeni ne olabilir?",
+      "answers": [
+        "Fakirlerin boş zamanının çok olması",
+        "Peygamberlerin adaleti, eşitliği savunması ve haksız kazanca karşı çıkması",
+        "Peygamberlerin insanlara para dağıtması",
+        "Zenginlerin okuma yazma bilmemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "İslam ve peygamberler, köleliği ve sömürüyü reddedip eşitliği savunduğu için statülerini (güçlerini) kaybetmek istemeyen zalim yöneticiler onlara düşman olmuştur."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Güzel sesiyle okuduğu ilahi kitaptaki (Zebur) dualarla tanınan, kendisine dağların ve kuşların eşlik ettiği bildirilen peygamber kimdir?",
+      "answers": [
+        "Hz. Davud",
+        "Hz. İshak",
+        "Hz. Harun",
+        "Hz. Lokman"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Zebur'un verildiği, çok güzel bir sese sahip olan (Davudi ses deyimi buradan gelir) ve demiri işleyen peygamber Hz. Davud'dur."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "Kur'an'da peygamber olmadığı halde hikmetli (çok bilgece) sözleri ve oğluna verdiği ahlaki öğütlerle (sesini yükseltme, kibirlenme vb.) anılan, adına bir sure bulunan bilge kişi kimdir?",
+      "answers": [
+        "Hızır",
+        "Zülkarneyn",
+        "Lokman Hekim",
+        "Talut"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Kur'an'da 31. sure olan Lokman Suresi'nde, oğluna şirke düşmemeyi, namaz kılmayı ve kibirlenmemeyi öğütleyen hikmet sahibi kişi Hz. Lokman'dır."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Bir Müslüman Kur'an'daki Hz. Musa kıssasını okuduğunda sadece denizin ikiye ayrılması mucizesine şaşırmakla kalmamalıdır. Bu kıssadan günümüze taşınması gereken asıl mesaj aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sihirbazlık gösterilerinin nasıl yapılacağı",
+        "Zulme uğrayanların Allah'ın yardımıyla bir gün mutlaka zalimlere galip geleceği",
+        "Asa yapım teknikleri",
+        "Denizlerde nasıl yolculuk yapılacağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Hz. Musa ve Firavun kıssası; hak ile batılın savaşını anlatır. En güçlü zalimlerin bile (Firavun), inanan ve mücadele eden mazlumlar karşısında yok olacağını öğretir."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Seba ülkesinin kraliçesi olan Belkıs, Hz. Süleyman'ın kendisine gönderdiği mektubu alınca tek başına karar vermemiş, danışmanlarını toplayarak onlara fikirlerini sormuştur. Belkıs'ın bu davranışı yöneticilerde bulunması gereken hangi özelliği gösterir?",
+      "answers": [
+        "İstişareye (Danışmaya) önem verdiğini",
+        "Korkak ve kararsız olduğunu",
+        "Sorumluluktan kaçtığını",
+        "Savaşı çok sevdiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "Önemli kararlar almadan önce konuyu uzmanlarına veya çevresindekilere danışarak ortak akılla hareket etmeye 'İstişare' denir ve İslam'da çok önemlidir."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Tarihte ilk defa Kâbe'nin temelleri atılırken, babası Hz. İbrahim'e yardım ederek taş taşıyan ve onunla birlikte dua eden peygamber kimdir?",
+      "answers": [
+        "Hz. İshak",
+        "Hz. Yakub",
+        "Hz. İsmail",
+        "Hz. Yusuf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Mekke'de bulunan Kâbe, Hz. İbrahim ve oğlu Hz. İsmail tarafından inşa edilmiştir."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Peygamberlerin hayatlarında hata yapmamak için büyük özen göstermeleri ve günah işlemekten korunmuş olmaları, onların hangi ortak sıfatı ile isimlendirilir?",
+      "answers": [
+        "Sıdk (Doğruluk)",
+        "Emanet (Güvenilirlik)",
+        "İsmet (Günahsızlık)",
+        "Tebliğ (Bildirme)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Peygamberlerin insanlara doğru örnek olabilmek için Allah'ın korumasıyla günah işlemekten uzak durmalarına 'İsmet' sıfatı denir."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Kıssalarda peygamberlerin çok zor anlarında bile (ateşe atılırken, denizin önünde sıkışmışken, kuyunun dibindeyken) asla panik yapmayıp 'Allah benimledir' dedikleri görülür. Bu durum İslam'da hangi kavramı tam olarak açıklar?",
+      "answers": [
+        "Kadercilik (Hiçbir şey yapmadan beklemek)",
+        "Tevekkül (Allah'a tam güven)",
+        "Tevazu (Alçakgönüllülük)",
+        "Adalet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Peygamberler üzerlerine düşen tüm mücadeleyi verdikten sonra sonuç ne olursa olsun Allah'a sığınmış ve O'na tam bir güven (tevekkül) duymuşlardır."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "Aşağıdakilerden hangisi Kur'an-ı Kerim'de anlatılan peygamber kıssalarının özelliklerinden biri olamaz?",
+      "answers": [
+        "Sadece geçmişte kalan ve günümüzle ilgisi olmayan hikayelerdir.",
+        "İçlerinde insanlar için öğütler barındırır.",
+        "Doğruluk, sabır ve adaleti ön plana çıkarır.",
+        "İnananlara umut ve güç verir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 1,
+      "explanation": "Kur'an'daki kıssalar zamansızdır. Firavun zulmü, Hz. Yusuf'un kıskanç kardeşleri veya Hz. Nuh'un mücadelesi her çağda insanlara ders veren güncel konulardır."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Hz. Muhammed (s.a.v) peygamber olmadan önce de Mekke halkı tarafından asla yalan söylemediği için 'Muhammed'ül Emin' (Güvenilir Muhammed) olarak anılırdı. Bu özellik peygamberlerin hangi ortak sıfatını vurgular?",
+      "answers": [
+        "Fetanet (Akıllı ve zeki olma)",
+        "İsmet (Günah işlememe)",
+        "Emanet (Güvenilir olma)",
+        "Tebliğ (Mesajı iletme)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 2,
+      "explanation": "Toplumda elçi (peygamber) olarak seçilen kişinin öncelikle dürüst ve emanete hıyanet etmeyen (Güvenilir/Emin) bir karaktere sahip olması gerekir."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "Hz. Yusuf'un kıssası Kur'an-ı Kerim'de 'Ahsenü'l-Kasas' yani 'Kıssaların En Güzeli' olarak isimlendirilir. Bu isimlendirmenin temel sebebi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Olayların çok kısa bir sürede gerçekleşmiş olması",
+        "İçerisinde sevgi, ihanet, sabır, zindan, iktidar ve sonunda muhteşem bir affediş gibi insan hayatına dair çok derin ahlaki dersler barındırması",
+        "Sadece Mısır tarihini anlatması",
+        "İçinde hiç mucize bulunmaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Kıssaları",
+      "difficulty": 3,
+      "explanation": "Hz. Yusuf kıssası, baştan sona bir insanın hayatındaki tüm iniş çıkışları (kuyudan saraya) ve en önemlisi ahlaki duruşu (affetmeyi) anlattığı için en güzel kıssa kabul edilir."
+    }
+  ]
+}

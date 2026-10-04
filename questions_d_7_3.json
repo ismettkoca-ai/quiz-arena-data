@@ -1,0 +1,425 @@
+{
+  "unit": "İslam Düşüncesinde Yorumlar",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "İslam dini tektir ve kaynağı Kur'an ile Sünnet'tir. Ancak tarih boyunca Müslümanlar, bulundukları coğrafyaya ve kültüre göre bu kaynakları farklı şekillerde yorumlamışlardır. Bu durum neyin göstergesidir?",
+      "answers": [
+        "Dinin birden fazla olduğunun",
+        "Dinin (vahyin) değişmez, ancak din anlayışının (yorumların) değişebilir olduğunun",
+        "İslam'ın kurallarının sürekli değiştiğinin",
+        "Peygamberlerin farklı dinler getirdiğinin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Din vahye dayanır ve değişmez. Din anlayışı ise insanların aklına, kültürüne ve dönemine göre değişebilen zengin bir yorumdur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "Çöl ikliminde yaşayan bir Müslümanın abdest alırken suyu tasarruflu kullanmaya çalışması ile suyun bol olduğu Karadeniz'de yaşayan birinin daha rahat abdest alması, İslam düşüncesindeki yorum farklılıklarının hangi sebebiyle ilgilidir?",
+      "answers": [
+        "Siyasi sebepler",
+        "Coğrafi sebepler",
+        "Kültürel sebepler",
+        "Metinlerden kaynaklanan sebepler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "İklim, bölgenin bitki örtüsü ve su kaynakları gibi faktörlerin insanların dini yaşayışlarını etkilemesine 'Coğrafi Sebepler' denir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "Peygamberimiz vefat ettikten sonra 'Devlet başkanı (Halife) kim olacak?' tartışmaları yaşanmış ve bu tartışmalar zamanla farklı grupların (mezheplerin) doğmasına sebep olmuştur. Bu durum yorum farklılıklarının hangi nedenidir?",
+      "answers": [
+        "Coğrafi sebepler",
+        "Metinden kaynaklanan sebepler",
+        "Siyasi sebepler",
+        "Ekonomik sebepler"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Yönetim erki, halifelik seçimi ve devlet idaresi gibi konular siyasetin alanıdır. Halifelik tartışmaları siyasi sebeplerin en büyük örneğidir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "Kur'an-ı Kerim'de ve hadislerde inanç, ahlak ve ibadet konuları yer alır. İslam alimlerinin bu metinleri anlamaya çalışırken farklı yöntemler kullanmaları sonucunda oluşan okullara genel olarak ne ad verilir?",
+      "answers": [
+        "Kıssa",
+        "Siyer",
+        "Mezhep",
+        "İlmihal"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Sözlükte 'gidilen yol' anlamına gelen Mezhep, din alimlerinin kendi yöntemleriyle çıkardıkları farklı yorum ve kuralların oluşturduğu ekoldür[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Öğretmeni sınıfta, 'Aynı peygambere inanıyoruz, aynı kitaba ve kıbleye yöneliyoruz. Kardeşlik bağımız ufak yorum farklılıklarından çok daha güçlüdür' demiştir. Öğretmenin bu sözüyle vermek istediği temel mesaj nedir?",
+      "answers": [
+        "Mezheplerin tamamen gereksiz olduğu",
+        "Farklı mezheplerin birbiriyle düşman olması gerektiği",
+        "Yorum farklılıklarının bir zenginlik olduğu ve Müslümanları asla bölmemesi gerektiği",
+        "Herkesin aynı şekilde düşünmesinin zorunlu olduğu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "İslam'da farklı mezhepler ayrılık ve kavga sebebi değil; dinin farklı kültürlerde daha kolay yaşanmasını sağlayan bir zenginliktir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "İslam düşüncesinde yorumlar genel olarak üç ana gruba ayrılır. Aşağıdakilerden hangisi bu ana gruplardan (yorum biçimlerinden) biri değildir?",
+      "answers": [
+        "İnançla ilgili (İtikadi) yorumlar",
+        "Savaşla ilgili (Askeri) yorumlar",
+        "Fıkhi (Ameli) yorumlar",
+        "Tasavvufi yorumlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "İslam düşüncesi; İnanç (Maturidilik, Eşarilik), Fıkıh (Hanefilik, Şafiilik vb.) ve Tasavvuf (Mevlevilik, Alevilik vb.) olmak üzere üç ana başlıkta yorumlanır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "İslamiyet'i kabul eden Türklerin büyük çoğunluğunun benimsediği, 'Akıl ile vahiy asla çelişmez' ilkesini savunan, İmam Maturidi'nin görüşlerine dayanan inanç (itikadi) mezhebi hangisidir?",
+      "answers": [
+        "Eşarilik",
+        "Maturidilik",
+        "Hanbelilik",
+        "Kadirilik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Özellikle Türklerin benimsediği Maturidilik, aklı vahyi anlamak için çok önemli bir araç olarak gören ve inanç esaslarını inceleyen itikadi mezheptir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "Kur'an'da Allah'ın eli, Allah'ın yüzü gibi kavramlar (müteşabih ayetler) geçer. Bazı alimler bunu 'Allah'ın gücü', bazıları ise 'Nasıl olduğunu bilemeyiz' şeklinde yorumlamıştır. Bu durum yorum farklılıklarının hangi nedenine girer?",
+      "answers": [
+        "Metinlerden kaynaklanan sebepler",
+        "Coğrafi sebepler",
+        "Siyasi sebepler",
+        "Ekonomik sebepler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Kur'an'da anlamı kapalı olan veya birden fazla anlama gelen kelimelerin (metinlerin) farklı alimlerce farklı anlaşılması, metinden kaynaklanan sebeplerdir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "Namaz nasıl kılınır, zekat kimlere ne kadar verilir, orucu bozan şeyler nelerdir? Bu gibi ibadetlerle ve günlük hayatın kurallarıyla ilgili yorumları (mezhepleri) inceleyen ilim dalı hangisidir?",
+      "answers": [
+        "Tefsir",
+        "Siyer",
+        "Fıkıh (Ameli Yorumlar)",
+        "Tasavvuf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "İnanç (İtikad) neye inanılacağını incelerken; Fıkıh (Amel) o inancın ibadete ve günlük eylemlere (helal, haram, namaz vb.) nasıl döküleceğini inceler[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Asıl adı Numan bin Sabit olan, akla ve kıyasa büyük önem veren, Türkiye ve Orta Asya'da en çok mensubu bulunan fıkhi mezhebin kurucusu (İmam-ı Azam) kimdir?",
+      "answers": [
+        "İmam Malik",
+        "İmam Şafii",
+        "İmam Hanbeli",
+        "Ebu Hanife"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Türklerin fıkıhta en çok benimsediği Hanefilik mezhebinin kurucusu, İmam-ı Azam (En büyük imam) unvanıyla bilinen Ebu Hanife'dir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "Mısır, Endonezya ve Türkiye'nin doğu illerinde yaygın olan, kurucusunun yazdığı 'Er-Risale' adlı eserle bilinen fıkhi mezhep aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hanefilik",
+        "Şafiilik",
+        "Malikilik",
+        "Caferilik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "İmam Muhammed bin İdris eş-Şafii tarafından kurulan Şafiilik, İslam dünyasında Hanefilikten sonra en çok mensubu bulunan ikinci fıkhi mezheptir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "Medine halkının uygulamalarına çok önem veren, 'Muvatta' adlı ünlü hadis kitabını yazan İmam Malik'in görüşleri etrafında şekillenen ve genellikle Kuzey Afrika'da yaygın olan mezhep hangisidir?",
+      "answers": [
+        "Malikilik",
+        "Hanbelilik",
+        "Eşarilik",
+        "Maturidilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "İmam Malik, peygamberimizin şehri olduğu için Medine halkının geleneklerini dini yorumlamada en büyük kaynaklardan biri kabul eden Malikilik mezhebinin kurucusudur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "Özellikle Ehli Beyt (peygamberin ailesi) sevgisine çok önem veren, peygamberimizin torunu olan İmam Cafer es-Sadık'ın görüşlerini temel alan ameli mezhep hangisidir?",
+      "answers": [
+        "Hanefilik",
+        "Malikilik",
+        "Caferilik",
+        "Kadirilik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Hz. Ali soyundan gelen İmam Cafer es-Sadık'ın öğretilerine dayanan Caferilik, Şia inancının ameli mezhebi olarak bilinir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "Kur'an ve Sünnetin katı (sıkı) bir şekilde uygulanmasını savunan, kıyasa ve akla diğer mezheplerden daha az yer veren, Suudi Arabistan'da yaygın olan fıkhi mezhep hangisidir?",
+      "answers": [
+        "Şafiilik",
+        "Hanbelilik",
+        "Maturidilik",
+        "Mevlevilik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Ahmet bin Hanbel'in görüşleri etrafında oluşan Hanbelilik, dini yorumlarken nakle (hadis ve ayetlere) sıkı sıkıya bağlı olan fıkhi bir mezheptir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "İnsanları Allah'ı sevmeye, kötülüklerden uzaklaşıp güzel ahlaka (nefis terbiyesine) ulaşmaya ve dünyevi hırslardan arınmaya yönelten yorum biçimine (ekollere) genel olarak ne ad verilir?",
+      "answers": [
+        "Fıkhi Yorumlar",
+        "İtikadi Yorumlar",
+        "Siyasi Yorumlar",
+        "Tasavvufi Yorumlar"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Tasavvuf; insanın kalbini temizlemesi, dünyalık mal hırsını bırakıp tamamen Allah aşkına ve güzel ahlaka odaklanmasını sağlayan manevi bir yoldur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "Türk dilini çok iyi kullanan, 'Divan-ı Hikmet' adlı eseriyle Orta Asya'daki Türklerin Müslüman olmasında büyük emeği olan ve ilk büyük Türk mutasavvıfı sayılan kişi kimdir?",
+      "answers": [
+        "Hacı Bektaş Veli",
+        "Mevlana Celaleddin Rumi",
+        "Hoca Ahmet Yesevi",
+        "Yunus Emre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Yesevilik yolunun kurucusu olan Hoca Ahmet Yesevi, Anadolu'ya ve Balkanlara dervişlerini (Alperenleri) göndererek İslam'ın hoşgörüyle yayılmasını sağlamıştır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Aşağıdakilerden hangisi Mevlevilik düşüncesiyle (Mevlana ile) özdeşleşmiş, ilahi aşkı temsil eden bir ritüeldir (ibadet şeklidir)?",
+      "answers": [
+        "Semah",
+        "Sema (Dönmek)",
+        "Musahiplik",
+        "Gülbank"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Mevlevilikte, kolların açılarak bir elin göğe bir elin yere dönük şekilde ilahi aşkla dönülmesine 'Sema' (Sema gösterisi) denir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "İslam dünyasında en yaygın tasavvufi yollardan biridir. Seyyid (peygamber soyundan gelen) Abdülkadir Geylani'nin görüşleri etrafında oluşan bu yolun adı nedir?",
+      "answers": [
+        "Yesevilik",
+        "Mevlevilik",
+        "Kadirilik",
+        "Nakşibendilik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Kadirilik, zikir ve Allah sevgisini merkeze alan, kurucusu Abdülkadir Geylani olan çok köklü bir tasavvufi yorumdur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Alevilik-Bektaşilik geleneğinde, inananların ibadet etmek, sorunları çözmek ve Allah'ı anmak (zikir) için kadın-erkek bir araya geldikleri dini törene ne ad verilir?",
+      "answers": [
+        "Sema",
+        "Mukabele",
+        "Cem",
+        "Sohbet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Arapça 'toplanmak, bir araya gelmek' anlamına gelen Cem, Alevilik-Bektaşilik kültürünün en temel ibadet ve dayanışma törenidir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "Alevilik-Bektaşilik inancında Cem törenlerinin yapıldığı, insanların toplanıp ibadet ettikleri, aynı zamanda lokmalarını paylaştıkları mekana (yere) ne ad verilir?",
+      "answers": [
+        "Mescit",
+        "Cemevi",
+        "Medrese",
+        "Külliye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "İnsanların bir araya (Cem) gelip ibadet ettikleri ve toplum meselelerini çözdükleri kurumsal mekanlara 'Cemevi' denir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "Cem törenlerinde bağlama (saz) ve nefesler (ilahiler) eşliğinde, kadın ve erkeklerin ilahi bir aşkla, bir düzen içinde dönerek yaptıkları ritüelin adı nedir?",
+      "answers": [
+        "Sema",
+        "Halay",
+        "Semah",
+        "Gülbank"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Mevlevilikteki 'Sema'nın aksine, Alevi-Bektaşi inancında saz eşliğinde yapılan manevi dönüş ritüeline 'Semah' adı verilir[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "Alevi-Bektaşi geleneğinde, Hz. Muhammed ile Hz. Ali'nin kardeş olmasını örnek alarak, kan bağı olmayan iki ailenin birbirini dünya ve ahiret kardeşi seçmesine ne ad verilir?",
+      "answers": [
+        "Musahiplik (Yol kardeşliği)",
+        "Gülbank",
+        "Semah",
+        "Düşkünlük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Musahiplik, iki kişinin bir dedenin huzurunda söz vererek her türlü maddi ve manevi sorunda birbirine destek olacaklarına dair yemin ettikleri büyük bir kardeşlik kurumudur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Cem töreni başlamadan önce, orada bulunan herkesin birbirine bir kırgınlığı varsa barışması, kul hakkı olanların haklarını ödemesi istenir. Aksi halde Cem töreni başlamaz. Bu uygulamaya ne ad verilir?",
+      "answers": [
+        "Musahiplik",
+        "Razılık (Rızalık) Alma ve Helalleşme",
+        "Semah Döner",
+        "Sema"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Alevi-Bektaşi inancında 'Kul hakkıyla Cem'e girilmez'. Bu yüzden ibadetten önce herkesin birbirinden razı olması (Rızalık alması) şarttır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "Muharrem ayı, İslam tarihinde hem güzellikleri hem de çok acı bir olayı barındırır. Peygamberimizin torunu Hz. Hüseyin ve ailesinin Kerbela'da şehit edildiği bu ayda, Alevi-Bektaşi kültüründe özellikle hangi ibadet (yas) tutulur?",
+      "answers": [
+        "Ramazan Orucu",
+        "Muharrem Orucu (Yas Orucu)",
+        "Şevval Orucu",
+        "Nafile Oruç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Kerbela'da yaşanan acıyı hissetmek, su içmeyerek onların susuzluğunu paylaşmak ve peygamber soyuna (Ehli Beyt) bağlılığı göstermek için 12 gün boyunca Muharrem Orucu tutulur[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "Muharrem orucunun bitiminde, Hz. Hüseyin'in oğlu Zeynel Abidin'in Kerbela katliamından sağ kurtulması ve peygamber soyunun devam etmesi anısına bir şükür olarak pişirilip dağıtılan tatlı hangisidir?",
+      "answers": [
+        "Aşure",
+        "Güllaç",
+        "Lokma",
+        "Sütlaç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Muharrem ayının 12 günlük yas orucu bittikten sonra, şükür ve paylaşma amacıyla Aşure kaynatılır ve tüm komşularla paylaşılır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Alevi-Bektaşi inancında dualara verilen özel bir isim vardır. Genellikle 'Bismişah Allah Allah' sözüyle başlayan, Allah'tan af, mağfiret ve bereket istenen kısa ve özlü bu dualara ne ad verilir?",
+      "answers": [
+        "Semah",
+        "Mukabele",
+        "Gülbank",
+        "Musahip"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Gülbank (veya Tercüman), Dede'nin Cem'de veya yemek sonrası (lokma duası) okuduğu, cemaatin de 'Allah Allah' diyerek katıldığı dualardır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Bahauddin Nakşibend tarafından kurulan; gösterişten uzak durmayı (halvet der encümen) ve zikrin (Allah'ı anmanın) sesli değil, kalpten sessizce yapılmasını (Hafî Zikir) savunan tasavvufi yorum hangisidir?",
+      "answers": [
+        "Mevlevilik",
+        "Nakşibendilik",
+        "Yesevilik",
+        "Kadirilik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Nakşibendilik, Allah sevgisini kalbe nakşetmek (işlemek) anlamına gelir ve özellikle gizli/sessiz zikir yapmasıyla diğerlerinden ayrılır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "Anadolu'nun Türkleşmesinde ve İslamlaşmasında büyük rol oynayan Hacı Bektaş Veli'nin, İslam'ın temel prensiplerini anlattığı en ünlü eseri aşağıdakilerden hangisidir?",
+      "answers": [
+        "Mesnevi",
+        "Divan-ı Hikmet",
+        "Makalât",
+        "Muvatta"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 3,
+      "explanation": "Hacı Bektaş Veli'nin Dört Kapı Kırk Makam öğretisini detaylıca anlattığı, Alevi-Bektaşi inancının temel kaynaklarından olan eseri Makalât'tır[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Alevi-Bektaşi kültüründe Hz. Ali'ye büyük bir sevgi beslenir ve Allah'ın aslanı anlamına gelen bir kılıç sembolüyle anılır. Adaletin sembolü olarak görülen bu iki başlı (uçlu) tarihi kılıcın adı nedir?",
+      "answers": [
+        "Zülfikar",
+        "Mızrak",
+        "Asa",
+        "Kalkan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 1,
+      "explanation": "Peygamberimiz tarafından Hz. Ali'ye hediye edilen ucu çatallı Zülfikar kılıcı, İslam'da yiğitliğin ve adaletin sembolüdür[cite: 13]."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "Hacı Bektaş Veli'nin 'İncinsen de incitme', 'Eline, beline, diline sahip ol', 'Düşmanının dahi insan olduğunu unutma' gibi evrensel sözleri, Tasavvuf yorumlarının asıl amacının ne olduğunu gösterir?",
+      "answers": [
+        "İnsanları savaşa hazırlamak",
+        "İnsanı kamil (olgun, ahlaklı ve merhametli insan) yetiştirmek",
+        "Ticareti geliştirmek",
+        "İnsanları dünyadan tamamen koparmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İslam Düşüncesinde Yorumlar",
+      "difficulty": 2,
+      "explanation": "Tüm tasavvufi yorumların (Mevlana, Yunus Emre, Hacı Bektaş) tek ve ortak amacı, insanı nefsinin kötülüklerinden arındırıp mükemmel ahlaka (İnsan-ı Kamil) ulaştırmaktır[cite: 13]."
+    }
+  ]
+}

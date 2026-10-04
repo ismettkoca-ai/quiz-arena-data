@@ -1,0 +1,425 @@
+{
+  "unit": "Teen Life",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "I prefer listening to pop music ............... rock music.",
+      "answers": [
+        "than",
+        "to",
+        "more",
+        "at"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "'Prefer' (tercih etmek) fiili ile iki şeyi karşılaştırırken araya 'to' edatı getirilir (prefer something TO something)."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "Mary hates listening to heavy metal. She thinks it is ...............",
+      "answers": [
+        "impressive",
+        "terrific",
+        "unbearable",
+        "fascinating"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Mary heavy metal dinlemekten nefret ettiğine göre, onun 'unbearable' (katlanılamaz, dayanılmaz) olduğunu düşünmektedir."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "Always = %100",
+        "Usually = %80",
+        "Rarely = %90",
+        "Never = %0"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "'Rarely' nadiren demektir ve %10 gibi çok düşük bir sıklığı ifade eder. %90 civarı sıklık 'Usually' veya 'Often' için uygundur."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "My sister is crazy ............... reading fantasy books. She has a big library.",
+      "answers": [
+        "in",
+        "on",
+        "about",
+        "with"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Bir şeye çok düşkün olmayı ifade eden kalıp 'be crazy about' (bir şeye bayılmak, delisi olmak) şeklindedir."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "Aşağıdaki kelimelerden hangisi bir müzik türü (type of music) değildir?",
+      "answers": [
+        "Jazz",
+        "Folk",
+        "Detective",
+        "Classical"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Jazz, Folk ve Classical birer müzik türüdür. 'Detective' (Dedektif) ise bir kitap veya film türüdür."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "Jack: I can't ............... rap music. It is too loud and annoying.\nBoşluğa gelmesi gereken ifade hangisidir?",
+      "answers": [
+        "listen",
+        "stand",
+        "hear",
+        "fond"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "'Can't stand' katlanamamak, tahammül edememek anlamına gelen kalıplaşmış bir ifadedir."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "My brother reads two books every week. He is a true ...............",
+      "answers": [
+        "snob",
+        "nerd",
+        "bookworm",
+        "trend"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Haftada iki kitap okuyan ve okumayı çok seven kişilere 'bookworm' (kitap kurdu) denir."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "John: ............... do you usually go to the library?\nTim: Twice a week.",
+      "answers": [
+        "What time",
+        "How often",
+        "Where",
+        "Who"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Cevapta 'Twice a week' (Haftada iki kez) dendiği için sıklık sorulmaktadır. Sıklık sorusu 'How often' (Ne sıklıkla) ile sorulur."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "I am keen ............... camping in the woods on weekends.",
+      "answers": [
+        "in",
+        "at",
+        "of",
+        "on"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Bir şeye ilgi duymak, meraklı olmak anlamındaki kalıp 'be keen on' şeklindedir."
+    },
+    {
+      "id": "Q_8_2_010",
+      "questionText": "Sue: What do you usually do in the evenings?\nJane: ...............",
+      "answers": [
+        "I usually listen to music and do my homework.",
+        "I prefer eating pizza.",
+        "I am going to the cinema.",
+        "It is at 8 p.m."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teen Life",
+      "difficulty": 1,
+      "explanation": "Akşamları 'genellikle ne yaparsın?' sorusuna verilecek en uygun rutin cevabı 'Genellikle müzik dinler ve ödevimi yaparım'dır."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "Complete the sentence: \nI prefer ............... a book ............... watching TV.",
+      "answers": [
+        "read / than",
+        "reading / to",
+        "to read / to",
+        "reading / than"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "'Prefer' fiilinden sonra gelen eylemler -ing takısı alır ve iki seçenek arasına 'to' edatı konur (prefer reading TO watching)."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "Sam: ...............?\nPaul: I usually listen to pop and rock.",
+      "answers": [
+        "When do you listen to music",
+        "Who is your favorite singer",
+        "What kind of music do you listen to",
+        "How often do you go to concerts"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "Cevapta 'pop ve rock' dendiğine göre müzik türü sorulmaktadır. 'What kind of music...?' (Ne tür müzik...?) doğru sorudur."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "If something is 'impressive', it means it is ...............",
+      "answers": [
+        "very bad and boring.",
+        "very good and you admire it.",
+        "too expensive to buy.",
+        "not interesting at all."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "'Impressive' etkileyici demektir. Çok iyi olan ve hayranlık uyandıran şeyler için kullanılır."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Sci-fi",
+        "Detective",
+        "Compass",
+        "Biographical"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "Sci-fi (Bilim kurgu), Detective (Dedektif) ve Biographical (Biyografik) kitap türleridir. 'Compass' (pusula) ise kamp malzemesidir."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "A: Do you like watching sci-fi movies?\nB: ............... I think they are ridiculous.",
+      "answers": [
+        "Yes, of course.",
+        "I love them.",
+        "No, not at all.",
+        "That sounds awesome."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "B kişisi filmlerin 'ridiculous' (saçma, gülünç) olduğunu düşündüğüne göre onları sevmiyordur. Bu yüzden cevap 'No, not at all' (Hayır, hiç sevmem) olmalıdır."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "Amanda is very interested in real people's lives. She always reads ............... books.",
+      "answers": [
+        "fantasy",
+        "sci-fi",
+        "gothic",
+        "biographical"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "Gerçek insanların hayat hikayelerine ilgi duyan biri 'biographical' (biyografik) kitaplar okur."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Which sentence has a GRAMMAR mistake?",
+      "answers": [
+        "I prefer drinking tea to coffee.",
+        "She would rather eat pizza than hamburger.",
+        "He prefers play football to tennis.",
+        "They are fond of listening to jazz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "C şıkkında hata vardır. 'Prefer' fiilinden sonra eylem geliyorsa -ing almalıdır (He prefers playING football)."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Complete the sentence: \nI would rather ............... a movie at home than ............... to the cinema.",
+      "answers": [
+        "watch / go",
+        "watching / going",
+        "to watch / to go",
+        "watch / going"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "'Would rather' yapısından sonra fiiller yalın haldedir (V1) ve iki seçenek arasına 'than' konur. Doğru kullanım: would rather watch ... than go ..."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "I. To be honest, I can't stand it.\nII. What do you think about rap music?\nIII. Why not? It is very energetic.\nIV. I think it is unbearable and too loud.\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "II - I - III - IV",
+        "II - III - I - IV",
+        "I - III - IV - II",
+        "IV - II - I - III"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Soru sorulur (II), cevap verilir (I), neden sevmediği sorgulanır (III) ve sebep açıklanır (IV)."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "Tim: I am interested in nature. I always go camping and trekking.\nAccording to the sentence, which equipment does Tim NOT need?",
+      "answers": [
+        "Tent",
+        "Sleeping bag",
+        "Compass",
+        "Oven"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "Kamp ve doğa yürüyüşü (trekking) yapan birinin çadır (tent), uyku tulumu (sleeping bag) ve pusulaya (compass) ihtiyacı vardır ama fırına (oven) ihtiyacı yoktur."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "She is a 'snob' person. She always ...............",
+      "answers": [
+        "helps her friends.",
+        "looks down on other people.",
+        "shares her belongings.",
+        "makes jokes."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "'Snob' (züppe/kibirli) kişiler başkalarını küçümseyen, onlara tepeden bakan (look down on) insanlardır."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "A: What type of clothing do you prefer wearing?\nB: I prefer ............... clothes because I feel relaxed in them.",
+      "answers": [
+        "formal",
+        "uncomfortable",
+        "casual",
+        "trendy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Kendini rahat (relaxed) hissettiğini söyleyen biri 'casual' (günlük/rahat) kıyafetler tercih eder. 'Formal' resmi kıyafet demektir."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "According to a research, %60 of teens prefer listening to pop, %25 prefer rock, %10 prefer rap and %5 prefer classical music.\n\nWhich statement is TRUE according to the results?",
+      "answers": [
+        "Half of the teens like rock music.",
+        "Classical music is the most popular one.",
+        "Teens prefer rock music to pop music.",
+        "Pop music is the most popular among teens."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Verilere göre %60 ile en büyük oran pop müziğe aittir. Bu yüzden pop müzik gençler arasında en popüler olanıdır (the most popular)."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "David gets up at 7.00 a.m. He has breakfast at 7.30. He goes to school at 8.00. He returns home at 4.00 p.m. \n\nWhat does David do AFTER he has breakfast?",
+      "answers": [
+        "He gets up.",
+        "He returns home.",
+        "He goes to school.",
+        "He sleeps."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 2,
+      "explanation": "Kahvaltıdan SONRA (After he has breakfast) ne yaptığı sorulmaktadır. Metne göre 07:30'daki kahvaltıdan sonra 08:00'da okula gitmektedir (He goes to school)."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "If a teenager follows the latest fashion and wears modern clothes, he/she is ...............",
+      "answers": [
+        "ridiculous",
+        "trendy",
+        "boring",
+        "nerd"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Son modayı takip eden ve modern giyinen kişilere 'trendy' (moda olan/modaya uyan) denir."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Complete the dialogue.\nA: I have two tickets for a rock concert. Let's go together.\nB: ............... I can't stand loud music. I think it is unbearable.",
+      "answers": [
+        "Why not?",
+        "I'd love to, but I can't.",
+        "That is a brilliant idea.",
+        "Sure, I will be there."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "B kişisi yüksek sesli müziğe dayanamadığını ve katlanılmaz bulduğunu söylüyor. Bu yüzden teklifi reddetmelidir (I'd love to, but I can't)."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "Which matching of 'adverb of frequency' is WRONG?",
+      "answers": [
+        "1 time a week = Once a week",
+        "2 times a week = Twice a week",
+        "3 times a week = Third a week",
+        "4 times a week = Four times a week"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Haftada 3 kez demek için 'Three times a week' kullanılır. 'Third a week' yanlıştır."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "Mark: Do you like reading fantasy books?\nAli: No, I don't. To be honest, I think they are ...............",
+      "answers": [
+        "fascinating",
+        "impressive",
+        "excellent",
+        "ridiculous"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Ali fantezi kitaplarını sevmediğini söylüyor. Bu nedenle boşluğa olumsuz bir sıfat gelmelidir. 'Ridiculous' (saçma) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "Find the correct translation of the sentence: \n'Rock müziği pop müziğe tercih ederim çünkü o daha enerjiktir.'",
+      "answers": [
+        "I would rather rock music than pop music because it is energetic.",
+        "I prefer pop music to rock music because it is more energetic.",
+        "I prefer rock music to pop music because it is more energetic.",
+        "I prefer listening rock music than pop music because it is energetic."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Doğru yapı 'I prefer rock music to pop music' şeklindedir (Tercih edilen önce yazılır, araya 'to' konur). Ayrıca 'daha enerjik' (more energetic) kısmı da doğru çevrilmiştir."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "Read the text: 'Hi, I'm Lisa. I usually get up early. I have breakfast with my family. I walk to school because it is very close to my house. After school, I attend a music club. I play the guitar there. I return home at 5 p.m.'\n\nWhich question does NOT have an answer in the text?",
+      "answers": [
+        "How does she go to school?",
+        "What time does she return home?",
+        "What does she do after school?",
+        "What time does she get up in the mornings?"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teen Life",
+      "difficulty": 3,
+      "explanation": "Metinde okula nasıl gittiği (walk to school), ne zaman döndüğü (at 5 p.m.) ve okuldan sonra ne yaptığı (attend a music club) verilmiştir. Ancak sabah saat kaçta kalktığı tam olarak verilmemiş, sadece 'erken kalkarım' (get up early) denmiştir."
+    }
+  ]
+}

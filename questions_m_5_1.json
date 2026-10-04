@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Şekiller",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "Her iki yönden sonsuza kadar uzayan, başlangıcı ve bitişi olmayan düz çizgiye ne ad verilir?",
+      "answers": [
+        "Nokta",
+        "Doğru",
+        "Işın",
+        "Doğru Parçası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Her iki yönden sonsuza uzayan, sınırı olmayan düz çizgilere 'doğru' adı verilir."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "Bir ucu sabit (sınırlı), diğer ucu sonsuza kadar uzayan düz çizgi modeline ne ad verilir?",
+      "answers": [
+        "Açı",
+        "Işın",
+        "Doğru Parçası",
+        "Doğru"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Güneş ışınları veya lazer gibi bir noktadan başlayıp bir yönde sonsuza giden çizgilere 'ışın' denir."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "Aşağıdaki sembollerden hangisi 'AB doğru parçası'nı ifade eder?",
+      "answers": [
+        "AB",
+        "[AB)",
+        "(AB]",
+        "[AB]"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Doğru parçası her iki ucundan da sınırlı olduğu için her iki tarafa da köşeli parantez konularak [AB] şeklinde gösterilir."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Kalemin kağıt üzerinde bıraktığı ize matematikte ne ad verilir?",
+      "answers": [
+        "Işın",
+        "Doğru",
+        "Nokta",
+        "Çember"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Geometrinin en temel kavramı olan nokta, kalemin kağıt üzerinde bıraktığı iz olarak tanımlanır ve büyük harfle isimlendirilir."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "Kareli veya noktalı kağıtta bir noktanın diğer bir noktaya göre konumu ifade edilirken aşağıdakilerden hangisi kullanılmaz?",
+      "answers": [
+        "Sağ",
+        "Sol",
+        "Kuzey",
+        "Yukarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Noktanın konumu belirtilirken sağ, sol, yukarı ve aşağı yönleri kullanılır. Kuzey-Güney gibi coğrafi yönler kullanılmaz."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "Ölçüsü tam olarak 90° olan açıya ne ad verilir?",
+      "answers": [
+        "Dar Açı",
+        "Dik Açı",
+        "Geniş Açı",
+        "Doğru Açı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Ölçüsü tam 90° olan açılara 'dik açı' denir. Kare ve dikdörtgenin köşelerindeki açılar dik açıdır."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "Ölçüsü 0° ile 90° arasında olan açılara ne ad verilir?",
+      "answers": [
+        "Dar Açı",
+        "Dik Açı",
+        "Geniş Açı",
+        "Tam Açı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "90°'den küçük olan yani dik açıdan daha dar olan açılara 'dar açı' denir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Ölçüsü 180° olan açı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Dar Açı",
+        "Dik Açı",
+        "Doğru Açı",
+        "Geniş Açı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Bir doğrunun üzerindeki dümdüz olan açıya 'doğru açı' denir ve ölçüsü tam olarak 180°'dir."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "Saat tam 03:00'ü gösterirken akrep ile yelkovan arasındaki oluşan açı çeşidi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Dar Açı",
+        "Dik Açı",
+        "Geniş Açı",
+        "Doğru Açı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Saat 3'te yelkovan 12'yi, akrep ise 3'ü gösterir. Bu iki ibre arasındaki açı tam 90° yani dik açıdır."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "Bir açının ölçüsünü bulmak veya istenilen ölçüde bir açı çizmek için kullandığımız geometri aracına ne ad verilir?",
+      "answers": [
+        "Pergel",
+        "Gönye",
+        "İletki (Açıölçer)",
+        "Cetvel"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Açı ölçmeye ve çizmeye yarayan yarım daire şeklindeki araca 'iletki' veya 'açıölçer' denir."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Bir geniş açının ölçüsü doğal sayı olarak en az kaç derece olabilir?",
+      "answers": [
+        "89°",
+        "90°",
+        "91°",
+        "180°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Geniş açılar 90° ile 180° arasındaki açılardır. 90°'den büyük olması gerektiği için en küçük doğal sayı değeri 91°'dir."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "En az kaç tane doğru parçası uç uca birleşerek kapalı bir çokgen oluşturabilir?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Kapalı bir şekil (çokgen) oluşturabilmek için en az 3 kenara (doğru parçasına) ihtiyaç vardır. En küçük çokgen üçgendir."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "Aşağıdaki şekillerden hangisi bir çokgen DEĞİLDİR?",
+      "answers": [
+        "Kare",
+        "Çember",
+        "Üçgen",
+        "Altıgen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Çokgenlerin kenarları düz doğru parçalarından oluşmalıdır. Çember eğrisel bir şekil olduğu için çokgen değildir."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Beş köşesi ve beş iç açısı olan çokgene ne ad verilir?",
+      "answers": [
+        "Dörtgen",
+        "Beşgen",
+        "Altıgen",
+        "Yedigen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Çokgenler köşe ve kenar sayılarına göre isimlendirilir. 5 köşesi olan çokgene 'beşgen' denir."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Çeşidi ne olursa olsun bütün üçgenlerin iç açıları toplamı her zaman 180°'dir."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "İç açılarından ikisi 50° ve 70° olan bir üçgenin üçüncü iç açısı kaç derecedir?",
+      "answers": [
+        "60°",
+        "70°",
+        "80°",
+        "90°"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Üçgenin iç açıları toplamı 180°'dir. 50 + 70 = 120°. Üçüncü açı: 180 - 120 = 60° olur."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Bir dörtgenin iç açıları toplamı kaç derecedir?",
+      "answers": [
+        "180°",
+        "270°",
+        "360°",
+        "540°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Kare, dikdörtgen, paralelkenar gibi tüm dörtgenlerin iç açıları toplamı her zaman 360°'dir."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "Bir dörtgenin üç iç açısının ölçüleri 90°, 100° ve 80°'dir. Bu dörtgenin dördüncü iç açısı kaç derecedir?",
+      "answers": [
+        "80°",
+        "90°",
+        "100°",
+        "110°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Dörtgenin iç açıları toplamı 360°'dir. Verilen açıları toplayalım: 90 + 100 + 80 = 270°. Dördüncü açı: 360 - 270 = 90° olur."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "Bütün kenar uzunlukları birbirine eşit ve bütün iç açıları 90° (dik açı) olan dörtgene ne ad verilir?",
+      "answers": [
+        "Dikdörtgen",
+        "Paralelkenar",
+        "Eşkenar Dörtgen",
+        "Kare"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Hem bütün kenarları birbirine eşit olan hem de bütün açıları dik (90°) olan özel dörtgen 'kare'dir."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "Düzlemde sabit bir noktaya eşit uzaklıkta bulunan noktaların oluşturduğu yuvarlak kapalı çizgiye ne ad verilir?",
+      "answers": [
+        "Kare",
+        "Çember",
+        "Üçgen",
+        "Çokgen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Sabit bir noktaya (merkeze) eşit uzaklıktaki noktaların birleşimiyle oluşan kapalı eğriye 'çember' denir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Çemberin merkezi ile çember üzerindeki herhangi bir noktayı birleştiren doğru parçasına ne ad verilir?",
+      "answers": [
+        "Kiriş",
+        "Yarıçap",
+        "Çap",
+        "Yay"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Merkezden çemberin kenarına çizilen doğru parçasına 'yarıçap' (r) denir."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "Çember çizmek için kullanılan ve genellikle iki koldan oluşan ucu sivri geometri aracına ne ad verilir?",
+      "answers": [
+        "Cetvel",
+        "Gönye",
+        "Pergel",
+        "İletki"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Çember ve yay çizmek için kullanılan sivri uçlu araca 'pergel' adı verilir."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "Yarıçap uzunluğu (r) 6 cm olan bir çemberin çap uzunluğu (R) kaç santimetredir?",
+      "answers": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Bir çemberin çapı, yarıçapının iki katıdır (R = 2 · r). Yarıçap 6 cm ise çap 6 · 2 = 12 cm olur."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Pergelinin kollarını cetvel üzerinde 5 cm açarak bir çember çizen Ali'nin çizdiği çemberin ÇAP uzunluğu kaç cm olur?",
+      "answers": [
+        "2,5",
+        "5",
+        "10",
+        "15"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Pergelin ayakları arasındaki açıklık çizilecek çemberin yarıçapını (r = 5 cm) belirler. Çap ise yarıçapın 2 katı olduğundan 5 · 2 = 10 cm olur."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Biri 40°, diğeri 110° olan iki iç açısı bulunan bir üçgenin üçüncü iç açısı kaç derecedir ve bu üçgen açılarına göre ne tür bir üçgendir?",
+      "answers": [
+        "30° / Dar açılı üçgen",
+        "30° / Geniş açılı üçgen",
+        "40° / Dik açılı üçgen",
+        "40° / Geniş açılı üçgen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "İki açının toplamı: 40 + 110 = 150°. Üçüncü açı: 180 - 150 = 30°'dir. Üçgenin açılarından biri 110° (90°'den büyük) olduğu için bu bir geniş açılı üçgendir."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "Bir AB doğru parçasına eşit uzunlukta yeni bir doğru parçası çizmek isteniyor. AB doğru parçasının uzunluğu 8 birim olduğuna göre, yeni çizilecek doğru parçasının uzunluğu kaç birim olmalıdır?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Eş (eşit uzunlukta) doğru parçaları oluşturmak için uzunlukların birebir aynı olması gerekir. Bu nedenle yeni parça da 8 birim olmalıdır."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "A noktasının 4 birim sağında ve 3 birim yukarısında B noktası vardır. Buna göre A noktası, B noktasının neresindedir?",
+      "answers": [
+        "4 birim solunda, 3 birim aşağısında",
+        "4 birim sağında, 3 birim yukarısında",
+        "3 birim solunda, 4 birim aşağısında",
+        "3 birim sağında, 4 birim yukarısında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Konum sorularında tersine düşünülür. B noktası A'nın sağ ve yukarısında ise; A noktası B'nin tam tersi yönünde, yani solunda ve aşağısındadır."
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Kare şeklindeki bir kağıt tam köşegeninden ikiye katlanıp kesiliyor. Ortaya çıkan iki eş parça aşağıdakilerden hangisi olur?",
+      "answers": [
+        "İki adet kare",
+        "İki adet dikdörtgen",
+        "İki adet dar açılı üçgen",
+        "İki adet dik üçgen"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Kare, karşılıklı köşelerini birleştiren köşegen boyunca kesildiğinde, karenin 90°'lik köşelerini barındıran birbirine eş iki adet 'dik üçgen' oluşur."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "Bir doğru (düz çizgi) üzerinde ardışık olarak K, L ve M noktaları işaretlenmiştir. L köşesinde oluşan KLM açısının ölçüsü kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Aynı düz çizgi (doğru) üzerinde yer alan noktaların oluşturduğu açı dümdüzdür, buna doğru açı denir ve ölçüsü 180°'dir."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "Görsel veya zihinsel modelleme: Bir el fenerinden çıkan ışık hüzmesi, matematikteki hangi geometrik kavrama en iyi örnektir?",
+      "answers": [
+        "Nokta",
+        "Doğru Parçası",
+        "Işın",
+        "Çokgen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "El feneri ışığın başladığı sabit noktadır. Oradan çıkan ışık tek yönde sonsuza doğru uzandığı için bu bir 'ışın' modelidir."
+    }
+  ]
+}

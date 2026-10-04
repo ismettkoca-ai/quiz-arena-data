@@ -1,0 +1,425 @@
+{
+  "unit": "Kur'an-ı Kerim Ve Özellikleri",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "İslam dininin hükümlerini (kurallarını) anlamak ve yaşamak için başvurulması gereken 'İki Temel Kaynak' hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Kur'an-ı Kerim ve Hadis (Sünnet)",
+        "Tefsir ve Fıkıh",
+        "İcma ve Kıyas",
+        "Siyer ve İlmihal"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "İslam dininin anayasası ve birinci kaynağı Kur'an-ı Kerim, onu açıklayan ve pratiğe döken ikinci ana kaynağı ise Hz. Muhammed'in Sünneti'dir."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "İslam dininin ikinci temel kaynağı olan 'Sünnet' kavramının dini literatürdeki tanımı nedir?",
+      "answers": [
+        "Sadece peygamberimizin savaşlardaki taktikleridir.",
+        "Peygamberimizin (s.a.v) söylediği sözler, yaptığı davranışlar ve başkası yaptığında sessiz kalarak onayladığı tutumların tümüdür.",
+        "Geçmiş peygamberlerin hayat hikayeleridir.",
+        "Arap kültürünün gelenekleridir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Sünnet; peygamberimizin kavlî (sözlü), fiilî (davranışsal) ve takrirî (onayladığı) yaşam tarzıdır."
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "Kur'an-ı Kerim'de 'Namaz kılın' emri kesin olarak verilmiş ancak namazın nasıl kılınacağı, kaç rekat olacağı detaylı olarak anlatılmamıştır. Müslümanlar namazın kılınış detaylarını peygamberimizin uygulamalarından öğrenmişlerdir. Bu durum neyi kanıtlar?",
+      "answers": [
+        "Namaz kılmanın zorunlu olmadığını",
+        "Kur'an'ın eksik bir kitap olduğunu",
+        "Sünnetin, Kur'an'daki hükümleri 'açıklayıcı ve uygulayıcı' vazgeçilmez bir kaynak olduğunu",
+        "Namazın sadece peygambere farz olduğunu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz Kur'an'ın canlı bir tefsiridir. Sünnet olmadan Kur'an'daki özet ibadetlerin nasıl yapılacağı bilinemez."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Kur'an-ı Kerim'in ana konularından biri olan; Allah'ın varlığı, birliği (Tevhid), meleklere, peygamberlere ve ahiret gününe iman gibi temelleri işleyen alana ne ad verilir?",
+      "answers": [
+        "İbadet",
+        "Ahlak",
+        "İnanç (İtikat)",
+        "Kıssa"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Kur'an'ın en temel konusu Allah'a ve diğer inanç esaslarına şeksiz şüphesiz inanmayı emreden İnanç (İtikat) esasıdır."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Namaz, oruç, zekat ve hac gibi Allah'ın rızasını kazanmak için yapılması emredilen görevler Kur'an'ın hangi ana konusu içerisinde yer alır?",
+      "answers": [
+        "Kıssa",
+        "İnanç",
+        "Muamelat",
+        "İbadet"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Allah ile kul arasındaki bağı güçlendiren şekilsel ve ruhsal görevler Kur'an'ın İbadet konusuna girer."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "Kur'an-ı Kerim'de hırsızlık yapmamak, anne babaya saygı göstermek, adaletten ayrılmamak ve dürüst olmak gibi erdemleri kapsayan ana konu aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ahlak",
+        "İnanç",
+        "Muamelat",
+        "İbadet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Bireyin kendi vicdanı ve çevresiyle olan davranış kalitesini düzenleyen iyi huylar bütünü 'Ahlak' konusudur."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "Kur'an'da miras paylaşımı, alışveriş kuralları, evlenme-boşanma ve suçlara verilecek cezalar gibi insanlar arası sosyal (hukuki) ilişkileri düzenleyen alana ne ad verilir?",
+      "answers": [
+        "İnanç",
+        "Ahlak",
+        "Muamelat (Sosyal Hayat)",
+        "Kıssa"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Muamelat; toplumun huzur içinde yaşamasını sağlayan hukuk, ticaret ve sosyal hayat kurallarını içerir."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "Kur'an-ı Kerim'in ana konularından biri olan 'Kıssa' kavramının tanımı nedir?",
+      "answers": [
+        "Gelecekte icat edilecek teknolojik cihazlardır.",
+        "Geçmişte yaşamış peygamberlerin ve milletlerin başından geçen, ibret alınması için anlatılan tarihi olaylardır.",
+        "Arap edebiyatına ait uydurma masallardır.",
+        "Kısa okunan surelerin adıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Kur'an'daki geçmiş yaşanmışlıklar (Hz. Yusuf, Firavun vb.) masal değil, insanların ders çıkarması için anlatılan gerçek kıssalardır."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "Kur'an'ın kıssaları anlatmasındaki asıl (temel) amaç aşağıdakilerden hangisidir?",
+      "answers": [
+        "Okuyuculara hoşça vakit geçirtmek",
+        "Sadece tarihsel kronoloji (tarih bilgisi) öğretmek",
+        "İnsanların geçmiş hatalardan ibret (ders) almasını ve doğru yola yönelmesini sağlamak",
+        "Masal anlatma geleneğini yaşatmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Kur'an bir tarih kitabı değildir. Kıssaları sadece ahlaki bir mesaj vermek ve zalimlerin sonundan ibret alınması için anlatır."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "Kur'an-ı Kerim, sadece indiği döneme (7. yüzyıla) veya sadece Arap toplumuna değil; kıyamete kadar tüm çağlara ve tüm milletlere (insanlığa) hitap eden bir kitaptır. Bu özellik Kur'an'ın hangi vasfıdır?",
+      "answers": [
+        "Evrenselliği",
+        "Tarihselliği",
+        "Yerelliği",
+        "Milliliği"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Bütün ırkları, coğrafyaları ve zamanları kapsayan, mesajı asla eskimeyen bu duruma Evrensellik denir."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "Aşağıdakilerden hangisi Kur'an-ı Kerim'i diğer ilahi kitaplardan (Tevrat, İncil) ayıran en önemli temel özelliktir?",
+      "answers": [
+        "Sadece kağıda yazılmış olması",
+        "Hiçbir harfi bile değişmeden, tahrif edilmeden (bozulmadan) günümüze kadar ulaşmış tek ilahi kitap olması",
+        "Sadece peygamberlerin okuyabilmesi",
+        "Sadece ibadet yerlerinde bulunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Hicr Suresi 9. ayette 'Kur'an'ı biz indirdik, onu koruyacak olan da biziz' buyrularak kitabın ilahi koruma altında olduğu belirtilmiştir."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Kur'an-ı Kerim'in diğer isimlerinden biri de 'Hak ile Batılı (doğru ile yanlışı) birbirinden ayıran' anlamına gelen kelimedir. Bu isim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kelam",
+        "Zikir",
+        "Furkan",
+        "Mushaf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 3,
+      "explanation": "Furkan, 'fark ettiren, ayıran' demektir. Kur'an, iyilikle kötülüğü bir bıçak gibi kesip ayırdığı için bu isimle anılır."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "Körü körüne bağlılık, atalarından gördüğü yanlış bir inancı sorgulamadan savunmak ve yeniliğe/akla kapalı olmak anlamına gelen; Kur'an'ın da şiddetle reddettiği bu olumsuz tutuma ne ad verilir?",
+      "answers": [
+        "Tefekkür",
+        "Taassup (Bağnazlık)",
+        "Tevekkül",
+        "İstişare"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Taassup, cahilce bir inadı ifade eder. Kur'an 'Atalarınız yanlış yoldaysa da mı onları takip edeceksiniz?' diyerek taassubu yıkar."
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Kur'an'da 'Hiç düşünmez misiniz?', 'Hala akletmez misiniz?' ifadelerinin sıklıkla geçmesi, Kur'an'ın temel özelliklerinden hangisini kanıtlar?",
+      "answers": [
+        "Akla ve düşünmeye değer verdiğini",
+        "Okumanın zor olduğunu",
+        "Felsefeyi tamamen yasakladığını",
+        "İnsanların akılsız olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "İslam, akıl ve sorgulama dinidir. Kur'an, insanların doğaya ve kendilerine bakarak mantıksal bir sonuçla Allah'ı bulmalarını emreder."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "Dini konularda helal ve haram sınırları belirlenirken, İslam alimlerinin takip etmesi gereken sıralama aşağıdakilerden hangisidir?",
+      "answers": [
+        "Önce Sünnet, sonra Kur'an",
+        "Sadece padişahın kararı",
+        "Önce Kur'an-ı Kerim, onda detay yoksa Sünnet (Peygamberin uygulaması)",
+        "Sadece akıl ve mantık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "İslam'da hüküm çıkarmanın (fetva) ilk sırası daima Allah'ın kelamı olan Kur'an'dır. Eğer konu orada kapalıysa, ikinci başvuru kaynağı Sünnet'tir."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "Hz. Nuh, kendisine inanmayan putperest kavmine Allah'ın mesajını ulaştırmak için ne kadar süre mücadele etmiş, ancak çok az kişi ona inanmıştır?",
+      "answers": [
+        "Sadece 1 yıl",
+        "30 yıl",
+        "Yaklaşık 950 yıl",
+        "1000 yıldan fazla"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Kur'an'da belirtildiğine göre Hz. Nuh, kavmi arasında 950 yıl (uzun asırlar boyunca) kalarak büyük bir sabırla tebliğ yapmıştır."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "Hz. Nuh, inkarcı kavminin alaylarına rağmen Allah'ın emriyle devasa bir araç yapmıştır. Bu araç aşağıdakilerden hangisidir?",
+      "answers": [
+        "Büyük bir saray",
+        "Gemi",
+        "Savaş arabası",
+        "At arabası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Allah, yaklaşan büyük tufandan inananları kurtarmak için Hz. Nuh'a (çölde olmalarına rağmen) bir gemi inşa etmesini emretmiştir."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Hz. Nuh, gemiye sadece kendisine inanan insanları değil, yeryüzündeki canlı neslinin (biyoçeşitliliğin) devam etmesi için her hayvandan da almıştı. Bu hayvanların sayısı ne kadardı?",
+      "answers": [
+        "Sadece koyun ve keçiler",
+        "Birer çift (erkek ve dişi)",
+        "Onar adet",
+        "Sadece kuşlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Kur'an'da Nuh'a, soyların tükenmemesi için her hayvan türünden 'ikişer çifti (erkek ve dişi)' gemiye yüklemesi emredilmiştir."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "Gemi inşa edildikten sonra yeryüzünden sular fışkırmış, gökten şiddetli yağmurlar yağmış ve inkarcıların sığındığı dağları bile aşan o büyük felaket gerçekleşmiştir. Bu büyük su felaketine ne ad verilir?",
+      "answers": [
+        "Kıyamet",
+        "Tsunami",
+        "Nuh Tufanı",
+        "Göktaşı Çarpması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Dünya tarihindeki en büyük felaketlerden biri olan ve inkarcıların sular altında kalarak helak olduğu bu olaya Nuh Tufanı denir."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "Tufan başladığında Hz. Nuh kendi öz oğlunu 'Yavrum bizimle gemiye bin' diye çağırmış, ancak oğlu 'Beni sudan koruyacak bir dağa sığınacağım' diyerek inanmamış ve boğulmuştur. Bu olaydan çıkarılacak en büyük ders nedir?",
+      "answers": [
+        "Dağların çok yüksek olmadığı",
+        "İmanın tamamen bireysel (kişisel) bir tercih olduğu, peygamber çocuğu olmanın bile kişiyi cehennemden kurtaramayacağı",
+        "Gemilerin dağlardan daha güvenli olduğu",
+        "Yüzme bilmenin önemi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 3,
+      "explanation": "Kurtuluş için soy sop değil, iman şarttır. Hz. Nuh'un karısı ve bir oğlu bile inkarcı oldukları için Allah'ın azabından kurtulamamıştır."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Tufan bittikten ve sular çekildikten sonra, Kur'an'da (Hud Suresi) Hz. Nuh'un gemisinin oturduğu belirtilen dağın adı nedir?",
+      "answers": [
+        "Ağrı Dağı",
+        "Cudi Dağı",
+        "Erciyes Dağı",
+        "Sina Dağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Kur'an'da '...Gemi Cudi dağının üzerine oturdu' (Hud, 44) ifadesi geçmektedir."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "Tufandan sonra yeryüzündeki insan nesli, Hz. Nuh'a inananlar ve onun gemisindekiler aracılığıyla yeniden çoğalmıştır. Bu yüzden İslam tarihinde Hz. Nuh hangi unvanla anılır?",
+      "answers": [
+        "İkinci Adem",
+        "Hatemü'l-Enbiya",
+        "Halilullah",
+        "Ruhullah"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "İnsanlığın ilk atası Hz. Adem'dir. Tufanla insanlık adeta sıfırlandığı için, Hz. Nuh'tan türeyen yeni nesilden dolayı ona 'İkinci Adem' denmiştir."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Kur'an-ı Kerim insanlara doğruyu ve yanlışı gösterir, ancak seçim hakkını insana bırakır. Bu durum Kur'an'ın hangi özelliğinin sonucudur?",
+      "answers": [
+        "İnsanı zorlamaması (Özgür iradeye saygı duyması)",
+        "Sadece ahireti anlatması",
+        "Kuralların çok zor olması",
+        "Peygamberlerin görevini bitirmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Kur'an, 'Dileyen inansın, dileyen inkar etsin' diyerek hakikati sunar ama iradeyi serbest bırakır (dinde baskı yoktur)."
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "Sünnet, peygamberimizin uygulamalarıdır ve üçe ayrılır. Peygamberimizin sözlü olarak ifade ettiği kurallara 'Kavlî', davranışlarına 'Fiilî' sünnet denir. Peki, sahabelerin yaptığı bir işi görüp ona müdahale etmeyerek onaylamasına ne ad verilir?",
+      "answers": [
+        "Mekruh Sünnet",
+        "Takrirî (Onaylayıcı) Sünnet",
+        "Farz Sünnet",
+        "Vacip"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 3,
+      "explanation": "Takrir, 'sessiz kalarak onaylamak, kabul etmek' demektir. Peygamberimiz yanlış bir şeye asla sessiz kalmayacağı için, sessiz kaldığı eylemler 'Takrirî Sünnet' kabul edilir."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Kur'an-ı Kerim'in dili Arapçadır ancak dünyanın her yerindeki insanlar onu okuyup anlamak zorundadır. Kur'an'ın başka dillere (örneğin Türkçeye) çevrilmesine ne ad verilir?",
+      "answers": [
+        "Tefsir",
+        "Meal",
+        "Hadis",
+        "Fıkıh"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 1,
+      "explanation": "Meal, Kur'an ayetlerinin başka bir dile yaklaşık anlamıyla çevrilmesine denir. (Tefsir ise uzun uzun açıklamasıdır)."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "Bazı insanlar Kur'an'ı sadece hastalar iyileşsin diye, ölülerin arkasından mezarlıkta veya muska yapmak için kullanırlar. Bu durum Kur'an'ın asıl indiriliş gayesine neden terstir?",
+      "answers": [
+        "Kur'an ölüler için değil, diriler (yaşayanlar) için indirilmiş bir hayat rehberi olduğu için",
+        "Kur'an okumanın günah olduğu için",
+        "Muskaların çok pahalı olması yüzünden",
+        "Arapça olduğu için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "İstiklal Şairi M. Akif Ersoy'un da dediği gibi: 'İnmemiştir hele Kur'an, bunu hakkıyla bilin; Ne mezarlıkta okunmak, ne de fal bakmak için.' Kur'an hayata yön vermek için dirilere inmiştir."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Peygamberlerden sadece bazılarına kitap verilmiştir (Hz. Davud, Hz. Musa, Hz. İsa, Hz. Muhammed). Dört büyük kitap dışında, bazı peygamberlere gönderilen az sayfalı ilahi emirlere ne ad verilir?",
+      "answers": [
+        "Hadis",
+        "Suhuf (Sayfalar)",
+        "İncil",
+        "Vahiy"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Kitap hacminde olmayan, az yapraklı ilahi mesajlara 'Suhuf' denir (Örn: Hz. İbrahim'e 10 sayfa suhuf inmiştir)."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "Kur'an-ı Kerim peygamberimize bir kerede toptan (kitap halinde) değil, olayların ve ihtiyaçların durumuna göre 23 yılda parça parça indirilmiştir. Bunun en temel faydası ne olmuştur?",
+      "answers": [
+        "Arapçanın daha zor öğrenilmesi",
+        "Peygamberin yorulması",
+        "İnsanların ayetleri (emir ve yasakları) kolayca kavraması, ezberlemesi ve yavaş yavaş hayata geçirmesinin sağlanması",
+        "Sayfa sayısının uzaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Ayetlerin zamana yayılarak inmesi (tedricilik), inananların eski kötü alışkanlıklarını (putperestlik, içki vb.) aşama aşama terk edip İslam ahlakına alışmalarını kolaylaştırmıştır."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Tarihteki büyük peygamberlerden biri olan Hz. Nuh, kendisine inananlarla birlikte gemiye binerek kurtulmuş; inanmayanlar ve alay edenler ise helak olmuştur. Bu kıssa bize Allah'ın sıfatlarından hangisinin açık tecellisini (yansımasını) gösterir?",
+      "answers": [
+        "Sadece yaratıcı olmasını",
+        "İnananları merhametiyle koruduğunu, zalimleri ise adaletiyle cezalandırdığını",
+        "Gökyüzünü yarattığını",
+        "Tüm insanları affettiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 2,
+      "explanation": "Nuh tufanı, Allah'ın hem mutlak adaletinin (inkarcılara verilen ceza) hem de sonsuz merhametinin (inananlara verilen kurtuluş) en büyük tablosudur."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "LGS Analiz Sorusu: Peygamberimiz 'Size iki emanet bırakıyorum, onlara sımsıkı sarıldığınız sürece asla yoldan sapmazsınız' demiştir. İslam'ın sapasağlam ayakta kalmasını sağlayan bu iki emanet nedir?",
+      "answers": [
+        "Kabe ve Mescid-i Nebevi",
+        "Mekke ve Medine şehirleri",
+        "Allah'ın Kitabı (Kur'an) ve Peygamberinin Sünneti",
+        "Mal ve Makam"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim Ve Özellikleri",
+      "difficulty": 3,
+      "explanation": "Veda Hutbesi'nde peygamberimizin ümmetine miras olarak bıraktığı iki sarsılmaz rehber; teorik bilgiyi sunan Kur'an ve onu pratiğe döken Sünnet'tir."
+    }
+  ]
+}

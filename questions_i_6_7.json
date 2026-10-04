@@ -1,0 +1,425 @@
+{
+  "unit": "Life in Nature & Global Problems",
+  "questions": [
+    {
+      "id": "Q_6_7_001",
+      "questionText": "We should always turn off the tap while brushing our teeth to save ________.",
+      "answers": [
+        "water",
+        "electricity",
+        "money",
+        "forests"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Dişlerimizi fırçalarken suyu (water) tasarruf etmek için musluğu kapatmalıyız."
+    },
+    {
+      "id": "Q_6_7_002",
+      "questionText": "Global warming causes the ice at the poles to melt. As a result, the ________ are rising.",
+      "answers": [
+        "sea levels",
+        "mountains",
+        "forests",
+        "deserts"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Küresel ısınma buzulları eritir ve bunun sonucunda deniz seviyeleri (sea levels) yükselir."
+    },
+    {
+      "id": "Q_6_7_003",
+      "questionText": "People shouldn't cut down trees because they produce the ________ we breathe.",
+      "answers": [
+        "oxygen",
+        "smoke",
+        "plastic",
+        "chemical"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Ağaçları kesmemeliyiz çünkü onlar soluduğumuz oksijeni (oxygen) üretirler."
+    },
+    {
+      "id": "Q_6_7_004",
+      "questionText": "If we want to protect the environment, we should use ________ bags instead of plastic bags.",
+      "answers": [
+        "cloth",
+        "nylon",
+        "metal",
+        "glass"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Plastik poşetler doğaya zarar verdiği için bez (cloth) çantalar veya çevre dostu çantalar kullanmalıyız."
+    },
+    {
+      "id": "Q_6_7_005",
+      "questionText": "Smoke from factories and exhaust gases from cars cause a lot of ________ pollution.",
+      "answers": [
+        "air",
+        "water",
+        "noise",
+        "soil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Fabrika dumanları ve egzoz gazları havayı kirleterek hava kirliliğine (air pollution) yol açar."
+    },
+    {
+      "id": "Q_6_7_006",
+      "questionText": "Don't throw your rubbish on the street. Always put it in the ________.",
+      "answers": [
+        "bin",
+        "river",
+        "lake",
+        "ocean"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Çöpler sokağa veya doğaya değil, çöp kutusuna (bin / trash can) atılmalıdır."
+    },
+    {
+      "id": "Q_6_7_007",
+      "questionText": "We must ________ paper, glass, and plastic to use them again and protect nature.",
+      "answers": [
+        "recycle",
+        "burn",
+        "destroy",
+        "waste"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Kağıt, cam ve plastiği yeniden kullanabilmek için geri dönüştürmeliyiz (recycle)."
+    },
+    {
+      "id": "Q_6_7_008",
+      "questionText": "Many wild animals are losing their ________ because people are destroying the forests.",
+      "answers": [
+        "habitats",
+        "clothes",
+        "toys",
+        "cars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Ormanların yok edilmesiyle vahşi hayvanlar doğal yaşam alanlarını, yani habitatlarını (habitats) kaybederler."
+    },
+    {
+      "id": "Q_6_7_009",
+      "questionText": "To save electricity at home, we should always ________ the lights when we leave a room.",
+      "answers": [
+        "turn off",
+        "turn on",
+        "break",
+        "leave"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Elektrik tasarrufu sağlamak için odadan çıkarken ışıkları kapatmalıyız (turn off)."
+    },
+    {
+      "id": "Q_6_7_010",
+      "questionText": "Which of the following is a 'renewable and clean' energy source?",
+      "answers": [
+        "Solar power",
+        "Coal",
+        "Oil",
+        "Gasoline"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Kömür, petrol gibi fosil yakıtların aksine güneş enerjisi (solar power) yenilenebilir ve temiz bir enerjidir."
+    },
+    {
+      "id": "Q_6_7_011",
+      "questionText": "What does 'Deforestation' mean in environmental problems?",
+      "answers": [
+        "Cutting down large areas of trees",
+        "Planting new trees",
+        "Cleaning the oceans",
+        "Saving energy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 3,
+      "explanation": "Deforestation (ormansızlaşma), ağaçların geniş çaplı ve kontrolsüzce kesilmesi anlamına gelir."
+    },
+    {
+      "id": "Q_6_7_012",
+      "questionText": "Harmful chemicals from factories flow into the rivers. This causes terrible ________ pollution.",
+      "answers": [
+        "water",
+        "air",
+        "noise",
+        "light"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Zehirli kimyasalların nehirlere karışması su kirliliğine (water pollution) sebep olur."
+    },
+    {
+      "id": "Q_6_7_013",
+      "questionText": "Pandas and tigers are ________ animals. We must protect them before they disappear completely.",
+      "answers": [
+        "endangered",
+        "common",
+        "domestic",
+        "farm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Panda ve kaplan gibi türler nesli tükenmekte olan (endangered) hayvanlardır."
+    },
+    {
+      "id": "Q_6_7_014",
+      "questionText": "People should use ________ instead of private cars to reduce the traffic and air pollution in the city.",
+      "answers": [
+        "public transportation",
+        "more private cars",
+        "taxis",
+        "airplanes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Hava kirliliğini ve trafiği azaltmak için özel araçlar yerine toplu taşıma (public transportation) kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_7_015",
+      "questionText": "If we don't protect endangered species, they will become ________ soon.",
+      "answers": [
+        "extinct",
+        "crowded",
+        "popular",
+        "healthy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 3,
+      "explanation": "Tehlike altındaki türler korunmazsa nesilleri tükenir (become extinct)."
+    },
+    {
+      "id": "Q_6_7_016",
+      "questionText": "Which action is BAD for the environment?",
+      "answers": [
+        "Leaving the TV on standby all night",
+        "Planting young trees",
+        "Taking shorter showers",
+        "Using paper bags"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Televizyonu bütün gece bekleme modunda açık bırakmak enerji israfıdır ve çevre için kötüdür."
+    },
+    {
+      "id": "Q_6_7_017",
+      "questionText": "Teacher: What should we do for a greener Earth?\nStudent: We ________.",
+      "answers": [
+        "should plant more trees",
+        "should cut down forests",
+        "should waste water",
+        "should use plastic bags"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Daha yeşil bir dünya için daha fazla ağaç dikmeliyiz (should plant more trees)."
+    },
+    {
+      "id": "Q_6_7_018",
+      "questionText": "Unplug the electrical devices when you don't use them to save ________.",
+      "answers": [
+        "energy",
+        "water",
+        "forests",
+        "animals"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Kullanılmayan elektronik aletlerin fişini çekmek elektrik/enerji (energy) tasarrufu sağlar."
+    },
+    {
+      "id": "Q_6_7_019",
+      "questionText": "What does the word 'eco-friendly' mean?",
+      "answers": [
+        "Not harmful to the environment",
+        "Very dangerous for animals",
+        "Wasting too much water",
+        "Destroying the nature"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Eco-friendly, çevre dostu demektir. Yani çevreye zararlı olmayan (not harmful to the environment) anlamındadır."
+    },
+    {
+      "id": "Q_6_7_020",
+      "questionText": "We must not use too much ________ in agriculture because it poisons the soil.",
+      "answers": [
+        "pesticides",
+        "water",
+        "sunlight",
+        "seeds"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 3,
+      "explanation": "Tarımda toprağı zehirleyen şey aşırı kimyasal böcek ilacı (pesticides) kullanımıdır."
+    },
+    {
+      "id": "Q_6_7_021",
+      "questionText": "To keep our bodies and the Earth healthy, we can ride a ________ to work instead of driving a car.",
+      "answers": [
+        "bicycle",
+        "plane",
+        "truck",
+        "train"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Araba kullanmak yerine bisiklet (bicycle) sürmek hem sağlığa hem de doğaya faydalıdır."
+    },
+    {
+      "id": "Q_6_7_022",
+      "questionText": "Some sea animals think that plastic bags are jellyfish, so they eat them and die. We must stop ________ the oceans.",
+      "answers": [
+        "polluting",
+        "cleaning",
+        "visiting",
+        "protecting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Plastik atıkların deniz canlılarını öldürmesini engellemek için okyanusları kirletmeyi (polluting) bırakmalıyız."
+    },
+    {
+      "id": "Q_6_7_023",
+      "questionText": "What is the English word for 'making the air, water, or land dirty and dangerous'?",
+      "answers": [
+        "Pollution",
+        "Recycling",
+        "Protection",
+        "Environment"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Hava, su veya toprağı kirletme ve tehlikeli hale getirme eyleminin genel adı kirliliktir (Pollution)."
+    },
+    {
+      "id": "Q_6_7_024",
+      "questionText": "Our planet is getting hotter every year because of ________.",
+      "answers": [
+        "global warming",
+        "recycling programs",
+        "planting trees",
+        "saving animals"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Gezegenin her yıl daha da ısınmasının temel sebebi küresel ısınmadır (global warming)."
+    },
+    {
+      "id": "Q_6_7_025",
+      "questionText": "Student A: I take a shower for 30 minutes every day.\nStudent B: Oh no! You shouldn't do that. You must take ________ showers.",
+      "answers": [
+        "shorter",
+        "longer",
+        "hotter",
+        "colder"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Su tasarrufu için yarım saat duş almak yerine daha kısa (shorter) duşlar alınmalıdır."
+    },
+    {
+      "id": "Q_6_7_026",
+      "questionText": "Which action helps to reduce paper waste?",
+      "answers": [
+        "Writing on both sides of the paper",
+        "Throwing clean papers into the bin",
+        "Using new notebooks for every lesson",
+        "Printing all emails unnecessarily"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Kağıdın her iki yüzüne de yazmak (writing on both sides of the paper), kağıt israfını azaltır."
+    },
+    {
+      "id": "Q_6_7_027",
+      "questionText": "We ________ leave our rubbish in the forests when we go on a picnic.",
+      "answers": [
+        "shouldn't",
+        "should",
+        "must",
+        "can"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "Pikniğe gidildiğinde çöpleri ormanda bırakmak zararlı bir eylem olduğu için yapılmamalıdır (shouldn't)."
+    },
+    {
+      "id": "Q_6_7_028",
+      "questionText": "The ozone layer protects the Earth from the dangerous rays of the ________.",
+      "answers": [
+        "sun",
+        "moon",
+        "stars",
+        "planets"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 2,
+      "explanation": "Ozon tabakası dünyayı Güneş'in (sun) tehlikeli ışınlarından korur."
+    },
+    {
+      "id": "Q_6_7_029",
+      "questionText": "What does the phrase 'Save our Planet' mean?",
+      "answers": [
+        "Gezegenimizi koruyun / kurtarın",
+        "Yeni bir gezegen bulun",
+        "Dünyayı kirletin",
+        "Suları boşa harcayın"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 1,
+      "explanation": "'Save our Planet' ifadesi dünyamızı korumak veya kurtarmak anlamına gelir."
+    },
+    {
+      "id": "Q_6_7_030",
+      "questionText": "Which of the following describes 'drought' (kuraklık)?",
+      "answers": [
+        "A long period when there is little or no rain",
+        "A heavy snowstorm in winter",
+        "A strong wind in the ocean",
+        "Too much water covering the land"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature & Global Problems",
+      "difficulty": 3,
+      "explanation": "Drought (Kuraklık), çok az yağmurun yağdığı veya hiç yağmadığı uzun ve kurak dönemdir."
+    }
+  ]
+}

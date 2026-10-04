@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 1",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "5³ ifadesinin değeri kaçtır?",
+      "answers": [
+        "15",
+        "25",
+        "125",
+        "625"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "5³ = 5 · 5 · 5 = 125'tir."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "Aşağıdaki üslü ifadelerden hangisinin değeri en küçüktür?",
+      "answers": [
+        "2⁵",
+        "3³",
+        "4²",
+        "7¹"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Değerleri hesaplayalım: 2⁵ = 32, 3³ = 27, 4² = 16, 7¹ = 7. En küçük değer 7'dir."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "10⁶ sayısının sondan kaç basamağı sıfırdır?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "10'un kuvvetlerinde, üs kadar sıfır bulunur. 10⁶ = 1 000 000 olduğundan 6 tane sıfır vardır."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "4² + 3³ işleminin sonucu kaçtır?",
+      "answers": [
+        "17",
+        "25",
+        "31",
+        "43"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "4² = 16 ve 3³ = 27'dir. 16 + 27 = 43 yapar."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "32 sayısının pozitif tam sayı çarpanları kaç tanedir?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "32'nin çarpanları: 1, 2, 4, 8, 16, 32'dir. Toplam 6 tanedir."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "Aşağıdakilerden hangisi 48'in asal çarpanlarından biridir?",
+      "answers": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "48 = 2⁴ · 3'tür. 48'in asal çarpanları sadece 2 ve 3'tür."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "1'den büyük, sadece 1'e ve kendisine tam bölünebilen sayılara asal sayı denir. Buna göre aşağıdakilerden hangisi asal sayı DEĞİLDİR?",
+      "answers": [
+        "2",
+        "17",
+        "51",
+        "97"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "51 sayısı rakamları toplamı (5+1=6) 3'ün katı olduğu için 3'e tam bölünür (3 · 17). Bu yüzden asal değildir."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "İki basamaklı en büyük asal sayı kaçtır?",
+      "answers": [
+        "91",
+        "93",
+        "97",
+        "99"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "99, 93 ve 91 (7·13) asal değildir. İki basamaklı en büyük asal sayı 97'dir."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Aşağıdaki sayılardan hangisi 3'e kalansız bölünebilir?",
+      "answers": [
+        "142",
+        "256",
+        "375",
+        "409"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "3'e bölünebilme kuralı rakamları toplamının 3'ün katı olmasıdır. 375'in rakamları toplamı 3 + 7 + 5 = 15'tir ve 3'e tam bölünür."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "4 basamaklı 5A24 sayısı 9'a kalansız bölünebilmektedir. Buna göre A yerine hangi rakam gelmelidir?",
+      "answers": [
+        "4",
+        "5",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "9'a bölünme kuralına göre rakamlar toplamı 9'un katı olmalıdır. 5 + A + 2 + 4 = 11 + A. 9'un katı olması için A = 7 olmalıdır (11 + 7 = 18)."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "Aşağıdaki sayılardan hangisi hem 4'e hem de 5'e kalansız bölünür?",
+      "answers": [
+        "130",
+        "245",
+        "360",
+        "455"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "5'e bölünmesi için sonu 0 veya 5 olmalıdır. 4'e bölünmesi için son iki basamağı 4'ün katı olmalıdır. 360'ın sonu 0'dır ve son iki basamağı (60) 4'ün katıdır."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "6'ya kalansız bölünebilen sayılar için hangi şartlar geçerlidir?",
+      "answers": [
+        "Sadece 2'ye bölünmesi yeterlidir.",
+        "Sadece 3'e bölünmesi yeterlidir.",
+        "Hem 2'ye hem 3'e kalansız bölünmelidir.",
+        "Hem 3'e hem 4'e kalansız bölünmelidir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Bir sayının 6'ya tam bölünebilmesi için aralarında asal çarpanları olan 2 ve 3'e aynı anda tam bölünmesi gerekir."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "45 ve 60 sayılarının en büyük ortak böleni (EBOB) kaçtır?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "45 = 3² · 5 ve 60 = 2² · 3 · 5'tir. Ortak olan asal çarpanlar 3 ve 5'tir. 3 · 5 = 15."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "12 ve 15 sayılarının en küçük ortak katı (EKOK) kaçtır?",
+      "answers": [
+        "30",
+        "45",
+        "60",
+        "120"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "12'nin katları: 12, 24, 36, 48, 60... 15'in katları: 15, 30, 45, 60... İlk ortak kat 60'tır."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "Aralarında asal olan iki sayının EBOB'u kaçtır?",
+      "answers": [
+        "0",
+        "1",
+        "Sayıların çarpımı",
+        "Sayıların toplamı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Aralarında asal sayıların 1'den başka ortak böleni yoktur. Bu yüzden EBOB'ları 1'dir."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "Bir sınıftaki öğrenciler 3'erli ve 4'erli gruplara ayrıldığında her defasında hiç öğrenci artmamaktadır. Sınıf mevcudu 30'dan fazla olduğuna göre en az kaçtır?",
+      "answers": [
+        "32",
+        "36",
+        "40",
+        "48"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Mevcut, 3 ve 4'ün ortak katı olmalıdır. EKOK(3, 4) = 12'dir. 12'nin katları: 12, 24, 36, 48... 30'dan büyük en küçük kat 36'dır."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "32 kg ve 40 kg ağırlığındaki iki farklı pirinç, birbirine karıştırılmadan eşit büyüklükteki torbalara hiç artmayacak şekilde doldurulacaktır. Bu iş için kullanılacak torbalar en fazla kaç kilogramlık olmalıdır?",
+      "answers": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Torbaların büyüklüğü 32 ve 40'ı tam bölen en büyük sayı (EBOB) olmalıdır. EBOB(32, 40) = 8'dir."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "İki çalar saatten biri 15 dakikada, diğeri 20 dakikada bir çalmaktadır. Birlikte çaldıktan en az kaç dakika sonra tekrar birlikte çalarlar?",
+      "answers": [
+        "30",
+        "40",
+        "60",
+        "120"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Birlikte çalma soruları EKOK ile çözülür. 15 ve 20'nin en küçük ortak katı 60'tır."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "10² / (2³ + 17) işleminin sonucu kaçtır?",
+      "answers": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Önce üslü ifadeler: 100 / (8 + 17). Sonra parantez içi: 100 / 25. En son bölme işlemi: 4."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "2 · 3² · 5 şeklinde asal çarpanlarına ayrılan sayı kaçtır?",
+      "answers": [
+        "30",
+        "60",
+        "90",
+        "180"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "3² = 9'dur. Çarpım: 2 · 9 · 5 = 18 · 5 = 90'dır."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "28 sayısının kendisi hariç en büyük iki pozitif tam sayı çarpanının toplamı kaçtır?",
+      "answers": [
+        "14",
+        "21",
+        "28",
+        "42"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "28'in çarpanları: 1, 2, 4, 7, 14, 28. Kendisi (28) hariç en büyük iki çarpan 14 ve 7'dir. Toplamları 14 + 7 = 21'dir."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Üç basamaklı 4A6 sayısı hem 3'e hem de 4'e tam bölünebilmektedir. A yerine yazılabilecek rakamların toplamı kaçtır?",
+      "answers": [
+        "5",
+        "8",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "4'e bölünmesi için son iki basamak 4'ün katı olmalıdır (A6). A=1 (16), A=3 (36), A=5 (56), A=7 (76), A=9 (96) olabilir. 3'e bölünmesi için 4+A+6 = 10+A toplamı 3'ün katı olmalıdır. A yerine 1, 3, 5, 7, 9 denendiğinde sadece 5 (15) 3'e tam bölünür. Toplam 5'tir."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Bir sayının asal çarpan ağacında en üstteki sayı aşağıdakilerden hangisine eşittir?",
+      "answers": [
+        "Sayının kendisine",
+        "En büyük asal çarpana",
+        "En küçük asal çarpana",
+        "1'e"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Asal çarpan ağacında en tepedeki kutu, parçalara ayrılacak olan ana sayının kendisini ifade eder."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "LGS tarzı beceri temelli soru: Bir marangoz 120 cm ve 150 cm uzunluğundaki iki tahtayı hiç artmayacak şekilde eşit ve en büyük uzunlukta parçalara ayırmak istiyor. Marangoz her kesim işlemi için 2 dakika harcıyorsa, tüm kesim işlemleri toplam kaç dakika sürer?",
+      "answers": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "EBOB(120, 150) = 30 cm (bir parçanın boyu). 120 cm'lik tahta 4 parçaya ayrılır (3 kesim). 150 cm'lik tahta 5 parçaya ayrılır (4 kesim). Toplam 7 kesim yapılır. 7 · 2 = 14 dakika sürer."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "Asal çarpanları 2, 3 ve 5 olan en küçük üç basamaklı doğal sayı kaçtır?",
+      "answers": [
+        "120",
+        "150",
+        "180",
+        "300"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "En küçük ortak katları 2 · 3 · 5 = 30'dur. Sayı 30'un katı olmalıdır. 30'un üç basamaklı en küçük katı 30 · 4 = 120'dir."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "a ve b aralarında asal iki sayıdır. a · b = 72 olduğuna göre a + b toplamı EN AZ kaçtır?",
+      "answers": [
+        "17",
+        "18",
+        "22",
+        "73"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Çarpımları 72 olan aralarında asal sayı çiftleri (1, 72) ve (8, 9)'dur. Toplamın en az olması için birbirine yakın olan 8 ve 9 alınır: 8 + 9 = 17."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "48 sayısının bölenlerinden (çarpanlarından) kaç tanesi tek sayıdır?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "48'in çarpanları: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. Bunlardan sadece 1 ve 3 tek sayıdır. (Toplam 2 tane)."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Beş basamaklı 78A5B sayısı hem 5'e hem de 9'a kalansız bölünebilen ÇİFT bir doğal sayıdır. Buna göre A kaçtır?",
+      "answers": [
+        "2",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "5'e bölünen çift sayı olduğu için son rakamı B = 0 olmalıdır. Sayı 78A50 olur. 9'a bölünmesi için rakamlar toplamı: 7 + 8 + A + 5 + 0 = 20 + A, 9'un katı olmalıdır. A = 7 olur."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "A = 2³ · 3² ve B = 2² · 3³ olduğuna göre, A ve B sayılarının EBOB'u kaçtır?",
+      "answers": [
+        "6",
+        "18",
+        "36",
+        "72"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Üslü biçimde verilen sayıların EBOB'u bulunurken ortak tabanlı sayılardan üssü küçük olanlar çarpılır. EBOB = 2² · 3² = 4 · 9 = 36'dır."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "Boyutları 24 cm ve 36 cm olan dikdörtgen şeklindeki bir karton, hiç parça artmayacak şekilde eş karelere bölünecektir. Bu işlem sonucunda EN AZ kaç kare elde edilir?",
+      "answers": [
+        "6",
+        "12",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Karelerin kenar uzunluğu EBOB(24, 36) = 12 cm olmalıdır. Kartonun alanı / Karenin alanı = (24 · 36) / (12 · 12) = 2 · 3 = 6 adet kare elde edilir."
+    }
+  ]
+}

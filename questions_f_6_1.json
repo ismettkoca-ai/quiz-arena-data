@@ -1,0 +1,425 @@
+{
+  "unit": "Güneş Sistemi ve Tutulmalar",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "Güneş Sistemi'ndeki en büyük gezegen aşağıdakilerden hangisidir?",
+      "answers": [
+        "Dünya",
+        "Satürn",
+        "Jüpiter",
+        "Mars"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir. O kadar büyüktür ki içine yaklaşık 1300 tane Dünya sığabilir."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "Güneş'e en yakın olan ve aynı zamanda sistemimizin en küçük gezegeni hangisidir?",
+      "answers": [
+        "Merkür",
+        "Venüs",
+        "Plüton",
+        "Mars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Merkür hem Güneş'e en yakın hem de en küçük gezegendir. Atmosferi çok ince olduğu için Güneş'e dönük yüzü çok sıcak, karanlık yüzü ise çok soğuktur."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "Yüzeyindeki yoğun demir oksit (pas) nedeniyle kırmızımtırak bir renge sahip olan ve 'Kızıl Gezegen' olarak bilinen gezegen hangisidir?",
+      "answers": [
+        "Venüs",
+        "Jüpiter",
+        "Uranüs",
+        "Mars"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Mars, yüzeyindeki paslı toprak yapısından dolayı kırmızı renkte görünür ve Kızıl Gezegen adıyla anılır."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "Etrafındaki devasa, parlak ve belirgin halkalarıyla tanınan, Güneş Sistemi'nin ikinci büyük gezegeni hangisidir?",
+      "answers": [
+        "Neptün",
+        "Satürn",
+        "Uranüs",
+        "Venüs"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Satürn, buz ve kaya parçalarından oluşan o meşhur ve en belirgin halkalara sahip gaz devidir."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "Güneş Sistemi'ndeki gezegenler yapılarına göre 'İç (Karasal)' ve 'Dış (Gazsal)' olarak ikiye ayrılır. Aşağıdakilerden hangisi Karasal (İç) gezegenlerden biri değildir?",
+      "answers": [
+        "Merkür",
+        "Venüs",
+        "Jüpiter",
+        "Mars"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Merkür, Venüs, Dünya ve Mars kayalık yapıdaki iç gezegenlerdir. Jüpiter ise gazlardan (hidrojen/helyum) oluşan bir dış gezegendir."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "Gökyüzünde Güneş ve Ay'dan sonra en parlak görünen, halk arasında 'Çoban Yıldızı' veya Dünya'nın ikizi olarak da bilinen gezegen hangisidir?",
+      "answers": [
+        "Merkür",
+        "Venüs",
+        "Mars",
+        "Satürn"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Venüs, kalın bulut tabakası sayesinde ışığı çok iyi yansıttığı için çok parlaktır. Sabahları veya akşamları Çoban Yıldızı adıyla bilinir (aslında gezegendir)."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "Güneş Sistemi'ndeki iç gezegenler ile dış gezegenleri birbirinden ayıran, binlerce irili ufaklı kaya parçasının bulunduğu kuşağa ne ad verilir?",
+      "answers": [
+        "Meteor Kuşağı",
+        "Asteroit Kuşağı",
+        "Kuyruklu Yıldız Kuşağı",
+        "Samanyolu Kuşağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Asteroit (Gezegenimsi parçalar) kuşağı, karasal gezegenler ile gazsal gezegenler arasında doğal bir sınır çizer."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "Güneş etrafında yörüngelerinde dolanan milyonlarca kaya parçasından oluşan 'Asteroit Kuşağı' hangi iki gezegenin yörüngeleri arasında yer alır?",
+      "answers": [
+        "Dünya - Mars",
+        "Jüpiter - Satürn",
+        "Mars - Jüpiter",
+        "Venüs - Dünya"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Asteroit kuşağı, son iç gezegen olan Mars ile ilk dış gezegen olan Jüpiter'in tam arasında bulunur."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Atmosfere hızla giren uzay taşlarının, hava sürtünmesi sonucu yanarak ışık saçması ve gökyüzünde kayan bir çizgi oluşturmasına (Halk arasında 'Yıldız Kayması') bilimsel olarak ne ad verilir?",
+      "answers": [
+        "Gök taşı düşmesi",
+        "Meteor",
+        "Kuyruklu yıldız",
+        "Asteroit"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Uzaydaki taşlar atmosfere girdiğinde yanıp ışık saçarsa buna 'Meteor' (yıldız kayması) denir. Gerçekte kayan bir yıldız değil, yanan bir taştır."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "Atmosferde tamamen yanıp parçalanmayarak, yeryüzüne kadar ulaşmayı başaran ve yere çarpan meteor parçalarına ne ad verilir?",
+      "answers": [
+        "Meteor",
+        "Asteroit",
+        "Gök taşı (Meteorit)",
+        "Yapay uydu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Atmosferde yananlara meteor, yanmaktan kurtulup yeryüzüne düşüp çukur açanlara ise 'Gök Taşı' (Meteorit) denir."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "Güneş Sistemi'ndeki gezegenler arasında hiç uydusu ve halkası bulunmayan iki gezegen aşağıdakilerden hangileridir?",
+      "answers": [
+        "Merkür ve Venüs",
+        "Dünya ve Mars",
+        "Uranüs ve Neptün",
+        "Merkür ve Mars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Güneş'e en yakın iki gezegen olan Merkür ve Venüs'ün doğal uyduları ve halkaları yoktur."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "Ekseni etrafındaki dönüşünü 'yan yatmış bir varil' gibi yuvarlanarak yapan ve Güneş Sistemi'nin en soğuk gezegenlerinden biri olan gezegen hangisidir?",
+      "answers": [
+        "Satürn",
+        "Uranüs",
+        "Jüpiter",
+        "Neptün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Uranüs'ün dönme ekseni yaklaşık 98 derece eğiktir. Bu yüzden yörüngesinde yuvarlanan bir varil gibi görünür."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "Güneş'e olan uzaklık sıralamasına göre dış (gazsal) gezegenler sırasıyla hangileridir?",
+      "answers": [
+        "Jüpiter, Satürn, Uranüs, Neptün",
+        "Satürn, Jüpiter, Neptün, Uranüs",
+        "Mars, Jüpiter, Satürn, Uranüs",
+        "Merkür, Venüs, Dünya, Mars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Asteroit kuşağından sonra başlayan dev gazsal gezegenler sırasıyla; Jüpiter, Satürn, Uranüs ve en dıştaki Neptün'dür."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "Güneş'e en yakın gezegen Merkür olmasına rağmen, Güneş Sistemi'nin 'en sıcak' gezegeni Venüs'tür. Venüs'ün Merkür'den daha sıcak olmasının sebebi nedir?",
+      "answers": [
+        "Venüs'ün daha hızlı dönmesi",
+        "Venüs'ün kalın atmosferindeki yoğun sera gazlarının ısıyı hapsederek aşırı ısınmaya (Sera Etkisi) sebep olması",
+        "Merkür'ün tamamen buzlardan oluşması",
+        "Venüs'ün içinin lavlarla dolu olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Venüs'ün atmosferi %96 oranında karbondioksittir. Bu yoğun gaz tabakası, giren Güneş ışınlarının dışarı çıkmasını engelleyerek gezegeni cehennem gibi ısıtır."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "Büyüklüklerine göre sıralandığında Dünya, Güneş Sistemi'nin kaçıncı büyük gezegenidir?",
+      "answers": [
+        "En büyük gezegenidir.",
+        "3. büyük gezegenidir.",
+        "5. büyük gezegenidir.",
+        "En küçük gezegenidir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Sıralama büyükten küçüğe şöyledir: Jüpiter, Satürn, Uranüs, Neptün (ilk 4 gaz devi) ve 5. sırada en büyük karasal gezegen olan Dünya gelir."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "Güneş Tutulması olayı sırasında Güneş, Dünya ve Ay'ın dizilişi (sıralaması) nasıl olmalıdır?",
+      "answers": [
+        "Güneş - Dünya - Ay",
+        "Güneş - Ay - Dünya",
+        "Ay - Güneş - Dünya",
+        "Dünya - Güneş - Ay"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Güneş tutulmasında Ay, Güneş ile Dünya arasına girer. Böylece Güneş'ten gelen ışığın Dünya'ya ulaşmasını engelleyerek Dünya üzerine kendi gölgesini düşürür."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "Güneş tutulması gerçekleştiğinde Ay, hangi evrededir?",
+      "answers": [
+        "Dolunay",
+        "İlk Dördün",
+        "Yeni Ay",
+        "Son Dördün"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Ay'ın Güneş ile Dünya arasına girdiği bu konum 'Yeni Ay' evresidir. Ay'ın karanlık yüzü Dünya'ya dönüktür."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "Ay Tutulması olayı sırasında Dünya, Güneş ile Ay'ın arasına girer. Ay tutulması sırasında Ay, hangi evrededir?",
+      "answers": [
+        "Yeni Ay",
+        "İlk Dördün",
+        "Dolunay",
+        "Hilal"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Ay tutulmasında dizilim 'Güneş - Dünya - Ay'dır. Bu konumda Ay normalde 'Dolunay' evresindedir ancak Dünya'nın gölgesine girdiği için karanlıkta kalır."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "Ay'ın Dünya etrafındaki dolanım süresi yaklaşık 29 gün sürmektedir. Her ay bir Yeni Ay ve bir Dolunay evresi yaşandığına göre, neden her ay Güneş ve Ay tutulması gerçekleşmez?",
+      "answers": [
+        "Çünkü Güneş ışınları her ay Dünya'ya ulaşmaz.",
+        "Çünkü Ay'ın yörüngesi ile Dünya'nın yörüngesi arasında yaklaşık 5 derecelik bir eğiklik (açı) vardır ve bu üçlü her ay tam aynı düzleme (hizaya) gelemez.",
+        "Çünkü Ay bazen çok küçülür.",
+        "Çünkü bulutlar tutulmaları engeller."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Tutulma olması için üçünün milimetrik olarak aynı çizgide (düzlemde) olması gerekir. Ancak yörünge eğikliği nedeniyle Ay, Dünya'nın biraz üstünden veya altından geçer."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "Güneş tutulması yaşanırken, Dünya üzerindeki herkes bu tutulmayı gözlemleyebilir mi? Neden?",
+      "answers": [
+        "Evet, çünkü Güneş her yere aynı anda ışık verir.",
+        "Evet, çünkü Ay çok büyüktür.",
+        "Hayır, çünkü Ay'ın gölgesi çok küçüktür ve Dünya üzerinde sadece o gölgenin düştüğü dar bir alanda gündüzü yaşayanlar tutulmayı görebilir.",
+        "Hayır, sadece gece olan ülkeler görebilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Ay, Dünya'dan çok küçüktür. Bu yüzden Ay'ın gölgesi Dünya'nın tamamını değil, sadece küçük bir şeridini (bölgesini) karartır."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "Ay tutulması yaşanırken, Dünya'nın gölgesi Ay'ın üzerine düşer. Ay tutulmasının gözlemlenebilmesi ile ilgili hangi ifade doğrudur?",
+      "answers": [
+        "Sadece gündüz olan ülkelerden gözlemlenir.",
+        "O anda geceyi yaşayan tüm ülkelerden rahatlıkla gözlemlenebilir.",
+        "Sadece teleskopla izlenebilir, çıplak gözle görülmez.",
+        "Sadece Ekvator'dan görülür."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Dünya, Ay'dan çok büyük olduğu için gölgesi Ay'ı tamamen yutar. Bu yüzden o an Dünya'da gece olan herkes Ay tutulmasını rahatça izleyebilir."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Güneş ve Ay tutulmaları aslında fizikteki hangi temel kuralın devasa bir gökyüzü kanıtıdır?",
+      "answers": [
+        "Işığın boşlukta yayılamayacağının",
+        "Maddelerin genleştiğinin",
+        "Işığın doğrusal (düz bir çizgi halinde) yayıldığının ve opak cisimlerin arkasında gölge oluşturduğunun",
+        "Sesin ışıktan yavaş olduğunun"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Işık eğrilip cisimlerin arkasına geçemez. Doğrusal ilerlediği için araya giren gezegen dev bir opak madde görevi görür ve uzayda muazzam bir tam gölge (tutulma) yaratır."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Bir gezegenin uydusu olabilmesi için o gezegenin çekim kuvvetine kapılıp etrafında dolanması gerekir. Güneş Sistemi'nde en fazla uyduya sahip olan gaz devleri hangileridir?",
+      "answers": [
+        "Dünya ve Mars",
+        "Satürn ve Jüpiter",
+        "Merkür ve Venüs",
+        "Uranüs ve Neptün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Kütlesi ve çekim kuvveti en büyük olan Satürn (140+ uydu) ve Jüpiter (90+ uydu) sistemdeki en çok uyduya sahip gezegenlerdir."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "Dış (gazsal) gezegenlerin karasal (iç) gezegenlerden en büyük fiziksel farkı nedir?",
+      "answers": [
+        "Güneş'e çok daha yakın olmaları",
+        "Yüzeylerinin kayalardan (sert zeminden) değil, zehirli yoğun gazlardan ve sıvılardan oluşması",
+        "Daha küçük olmaları",
+        "Uydularının olmaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Jüpiter, Satürn, Uranüs ve Neptün gaz devleridir. Üzerine inip yürüyebileceğiniz katı bir toprakları veya kayalık yüzeyleri yoktur."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "Güneş tutulmasına çıplak gözle bakmak neden çok tehlikelidir?",
+      "answers": [
+        "Ay'ın radyasyon yayması yüzünden",
+        "Karanlıktan gözlerimizin bozulması yüzünden",
+        "Tutulma sırasında bile Güneş'ten gelen ultraviyole (UV) ışınların doğrudan göz retinasını yakarak kalıcı körlüğe sebep olabilmesi yüzünden",
+        "Uğursuzluk getirdiğine inanıldığı için"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 1,
+      "explanation": "Güneş tam kapansa bile kenarlarından sızan veya tutulma açılırken aniden vuran güçlü ışınlar, gözümüzdeki hücreleri anında yakabilir. Mutlaka özel filtreli gözlük kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "Uzun yıllar Güneş Sistemi'nin 9. gezegeni olarak kabul edilen Plüton, 2006 yılında Uluslararası Astronomi Birliği tarafından neden gezegenlikten çıkarılıp 'Cüce Gezegen' ilan edilmiştir?",
+      "answers": [
+        "Yok olup patladığı için",
+        "Çok sıcak olduğu için",
+        "Bir gezegen olacak kadar yörüngesini (etrafındaki asteroitleri) temizleme gücüne sahip olmadığı ve çok küçük olduğu için",
+        "Güneş Sistemi'nden kaçtığı için"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Gezegen olmanın 3 şartı vardır: 1- Güneş etrafında dönmek, 2- Yuvarlak olmak, 3- Yörüngesini diğer döküntülerden temizleyecek kadar kütle çekimine sahip olmak. Plüton 3. şartı sağlayamamıştır."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "Ay tutulmaları her zaman Ay'ın 'Dolunay' evresinde gerçekleşir. Ancak her Dolunay evresinde Ay tutulması gözlenmez. Ay tutulması olması için aşağıdakilerden hangisinin yaşanması şarttır?",
+      "answers": [
+        "Dünya'nın gölgesinin uzayda Ay'ın tam üzerine düşmesi",
+        "Güneş'in batması",
+        "Ay'ın Güneş'e daha çok yaklaşması",
+        "Dünya'nın dönmeyi durdurması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Dolunay anında Dünya, Ay ve Güneş arasındadır. Eğer yörünge eğikliği denk gelip üçü milimetrik hizalanırsa, Dünya'nın gölgesi Ay'ı örter ve tutulma gerçekleşir."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Öğretmen laboratuvarda Güneş tutulması modeli yapmak istiyor. Eline yanan bir el feneri (Güneş), bir futbol topu (Dünya) ve bir pinpon topu (Ay) alıyor. Modeli doğru kurmak için pinpon topunu nereye koymalıdır?",
+      "answers": [
+        "Futbol topunun arkasına",
+        "El feneri ile futbol topunun tam arasına",
+        "Fenerin arkasına",
+        "Masanın altına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 2,
+      "explanation": "Güneş tutulmasında Ay ortadadır. Yani fener (Güneş) ile futbol topunun (Dünya) arasına pinpon topu (Ay) konulmalı ki futbol topuna gölgesi düşsün."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "Güneş'ten fırlayan ve saniyede yüzlerce kilometre hızla ilerleyen tehlikeli 'Güneş Rüzgarları'ndan (radyasyondan) Dünya'mızı koruyan görünmez manyetik kalkana ne ad verilir?",
+      "answers": [
+        "Ozon tabakası",
+        "Manyetosfer (Dünya'nın Manyetik Alanı)",
+        "Asteroit Kuşağı",
+        "Yer Çekimi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Dünya'nın çekirdeğindeki erimiş metaller dev bir mıknatıs etkisi yaratır (Manyetosfer). Bu kalkan, zararlı Güneş parçacıklarını saptırır ve atmosferi uzaya savrulmaktan korur."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "Ay tutulması, Güneş tutulmasına göre daha uzun sürer (Bazen saatlerce). Güneş tutulması ise sadece birkaç dakika içinde bitiverir. Bu sürenin farklı olmasının temel bilimsel nedeni nedir?",
+      "answers": [
+        "Güneş'in Ay'dan hızlı dönmesi",
+        "Dünya'nın, Ay'dan çok daha büyük olması nedeniyle uzaya düşürdüğü gölgenin (karanlık alanın) çok geniş olması ve Ay'ın bu geniş gölgeden uzun sürede çıkabilmesi",
+        "Gece saatlerinin gündüzden uzun olması",
+        "Ay'ın kendi etrafında yavaş dönmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Güneş Sistemi ve Tutulmalar",
+      "difficulty": 3,
+      "explanation": "Güneş tutulmasında küçük Ay'ın gölgesi Dünya'yı çabucak geçer (kısa sürer). Ancak Ay tutulmasında devasa Dünya'nın gölgesine giren Ay, o büyük karanlık alandan ancak saatler sonra çıkabilir."
+    }
+  ]
+}

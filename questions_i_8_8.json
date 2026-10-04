@@ -1,0 +1,425 @@
+{
+  "unit": "Chores",
+  "questions": [
+    {
+      "id": "Q_8_8_001",
+      "questionText": "If your clothes are dirty, you should ...............",
+      "answers": [
+        "do the laundry",
+        "make the bed",
+        "set the table",
+        "dust the furniture"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Kıyafetler kirliyse çamaşır yıkanmalıdır. Çamaşır yıkamak 'do the laundry' demektir."
+    },
+    {
+      "id": "Q_8_8_002",
+      "questionText": "A: Can you help me ............... the table? Dinner is ready.\nB: Sure, mom. I am bringing the plates and spoons.",
+      "answers": [
+        "iron",
+        "vacuum",
+        "set",
+        "take out"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Akşam yemeği için tabak ve kaşıkları getiren biri masayı kuruyordur. Masayı kurmak/hazırlamak 'set the table' kalıbıdır."
+    },
+    {
+      "id": "Q_8_8_003",
+      "questionText": "The carpet is very dirty. Can you ............... it, please?",
+      "answers": [
+        "mop",
+        "vacuum",
+        "iron",
+        "load"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Halı (carpet) kirli olduğunda elektrikli süpürgeyle süpürülür. Elektrikli süpürgeyle süpürmek 'vacuum' kelimesidir."
+    },
+    {
+      "id": "Q_8_8_004",
+      "questionText": "I am in charge of ............... the garbage every evening.",
+      "answers": [
+        "taking out",
+        "doing",
+        "making",
+        "setting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Çöpü (garbage) dışarı çıkarmak 'take out' kalıbıyla kullanılır (taking out the garbage)."
+    },
+    {
+      "id": "Q_8_8_005",
+      "questionText": "Which matching is WRONG?",
+      "answers": [
+        "Empty - The dishwasher",
+        "Make - The bed",
+        "Mop - The floor",
+        "Iron - The dishes"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Bulaşıklar (dishes) ütülenmez (iron), yıkanır (wash). 'Iron the dishes' eşleştirmesi yanlıştır."
+    },
+    {
+      "id": "Q_8_8_006",
+      "questionText": "A: Who is responsible for ............... the pet in your family?\nB: I am. I give food and water to my dog twice a day.",
+      "answers": [
+        "feeding",
+        "washing",
+        "sweeping",
+        "cooking"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Köpeğe yemek ve su vermek onu beslemek demektir. Beslemek 'feed' fiili ile ifade edilir."
+    },
+    {
+      "id": "Q_8_8_007",
+      "questionText": "If you 'load' the dishwasher, you put the ............... dishes into it.",
+      "answers": [
+        "clean",
+        "dry",
+        "dirty",
+        "new"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Bulaşık makinesini dolduruyorsanız (load), makinenin içine kirli (dirty) bulaşıkları koyarsınız."
+    },
+    {
+      "id": "Q_8_8_008",
+      "questionText": "Tom: What are your responsibilities at home?\nSue: I ............... the furniture and clean the windows.",
+      "answers": [
+        "dust",
+        "iron",
+        "do",
+        "pay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Mobilyaların (furniture) tozu alınır. Toz almak 'dust' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_8_8_009",
+      "questionText": "It is my duty to ............... the grocery shopping on weekends. I buy food and drinks from the supermarket.",
+      "answers": [
+        "make",
+        "do",
+        "have",
+        "take"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Market alışverişi yapmak İngilizcede 'do the grocery shopping' kalıbı ile kullanılır."
+    },
+    {
+      "id": "Q_8_8_010",
+      "questionText": "Students ............... be quiet during the exam. It is a strict school rule.",
+      "answers": [
+        "must",
+        "mustn't",
+        "don't have to",
+        "doesn't have to"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 1,
+      "explanation": "Sınav sırasında sessiz olmak kesin bir kuraldır. Kesin zorunluluklar ve kurallar için 'must' kullanılır."
+    },
+    {
+      "id": "Q_8_8_011",
+      "questionText": "Mother: Your room is a mess! You must ............... it right now.\nSon: Okay, mom. I am doing it.",
+      "answers": [
+        "make",
+        "dirty",
+        "tidy up",
+        "destroy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Oda dağınıksa (a mess) toparlanması gerekir. Toparlamak/düzenlemek 'tidy up' demektir."
+    },
+    {
+      "id": "Q_8_8_012",
+      "questionText": "A: Can you please help me wash the car?\nB: ............... I have an important exam tomorrow and I must study.",
+      "answers": [
+        "Sure, I can.",
+        "Of course.",
+        "I'm sorry, I can't.",
+        "That sounds great."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "B kişisi yarın önemli bir sınavı olduğunu ve çalışması gerektiğini söyleyerek mazeret bildiriyor. Bu yüzden teklifi reddetmelidir (I'm sorry, I can't)."
+    },
+    {
+      "id": "Q_8_8_013",
+      "questionText": "In our family, everyone ............... the chores. For example, my dad cooks, my mom cleans the house, and I take out the garbage.",
+      "answers": [
+        "refuses",
+        "shares",
+        "hates",
+        "forgets"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Baba yemek yapıyor, anne evi temizliyor, çocuk çöpü atıyorsa bu ailede ev işleri paylaşılıyordur (shares)."
+    },
+    {
+      "id": "Q_8_8_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'zorunluluk' (obligation) YOKTUR?",
+      "answers": [
+        "I have to iron my uniform.",
+        "She must arrive at school on time.",
+        "We are responsible for feeding the dog.",
+        "I enjoy reading science fiction books."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "'I enjoy reading...' cümlesi bir zorunluluk değil, kişisel bir zevk (preference/like) ifade eder. Diğerleri kural veya görev bildirir."
+    },
+    {
+      "id": "Q_8_8_015",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Raise your hand to speak",
+        "Listen to your teacher carefully",
+        "Keep your desk tidy",
+        "Mop the floor"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "El kaldırmak, öğretmeni dinlemek ve sırayı temiz tutmak okul/sınıf kurallarıdır. Yeri paspaslamak (mop the floor) ise bir ev işidir (chore)."
+    },
+    {
+      "id": "Q_8_8_016",
+      "questionText": "A: ............... is it to pay the bills in your family?\nB: It is my father's duty.",
+      "answers": [
+        "Who",
+        "Whose responsibility",
+        "What",
+        "Why"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Cevapta 'O benim babamın görevidir' dendiğine göre, 'Senin ailende faturaları ödemek kimin sorumluluğudur?' (Whose responsibility is it...) sorusu sorulmuştur."
+    },
+    {
+      "id": "Q_8_8_017",
+      "questionText": "I don't like ironing the clothes. I think it is really ...............",
+      "answers": [
+        "boring",
+        "entertaining",
+        "fun",
+        "relaxing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Ütü yapmayı sevmeyen biri bunun sıkıcı (boring) veya yorucu olduğunu düşünebilir. Diğer sıfatlar olumludur."
+    },
+    {
+      "id": "Q_8_8_018",
+      "questionText": "You ............... eat or drink in the library. It is strictly forbidden.",
+      "answers": [
+        "must",
+        "mustn't",
+        "have to",
+        "should"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Kütüphanede bir şeyler yiyip içmek kesinlikle yasaktır (strictly forbidden). Bu tür yasaklar 'mustn't' ile ifade edilir."
+    },
+    {
+      "id": "Q_8_8_019",
+      "questionText": "Which chore is usually done in the 'kitchen'?",
+      "answers": [
+        "Making the bed",
+        "Doing the laundry",
+        "Loading the dishwasher",
+        "Watering the plants"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Bulaşık makinesini doldurmak (loading the dishwasher) mutfakta (kitchen) yapılan bir iştir."
+    },
+    {
+      "id": "Q_8_8_020",
+      "questionText": "My sister is very lazy. She never ............... a hand with the household chores.",
+      "answers": [
+        "gives",
+        "takes",
+        "makes",
+        "does"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Birine yardım etmek, el atmak anlamındaki deyim 'give a hand' şeklindedir."
+    },
+    {
+      "id": "Q_8_8_021",
+      "questionText": "I. Do you have any chores at home?\nII. Of course. What are they?\nIII. Yes, I do. I must help my parents.\nIV. I am responsible for setting the table and dusting the shelves.\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "I - III - II - IV",
+        "I - II - III - IV",
+        "II - IV - I - III",
+        "III - I - IV - II"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Ev işin var mı? (I) -> Evet var, yardım etmeliyim (III) -> Tabi, onlar neler? (II) -> Masayı kurmaktan sorumluyum (IV)."
+    },
+    {
+      "id": "Q_8_8_022",
+      "questionText": "If you don't do your chores, your parents will probably be ...............",
+      "answers": [
+        "happy",
+        "angry",
+        "proud",
+        "excited"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Üzerinize düşen ev işlerini (chores) yapmazsanız ebeveynleriniz muhtemelen kızgın (angry) olur."
+    },
+    {
+      "id": "Q_8_8_023",
+      "questionText": "According to the class rules, students must ............... their hands before they speak.",
+      "answers": [
+        "wash",
+        "raise",
+        "shake",
+        "break"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 2,
+      "explanation": "Sınıf kurallarına göre konuşmadan önce parmak/el kaldırmak gerekir. El kaldırmak 'raise your hand' demektir."
+    },
+    {
+      "id": "Q_8_8_024",
+      "questionText": "Read the sentences:\n- My mother cooks the meals.\n- My father washes the car.\n- I vacuum the floor.\n- My sister dusts the furniture.\n\nWhich statement is CORRECT according to the sentences?",
+      "answers": [
+        "Only the mother works in the house.",
+        "The father is responsible for all the chores.",
+        "They share the responsibilities in the family.",
+        "The children don't help their parents."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Evdeki herkesin farklı bir görevi olduğuna göre, bu ailede sorumluluklar paylaşılmaktadır (They share the responsibilities)."
+    },
+    {
+      "id": "Q_8_8_025",
+      "questionText": "A: Can you please go to the supermarket and buy some milk?\nB: ............... I have to finish my homework first. I can go later.\nWhat does B say?",
+      "answers": [
+        "Sure, no problem.",
+        "I'm sorry, I can't do it right now.",
+        "I love doing the grocery shopping.",
+        "You are welcome."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "B kişisi önce ödevini bitirmesi gerektiğini (finish my homework first) ve daha sonra gidebileceğini söylediği için o anki isteği reddetmektedir (I'm sorry, I can't do it right now)."
+    },
+    {
+      "id": "Q_8_8_026",
+      "questionText": "To make the clothes smooth and look nice, you must ............... them.",
+      "answers": [
+        "iron",
+        "wash",
+        "fold",
+        "wear"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Kıyafetleri pürüzsüz/düzgün (smooth) ve güzel görünür hale getirmek için ütülemek gerekir. Ütülemek 'iron' kelimesidir."
+    },
+    {
+      "id": "Q_8_8_027",
+      "questionText": "Find the synonym (eş anlamlı) of the word 'duty' or 'task'.",
+      "answers": [
+        "Rule",
+        "Chore",
+        "Right",
+        "Reward"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Ev içinde yapılması gereken görev (duty/task) anlamına gelen kelime 'chore' kelimesidir."
+    },
+    {
+      "id": "Q_8_8_028",
+      "questionText": "Mother: Did you empty the dishwasher?\nSon: No, mom. I am sorry. I completely ............... it.\nMother: Please do it now.",
+      "answers": [
+        "remembered",
+        "forgot",
+        "cleaned",
+        "finished"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Çocuk annesinden özür dileyip yapmadığını söylüyor. Bu durumda onu tamamen unuttuğunu (forgot) belirtmesi mantıklıdır."
+    },
+    {
+      "id": "Q_8_8_029",
+      "questionText": "In a library, you must ............... the books on time so other people can read them.",
+      "answers": [
+        "return",
+        "destroy",
+        "buy",
+        "lose"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Kütüphane kurallarından biri, alınan kitapları başkalarının da okuyabilmesi için zamanında geri getirmektir (return the books on time)."
+    },
+    {
+      "id": "Q_8_8_030",
+      "questionText": "Read the text: 'Sharing chores makes life easier for everyone in a family. If only one person does all the housework, he or she will be very tired and unhappy. When children help their parents, they learn how to be responsible individuals.'\n\nWhat is the MAIN IDEA of the text?",
+      "answers": [
+        "Children should not do any chores.",
+        "Mothers must do all the housework.",
+        "Sharing chores is important and beneficial.",
+        "Doing chores is always boring."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Chores",
+      "difficulty": 3,
+      "explanation": "Metinde ev işlerini paylaşmanın hayatı kolaylaştırdığı, bir kişinin her şeyi yapmasının yorucu olduğu ve çocukların sorumluluk öğrendiği anlatılmaktadır. Ana fikir: Ev işlerini paylaşmak önemli ve faydalıdır (Sharing chores is important and beneficial)."
+    }
+  ]
+}

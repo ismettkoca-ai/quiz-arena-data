@@ -1,0 +1,425 @@
+{
+  "unit": "Peygamberliğinden Önce Hz. Muhammed",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "Peygamberimiz henüz genç bir yaşstayken, Mekke'de haksızlığa uğrayan yabancıların ve zayıfların hakkını korumak için kurulan bir topluluğa katılmıştır. Adaleti savunan bu topluluğun adı nedir?",
+      "answers": [
+        "Mescid-i Nebi",
+        "Hilfü'l-Fudûl (Erdemliler İttifakı)",
+        "Suffa",
+        "Darü'n-Nedve"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Hz. Muhammed'in gençliğinde haksızlıklara karşı durmak için katıldığı bu dernek, onun daha peygamber olmadan önce de adalete verdiği önemi gösterir."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "Kâbe'nin tamiri sırasında 'Hacer-i Esved' taşını yerine kimin koyacağı konusunda kabileler arası büyük bir kavga çıkmak üzereyken, hakem olarak Hz. Muhammed seçilmiştir. Kabilelerin onu seçmesinin en temel nedeni nedir?",
+      "answers": [
+        "En yaşlı kişi olması",
+        "Mekke'nin en zengini olması",
+        "Asla yalan söylemeyen ve taraf tutmayan güvenilir (El-Emin) biri olması",
+        "Çok güçlü bir asker olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Toplumda yaşanan krizlerde insanların ona başvurmasının asıl sebebi, onun adaleti ve dürüstlüğüyle (Muhammed'ül Emin) tanınmasıdır."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Hz. Muhammed (s.a.v) peygamberlik gelmeden önce sık sık Nur Dağı'ndaki Hira Mağarası'na gider, toplumun kötü durumunu düşünürdü. 610 yılında burada ona gelen ilk ayetin 'Oku!' (Alak Suresi) olması bize neyi öğretir?",
+      "answers": [
+        "İslam'ın okumaya, bilgiye ve düşünmeye verdiği önemi",
+        "Sadece mağaralarda ibadet edilmesi gerektiğini",
+        "Ticarete önem verilmesini",
+        "Savaş sanatlarının öğrenilmesini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Cahilliğin (bilgisizliğin) yaygın olduğu bir topluma gelen ilk ilahi emrin 'Oku' olması, İslam'ın eğitime ve bilgiye dayandığını gösterir."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "İslamiyet'i ilk kabul edenler arasında; eşi Hz. Hatice (kadın), arkadaşı Hz. Ebubekir (yetişkin erkek), evlatlığı Hz. Zeyd (köle) ve yeğeni Hz. Ali (çocuk) vardır. Bu durum İslam'ın hangi özelliğini gösterir?",
+      "answers": [
+        "Sadece fakirlere hitap ettiğini",
+        "Toplumun sadece belirli bir kesimi için olduğunu",
+        "Kadın, erkek, çocuk veya köle ayrımı yapmadan tüm insanları kucakladığını",
+        "Sadece Araplara gönderildiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "İlk Müslümanların farklı yaş, cinsiyet ve sosyal statüden olması, İslam'ın eşitlikçi ve evrensel bir çağrı olduğunun kanıtıdır."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "Peygamberimiz, İslam'ı anlatmak için Taif şehrine gittiğinde taşlanmış, ayakları kan içinde kalmıştır. Melekler 'Dilersen bu şehri helak edelim' dediğinde o, 'Hayır, belki onların soyundan Allah'a inananlar çıkar, Allah'ım onları affet' demiştir. Bu olay onun hangi özelliğini öne çıkarır?",
+      "answers": [
+        "Korktuğu için geri çekilmesini",
+        "İnsanlara karşı sonsuz şefkatini ve merhametini",
+        "Sadece kendi akrabalarını sevmesini",
+        "İntikam almak için plan yapmasını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Kendisine zulmeden insanlara bile beddua etmemesi ve onları affetmesi, peygamberimizin 'Alemlere Rahmet (Merhamet)' olmasının sonucudur."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "Mekke'deki müşriklerin baskı ve işkencelerinin artması üzerine, Müslümanların inançlarını özgürce yaşayabilmek için 622 yılında Mekke'den Medine'ye göç etmelerine ne ad verilir?",
+      "answers": [
+        "Hicret",
+        "Hac",
+        "Miraç",
+        "Kıssa"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Dini özgürce yaşamak ve yaymak amacıyla Mekke'den Medine'ye yapılan bu tarihi ve kutsal göçe 'Hicret' denir."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "Peygamberimiz, Hicret gecesi Mekkeli müşrikler evini kuşattığında, kendisine bırakılan emanetleri (para ve altınları) sahiplerine geri vermesi için kendi yatağına kimi bırakmıştır?",
+      "answers": [
+        "Hz. Ömer",
+        "Hz. Ali",
+        "Hz. Osman",
+        "Hz. Zeyd"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Ölüm tehlikesine rağmen emanetleri sahiplerine ulaştırmak için Hz. Ali'yi yatağında bırakması, onun ne kadar güvenilir (El-Emin) olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Medine'ye göç eden Müslümanlara kucak açan, evlerini ve yiyeceklerini onlarla paylaşan Medineli Müslümanlara ne ad verilir?",
+      "answers": [
+        "Muhacir",
+        "Ensar",
+        "Sahabe",
+        "Müşrik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Göç edenlere 'Muhacir', onlara yardım edip her şeyini paylaşan Medineli Müslümanlara ise 'Ensar' (Yardımcılar) denir."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "Peygamberimiz Medine'ye vardığında sadece ibadet edilecek bir cami yaptırmakla kalmamış, Mescid-i Nebi'nin yanına 'Suffa' adında bir de okul inşa ettirmiştir. Bu durum peygamberimizin neye önem verdiğini gösterir?",
+      "answers": [
+        "Savaşa ve orduya",
+        "Ticarete",
+        "Eğitime ve bilgiye",
+        "Lüks binalara"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Suffa, İslam tarihindeki ilk okuldur. Cami ile okulun yan yana yapılması, dinin ve bilimin ayrılmaz bir bütün olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "Bedir Savaşı kazanıldıktan sonra esir alınan Mekkeli müşriklerden okuma yazma bilenler, 10 Müslümana okuma yazma öğretmeleri karşılığında serbest bırakılmıştır. Bu uygulama İslam'da hangi kavrama verilen değerin kanıtıdır?",
+      "answers": [
+        "Eğitim ve öğretime",
+        "Fidye (Para) kazanmaya",
+        "Köleliğe",
+        "Savaş sanatına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Esirlerin para (fidye) yerine eğitim karşılığında özgürlüklerine kavuşması, bilginin maddiyattan çok daha değerli görüldüğünü kanıtlar."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "Uhud Savaşı öncesinde peygamberimiz, 'Düşmanı nerede karşılayalım?' diyerek arkadaşlarına danışmış ve kendi fikri olmasa da çoğunluğun fikrine uyarak karar almıştır. Peygamberimizin bu davranışına ne ad verilir?",
+      "answers": [
+        "İsraf",
+        "İstişare (Danışma)",
+        "Tevekkül",
+        "Vefa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Önemli kararlar almadan önce konuyu bilenlerle görüşmeye ve ortak fikir (ortak akıl) bulmaya 'İstişare' denir."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "Hendek Savaşı öncesinde peygamberimiz yine arkadaşlarına danışmış ve Selman-ı Farisi'nin 'Şehrin etrafına derin hendekler kazalım' fikrini beğenip uygulamıştır. Bu olay yöneticiler için nasıl bir örnek oluşturur?",
+      "answers": [
+        "Sadece kendi fikirlerini uygulamaları gerektiği",
+        "Farklı fikirlere açık olmaları ve ortak aklı kullanmaları gerektiği",
+        "Savaştan kaçmaları gerektiği",
+        "Toplantı yapmanın zaman kaybı olduğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Peygamberin sıradan bir askerin fikrini dikkate alıp uygulaması, liderlerin eleştiriye ve yeniliğe açık olması gerektiğini öğretir."
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "Hudeybiye Antlaşması sırasında bazı maddeler Müslümanların aleyhine (kötü) görünse de peygamberimiz barış için antlaşmayı imzalamıştır. Bu durum peygamberimizin hangi yönünü öne çıkarır?",
+      "answers": [
+        "Barışçıl ve uzlaşmacı (diplomatik) yönünü",
+        "Savaşı çok sevdiğini",
+        "Korkak davrandığını",
+        "Kararsız olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Peygamberimiz, sorunları silahla değil anlaşmayla çözmeyi tercih etmiştir. Bu barış antlaşması sayesinde İslam çok daha hızlı yayılmıştır."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "Mekke'nin Fethi günü, yıllarca Müslümanlara işkence eden, onları yurtlarından kovan müşrikler peygamberimizin karşısında esir düşmüştür. Ancak peygamberimiz onlara 'Gidin, hepiniz özgürsünüz' demiştir. Bu olay onun en çok hangi ahlaki yönünü gösterir?",
+      "answers": [
+        "Kindar olmasını",
+        "İntikamcı olmasını",
+        "Affedici olmasını ve genel af ilan etmesini",
+        "Savaş ganimetlerini sevmesini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Gücü eline geçirdiği halde intikam almayıp herkesi affetmesi, onun sahip olduğu eşsiz ahlakın ve affediciliğin zirvesidir."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "Peygamberimiz (s.a.v) Veda Hutbesi'nde, 'Arabın Arap olmayana, Arap olmayanın da Araba bir üstünlüğü yoktur. Üstünlük ancak takva (Allah'a saygı) iledir' buyurmuştur. Bu sözle hangi kötü düşünce yasaklanmıştır?",
+      "answers": [
+        "Irkçılık ve ayrımcılık",
+        "Ticaret yapmak",
+        "Savaşmak",
+        "Zenginlik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "İslam'da insanların ırkına, ten rengine veya soyuna göre üstünlük kurması (ırkçılık) kesin bir dille reddedilmiş, herkes eşit sayılmıştır."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Veda Hutbesi'nde 'Kadınların haklarını gözetmenizi ve bu hususta Allah'tan korkmanızı tavsiye ederim' diyen peygamberimizin bu sözleri günümüzdeki hangi belgeyle büyük bir benzerlik taşır?",
+      "answers": [
+        "Ticaret Kanunu",
+        "İnsan Hakları Evrensel Beyannamesi",
+        "Çevre Koruma Yasası",
+        "Eğitim Yönetmeliği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Veda Hutbesi; yaşama hakkı, kadın hakları, eşitlik ve adaleti savunduğu için tarihteki ilk ve en kapsamlı İnsan Hakları Beyannamelerinden biri kabul edilir."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "Medine'ye hicret edildiğinde peygamberimiz Müslümanlar, Yahudiler ve puta tapanlar arasında ortak bir anayasa olan 'Medine Sözleşmesi'ni hazırlamıştır. Bu sözleşmenin amacı nedir?",
+      "answers": [
+        "Herkesi zorla Müslüman yapmak",
+        "Farklı inançtaki insanların aynı şehirde adalet, barış ve hoşgörü içinde yaşamasını sağlamak",
+        "Yahudileri şehirden kovmak",
+        "Şehrin ismini değiştirmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Medine Sözleşmesi, farklı dinlere sahip insanların birbirlerinin inançlarına saygı duyarak bir arada barış içinde (hoşgörüyle) yaşamasının ilk yazılı kuralıdır."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "Hz. Muhammed (s.a.v), kızı Hz. Fatıma yanına geldiğinde ayağa kalkar, alnından öper ve kendi yerine oturturdu. O dönemin cahiliye toplumunda kız çocukları diri diri toprağa gömülürken, peygamberimizin bu davranışı neyi amaçlamıştır?",
+      "answers": [
+        "Kız çocuklarına değer verildiğini topluma uygulamalı olarak öğretmeyi",
+        "Erkek çocuklarını sevmediğini göstermeyi",
+        "Sadece Hz. Fatıma'nın ayrıcalıklı olduğunu kanıtlamayı",
+        "Şöhret kazanmayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Cahiliye döneminde değersiz görülen kız çocuklarına, bizzat kendi kızı üzerinden saygı göstererek toplumsal bir devrim yapmıştır."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "Peygamberimiz ev işlerinde eşine yardım eder, söküklerini kendi diker, ayakkabılarını kendi tamir ederdi. 'Ben peygamberim, bu işleri yapmam' diyerek kibirlenmezdi. Bu durum onun hangi özelliğini gösterir?",
+      "answers": [
+        "İsraf etmesini",
+        "Mütevazı (Alçakgönüllü) ve aile içi yardımlaşmaya önem veren biri olduğunu",
+        "Cimri olmasını",
+        "Çok zengin olmasını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Bir devlet başkanı ve peygamber olmasına rağmen ev işlerini kendi yapması, onun kibirden uzak (mütevazı) harika bir aile babası olduğunu kanıtlar."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Bir hırsızlık olayında suçlu bulunan kadın zengin ve soylu bir aileden geliyordu. Bazı kişiler 'Bunu affet, rezil olmasın' dediğinde peygamberimiz 'Kızım Fatıma bile hırsızlık yapsa cezasını verirdim' demiştir. Bu söz neyi ifade eder?",
+      "answers": [
+        "Hırsızlığın çok yaygın olduğunu",
+        "Adaletin önünde makam, soy veya zenginlik fark etmeksizin herkesin eşit olduğunu",
+        "Peygamberimizin kendi kızını sevmediğini",
+        "Zenginlerin daha çok suç işlediğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "İslam'da adalet mutlaktır; kişinin zenginliği, soylu olması veya akraba olması adaletin yerini bulmasına asla engel olamaz."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Bir yolculuk sırasında dinlenirken kuşun yuvasından yavrularını alan bir adamı gören peygamberimiz çok sinirlenmiş ve 'Kim bu anneyi yavrularından ayırıp korkuttu? Onları hemen yerine koyun!' diyerek uyarmıştır. Bu olay peygamberimizin hangi özelliğini gösterir?",
+      "answers": [
+        "Sadece insanlara değil, hayvanlara da merhamet ve şefkat gösterdiğini",
+        "Yolculuk etmeyi sevmediğini",
+        "Kuş beslemeyi sevdiğini",
+        "Kuşların insanlara zararlı olduğunu düşündüğünü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Peygamberimiz 'Yeryüzündekilere merhamet edin ki gökyüzündekiler de size merhamet etsin' diyerek hayvan haklarına büyük saygı göstermiştir."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Hudeybiye Antlaşması sonrasında Müslümanlar ihramdan çıkmak istemeyince peygamberimiz üzülmüştür. Eşi Ümmü Seleme, 'Sen kendi kurbanını kes, onlar seni görünce yaparlar' fikrini vermiş ve sorun çözülmüştür. Bu durum peygamberimizin neye değer verdiğini gösterir?",
+      "answers": [
+        "Sadece kendi aklına güvendiğine",
+        "Kadınların (eşinin) fikirlerine saygı duyup onlarla istişare ettiğine (danıştığına)",
+        "Savaşmaya",
+        "Maddi kazanca"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Kriz anında eşinin aklına ve fikrine başvurması, İslam'ın kadına verdiği değeri ve aile içi iletişimin önemini gösterir."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "Hz. Muhammed (s.a.v), çocukları gördüğünde onlara selam verir, saçlarını okşar, torunları Hasan ve Hüseyin ile oyunlar oynardı. Hatta o secdedeyken torunu sırtına çıkınca o inene kadar secdeyi uzatırdı. Bu davranışlar neyin göstergesidir?",
+      "answers": [
+        "Çocuklara karşı sevgi, şefkat ve büyük bir hoşgörü beslediğinin",
+        "Oyun oynamayı sevdiğinin",
+        "Namaz kılmakta zorlandığının",
+        "Çocuklardan korktuğunun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Peygamberimiz, toplumda ciddiye alınmayan çocuklara birer birey olarak değer vermiş, onlara sevgi ve hoşgörüyle (şefkatle) yaklaşmıştır."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "Peygamberimiz hayatı boyunca 7 çocuğundan 6'sının vefat ettiğini (öldüğünü) görmüş, en büyük acıları yaşamıştır. Buna rağmen hiçbir zaman isyan etmemiş, gözyaşı dökse de 'Allah'ın verdiğine razıyız' demiştir. Bu durum onun hangi ahlaki özelliğidir?",
+      "answers": [
+        "Cesaret",
+        "Cömertlik",
+        "Büyük bir sabır ve tevekkül sahibi olması",
+        "Fetanet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Evlat acısı gibi dünyadaki en büyük sınavlarda bile isyan etmemesi, onun sabrının ve Allah'a olan güveninin (tevekkülünün) büyüklüğünü gösterir."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "Peygamberimiz (s.a.v), abdest alırken suyu çok fazla kullanan bir sahabeyi 'Akan bir nehrin kenarında bile olsan suyu israf etme' diyerek uyarmıştır. Bu hadis günümüzdeki hangi evrensel sorunla doğrudan ilgilidir?",
+      "answers": [
+        "Ekonomik kriz",
+        "Çevre bilinci, doğayı koruma ve israfı önleme",
+        "Trafik sorunu",
+        "Teknoloji bağımlılığı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Su kaynaklarının sınırsızmış gibi görüldüğü bir nehir kenarında bile tasarrufu emretmesi, İslam'ın çevreye ve israfa karşı ne kadar hassas olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "Peygamberimiz vefat etmeden önce (Veda Haccı'nda) insanlara, 'Size sımsıkı sarıldığınız sürece asla yoldan sapmayacağınız iki emanet bırakıyorum' demiştir. Bu iki emanet aşağıdakilerden hangisidir?",
+      "answers": [
+        "Altın ve Gümüş",
+        "Kılıç ve At",
+        "Kur'an-ı Kerim ve Peygamberin Sünneti (Örnek hayatı)",
+        "Mekke ve Medine şehirleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "İslam'ın iki ana kaynağı vardır; Allah'ın sözü olan 'Kur'an' ve onu hayatına uygulayarak bize gösteren peygamberin 'Sünnet'i."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "Mekke döneminde Müslümanlar, Kâbe'de açıktan ibadet edemez ve İslam'ı gizlice anlatırlardı. Bu gizli davet döneminde toplantı ve eğitimlerini nerede yapmışlardır?",
+      "answers": [
+        "Mescid-i Nebi'de",
+        "Erkam'ın Evi'nde (Darü'l Erkam)",
+        "Hira Mağarası'nda",
+        "Taif'te"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "İlk Müslümanların, müşriklerin baskısından korunmak ve Kur'an öğrenmek için gizlice toplandıkları yer Erkam adlı genç sahabenin evidir (Darü'l Erkam)."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "Müşrikler peygamberimize gelip 'İstersen seni kral yapalım, en zenginimiz yapalım yeter ki bu davandan (İslam'ı anlatmaktan) vazgeç' demişlerdir. Peygamberimiz ise 'Güneşi sağ elime, ayı sol elime verseniz de vazgeçmem' diyerek reddetmiştir. Bu durum neyi kanıtlar?",
+      "answers": [
+        "Kararlılığını ve davasında ne kadar samimi olduğunu",
+        "Güneşi çok sevdiğini",
+        "Daha fazla para istediğini",
+        "Siyasete atılmak istediğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Maddi tüm teklifleri (zenginlik, krallık) reddetmesi, onun bu dini dünyevi bir çıkar için yapmadığını, ne kadar samimi ve kararlı olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "Hz. Muhammed'in hayatını (doğumu, gençliği, savaşları, ahlakı) anlatan, kronolojik olarak inceleyen ilim dalına ne ad verilir?",
+      "answers": [
+        "Tefsir",
+        "Fıkıh",
+        "Siyer",
+        "Kelam"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Siyer (veya Siyer-i Nebi), peygamberimizin hayatını baştan sona anlatan İslam tarihi ilmidir."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Peygamberimiz gece namazı kılmayı (Teheccüd) çok severdi. Ancak arkadaşları 'Biz de senin gibi her gece hiç uyumadan namaz kılacağız, her gün oruç tutacağız' dediklerinde onlara engel olmuş, 'Ailenizin, bedeninizin ve gözünüzün de sizin üzerinizde hakkı var' demiştir. Bu olay bize neyi öğretir?",
+      "answers": [
+        "İbadetlerin çok yorucu olduğunu",
+        "Dinimizin, ibadetle günlük yaşam (dünya ile ahiret) arasında aşırılıktan uzak bir 'Denge' kurulmasını istediğini",
+        "Uyumanın ibadetten daha önemli olduğunu",
+        "Oruç tutmanın sadece yaşlılara ait olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamberliğinden Önce Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "İslam, aşırılıklara (sadece ibadet edip dünyayı terk etmeye) karşıdır. Peygamberimiz beden sağlığımız, ailemiz ve ibadetlerimiz arasında mutedil (dengeli) olmamızı öğütler."
+    }
+  ]
+}

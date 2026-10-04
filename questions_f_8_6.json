@@ -1,0 +1,425 @@
+{
+  "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+  "questions": [
+    {
+      "id": "Q_8_6_001",
+      "questionText": "Besin zincirlerinin en alt basamağında yer alan, kendi besinini kendisi üretebilen canlı grubuna ne ad verilir?",
+      "answers": [
+        "Tüketiciler",
+        "Ayrıştırıcılar",
+        "Üreticiler",
+        "Etçiller"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Üreticiler (bitkiler, siyanobakteriler, mavi-yeşil algler vb.), güneş enerjisini kullanarak besin zincirinin temelini oluştururlar."
+    },
+    {
+      "id": "Q_8_6_002",
+      "questionText": "Kendi besinini üretemeyip diğer canlıları yiyerek beslenen (örneğin inek, aslan veya insan) canlı grubuna genel olarak ne ad verilir?",
+      "answers": [
+        "Üreticiler",
+        "Tüketiciler",
+        "Ayrıştırıcılar",
+        "Çürükçüller"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Dışarıdan hazır besin alan canlıların tamamı tüketici sınıfındadır. Bunlar otçul, etçil veya hepçil olabilirler."
+    },
+    {
+      "id": "Q_8_6_003",
+      "questionText": "Ölü canlı kalıntılarını ve atıkları parçalayarak toprağa inorganik madde olarak geri kazandıran, madde döngüsünü sağlayan canlılara ne ad verilir?",
+      "answers": [
+        "Ayrıştırıcılar",
+        "Birinci Dereceden Tüketiciler",
+        "Fotosentetik Canlılar",
+        "Otçullar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Bazı bakteri ve mantarlardan oluşan ayrıştırıcılar (çürükçüller), doğadaki organik atıkları inorganik maddelere çevirerek geri dönüşüm sağlarlar."
+    },
+    {
+      "id": "Q_8_6_004",
+      "questionText": "Enerji piramidinde aşağıdan yukarıya doğru çıkıldıkça bir üst basamağa aktarılan enerji miktarı yaklaşık olarak yüzde kaçtır?",
+      "answers": [
+        "Yüzde 50",
+        "Yüzde 90",
+        "Yüzde 100",
+        "Yüzde 10"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Enerji piramidinde her basamaktaki canlı, enerjinin büyük kısmını kendi yaşamsal faaliyetleri için harcar. Sadece yaklaşık %10'luk kısmı bir üst basamaktaki canlıya aktarılır."
+    },
+    {
+      "id": "Q_8_6_005",
+      "questionText": "Ekolojik piramitte aşağıdan yukarıya doğru (üreticilerden son tüketiciye) çıkıldıkça aşağıdaki durumlardan hangisi gerçekleşir?",
+      "answers": [
+        "Biyolojik birikim (vücutta biriken zehir miktarı) artar.",
+        "Aktarılan enerji miktarı artar.",
+        "Canlı sayısı (birey sayısı) artar.",
+        "Toplam biyokütle artar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Besin piramidinde yukarı çıkıldıkça canlı sayısı, aktarılan enerji ve toplam biyokütle azalırken; vücutta biriken zehirli madde miktarı (biyolojik birikim) artar."
+    },
+    {
+      "id": "Q_8_6_006",
+      "questionText": "Bir ekosistemde 'Ot -> Çekirge -> Kurbağa -> Yılan -> Kartal' şeklinde bir besin zinciri vardır. Ortama giren bir hastalık nedeniyle kurbağa sayısı aniden azalırsa, çekirge ve yılan sayısında ilk olarak nasıl bir değişim gözlenir?",
+      "answers": [
+        "Çekirge azalır, Yılan azalır.",
+        "Çekirge artar, Yılan azalır.",
+        "Çekirge artar, Yılan artar.",
+        "Çekirge azalır, Yılan artar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Kurbağa azalırsa, onu yiyen yılan aç kalıp azalır. Ancak kurbağanın yediği çekirgeler avcıları ortadan kalktığı için aniden çoğalır (artar)."
+    },
+    {
+      "id": "Q_8_6_007",
+      "questionText": "Bir ekosistemde birden fazla besin zincirinin birbiriyle iç içe geçmesi sonucu oluşan karmaşık beslenme ilişkisine ne ad verilir?",
+      "answers": [
+        "Besin Ağı",
+        "Ekolojik Piramit",
+        "Madde Döngüsü",
+        "Biyolojik Birikim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Doğada canlılar tek bir besinle beslenmezler. Bir canlı birden fazla zincirde yer alabilir; bu şekilde iç içe geçen zincirler bütününe besin ağı denir."
+    },
+    {
+      "id": "Q_8_6_008",
+      "questionText": "Üretici canlıların klorofil yardımıyla Güneş enerjisini kullanarak su ve karbondioksitten besin (glikoz) ve oksijen üretmesi olayına ne ad verilir?",
+      "answers": [
+        "Oksijenli Solunum",
+        "Fermantasyon",
+        "Fotosentez",
+        "Terleme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Işık enerjisinin kimyasal enerjiye (besine) dönüştürüldüğü bu temel yaşamsal olaya fotosentez denir."
+    },
+    {
+      "id": "Q_8_6_009",
+      "questionText": "Fotosentez olayının gerçekleşebilmesi için bitkinin dış ortamdan alması gereken maddeler (girenler) hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Su ve Karbondioksit",
+        "Besin ve Oksijen",
+        "Oksijen ve Su",
+        "Karbonmonoksit ve Besin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Bitkiler kökleriyle topraktan suyu, yapraklarındaki gözeneklerle havadan karbondioksiti alarak fotosentezi başlatırlar."
+    },
+    {
+      "id": "Q_8_6_010",
+      "questionText": "Bitki hücrelerinde fotosentez olayının gerçekleştiği, yeşil rengi veren klorofil pigmentlerini barındıran organelin adı nedir?",
+      "answers": [
+        "Mitokondri",
+        "Kloroplast",
+        "Ribozom",
+        "Koful"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Kloroplast, fotosentez fabrikasıdır. İçindeki yeşil renkli klorofil molekülleri güneş ışığını soğurarak tepkimeyi gerçekleştirir."
+    },
+    {
+      "id": "Q_8_6_011",
+      "questionText": "Fotosentez hızı ışığın rengine göre değişiklik gösterir. Bilimsel deneylere göre fotosentez hızının en yüksek ve en düşük olduğu ışık renkleri sırasıyla hangileridir?",
+      "answers": [
+        "En yüksek Yeşil - En düşük Kırmızı",
+        "En yüksek Kırmızı - En düşük Mor",
+        "En yüksek Mor ve Kırmızı - En düşük Yeşil",
+        "En yüksek Sarı - En düşük Mavi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Klorofil yeşil renklidir, bu yüzden yeşil ışığı yansıtır (kullanamaz) ve fotosentez en yavaş yeşilde olur. Mor ve kırmızı ışığı ise çok iyi soğurduğu için fotosentez bu renklerde en hızlıdır."
+    },
+    {
+      "id": "Q_8_6_012",
+      "questionText": "Seralarda sebze yetiştiriciliğinde ürün verimini artırmak için gece saatlerinde yapay ışıklandırma kullanılmasının temel bilimsel amacı nedir?",
+      "answers": [
+        "Bitkileri ısıtmak",
+        "Zararlı böcekleri uzak tutmak",
+        "Fotosentez için mutlaka doğal güneş ışığına gerek olmadığı için, yapay ışıkta fotosentezi devam ettirip besin üretimini artırmak",
+        "Bitkinin solunum yapmasını engellemek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Fotosentez için ışık şarttır ancak bu ışığın illa Güneş'ten gelmesi gerekmez. Uygun dalga boyundaki yapay ışık kaynaklarında da bitki fotosentez yapmaya devam eder."
+    },
+    {
+      "id": "Q_8_6_013",
+      "questionText": "Canlıların yaşamsal faaliyetlerini sürdürebilmek için hücrelerindeki besini (glikozu) parçalayarak ATP (hücresel enerji) üretmesi olayına ne ad verilir?",
+      "answers": [
+        "Sindirim",
+        "Fotosentez",
+        "Boşaltım",
+        "Solunum"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Solunum, besinlerdeki kimyasal bağ enerjisinin koparılarak hücrenin kullanabileceği ATP enerjisine dönüştürülme işlemidir."
+    },
+    {
+      "id": "Q_8_6_014",
+      "questionText": "Gelişmiş canlılarda (bitki ve hayvanlarda) oksijenli solunumun gerçekleştiği ve ATP enerjisinin üretildiği hücre organeli hangisidir?",
+      "answers": [
+        "Kloroplast",
+        "Mitokondri",
+        "Çekirdek",
+        "Lizozom"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Mitokondri, hücrenin enerji (ATP) santralidir. Oksijenli solunum burada gerçekleşir."
+    },
+    {
+      "id": "Q_8_6_015",
+      "questionText": "Ağır bir spor yapıldığında kas hücrelerine yeterli oksijen gitmezse, hücreler enerji üretmek için oksijensiz solunuma başvurur. Bu olay sonucunda kaslarda birikerek yorgunluk hissine neden olan madde nedir?",
+      "answers": [
+        "Etil alkol",
+        "Laktik asit",
+        "Glikoz",
+        "Asetik asit"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Çizgili kaslarımızda oksijen yetersizliğinde gerçekleşen fermantasyon sonucu Laktik Asit oluşur ve bu asit kaslarda yorgunluğa sebep olur."
+    },
+    {
+      "id": "Q_8_6_016",
+      "questionText": "Hamurun mayalanması, sütten peynir veya yoğurt yapılması gibi işlemler canlıların hangi biyolojik faaliyetinin bir sonucudur?",
+      "answers": [
+        "Oksijenli Solunum",
+        "Fotosentez",
+        "Fermantasyon (Oksijensiz Solunum)",
+        "Dış Solunum"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Maya mantarları ve bazı bakteriler, oksijen kullanmadan besinleri parçalayarak enerji elde ederler. Bu fermantasyon olayları sayesinde mayalanma gerçekleşir."
+    },
+    {
+      "id": "Q_8_6_017",
+      "questionText": "Fotosentez ve Oksijenli Solunum denklemleri karşılaştırıldığında aralarındaki ilişki en doğru şekilde nasıl ifade edilir?",
+      "answers": [
+        "İkisi de aynı maddeleri kullanır ve aynı maddeleri üretir.",
+        "İkisi de sadece gündüzleri gerçekleşir.",
+        "Birbiriyle tamamen ilgisiz iki bağımsız olaydır.",
+        "Birinin ürettiği maddeler (ürünler), diğerinin kullanmak zorunda olduğu hammaddelerdir (Tersinir denklemlerdir)."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Fotosentezin ürettiği oksijen ve besini, solunum kullanır. Solunumun ürettiği su ve karbondioksiti ise fotosentez kullanır. Bu mükemmel bir döngüdür."
+    },
+    {
+      "id": "Q_8_6_018",
+      "questionText": "Doğadaki su döngüsünde yeryüzündeki suyun atmosfere çıkmasını ve tekrar yeryüzüne inmesini sağlayan iki temel fiziksel hal değişimi olayı sırasıyla hangileridir?",
+      "answers": [
+        "Erime ve Donma",
+        "Buharlaşma ve Yoğuşma",
+        "Süblimleşme ve Kırağılaşma",
+        "Kaynama ve Süblimleşme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Su güneş enerjisiyle buharlaşarak gaz halinde atmosfere yükselir, soğuk havayla karşılaşınca yoğuşarak tekrar sıvı (yağış) halinde yeryüzüne döner."
+    },
+    {
+      "id": "Q_8_6_019",
+      "questionText": "Atmosferdeki karbondioksit miktarını (Karbon döngüsünü) dengeleyen, yani havadan karbondioksit çeken tek biyolojik olay aşağıdakilerden hangisidir?",
+      "answers": [
+        "Fosil yakıtların yanması",
+        "Solunum",
+        "Fotosentez",
+        "Çürüme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Solunum, yanma ve çürüme atmosfere CO2 verir. Atmosferdeki bu karbondioksiti alıp kullanan tek işlem üreticilerin yaptığı fotosentezdir."
+    },
+    {
+      "id": "Q_8_6_020",
+      "questionText": "Atmosferin %78'i Azot (N) gazından oluşmasına rağmen bitkiler ve hayvanlar bu azotu havadan doğrudan soluyarak kullanamazlar. Havada serbest bulunan azotu toprağa bağlayarak canlıların kullanabileceği hale getiren temel unsurlar nelerdir?",
+      "answers": [
+        "Güneş ışığı ve bulutlar",
+        "Yıldırım, şimşek doğa olayları ve baklagillerin kökündeki azot bağlayıcı bakteriler",
+        "Otçul hayvanların solunumu",
+        "Fotosentez yapan ağaçlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 3,
+      "explanation": "Havadaki serbest azot, yüksek enerjili yıldırımlar sayesinde yağmurla toprağa iner. Ayrıca bazı özel bakteriler bu azotu emerek bitkilerin kullanabileceği nitrat tuzlarına çevirir."
+    },
+    {
+      "id": "Q_8_6_021",
+      "questionText": "Atmosferin üst katmanlarında yer alan, Güneş'ten gelen zararlı ultraviyole (UV) ışınlarını süzerek yeryüzündeki canlıları cilt kanseri gibi hastalıklardan koruyan gaz kalkanına ne ad verilir?",
+      "answers": [
+        "Sera Tabakası",
+        "Ozon Tabakası",
+        "İyonosfer",
+        "Karbondioksit Kalkanı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Ozon tabakası (O3), yeryüzündeki yaşamın devamı için ölümcül olan güneşin zararlı ışınlarını filtreleyen doğal bir koruyucu tabakadır."
+    },
+    {
+      "id": "Q_8_6_022",
+      "questionText": "Aşağıdakilerden hangisi Ozon Tabakası'nın incelmesine (delinmesine) yol açan kimyasal gazlardan biridir?",
+      "answers": [
+        "Oksijen gazı",
+        "Kloroflorokarbon (CFC) gazları",
+        "Su buharı",
+        "Helyum gazı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Deodorantlar, spreyler ve eski soğutucularda (buzdolabı/klima) yoğun olarak kullanılan Kloroflorokarbon (CFC) gazları ozon moleküllerini parçalayarak tabakayı inceltir."
+    },
+    {
+      "id": "Q_8_6_023",
+      "questionText": "Fosil yakıtların tüketilmesi, ormanların yok edilmesi gibi faaliyetler sonucu atmosfere salınan Karbondioksit (CO2) ve Metan (CH4) gibi gazların, yeryüzünden yansıyan ısıyı uzaya bırakmayıp atmosferde tutmasına ne ad verilir?",
+      "answers": [
+        "Ozon Deliği",
+        "Asit Yağmurları",
+        "Sera Etkisi",
+        "Biyolojik Birikim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Sera gazlarının tıpkı cam bir tavan gibi ısıyı atmosferin içinde hapsetmesi ve gezegenin ısınmasına yol açması olayına Sera Etkisi denir."
+    },
+    {
+      "id": "Q_8_6_024",
+      "questionText": "Sera etkisinin giderek şiddetlenmesi sonucunda buzulların erimesi, deniz seviyelerinin yükselmesi, aşırı kuraklık ve ani hava olaylarının yaşanmasıyla ortaya çıkan küresel tehlikeye ne denir?",
+      "answers": [
+        "Küresel İklim Değişikliği (Küresel Isınma)",
+        "Ozon Yıkımı",
+        "Mevsim Dönüşümü",
+        "Ekolojik Restorasyon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Sera etkisinin artması, yeryüzünün ortalama sıcaklığının kalıcı olarak yükselmesine yani Küresel İklim Değişikliğine yol açmaktadır."
+    },
+    {
+      "id": "Q_8_6_025",
+      "questionText": "Bir kişinin, ailenin veya kurumun yaşamsal faaliyetleri (ulaşım, elektrik tüketimi, ısınma vb.) sonucu doğaya salınmasına sebep olduğu karbondioksit miktarının ölçüsüne ne ad verilir?",
+      "answers": [
+        "Su Ayak İzi",
+        "Ekolojik Ayak İzi",
+        "Karbon Ayak İzi",
+        "Ozon Ayak İzi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Karbon ayak izi, doğrudan veya dolaylı yollardan atmosferdeki sera gazı birikimine yaptığımız bireysel tahribatın bir ölçüsüdür."
+    },
+    {
+      "id": "Q_8_6_026",
+      "questionText": "Gelecek nesillerin ihtiyaçlarını karşılama yeteneğini tehlikeye atmadan, bugünün ihtiyaçlarını doğaya zarar vermeden ve kaynakları tüketmeden karşılamayı amaçlayan ekonomik ve sosyal gelişme modeline ne ad verilir?",
+      "answers": [
+        "Sürdürülebilir Kalkınma",
+        "Küreselleşme",
+        "Sanayi Devrimi",
+        "Tüketim Toplumu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Sürdürülebilir kalkınma, doğal kaynakların (su, orman, enerji) bilinçli kullanılarak hem bugünün ekonomisini büyütmek hem de geleceğe yaşanabilir bir dünya bırakmaktır."
+    },
+    {
+      "id": "Q_8_6_027",
+      "questionText": "Aşağıdaki eylemlerden hangisi Sürdürülebilir Kalkınma hedeflerine ulaşmak için yapılabilecek olumlu bir davranış değildir?",
+      "answers": [
+        "Geri dönüşüm faaliyetlerini artırmak",
+        "Tek kullanımlık plastikler yerine tekrar kullanılabilir ürünler tercih etmek",
+        "Enerji verimli (A+++) elektrikli aletler kullanmak",
+        "Enerji ihtiyacını kömür ve doğal gaz santralleri inşa ederek çözmek"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Kömür ve doğal gaz tükenen fosil yakıtlardır ve sera gazı yayarlar. Sürdürülebilir bir gelecek için fosil yakıtlar yerine güneş ve rüzgar gibi yenilenebilir enerjilere yatırım yapılmalıdır."
+    },
+    {
+      "id": "Q_8_6_028",
+      "questionText": "Kullanılmış atık materyallerin (kağıt, cam, plastik, metal) fiziksel ve kimyasal işlemlerden geçirilerek yeniden hammadde olarak üretime kazandırılması sürecine ne ad verilir?",
+      "answers": [
+        "Geri Dönüşüm",
+        "Yeniden Kullanım",
+        "Kompostlama",
+        "Damıtma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 1,
+      "explanation": "Geri dönüşüm, atıkların eritilip veya parçalanıp yeni ürünlere hammadde yapılması işlemidir. Bu sayede doğadan yeni kaynak (ağaç, petrol, cevher) çekilmesi önlenir."
+    },
+    {
+      "id": "Q_8_6_029",
+      "questionText": "Organik evsel atıkların (meyve, sebze kabukları, dökülen yapraklar vb.) çürütülerek toprağı zenginleştiren doğal bir gübreye dönüştürülmesi yöntemine ne ad verilir?",
+      "answers": [
+        "Sera Etkisi",
+        "Kompost",
+        "Biyolojik Birikim",
+        "Yapay Seçilim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 2,
+      "explanation": "Kompost, ayrıştırıcı canlıların organik ev atıklarını parçalayarak humuslu, besin değeri yüksek verimli bir toprak eklentisine dönüştürmesi işlemidir."
+    },
+    {
+      "id": "Q_8_6_030",
+      "questionText": "Kapalı ve hava almayan saydam bir cam fanusun içerisine canlı bir fare ve canlı bir yeşil bitki konulmuştur. Bu sistemdeki döngünün ve canlılık faaliyetlerinin en uzun süre devam edebilmesi için fanusa dışarıdan sürekli olarak hangisinin verilmesi şarttır?",
+      "answers": [
+        "Karbondioksit gazı",
+        "Işık enerjisi",
+        "Oksijen gazı",
+        "Su buharı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Enerji Dönüşümleri ve Çevre Bilimi",
+      "difficulty": 3,
+      "explanation": "Fare solunumla CO2 verir, bitki bunu kullanır. Bitki fotosentezle O2 üretir, fare bunu kullanır (madde döngüsü sağlanır). Ancak bu döngünün çalışması (fotosentezin sürmesi) için dışarıdan kesintisiz bir 'Işık Enerjisi' kaynağı şarttır."
+    }
+  ]
+}

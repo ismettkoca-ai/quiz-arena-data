@@ -1,0 +1,425 @@
+{
+  "unit": "Personal Life",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "Look at the time: 07:15. What time is it?",
+      "answers": [
+        "It is quarter past seven.",
+        "It is quarter to seven.",
+        "It is half past seven.",
+        "It is seven o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "07:15 saati 'yediyi çeyrek geçiyor' demektir. İngilizcede çeyrek geçe 'quarter past' kalıbıyla söylenir."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "My brother usually __________ early on weekdays, but he sleeps late at the weekends.",
+      "answers": [
+        "wakes up",
+        "wake up",
+        "waking up",
+        "woke up"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Geniş zamanda 'My brother' (He) tekil özne olduğu için fiil sonuna '-s' takısı alır."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Jack: __________ do you visit your grandparents?\nLeo: Twice a month.",
+      "answers": [
+        "How often",
+        "What time",
+        "Where",
+        "Who"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Cevapta 'ayda iki kez' (twice a month) şeklinde sıklık belirtildiği için soru 'Ne sıklıkla?' (How often) olmalıdır."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "I always __________ my hands and face before I have breakfast.",
+      "answers": [
+        "wash",
+        "brush",
+        "comb",
+        "take"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Elleri ve yüzü yıkamak eylemi için 'wash' fiili kullanılır."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "Which sentence has the correct word order?",
+      "answers": [
+        "I usually read a book in the evenings.",
+        "I read usually a book in the evenings.",
+        "Usually I reading a book in the evenings.",
+        "I read a book usually in the evenings."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Sıklık zarfları (usually, always vb.) cümlede özneden hemen sonra, asıl fiilden önce gelir."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "After school, Emma sometimes __________. She sleeps for about an hour because she feels tired.",
+      "answers": [
+        "takes a nap",
+        "runs errands",
+        "does homework",
+        "has a snack"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Bir saat uyumak ve dinlenmek 'kısa bir uykuya dalmak / şekerleme yapmak' (takes a nap) anlamına gelir."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "Mom: Can you help me __________?\nSon: Sure, I can go to the supermarket and buy some milk.",
+      "answers": [
+        "run errands",
+        "take a nap",
+        "attend a course",
+        "keep a diary"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Market alışverişi yapmak, ufak tefek işlere koşturmak İngilizcede 'run errands' kalıbıyla ifade edilir."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "Look at the time: 09:45. How do you read this time?",
+      "answers": [
+        "It is quarter to ten.",
+        "It is quarter past nine.",
+        "It is half past nine.",
+        "It is quarter to nine."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "09:45 saati 'ona çeyrek var' şeklinde okunur. Çeyrek var ifadesi 'quarter to' kalıbıdır."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "My sister __________ like playing basketball. She thinks it is boring.",
+      "answers": [
+        "doesn't",
+        "don't",
+        "isn't",
+        "hasn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Geniş zamanda 'My sister' (She) için olumsuz yardımcı fiil 'doesn't' olmalıdır."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "Choose the correct preposition to complete the sentence:\n'I have an important exam __________ Monday morning.'",
+      "answers": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "İngilizcede gün isimlerinin (Monday, Tuesday vb.) önüne daima 'on' edatı gelir."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "In the afternoon, I come home from school and __________. I eat an apple or a sandwich.",
+      "answers": [
+        "have a snack",
+        "have a shower",
+        "take a nap",
+        "write a diary"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Elma veya sandviç gibi hafif şeyler yemek 'atıştırmak' (have a snack) olarak ifade edilir."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "__________ does the school bus arrive?\nIt arrives at exactly eight o'clock.",
+      "answers": [
+        "What time",
+        "Who",
+        "Where",
+        "How"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Cevapta kesin bir saat (eight o'clock) belirtildiği için soru 'Saat kaçta?' (What time) olmalıdır."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "Which of the following activities is a traditional dance course?",
+      "answers": [
+        "Folk dance",
+        "Chess club",
+        "Language class",
+        "Math course"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Geleneksel dans kursu 'Folk dance' (halk oyunları) olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "Alex: Do you watch TV in the evenings?\nDavid: No, __________. I prefer reading books.",
+      "answers": [
+        "I never watch TV.",
+        "I always watch TV.",
+        "I watch TV everyday.",
+        "I usually watch TV."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Soruya 'Hayır' (No) dediği ve kitap okumayı tercih ettiğini belirttiği için 'hiç televizyon izlemem' (never watch TV) yanıtı en mantıklısıdır."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "Before I go to sleep, I always __________. I write down what happened during the day.",
+      "answers": [
+        "keep a diary",
+        "comb my hair",
+        "do my homework",
+        "have breakfast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Gün içinde olanları bir deftere yazmak 'günlük tutmak' (keep a diary) eylemidir."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "Which of the following sentences has a mistake?",
+      "answers": [
+        "He wash his face every morning.",
+        "She plays tennis on Saturdays.",
+        "They do their homework after school.",
+        "I brush my teeth twice a day."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Geniş zamanda 'He' öznesiyle kullanılan fiil '-es' takısı almalıdır. Doğrusu 'He washes' olacaktı."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Look at the list of activities:\n1. Wake up\n2. Have breakfast\n3. _________\n4. Go to school\nWhich routine best fits the blank?",
+      "answers": [
+        "Get dressed",
+        "Have dinner",
+        "Do homework",
+        "Take a nap"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Kahvaltıdan sonra ve okula gitmeden önce yapılan en mantıklı rutin üstünü giyinmektir (Get dressed)."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "Lisa is a very active girl. She loves sports, so she __________.",
+      "answers": [
+        "attends a basketball course",
+        "plays computer games all day",
+        "hates going out",
+        "always sleeps late"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Çok aktif olan ve spor seven birinin bir basketbol kursuna katılması (attends a basketball course) beklenir."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "I never go to school by bus. I always __________.",
+      "answers": [
+        "walk to school",
+        "take the bus",
+        "drive a bus",
+        "wait at the bus stop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Okula asla otobüsle gitmeyen birinin okula yürüyerek gitmesi (walk to school) veya özel araçla bırakılması gerekir."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "Complete the sentence with the correct preposition:\n'My father comes back home from work __________ the evening.'",
+      "answers": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Günün bölümlerinden 'morning', 'afternoon' ve 'evening' kelimelerinden önce daima 'in' edatı (in the evening) kullanılır."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "Which verb completes the phrase correctly? '__________ a shower'",
+      "answers": [
+        "Take / Have",
+        "Do",
+        "Make",
+        "Play"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Duş almak İngilizcede 'take a shower' veya 'have a shower' olarak söylenir."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "Read the dialogue:\nTom: Does your mother work on Sundays?\nLeo: No, __________. She rests at home.",
+      "answers": [
+        "she doesn't",
+        "she isn't",
+        "she don't",
+        "she does"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Does' ile sorulan soruya olumsuz, kısa yanıt verilirken 'No, she doesn't' kullanılır."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "If today is Tuesday, what day is tomorrow?",
+      "answers": [
+        "Wednesday",
+        "Thursday",
+        "Monday",
+        "Sunday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Bugün Salı (Tuesday) ise yarın Çarşamba (Wednesday) olur."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "What does 'half past four' mean in numbers?",
+      "answers": [
+        "04:30",
+        "04:15",
+        "03:30",
+        "04:45"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Half past four' saat dördü buçuk geçiyor yani 04:30 demektir."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "To show the correct sequence of daily events, which word should come first?",
+      "answers": [
+        "First",
+        "Then",
+        "After that",
+        "Finally"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Olayları sıraya dizerken her zaman 'İlk olarak' anlamına gelen 'First' ile başlanır."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "Oliver loves music. He takes a __________ course every Saturday afternoon.",
+      "answers": [
+        "guitar",
+        "step dance",
+        "swimming",
+        "drawing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Müzik seven birinin alacağı kurs gitar (guitar) kursudur."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "My friend __________ watches TV. He doesn't even have a television in his house.",
+      "answers": [
+        "never",
+        "always",
+        "often",
+        "usually"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Evinde televizyon bile olmayan biri 'asla' (never) televizyon izlemez."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "Which question matches the answer: 'I go to bed at 10:30 p.m.'?",
+      "answers": [
+        "What time do you go to bed?",
+        "Where do you sleep?",
+        "How do you go to bed?",
+        "Do you sleep late?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Verilen yanıt bir saat belirttiği için soru cümlesi 'What time' (Saat kaçta) ile başlamalıdır."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "I have lunch at school canteen __________ noon.",
+      "answers": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "'Noon' (öğle vakti) kelimesinden önce her zaman 'at' edatı (at noon) kullanılır."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "Read the sentences carefully:\n1. Then, I brush my teeth.\n2. Finally, I leave home for school.\n3. First, I wake up at 7 a.m.\n4. After that, I have a big breakfast.\nWhat is the correct logical order of these sentences?",
+      "answers": [
+        "3 - 1 - 4 - 2",
+        "1 - 2 - 3 - 4",
+        "3 - 4 - 1 - 2",
+        "4 - 3 - 1 - 2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 3,
+      "explanation": "Sıralama belirten kelimelere göre doğru akış: Uyanmak (First), diş fırçalamak (Then), kahvaltı (After that) ve evden çıkmaktır (Finally)."
+    }
+  ]
+}

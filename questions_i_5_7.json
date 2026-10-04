@@ -1,0 +1,426 @@
+{
+  "unit": "Life in Nature",
+  "questions": [
+    {
+      "id": "Q_5_7_001",
+      "questionText": "Ağaçlar, bitkiler ve vahşi hayvanların bulunduğu geniş yeşil alanlara İngilizce'de ne ad verilir?",
+      "answers": [
+        "Forest",
+        "Hospital",
+        "Supermarket",
+        "Cinema"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Ağaçlarla kaplı geniş alanlar 'forest' (orman) olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_7_002",
+      "questionText": "Suda yaşayan, solungaçları olan ve yüzebilen hayvanların genel adı nedir?",
+      "answers": [
+        "Fish",
+        "Bird",
+        "Lion",
+        "Monkey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Suda yaşayan canlılar 'fish' (balık) grubundadır."
+    },
+    {
+      "id": "Q_5_7_003",
+      "questionText": "'Bear' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Ayı",
+        "Kuş",
+        "Yılan",
+        "Kurbağa"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Bear' kelimesi Türkçe'de ayı anlamına gelir."
+    },
+    {
+      "id": "Q_5_7_004",
+      "questionText": "Bitkilerin büyüyüp gelişmesi için aşağıdakilerden hangisine ihtiyacı yoktur?",
+      "answers": [
+        "Plastic bags",
+        "Water",
+        "Sunlight",
+        "Soil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Bitkiler suya, güneşe ve toprağa ihtiyaç duyar; plastik poşetlere değil."
+    },
+    {
+      "id": "Q_5_7_005",
+      "questionText": "'Mountain' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Dağ",
+        "Nehir",
+        "Göl",
+        "Deniz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Mountain' dağ demektir."
+    },
+    {
+      "id": "Q_5_7_006",
+      "questionText": "Gökyüzünde uçabilen, tüyleri ve kanatları olan hayvanların genel adı nedir?",
+      "answers": [
+        "Birds",
+        "Fish",
+        "Lions",
+        "Zebras"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Uçabilen tüylü canlılar kuşlardır (birds)."
+    },
+    {
+      "id": "Q_5_7_007",
+      "questionText": "'River' kelimesinin Türkçe karşılığı hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Nehir / Çay",
+        "Orman",
+        "Gökyüzü",
+        "Çöl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'River' akarsu veya nehir demektir."
+    },
+    {
+      "id": "Q_5_7_008",
+      "questionText": "Aslanların doğal yaşam alanı (habitat) genellikle neresidir?",
+      "answers": [
+        "Savannah",
+        "Ocean",
+        "Kitchen",
+        "Classroom"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Aslanlar ormanda veya savanalarda yaşar."
+    },
+    {
+      "id": "Q_5_7_009",
+      "questionText": "'Tree' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Ağaç",
+        "Çiçek",
+        "Yaprak",
+        "Kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Nature",
+      "difficulty": 1,
+      "explanation": "'Tree' ağaç demektir."
+    },
+    {
+      "id": "Q_5_7_010",
+      "questionText": "Aşağıdaki hayvanlardan hangisi uçamaz?",
+      "answers": [
+        "Lion",
+        "Eagle",
+        "Sparrow",
+        "Parrot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Aslan (lion) memeli bir karasal hayvandır, uçamaz."
+    },
+    {
+      "id": "Q_5_7_011",
+      "questionText": "'Flower' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Çiçek",
+        "Ağaç",
+        "Çim",
+        "Taş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Flower' çiçek demektir."
+    },
+    {
+      "id": "Q_5_7_012",
+      "questionText": "Sağlıklı ağaçların yaprakları genellikle hangi renktedir?",
+      3,
+      "answers": [
+        "Green",
+        "Blue",
+        "Purple",
+        "Pink"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Sağlıklı yapraklar yeşil renklidir."
+    },
+    {
+      "id": "Q_5_7_013",
+      "questionText": "'Ocean' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Okyanus",
+        "Göl",
+        "Nehir",
+        "Havuz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Ocean' okyanus demektir."
+    },
+    {
+      "id": "Q_5_7_014",
+      "questionText": "Ormanlar kralı (king of the jungle) olarak bilinen vahşi hayvan hangisidir?",
+      "answers": [
+        "Lion",
+        "Rabbit",
+        "Sheep",
+        "Cow"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Aslan (lion) ormanlar kralı olarak bilinir."
+    },
+    {
+      "id": "Q_5_7_015",
+      "questionText": "'Desert' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Çöl",
+        "Orman",
+        "Dağ",
+        "Göl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Desert' çöl demektir."
+    },
+    {
+      "id": "Q_5_7_016",
+      "questionText": "Çok uzun boyu ve uzun boynuyla bilinen, yapraklarla beslenen Afrika hayvanı hangisidir?",
+      "answers": [
+        "Giraffe",
+        "Penguin",
+        "Fish",
+        "Cat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Uzun boyunlu hayvan zürafadır (giraffe)."
+    },
+    {
+      "id": "Q_5_7_017",
+      "questionText": "'Lake' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Göl",
+        "Nehir",
+        "Deniz",
+        "Okyanus"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Lake' göl demektir."
+    },
+    {
+      "id": "Q_5_7_018",
+      "questionText": "Avustralya'da yaşayan, zıplayabilen ve karnında yavru kesesi olan hayvan hangisidir?",
+      "answers": [
+        "Kangaroo",
+        "Lion",
+        "Bear",
+        "Wolf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Kanguru (kangaroo) Avustralya'ya özgü keseli hayvandır."
+    },
+    {
+      "id": "Q_5_7_019",
+      "questionText": "'Sky' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Gökyüzü",
+        "Yeryüzü",
+        "Toprak",
+        "Bulut"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Sky' gökyüzü demektir."
+    },
+    {
+      "id": "Q_5_7_020",
+      "questionText": "Kuşların uçmasını sağlayan vücut örtüsü nedir?",
+      "answers": [
+        "Feathers",
+        "Fur",
+        "Scales",
+        "Skin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 2,
+      "explanation": "Kuşların uçmasını sağlayan örtü tüy (feather)dür."
+    },
+    {
+      "id": "Q_5_7_021",
+      "questionText": "'Grass' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Çim / Ot",
+        "Ağaç",
+        "Toprak",
+        "Kaya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Grass' çim veya ot demektir."
+    },
+    {
+      "id": "Q_5_7_022",
+      "questionText": "Dünyanın en büyük karasal memelisi olan, büyük kulakları ve hortumu bulunan hayvan hangisidir?",
+      "answers": [
+        "Elephant",
+        "Monkey",
+        "Snake",
+        "Frog"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Hortumlu büyük hayvan fildir (elephant)."
+    },
+    {
+      "id": "Q_5_7_023",
+      "questionText": "'Sun' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Güneş",
+        "Ay",
+        "Yıldız",
+        "Bulut"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Sun' güneş demektir."
+    },
+    {
+      "id": "Q_5_7_024",
+      "questionText": "Buzullar ve karlı ortamlarda yaşayan, uçamayan ancak çok iyi yüzen kuş türü hangisidir?",
+      "answers": [
+        "Penguin",
+        "Eagle",
+        "Owl",
+        "Duck"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 2,
+      "explanation": "Buzullarda yaşayan uçamayan deniz kuşu penguendir."
+    },
+    {
+      "id": "Q_5_7_025",
+      "questionText": "'Rain' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Yağmur",
+        "Kar",
+        "Rüzgar",
+        "Güneş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Rain' yağmur demektir."
+    },
+    {
+      "id": "Q_5_7_026",
+      "questionText": "Ayşe doğa ile ilgili bir kitap okumaktadır. Kitapta uzun ağaçlardan, yeşil yapraklardan, rengarenk çiçeklerden ve bu ağaçların arasında koşan vahşi hayvanlardan bahsedilmektedir. Ayşe'nin okuduğu bu paragraf doğanın hangi unsurunu anlatmaktadır?",
+      "answers": [
+        "A forest",
+        "A desert",
+        "An ocean",
+        "A classroom"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 3,
+      "explanation": "Ağaçlar, yapraklar ve vahşi hayvanlar ormanı (forest) tanımlar."
+    },
+    {
+      "id": "Q_5_7_027",
+      "questionText": "Dünya üzerinde yaşadığımız alanları, canlıları ve doğal kaynakları kapsayan genel kavrama ne denir?",
+      "answers": [
+        "Nature",
+        "Factory",
+        "City",
+        "Building"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Doğal yaşam alanı ve çevremiz 'nature' (doğa) olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_7_028",
+      "questionText": "Afrika'da yaşayan, siyah beyaz çizgileri olan ve ata benzeyen hayvan hangisidir?",
+      "answers": [
+        "Zebra",
+        "Lion",
+        "Elephant",
+        "Monkey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Siyah beyaz çizgili hayvan zebradır."
+    },
+    {
+      "id": "Q_5_7_029",
+      "questionText": "'Plant' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Bitki",
+        "Taş",
+        "Su",
+        "Kaya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "'Plant' bitki demektir."
+    },
+    {
+      "id": "Q_5_7_030",
+      "questionText": "Doğanın insanlar için önemi nedir?",
+      "answers": [
+        "Bize oksijen, temiz su, besin ve yaşanabilir bir habitat sağlar.",
+        "Sadece asfalt döşememizi sağlar.",
+        "Hiçbir önemi yoktur.",
+        "Sadece binalar yapmamıza yarar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in Nature",
+      "difficulty": 1,
+      "explanation": "Doğa bize yaşam için gerekli olan oksijeni, suyu ve besinleri sunar."
+    }
+  ]
+}

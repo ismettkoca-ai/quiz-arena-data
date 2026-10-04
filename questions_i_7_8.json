@@ -1,0 +1,425 @@
+{
+  "unit": "Public Buildings",
+  "questions": [
+    {
+      "id": "Q_7_8_001",
+      "questionText": "If you want to report a burglary or ask for help in an emergency, you should go to the ________.",
+      "answers": [
+        "police station",
+        "bakery",
+        "pharmacy",
+        "library"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Bir hırsızlığı (burglary) bildirmek veya acil durumda yardım istemek için karakola (police station) gidilir."
+    },
+    {
+      "id": "Q_7_8_002",
+      "questionText": "I went to the bakery ________ buy some fresh bread and croissants.",
+      "answers": [
+        "to",
+        "for",
+        "with",
+        "by"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "İngilizcede bir eylemin amacını belirtirken (ekmek almak İÇİN) fiilden önce 'to' edatı kullanılır."
+    },
+    {
+      "id": "Q_7_8_003",
+      "questionText": "My sister is feeling very ill. I need to take her to the ________ to see a doctor.",
+      "answers": [
+        "hospital",
+        "butcher",
+        "post office",
+        "municipality"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Hasta birini doktora göstermek için hastaneye (hospital) götürmek gerekir."
+    },
+    {
+      "id": "Q_7_8_004",
+      "questionText": "Where can you go to see beautiful paintings, sculptures, and historical objects?",
+      "answers": [
+        "Art gallery",
+        "Greengrocer",
+        "Fire station",
+        "Bank"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Tablolar (paintings) ve heykeller görmek için sanat galerisine (art gallery) gidilir."
+    },
+    {
+      "id": "Q_7_8_005",
+      "questionText": "You should go to the ________ to buy some medicine when you have a terrible headache.",
+      "answers": [
+        "chemist's / pharmacy",
+        "bakery",
+        "grocery",
+        "shoe shop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "İlaç (medicine) almak için eczaneye gidilir. Eczane İngilizcede 'chemist's' veya 'pharmacy' olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_8_006",
+      "questionText": "Tom: Why did you go to the post office?\nSue: ________ send a parcel to my grandparents.",
+      "answers": [
+        "To",
+        "For",
+        "Because",
+        "So"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Amaç bildiren cümlelerde fiilden önce 'için' anlamı katmak adına 'to' kullanılır (To send: Göndermek için)."
+    },
+    {
+      "id": "Q_7_8_007",
+      "questionText": "İngilizcede 'Municipality' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Belediye",
+        "Valilik",
+        "Karakol",
+        "Hastane"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Şehirlerin yerel yönetim binasına veya kurumuna Belediye (Municipality) denir."
+    },
+    {
+      "id": "Q_7_8_008",
+      "questionText": "I need some cash to buy a gift for my mom. I will go to the ________ to withdraw money.",
+      "answers": [
+        "bank",
+        "library",
+        "museum",
+        "cafe"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Nakit para çekmek (withdraw money) için bankaya gidilir."
+    },
+    {
+      "id": "Q_7_8_009",
+      "questionText": "We went to the ________ yesterday to watch a great play about a historical hero.",
+      "answers": [
+        "theatre",
+        "stadium",
+        "swimming pool",
+        "shopping mall"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Tiyatro oyunlarını (play) izlemek için tiyatro salonuna (theatre) gidilir."
+    },
+    {
+      "id": "Q_7_8_010",
+      "questionText": "Firefighters work at the ________. Their job is to put out fires and save people.",
+      "answers": [
+        "fire station",
+        "police station",
+        "governor's office",
+        "city hall"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "İtfaiyecilerin (firefighters) çalıştığı ve yangınları söndürmek için gittikleri yer itfaiye istasyonudur (fire station)."
+    },
+    {
+      "id": "Q_7_8_011",
+      "questionText": "If you want to buy some fresh meat for the barbecue, you should visit the ________.",
+      "answers": [
+        "butcher's",
+        "baker's",
+        "florist's",
+        "chemist's"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Barbekü için taze et (meat) kasaptan (butcher's) alınır."
+    },
+    {
+      "id": "Q_7_8_012",
+      "questionText": "İngilizcede 'Department Store' ifadesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Büyük / Çok katlı mağaza",
+        "Bakkal",
+        "Eczane",
+        "Kütüphane"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "İçinde giyimden kozmetiğe birçok farklı bölüm bulunan büyük mağazalara 'department store' denir."
+    },
+    {
+      "id": "Q_7_8_013",
+      "questionText": "People go to the ________ to have fun, ride roller coasters, and eat cotton candy.",
+      "answers": [
+        "amusement park",
+        "city hall",
+        "grocery",
+        "hospital"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Hız trenine binmek (ride roller coasters) ve eğlenmek için lunaparka / eğlence parkına (amusement park) gidilir."
+    },
+    {
+      "id": "Q_7_8_014",
+      "questionText": "Leo: Where is your sister?\nMax: She is at the ________ to buy some magazines and a daily newspaper.",
+      "answers": [
+        "newsagent",
+        "bakery",
+        "butcher",
+        "florist"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Dergi ve günlük gazete satın alınan yer gazete bayisidir (newsagent)."
+    },
+    {
+      "id": "Q_7_8_015",
+      "questionText": "I need to go to the ________ to borrow some science books for my school project.",
+      "answers": [
+        "library",
+        "museum",
+        "bookstore",
+        "police station"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Proje için kitap ödünç almak (borrow books) kütüphaneden (library) yapılır. (Kitapçıdan -bookstore- kitap satın alınır, ödünç alınmaz.)"
+    },
+    {
+      "id": "Q_7_8_016",
+      "questionText": "The mayor of the city works at the ________. They make important decisions for the city.",
+      "answers": [
+        "city hall",
+        "amusement park",
+        "cinema",
+        "stadium"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Belediye başkanı (mayor) belediye binasında (city hall / municipality) çalışır."
+    },
+    {
+      "id": "Q_7_8_017",
+      "questionText": "Which sentence expresses a 'PURPOSE' (amaç)?",
+      "answers": [
+        "I went to the cafe to drink coffee.",
+        "I like drinking coffee.",
+        "The cafe is next to the bank.",
+        "I didn't drink coffee yesterday."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 3,
+      "explanation": "'To drink coffee' (kahve içmek için) kalıbı kafeye gidişin amacını belirtir."
+    },
+    {
+      "id": "Q_7_8_018",
+      "questionText": "We bought some fresh tomatoes and apples from the ________ yesterday.",
+      "answers": [
+        "greengrocer's",
+        "butcher's",
+        "bakery",
+        "pharmacy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Taze sebze ve meyveler manavdan (greengrocer's) satın alınır."
+    },
+    {
+      "id": "Q_7_8_019",
+      "questionText": "A place where you can watch movies and eat popcorn is the ________.",
+      "answers": [
+        "cinema",
+        "theatre",
+        "hospital",
+        "bank"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Film izleyip patlamış mısır yenen yer sinemadır (cinema / movie theater)."
+    },
+    {
+      "id": "Q_7_8_020",
+      "questionText": "İngilizcede 'Governor's Office' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Valilik",
+        "Belediye",
+        "Karakol",
+        "Postane"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "'Governor' vali, 'Governor's Office' ise Valilik makamı / binası demektir."
+    },
+    {
+      "id": "Q_7_8_021",
+      "questionText": "I will go to the ________ to get my hair cut because it is too long.",
+      "answers": [
+        "barber's / hairdresser's",
+        "florist's",
+        "bakery",
+        "library"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Saç kestirmek (get hair cut) için berbere veya kuaföre (barber's / hairdresser's) gidilir."
+    },
+    {
+      "id": "Q_7_8_022",
+      "questionText": "Match the building with the action: ________ - to buy some beautiful roses for a birthday.",
+      "answers": [
+        "Florist's",
+        "Chemist's",
+        "Butcher's",
+        "Greengrocer's"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Gül (roses) veya çiçek almak için çiçekçiye (florist's) gidilir."
+    },
+    {
+      "id": "Q_7_8_023",
+      "questionText": "In a ________, there are many different shops, cafes, and a cinema in the same large building.",
+      "answers": [
+        "shopping mall",
+        "police station",
+        "post office",
+        "hospital"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "İçinde pek çok mağaza, kafe ve sinema barındıran büyük binalar alışveriş merkezidir (shopping mall)."
+    },
+    {
+      "id": "Q_7_8_024",
+      "questionText": "Sue went to the grocery ________ buy some milk and eggs for the cake.",
+      "answers": [
+        "to",
+        "for",
+        "so",
+        "because"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Market gidişinin amacını (süt ve yumurta almak İÇİN) bağlamak üzere fiilden önce 'to' edatı kullanılır."
+    },
+    {
+      "id": "Q_7_8_025",
+      "questionText": "Which of the following is NOT a public building?",
+      "answers": [
+        "Living room",
+        "City hall",
+        "Hospital",
+        "Post office"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Oturma odası (living room) evin bir bölümüdür, halka açık bir kamu binası (public building) değildir."
+    },
+    {
+      "id": "Q_7_8_026",
+      "questionText": "If you want to adopt a stray dog or cat, you should visit the ________.",
+      "answers": [
+        "animal shelter",
+        "police station",
+        "amusement park",
+        "museum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 2,
+      "explanation": "Sokak hayvanlarını sahiplenmek (adopt) için hayvan barınağına (animal shelter) gidilir."
+    },
+    {
+      "id": "Q_7_8_027",
+      "questionText": "İngilizcede 'Bakery' kelimesi hangi anlama gelmektedir?",
+      "answers": [
+        "Fırın / Pastane",
+        "Kasap",
+        "Manav",
+        "Bakkal"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Ekmek ve unlu mamullerin satıldığı yer olan 'Bakery', Türkçede fırın veya pastane anlamına gelir."
+    },
+    {
+      "id": "Q_7_8_028",
+      "questionText": "Where do you go to buy a pair of boots or sneakers?",
+      "answers": [
+        "Shoe shop",
+        "Florist's",
+        "Chemist's",
+        "Bakery"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Bot veya spor ayakkabı almak için ayakkabı mağazasına (shoe shop) gidilir."
+    },
+    {
+      "id": "Q_7_8_029",
+      "questionText": "We must go to the ________ early to catch our flight to London.",
+      "answers": [
+        "airport",
+        "train station",
+        "bus station",
+        "city hall"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Uçağa (flight) yetişmek için havalimanına (airport) gidilir."
+    },
+    {
+      "id": "Q_7_8_030",
+      "questionText": "People usually sit, drink tea, and chat with their friends at a ________.",
+      "answers": [
+        "cafe",
+        "fire station",
+        "bank",
+        "governor's office"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Public Buildings",
+      "difficulty": 1,
+      "explanation": "Oturup çay/kahve içilen ve sohbet edilen kamu alanları kafelerdir (cafe / coffee shop)."
+    }
+  ]
+}

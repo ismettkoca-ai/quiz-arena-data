@@ -1,0 +1,425 @@
+{
+  "unit": "Hac, Umre ve Kurban",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "İslam'ın beş temel şartından biri olan Hac ibadeti kimlere farzdır?",
+      "answers": [
+        "Sadece Arap yarımadasında yaşayanlara",
+        "Akıllı, ergenlik çağına girmiş, sağlıklı ve maddi durumu yerinde (zengin) olan her Müslümana",
+        "Sadece yaşlı ve emekli olan insanlara",
+        "Yalnızca erkeklere"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Hac ibadeti; akıllı, ergen, hür, sağlıklı ve hem yol masraflarını karşılayacak hem de geride bıraktığı ailesini geçindirecek kadar zengin olanlara ömürde bir kez farzdır."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Hacı adaylarının Mekke'ye yaklaştıklarında, günlük hayatta giydikleri elbiselerini çıkarıp sarıldıkları iki parça beyaz ve dikişsiz beze (örtüye) ne ad verilir?",
+      "answers": [
+        "Kefen",
+        "Cübbe",
+        "İhram",
+        "Seccade"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Makam, mevki ve zenginlik göstergesi olan tüm kıyafetlerin çıkarılıp, herkesin Allah katında eşit olduğunu gösteren dikişsiz beyaz örtüye 'İhram' denir."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "İhrama giren bir Müslüman; bitkileri koparamaz, hayvanları avlayamaz ve kimseyle tartışıp kavga edemez. Bu yasakların (ihram yasakları) Müslümana kazandırmak istediği asıl bilinç nedir?",
+      "answers": [
+        "Sadece sessiz kalmayı öğretmek",
+        "Çevreye, doğaya ve insanlara karşı zarar vermeme (barış ve merhamet) bilinci kazandırmak",
+        "Açlığa dayanmayı öğretmek",
+        "Hayvanlardan korkmayı sağlamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "İhram sadece bir kıyafet değildir; o süre boyunca karıncayı bile incitmemek, Müslümana doğayla ve insanla mükemmel bir barış (ekolojik ve ahlaki) bilinci aşılar."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "Hac ibadeti sırasında Kâbe'nin etrafında dualar ederek 7 kez dönmeye ne ad verilir?",
+      "answers": [
+        "Sa'y",
+        "Vakfe",
+        "Tavaf",
+        "Müzdelife"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Sözlükte 'bir şeyin etrafında dönmek' anlamına gelen Tavaf, Hacer-i Esved hizasından başlayarak Kâbe'nin etrafında 7 kez dönmektir."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "Kâbe etrafında yapılan Tavaf ibadeti toplam 7 turdan oluşur. Bu turlardan her birine verilen isim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Rekat",
+        "Şavt",
+        "Secde",
+        "Mikat"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Kâbe'nin etrafında tam bir tur atmaya 'Şavt' denir. 7 şavt birleşerek bir tam Tavafı oluşturur."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "Hz. Hacer'in, bebeği Hz. İsmail'e su bulabilmek için telaş ve umutla Safa ile Merve tepeleri arasında 7 kez gidip gelmesi anısına yapılan yürüyüş (koşma) ibadetine ne denir?",
+      "answers": [
+        "Arafat",
+        "Tavaf",
+        "Vakfe",
+        "Sa'y"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Sa'y (çaba göstermek, koşmak), Hz. Hacer'in anne şefkatiyle su arayışını sembolize eden ve Hac ile Umre'de yapılan yürüyüş ibadetidir."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "Zemzem suyu, İslam tarihinde hangi peygamber ve onun annesiyle doğrudan ilişkilendirilen kutsal ve bereketli bir sudur?",
+      "answers": [
+        "Hz. Muhammed - Hz. Amine",
+        "Hz. İsa - Hz. Meryem",
+        "Hz. İsmail - Hz. Hacer",
+        "Hz. Musa - Hz. Asiye"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Hz. Hacer'in Safa-Merve arasındaki arayışı sonucu, Allah'ın çöldeki susuz bebek Hz. İsmail'e lütfettiği suyun adı Zemzem'dir."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "Haccın en önemli (olmazsa olmaz) farzıdır. Zilhicce ayının 9. günü (Arefe günü) tüm hacı adaylarının ihramlı bir şekilde toplanıp, kıyamet gününü (Mahşeri) anımsatarak Allah'a dua ettikleri o büyük buluşmaya ne ad verilir?",
+      "answers": [
+        "Arafat Vakfesi",
+        "Müzdelife Vakfesi",
+        "Şeytan Taşlama",
+        "Mina"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Peygamberimizin 'Hac Arafat'tır' buyurduğu, Arefe günü Arafat ovasında bir an bile olsa bulunmayı (Vakfe) gerektiren yer haccın kalbidir."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "Hac ibadeti, dünyanın dört bir yanından gelen; dilleri, renkleri ve ırkları farklı milyonlarca Müslümanı tek bir amaç için bir araya getirir. Bu durum Hac ibadetinin en çok hangi yönünü öne çıkarır?",
+      "answers": [
+        "Turistik bir gezi olmasını",
+        "Ticari ve ekonomik bir toplantı olmasını",
+        "Evrensel bir kardeşlik ve eşitlik (ümmet) kongresi olmasını",
+        "Fiziksel bir spor olmasını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "İhrama girerek tüm dünyevi farklarından sıyrılan farklı ırklardan milyonlarca insanın yan yana saf tutması, İslam'ın evrensel kardeşlik şölenidir."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "Hacı adayları, Mina adı verilen bölgede 'Cemerat' adı verilen yerlere ufak taşlar atarlar. Hz. İbrahim'in eyleminden gelen 'Şeytan Taşlama' ibadetinin sembolik anlamı nedir?",
+      "answers": [
+        "Kayaları parçalayarak yol yapmak",
+        "Şeytanı fiziksel olarak öldürmek",
+        "İçimizdeki kötü arzuları, şeytanın vesveselerini ve kötülükleri (nefsimizi) sembolik olarak reddetmek",
+        "Spor yaparak güçlenmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 3,
+      "explanation": "Şeytan taşlama, kişinin şeytanın kötü fikirlerine uymayacağına söz vermesi ve içindeki kötülükleri taşlayarak manevi bir temizlik yapmasıdır."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "Hac ve Umre birbirinden farklı ibadetlerdir. Aşağıdakilerden hangisi Hac ibadetini Umre'den ayıran özelliklerden biri değildir?",
+      "answers": [
+        "Hac sadece yılın belirli günlerinde (Zilhicce ayı) yapılır, Umre her zaman yapılabilir.",
+        "Hacda Arafat Vakfesi ve kurban kesmek vardır, Umre'de yoktur.",
+        "Hac farz, Umre ise sünnettir.",
+        "Hacda ihrama girilir, Umre'de günlük kıyafetlerle Kâbe tavaf edilir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 3,
+      "explanation": "İhrama girmek (Mikat sınırında niyet edip örtünmek) hem Hac hem de Umre ibadetinin ortak şartıdır. Umre günlük kıyafetle yapılmaz."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Müslümanların Hac veya Umre niyetiyle ihrama girerken okudukları, 'Buyur Allah'ım buyur! Davetine icabet ettim' anlamına gelen coşkulu duaya ne ad verilir?",
+      "answers": [
+        "Telbiye Duası",
+        "Sübhaneke Duası",
+        "Tahiyyat Duası",
+        "Fatiha"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Lebbeyk Allahümme lebbeyk... şeklinde başlayan Telbiye duası, Allah'ın 'Evimi ziyaret edin' davetine 'Buyur Allah'ım geldim' diyerek verilen sevgi dolu bir cevaptır."
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "Kâbe'nin köşesinde bulunan ve tavafın başlama noktası olarak kabul edilen siyah taşa ne ad verilir?",
+      "answers": [
+        "Makam-ı İbrahim",
+        "Merve Taşı",
+        "Hacer-i Esved",
+        "Cemerat"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Kelime anlamı 'Siyah Taş' olan Hacer-i Esved, Kâbe'nin doğu köşesinde bulunur ve tavaf turları (şavt) bu taşın hizasından başlar."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Sözlükte 'Yaklaşmak' anlamına gelen, dinî terim olarak ise 'Allah'a yakınlaşmak ve O'nun rızasını kazanmak amacıyla belirli şartları taşıyan hayvanı usulüne uygun kesmek' olan ibadet hangisidir?",
+      "answers": [
+        "Zekat",
+        "Kurban",
+        "Sadaka",
+        "Fitre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Kurban kelimesi Arapçada 'kurb' (yakın olmak) kökünden gelir. Kesilen hayvanın eti değil, kişinin Allah'a olan itaati ve yakınlaşma arzusu O'na ulaşır."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "Kurban ibadeti, hangi iki peygamber arasında geçen büyük ve tarihi bir 'Teslimiyet ve İtaat' sınavının hatırası olarak günümüze kadar gelmiştir?",
+      "answers": [
+        "Hz. Musa ve Hz. Harun",
+        "Hz. İbrahim ve Hz. İsmail",
+        "Hz. Nuh ve Hz. Adem",
+        "Hz. Yakub ve Hz. Yusuf"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Hz. İbrahim'in rüyası üzerine oğlu Hz. İsmail'i Allah için kurban etmeye kalkması ve Hz. İsmail'in müthiş teslimiyeti, Allah'ın onlara bir koç göndererek sınavı bitirmesiyle sonuçlanmıştır."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "İslam'da kurban edilecek hayvanların özellikleri bellidir. Aşağıdaki hayvanlardan hangisi kurbanlık olarak kesilemez?",
+      "answers": [
+        "Koyun",
+        "Sığır (İnek/Dana)",
+        "Tavuk ve Horoz",
+        "Deve"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "İslam fıkhına göre sadece küçükbaş (koyun, keçi) ve büyükbaş (sığır, manda, deve) hayvanlar kurban olabilir. Kümes hayvanlarından kurban olmaz."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "Kurban bayramında kesilen (Vacip) kurbanın eti genellikle üçe bölünür; bir kısmı yoksullara, bir kısmı akraba ve komşulara, kalanı ise ev halkına ayrılır. Bu dağıtım şekli İslam'ın hangi yönünü vurgular?",
+      "answers": [
+        "İsrafı teşvik etmesini",
+        "Sadece ailenin doymasını",
+        "Toplumsal dayanışmayı, cömertliği ve paylaşmayı",
+        "Hayvancılığı desteklemesini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Kurban etinin dağıtılması, toplumda aylarca et yiyemeyen fakirlerin doymasını sağlayarak insanlar arasında muazzam bir sevgi ve paylaşma (dayanışma) köprüsü kurar."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "Bir işin olmasına veya bir dileğin gerçekleşmesine bağlı olarak Allah'a kesileceğine dair söz verilen kurbana ne ad verilir?",
+      "answers": [
+        "Adak Kurbanı",
+        "Akika Kurbanı",
+        "Şükür Kurbanı",
+        "Vacip Kurban"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Kişinin 'Şu işim olursa kurban keseceğim' diyerek söz verdiği (adadığı) kurbana Adak Kurbanı denir ve şart gerçekleştiğinde kesilmesi vacip olur."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "Ahmet'in uzun yıllardır beklediği bir bebeği dünyaya gelmiştir. Ahmet, Allah'ın verdiği bu evlat nimetine teşekkür etmek amacıyla bir kurban kesmiştir. Bebekler için kesilen bu özel kurbana ne ad verilir?",
+      "answers": [
+        "Adak Kurbanı",
+        "Akika Kurbanı",
+        "Şükür Kurbanı",
+        "Fidye Kurbanı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Yeni doğan çocuk için Allah'a şükretmek amacıyla kesilen kurbana 'Akika Kurbanı' denir. Peygamberimizin sünnetlerindendir."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "Kurban kesilirken dikkat edilmesi gereken ahlaki ve hukuki kurallar vardır. Aşağıdakilerden hangisi bu kurallara uygun olmayan bir davranıştır?",
+      "answers": [
+        "Hayvana kesim yerine giderken eziyet etmemek",
+        "Çevre temizliğine dikkat etmek ve atıkları ortalıkta bırakmamak",
+        "Bıçağı hayvanın gözü önünde bilemek ve onu korkutmak",
+        "Kesimi hızlı ve hayvana acı çektirmeyecek şekilde yapmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz 'Hayvanı keserken ona eziyet etmeyin, bıçağınızı bileyin (keskinleştirin) ki hayvan rahat etsin' buyurmuş, hayvanı korkutmayı yasaklamıştır."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "Adak kurbanı ile Kurban bayramında kesilen normal (vacip) kurban arasında, etinin tüketilmesi (yenmesi) açısından çok önemli bir fark vardır. Bu fark aşağıdakilerden hangisidir?",
+      "answers": [
+        "Adak kurbanının etini sadece zenginler yiyebilir.",
+        "Normal kurbanın etini sahibi yiyemez.",
+        "Adak kurbanının etinden adak sahibi ve onun bakmakla yükümlü olduğu ailesi (anne, baba, eş, çocuk) yiyemez; tamamı fakirlere dağıtılmalıdır.",
+        "Adak kurbanının etini sadece komşular yiyebilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 3,
+      "explanation": "Adak, Allah'a verilen bir söz olduğu için sahibi ondan faydalanamaz (etinden yiyemez). Tüm et yoksullara dağıtılmalıdır."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "Kurban ibadetiyle ilgili olarak Kur'an'da yer alan 'Onların ne etleri ne de kanları Allah'a ulaşır. O'na sadece sizin ............... ulaşır' (Hac Suresi) ayetindeki boşluğa hangi kavram gelmelidir?",
+      "answers": [
+        "Zenginliğiniz",
+        "Takvanız (İtaatiniz ve Samimiyetiniz)",
+        "Dualarınız",
+        "Gücünüz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Allah'ın hayvanın etine ihtiyacı yoktur. O, kulun verdiği maldan vazgeçebilme samimiyetine, Allah'a olan itaatine (Takvasına) bakar."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "Hac ibadeti için Mekke'ye gidenlerin mutlaka ziyaret ettiği, peygamberimiz Hz. Muhammed'in (s.a.v) kabrinin (Ravza-i Mutahhara) de içinde bulunduğu Medine'deki o büyük caminin adı nedir?",
+      "answers": [
+        "Mescid-i Haram",
+        "Mescid-i Aksa",
+        "Mescid-i Nebi (Peygamber Mescidi)",
+        "Kuba Mescidi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Medine'de bulunan, peygamberimizin yaptırdığı ve kendi kabrinin de yer aldığı mescide 'Mescid-i Nebi' denir. Hacılar burayı mutlaka ziyaret eder."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "Mekke'de ihrama girmek için belirlenmiş olan, o bölgeden ihramsız geçilmesinin yasak olduğu sınırlara ne ad verilir?",
+      "answers": [
+        "Mikat Sınırı",
+        "Harem Sınırı",
+        "Arafat",
+        "Mina"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Hacı adaylarının normal kıyafetlerini çıkarıp Hac veya Umre niyetini ederek ihrama girdikleri özel yerlere (sınırlara) 'Mikat' denir."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Hac yolculuğunda ve Arafat'ta aynı tip (beyaz dikişsiz) elbise giyilmesi, makam ve mevki farklarının silinmesi insanlara ahiret hayatındaki hangi anı şiddetle hatırlatır?",
+      "answers": [
+        "Cennetteki hayatı",
+        "Ölümü (kefeni) ve Mahşer gününde Allah'ın huzurunda hesap için toplanmayı",
+        "Dünyadaki zenginliği",
+        "Cehennem azabını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Arafat ovasında milyonlarca insanın bembeyaz kefeni andıran ihramlarla beklemesi (vakfe), kıyamette insanların dirilip Mahşer'de hesap için beklemesinin (mahşer provası) dünyadaki örneğidir."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Bir koç, koyun veya keçi gibi küçükbaş hayvanlar İslam'a göre en fazla kaç kişi tarafından ortaklaşa kurban edilebilir?",
+      "answers": [
+        "3",
+        "5",
+        "7",
+        "Sadece 1 kişi (Tek kişi)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Küçükbaş hayvanlar (koyun, keçi) sadece 1 kişi adına kurban edilebilir. Büyükbaş hayvanlar (sığır, deve) ise 1 kişiden 7 kişiye kadar ortaklaşa kesilebilir."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "Bir öğrenci sınavdan yüksek not aldığında, hasta olan biri sağlığına kavuştuğunda veya bir tehlikeden kurtulunduğunda Allah'a teşekkür mahiyetinde kesilen nafile kurbana ne ad verilir?",
+      "answers": [
+        "Akika Kurbanı",
+        "Şükür Kurbanı",
+        "Adak Kurbanı",
+        "Hediye Kurbanı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 1,
+      "explanation": "Allah'ın verdiği bir nimete veya başarıya karşı duyulan minnettarlığı göstermek amacıyla kesilen ve etinden herkesin yiyebileceği kurbana 'Şükür Kurbanı' denir."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "Kâbe'yi inşa ederken Hz. İbrahim'in iskele olarak kullandığı, üzerinde ayak izinin bulunduğu kabul edilen ve Kâbe'nin hemen yanında yer alan makama ne ad verilir?",
+      "answers": [
+        "Hacer-i Esved",
+        "Makam-ı İbrahim",
+        "Merve Tepesi",
+        "Müzdelife"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Hz. İbrahim'in Kâbe duvarlarını örerken üzerine çıktığı taşa 'Makam-ı İbrahim' denir. Tavaf bittikten sonra bu makamın arkasında iki rekat namaz kılmak sünnettir."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "Dinimizde kurbanlık hayvanların sağlıklı olması şarttır. Kör, aşırı zayıf, dişleri dökülmüş veya yürüyemeyecek kadar topal olan hayvanlar kurban edilemez. Bu kuralın asıl amacı nedir?",
+      "answers": [
+        "Sadece ucuz hayvanların satılmasını önlemek",
+        "Allah'a sunulacak (O'nun rızası için verilecek) bir şeyin kusursuz ve en değerli (güzel) olanından seçilmesini sağlamak",
+        "Etin lezzetini artırmak",
+        "Hayvan hastalıklarının yayılmasını önlemek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 3,
+      "explanation": "Kurban bir ibadettir. İnsan Allah'a bir şey adarken işe yaramaz ve kusurlu olanı değil, malının en sağlıklı ve değerlisini vermelidir."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Hac ibadeti süresince Müslümanlar 'Lebbeyk Allahümme lebbeyk' diyerek Allah'a seslenir. Haccın farzları tamamlandığında kişinin memleketine dönmeden önce günahlarından arınmış yepyeni bir insan olarak evine dönmesi beklenir. Haccın insana kazandırdığı en büyük manevi fayda nedir?",
+      "answers": [
+        "Arap kültürünü öğrenmesi",
+        "Fiziksel olarak zayıflaması (kilo vermesi)",
+        "Ölmeden önce hesabını yapıp hatalarına (günahlarına) tövbe etmesi ve ahlakını yenilemesi",
+        "Toplumda gösteriş yapabileceği bir unvan kazanması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hac, Umre ve Kurban",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz 'Haccı kabul olan kişi annesinden doğduğu günkü gibi günahsız döner' buyurmuştur. Hac, insanın hayatında bembeyaz bir sayfa açmasıdır."
+    }
+  ]
+}

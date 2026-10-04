@@ -1,0 +1,425 @@
+{
+  "unit": "Işığın Kırılması ve Mercekler",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Işık ışınlarının saydam bir ortamdan yoğunluğu farklı başka bir saydam ortama geçerken doğrultu ve yön değiştirmesine ne ad verilir?",
+      "answers": [
+        "Işığın yansıması",
+        "Işığın kırılması",
+        "Işığın soğurulması",
+        "Işığın saçılması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması Ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Işık, hava gibi bir saydam ortamdan su veya cam gibi başka bir saydam ortama geçerken hızını ve doğrultusunu değiştirir. Bu olaya ışığın kırılması denir."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Işığın saydam ortamlar arasındaki kırılmasını incelerken, iki ortamı birbirinden ayıran yüzeye dik olarak çizildiği varsayılan hayali çizgiye ne ad verilir?",
+      "answers": [
+        "Gelen ışın",
+        "Kırılan ışın",
+        "Yüzeyin normali",
+        "Odak noktası"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Yüzeye 90 derecelik dik açıyla inen hayali çizgiye 'Yüzeyin normali' (N) denir. Işığın gelme ve kırılma açıları her zaman normale göre ölçülür."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "Gelen ışının yüzeyin normali ile yaptığı açıya ne ad verilir?",
+      "answers": [
+        "Kırılma açısı",
+        "Gelme açısı",
+        "Sınır açısı",
+        "Yansıma açısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Işık kaynağından çıkan ve yüzeye çarpan ışının (gelen ışın) normal çizgisiyle arasındaki açıya gelme açısı denir."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "Işık ışınları az yoğun bir ortamdan (örneğin havadan) çok yoğun bir ortama (örneğin suya) geçerken nasıl kırılır?",
+      "answers": [
+        "Normalden uzaklaşarak kırılır.",
+        "Normale yaklaşarak kırılır.",
+        "Kırılmadan aynı doğrultuda geçer.",
+        "Geri yansır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Işık, az yoğun (havadar) ortamdan çok yoğun (sıkışık) ortama girdiğinde hızı yavaşlar ve doğrultusu normale (merkeze) doğru bükülerek kırılır."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "Işık ışınları çok yoğun bir ortamdan (örneğin camdan) az yoğun bir ortama (örneğin havaya) geçerken nasıl bir kırılma davranışı sergiler?",
+      "answers": [
+        "Normale yaklaşarak kırılır.",
+        "Normal üzerinden gider.",
+        "Normalden uzaklaşarak kırılır.",
+        "Tamamen soğurulur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Işık çok yoğun bir ortamdan kurtulup az yoğun ortama (havaya) çıktığında hızı artar ve rahatlayarak normal çizgisinden uzaklaşacak şekilde kırılır."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Işık ışınları ayırıcı yüzeye tam dik açı (90 derece) ile, yani normalin üzerinden gelirse diğer ortama geçerken nasıl bir değişim yaşar?",
+      "answers": [
+        "Doğrultusu değişir, hızı değişmez.",
+        "Hem doğrultusu hem de hızı değişir.",
+        "Geriye doğru tam yansıma yapar.",
+        "Doğrultusu değişmeden (kırılmadan) geçer, ancak ortamın yoğunluğuna göre hızı değişir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Yüzeye tam dik gelen ışık (normal üzerinden gelen), sağa veya sola bükülmez; doğrudan geçer ancak ortam değiştiği için hızı mutlaka değişir."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "Işığın yayılma hızı ortamın yoğunluğuna bağlıdır. Hava, su ve cam ortamlarında ışığın hızının büyükten küçüğe doğru sıralanışı hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Hava > Su > Cam",
+        "Cam > Su > Hava",
+        "Su > Cam > Hava",
+        "Hava > Cam > Su"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Işık en hızlı boşlukta ve havada yayılır. Ortamın madde yoğunluğu (sıkışıklığı) arttıkça (suya ve ardından cama geçtikçe) ışığın hızı azalır."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "Az yoğun ortamdan (havadan) çok yoğun ortama (suya) dışarıdan bakan bir kişi, suyun içindeki balığı nerede görür?",
+      "answers": [
+        "Olduğu yerde",
+        "Olduğundan daha derinde (uzakta)",
+        "Olduğundan daha yakında (sığda)",
+        "Balığı hiç göremez"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Sudaki balıktan gözümüze gelen ışınlar, çok yoğundan az yoğuna çıkarken normalden uzaklaşır. Göz, ışınların uzantısını takip ettiği için balığı gerçek yerinden daha yukarıda (yakında) algılar."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Suyun içinden (çok yoğun) dışarıdaki (az yoğun) bir kuşa bakan dalgıç, kuşu nerede görür?",
+      "answers": [
+        "Olduğundan daha uzakta (yüksekte)",
+        "Olduğundan daha yakında",
+        "Gerçek konumunda",
+        "Suyun hemen yüzeyinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Havadan suya (az yoğundan çok yoğuna) gelen ışınlar normale yaklaşarak kırılır. Suyun içindeki göz, bu ışınların uzantısını daha geride (yukarıda) algılayacağı için kuşu olduğundan daha uzakta görür."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "Işığın çok yoğun ortamdan az yoğun ortama geçerken karşı ortama geçemeyip ayırıcı yüzeye teğet (paralel) gidecek şekilde kırılmasına neden olan gelme açısına ne denir?",
+      "answers": [
+        "Kırılma açısı",
+        "Odak açısı",
+        "Sınır açısı",
+        "Yansıma açısı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Kırılma açısının 90 derece olduğu, yani ışığın yüzeyi yalayarak geçtiği anki gelme açısına 'Sınır açısı' denir."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "Çok yoğun ortamdan az yoğun ortama gönderilen ışık ışını, sınır açısından daha büyük bir açıyla gelirse karşı ortama (örneğin havaya) geçemez ve geldiği ortama geri döner. Bu olaya ne ad verilir?",
+      "answers": [
+        "Işığın soğurulması",
+        "Tam yansıma",
+        "Işığın saçılması",
+        "Mercek kırılması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Sınır açısını aşan ışınlar karşı ortama geçemez ve ayna yüzeyine çarpmış gibi aynı açıyla geldiği ortama geri yansır. Bu fiziksel olaya 'Tam yansıma' denir."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Çok sıcak yaz günlerinde asfalt yollarda veya çöllerde ilerlerken ileride su birikintisi varmış gibi görünmesine neden olan ve ışığın tam yansıması sonucu oluşan optik yanılsamaya ne ad verilir?",
+      "answers": [
+        "Gökkuşağı",
+        "Serap Olayı",
+        "Yakınsama",
+        "Gölge"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Sıcak zemin üzerindeki havanın ısınıp genleşerek yoğunluğunun azalması sonucu gökyüzünden gelen ışık ışınlarının tam yansıma yaparak yerde su gibi görünmesi 'Serap Olayı'dır."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "Günümüzde internet verilerinin ışık hızında iletilmesini sağlayan, tıpta endoskopi cihazlarında kullanılan ve ışığın 'tam yansıma' özelliğinden faydalanılarak geliştirilen ince cam kablolara ne ad verilir?",
+      "answers": [
+        "Fiber Optik Kablo",
+        "Bakır Tel",
+        "Lazer Kablosu",
+        "Mercek Tüpü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Fiber optik kabloların iç yüzeyindeki yoğunluk farkı, ışığın kablo dışına çıkmadan sürekli tam yansıma yaparak kıvrımlı yollarda bile ilerlemesini sağlar."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "En az bir yüzeyi küresel olan, saydam (cam veya plastik) maddelerden yapılmış ve ışığı kırarak cisimlerin görüntülerini büyütmek veya küçültmek amacıyla kullanılan optik araçlara ne ad verilir?",
+      "answers": [
+        "Ayna",
+        "Mercek (Lens)",
+        "Prizma",
+        "Teleskop"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Işığı kırarak odaklayan veya dağıtan, görme kusurlarının düzeltilmesinden büyüteçlere kadar kullanılan saydam araçlara mercek (lens) denir."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "Kenarları ortasına göre daha ince olan, ışık ışınlarını kırarak bir noktada toplama özelliğine sahip merceklere ne ad verilir?",
+      "answers": [
+        "Kalın kenarlı (ıraksak) mercek",
+        "Düz mercek",
+        "İnce kenarlı (yakınsak) mercek",
+        "Çukur ayna"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Ortası şişkin, kenarları ince olan merceklere ince kenarlı mercek denir. Işığı toplayarak yakınlaştırdığı için 'yakınsak mercek' olarak da bilinirler."
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "İnce kenarlı merceğe (asal eksene) paralel olarak gönderilen ışık ışınlarının mercekte kırıldıktan sonra birleştiği (toplandığı) noktaya ne ad verilir?",
+      "answers": [
+        "Merkez noktası",
+        "Odak noktası (F)",
+        "Ayna noktası",
+        "Kırılma noktası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "İnce kenarlı mercek ışığı toplar. Kırılan tüm paralel ışınların kesiştiği o çok sıcak ve aydınlık merkeze Odak Noktası (F) denir."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "Kenarları ortasına göre daha kalın olan ve üzerine gelen paralel ışık ışınlarını kırarak birbirinden uzaklaştıran (dağıtan) merceklere ne ad verilir?",
+      "answers": [
+        "İnce kenarlı (yakınsak) mercek",
+        "Tümsek mercek",
+        "Kalın kenarlı (ıraksak) mercek",
+        "Prizma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Ortası çukur, kenarları kalın olan merceklere kalın kenarlı mercek denir. Işığı etrafa dağıttığı için 'ıraksak mercek' olarak da adlandırılırlar."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Kalın kenarlı merceğe paralel gelen ışınlar kırılarak dağılır. Bu dağılan ışınların arka taraftaki uzantılarının birleştiği varsayılan hayali noktaya ne ad verilir?",
+      "answers": [
+        "Odak noktası",
+        "Tepe noktası",
+        "Sınır noktası",
+        "Gelme noktası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "İnce kenarlı mercekte ışınların kendisi odaklanırken, kalın kenarlı mercekte dağılan ışınların geriye doğru çizilen uzantıları Odak Noktasında (F) kesişir."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "Cisimlerin olduğundan daha büyük ve düz görünmesini sağlayarak 'Büyüteç' görevi gören mercek türü hangisidir?",
+      "answers": [
+        "Kalın kenarlı mercek",
+        "Düz ayna",
+        "Tümsek ayna",
+        "İnce kenarlı mercek"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "İnce kenarlı mercek, cisim odak noktası ile mercek arasına konulduğunda cismin düz ve büyütülmüş bir görüntüsünü oluşturur (Büyüteç mantığı)."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "Ormanlık alanlara atılan cam kırıkları, dibinde su kalmış pet şişeler veya küresel cam cisimler güneşli havalarda yangınlara sebep olabilir. Bunun fiziksel nedeni nedir?",
+      "answers": [
+        "Cam kırıklarının kalın kenarlı mercek gibi davranıp ışığı soğutması",
+        "Cam kırıklarının ince kenarlı mercek gibi davranarak güneş ışınlarını tek bir noktada (odak noktasında) toplayıp aşırı ısı üretmesi",
+        "Camın kimyasal olarak yanıcı bir madde olması",
+        "Suyun güneş ışığıyla temas edip patlaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "İnce kenarlı mercek ışığı toplar. Doğaya atılan kavisli camlar veya su damlaları ışığı kuru yaprakların üzerindeki bir odak noktasında toplayarak ateşin kıvılcımlanmasına yol açar."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "Yakını net gördüğü halde uzağı net göremeyen ve görüntünün retinanın (sarı lekenin) önünde oluştuğu göz kusuruna ne ad verilir? Bu kusur hangi mercekle düzeltilir?",
+      "answers": [
+        "Hipermetrop / İnce kenarlı mercek",
+        "Astigmat / Silindirik mercek",
+        "Miyop / Kalın kenarlı mercek",
+        "Katarakt / Lazer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Miyop uzağı görememe kusurudur. Işığın gereğinden fazla kırılıp sarı lekenin önüne düşmesi sebebiyle oluşur. Işığı dağıtıp arkaya düşürmesi için 'kalın kenarlı mercek' kullanılır."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "Uzağı net gördüğü halde yakını net göremeyen, görüntünün sarı lekenin (retinanın) arkasında oluştuğu 'Hipermetrop' göz kusurunun tedavisinde (gözlük camlarında) hangi mercek kullanılır?",
+      "answers": [
+        "Kalın kenarlı mercek",
+        "İnce kenarlı mercek",
+        "Çukur ayna",
+        "Düz cam"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Hipermetropta göz merceği ışığı yeterince kıramaz ve görüntü arkaya düşer. Işığı öne doğru (sarı lekeye) daha güçlü toplamak (yakınlaştırmak) için 'ince kenarlı mercek' kullanılır."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "Gözlük, lens, mikroskop, teleskop ve fotoğraf makinesi gibi aletlerin ortak ve temel optik bileşeni nedir?",
+      "answers": [
+        "Prizma",
+        "Ayna",
+        "Mercek",
+        "Lazer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 1,
+      "explanation": "Saydığımız tüm bu optik aletlerin içinde, ışığı kırarak görüntüyü yaklaştıran, odaklayan veya düzelten bir veya birden fazla mercek sistemi bulunur."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Kalın kenarlı bir mercekle (dağıtıcı lens) bir cisme bakıldığında görüntünün özellikleri her zaman nasıl olur?",
+      "answers": [
+        "Düz ve cisimden daha büyük",
+        "Ters ve cisimle eşit boyda",
+        "Düz ve cisimden daha küçük",
+        "Ters ve cisimden daha büyük"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Kalın kenarlı merceklerde cismin merceğe uzaklığı ne olursa olsun, görüntü her zaman cisimden daha 'küçük, düz ve sanal' olarak oluşur."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "Bir ışın sırasıyla X, Y ve Z saydam ortamlarından geçerken normalden uzaklaşarak kırılmaktadır (Y'de normalden uzaklaşıyor, Z'de daha da uzaklaşıyor). Buna göre bu ortamların yoğunluk sıralaması büyükten küçüğe nasıldır?",
+      "answers": [
+        "Z > Y > X",
+        "X > Y > Z",
+        "Y > X > Z",
+        "X = Y = Z"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Işık ancak 'çok yoğun' ortamdan 'az yoğun' ortama geçerken normalden uzaklaşır. Bu nedenle X en yoğun, Y orta yoğunlukta, Z ise en az yoğun ortamdır (X > Y > Z)."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Bir öğrenci içi su dolu bardağın içine dik olarak bir kalem koyduğunda kalemi düz görmektedir. Ancak kalemi eğik olarak koyduğunda kalemin su hizasından kırıkmış gibi göründüğünü fark eder. Bunun fiziksel nedeni nedir?",
+      "answers": [
+        "Suyun kalemin rengini değiştirmesi",
+        "Havadan suya eğik açıyla giren ışığın kırılmaya (doğrultu değiştirmeye) uğraması",
+        "Suyun içindeki basıncın kalemi eğmesi",
+        "Bardağın mercek görevi görmemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Işık farklı yoğunluktaki iki ortama açılı (eğik) olarak girdiğinde kırılmaya uğrar. Gözümüz bu kırılan ışınları düz algıladığı için, cismi su hizasında kırıkmış gibi görürüz."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Gökkuşağı, güneş ışığının havada asılı kalan yağmur damlalarına çarpıp farklı renklere ayrılmasıyla oluşur. Yağmur damlası bu olayda hangi optik araç gibi davranmaktadır?",
+      "answers": [
+        "Ayna",
+        "Prizma / İnce kenarlı mercek",
+        "Kalın kenarlı mercek",
+        "Mikroskop"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Su damlacıkları küresel yapıları gereği ince kenarlı mercek veya ışığı renklerine (spektruma) ayıran bir cam prizma görevi görerek beyaz ışığı kırarlar."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Zıpkınla suyun içindeki bir balığı avlamak isteyen bir balıkçı, suyun dışından bakarken balığı başarılı bir şekilde vurabilmek için nereye nişan almalıdır?",
+      "answers": [
+        "Balığı gördüğü noktanın tam üzerine",
+        "Balığı gördüğü noktanın biraz üstüne",
+        "Balığı gördüğü noktanın biraz altına",
+        "Nişan almadan rastgele atmalıdır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Havadan (az yoğun) suya (çok yoğun) bakan kişi, kırılma nedeniyle balığı olduğundan daha yukarıda (yakında) görür. Gerçek balık, görüntünün daha altındadır, bu yüzden biraz alta nişan alınmalıdır."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "Mikroskop ve teleskoplarda görüntü büyütmek için genellikle ardışık olarak yerleştirilen birden fazla (objektif ve oküler) mercek sistemi kullanılır. Bu sistemlerde görüntüyü büyütmek için temelde hangi tip mercekler kullanılır?",
+      "answers": [
+        "Sadece kalın kenarlı mercekler",
+        "Sadece aynalar",
+        "Genellikle ince kenarlı (yakınsak) mercekler",
+        "Prizmalar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 2,
+      "explanation": "Işığı odaklayıp görüntüyü olduğundan kat kat büyük göstermek (büyüteç etkisi yaratmak) için ince kenarlı mercek dizilimlerinden faydalanılır."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "Evlerin giriş kapılarında dışarıdaki kişiyi küçülterek daha geniş bir görüş açısı sunan 'kapı dürbünü' optik sistemlerinde temelde hangi mercek veya ayna türü kullanılır?",
+      "answers": [
+        "İnce kenarlı mercek",
+        "Çukur ayna",
+        "Kalın kenarlı (ıraksak) mercek",
+        "Düz ayna"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Işığın Kırılması ve Mercekler",
+      "difficulty": 3,
+      "explanation": "Kalın kenarlı mercekler ışığı dağıttığı için görüntüleri daha küçük ama çok daha geniş bir alanda (düz ve sanal) gösterirler. Bu sayede kapı arkasından koridorun büyük bir bölümü tek seferde görülebilir."
+    }
+  ]
+}

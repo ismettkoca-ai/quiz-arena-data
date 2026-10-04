@@ -1,0 +1,425 @@
+{
+  "unit": "Basit Makineler",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "Günlük hayatta işlerimizi daha kolay yapmamızı sağlayan, bir veya iki parçadan oluşan ve tek bir kuvvetin etkisiyle çalışan araçlara genel olarak ne ad verilir?",
+      "answers": [
+        "Motorlu Araç",
+        "Karmaşık Makine",
+        "Bileşik Makine",
+        "Basit Makine"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Elektrik veya motor gibi gelişmiş güç kaynaklarına ihtiyaç duymadan, sadece insan kuvvetiyle çalışan temel araçlara basit makine denir."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "Basit makinelerin tamamı için aşağıda verilen kurallardan hangisi kesinlikle doğrudur?",
+      "answers": [
+        "Her zaman yoldan kazanç sağlarlar.",
+        "İşten ve enerjiden asla kazanç sağlamazlar.",
+        "Her zaman kuvvetten kazanç sağlarlar.",
+        "İşin daha kısa sürede yapılmasını sağlarlar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Hiçbir basit makine işten veya enerjiden kazanç sağlamaz. Sadece işin daha 'kolay' yapılmasını sağlarlar (İş kolaylığı sağlarlar)."
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "Bir basit makinede 100 Newton (N) ağırlığındaki bir yükü, 20 Newton (N) büyüklüğünde bir kuvvet uygulayarak kaldırabiliyorsak, bu durum fiziksel olarak nasıl ifade edilir?",
+      "answers": [
+        "Yoldan kazanç sağlanmıştır.",
+        "İşten kazanç sağlanmıştır.",
+        "Kuvvetten kazanç sağlanmıştır.",
+        "Enerjiden kazanç sağlanmıştır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Ağır bir yükü (100 N), daha küçük bir kuvvetle (20 N) dengeliyor veya kaldırabiliyorsak, bu durum sistemde 'Kuvvetten Kazanç' olduğunu gösterir."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Basit makinelerdeki altın kurala göre; bir sistemde kuvvetten kazanç varsa, aynı oranda aşağıdakilerden hangisinde kayıp olmak zorundadır?",
+      "answers": [
+        "Zamandan",
+        "İşten",
+        "Enerjiden",
+        "Yoldan"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "İşten kazanç olmadığı için, kuvveti ne kadar küçültürsek (kuvvetten kazanırsak), ipi o kadar fazla çekmek (yoldan kaybetmek) zorunda kalırız."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Merkezinden tavana asılı olan ve sadece kendi etrafında dönerek ipin aşağı veya yukarı çekilmesini sağlayan makara türüne ne ad verilir?",
+      "answers": [
+        "Hareketli Makara",
+        "Sabit Makara",
+        "Palanga",
+        "Çıkrık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Sabit makaralar bir yere monte edilmiştir, yükle birlikte aşağı yukarı hareket etmezler. Görevleri kuvvetin yönünü değiştirmektir."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "Sürtünmelerin ve makara ağırlığının önemsiz olduğu bir sabit makarada, 50 N ağırlığındaki bir yükü yukarı kaldırmak için ipi en az kaç Newtonluk (N) kuvvetle çekmek gerekir?",
+      "answers": [
+        "25 N",
+        "50 N",
+        "100 N",
+        "10 N"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Sabit makaralarda kuvvetten kazanç veya kayıp yoktur. Kuvvet yüke eşittir (F = P). 50 N yük, 50 N kuvvetle dengelenir."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "Sabit makaraların günlük hayatta kullanılmasının ve bize sağladığı iş kolaylığının asıl (temel) sebebi nedir?",
+      "answers": [
+        "Uygulanan kuvvetin yönünü değiştirerek iş yapma kolaylığı sağlaması",
+        "Daha az enerji harcatması",
+        "Yükü çok az kuvvetle kaldırmamızı sağlaması",
+        "Kısa ip kullanarak yoldan kazandırması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Bayrak direkleri veya inşaat asansörlerinde kullanılan sabit makaralar, ipi aşağı doğru çekerek yükü yukarı kaldırmamızı (yön değişimi) sağlar."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "Tavana bağlı olmayan, ip çekildikçe yükle birlikte aşağı yukarı hareket eden ve kendi etrafında dönen makara türüne ne ad verilir?",
+      "answers": [
+        "Sabit Makara",
+        "Hareketli Makara",
+        "Palanga",
+        "Çıkrık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Hareketli makara, yükün doğrudan makaranın eksenine asıldığı ve makaranın iple birlikte hareket ettiği sistemdir."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "Sürtünmelerin ve makara ağırlığının önemsiz olduğu bir hareketli makarada, 100 N ağırlığındaki bir yükü dengede tutmak için ipe kaç Newtonluk (N) kuvvet uygulanmalıdır?",
+      "answers": [
+        "100 N",
+        "200 N",
+        "50 N",
+        "25 N"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Hareketli makarada yük 2 ipe eşit olarak paylaştırılır. Bu nedenle kuvvet her zaman yükün yarısına eşittir (F = P/2). Yani kuvvetten 2 kat kazanç vardır."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "Bir hareketli makarada asılı olan yükü 1 metre yukarı çıkarmak için, kuvvetin uygulandığı ipin kaç metre çekilmesi gerekir?",
+      "answers": [
+        "0.5 metre",
+        "1 metre",
+        "2 metre",
+        "4 metre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "Hareketli makarada kuvvetten 2 kat kazanç olduğu için, yoldan 2 kat kayıp yaşanır. Yükün 1 metre yükselmesi için ipin 2 metre çekilmesi şarttır."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "Hem sabit hem de hareketli makaraların bir araya getirilerek aynı ipin bu makaralar etrafında dolanmasıyla oluşturulan karmaşık makara sistemlerine ne ad verilir?",
+      "answers": [
+        "Çıkrık",
+        "Eğik Düzlem",
+        "Palanga",
+        "Dişli Çark"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Palangalar, sabit makaraların yön değiştirme kolaylığı ile hareketli makaraların kuvvet kazancı özelliğini birleştiren sistemlerdir."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Sabit bir destek noktası etrafında dönebilen sağlam bir çubuktan oluşan basit makine sistemine genel olarak ne ad verilir?",
+      "answers": [
+        "Makaralar",
+        "Kaldıraçlar",
+        "Eğik Düzlem",
+        "Kama"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Kaldıraçlar, bir destek noktası (dayanak) etrafında serbestçe dönebilen çubuklardan oluşur. Tahterevalli en basit kaldıraç örneğidir."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "Bir kaldıraçta destek noktasının tam ortada, uygulanan kuvvetin bir uçta ve yükün diğer uçta olduğu (Desteğin arada olduğu) kaldıraç türüne günlük hayattan hangi araç örnek verilebilir?",
+      "answers": [
+        "Cımbız",
+        "El arabası",
+        "Ceviz kıracağı",
+        "Makas"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Makasta, pense, kerpeten ve eşit kollu terazide; dayanak noktası (vida/destek) her zaman yük (kesilen kağıt) ile kuvvet (elimiz) arasındadır."
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Yükün arada, desteğin bir uçta ve uygulanan kuvvetin diğer uçta olduğu (Yükün arada olduğu) kaldıraç tipi için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Her zaman yoldan kazanç sağlar.",
+        "Kuvvetten ne kazanç ne de kayıp vardır.",
+        "Her zaman kuvvetten kazanç sağlar.",
+        "Kuvvetin yönünü her zaman değiştirir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "Yükün arada olduğu kaldıraçlarda (el arabası, ceviz kıracağı, gazoz açacağı) yük desteğe, kuvvete göre daha yakındır. Kuvvet kolu daima uzun olduğu için kesinlikle kuvvetten kazanç vardır."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "Aşağıdaki basit makinelerden hangisi, 'Kuvvetin ortada olduğu' (kuvvetten her zaman kayıp, yoldan her zaman kazanç sağlayan) kaldıraç tipine örnektir?",
+      "answers": [
+        "Pense",
+        "El arabası",
+        "Maşa",
+        "Keski"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Maşa, cımbız, tenis raketi ve insan kolunda kuvvet tam ortadan (parmaklarımızla bastırdığımız yerden) uygulanır. Yük uçtadır, destek diğer uçtadır."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "Kaldıraçlarda uygulanan kuvvetin destek noktasına olan dikey uzaklığına 'Kuvvet Kolu', yükün destek noktasına olan dikey uzaklığına ise 'Yük Kolu' denir. Kuvvetten kazanç sağlayabilmek için bu kolların oranı nasıl olmalıdır?",
+      "answers": [
+        "Yük kolu, kuvvet kolundan uzun olmalıdır.",
+        "Kuvvet kolu, yük kolundan uzun olmalıdır.",
+        "Kuvvet kolu ile yük kolu eşit olmalıdır.",
+        "Sadece yükün ağırlığı artırılmalıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Kuvvetten kazanmanın tek yolu kaldıraçtaki kuvvet kolunu (kuvvetin desteğe uzaklığını) uzun tutmaktır. (Kuvvet x Kuvvet Kolu = Yük x Yük Kolu)."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "Ağır bir eşyayı (örneğin buzdolabını) yüksek bir kamyon kasasına doğrudan kaldırarak yüklemek yerine, kasanın arkasına bir kalas (rampa) dayayarak itmek çok daha kolaydır. Bu rampa sistemine ne ad verilir?",
+      "answers": [
+        "Çıkrık",
+        "Eğik Düzlem",
+        "Kama",
+        "Dişli Çark"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "İki seviye arasındaki yükseklik farkını bir açıyla (rampayla) birleştiren sistemlere Eğik Düzlem denir. Engelli rampaları ve dağ yolları buna örnektir."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Eğik düzlem sistemiyle ilgili aşağıda verilen yargılardan hangisi kesinlikle doğrudur?",
+      "answers": [
+        "Her zaman yoldan kazanç sağlar.",
+        "İşten ve enerjiden kazanç sağlar.",
+        "Kuvvetten kayıp, yoldan kazanç vardır.",
+        "Her zaman kuvvetten kazanç, yoldan kayıp sağlar."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Eğik düzlemde yükü dikey çıkarmak yerine yolu uzatarak eğimli çıkarırız. Yol uzadığı (yoldan kaybedildiği) için her zaman kuvvetten kazanırız."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "Bir eğik düzlemde uygulanan kuvveti daha da küçültmek (kuvvet kazancını artırmak) isteyen bir işçi aşağıdaki değişikliklerden hangisini yapmalıdır?",
+      "answers": [
+        "Rampanın boyunu kısaltmalıdır.",
+        "Rampanın eğimini (dikliğini) artırmalıdır.",
+        "Rampanın boyunu (yolunu) uzatmalı veya yüksekliğini azaltmalıdır.",
+        "Sürtünmeyi artırmalıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "Eğik düzlemin boyu ne kadar uzun veya eğim (yükseklik açısı) ne kadar az olursa, yol o kadar uzar ve yükü itmek o kadar kolaylaşır (kuvvet küçülür)."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "Aynı eksen etrafında birlikte dönen, yarıçapları birbirinden farklı iki veya daha fazla silindirden oluşan basit makine sistemine ne ad verilir?",
+      "answers": [
+        "Palanga",
+        "Eğik Düzlem",
+        "Kaldıraç",
+        "Çıkrık"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Kuyudan su çekerken kullanılan mekanizma, araba direksiyonu ve kıyma makinesi çıkrık prensibiyle çalışır. Çevrilen kol büyük silindiri (kuvveti), içteki küçük silindir ise yükü temsil eder."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Bir çıkrık sisteminde (örneğin kuyu kolunda) kuvvet kazancını artırabilmek (daha kolay çevirebilmek) için yapılması gereken en mantıklı değişiklik nedir?",
+      "answers": [
+        "İpin sarıldığı içteki silindirin yarıçapını artırmak",
+        "Kuvvetin uygulandığı dıştaki çevirme kolunun uzunluğunu (büyük r) artırmak",
+        "Kuyunun derinliğini artırmak",
+        "Kovanın ağırlığını artırmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "Çıkrıkta çevirme kolu uzadıkça 'kuvvet kolu' büyümüş olur. Kuvvet kolu büyürse yoldan kaybedilir ancak kuvvetten büyük oranda kazanç sağlanır."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "Bir silindirin (gövdenin) etrafına sarılmış küçük bir eğik düzlem modelidir. Döndürülerek ahşap veya metal yüzeylere girmesi sağlanır. Bahsedilen bu basit makine hangisidir?",
+      "answers": [
+        "Kama",
+        "Kasnak",
+        "Vida",
+        "Menteşe"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Vida, bir çivinin etrafına sarılmış dairesel bir eğik düzlemdir. Çevrildikçe tahtanın içine ilerler ve büyük bir sıkıştırma kuvveti oluşturur."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Vidanın üzerindeki ardışık iki diş arasındaki mesafeye 'Vida Adımı' denir. Bir vida, tornavida ile tam 1 tur (360 derece) döndürüldüğünde tahtada ne kadar ilerler?",
+      "answers": [
+        "Vidanın tam boyu kadar",
+        "Vidanın yarıçapı kadar",
+        "Yarım tur kadar",
+        "1 vida adımı (a) kadar"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Vida her 1 tam tur döndürüldüğünde zemin içinde tam olarak 1 vida adımı (iki diş arasındaki mesafe) kadar ilerler veya geri çıkar."
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "Kenarlarında dişler bulunan ve bir eksen etrafında dönerek hareketin hızını ve yönünü başka bir dişliye aktaran basit makinelere ne denir?",
+      "answers": [
+        "Kasnaklar",
+        "Çıkrıklar",
+        "Makaralar",
+        "Dişli Çarklar"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Saatlerin içinde, bisiklet viteslerinde ve araba motorlarında bulunan; birbirine kenetlenerek hareketi aktaran yapılara Dişli Çark denir."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Birbirine doğrudan temas eden (dişleri birbirine geçmiş) farklı büyüklükteki iki dişli çark döndürüldüğünde, dönüş yönleri ve hızları için ne söylenebilir?",
+      "answers": [
+        "Aynı yönde ve aynı hızda dönerler.",
+        "Zıt yönde dönerler ve küçük olan daha az tur atar.",
+        "Zıt yönde dönerler ve küçük olan daha çok tur atar (daha hızlı döner).",
+        "Aynı yönde dönerler ve büyük olan daha çok tur atar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Yan yana temas eden dişliler daima zıt yönde döner. Yarıçapı (diş sayısı) küçük olan dişli, büyük olanın hızına yetişmek için çok daha fazla tur atmak zorundadır."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "Aralarında bir kayış veya ip vasıtasıyla bağlantı kurulan, dişleri olmayan tekerleklere kasnak denir. Kayışın düz (paralel) bağlandığı iki kasnak nasıl hareket eder?",
+      "answers": [
+        "Zıt yönde dönerler.",
+        "Aynı yönde dönerler.",
+        "Birbirlerini kilitlerler.",
+        "Küçük olan hiç dönmez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Düz bağlanan kayış, hareketi aynı yönde iletir. Eğer kayış çapraz bağlanmış olsaydı kasnaklar zıt yönde dönecekti."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Kesici ve delici aletlerin yapımında kullanılan, iki veya daha fazla yüzeyi eğimli olarak birleşen (sırt sırta vermiş iki eğik düzlem şeklindeki) basit makineye ne ad verilir?",
+      "answers": [
+        "Çıkrık",
+        "Vida",
+        "Kama",
+        "Palanga"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 1,
+      "explanation": "Balta, bıçak, çivi ucu ve keski gibi aletlerin uç kısımları kama adı verilen üçgen profilli basit makinelerdir ve her zaman kuvvetten kazanç sağlarlar."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "İki veya daha fazla basit makinenin bir araya gelmesiyle oluşan karmaşık mekanizmalara 'Bileşik Makine' denir. Aşağıdakilerden hangisi bileşik makineye örnektir?",
+      "answers": [
+        "Sadece bir levye (Kaldıraç)",
+        "Düz bir rampa (Eğik Düzlem)",
+        "Tornavida (Çıkrık)",
+        "Bisiklet"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basit Makineler",
+      "difficulty": 2,
+      "explanation": "Bisikletin yapısında pedallar (çıkrık), fren kolları (kaldıraç), vitesler (dişli çarklar) gibi birden çok basit makine bir arada bulunur."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Bir işçi, bir sandığı 2 metre yüksekliğe çıkarmak için eğik düzlem yerine doğrudan eliyle havaya kaldırmayı tercih etmiştir. Bu iki durum karşılaştırıldığında 'İş' ve 'Kuvvet' açısından ne söylenebilir?",
+      "answers": [
+        "Eliyle kaldırınca daha çok iş yapmıştır, kuvvet aynındır.",
+        "Eğik düzlemde daha az iş yapmıştır, kuvvet daha fazladır.",
+        "Yapılan 'iş' her iki durumda da aynıdır; ancak eğik düzlemde uyguladığı 'kuvvet' daha azdır.",
+        "Eliyle kaldırınca daha az iş yapmıştır, kuvvet daha azdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "Fizikte yapılan iş (Ağırlık x Yükseklik) sabittir. Hangi yolu seçerseniz seçin iş değişmez. Sadece eğik düzlem yolu uzattığı için o işi daha 'küçük bir kuvvetle' yapmanızı sağlar."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "Bir el matkabının çalışma prensibi incelendiğinde yapısında çevirme kolu, matkap ucu ve hareketi aktaran çarklar görülür. Bir el matkabında sırasıyla hangi basit makineler bir arada bulunur?",
+      "answers": [
+        "Kaldıraç - Palanga - Eğik Düzlem",
+        "Çıkrık - Dişli Çark - Vida",
+        "Sabit Makara - Kama - Dişli Çark",
+        "Hareketli Makara - Vida - Kaldıraç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basit Makineler",
+      "difficulty": 3,
+      "explanation": "El matkabında döndürdüğümüz kol 'Çıkrık', içindeki kuvveti uca ileten mekanizma 'Dişli Çark', tahtayı delen kıvrımlı uç ise 'Vida'dır. Bu nedenle matkap bir bileşik makinedir."
+    }
+  ]
+}

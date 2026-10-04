@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Nicelikler",
+  "questions": [
+    {
+      "id": "Q_6_7_001",
+      "questionText": "Bir üçgenin alanını hesaplamak için kullanılması gereken kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Taban ile o tabana ait yüksekliğin çarpımı",
+        "Taban ile o tabana ait yüksekliğin çarpımının yarısı",
+        "Tüm kenarlarının toplamı",
+        "İki kenarının çarpımı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Üçgenin alanı, bir taban uzunluğu ile o tabana inen yüksekliğin çarpılıp 2'ye bölünmesiyle (yarısının alınmasıyla) bulunur."
+    },
+    {
+      "id": "Q_6_7_002",
+      "questionText": "Taban uzunluğu 10 cm ve bu tabana ait yüksekliği 8 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "18",
+        "40",
+        "80",
+        "100"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Üçgenin alanı = (Taban · Yükseklik) / 2 = (10 · 8) / 2 = 80 / 2 = 40 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_003",
+      "questionText": "Bir dik üçgenin dik kenarlarının uzunlukları 6 cm ve 12 cm'dir. Bu dik üçgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "18",
+        "36",
+        "72",
+        "144"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Dik üçgenlerde dik kenarlar birbirinin yüksekliği sayılır. Alan = (6 · 12) / 2 = 72 / 2 = 36 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_004",
+      "questionText": "Geniş açılı bir üçgenin yüksekliklerinden ikisi üçgenin neresinde yer alır?",
+      "answers": [
+        "Üçgenin iç bölgesinde",
+        "Üçgenin kenarları üzerinde",
+        "Üçgenin dış bölgesinde",
+        "Köşelerde"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Geniş açılı üçgenlerde, geniş açıyı oluşturan kenarlara ait olan iki yükseklik üçgenin dış bölgesinde kalır."
+    },
+    {
+      "id": "Q_6_7_005",
+      "questionText": "Bir paralelkenarın alanı aşağıdakilerden hangisi ile bulunur?",
+      "answers": [
+        "Taban uzunluğu ile bu tabana ait yüksekliğin çarpımı",
+        "Taban uzunluğu ile yüksekliğin çarpımının yarısı",
+        "Dört kenar uzunluğunun toplamı",
+        "Kısa kenar ile uzun kenarın çarpımı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Paralelkenarın alanı, herhangi bir kenar (taban) ile o kenara inen yüksekliğin çarpımına eşittir."
+    },
+    {
+      "id": "Q_6_7_006",
+      "questionText": "Taban uzunluğu 15 cm ve bu tabana ait yüksekliği 6 cm olan bir paralelkenarın alanı kaç santimetrekaredir?",
+      "answers": [
+        "21",
+        "45",
+        "90",
+        "180"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Paralelkenarın alanı = Taban · Yükseklik = 15 · 6 = 90 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_007",
+      "questionText": "Alanı 48 cm² olan bir üçgenin taban uzunluğu 12 cm'dir. Buna göre bu tabana ait yükseklik kaç santimetredir?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Üçgenin alanı = (Taban · Yükseklik) / 2. Yani 48 = (12 · h) / 2 => 96 = 12 · h => h = 8 cm'dir."
+    },
+    {
+      "id": "Q_6_7_008",
+      "questionText": "Bir paralelkenarın kenar uzunlukları 12 cm ve 8 cm'dir. 12 cm'lik kenara ait yükseklik 4 cm olduğuna göre, 8 cm'lik kenara ait yükseklik kaç santimetredir?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Paralelkenarın alanı her iki taban-yükseklik çiftinden de aynı çıkar. Alan = 12 · 4 = 48 cm²'dir. Diğer taraftan 8 · h = 48 olmalıdır. Buradan h = 6 cm bulunur."
+    },
+    {
+      "id": "Q_6_7_009",
+      "questionText": "Alan ölçme birimlerinden metrekareyi (m²) santimetrekareye (cm²) çevirmek için sayı kaç ile çarpılmalıdır?",
+      "answers": [
+        "100",
+        "1 000",
+        "10 000",
+        "1 000 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Uzunluk birimlerinde 1 m = 100 cm'dir. Alan birimlerinde karesi alınır: 1 m² = 100 · 100 = 10 000 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_010",
+      "questionText": "3 metrekare (m²) kaç santimetrekaredir (cm²)?",
+      "answers": [
+        "300",
+        "3 000",
+        "30 000",
+        "300 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "1 m² = 10 000 cm² olduğu için, 3 m² = 30 000 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_011",
+      "questionText": "Tarla, bağ, bahçe gibi geniş arazilerin yüz ölçümlerini ifade etmek için kullanılan arazi ölçme temel birimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ar",
+        "Metrekare",
+        "Litre",
+        "Kilometre"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Arazi ölçü temel birimi 'ar'dır (sembolü 'a'). Ar'ın askatları ve üskatları dönüm (dekar) ve hektardır."
+    },
+    {
+      "id": "Q_6_7_012",
+      "questionText": "Halk arasında 'dönüm' olarak da bilinen arazi ölçü birimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ar",
+        "Dekar",
+        "Hektar",
+        "Kilometrekare"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "1 dönüm, standart ölçü birimlerinden 1 dekar (daa) ile eş anlamlı kabul edilir ve 1000 metrekareye eşittir."
+    },
+    {
+      "id": "Q_6_7_013",
+      "questionText": "1 hektar kaç metrekaredir (m²)?",
+      "answers": [
+        "100",
+        "1 000",
+        "10 000",
+        "100 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "1 ar = 100 m², 1 dekar = 1000 m², 1 hektar = 10 000 m²'dir."
+    },
+    {
+      "id": "Q_6_7_014",
+      "questionText": "50 dönüm (dekar) tarlası olan bir çiftçinin tarlası kaç metrekaredir?",
+      "answers": [
+        "500",
+        "5 000",
+        "50 000",
+        "500 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "1 dönüm = 1000 m²'dir. 50 dönüm = 50 · 1000 = 50 000 m² olur."
+    },
+    {
+      "id": "Q_6_7_015",
+      "questionText": "Çemberin çevre uzunluğunu hesaplamak için kullanılan sabit sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Alfa (α)",
+        "Beta (β)",
+        "Pi (π)",
+        "Omega (Ω)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Çemberin çevresinin çapına oranını veren sabit sayıya Pi (π) denir. Yaklaşık değeri 3,14 veya 22/7'dir."
+    },
+    {
+      "id": "Q_6_7_016",
+      "questionText": "Yarıçapı 10 cm olan bir çemberin çevre uzunluğu kaç santimetredir? (π = 3 alınız)",
+      "answers": [
+        "30",
+        "60",
+        "90",
+        "120"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Çevre = 2 · π · r formülüyle hesaplanır. Çevre = 2 · 3 · 10 = 60 cm'dir."
+    },
+    {
+      "id": "Q_6_7_017",
+      "questionText": "Çapı (R) 14 cm olan bir tekerleğin çevre uzunluğu kaç santimetredir? (π = 22/7 alınız)",
+      "answers": [
+        "22",
+        "44",
+        "88",
+        "154"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Çevre = Çap · π = R · π formülünden bulunur. Çevre = 14 · (22/7) = 2 · 22 = 44 cm'dir."
+    },
+    {
+      "id": "Q_6_7_018",
+      "questionText": "Çevresi 150 cm olan bir çemberin yarıçapı kaç santimetredir? (π = 3 alınız)",
+      "answers": [
+        "15",
+        "25",
+        "50",
+        "75"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "2 · π · r = Çevre. Yani 2 · 3 · r = 150 => 6 · r = 150 => r = 25 cm'dir."
+    },
+    {
+      "id": "Q_6_7_019",
+      "questionText": "Hacmi bulmak için 'taban alanı ile yüksekliğin çarpılması' gereken geometrik cisim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Üçgen",
+        "Çember",
+        "Dikdörtgenler Prizması",
+        "Daire"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Hacim kavramı 3 boyutlu cisimler için geçerlidir. Dikdörtgenler prizmasının hacmi = Taban Alanı · Yükseklik'tir."
+    },
+    {
+      "id": "Q_6_7_020",
+      "questionText": "Ayrıt uzunlukları 5 cm, 4 cm ve 10 cm olan bir dikdörtgenler prizmasının hacmi kaç santimetreküptür?",
+      "answers": [
+        "19",
+        "100",
+        "200",
+        "400"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Dikdörtgenler prizmasının hacmi = a · b · c = 5 · 4 · 10 = 20 · 10 = 200 cm³'tür."
+    },
+    {
+      "id": "Q_6_7_021",
+      "questionText": "Bir ayrıtının uzunluğu 3 cm olan küpün hacmi kaç santimetreküptür?",
+      "answers": [
+        "9",
+        "18",
+        "27",
+        "81"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Küpün hacmi a³ = a · a · a formülü ile bulunur. 3³ = 3 · 3 · 3 = 27 cm³'tür."
+    },
+    {
+      "id": "Q_6_7_022",
+      "questionText": "Hacim ölçme birimlerinde 1 desimetreküp (dm³) sıvı ölçme birimlerinden hangisine EŞİTTİR?",
+      "answers": [
+        "1 Mililitre (mL)",
+        "1 Santilitre (cL)",
+        "1 Litre (L)",
+        "1 Kilolitre (kL)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Geometrik ve sıvı ölçüleri arasındaki temel köprü şudur: 1 dm³ tam olarak 1 Litreye (L) eşittir."
+    },
+    {
+      "id": "Q_6_7_023",
+      "questionText": "5 Litre su kaç santimetreküptür (cm³)?",
+      "answers": [
+        "50",
+        "500",
+        "5 000",
+        "50 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "1 Litre = 1 dm³'tür. 1 dm³ = 1000 cm³'tür. Öyleyse 5 Litre = 5 dm³ = 5 000 cm³'tür."
+    },
+    {
+      "id": "Q_6_7_024",
+      "questionText": "2000 mililitre (mL) süt, kaç litredir?",
+      "answers": [
+        "0,2",
+        "2",
+        "20",
+        "200"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "1 Litre = 1000 mililitredir. 2000 mL = 2 Litredir."
+    },
+    {
+      "id": "Q_6_7_025",
+      "questionText": "Taban alanı 40 cm² olan bir kare dik prizmanın hacmi 240 cm³ olduğuna göre yüksekliği kaç santimetredir?",
+      "answers": [
+        "5",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Hacim = Taban Alanı · Yükseklik. 240 = 40 · h => h = 240 / 40 = 6 cm'dir."
+    },
+    {
+      "id": "Q_6_7_026",
+      "questionText": "Ayrıtları 2 m, 3 m ve 4 m olan dikdörtgenler prizması şeklindeki boş bir deponun yarısı su ile doldurulacaktır. Bu işlem için kaç litre suya ihtiyaç vardır?",
+      "answers": [
+        "12",
+        "24",
+        "12 000",
+        "24 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Deponun tam hacmi = 2 · 3 · 4 = 24 m³'tür. Yarısı 12 m³ eder. 1 m³ = 1000 Litredir (1000 dm³). Bu yüzden 12 m³ = 12 000 Litre suya ihtiyaç vardır."
+    },
+    {
+      "id": "Q_6_7_027",
+      "questionText": "Bir bisikletin tekerleğinin yarıçapı 30 cm'dir. Tekerlek tam 10 tur attığında bisiklet kaç metre yol gitmiş olur? (π = 3 alınız)",
+      "answers": [
+        "1,8",
+        "18",
+        "180",
+        "1800"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Tekerleğin 1 turu çevresi kadardır. Çevre = 2 · 3 · 30 = 180 cm. 10 tur = 180 · 10 = 1800 cm. Metreye çevirirsek: 1800 / 100 = 18 metre."
+    },
+    {
+      "id": "Q_6_7_028",
+      "questionText": "Hacmi 36 m³ olan bir havuz tamamen su ile doludur. Bu suyun tamamı 5 litrelik şişelere doldurulmak istenirse en az kaç şişe gereklidir?",
+      "answers": [
+        "720",
+        "7 200",
+        "72 000",
+        "720 000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Önce hacmi litreye çevirmeliyiz. 36 m³ = 36 000 Litre. Bu suyu 5 litrelik şişelere böleriz: 36 000 / 5 = 7 200 şişe."
+    },
+    {
+      "id": "Q_6_7_029",
+      "questionText": "Alanı 80 cm² olan bir paralelkenar şeklindeki kağıttan, tabanı paralelkenarın tabanıyla aynı (ve 10 cm uzunluğunda) olan bir üçgen kesilip çıkarılıyor. Geriye kalan bölgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "20",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Paralelkenarın alanı = a · h = 80. Taban a = 10 ise h = 8'dir. Kesilen üçgenin tabanı da 10 ve yüksekliği paralelkenarın yüksekliğiyle (8) aynıdır. Üçgenin alanı = (10 · 8) / 2 = 40 cm². Geriye kalan alan = 80 - 40 = 40 cm²'dir."
+    },
+    {
+      "id": "Q_6_7_030",
+      "questionText": "Kısa kenarı 6 m, uzun kenarı 8 m olan dikdörtgen şeklindeki bir bahçenin köşesinden bir kenarı 2 m olan üçgen şeklinde küçük bir alan çiçeklik yapılacaktır (Dik kenarları 2'şer metre). Geriye kalan alan kaç metrekaredir?",
+      "answers": [
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Bahçenin toplam alanı = 6 · 8 = 48 m²'dir. Köşeden kesilen dik üçgenin alanı = (2 · 2) / 2 = 2 m²'dir. Geriye kalan alan = 48 - 2 = 46 m²'dir."
+    }
+  ]
+}

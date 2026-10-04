@@ -1,0 +1,425 @@
+{
+  "unit": "Mevsimler ve İklim",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "Dünya'nın kendi ekseni etrafında dönmesi sonucunda aşağıdakilerden hangisi oluşur?",
+      "answers": [
+        "Mevsimler",
+        "Gece ve gündüz birbirini takip eder (Günlük sıcaklık farkları oluşur)",
+        "Yıllık sıcaklık farkları",
+        "İklim tipleri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Dünya'nın kendi ekseni etrafında (batıdan doğuya) günlük hareketi sonucunda gece ve gündüz oluşur; günlük sıcaklık ve basınç farkları meydana gelir."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "Mevsimlerin oluşmasının temelinde yatan iki ana neden hangi seçenekte doğru olarak birlikte verilmiştir?",
+      "answers": [
+        "Dünya'nın kendi ekseni etrafında dönmesi ve Ay'ın çekim gücü",
+        "Dünya'nın Güneş'e olan uzaklığının değişmesi ve rüzgarlar",
+        "Dünya'nın Güneş etrafında dolanması ve Dönme ekseninin eğik olması",
+        "Okyanus akıntıları ve Ekvator'un konumu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Mevsimlerin oluşmasının iki temel sebebi vardır: Dünya'nın Güneş etrafındaki yıllık dolanım hareketi ve 23 derece 27 dakikalık eksen eğikliğidir."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "Dünya'nın dönme ekseni ile yörünge düzlemi (dolanma düzlemi) arasında ne kadarlık bir açı (eksen eğikliği) vardır?",
+      "answers": [
+        "23 derece 27 dakika",
+        "66 derece 33 dakika",
+        "90 derece",
+        "12 derece 5 dakika"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Dünya, Güneş etrafında dik bir şekilde değil, 23 derece 27 dakikalık (23° 27') bir eksen eğikliği ile dolanır. Bu eğiklik mevsimleri var eden temel açıdır."
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "Aşağıdakilerden hangisi eksen eğikliğinin sonuçlarından biri değildir?",
+      "answers": [
+        "Güneş ışınlarının yeryüzüne düşme açısının yıl boyunca değişmesi",
+        "Mevsimlerin meydana gelmesi",
+        "Gece ve gündüz sürelerinin yıl içinde uzayıp kısalması",
+        "Dünya'nın Güneş'e yaklaşıp uzaklaşması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Dünya'nın Güneş'e yaklaşıp uzaklaşması, yörüngesinin elips şeklinde olmasının bir sonucudur; eksen eğikliğiyle ilgisi yoktur ve bu durum mevsimleri etkilemez."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Kuzey Yarım Küre'de (örneğin Türkiye'de) en uzun gündüzün, en kısa gecenin yaşandığı ve yaz mevsiminin başladığı tarih hangisidir?",
+      "answers": [
+        "21 Mart",
+        "23 Eylül",
+        "21 Haziran",
+        "21 Aralık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "21 Haziran (Yaz Gündönümü) tarihinde Güneş ışınları Kuzey Yarım Küre'deki Yengeç Dönencesi'ne dik gelir. Bu tarihte KYK en uzun gündüzü yaşar."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Güney Yarım Küre'de en uzun gündüzün yaşandığı ve yaz mevsiminin başladığı, Kuzey Yarım Küre'de ise kışın başladığı tarih hangisidir?",
+      "answers": [
+        "21 Aralık",
+        "21 Haziran",
+        "21 Mart",
+        "23 Eylül"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "21 Aralık tarihinde Güneş ışınları Güney Yarım Küre'deki Oğlak Dönencesi'ne dik gelir. Bu tarihte Güney Yarım Küre'de yaz, Kuzey Yarım Küre'de kış başlar."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "Dünya üzerinde Güneş ışınlarının dik (90°) olarak düştüğü en kuzeydeki ve en güneydeki enlemlere dönence denir. Bu dönencelerin isimleri sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Kuzey: Oğlak Dönencesi / Güney: Yengeç Dönencesi",
+        "Kuzey: Yengeç Dönencesi / Güney: Oğlak Dönencesi",
+        "Kuzey: Ekvator / Güney: Kutup Dairesi",
+        "Kuzey: Greenwich / Güney: Ekvator"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Kuzey Yarım Küre'de (21 Haziran'da dik gelen) Yengeç Dönencesi, Güney Yarım Küre'de (21 Aralık'ta dik gelen) Oğlak Dönencesi bulunur."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "Güneş ışınlarının Ekvator'a tam dik düştüğü, Dünya'nın her yerinde gece ve gündüz süresinin eşit (12 saat gece, 12 saat gündüz) olduğu tarihlere Ekinoks (Ekinoks tarihleri) denir. Bu tarihler hangileridir?",
+      "answers": [
+        "21 Haziran ve 21 Aralık",
+        "21 Mart ve 21 Haziran",
+        "21 Mart ve 23 Eylül",
+        "23 Eylül ve 21 Aralık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "21 Mart ve 23 Eylül tarihlerinde eksen eğikliğinin etkisi ortadan kalkar, güneş ışınları Ekvator'a dik düşer ve tüm dünyada gece-gündüz eşitliği (ekinoks) yaşanır."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "Bir bölgeye Güneş ışınları dik veya dike yakın bir açıyla düşüyorsa, o bölgeyle ilgili aşağıdakilerden hangisi söylenemez?",
+      "answers": [
+        "Birim yüzeye düşen ısı enerjisi miktarı fazladır.",
+        "Hava sıcaklığı yüksektir.",
+        "Aydınlanan alan dar ancak aktarılan ısı fazladır.",
+        "Cisimlerin gölge boyu çok uzundur."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Güneş ışınları dik veya dike yakın açıyla geldiğinde cisimlerin gölge boyu çok kısa olur (Tam dik gelirse gölge boyu sıfır olur). Işınlar eğik geldikçe gölge uzar."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "Eğer Dünya'nın eksen eğikliği hiç olmasaydı (Eksen eğikliği 0° olsaydı) aşağıdakilerden hangisinin gerçekleşmesi beklenirdi?",
+      "answers": [
+        "Mevsimler daha belirgin yaşanırdı.",
+        "Güneş ışınları yıl boyunca Ekvator'a eğik, kutuplara dik gelirdi.",
+        "Yıllık sıcaklık farkları oluşmaz, mevsimler ortadan kalkardı.",
+        "Sadece yaz ve kış mevsimleri yaşanırdı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Eksen eğikliği olmasaydı Güneş ışınları her zaman Ekvator'a dik düşer, bir bölgeye düşen ışın açısı yıl boyu değişmezdi. Bu nedenle mevsimler ve yıllık sıcaklık farkları oluşmazdı."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "Aralık ayında kış mevsiminin ortasında bunalan bir turist, denize girip yaz tatili yapmak istemektedir. Bu turistin aşağıdaki ülkelerden hangisine gitmesi hedefine ulaşmasını sağlar?",
+      "answers": [
+        "Rusya",
+        "İngiltere",
+        "Türkiye",
+        "Avustralya"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Aralık ayında Kuzey Yarım Küre kış mevsimini yaşarken, Güney Yarım Küre (Avustralya, Brezilya vb.) yaz mevsimini yaşar. Eksen eğikliği nedeniyle yarım kürelerde zıt mevsimler görülür."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "Geniş bir bölgede, uzun yıllar (30-35 yıl) boyunca gözlemlenen sıcaklık, nem, hava basıncı, rüzgar ve yağış gibi hava olaylarının ortalamasına ne ad verilir?",
+      "answers": [
+        "Hava Durumu",
+        "Meteoroloji",
+        "İklim",
+        "Atmosfer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Geniş alanlarda uzun yıllar boyunca ölçülen ortalama verilere ve hava olaylarının genel karakterine İklim denir. Kısa süreli değişimlere ise Hava Olayı denir."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "Aşağıdakilerden hangisi iklim bilimi ve bu alanda çalışan bilim insanına verilen isimdir?",
+      "answers": [
+        "Meteoroloji - Meteorolog",
+        "Klimatoloji - Klimatolog",
+        "Jeoloji - Jeolog",
+        "Sismoloji - Sismolog"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "İklimi inceleyen bilim dalına Klimatoloji (İklim Bilimi), bu alanda çalışan uzmanlara ise Klimatolog (İklim Bilimci) denir."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "Bir bölgede havanın sıcak olması (ısınarak genleşmesi) durumunda havadaki tanecikler yükselir. Bu durumun sonucunda yeryüzünde oluşan basınca ne ad verilir?",
+      "answers": [
+        "Alçak Basınç Alanı",
+        "Yüksek Basınç Alanı",
+        "Atmosfer Basıncı",
+        "Açık Hava Basıncı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Isınan hava hafifler ve yükselici hava hareketi yapar. Havanın yere yaptığı baskı (ağırlık) azaldığı için o bölgede 'Alçak Basınç Alanı' oluşur."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "Yüksek Basınç alanlarıyla ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "answers": [
+        "Hava sıcaklığı düşüktür (Soğuk havadır).",
+        "Hava molekülleri alçalıcı hareket yapar.",
+        "Hava genellikle bulutlu ve yağışlıdır.",
+        "Hava yoğunluğu yüksektir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Yüksek basınç alanlarında hava soğuktur ve aşağıya doğru alçalıcı hareket yapar. Alçalan hava bulut oluşturmaz, bu nedenle yüksek basınç alanlarında hava genellikle açık ve güneşlidir (yağış görülmez)."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "Rüzgarların oluşum nedeni ve esiş yönü hangi seçenekte doğru ifade edilmiştir?",
+      "answers": [
+        "Sıcaklık farkından dolayı, Alçak basınç alanından Yüksek basınç alanına doğru eser.",
+        "Sıcaklık ve basınç farkından dolayı, Yüksek basınç alanından (Soğuk) Alçak basınç alanına (Sıcak) doğru yata yönlü hava hareketidir.",
+        "Sadece bulutların hareketiyle oluşur.",
+        "Eşit basınçlı bölgeler arasında yukarı doğru oluşur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Rüzgar, basınç farkı nedeniyle oluşan yatay yönlü hava hareketidir ve daima Yüksek Basınç (Soğuk) alanından Alçak Basınç (Sıcak) alanına doğru eser."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Havadaki su buharının (nemin), gökyüzüne yakın yerlerde (atmosferin üst katmanlarında) aniden sıfırın altındaki (0°C'nin altında) soğuk hava tabakasıyla karşılaşıp donarak buz toplarına dönüşmesine ne ad verilir?",
+      "answers": [
+        "Çiy",
+        "Kar",
+        "Kırağı",
+        "Dolu"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Su buharının gökyüzünde aniden donarak buz topları (iri buz kristalleri) halinde yeryüzüne düşmesine Dolu denir."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "Havadaki su buharının, yeryüzüne (toprağa, ağaç yapraklarına) yakın yerlerde, sıcaklığın 0°C'nin altına düşmesi sonucu aniden donarak buz kristallerine dönüşmesine ne ad verilir?",
+      "answers": [
+        "Kar",
+        "Kırağı",
+        "Çiy",
+        "Sis"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Kar gökyüzünde donan kristallerdir. Ancak yeryüzündeki nesneler (yapraklar, arabalar) üzerinde oluşan buz kristallerine Kırağı denir."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "İlkbahar aylarında sabahları kalktığımızda çimenlerin ve araba camlarının üzerinde su damlacıkları görürüz. Yağmur yağmadığı halde yeryüzüne yakın soğuk yüzeylerde su buharının yoğuşmasıyla oluşan bu su damlacıklarına ne ad verilir?",
+      "answers": [
+        "Sis",
+        "Dolu",
+        "Çiy",
+        "Kırağı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Havadaki nemin, geceleri yeryüzüne yakın soğuk yüzeylere çarparak sıvı hale geçmesine (su damlacığı olmasına) Çiy denir."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Aşağıdaki cümlelerin hangisi 'İklim' kavramına örnek oluşturmaz?",
+      "answers": [
+        "Antalya'da yazlar sıcak ve kurak geçer.",
+        "Karadeniz bölgesi her mevsim yağış alır.",
+        "Erzurum'da kışlar soğuk ve kar yağışlıdır.",
+        "İzmir'de yarın öğleden sonra şiddetli lodos bekleniyor."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Diğer seçenekler geniş bir zaman dilimini (iklimsel özelliği) ifade ederken, 'yarın öğleden sonra' ifadesi dar bir zamanda beklenen kısa süreli 'Hava Durumu'nu (Hava Olayını) anlatır."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "Türkiye'de görülen başlıca iklim tipleri hangi seçenekte tam ve doğru olarak verilmiştir?",
+      "answers": [
+        "Akdeniz İklimi - Karasal İklim - Karadeniz İklimi",
+        "Okyanusal İklim - Çöl İklimi - Kutup İklimi",
+        "Karasal İklim - Ekvatoral İklim - Akdeniz İklimi",
+        "Karadeniz İklimi - Çöl İklimi - Karasal İklim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Türkiye, coğrafi konumu ve yeryüzü şekilleri nedeniyle ağırlıklı olarak Karadeniz, Akdeniz ve Karasal (İç Anadolu ve Doğu) olmak üzere 3 temel iklim tipini yaşar."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Gündüz saatlerinde karalar denizlere göre daha çabuk ısınır. Gece ise karalar denizlere göre daha çabuk soğur. Buna göre gündüzleri deniz kıyısında oturan bir kişinin hissedeceği meltem rüzgarının yönü nasıldır?",
+      "answers": [
+        "Karadan denize doğru eser.",
+        "Denizden karaya doğru eser.",
+        "Yukarıdan aşağıya doğru eser.",
+        "Gündüzleri rüzgar oluşmaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 3,
+      "explanation": "Gündüz kara hızlı ısınır (Alçak Basınç), deniz serin kalır (Yüksek Basınç). Rüzgar daima soğuktan sıcağa (YB'den AB'ye) eseeği için, gündüz rüzgar denizden karaya doğru eser."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Fosil yakıtların aşırı kullanımı, ormanların tahrip edilmesi ve sanayi atıkları atmosferdeki karbondioksit (CO2), metan ve kloroflorokarbon (CFC) gibi gazların oranını hızla artırmıştır. Bu gazların Güneş ışınlarını tutarak Dünya'nın sıcaklığını artırmasına ne ad verilir?",
+      "answers": [
+        "Hava Durumu Değişikliği",
+        "Sera Etkisi (Küresel Isınma)",
+        "Ozon Tabakası Delinmesi",
+        "Asit Yağmurları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "Sera gazlarının tıpkı cam bir tavan gibi ısıyı atmosferde hapsetmesi olayına Sera Etkisi, bunun sonucunda gezegenin sıcaklığının artmasına ise Küresel Isınma denir."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Bir araştırmacı, bulunduğu konumda 21 Mart ve 23 Eylül tarihlerinde öğle vakti Güneş ışınlarının tam dik açıyla geldiğini ve yere diktiği çubuğun gölgesinin sıfır olduğunu gözlemlemiştir. Bu araştırmacı Dünya üzerinde nerededir?",
+      "answers": [
+        "Yengeç Dönencesi üzerinde",
+        "Oğlak Dönencesi üzerinde",
+        "Ekvator çizgisi üzerinde",
+        "Kuzey Kutbu noktasında"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "21 Mart ve 23 Eylül Ekinoks tarihleridir. Bu tarihlerde Güneş ışınları Ekvator'a tam dik (90°) düşer ve gölge boyu oluşmaz."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "21 Haziran tarihinden sonra Kuzey Yarım Küre'de gece ve gündüz sürelerinde nasıl bir değişim gözlenmeye başlar?",
+      "answers": [
+        "Gündüzler uzamaya, geceler kısalmaya başlar.",
+        "Gece ve gündüz eşitlenir.",
+        "Gündüzler kısalmaya, geceler uzamaya başlar.",
+        "Sadece geceler uzar, gündüz sabit kalır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 3,
+      "explanation": "Kuzey Yarım Küre 21 Haziran'da yılın 'en uzun' gündüzünü yaşar. Zirveye ulaşıldığı için bu tarihten sonra gündüzler artık uzayamaz, adım adım kısalmaya başlarken geceler uzamaya başlar."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "Hava olayları dar bir alanda ve kısa süreli değişiklikler gösterirken, iklim geniş bölgelerde uzun yıllar süren hava olaylarının ortalamasıdır. Buna göre klimatologlar (iklim bilimciler) çalışma yaparken en az kaç yıllık hava durumu verilerini inceleyerek iklimi belirler?",
+      "answers": [
+        "1 - 2 yıllık verileri",
+        "5 - 10 yıllık verileri",
+        "30 - 35 yıllık verileri",
+        "Haftalık verileri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Bir bölgenin iklim haritasının ve karakterinin kesin olarak belirlenebilmesi için en az 30-35 yıllık periyodik gözlem (hava durumu) kayıtlarının ortalamasının alınması şarttır."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "A bölgesinde sıcaklık 10°C (Yüksek Basınç), B bölgesinde ise sıcaklık 25°C'dir (Alçak Basınç). Bu iki bölge arasında oluşacak rüzgarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "answers": [
+        "Rüzgar B bölgesinden A bölgesine doğru eser.",
+        "Rüzgar A bölgesinden B bölgesine doğru eser.",
+        "Sıcaklık farkı rüzgar oluşturmaz.",
+        "Hava A bölgesinde yükselici hareket gösterir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 3,
+      "explanation": "Rüzgar her zaman yüksek basınç alanından (soğuk olan A bölgesinden), alçak basınç alanına (sıcak olan B bölgesine) doğru eser."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "Atmosferin içerdiği nem miktarını (su buharı oranını) ölçmek için meteorologların kullandığı cihaza ne ad verilir?",
+      "answers": [
+        "Barometre",
+        "Higrometre",
+        "Dinamometre",
+        "Anemometre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Barometre hava basıncını, anemometre rüzgarın hızını, higrometre ise havadaki nem oranını (su buharı miktarını) ölçer."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Türkiye'den kışın ortasında, 15 Ocak tarihinde uçağa binip Brezilya'ya (Güney Amerika'ya) giden bir araştırmacı, uçaktan indiğinde hangi mevsim şartlarıyla karşılaşır?",
+      "answers": [
+        "Kış mevsimi ile karşılaşır çünkü Ocak ayıdır.",
+        "Sonbahar mevsimi ile karşılaşır.",
+        "Yaz mevsimi ile karşılaşır çünkü Güney Yarım Küre'ye geçmiştir.",
+        "İlkbahar mevsimi ile karşılaşır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 2,
+      "explanation": "Eksen eğikliğinden dolayı Kuzey Yarım Küre (Türkiye) Ocak ayında kışı yaşarken, Ekvator'un aşağısındaki Güney Yarım Küre (Brezilya) tam zıddı olan yaz mevsimini yaşar."
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "Rüzgarlar hızlarına (saatteki km/h) göre farklı isimler alırlar. Hızı saatte 118 kilometreyi aşan, sadece sıcak su üzerinde (okyanuslarda) oluşan en şiddetli ve yıkıcı fırtına türüne ne ad verilir?",
+      "answers": [
+        "Meltem",
+        "Hortum",
+        "Poyraz",
+        "Kasırga (Tayfun / Hurrikan)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mevsimler ve İklim",
+      "difficulty": 1,
+      "explanation": "En hızlı, en büyük ve en yıkıcı rüzgar türü Kasırgadır. Dünyanın farklı bölgelerinde Tayfun veya Hurrikan isimleriyle de bilinir."
+    }
+  ]
+}

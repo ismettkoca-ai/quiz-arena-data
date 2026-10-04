@@ -1,0 +1,425 @@
+{
+  "unit": "Melek ve Ahiret İnancı",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "Yüce Allah tarafından nurdan yaratılan, yeme, içme, uyuma gibi bedensel ihtiyaçları olmayan ve iradeleri bulunmadığı için sadece Allah'ın emirlerini yerine getiren varlıklara ne ad verilir?",
+      "answers": [
+        "Cin",
+        "Melek",
+        "Şeytan",
+        "İnsan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Melekler nurdan yaratılmış, gözle görülmeyen ve özgür iradeleri olmadığı için asla günah işlemeyen tertemiz varlıklardır."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "Bir öğrenci, odasında yalnızken bile kötü bir söz söylemekten veya hile yapmaktan çekinmektedir. Çünkü her an sağında ve solunda yaptıklarını kaydeden meleklerin olduğunu bilmektedir. Öğrencinin inandığı bu meleklere ne ad verilir?",
+      "answers": [
+        "Münker ve Nekir",
+        "Hafaza Melekleri",
+        "Kiramen Katibin",
+        "Dört Büyük Melek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "İnsanın sağında ve solunda bulunup yaptığı iyi ve kötü (sevap-günah) her şeyi kaydeden (yazan) meleklere 'Kiramen Katibin' (Değerli Yazıcılar) denir."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "İslam inancına göre evrendeki doğa olaylarını (yağmur, kar, rüzgar) ve canlıların rızıklarını Allah'ın izniyle düzenlemekle görevli olan büyük melek hangisidir?",
+      "answers": [
+        "Cebrail",
+        "Mikail",
+        "İsrafil",
+        "Azrail"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Doğa olaylarının işleyişini ve canlıların rızıklarının dağıtımını Allah'ın emriyle yöneten melek Mikail'dir."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "Peygamberlere Allah'ın mesajlarını (vahiyleri) ulaştırmakla görevli olan, Kur'an'da 'Ruhu'l-Kudüs' (Kutsal Ruh) olarak da anılan en büyük melek kimdir?",
+      "answers": [
+        "Cebrail",
+        "İsrafil",
+        "Mikail",
+        "Azrail"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Allah ile peygamberler arasında elçilik (vahiy) görevini yapan melek Cebrail'dir."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "Zeynep, ölüm sonrası hayata inanan bir Müslümandır. Bir gün vefat ettiğinde kabirde (mezarda) onu karşılayıp 'Rabbin kim? Dinin ne? Peygamberin kim?' diye sorguya çekecek olan meleklerin ismini araştırmaktadır. Bu melekler hangileridir?",
+      "answers": [
+        "Kiramen Katibin",
+        "Hafaza",
+        "Münker ve Nekir",
+        "İsrafil ve Mikail"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Ölümden sonra kabir (berzah) hayatında insanları sorguya çekmekle görevli olan iki meleğe Münker ve Nekir denir."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "Kıyamet gününün başlaması için 'Sûr' adı verilen alete birinci kez üfleyecek olan, daha sonra insanların dirilmesi (Ba's) için Sûr'a ikinci kez üfleyecek olan melek hangisidir?",
+      "answers": [
+        "Azrail",
+        "Mikail",
+        "Cebrail",
+        "İsrafil"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Kıyamet vakti geldiğinde Sûr borusuna üfleyerek kıyameti ve dirilişi başlatmakla görevli olan melek İsrafil'dir."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "Aşağıdakilerden hangisi melekler ile cinler arasındaki en temel farktır?",
+      "answers": [
+        "Meleklerin gözle görülmesi, cinlerin görülmemesi",
+        "Cinlerin iradesi (seçme hakkı) olup iyisi-kötüsü varken, meleklerin iradesi olmaması ve sadece itaat etmesi",
+        "Cinlerin nurdan, meleklerin ateşten yaratılması",
+        "Meleklerin dünyada, cinlerin ahirette yaşaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 3,
+      "explanation": "Meleklerin özgür iradeleri yoktur, sadece verilen emri yaparlar ve günahsızdırlar. Cinlerin ise tıpkı insanlar gibi iradeleri vardır, sevap veya günah işleyebilirler."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "Şeytan (İblis), ilk insan Hz. Adem yaratıldığında ona secde etmesi (saygı göstermesi) emredildiğinde, 'Ben ondan daha üstünüm, beni ateşten onu çamurdan yarattın' diyerek isyan etmiştir. Şeytanın Allah'ın huzurundan kovulmasına sebep olan bu kötü huyu nedir?",
+      "answers": [
+        "Cimrilik",
+        "Gıybet",
+        "Kibir (Büyüklenme)",
+        "Tembellik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Şeytan, kendi yaratılış maddesini topraktan üstün görerek kibre (büyüklük taslamaya) kapılmış ve bu yüzden Allah'ın emrine karşı gelerek kovulmuştur."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "İnsanları kötülüğe yönlendirmeye çalışan şeytanın, insan üzerinde zorlayıcı bir gücü yoktur. O sadece fısıldar ve akıllara kötü düşünceler sokar. Şeytanın bu fısıltı ve şüphe düşürme eylemine dinimizde ne ad verilir?",
+      "answers": [
+        "Tefekkür",
+        "Tevekkül",
+        "Vesvese",
+        "Gıybet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Şeytan insanlara zorla günah işletemez. Sadece insanın zihnine ve kalbine kötü düşünceler ve şüpheler (vesvese) fısıldar; kararı (iradeyi) insan verir."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "Ali, televizyonda burç yorumlarına göre haftalık planlarını yapmakta ve falcılara giderek geleceğini öğrenmeye çalışmaktadır. Ali'nin bu davranışları İslam'ın hangi ilkesiyle kesinlikle çelişir (ters düşer)?",
+      "answers": [
+        "Temizlik imandandır.",
+        "Geleceği (Gaybı) Allah'tan başka kimse bilemez.",
+        "Meleklere inanmak şarttır.",
+        "Zekat vermek zenginlere farzdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "İslam dininde gelecek (gayb) sadece Allah'ın bilgisindedir. Falcılık, burçlarla gelecek tahmini, ruh çağırma gibi batıl inançlar kesinlikle yasaklanmıştır."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "İnsanın dünya hayatı bittikten sonra başlayan ve sonsuza kadar devam edecek olan ikinci hayata 'Ahiret Hayatı' denir. Ahiret hayatının ilk aşaması (başlangıcı) aşağıdakilerden hangisiyle gerçekleşir?",
+      "answers": [
+        "Kıyametin kopması",
+        "Mizan",
+        "Ölüm (Ecel)",
+        "Mahşer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Ahiret hayatı, evrenin değil, bireyin ölümüyle başlar. Kişinin ölümü (ecel), onun ahiret hayatına (berzah alemine) geçişinin ilk adımıdır."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "İnsan öldükten sonra kıyamet kopup herkesin yeniden dirileceği (Ba's) güne kadar geçecek olan kabir (mezar) hayatına İslam'da ne ad verilir?",
+      "answers": [
+        "Berzah Alemi",
+        "Mahşer Günü",
+        "Mizan",
+        "Sırat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 3,
+      "explanation": "Berzah, kelime anlamı olarak 'iki şey arasındaki engel' demektir. Ölüm ile kıyametteki diriliş (Ba's) arasındaki kabir hayatına Berzah Alemi denir."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "Allah'ın belirlediği zaman (ecel) geldiğinde İsrafil'in Sûr'a birinci kez üflemesiyle evrendeki mevcut düzenin yıkılmasına ve dünya hayatının tamamen son bulmasına ne ad verilir?",
+      "answers": [
+        "Ba's",
+        "Haşr",
+        "Kıyamet",
+        "Hesap"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Kıyamet, sözlükte 'kalkmak, dikilmek' anlamına gelse de dini terim olarak evrenin düzeninin altüst olup dünya hayatının sona ermesidir."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "Sonbaharda yapraklarını döken ve ölen ağaçların, ilkbahar geldiğinde yağmurla birlikte yemyeşil olup yeniden canlanması, ahiret hayatının hangi aşaması için insana verilmiş somut bir örnektir?",
+      "answers": [
+        "Mizan (Terazi)",
+        "Ba's (Yeniden Diriliş)",
+        "Berzah (Kabir)",
+        "Cehennem"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Kışın ölen doğanın baharda dirilmesi, Kur'an'da öldükten sonra yeniden dirilmenin (Ba's) en açık kanıtı (delili) olarak insanlara sunulur."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "Kıyamet kopup bütün insanlar yeniden dirildikten (Ba's) sonra, dünyada yaptıklarının hesabını vermek üzere toplanacakları o büyük meydana ne ad verilir?",
+      "answers": [
+        "Sırat",
+        "Mizan",
+        "Mahşer",
+        "Cennet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "İnsanların hesap vermek üzere toplanmasına (bir araya gelmesine) 'Haşr', toplanılan o büyük ve geniş meydana ise 'Mahşer' denir."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "Pazarda esnaflık yapan Hasan Amca, terazisinde hile yapmaktan çok korkar. Çünkü dünyada yaptığı haksızlıkların, ahirette büyük bir adalet terazisinde çok ince bir şekilde tartılacağını bilir. Hasan Amca'nın bahsettiği bu ilahi teraziye ne ad verilir?",
+      "answers": [
+        "Mahşer",
+        "Sûr",
+        "Mizan",
+        "Kıyamet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Ahirette insanların dünyadayken yaptığı iyilik ve kötülüklerin milimetrik (zerre kadar) bir adaletle tartılacağı o manevi teraziye 'Mizan' denir."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "Dünyada haksızlığa uğrayan, iftiraya maruz kalan ancak hakkını savunamayan masum bir kişi, zalimlerden intikam alamadığı için büyük bir üzüntü yaşar. Ancak 'Ahiret İnancı' bu kişiye nasıl bir psikolojik fayda sağlar?",
+      "answers": [
+        "İntikamını dünyada zorla alması gerektiğini öğretir.",
+        "İlahi adaletin ahirette mutlaka tecelli edeceği inancıyla ona sabır ve teselli verir.",
+        "Yaşadığı acıları tamamen unutturur.",
+        "Herkese düşman olmasını sağlar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Ahiret inancı; dünyada sağlanamayan adaletin Mahşer'de ve Mizan'da (İlahi mahkemede) kesinlikle sağlanacağını garanti ederek mazlumlara büyük bir teselli verir."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "Öğretmeni, 'İnsanlar dünyada ektiklerini ahirette biçeceklerdir' diyerek bir atasözü söylemiştir. Bu sözle asıl anlatılmak istenen nedir?",
+      "answers": [
+        "Dünyada tarımla uğraşmanın çok sevap olduğu",
+        "Ahirette herkese bedava tarlalar verileceği",
+        "Dünya hayatında yaptığımız iyi veya kötü her davranışın sonucunu ahirette göreceğimiz",
+        "Sadece çiftçilerin cennete gidebileceği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Dünya ahiretin tarlasıdır. İnsan dünyada iyilik ekerse ahirette cenneti, kötülük ekerse cehennemi (sonuçları) biçer (görür)."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "İnsanlar mahşer yerinde toplandıktan sonra, dünyadayken Kiramen Katibin melekleri tarafından tutulan ve bütün ömrünün bir film gibi kayıtlı olduğu bir dosya verilir. Bu dosyaya İslam dininde ne ad verilir?",
+      "answers": [
+        "Suhuf",
+        "Amel Defteri (Kitap)",
+        "Tevrat",
+        "Kader Levhası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "İnsanın dünyadaki tüm davranışlarının, niyetlerinin ve sözlerinin yazılı olduğu; hesap günü sağdan, soldan veya arkadan verilecek olan kayıt dosyasına Amel Defteri denir."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "İslam inancına göre ahiret hayatının aşamaları belirli bir sıraya (kronolojiye) göre gerçekleşir. Aşağıdaki sıralamalardan hangisi doğrudur?",
+      "answers": [
+        "Ölüm -> Kıyamet -> Ba's (Diriliş) -> Mahşer -> Mizan",
+        "Kıyamet -> Ölüm -> Mahşer -> Mizan -> Ba's",
+        "Ölüm -> Ba's -> Kıyamet -> Mizan -> Mahşer",
+        "Mizan -> Ölüm -> Kıyamet -> Ba's -> Mahşer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 3,
+      "explanation": "Doğru sıra: Bireysel ölüm (Berzah) -> Evrenin sonu (Kıyamet) -> Yeniden diriliş (Ba's) -> Toplanma (Mahşer) -> Tartı ve Hesap (Mizan)."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Kişi öldükten sonra bile ona sevap kazandırmaya devam eden (okul yaptırmak, çeşme açmak, faydalı bir ilim eseri bırakmak veya hayırlı bir evlat yetiştirmek gibi) kesintisiz iyiliklere ne ad verilir?",
+      "answers": [
+        "Fidye",
+        "Zekat",
+        "Sadaka-i Cariye",
+        "Fitre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Cariye (akan, devam eden) sadaka demektir. Kişinin amel defterinin kapanmamasına ve öldükten sonra bile o eser kullanıldıkça sevap kazanmasına Sadaka-i Cariye denir."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "Gece karanlıkta korkan veya şeytanın vesvesesinden (kötü düşüncelerden) rahatsız olan bir Müslümanın, Allah'a sığınmak (korunmak) amacıyla okuması tavsiye edilen iki kısa sure ('Muavvizeteyn') hangileridir?",
+      "answers": [
+        "Fatiha ve İhlas",
+        "Felak ve Nas",
+        "Yasin ve Tebareke",
+        "Kevser ve Asr"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Kur'an'ın son iki suresi olan Felak ve Nas sureleri, her türlü kötülükten (sihir, haset, cin ve şeytan vesvesesi) Allah'a sığınmak (Muavvizeteyn) için okunur."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "Peygamberimiz, 'Kim zerre (çok küçük bir toz parçası) kadar iyilik yapmışsa onu görecek, kim de zerre kadar kötülük yapmışsa onu görecektir' ayetini (Zilzal Suresi) okumuştur. Bu ayet insanlara ahiretle ilgili hangi mesajı vermektedir?",
+      "answers": [
+        "Sadece büyük iyiliklerin sevap kazandıracağını",
+        "Küçük günahların affedileceğini",
+        "Ahiretteki adaletin (Mizan'ın) çok hassas olduğunu ve hiçbir eylemin karşılıksız kalmayacağını",
+        "İnsanların ahirette birbirini tanımayacağını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "İlahi adalet terazisi (Mizan) o kadar hassastır ki, dünyadaki en ufak bir iyilik veya kötülük bile orada hesaba katılacak ve karşılık bulacaktır."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "Kur'an'da sıkça geçen 'Meleklere İman', İslam'ın inanç esaslarından (Amentü) biridir. Meleklerin varlığına inanan bir kimsede aşağıdaki davranışlardan hangisinin görülmesi beklenmez?",
+      "answers": [
+        "Yalnız kaldığında bile günah işlemekten çekinmesi",
+        "İyilik yapma konusunda daha istekli olması",
+        "Sorumluluk bilinciyle (izlendiğini bilerek) hareket etmesi",
+        "Meleklere dua ederek onlardan yardım (rızık) istemesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "İslam Tevhid (Tek Allah) dinidir. Melekler sadece Allah'ın emrini yerine getiren elçilerdir; onlara dua edilmez, rızık veya yardım sadece Allah'tan istenir."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "Ahiret hayatına inanan bir toplumda insanların birbirlerinin hakkını yememesi, daha dürüst davranması ve adaletin sağlanması daha kolaydır. Bu durum ahiret inancının hangi boyutuyla ilgilidir?",
+      "answers": [
+        "Ekonomik boyutuyla",
+        "Psikolojik ve Toplumsal (Ahlaki) boyutuyla",
+        "Tarihsel boyutuyla",
+        "Siyasi boyutuyla"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "Hesap vereceğine inanan insan hırsızlık yapmaz, yalan söylemez. Ahiret inancı toplumda güveni, dürüstlüğü ve ahlakı tesis eden muazzam bir otokontroldür."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "Cinler de tıpkı insanlar gibi yaratılmış varlıklardır. Kur'an-ı Kerim'de cinlerle ilgili pek çok bilgi verilmiştir. Aşağıdakilerden hangisi cinlerle ilgili doğru bir bilgi değildir?",
+      "answers": [
+        "Dumansız ateşten (ışın/enerji) yaratılmışlardır.",
+        "Özgür iradeleri vardır, iyileri (inananları) ve kötüleri (kafirleri) bulunur.",
+        "Geleceği (Gaybı) insanlardan daha iyi bilirler.",
+        "Peygamberimiz hem insanlara hem de cinlere elçi olarak gönderilmiştir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 3,
+      "explanation": "Kur'an'da (Sebe Suresi vb.) açıkça belirtildiği üzere cinler gaybı (geleceği) bilemezler. Geleceği yalnızca Allah bilir."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Hesap günü (Mahşer) amel defterleri incelenip adalet terazisinde (Mizan) tartıldıktan sonra, dünyadayken Allah'a inanıp iyi işler (salih amel) yapanların sonsuz mutluluk içinde yaşayacakları yere ne ad verilir?",
+      "answers": [
+        "Araf",
+        "Cennet",
+        "Cehennem",
+        "Berzah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Cennet, iyilik yapan, kul hakkı yemeyen ve iman edenlerin mükafat (ödül) olarak ebediyen (sonsuza kadar) kalacakları, hiçbir hüznün olmadığı yerdir."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "Öğretmen, 'Hiçbir peygamber, hatta Hz. Muhammed (s.a.v) bile kıyametin tam olarak hangi gün, saat ve tarihte kopacağını bilemez' demiştir. Bunun nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peygamberlerin bu konuyu merak etmemesi",
+        "Kıyametin zamanının Gayb (bilinmeyen sırlar) kapsamında olup sadece Allah'ın bilgisinde olması",
+        "Kıyametin çok uzak bir gelecekte kopacak olması",
+        "Meleklerin bu bilgiyi unutmuş olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 1,
+      "explanation": "Kıyametin tam vakti Allah'tan başka hiç kimsenin (melekler ve peygamberler dahil) bilemeyeceği bir sırdır (Gayb)."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "Allah'ın izniyle annelerin rahmindeki bebeklere ruh üflemek ve insanın anne karnındaki şekillenmesini (gelişimini) sağlamakla görevli, sayıları dört büyük melekten sonra gelen meleklerin genel adı nedir?",
+      "answers": [
+        "Rıdvan Melekleri",
+        "Malik",
+        "Mekyâil (veya bu işe memur melekler / Ruh üfleyen melek)",
+        "Azrail"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 3,
+      "explanation": "Hadislerde, anne karnındaki bebeğe 120. (veya 40.) günde ruh üflemek ve onun cinsiyeti, rızkı gibi özellikleri yazmakla görevli olan özel elçiler (melekler) olduğu belirtilir."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "İlk insan olan Hz. Adem de hata yaparak yasak meyveyi yemiştir, Şeytan (İblis) da hata yaparak secde emrine karşı gelmiştir. Ancak Hz. Adem affedilmiş, Şeytan ise ebediyen kovulmuştur. Aralarındaki bu farkın asıl sebebi nedir?",
+      "answers": [
+        "Hz. Adem'in daha güzel olması",
+        "Şeytanın hatasında inat edip kibirlenmesi, Hz. Adem'in ise hatasını kabul edip pişmanlıkla af (tövbe) dilemesi",
+        "Şeytanın ateşten yaratılmış olması",
+        "Hz. Adem'in suçunun daha büyük olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Melek ve Ahiret İnancı",
+      "difficulty": 2,
+      "explanation": "İnsan olmak hata yapmaktır ancak hatada inat etmek (kibirlenmek) şeytani bir özelliktir. Hz. Adem hatasını kabul edip tövbe ettiği için, Şeytan ise kibre kapıldığı için kaderleri farklı olmuştur."
+    }
+  ]
+}

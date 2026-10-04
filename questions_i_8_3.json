@@ -1,0 +1,425 @@
+{
+  "unit": "In the Kitchen",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "Can you ............... the potatoes? I want to make potato salad.",
+      "answers": [
+        "peel",
+        "pour",
+        "knead",
+        "stir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Patates salatası yapmak için patateslerin kabuğunun soyulması gerekir. 'Peel' kabuğunu soymak demektir."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "Aşağıdaki kelimelerden hangisi bir 'cooking process' (pişirme yöntemi) değildir?",
+      "answers": [
+        "Boil",
+        "Fry",
+        "Bake",
+        "Chop"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Boil (haşlamak), Fry (kızartmak) ve Bake (fırında pişirmek) pişirme yöntemleridir. 'Chop' (doğramak) ise bir hazırlık aşamasıdır."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "I don't like eating lemons because they are too ...............",
+      "answers": [
+        "sweet",
+        "sour",
+        "spicy",
+        "salty"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Limonun tadı ekşidir. İngilizcede ekşi 'sour' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "To make an omelette, you should ............... the eggs in a bowl first.",
+      "answers": [
+        "slice",
+        "dice",
+        "crack",
+        "roast"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Omlet yapmak için öncelikle yumurtaların bir kaseye kırılması gerekir. 'Crack' kırmak anlamına gelir."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "If you want to cut the bread, you need a ...............",
+      "answers": [
+        "spoon",
+        "fork",
+        "knife",
+        "plate"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Ekmeği kesmek için bir bıçağa ihtiyaç vardır. Bıçak İngilizcede 'knife' demektir."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "A: How do you usually cook fish?\nB: I usually ............... it in hot oil. It's unhealthy but delicious.",
+      "answers": [
+        "boil",
+        "steam",
+        "fry",
+        "grill"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Sıcak yağda (in hot oil) yapılan pişirme işlemi kızartmaktır. Kızartmak 'fry' kelimesi ile ifade edilir."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "What are the ............... of a cake?\n- Flour, eggs, sugar, milk and baking powder.",
+      "answers": [
+        "steps",
+        "ingredients",
+        "tools",
+        "recipes"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Un, yumurta, şeker, süt gibi ürünler bir yemeğin malzemeleridir. Malzemeler 'ingredients' demektir."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "Which matching is WRONG?",
+      "answers": [
+        "Oven - Bake",
+        "Pan - Fry",
+        "Saucepan - Boil",
+        "Grater - Pour"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "In the Kitchen",
+      "difficulty": 1,
+      "explanation": "Oven (fırın) ile bake (fırınlamak), Pan (tava) ile fry (kızartmak) eşleşir. Fakat Grater (rende) ile Pour (dökmek) eşleşmez; rende ile 'grate' işlemi yapılır."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "I have a sweet tooth, so I always eat ............... after meals.",
+      "answers": [
+        "dessert",
+        "soup",
+        "salad",
+        "meatball"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "'Have a sweet tooth' tatlıya düşkün olmak demektir. Tatlıya düşkün biri yemekten sonra tatlı (dessert) yer."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "............... means cutting food into very small, square pieces.",
+      "answers": [
+        "Slice",
+        "Dice",
+        "Mash",
+        "Melt"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Yiyecekleri küçük, kare parçalar (küp küp) halinde kesme işlemine 'dice' (küp küp doğramak) denir."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "First, put some oil in a pan. ..............., crack the eggs into it.",
+      "answers": [
+        "Second",
+        "Finally",
+        "Before",
+        "After"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Yemek tariflerinde sıralama yapılırken 'First' (İlk olarak) kelimesinden sonra genellikle 'Second' (İkinci olarak), 'Then' veya 'Next' kullanılır."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "You should ............... the dough for about 10 minutes to make a good bread.",
+      "answers": [
+        "knead",
+        "sprinkle",
+        "sieve",
+        "whisk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Ekmek yapmak için hamuru (dough) yoğurmak gerekir. Yoğurmak eylemi 'knead' kelimesidir."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "A: What is the ............... of this soup?\nB: It is very easy. First, chop the onions...",
+      "answers": [
+        "taste",
+        "recipe",
+        "tool",
+        "ingredient"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "B kişisi çorbanın yapılış aşamalarını (First, chop...) anlattığına göre, A kişisi çorbanın tarifini (recipe) sormuştur."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Salty",
+        "Spicy",
+        "Bitter",
+        "Bowl"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Salty (tuzlu), Spicy (baharatlı) ve Bitter (acı) tat bildiren sıfatlardır. 'Bowl' (kase) ise bir mutfak eşyasıdır."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "If you want to make a healthy meal, you shouldn't eat ............... food.",
+      "answers": [
+        "boiled",
+        "steamed",
+        "grilled",
+        "greasy"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Sağlıklı bir öğün için yağlı (greasy) veya kızartılmış (fried) yiyeceklerden uzak durmak gerekir."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Mother: The cake is ready. Can you ............... some chocolate chips on it?",
+      "answers": [
+        "spread",
+        "sprinkle",
+        "sieve",
+        "squeeze"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Kekin üzerine çikolata parçacıkları (chocolate chips) serpiştirilir. Serpiştirmek 'sprinkle' kelimesidir."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "A: I'd like to make a pizza. Do you know how to make it?\nB: Yes. First, you need to prepare the dough. ..............., spread some tomato sauce on it.",
+      "answers": [
+        "Before",
+        "Next",
+        "Finally",
+        "Until"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Birinci adımdan (First) sonraki adımı bağlamak için 'Next' (ardından/sonra) kullanılır. 'Finally' en son adımdır."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "When you boil potatoes, you put them in a saucepan with some ...............",
+      "answers": [
+        "water",
+        "oil",
+        "flour",
+        "butter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "Haşlama işlemi (boil) suda yapılır. Bu nedenle patatesler tencereye su (water) ile konulur."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "I. Finally, bake it in the oven for 30 minutes.\nII. First, mix the eggs and sugar.\nIII. Next, add the flour and baking powder.\nIV. Then, pour the mixture into a baking tray.\n\nWhat is the correct order of the recipe?",
+      "answers": [
+        "II - III - I - IV",
+        "II - IV - III - I",
+        "II - III - IV - I",
+        "III - II - IV - I"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Tarif sıralaması: First (II) -> Next (III) -> Then (IV) -> Finally (I) şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "Mary: Can I have the recipe for this soup? It's delicious.\nJane: Sure. It is very simple. ...............\nMary: Oh, I'll write them down.",
+      "answers": [
+        "You need some tomatoes, butter and salt.",
+        "You shouldn't eat it too much.",
+        "It takes an hour to cook.",
+        "I hate cooking soup."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Mary tarif (recipe) istiyor ve bunları not alacağını söylüyor. Jane'in ona malzemeleri veya yapılışını vermesi gerekir: 'Domates, tereyağı ve tuza ihtiyacın var'."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "A: How long does it take to bake the cake?\nB: ...............",
+      "answers": [
+        "In the oven.",
+        "About 40 minutes.",
+        "Flour, eggs and milk.",
+        "It is very delicious."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 2,
+      "explanation": "'How long' (ne kadar sürer) sorusu bir süreci/zamanı sorar. 'About 40 minutes' (Yaklaşık 40 dakika) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "If you want to extract the juice of a lemon, you should ............... it.",
+      "answers": [
+        "squeeze",
+        "grate",
+        "fry",
+        "stir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Limonun suyunu çıkarmak için onu sıkmak gerekir. Sıkmak işlemi İngilizcede 'squeeze' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "Which tool is NOT necessary for making a fruit salad?",
+      "answers": [
+        "Knife",
+        "Cutting board",
+        "Oven",
+        "Bowl"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Meyve salatası yapmak için meyveler bıçakla (knife) kesme tahtasında (cutting board) doğranıp kaseye (bowl) alınır. Fırına (oven) ihtiyaç yoktur."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "'Add a ............... of salt into the mixture.' cümlesindeki boşluğa hangi miktar kelimesi gelmelidir?",
+      "answers": [
+        "pinch",
+        "glass",
+        "bunch",
+        "slice"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Tuz, karabiber gibi baharatlar için 'bir tutam' anlamında 'a pinch of' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "After you boil the pasta, you should ............... it to remove the water.",
+      "answers": [
+        "fry",
+        "drain",
+        "mash",
+        "bake"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Makarna haşlandıktan sonra suyunu süzmek gerekir. Süzmek eylemi 'drain' kelimesidir."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "Read the instruction: 'Melt the butter in a pan. Then, add the chopped onions and fry them until they turn brown.'\nWhat should you do BEFORE you add the onions?",
+      "answers": [
+        "Fry the onions.",
+        "Chop the onions.",
+        "Melt the butter.",
+        "Turn off the cooker."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Talimata göre soğanları eklemeden ÖNCE (Before) tavada tereyağını eritmek (Melt the butter) gerekmektedir."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "Turkish people usually prefer boiling or grilling meat. They think frying is not healthy. They also use a lot of spices like chili pepper and cumin.\nAccording to the text, Turkish people ...............",
+      "answers": [
+        "prefer greasy food to boiled food.",
+        "don't like using spices in their meals.",
+        "think grilled meat is healthier than fried meat.",
+        "never eat meat."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Metne göre Türk insanı haşlama ve ızgara tercih eder, kızartmanın sağlıklı olmadığını düşünür. Bu nedenle ızgara eti kızartmaya göre daha sağlıklı bulurlar."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "To make a cake, you need to ............... the flour before adding it to the bowl. It makes the cake softer.",
+      "answers": [
+        "sieve",
+        "dice",
+        "peel",
+        "grill"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Kek yaparken unu kaseye eklemeden önce elemek keki daha yumuşak yapar. Elemek 'sieve' demektir."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "A: ...............?\nB: Put the chicken in a bowl. Add some olive oil, garlic, and spices. Leave it in the fridge for 2 hours.",
+      "answers": [
+        "How do you serve the chicken",
+        "How do you marinate the chicken",
+        "What are the ingredients of the soup",
+        "How long does it take to bake it"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Tavuğu yağ, sarımsak ve baharatla karıştırıp dolapta bekletme işlemi marine etmektir. B kişisi marine işlemini anlattığına göre soru 'Tavuğu nasıl marine edersin?' olmalıdır."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "If a dish consists of tomatoes, cucumbers, peppers, olive oil, and lemon juice, it is probably a ...............",
+      "answers": [
+        "dessert",
+        "soup",
+        "salad",
+        "main course"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "In the Kitchen",
+      "difficulty": 3,
+      "explanation": "Domates, salatalık, biber, zeytinyağı ve limon suyundan oluşan yiyecek muhtemelen bir salatadır (salad)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Maddenin Ayırt Edici Özellikleri",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "Maddenin değişmeyen madde miktarına 'Kütle' denir. Kütleyi ölçmek için aşağıdaki araçlardan hangisi kullanılır?",
+      "answers": [
+        "Dinamometre",
+        "Eşit kollu terazi",
+        "Dereceli silindir",
+        "Termometre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Kütle, cismin içindeki madde miktarıdır ve yer çekimine bağlı değildir. Bu nedenle yaylı araçlarla değil, kefeli (eşit kollu) terazilerle veya dijital terazilerle ölçülür."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Maddenin uzayda kapladığı yere (boşluğa) ne ad verilir?",
+      "answers": [
+        "Ağırlık",
+        "Kütle",
+        "Hacim",
+        "Yoğunluk"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Bir cismin eni, boyu ve yüksekliğiyle doğada kapladığı üç boyutlu alana 'Hacim' denir. Büyük cisimlerin hacmi de büyüktür."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "Şekli düzgün olmayan katı bir taşın hacmini (kapladığı yeri) ölçmek için laboratuvarda hangi araç kullanılır?",
+      "answers": [
+        "Cetvel",
+        "İçinde su bulunan dereceli silindir (mezür)",
+        "Eşit kollu terazi",
+        "Büyüteç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Şekli bozuk cisimleri cetvelle ölçemeyiz. Su dolu dereceli silindire atarız; taş ne kadar hacim kaplıyorsa suyu o kadar santimetreküp (cm³) yukarı taşırır."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "Bir maddenin birim hacmindeki (1 cm³'ündeki) madde miktarına (kütlesine) ne ad verilir?",
+      "answers": [
+        "Ağırlık",
+        "Hız",
+        "Yoğunluk (Özkütle)",
+        "Isı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Yoğunluk, maddenin ne kadar sıkışık paketlendiğini gösterir. Aynı hacimdeki iki maddeden içi daha dolu (kütlesi ağır) olanın yoğunluğu fazladır."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "Fizikte bir maddenin yoğunluğunu hesaplamak için hangi formül (matematiksel işlem) kullanılır?",
+      "answers": [
+        "Kütle ile Hacim çarpılır.",
+        "Kütle, Hacme bölünür. (d = m / v)",
+        "Hacim, Kütleye bölünür.",
+        "Kütle ve Hacim toplanır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Yoğunluk, kütlenin hacme bölünmesiyle bulunur. Birimi ise gram/santimetreküp (g/cm³)'tür."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Bir maddenin kütlesinin birimi 'gram (g)', hacminin birimi ise 'santimetreküp (cm³)' olarak alındığında yoğunluk birimi aşağıdakilerden hangisi olur?",
+      "answers": [
+        "g / cm³",
+        "Newton",
+        "Litre",
+        "cm³ / g"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Formül gereği kütleyi hacme böldüğümüz için, kütle birimini (gram) de hacim birimine (cm³) bölmüş oluruz. Bu yüzden birim g/cm³ şeklinde yazılır."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "Kütlesi 400 gram, hacmi 100 cm³ olan tahta bir bloğun yoğunluğu kaç g/cm³'tür?",
+      "answers": [
+        "0.25",
+        "4",
+        "40000",
+        "300"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Yoğunluk = Kütle / Hacim kuralını uygularız. 400 gramı 100 cm³'e böldüğümüzde (400 / 100) sonuç 4 g/cm³ çıkar."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "Yoğunluğu 2 g/cm³ olan bir metalden yapılmış cismin hacmi 50 cm³'tür. Bu cismin kütlesi kaç gramdır?",
+      "answers": [
+        "25 g",
+        "52 g",
+        "100 g",
+        "200 g"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Yoğunluk formülünde (d = m / v) kütleyi bulmak için yoğunluk ile hacim çarpılır. 2 x 50 = 100 gramdır."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "Bir maddenin 'ayırt edici özelliği' olması ne anlama gelir?",
+      "answers": [
+        "Sadece katı maddelerde bulunması demektir.",
+        "Madde miktarına bağlı olarak sürekli değişmesi demektir.",
+        "Maddenin miktarından bağımsız olarak o madde türüne has olması ve diğer maddelerden ayırmamızı sağlaması demektir.",
+        "Renginin çok parlak olması demektir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Ayırt edici özellik (örneğin yoğunluk), maddenin ne kadar çok veya az olduğuna bakmaz. Altın hep altındır, suyun yoğunluğu hep 1'dir. Bu sayede maddenin cinsini tanırız."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "Saf bir cam parçasını ortadan ikiye böldüğümüzde elde edilen küçük parçanın yoğunluğu ilk duruma göre nasıl değişir?",
+      "answers": [
+        "Yarıya düşer.",
+        "İki katına çıkar.",
+        "Dörtte birine düşer.",
+        "Değişmez, aynı kalır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Camı ikiye bölerseniz kütlesi yarıya düşer ama hacmi de yarıya düşer. Kütle ve hacim aynı oranda azaldığı için bölme işleminin sonucu (yoğunluk) asla değişmez."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Bir cismin suda yüzmesi veya suya batması o cismin hangi özelliğine bağlıdır?",
+      "answers": [
+        "Cismin kütlesine (Ağırlığına)",
+        "Cismin hacmine (Büyüklüğüne)",
+        "Cismin yoğunluğunun suyun yoğunluğuyla olan ilişkisine",
+        "Cismin rengine"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Yüzme ve batma tamamen yoğunluk meselesidir. Tonlarca ağırlıktaki demir gemiler, içindeki hava boşlukları sayesinde yoğunluğu 1'in altına düşürüldüğü için suda batmazlar."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "Suyun yoğunluğu 1 g/cm³'tür. Yoğunluğu 0.8 g/cm³ olan bir cisim suya atıldığında ne olur?",
+      "answers": [
+        "Tamamen dibe batar.",
+        "Suyun yüzeyinde yüzer.",
+        "Suyun içinde asılı kalır.",
+        "Suda eriyerek kaybolur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 1,
+      "explanation": "Kural şudur: Yoğunluğu sıvının yoğunluğundan küçük olan cisimler yüzer, büyük olanlar batar. 0.8 < 1 olduğu için bu cisim su yüzeyinde yüzer."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "Birbiri içinde çözünmeyen X, Y ve Z sıvıları aynı bardağa döküldüğünde; Y sıvısı en dibe çökmüş, Z sıvısı ortada kalmış, X sıvısı ise en üstte yüzmektedir. Bu sıvıların yoğunluklarının büyükten küçüğe sıralaması nasıldır?",
+      "answers": [
+        "X > Z > Y",
+        "Y > X > Z",
+        "Y > Z > X",
+        "Z > Y > X"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Yoğunluğu en büyük olan madde en ağır (sıkışık) olandır ve dibe çöker. En hafif (yoğunluğu küçük) olan ise üstte kalır. Buna göre en yoğun Y, sonra Z, en az yoğun X'tir."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "Kütle-Hacim grafiğinde, doğrunun 'eğimi' bize o maddenin hangi özelliğini verir?",
+      "answers": [
+        "Sıcaklığını",
+        "Yoğunluğunu",
+        "Süratini",
+        "Ağırlığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Matematikte eğim dikey / yataydır. Kütle (dikey) / Hacim (yatay) işlemi bize her zaman d=m/v formülünü, yani o maddenin yoğunluğunu verir."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "Eşit hacimli (boyutları aynı) olan bir demir bilye ile bir plastik bilye tartıldığında, demir bilyenin kütlesinin plastikten çok daha büyük olduğu görülür. Bunun nedeni nedir?",
+      "answers": [
+        "Demirin yoğunluğunun daha büyük olması (Taneciklerinin birbirine daha sıkı ve sıkışık olması)",
+        "Demirin içinin boş olması",
+        "Plastiğin sıcaklığının yüksek olması",
+        "Plastiğin şeklinin bozuk olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Hacimleri (kapladıkları yer) aynı olan iki maddeden, hangisinin tanecikleri daha sıkı istiflenmişse (yoğunluğu büyükse) onun kütlesi daha ağır çeker."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "Eşit kütleli (ikisi de 1 kilogram) olan pamuk ve demir yan yana konulduğunda, pamuğun demirden devasa bir şekilde daha fazla yer (hacim) kapladığı görülür. Bunun nedeni nedir?",
+      "answers": [
+        "Pamuğun kütlesinin daha ağır olması",
+        "Demirin yoğunluğunun (özkütlesinin) pamuktan daha büyük olması, yani taneciklerinin dar bir alana sıkışmış olması",
+        "Pamuğun beyaz renkli olması",
+        "Demirin suda batması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Kütleler aynıysa, yoğunluğu küçük olan maddenin tanecikleri çok geniş bir alana yayılmıştır. Pamuğun yoğunluğu küçük olduğu için 1 kilosu çuval doldurur, demirin 1 kilosu yumruk kadardır."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "Maddeler ısı aldıklarında genellikle genleşirler (hacimleri büyür) ve bu yüzden yoğunlukları azalır. Ancak doğada bu kurala ters düşen ve katı hali sıvı halinin üstünde yüzen (donduğunda yoğunluğu azalan) o mucizevi sıvı hangisidir?",
+      "answers": [
+        "Cıva",
+        "Zeytinyağı",
+        "Su",
+        "Alkol"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Su donarak buza dönüştüğünde, diğer tüm sıvıların aksine hacmi artar (genişler). Hacim artınca yoğunluğu azalır ve buz, suyun dibine batmayıp üstünde yüzer."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Suyun donduğunda hacminin büyümesi ve buz halinde suyun yüzeyinde kalması, doğadaki hangi hayati olayı sağlar?",
+      "answers": [
+        "Güneş'in daha parlak olmasını",
+        "Göllerin ve denizlerin dipten değil 'yüzeyden' donmaya başlamasını sağlayarak, alt kısımdaki suyun ve canlı yaşamının (balıkların) donmasını engeller.",
+        "Suların tamamen kurumasını",
+        "Gemilerin daha hızlı gitmesini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Buz suya batsaydı, göller alttan yukarıya doğru tamamen buz kütlesine dönerdi. Buzun yüzmesi, suyu alttan yalıtkan bir battaniye gibi koruyarak canlıları donmaktan kurtarır."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "Ağzına kadar su dolu bir cam şişe buzluğa konulup donduğunda şişenin çatlayıp patladığı görülür. Şişenin patlama nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Camın soğuktan büzülmesi",
+        "Suyun donarken yoğunluğunun artması",
+        "Suyun donarken hacminin artması (genişlemesi) ve şişeye içeriden basınç yapması",
+        "Buzluktaki gazların şişeyi kırması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Su buza dönüştüğünde kütlesi aynı kalır ama tanecik yapısı gereği hacmi (kapladığı alan) yaklaşık %9 büyür ve kabına sığmayarak şişeyi patlatır."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "Kütleleri 100'er gram olan K, L ve M katı maddelerinin hacimleri sırasıyla 10 cm³, 20 cm³ ve 50 cm³'tür. Bu maddelerin yoğunlukları dikkate alındığında hangisi 'en yoğun' maddedir?",
+      "answers": [
+        "K maddesi",
+        "L maddesi",
+        "M maddesi",
+        "Üçünün de yoğunluğu aynıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Aynı kütleyi (100g) en dar alana sığdıran (hacmi en küçük olan) madde en yoğundur. K'nın yoğunluğu 100/10=10, L'nin 100/20=5, M'nin 100/50=2 g/cm³'tür. En büyük K'dır."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "Hacimleri 40'ar cm³ olan X, Y ve Z sıvılarının kütleleri sırasıyla 80g, 40g ve 20g'dır. Bu üç sıvı aynı bardağa döküldüğünde en altta hangi sıvı bulunur?",
+      "answers": [
+        "Y sıvısı",
+        "X sıvısı",
+        "Z sıvısı",
+        "Hepsi birbirine karışır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Hacimleri aynı iken kütlesi en ağır olan X sıvısı en yoğundur (80/40 = 2 g/cm³). Yoğunluğu en büyük olan daima bardağın en dibine çöker."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "Kışın uçakların kanatları ve uçuş pistleri özel bir sıvı maddeyle yıkanarak buzlanması önlenir. Bu olayda kullanılan maddenin temel işlevi nedir?",
+      "answers": [
+        "Suyun buharlaşma noktasını yükseltmek",
+        "Uçağı daha ağır yapmak",
+        "Suyun donma noktasını sıfırın altına düşürerek (yoğunluğunu ve saf yapısını değiştirerek) suyun geç donmasını sağlamak",
+        "Pisti renklendirmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Suya farklı bir madde (alkol veya özel antifriz) eklendiğinde suyun saflığı bozulur, yoğunluğu değişir ve donma noktası 0'dan örneğin -20'lere kadar düşer."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "Kütle-Hacim grafiğinde X maddesinin çizgisi çok dik (Y eksenine yakın), Y maddesinin çizgisi ise yatık (X eksenine yakın) durumdadır. Buna göre aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Y maddesinin yoğunluğu daha büyüktür.",
+        "X maddesinin yoğunluğu daha büyüktür.",
+        "İki maddenin de kütleleri her zaman eşittir.",
+        "İki maddenin de hacimleri her zaman eşittir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Kütle (Dikey Eksen) ve Hacim (Yatay Eksen) grafiğinde, çizgi ne kadar dikse (kütle eksenine yakınsa) maddenin yoğunluğu o kadar büyüktür demektir."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "Zeytinyağının yoğunluğu 0.9 g/cm³, suyun yoğunluğu ise 1.0 g/cm³'tür. 100 gram zeytinyağı ile 100 gram suyu karşılaştırdığımızda hangi sonuca varırız?",
+      "answers": [
+        "Suyun kapladığı yer (hacmi) zeytinyağından daha fazladır.",
+        "İkisinin de hacimleri birbirine eşittir.",
+        "Zeytinyağının kapladığı yer (hacmi) sudan daha fazladır.",
+        "Zeytinyağı suda batar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Kütleleri aynı ise, yoğunluğu küçük olan madde daha geniş bir alana (hacme) yayılmıştır. Zeytinyağının yoğunluğu küçük olduğu için 100 gramı, sudan daha fazla yer kaplar."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "Bir maddenin sıvı halden katı hale geçerken yoğunluğu artıyorsa (yani hacmi küçülüyorsa), bu maddenin katı hali kendi sıvısının içine atıldığında ne olur?",
+      "answers": [
+        "Sıvının yüzeyinde yüzer.",
+        "Sıvının en dibine batar.",
+        "Sıvının içinde asılı kalır.",
+        "Süblimleşerek gaza dönüşür."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Donarken yoğunluğu artan bir madde, kendi sıvısından daha ağır (daha yoğun) hale gelmiş demektir. Bu nedenle kendi sıvısına atıldığında (bunun tek istisnası olan su hariç) dibe batar."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "Aşağıdaki ifadelerden hangisi yoğunluk (özkütle) kavramı için kesinlikle 'yanlıştır'?",
+      "answers": [
+        "Maddeler için ayırt edici bir özelliktir.",
+        "Aynı sıcaklıktaki saf bir maddenin miktarı arttıkça yoğunluğu da artar.",
+        "Birimi gram/santimetreküp'tür.",
+        "Formülü Kütle / Hacim'dir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Saf bir maddenin sıcaklığı değişmediği sürece miktarı (kütlesi) artsa da yoğunluğu sabit kalır. 1 bardak su ile 1 havuz suyun yoğunluğu aynıdır."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "Kütlesi 120 gram olan bir taş, içi 50 cm³ su dolu dereceli silindire atılıyor. Taş suya atıldıktan sonra silindirdeki su seviyesi 80 cm³'e çıkıyor. Bu taşın yoğunluğu kaçtır?",
+      "answers": [
+        "120 g/cm³",
+        "4 g/cm³",
+        "2 g/cm³",
+        "1.5 g/cm³"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Önce taşın hacmini buluruz: Su 50'den 80'e çıkmış, yani taş 30 cm³'lük yer (hacim) kaplıyor. Kütle 120g, hacim 30cm³. Yoğunluk = 120 / 30 = 4 g/cm³."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "Aynı maddeden yapılmış A ve B cisimleri için A'nın hacmi 10 cm³, B'nin hacmi ise 40 cm³'tür. A'nın kütlesi 30 gram ise B'nin kütlesi kaç gramdır?",
+      "answers": [
+        "30 gram",
+        "120 gram",
+        "40 gram",
+        "70 gram"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Aynı maddeden yapıldıkları için yoğunlukları eşittir. A'nın yoğunluğu 30 / 10 = 3 g/cm³. B'nin de yoğunluğu 3 olmalıdır. B'nin Hacmi 40 olduğuna göre Kütle = 40 x 3 = 120 gramdır."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "Deniz suyunda yüzmek, tatlı su gölünde yüzmekten çok daha kolaydır ve insan bedeni denizde daha çok su yüzeyinde kalır. Bunun fiziksel nedeni nedir?",
+      "answers": [
+        "Deniz suyunun daha soğuk olması",
+        "Deniz suyunun içindeki tuz nedeniyle yoğunluğunun tatlı sudan büyük olması ve daha fazla kaldırma kuvveti uygulaması",
+        "Denizlerin daha derin olması",
+        "Denizlerde dalga olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 2,
+      "explanation": "Suyun içine tuz eklemek suyun yoğunluğunu artırır. Suyun yoğunluğu artınca içindeki cisimlerin batması zorlaşır ve su cismi yüzeye doğru daha güçlü iter."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "Öğretmen sınıf ortamında cıva (sıvı metal), su ve yağ kullanarak bir deney tüpünde 3 farklı renk katmanı oluşturmak istiyor. Yoğunluklara göre (Cıva = 13.6, Su = 1, Yağ = 0.8) bu sıvıların tüpteki sıralaması 'aşağıdan yukarıya' doğru nasıl olur?",
+      "answers": [
+        "Yağ - Su - Cıva",
+        "Su - Yağ - Cıva",
+        "Cıva - Su - Yağ",
+        "Cıva - Yağ - Su"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Ayırt Edici Özellikleri",
+      "difficulty": 3,
+      "explanation": "Karışmayan sıvılarda yoğunluğu en büyük olan en alta geçer. 13.6 ile cıva en altta, 1 ile su ortada, 0.8 ile yağ en üstte yer alır. Aşağıdan yukarı sıralama Cıva - Su - Yağ olur."
+    }
+  ]
+}

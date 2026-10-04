@@ -1,0 +1,425 @@
+{
+  "unit": "Basınç",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "Birim yüzeye etki eden dik kuvvete ne ad verilir?",
+      "answers": [
+        "Ağırlık",
+        "İş",
+        "Basınç",
+        "Enerji"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Basınç, birim alana (yüzeye) dik olarak etki eden kuvvetin (veya ağırlığın) büyüklüğüdür."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "Katı maddelerin bulundukları zemine uyguladıkları basıncın büyüklüğü hangi iki değişkene bağlıdır?",
+      "answers": [
+        "Cismin hacmine ve rengine",
+        "Cismin ağırlığına (kuvvetine) ve yere temas eden yüzey alanına",
+        "Cismin kütlesine ve süratine",
+        "Sıcaklığa ve yüksekliğe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Katı basıncı; cismin ağırlığı (etki eden dik kuvvet) ile doğru orantılı, yere temas eden yüzey alanı ile ters orantılıdır."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "Özdeş tuğlalardan oluşan iki düzenekten birincisinde yere 1 tuğla, ikincisinde ise üst üste 2 tuğla konulmuştur. Bu durum katı basıncının hangi değişkenle ilişkisini kanıtlamak için kullanılır?",
+      "answers": [
+        "Yüzey alanı azaldıkça basınç artar.",
+        "Basınç, cismin hacmiyle ters orantılıdır.",
+        "Temas yüzeyi aynı kalmak şartıyla, ağırlık (kuvvet) arttıkça katı basıncı da artar.",
+        "Ağırlık arttıkça basınç azalır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Zemine değen yüzey alanı aynıyken (tek tuğla yüzeyi), ağırlık 2 katına çıkarıldığı için basınç da ağırlıkla doğru orantılı olarak artar."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "Kışın karda yürürken topuklu ayakkabı giyen birinin kara batması, ancak geniş tabanlı kar ayakkabısı giyen birinin batmaması fiziğin hangi ilkesiyle açıklanır?",
+      "answers": [
+        "Ağırlık arttıkça basıncın azalmasıyla",
+        "Yüzey alanı arttıkça basıncın azalmasıyla",
+        "Yüzey alanı arttıkça basıncın artmasıyla",
+        "Hava basıncının kar yüzeyini etkilemesiyle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Kişinin ağırlığı aynıdır ancak geniş tabanlı ayakkabı kullanıldığında temas yüzeyi artar. Yüzey alanının artması basıncı düşürür ve kara batmayı engeller."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "Aşağıdaki örneklerden hangisinde amaç 'basıncı artırmak'tır?",
+      "answers": [
+        "Ağır iş makinelerinin tekerlek yerine geniş palet kullanması",
+        "Kamyonlarda tekerlek sayısının fazla olması",
+        "Bıçakların kesen tarafının incecik (keskin) yapılması",
+        "Raptiyelerin baş parmakla bastırılan kısmının geniş yapılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Bıçağın ucunun inceltilmesi yüzey alanını küçültür. Yüzey alanı küçüldüğünde basınç artar ve böylece kesme işlemi çok daha kolay yapılır."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "Bir çiviye çekiçle vurulduğunda, çivinin geniş olan baş kısmına uygulanan kuvvet ile çivinin tahtaya batan sivri ucu arasındaki kuvvet-basınç ilişkisi nasıldır?",
+      "answers": [
+        "Katılar kuvveti aynı doğrultuda aynen iletir ancak sivri uçta yüzey küçüldüğü için basınç artar.",
+        "Katılar basıncı aynen iletir, kuvveti değiştirir.",
+        "Sivri uçta kuvvet azalır, basınç azalır.",
+        "Çivinin her yerinde basınç eşittir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Katı maddeler üzerlerine uygulanan 'kuvveti' yönünü ve şiddetini değiştirmeden aynen iletir. Ancak sivri uçta yüzey alanı çok küçük olduğu için iletilen bu kuvvet devasa bir 'basınca' dönüşür."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "Masada duran dikdörtgenler prizması şeklindeki kaşar peyniri, yere dik (yukarıdan aşağıya doğru) bir şekilde bıçakla tam ortadan iki eşit parçaya kesiliyor. Peynirin masaya uyguladığı basınç ilk duruma göre nasıl değişir?",
+      "answers": [
+        "Yarıya düşer.",
+        "İki katına çıkar.",
+        "Değişmez.",
+        "Dörtte birine düşer."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Peynir dik olarak kesildiğinde ağırlığı yarıya düşer ancak yere değen yüzey alanı da yarıya düşer. Ağırlık ve yüzey alanı aynı oranda azaldığı için (P=F/S) basınç değişmez."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "İki ayağı üzerinde dikilen bir çocuk, tek ayağını havaya kaldırıp sadece bir ayağı üzerinde durmaya başladığında yere uyguladığı kuvvet (ağırlık) ve basınç nasıl değişir?",
+      "answers": [
+        "Kuvvet artar, basınç artar.",
+        "Kuvvet değişmez, basınç 2 katına çıkar.",
+        "Kuvvet azalır, basınç değişmez.",
+        "Kuvvet değişmez, basınç yarıya düşer."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Çocuğun kütlesi (ağırlığı/kuvveti) sabittir. Ancak tek ayak üzerinde durduğunda yere temas eden yüzey alanı yarıya indiği için basınç iki katına çıkar."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "Sıvıların bulundukları kabın yüzeylerine uyguladığı sıvı basıncı aşağıdakilerden hangilerine bağlıdır?",
+      "answers": [
+        "Sadece kabın şekline",
+        "Sıvının derinliğine (h) ve sıvının yoğunluğuna (d)",
+        "Sıvının hacmine ve kabın rengine",
+        "Sıvının kütlesine ve kabın genişliğine"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Sıvı basıncı; sıvının yüzeyden olan derinliği, sıvının özkütlesi (yoğunluğu) ve yer çekimi ivmesi ile doğru orantılıdır. Kabın şekli veya sıvı miktarı (hacim) basıncı etkilemez."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "İçi tamamen su dolu olan bir pet şişenin aynı dikey hizada açılan K (en üstte), L (ortada) ve M (en altta) deliklerinden fışkıran suların uzağa gitme mesafeleri nasıldır?",
+      "answers": [
+        "En uzağa K deliğinden fışkırır.",
+        "Hepsi aynı mesafeye fışkırır.",
+        "En uzağa M deliğinden fışkırır çünkü derinlik en fazladır.",
+        "Ortadaki L deliğinden en uzağa fışkırır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Sıvı basıncı derinlik arttıkça artar. En alttaki M deliğinin üzerindeki su sütunu (derinlik) en fazla olduğu için basınç en yüksektir ve su en uzağa fışkırır."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "Hidroelektrik santrallerinde inşa edilen baraj duvarlarının üst kısmı ince yapılırken, dibe (aşağıya) inildikçe duvarların çok daha kalın ve dayanıklı inşa edilmesinin temel nedeni nedir?",
+      "answers": [
+        "Alt kısımda suyun daha soğuk olması",
+        "Derinlik arttıkça artan sıvı basıncının baraj duvarını yıkmasını engellemek",
+        "Estetik ve güzel bir görünüm sağlamak",
+        "Güneş ışığının tabana ulaşmasını engellemek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Sıvı basıncı derinlikle doğru orantılı olarak artar. Barajın dibinde suyun uyguladığı basınç devasa boyutlardadır, bu basınca dayanması için taban duvarı çok kalın yapılır."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "Kapalı bir kaptaki sıvıya dışarıdan uygulanan basıncın, sıvı tarafından kabın iç yüzeyindeki her noktaya aynı büyüklükte (aynen) iletilmesine ne ad verilir?",
+      "answers": [
+        "Arşimet Prensibi",
+        "Newton Yasası",
+        "Torricelli Deneyi",
+        "Pascal Prensibi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Sıvılar sıkıştırılamadıkları için üzerlerine uygulanan basıncı her yöne ve aynı büyüklükte iletirler. Bu ilkeye Pascal Prensibi denir."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "Aşağıdaki teknolojik araçlardan hangisi sıvıların basıncı aynen iletmesi kuralına (Pascal Prensibine) göre çalışmaz?",
+      "answers": [
+        "Otomobillerdeki hidrolik fren sistemleri",
+        "İtfaiye merdivenleri (Hidrolik kaldıraçlar)",
+        "Berber koltukları",
+        "Uzay roketlerinin motorları"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Hidrolik frenler, itfaiye merdivenleri, kepçeler, berber koltukları ve su cendereleri Pascal Prensibi (sıvı basıncının iletimi) ile çalışır. Roket motorları ise itki ve gaz basıncı/yanma sistemidir."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "Küçük bir piston üzerine uygulanan küçük bir kuvvetle elde edilen sıvı basıncının, aynı sistemdeki devasa pistonlara iletilerek tonlarca ağırlığındaki arabaları kaldırmayı sağlayan aletlere ne ad verilir?",
+      "answers": [
+        "Su cenderesi",
+        "Barometre",
+        "Dinamometre",
+        "Kalorimetre"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Su cendereleri, Pascal Prensibi'nin en net görüldüğü araçlardır. Küçük yüzeydeki küçük kuvvetin yarattığı basınç, sıvıyla iletilerek büyük yüzeyde büyük bir kaldırma kuvveti doğurur."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "Şekilleri ve genişlikleri birbirinden farklı olan, ancak tabanları birleştirilmiş kaplardan (bileşik kaplardan) oluşan bir sisteme su doldurulduğunda kollardaki su seviyeleri nasıl olur?",
+      "answers": [
+        "Geniş kapta su daha yüksek olur.",
+        "İnce (dar) kapta su daha yüksek olur.",
+        "Tüm kaplardaki su seviyesi birbirine eşit olur.",
+        "Ortadaki kapta daha düşük olur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Bileşik kaplarda kabın şekli veya genişliği önemli değildir. Sıvı basıncının dengelenmesi için tüm kollarda sıvı aynı yüksekliğe çıkar."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Derinlikleri (h) aynı olan iki kapta, birinde su (d=1 g/cm3), diğerinde zeytinyağı (d=0.9 g/cm3) bulunmaktadır. Kapların tabanına etki eden sıvı basınçları karşılaştırıldığında sonuç ne olur?",
+      "answers": [
+        "Suyun basıncı zeytinyağının basıncından büyüktür.",
+        "Zeytinyağının basıncı suyun basıncından büyüktür.",
+        "Basınçlar birbirine eşittir.",
+        "Yüzey alanı bilinmeden yorum yapılamaz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Sıvı basıncı derinliğe ve yoğunluğa bağlıdır. Derinlikler aynıysa, yoğunluğu büyük olan sıvının (suyun) tabana yaptığı basınç da büyük olur."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "Dünya'yı saran atmosfer tabakasındaki gazların ağırlığı ve hareketliliği nedeniyle içindeki cisimlere uyguladığı basınca ne ad verilir?",
+      "answers": [
+        "Sıvı basıncı",
+        "Açık hava basıncı (Atmosfer basıncı)",
+        "Hidrolik basınç",
+        "Yer çekimi ivmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Atmosferi oluşturan gaz moleküllerinin hem ağırlıklarından hem de hareketlerinden dolayı temas ettikleri tüm yüzeylere uyguladıkları güce açık hava basıncı denir."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "Açık hava basıncını ilk defa deniz seviyesinde, 0°C sıcaklıkta, içi cıva dolu 1 metrelik cam boru ile ölçen ve sonucu 76 cmHg bulan İtalyan bilim insanı kimdir?",
+      "answers": [
+        "Blaise Pascal",
+        "Isaac Newton",
+        "Evangelista Torricelli",
+        "Albert Einstein"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Torricelli, açık hava basıncının cıva sütununu 76 cm yüksekliğe kadar itebildiğini (dengelediğini) ispatlamıştır."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "Torricelli deneyinde cıva (d=13,6 g/cm3) yerine aynı şartlarda su (d=1 g/cm3) kullanılsaydı, cam borudaki sıvı yüksekliği (h) nasıl değişirdi?",
+      "answers": [
+        "Yine 76 cm olurdu.",
+        "76 cm'den çok daha düşük olurdu.",
+        "76 cm'den çok daha fazla (yaklaşık 10.5 metre) olurdu.",
+        "Su boruya hiç girmezdi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Açık hava basıncı sabitken yoğunluğu küçük olan bir sıvı kullanıldığında, aynı basıncı dengelemek için çok daha uzun (yüksek) bir sıvı sütununa ihtiyaç duyulur."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "Açık hava basıncını ölçmek için kullanılan ölçüm aletine ne ad verilir?",
+      "answers": [
+        "Altimetre",
+        "Dinamometre",
+        "Barometre",
+        "Manometre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Atmosfer basıncını (açık hava basıncını) ölçen aletlere barometre denir."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "Deniz seviyesinden yüksek dağlara doğru (yukarıya) çıkıldıkça açık hava basıncı nasıl değişir?",
+      "answers": [
+        "Sürekli artar.",
+        "Değişmez.",
+        "Atmosferin kalınlığı (üzerimizdeki gaz miktarı) azaldığı için azalır.",
+        "Önce artar, zirvede azalır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Yükseklere çıkıldıkça üzerimizde bulunan hava sütununun ağırlığı (yoğunluğu) azalır. Bu nedenle deniz seviyesinden yukarılara çıkıldıkça açık hava basıncı düşer."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "Esnek bir uçan balon gökyüzüne doğru serbest bırakılıyor. Yükseldikçe balonun hacminde nasıl bir değişim gözlenir?",
+      "answers": [
+        "Dışarıdaki açık hava basıncı azaldığı için balonun iç basıncı galip gelir ve balon şişerek (hacmi artarak) yükselir, en sonunda patlar.",
+        "Hava soğuduğu için büzülür ve hacmi küçülür.",
+        "Dış basınç arttığı için balon içe doğru çöker.",
+        "Hacmi hiçbir şekilde değişmez."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Yükseklere çıkıldıkça açık hava (dış) basıncı azalır. Esnek balonun içindeki gaz dışarıya daha rahat baskı yapar ve balon genişler, sınırı aşınca patlar."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "İçi tamamen su dolu bardağın ağzı kağıtla kapatılıp hava almayacak şekilde ters çevrildiğinde, suyun dökülmeden bardakta kaldığı görülür. Bu deney neyin varlığını kanıtlar?",
+      "answers": [
+        "Suyun kağıdı yapıştırdığını",
+        "Yer çekiminin kaybolduğunu",
+        "Aşağıdan yukarıya doğru etki eden açık hava basıncının, suyun ağırlığından (sıvı basıncından) büyük olduğunu",
+        "Kağıdın içindeki gazların basıncını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Ters çevrilmiş bardaktaki suyun ağırlığı aşağı yönde bir basınç yapar. Ancak bardağın ağzındaki kağıda alttan etki eden açık hava basıncı bu ağırlığı yener ve suyu tutar."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "Kapalı kaplardaki gazların (tüpler, otomobil lastikleri) basıncını ölçmeye yarayan aletlere ne ad verilir?",
+      "answers": [
+        "Barometre",
+        "Manometre",
+        "Termometre",
+        "Kumpas"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Açık hava basıncını barometre ölçerken; araç lastiği, oksijen tüpü veya deodorant şişesi gibi kapalı sistemlerdeki gaz basıncını ölçen alete Manometre denir."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "Otomobil lastiği, bisiklet tekerleği veya bir futbol topu şişirildiğinde şeklinin her yönden düzgün ve eşit bir şekilde büyümesinin (şişmesinin) nedeni nedir?",
+      "answers": [
+        "Gazların sadece yukarı doğru basınç yapması",
+        "Gazların kabın (lastiğin) iç yüzeyindeki her noktaya eşit büyüklükte basınç uygulaması",
+        "Sürtünme kuvvetinin olmaması",
+        "Lastiğin dışarıdan çekilmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Kapalı kaptaki gaz molekülleri sürekli hareket halindedir ve kabın iç yüzeyinin her yerine çarparak her noktada eşit basınç oluştururlar."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "Pipet ile meyve suyu kutusundan içecek içerken, kutunun büzüşüp içine çökmesinin (yamulmasının) nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Açık hava basıncının kutunun iç basıncından daha büyük hale gelmesi",
+        "Sıvı basıncının artması",
+        "Pipetin kutuya mekanik bir kuvvet uygulaması",
+        "Kutunun ıslanarak yumuşaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 2,
+      "explanation": "Pipetle sıvı çekildiğinde kutunun içindeki hava ve sıvı azalır (iç basınç düşer). Dışarıdan etki eden açık hava basıncı üstün gelir ve kutuyu ezer."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "1654 yılında Almanya'nın Magdeburg şehrinde, iki yarım küre birleştirilip içindeki hava vakumla (pompalanarak) boşaltılmıştır. Daha sonra küreleri ayırmak için her iki tarafa sekizer tane at bağlanmış ancak atlar küreleri ayıramamıştır. Bu ünlü 'Magdeburg Yarımküreleri Deneyi' neyi ispatlar?",
+      "answers": [
+        "Atların yeterince güçlü olmadığını",
+        "Açık hava basıncının ne kadar büyük (muazzam) bir güce sahip olduğunu",
+        "Vakumlanan cisimlerin yapıştırıcı ürettiğini",
+        "Kürelerin paslanarak birbirine kaynadığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Kürelerin içindeki hava boşaltılınca iç basınç sıfırlanmış, dışarıdaki devasa açık hava basıncı küreleri birbirine o kadar güçlü sıkıştırmıştır ki atlar bile ayıramamıştır."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "Fayanslara veya cama tutturulan plastik vantuzların (askıların) içindeki hava bastırılarak boşaltıldığında yüzeye sıkıca yapışması hangi basıncın etkisidir?",
+      "answers": [
+        "Katı basıncı",
+        "Sıvı basıncı",
+        "Kapalı kaplardaki gaz basıncı",
+        "Açık hava basıncı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Basınç",
+      "difficulty": 1,
+      "explanation": "Vantuzun içindeki hava boşaltılınca, dışarıdaki açık hava basıncı vantuza büyük bir kuvvetle bastırarak onun cam yüzeye mühürlenmesini (yapışmasını) sağlar."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "Elektrikli süpürgenin tozu ve kiri borusundan içeri doğru çekebilmesinin çalışma prensibi nasıl açıklanır?",
+      "answers": [
+        "Süpürgenin motorunun içindeki havayı dışarı atarak içeride 'Alçak Basınç' oluşturması ve dışarıdaki yüksek açık hava basıncının tozu içeri doğru itmesi",
+        "Süpürgenin tozu yakan bir lazer üretmesi",
+        "Süpürgenin statik elektrik üretmesi",
+        "Motorun sadece fırçayı döndürmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Elektrikli süpürge havayı arkadan dışarı üfler, içeride vakum (alçak basınç) oluşur. Dışarıdaki açık hava, borudan içeri doğru hücum ederken tozları da sürükler."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "Şırınganın (enjektörün) pistonu geriye doğru çekildiğinde sıvı ilacın şırınganın içine dolmasını sağlayan fiziksel olayların doğru sıralaması nedir?",
+      "answers": [
+        "Piston çekilince içerideki basınç düşer, dışarıdaki açık hava basıncı sıvıyı ittirerek şırınganın içine doldurur.",
+        "Sıvı basıncı açık hava basıncını yener ve sıvı kendiliğinden yukarı çıkar.",
+        "Şırınga sıvıyı mıknatıs gibi çeker.",
+        "Piston itildiğinde sıvı içeri girer."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Basınç",
+      "difficulty": 3,
+      "explanation": "Piston çekildiğinde şırınganın içindeki hacim artar ve basınç düşer. Şişedeki sıvıya dışarıdan etki eden açık hava basıncı galip gelerek sıvıyı şırınganın içine doğru iter."
+    }
+  ]
+}

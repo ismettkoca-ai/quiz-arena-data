@@ -1,0 +1,425 @@
+{
+  "unit": "İstatistiksel Araştırma Süreci",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "Belli bir konuda bilgi toplamak için belirli bir gruba yöneltilen ve birden fazla farklı veri (cevap) elde edilebilen sorulara ne ad verilir?",
+      "answers": [
+        "Araştırma sorusu",
+        "Kişisel soru",
+        "Matematik sorusu",
+        "Denklem"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Birden fazla farklı yanıt alınabilen ve istatistiksel bir bilgi toplamak amacıyla sorulan sorulara 'araştırma sorusu' denir."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "Aşağıdakilerden hangisi bir araştırma sorusu OLABİLİR?",
+      "answers": [
+        "Türkiye'nin başkenti neresidir?",
+        "Okulumuzdaki 5. sınıf öğrencilerinin en sevdiği spor dalı nedir?",
+        "Bir hafta kaç gündür?",
+        "En küçük asal sayı kaçtır?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Araştırma sorusunun tek ve kesin bir cevabı olmamalı, gruptan gruba (veya kişiden kişiye) farklı veriler toplanabilmelidir. B şıkkında öğrencilerden futbol, basketbol gibi farklı yanıtlar toplanabilir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Aşağıdakilerden hangisi bir araştırma sorusu DEĞİLDİR?",
+      "answers": [
+        "Sınıfımızdaki öğrencilerin tuttukları futbol takımları hangileridir?",
+        "Öğretmenlerimizin tatilde gitmeyi en çok tercih ettiği şehir neresidir?",
+        "Matematik öğretmenimizin arabasının rengi nedir?",
+        "Mahallemizdeki insanların en çok izlediği televizyon programı nedir?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Matematik öğretmeninin arabasının rengi tek, kesin ve herkes için aynı olan bir cevaptır. Bu nedenle bir araştırma sorusu değildir."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "Araştırma sonucunda toplanan verilerin her biri için bir çizgi çizilerek oluşturulan ve genellikle beşerli gruplar (dört dikey, bir eğik çizgi) halinde gösterilen tabloya ne ad verilir?",
+      "answers": [
+        "Sıklık tablosu",
+        "Çetele tablosu",
+        "Sütun grafiği",
+        "Zaman çizelgesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Çizgiler (çentikler) kullanılarak oluşturulan ve sayıların beşli gruplar halinde sayılmasını kolaylaştıran tabloya 'çetele tablosu' denir."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "Çetele tablosundaki çizgilerin sayılarak rakamlarla (sayılarla) ifade edildiği tabloya ne ad verilir?",
+      "answers": [
+        "Çetele tablosu",
+        "Sıklık tablosu",
+        "Sütun grafiği",
+        "Araştırma tablosu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Verilerin sayılar (rakamlar) ile gösterildiği tablolara 'sıklık tablosu' adı verilir."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "Bir araştırma sorusuna cevap verecek olan gruba (örneğin; okuldaki öğrenciler, mahalledeki insanlar vb.) istatistikte ne ad verilir?",
+      "answers": [
+        "Örneklem (Hedef Kitle)",
+        "Araştırmacı",
+        "Sıklık",
+        "Veri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Üzerinde araştırma yapılan, veri toplanan gruba 'örneklem' veya 'hedef kitle' denir."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "Belli bir topluluğa hazırlanan soruların sorulup cevapların yazılı olarak alındığı veri toplama yöntemine ne ad verilir?",
+      "answers": [
+        "Gözlem",
+        "Deney",
+        "Anket",
+        "Çetele"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "İnsanlara sorular sorularak ve cevap şıkları sunularak yazılı veri toplama işlemine 'anket' denir."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "Bir sınıftaki 30 öğrenciye en sevdikleri renk sorulmuştur. Mavi: 12, Kırmızı: 8, Yeşil: 6 öğrenci olduğuna göre, sarı rengi seven kaç öğrenci vardır?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Verilen öğrenci sayılarını toplarız: 12 + 8 + 6 = 26. Toplam 30 öğrenci olduğu için sarı sevenler: 30 - 26 = 4 kişidir."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Bir manavda bir günde satılan meyve miktarları şöyledir: Elma 40 kg, Armut 25 kg, Muz 15 kg, Portakal 30 kg. Bu verilerle oluşturulacak sütun grafiğinde en uzun sütun hangi meyveye ait olur?",
+      "answers": [
+        "Armut",
+        "Portakal",
+        "Elma",
+        "Muz"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Sütun grafiğinde en fazla miktara sahip olan veri, en uzun sütun ile gösterilir. 40 kg ile Elma en fazladır."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Bir sütun grafiğinde eksenler isimlendirilirken nelere dikkat edilmelidir?",
+      "answers": [
+        "Eksenlere sadece sayılar yazılmalıdır.",
+        "Yatay ve dikey eksenlerin neyi ifade ettiği (isimleri ve birimleri) mutlaka yazılmalıdır.",
+        "Sadece yatay eksene isim vermek yeterlidir.",
+        "Eksen isimleri önemsizdir, sadece renkler önemlidir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Bir grafiğin doğru okunabilmesi için eksenlerin neyi temsil ettiği (örneğin; Günler ve Satış Miktarı) mutlaka yazılmalıdır."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "Bir kütüphanede günlere göre okunan kitap sayısı sıklık tablosunda şu şekildedir: Pzt: 15, Sal: 20, Çar: 10, Per: 25, Cum: 30. Bu kütüphanede hafta içi toplam kaç kitap okunmuştur?",
+      "answers": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Tüm günlerin toplamını buluruz: 15 + 20 + 10 + 25 + 30 = 100 kitap."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "Bir otoparktaki araçların renklerine göre çetele tablosu tutulmuştur. Siyah araçlar için 3 adet beşli grup ve 2 adet tekli çizgi çizilmiştir. Buna göre otoparkta kaç tane siyah araç vardır?",
+      "answers": [
+        "12",
+        "15",
+        "17",
+        "20"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Çetele tablosunda her beşli grup 5'i temsil eder. 3 tane beşli grup: 3 · 5 = 15. 2 tane de tek çizgi eklenirse: 15 + 2 = 17 araç vardır."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "Bir sınıftaki öğrencilere 'En sevdiğiniz mevsim hangisidir?' sorusu yöneltilmiştir. Öğrencilerin 12'si yaz, 8'i kış, 6'sı ilkbahar ve geri kalanlar sonbahar yanıtını vermiştir. Sonbahar diyenlerin sayısı ilkbahar diyenlerin sayısından 2 eksik olduğuna göre bu sınıfın mevcudu kaçtır?",
+      "answers": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "İlkbahar 6 kişi ise, Sonbahar = 6 - 2 = 4 kişidir. Sınıf mevcudu = 12 (Yaz) + 8 (Kış) + 6 (İlkbahar) + 4 (Sonbahar) = 30 kişidir."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "Bir kitapçıdaki kitap türlerinin sayıları şöyledir: Hikaye 45, Roman 60, Şiir 20, Bilim 35. Bu verilere uygun çizilecek sütun grafiğinde dikey eksendeki sayıların (ölçek) kaçar kaçar artması en uygun olur?",
+      "answers": [
+        "1'er 1'er",
+        "2'şer 2'şer",
+        "5'er 5'er",
+        "50'şer 50'şer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Sayılar 20, 35, 45, 60 gibi 5'in katları olan orta büyüklükte sayılardır. Grafikte sayı doğrusunu 5'er 5'er (5, 10, 15... 60) artırmak okumayı ve çizmeyi en kolay hale getirir."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "Aşağıdaki konulardan hangisi için araştırma sorusu oluşturulurken hedef kitle (örneklem) olarak 'hastanedeki doktorlar' seçilmelidir?",
+      "answers": [
+        "En çok tercih edilen oyuncak çeşitleri nelerdir?",
+        "Nöbet tutarken yaşanılan en büyük zorluklar nelerdir?",
+        "Okul kantininde en çok satılan yiyecek nedir?",
+        "Pazarda satılan meyvelerin taze olup olmadığı nasıl anlaşılır?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Nöbet tutma zorlukları tıbbi ve mesleki bir konu olduğu için bu sorunun sorulacağı en uygun hedef kitle hastanedeki doktorlar veya hemşirelerdir."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Bir çiftlikteki hayvan sayısını gösteren grafikte Tavuklar: 50, Koyunlar: 30, İnekler: 20 ve Keçiler: 10 olarak verilmiştir. Bu çiftlikteki tavukların sayısı, diğer tüm hayvanların toplam sayısından kaç fazladır?",
+      "answers": [
+        "10",
+        "Yoktur, eşit sayıdadır.",
+        "5",
+        "Tavuklar daha azdır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Tavuk sayısı: 50. Diğer hayvanların toplamı: 30 (Koyun) + 20 (İnek) + 10 (Keçi) = 60'tır. Tavuklar (50), diğerlerinden (60) daha fazladır diyemeyiz, daha azdır. (Soru 'kaç eksiktir' olmalıydı, yanıt 'Tavuklar daha azdır' olur)."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "Bir fırının 4 günde sattığı ekmek sayısını gösteren sütun grafiğinde sütun uzunlukları sırasıyla; Pzt: 120, Sal: 150, Çar: 110, Per: 140 şeklindedir. Fırıncı her ekmeği 5 TL'den sattığına göre bu 4 günde toplam kaç TL kazanmıştır?",
+      "answers": [
+        "2100",
+        "2400",
+        "2600",
+        "3100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Satılan toplam ekmek sayısı: 120 + 150 + 110 + 140 = 520 adet. 520 ekmek x 5 TL = 2600 TL gelir elde edilmiştir."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "Bir otomobil galerisinde satılan araç renkleri grafikte verilmiştir: Beyaz: 45, Siyah: 30, Gri: x, Kırmızı: 15. Galeride toplam 110 araç satıldığına göre, gri araç satışı kırmızı araç satışından kaç fazladır?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Gri hariç toplam: 45 (Beyaz) + 30 (Siyah) + 15 (Kırmızı) = 90. Gri araç sayısı (x) = 110 - 90 = 20'dir. Gri (20), Kırmızıdan (15) 20 - 15 = 5 fazladır."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Bir sütun grafiğinde dikey eksende sayılar sıfırdan başlamayıp zikzak (kopukluk) ile 100'den başlatılırsa ve sütunlar arasındaki fark 1 veya 2 birim olursa, grafiğe bakan kişide nasıl bir algı yanılması (yanıltıcı grafik) oluşabilir?",
+      "answers": [
+        "Grafik daha estetik ve renkli görünür.",
+        "Değerler arasındaki küçük farklar, sanki çok büyükmüş gibi (abartılı) görünür.",
+        "Sayıların okunması tamamen imkansız hale gelir.",
+        "Hiçbir algı değişikliği olmaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Sıfırdan başlamayan (kesilmiş) eksenler, sütun boyları arasındaki küçük matematiksel farkların görsel olarak çok devasa boyutlardaymış gibi algılanmasına neden olur."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Bir oylamada sınıf başkanı adaylarının aldığı oylar çetele tablosunda gösterilmiştir. Ali: 2 beşli, 1 dörtlü grup; Ayşe: 3 beşli grup; Can: 1 beşli, 1 ikili grup. Oylamayı kazanan kimdir ve kaç oy almıştır?",
+      "answers": [
+        "Ali - 14",
+        "Ayşe - 15",
+        "Ali - 15",
+        "Can - 7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Ali = 5+5+4=14 oy. Ayşe = 5+5+5=15 oy. Can = 5+2=7 oy. En çok oyu alan Ayşe'dir ve 15 oy almıştır."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "Grafik: Aylar ve Okunulan Sayfa Sayısı. Ocak: 200, Şubat: 150, Mart: 250, Nisan: 300. Bu öğrencinin en çok okuduğu ay ile en az okuduğu ay arasındaki sayfa farkı kaçtır?",
+      "answers": [
+        "100",
+        "150",
+        "200",
+        "300"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "En çok okuduğu ay Nisan (300), en az okuduğu ay Şubat (150). Fark: 300 - 150 = 150'dir."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "Bir veri grubunda elde edilen veriler sıklık tablosuna geçirilirken bir hatayla 8 olan değer 12 olarak yazılmıştır. Bu tabloya bakarak oluşturulan sütun grafiği için ne söylenebilir?",
+      "answers": [
+        "Sütun grafiği bu hatayı otomatik düzeltir.",
+        "Hatalı veri içeren grafiğe güvenilemez, istatistiksel sonuçlar yanlış çıkar.",
+        "Sadece o sütunun rengi değişir.",
+        "Grafik çizilemez, bilgisayar hata verir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "İstatistiksel araştırmalarda verilerin doğru kaydedilmesi esastır. Hatalı veri ile çizilen grafik yanıltıcı sonuçlara ulaştırır."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "Haftanın günlerine göre sıcaklık değerlerini göstermek için sütun grafiği çizilmiştir. Pzt: 18°C, Sal: 22°C, Çar: 20°C, Per: 15°C, Cum: 19°C. Haftanın en soğuk gününde sıcaklık kaç derecedir?",
+      "answers": [
+        "15°C",
+        "18°C",
+        "19°C",
+        "22°C"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Sütunların en kısa olanı (sayıca en düşük değer) en soğuk günü gösterir. Bu da 15°C ile Perşembe günüdür."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "Anket soruları hazırlanırken dikkat edilmesi gereken en önemli kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sorular anlaşılır, tarafsız ve amaca uygun olmalıdır.",
+        "Sorular herkesin evet diyeceği şekilde sorulmalıdır.",
+        "Sadece çok uzun sorular seçilmelidir.",
+        "Kişileri yönlendiren (örneğin; dünyanın en güzel rengi mavidir değil mi?) sorular sorulmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Anket soruları katılımcıları yönlendirmemeli, net, tarafsız ve araştırma konusuyla birebir ilgili olmalıdır."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "Bir pastanedeki kek çeşitlerinin satış sayıları: Kakaolu 40, Meyveli 25, Havuçlu 15, Limonlu 20. Bu verilerle bir sütun grafiği çizildiğinde, Kakaolu kek sütunu, Havuçlu kek sütunundan ne kadar uzundur?",
+      "answers": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Kakaolu 40, Havuçlu 15 olduğuna göre aralarındaki boy (değer) farkı 40 - 15 = 25 birim olur."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "24 kişilik bir sınıftaki öğrencilere sevdikleri dondurma çeşitleri sorulmuştur. Vanilyalı 6, Kakaolu 10, Çilekli 8 kişi tarafından seçilmiştir. Buna göre Çilekli dondurma sevenler, sınıfın kaçta kaçını (kesir olarak) oluşturur?",
+      "answers": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "3/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Çilekli sevenler 8 kişidir. Sınıfın tamamı 24 kişidir. Kesir olarak 8/24 yazılır. İkisi de 8 ile sadeleştirilirse 1/3 elde edilir."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Bir teknoloji mağazasında son 3 ayda satılan telefon sayıları grafikte verilmiştir: 1. Ay: 100, 2. Ay: 150, 3. Ay: x. 3 aylık toplam satış 400 adet olduğuna göre 3. ay satışlarının, 1. ay satışlarına oranı (farkı değil, katı) kaçtır?",
+      "answers": [
+        "1,5 katı",
+        "2 katı",
+        "2,5 katı",
+        "3 katı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "1. ve 2. ay toplamı 100 + 150 = 250'dir. 3. Ay (x) = 400 - 250 = 150'dir. 3. ay 150, 1. ay 100 olduğuna göre oran 150 / 100 = 1,5 katıdır."
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Sıklık tablosunda ve sütun grafiğinde aynı veriler gösterilmektedir. Bir verinin değerinin 0 (sıfır) olduğu durumda grafik nasıl görünür?",
+      "answers": [
+        "Sütun çok uzun çizilir.",
+        "Sütun kesik çizgilerle gösterilir.",
+        "Sütun çizilmez, o kategori eksen hizasında kalır (boşluk görünür).",
+        "Grafik o kategoriyi otomatik olarak siler."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Sütun grafiğinde veri değeri 0 ise yükseklik olmaz, yani eksen üzerinde hiçbir sütun yükselmez (çizgi düzeyinde kalır)."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "Bir kargo şirketi Pazartesi 40, Salı 50, Çarşamba 30 paket teslim etmiştir. Şirket müdürü, günlük teslimat hedefini 'günde 45 paket' olarak belirlemiştir. Bu üç günlük veriye göre, hedefin yakalanması için Perşembe günü en az kaç paket teslim edilmelidir?",
+      "answers": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "4 günlük hedef toplamı = 4 · 45 = 180 paket olmalıdır. İlk 3 günde teslim edilen: 40 + 50 + 30 = 120 paket. Perşembe günü teslim edilmesi gereken: 180 - 120 = 60 pakettir."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "Bir sinemadaki filmlere giden seyirci sayıları: Komedi 80, Aksiyon 120, Animasyon 100'dür. Aksiyon filmine giden seyircilerin yarısı çocuk olduğuna göre, aksiyon filmindeki çocuk seyirci sayısı, animasyon filmindeki toplam seyirci sayısından kaç eksiktir?",
+      "answers": [
+        "20",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Aksiyon filmine giden çocuk sayısı: 120 / 2 = 60'tır. Animasyon seyircisi: 100'dür. Fark: 100 - 60 = 40'tır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Şekiller",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "Ölçüleri toplamı 90° olan iki açıya ne ad verilir?",
+      "answers": [
+        "Bütünler açılar",
+        "Tümler açılar",
+        "Ters açılar",
+        "Yöndeş açılar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "İki açının ölçüleri toplamı 90 derece ise bu açılara 'tümler açılar' denir."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Ölçüleri toplamı 180° olan iki açıya ne ad verilir?",
+      "answers": [
+        "Tümler açılar",
+        "Ters açılar",
+        "Bütünler açılar",
+        "İç ters açılar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "İki açının ölçüleri toplamı 180 derece ise bu açılara 'bütünler açılar' denir. Doğru açı da 180 derecedir."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "Ölçüsü 40° olan bir açının tümlerinin ölçüsü kaç derecedir?",
+      "answers": [
+        "40°",
+        "50°",
+        "60°",
+        "140°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Tümler iki açının toplamı 90° olmalıdır. 90° - 40° = 50°'dir."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "Ölçüsü 110° olan bir açının bütünlerinin ölçüsü kaç derecedir?",
+      "answers": [
+        "70°",
+        "80°",
+        "90°",
+        "110°"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Bütünler iki açının toplamı 180° olmalıdır. 180° - 110° = 70°'dir."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "Kesişen iki doğrunun oluşturduğu, köşeleri ortak ve yönleri birbirine tamamen zıt olan açılara ne ad verilir?",
+      "answers": [
+        "Komşu açılar",
+        "Tümler açılar",
+        "Ters açılar",
+        "Bütünler açılar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Makasın ağzı gibi zıt yönlere bakan ve ölçüleri birbirine eşit olan bu açılara 'ters açılar' denir."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Tümlerinin ölçüsü 20° olan bir açının bütünlerinin ölçüsü kaç derecedir?",
+      "answers": [
+        "70°",
+        "110°",
+        "160°",
+        "180°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Tümleri 20° olan açının kendisi 90° - 20° = 70°'dir. Bu açının (70°) bütünleri ise 180° - 70° = 110°'dir."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "Komşu bütünler iki açıdan biri diğerinin 4 katıdır. Buna göre küçük açı kaç derecedir?",
+      "answers": [
+        "36°",
+        "45°",
+        "72°",
+        "144°"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Küçük açıya x dersek, büyük açı 4x olur. Toplamları bütünler oldukları için 180°'dir. x + 4x = 180° => 5x = 180° => x = 36°."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "Tümler iki açıdan biri diğerinden 10° fazladır. Buna göre BÜYÜK açı kaç derecedir?",
+      "answers": [
+        "40°",
+        "45°",
+        "50°",
+        "60°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Küçük açı x ise büyük açı x + 10°'dir. x + (x + 10°) = 90° => 2x = 80° => x = 40°. Büyük açı 40° + 10° = 50°'dir."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "Aynı düzlemde bulunan iki paralel doğruyu kesen bir doğrunun oluşturduğu, aynı yöne bakan açılara ne ad verilir?",
+      "answers": [
+        "Ters açılar",
+        "Yöndeş açılar",
+        "İç ters açılar",
+        "Karşı durumlu açılar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Aynı yöne bakan ve birer kolu paralel olan açılara 'yöndeş açılar' denir. Yöndeş açıların ölçüleri birbirine eşittir."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "İki paralel doğru arasında kalan ve kesen doğrunun farklı taraflarında olup ters yönlere bakan açılara ne denir?",
+      "answers": [
+        "İç ters açılar",
+        "Dış ters açılar",
+        "Yöndeş açılar",
+        "Komşu açılar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Paralel doğrular arasında (içte) kalan ve ters yönlere bakan açılara 'iç ters açılar' denir (Z kuralını oluşturan açılar)."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Aralarında paralellik bulunan iki doğruyu kesen bir doğrunun oluşturduğu U kuralına (karşı durumlu açılar) göre, bu iki iç açının toplamı kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Paralel iki doğru arasında kalan ve birbirine bakan karşılıklı (U kuralı) iki açının toplamı her zaman 180 derecedir."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "Birbirine paralel iki doğru arasında oluşan 'Z kuralı'na göre bir iç ters açının ölçüsü 65° ise, diğer iç ters açının ölçüsü kaç derecedir?",
+      "answers": [
+        "25°",
+        "65°",
+        "115°",
+        "180°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Z kuralında (iç ters açılarda) açıların ölçüleri birbirine eşittir. Biri 65° ise diğeri de 65°'dir."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "U kuralına göre birbirine paralel iki doğru arasındaki karşılıklı açılardan biri 130° ise diğer açı kaç derecedir?",
+      "answers": [
+        "40°",
+        "50°",
+        "60°",
+        "130°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "U kuralında açıların toplamı 180° olmalıdır. 180° - 130° = 50°'dir."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "İki paralel doğru ve bir kesenin oluşturduğu yöndeş açılardan birinin ölçüsü (2x + 10)°, diğerinin ölçüsü 70°'dir. Buna göre x kaçtır?",
+      "answers": [
+        "20",
+        "30",
+        "40",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Yöndeş açıların ölçüleri birbirine eşittir. 2x + 10 = 70 => 2x = 60 => x = 30."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "Birbirine paralel iki doğru arasında oluşan zikzak çiziminde (M kuralı), sola bakan dar açılar 40° ve 30°'dir. Buna göre sağa bakan açı kaç derecedir?",
+      "answers": [
+        "10°",
+        "40°",
+        "70°",
+        "110°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "M kuralında aynı yöne (örneğin sola) bakan açıların toplamı, ters yöne (sağa) bakan açıya eşittir. 40° + 30° = 70°."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "Paralel iki doğru arasında oluşan kalem ucu (roket) kuralında yer alan 3 ardışık iç açının ölçüleri toplamı kaç derecedir?",
+      "answers": [
+        "180°",
+        "270°",
+        "360°",
+        "540°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Kalem ucu kuralında oluşan U şeklinin içine doğru kırılmasından kaynaklı ardışık 3 açının toplamı her zaman 360°'dir."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "Kalem ucu kuralının uygulandığı bir şekilde açılardan ikisi 110° ve 130° olduğuna göre üçüncü açı kaç derecedir?",
+      "answers": [
+        "100°",
+        "110°",
+        "120°",
+        "130°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Üç açının toplamı 360° olmalıdır. 110° + 130° = 240°. Üçüncü açı: 360° - 240° = 120°'dir."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Bir paralelkenarın ardışık (peş peşe gelen) iki iç açısının ölçüleri toplamı her zaman kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Paralelkenarın ardışık iki köşesi paralel doğrular arasında kaldığı için U kuralı geçerlidir ve toplamları daima 180°'dir."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "Paralelkenarın iç açılarıyla ilgili aşağıdakilerden hangisi HER ZAMAN doğrudur?",
+      "answers": [
+        "Tüm iç açılarının ölçüleri birbirine eşittir.",
+        "Karşılıklı açıların ölçüleri birbirine eşittir.",
+        "Sadece iki açısı 90 derecedir.",
+        "Ardışık iki açısı birbirine eşittir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Bir paralelkenarda çaprazda bulunan (karşılıklı) açıların ölçüleri her zaman birbirine eşittir."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "Bir paralelkenarın dar açılarından birinin ölçüsü 50° ise, bu paralelkenarın geniş açılarından biri kaç derecedir?",
+      "answers": [
+        "40°",
+        "50°",
+        "130°",
+        "150°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Paralelkenarda komşu (ardışık) bir dar açı ile bir geniş açının toplamı 180°'dir. 180° - 50° = 130°."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "Eşkenar dörtgenin köşegenleriyle ilgili aşağıda verilen özelliklerden hangisi KESİNLİKLE doğrudur?",
+      "answers": [
+        "Köşegen uzunlukları birbirine eşittir.",
+        "Köşegenler birbirini dik keser.",
+        "Köşegenler sadece yatay olarak çizilir.",
+        "Köşegenler çizildiğinde üçgen oluşmaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Eşkenar dörtgen ve karede köşegenler birbirini her zaman dik (90° ile) keser. (Dikdörtgen ve paralelkenarda dik kesişmek zorunda değildir)."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "Hangi özel dörtgenin köşegenleri aynı zamanda iç açıortay görevi görür?",
+      "answers": [
+        "Dikdörtgen",
+        "Paralelkenar",
+        "Yamuk",
+        "Eşkenar Dörtgen"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Kare ve eşkenar dörtgenin köşegenleri, çizildikleri köşelerdeki açıları iki eşit parçaya böler (açıortaydır)."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "Bir yamukta, birbirine paralel olan alt taban ile üst taban arasında kalan ve aynı yan kenar üzerinde bulunan iki ardışık açının toplamı kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Yamuğun paralel alt ve üst tabanları ile bunları birleştiren yan kenar U kuralı oluşturur. Bu nedenle alt ve üst açının toplamı 180°'dir."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "Bir yamuğun paralel olmayan bir kenarındaki alt açı 65° olduğuna göre, aynı kenarın üstündeki diğer açı kaç derecedir?",
+      "answers": [
+        "65°",
+        "115°",
+        "125°",
+        "295°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Aynı yan kenar üzerindeki alt ve üst açıların toplamı 180°'dir. 180° - 65° = 115°'dir."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "Bir paralelkenarda karşılıklı iki açının ölçüsü sırasıyla (3x - 10)° ve (2x + 20)° olduğuna göre x kaçtır?",
+      "answers": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Paralelkenarda karşılıklı açılar eşittir. 3x - 10 = 2x + 20 => x = 30."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "İkizkenar yamuğun paralel olmayan kenar uzunlukları eşittir. Buna göre ikizkenar yamuğun alt tabanındaki sağ ve sol açılar için ne söylenebilir?",
+      "answers": [
+        "Toplamları 90 derecedir.",
+        "Biri geniş, diğeri dar açıdır.",
+        "Ölçüleri birbirine eşittir.",
+        "Ölçüleri toplamı 360 derecedir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "İkizkenar yamuğun tabanındaki (hem alt taban hem üst taban kendi içinde) açılar simetriden dolayı birbirine eşittir."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "Eşkenar dörtgenin bir dar açısı 70° olduğuna göre ardışık (komşu) olduğu geniş açısı kaç derecedir?",
+      "answers": [
+        "70°",
+        "110°",
+        "140°",
+        "290°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Eşkenar dörtgen özel bir paralelkenardır ve ardışık açılar toplamı 180°'dir. 180° - 70° = 110°."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "Eşkenar dörtgenin bir köşegeni çizildiğinde bu köşegenin köşede oluşturduğu (ikiye böldüğü) açılardan biri 40° olduğuna göre, bu eşkenar dörtgenin aynı köşedeki tam açısı kaç derecedir?",
+      "answers": [
+        "20°",
+        "40°",
+        "80°",
+        "100°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Eşkenar dörtgende köşegenler açıortaydır. Açının yarısı 40° ise tamamı 40° · 2 = 80° olur."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "Paralel iki doğru ve bir kesen ile oluşan U kuralındaki (karşı durumlu) iki iç açının ölçüleri sırasıyla 3x ve 2x'tir. Bu açılardan BÜYÜK olanı kaç derecedir?",
+      "answers": [
+        "36°",
+        "72°",
+        "108°",
+        "144°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Toplamları 180° olmalıdır. 3x + 2x = 180° => 5x = 180° => x = 36°. Büyük açı 3x olduğundan 3 · 36° = 108°'dir."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "Bir bilardo masasının düz kenarına çarpan top, geldiği açıyla seker (gelme açısı = yansıma açısı). Bant kenarına 40°'lik açıyla çarpan bir top yansıdıktan sonra, gelen doğrultu ile yansıyan doğrultu arasında kalan iç açı kaç derece olur?",
+      "answers": [
+        "40°",
+        "80°",
+        "100°",
+        "140°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Masa kenarı doğru açı (180°) belirtir. Sol taraftaki geliş açısı 40°, sağ taraftaki gidiş açısı da 40°'dir. Toplam 80° yapar. İki doğrultu arasında kalan orta açı 180° - 80° = 100° olur."
+    }
+  ]
+}

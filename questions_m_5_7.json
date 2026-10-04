@@ -1,0 +1,425 @@
+{
+  "unit": "Veriden Olasılığa",
+  "questions": [
+    {
+      "id": "Q_5_6_001",
+      "questionText": "Gerçekleşmesi yüzde yüz (%100) olan, her zaman aynı sonucu veren ve kesin olarak bilinen olaylara ne ad verilir?",
+      "answers": [
+        "İmkansız Olay",
+        "Olası Olay",
+        "Kesin Olay",
+        "Eşit Olasılıklı Olay"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Her durumda gerçekleşecek olan, alternatifi olmayan olaylara 'kesin olay' denir."
+    },
+    {
+      "id": "Q_5_6_002",
+      "questionText": "Gerçekleşme ihtimali hiç bulunmayan (olasılığı sıfır olan) olaylara ne ad verilir?",
+      "answers": [
+        "Kesin Olay",
+        "İmkansız Olay",
+        "Daha Fazla Olası Olay",
+        "Daha Az Olası Olay"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Hiçbir koşulda gerçekleşmesi mümkün olmayan olaylara 'imkansız olay' denir."
+    },
+    {
+      "id": "Q_5_6_003",
+      "questionText": "Aşağıdaki olaylardan hangisi 'kesin olay'a bir örnektir?",
+      "answers": [
+        "Havaya atılan bir madeni paranın dik durması.",
+        "Hilesiz bir zar atıldığında üst yüze 8 gelmesi.",
+        "İçinde sadece kırmızı toplar olan bir kutudan kırmızı top çekilmesi.",
+        "Yarın havanın yağmurlu olması."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Kutuda sadece kırmızı top varsa, çekilecek topun kırmızı olması dışında bir ihtimal yoktur. Bu kesin bir olaydır."
+    },
+    {
+      "id": "Q_5_6_004",
+      "questionText": "Aşağıdaki olaylardan hangisi 'imkansız olay'a bir örnektir?",
+      "answers": [
+        "İçinde 5 mavi, 2 sarı top bulunan torbadan sarı top çekilmesi.",
+        "Haftanın günleri arasından rastgele seçilen bir günün P harfi ile başlaması.",
+        "Atılan bir zarın üst yüzüne 7 sayısının gelmesi.",
+        "Havaya atılan paranın yazı gelmesi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Standart bir zarın yüzlerinde 1'den 6'ya kadar rakamlar vardır. 7 sayısının gelmesi imkansızdır."
+    },
+    {
+      "id": "Q_5_6_005",
+      "questionText": "İçinde 3 sarı ve 3 kırmızı elma bulunan bir sepetten rastgele seçilen elmanın rengi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Sarı olma olasılığı daha fazladır.",
+        "Kırmızı olma olasılığı daha azdır.",
+        "Sarı ve kırmızı olma olasılıkları eşittir.",
+        "Yeşil olma olasılığı kesindir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Sarı ve kırmızı elma sayıları birbirine eşit (3'er tane) olduğu için çekilme olasılıkları da eşit olasılıklıdır."
+    },
+    {
+      "id": "Q_5_6_006",
+      "questionText": "5 kız ve 2 erkek öğrencinin bulunduğu bir proje grubundan rastgele bir sözcü seçilecektir. Seçilecek kişinin cinsiyeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Kız öğrenci seçilme olasılığı daha fazladır.",
+        "Erkek öğrenci seçilme olasılığı daha fazladır.",
+        "Kız ve erkek seçilme olasılıkları eşittir.",
+        "Erkek öğrenci seçilmesi imkansız olaydır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Gruptaki kız öğrenci sayısı (5), erkek öğrenci sayısından (2) fazla olduğu için kız seçilme olasılığı daha fazladır."
+    },
+    {
+      "id": "Q_5_6_007",
+      "questionText": "Aşağıdaki kelimelerden hangisinin harfleri eş kartlara yazılıp bir torbaya atıldığında, torbadan 'A' harfi çekilme olasılığı ile 'M' harfi çekilme olasılığı EŞİT olur?",
+      "answers": [
+        "KALEM",
+        "MAMAK",
+        "MAMA",
+        "MAKAM"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "MAMA kelimesinde 2 tane 'M' ve 2 tane 'A' harfi vardır. Harf sayıları eşit olduğu için çekilme olasılıkları eşittir."
+    },
+    {
+      "id": "Q_5_6_008",
+      "questionText": "Bir sepette 10 elma, 5 armut ve 2 muz vardır. Sepetten rastgele alınan bir meyvenin muz olma olasılığı durumu nasıldır?",
+      "answers": [
+        "En fazla olası durumdur.",
+        "Armut olma olasılığı ile eşittir.",
+        "En az olası durumdur.",
+        "İmkansız olaydır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Sepetteki meyveler arasında sayısı en az olan meyve muz (2 adet) olduğu için rastgele çekimde muz gelme olasılığı en az olası durumdur."
+    },
+    {
+      "id": "Q_5_6_009",
+      "questionText": "Bir sınıftaki 20 öğrencinin 12'si gözlüklüdür. Sınıftan rastgele seçilen bir öğrencinin gözlüksüz olma durumu ile ilgili ne söylenebilir?",
+      "answers": [
+        "Gözlüklü olma durumuna göre daha az olasıdır.",
+        "Gözlüklü olma durumuna göre daha fazla olasıdır.",
+        "Gözlüklü olma durumu ile eşit olasılıklıdır.",
+        "Kesin olaydır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Sınıfta 20 - 12 = 8 gözlüksüz öğrenci vardır. Gözlüksüz sayısı (8), gözlüklü sayısından (12) az olduğu için daha az olasıdır."
+    },
+    {
+      "id": "Q_5_6_010",
+      "questionText": "Hilesiz bir zar atıldığında üst yüze gelen sayının çift sayı olması olayı ile tek sayı olması olayı için ne söylenebilir?",
+      "answers": [
+        "Çift sayı gelmesi daha fazla olasıdır.",
+        "Tek sayı gelmesi daha fazla olasıdır.",
+        "İkisi de eşit olasılıklı olaylardır.",
+        "İkisi de imkansız olaydır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Zarda 3 tane çift (2, 4, 6) ve 3 tane tek (1, 3, 5) sayı vardır. Sayıları eşit olduğu için eşit olasılıklıdırlar."
+    },
+    {
+      "id": "Q_5_6_011",
+      "questionText": "Aşağıdaki değerlerden hangisi bir olayın olasılık değeri OLAMAZ?",
+      "answers": [
+        "0 (Sıfır)",
+        "1/2 (Yarım)",
+        "1 (Tam)",
+        "2 (İki)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Bir olayın olasılık değeri en az 0 (imkansız olay), en fazla 1 (kesin olay) olabilir. Olasılık değeri 1'den büyük olamaz."
+    },
+    {
+      "id": "Q_5_6_012",
+      "questionText": "Bir çark 8 eş parçaya ayrılmış olup bu parçaların 4'ü kırmızıya, 3'ü maviye, 1'i sarıya boyanmıştır. Çark çevrildiğinde ibrenin hangi renkte durma olasılığı EN FAZLADIR?",
+      "answers": [
+        "Sarı",
+        "Mavi",
+        "Kırmızı",
+        "Hepsi eşittir"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Çarkta en fazla yer kaplayan (sayıca en çok olan) renk kırmızı (4 parça) olduğu için okun kırmızıda durma olasılığı en fazladır."
+    },
+    {
+      "id": "Q_5_6_013",
+      "questionText": "Rakamların (0'dan 9'a kadar) her biri eş kartlara yazılıp bir torbaya atılıyor. Torbadan çekilen bir kartın üzerindeki sayının 5'ten küçük olma durumu ile 5'ten büyük olma durumu karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "5'ten küçük olma durumu daha fazla olasıdır.",
+        "5'ten büyük olma durumu daha fazla olasıdır.",
+        "İkisi de eşit olasılıklıdır.",
+        "Karşılaştırılamaz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "5'ten küçük rakamlar: 0, 1, 2, 3, 4 (5 tane). 5'ten büyük rakamlar: 6, 7, 8, 9 (4 tane). 5 adet olan durum (5'ten küçük olanlar) daha fazla olasıdır."
+    },
+    {
+      "id": "Q_5_6_014",
+      "questionText": "İçinde 4 yeşil, x adet mor bilye bulunan bir torbadan rastgele çekilen bilyenin yeşil olma olasılığı daha FAZLA ise x en çok kaç olabilir?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Yeşil çıkma olasılığı daha fazlaysa, yeşil bilye sayısı mor bilye sayısından büyük olmalıdır (4 > x). Bu durumda x'in alabileceği en büyük doğal sayı 3'tür."
+    },
+    {
+      "id": "Q_5_6_015",
+      "questionText": "Bir kelimenin harfleri eş kartlara yazılarak torbaya atılmıştır. Torbadan çekilen kartta sesli harf olma olasılığı ile sessiz harf olma olasılığı EŞİT olduğuna göre, bu kelime aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "KİTAP",
+        "MASA",
+        "KALEM",
+        "OKUL"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Olasılıkların eşit olması için sesli ve sessiz harf sayılarının eşit olması gerekir. 'MASA' kelimesinde 2 sesli (A, A) ve 2 sessiz (M, S) harf vardır."
+    },
+    {
+      "id": "Q_5_6_016",
+      "questionText": "Bir veri grubunda, sıklık tablosuna göre en çok tekrar eden değere sahip olan (örneğin en çok oyu alan) bir seçeneğin, rastgele bir seçim yapıldığında seçilme olasılığı hakkında ne söylenebilir?",
+      "answers": [
+        "Seçilme olasılığı en azdır.",
+        "Seçilme olasılığı diğerleriyle eşittir.",
+        "Seçilme olasılığı en fazladır.",
+        "Seçilmesi kesin olaydır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Bir verinin sayısı (sıklığı) ne kadar çoksa, rastgele bir seçimde karşımıza çıkma (seçilme) olasılığı da o kadar fazladır."
+    },
+    {
+      "id": "Q_5_6_017",
+      "questionText": "Bir ankette 5. sınıf öğrencilerine sevdikleri dersler sorulmuş ve şu veriler elde edilmiştir: Matematik 15 kişi, Türkçe 15 kişi, Fen Bilimleri 10 kişi, Sosyal Bilgiler 8 kişi. Rastgele seçilen bir öğrencinin Matematik veya Türkçe dersini sevme olasılıkları hakkında ne söylenebilir?",
+      "answers": [
+        "Matematik sevme olasılığı daha fazladır.",
+        "Türkçe sevme olasılığı daha fazladır.",
+        "İkisi de eşit olasılıklıdır.",
+        "Matematik sevmesi kesin olaydır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Matematik sevenlerin sayısı (15) ile Türkçe sevenlerin sayısı (15) eşit olduğu için bu iki olayın olasılıkları eşittir."
+    },
+    {
+      "id": "Q_5_6_018",
+      "questionText": "Bir otobüste 18 kadın, 12 erkek yolcu vardır. Otobüse 5 evli çift (5 kadın, 5 erkek) bindiğinde rastgele seçilen bir yolcunun cinsiyeti ile ilgili aşağıdakilerden hangisi doğru olur?",
+      "answers": [
+        "Kadın olma olasılığı daha fazladır.",
+        "Erkek olma olasılığı daha fazladır.",
+        "Kadın ve erkek olma olasılıkları eşittir.",
+        "İlk duruma göre erkek olma olasılığı daha fazla hale gelmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Yeni durumda Kadın = 18 + 5 = 23 kişi, Erkek = 12 + 5 = 17 kişi olur. Kadın sayısı hala erkek sayısından fazla olduğu için kadın olma olasılığı daha fazladır."
+    },
+    {
+      "id": "Q_5_6_019",
+      "questionText": "İçinde sadece mavi ve sarı toplar bulunan bir kutudan rastgele çekilen topun mavi olma olasılığı imkansız olaya çok yakındır (çok çok azdır). Buna göre kutudaki mavi ve sarı top sayıları aşağıdakilerden hangisi gibi olabilir?",
+      "answers": [
+        "50 Mavi, 50 Sarı",
+        "98 Mavi, 2 Sarı",
+        "2 Mavi, 98 Sarı",
+        "0 Mavi, 100 Sarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Mavi çıkma olasılığının imkansıza (sıfıra) çok yakın olması, miktarının sarı toplara göre yok denecek kadar az olduğu anlamına gelir. 2 Mavi ve 98 Sarı bu duruma en uygun örnektir."
+    },
+    {
+      "id": "Q_5_6_020",
+      "questionText": "\"GALATASARAY\" kelimesinin her bir harfi eş kağıtlara yazılıp bir torbaya atılıyor. Torbadan rastgele bir kağıt çekildiğinde, 'A' harfi gelme olayı ile 'A harfi DIŞINDAKİ' harflerin toplam gelme olayı karşılaştırıldığında sonuç ne olur?",
+      "answers": [
+        "'A' harfi gelme olasılığı daha fazladır.",
+        "Diğer harflerin gelme olasılığı daha fazladır.",
+        "İkisi de eşit olasılıklıdır.",
+        "'A' harfi gelmesi imkansız olaydır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Kelime 11 harflidir. 'A' harfi 5 tanedir. Diğer harfler (G, L, T, S, R, Y) ise toplam 6 tanedir. 6 > 5 olduğu için diğer harflerin gelme olasılığı daha fazladır."
+    },
+    {
+      "id": "Q_5_6_021",
+      "questionText": "30 sayfalık bir defterin sayfaları 1'den 30'a kadar numaralandırılmıştır. Defterin rastgele açılan bir sayfasının numarasının 3'ün katı olma durumu ile 5'in katı olma durumu karşılaştırılırsa hangisi doğru olur?",
+      "answers": [
+        "3'ün katı olma durumu daha fazla olasıdır.",
+        "5'in katı olma durumu daha fazla olasıdır.",
+        "İkisi de eşit olasılıklıdır.",
+        "İkisi de kesin olaydır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "30'a kadar 3'ün katları: 3, 6, 9... 30 (10 tane). 5'in katları: 5, 10... 30 (6 tane). 10 > 6 olduğundan 3'ün katı olma durumu daha fazla olasıdır."
+    },
+    {
+      "id": "Q_5_6_022",
+      "questionText": "Bir torbada 10 kırmızı, 10 beyaz top vardır. Torbadan rastgele bir top çekildiğinde kırmızı veya beyaz olma olasılıkları eşittir. Bu torbadan EN AZ kaç top çıkarılırsa kırmızı top çekilme olasılığı daha fazla olası duruma gelir?",
+      "answers": [
+        "1 kırmızı top",
+        "1 beyaz top",
+        "2 beyaz top",
+        "10 beyaz top"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Kırmızı top olasılığının daha fazla olması için kırmızı sayısının beyazdan çok olması gerekir. Torbadan sadece 1 adet beyaz top çıkarılırsa kırmızı(10) > beyaz(9) olur."
+    },
+    {
+      "id": "Q_5_6_023",
+      "questionText": "Bir kutuda 1'den 20'ye kadar numaralandırılmış toplar vardır. Torbadan rastgele çekilen bir topun üzerindeki sayının asal sayı olma durumu ile çift sayı olma durumu karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Asal sayı gelme olasılığı daha fazladır.",
+        "Çift sayı gelme olasılığı daha fazladır.",
+        "İkisi de eşit olasılıklıdır.",
+        "Asal sayı gelmesi imkansız olaydır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "1'den 20'ye kadar çift sayılar 10 tanedir. Asal sayılar ise 2, 3, 5, 7, 11, 13, 17, 19 olmak üzere 8 tanedir. Çift sayılar (10) asallardan (8) daha fazla olduğu için olasılığı daha fazladır."
+    },
+    {
+      "id": "Q_5_6_024",
+      "questionText": "Bir dart tahtası üzerinde 3 kırmızı, 5 beyaz, 2 siyah bölge vardır. Hedefi tutturan bir okçunun atışında hangi bölgeyi vurma olasılığı EN AZDIR?",
+      "answers": [
+        "Beyaz",
+        "Kırmızı",
+        "Siyah",
+        "Hepsi eşittir"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Dart tahtasında sayısı/alanı en az olan bölge siyah (2 bölge) olduğu için vurulma olasılığı en azdır."
+    },
+    {
+      "id": "Q_5_6_025",
+      "questionText": "Bir yarışmaya katılan yarışmacıların 15'i kadın, 10'u erkektir. Yarışmanın ilk turunda 3 kadın ve 3 erkek yarışmacı eleniyor. Kalan yarışmacılar arasından kura ile seçilecek birinci kişi için aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Erkek seçilme olasılığı daha fazladır.",
+        "Kadın seçilme olasılığı daha fazladır.",
+        "Kadın ve erkek seçilme olasılıkları eşittir.",
+        "İlk duruma göre erkek seçilme olasılığı azalmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Kalan kadın sayısı: 15 - 3 = 12. Kalan erkek sayısı: 10 - 3 = 7. Kalan kadın sayısı erkeklerden fazla olduğu için kadın seçilme olasılığı hala daha fazladır."
+    },
+    {
+      "id": "Q_5_6_026",
+      "questionText": "Sınıfımızdaki 24 öğrencinin bulunduğu bir kura çekiminde, sınıf başkanı olan Ali'nin isminin çıkması olayı, diğer öğrencilerden herhangi birinin (örneğin Ayşe'nin) isminin çıkması olayına göre nasıldır?",
+      "answers": [
+        "Daha fazla olasıdır.",
+        "Daha az olasıdır.",
+        "Eşit olasılıklıdır.",
+        "Kesin olaydır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Kurada herkesin ismi 1'er kez yazıldığı için (başkan da olsa) herkesin isminin çıkma ihtimali birbirine eşittir (Eşit olasılıklı olay)."
+    },
+    {
+      "id": "Q_5_6_027",
+      "questionText": "İçinde eş sayıda sarı ve kırmızı top bulunan bir torbadan rastgele 2 adet sarı top çekilip dışarı alınıyor. İkinci durumda torbadan çekilecek yeni bir topun kırmızı olma olasılığı ilk duruma göre nasıl değişmiştir?",
+      "answers": [
+        "İlk durumla aynı kalmıştır (Eşittir).",
+        "Kırmızı çıkma olasılığı daha fazla olası duruma gelmiştir.",
+        "Kırmızı çıkma olasılığı daha az olası duruma gelmiştir.",
+        "Kırmızı çıkması kesin olay olmuştur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "İlk başta sarı ve kırmızı sayıları eşitti. 2 sarı çıkarıldığında sarı sayısı azalır, kırmızı sayısı değişmez. Böylece kırmızılar çoğunlukta kalır ve kırmızı çıkma olasılığı daha fazla olası duruma gelir."
+    },
+    {
+      "id": "Q_5_6_028",
+      "questionText": "Bir kutudaki 30 kalemin bir kısmı kırmızı, kalanı siyahtır. Bu kutudan rastgele çekilen bir kalemin siyah olma olasılığı 'kesin olaya' daha yakın ise (yani siyahlar çoğunluktaysa), kırmızı kalem sayısı EN FAZLA kaç olabilir?",
+      "answers": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Siyahların sayısı kırmızılardan fazla olmalıdır (Siyah > Kırmızı). Toplam 30 kalem varsa, kırmızılar yarıdan (15'ten) az olmalıdır. Bu durumda kırmızı kalem sayısı en fazla 14 olabilir."
+    },
+    {
+      "id": "Q_5_6_029",
+      "questionText": "Bir olayın gerçekleşme olasılığını kesir olarak göstermek istersek, 'Kesin Olay'ı temsil eden kesir veya sayı değeri aşağıdakilerden hangisidir?",
+      "answers": [
+        "0 (Sıfır)",
+        "1/2 (Yarım)",
+        "1 (Bir / Tam)",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Matematikte kesin olayların gerçekleşme olasılığı %100'dür ve bu da 1 (tam) sayısına veya 1/1 kesrine karşılık gelir."
+    },
+    {
+      "id": "Q_5_6_030",
+      "questionText": "40 kişilik bir sınıfta gözlüklü öğrenci sayısı, gözlüksüz öğrenci sayısından daha azdır. Sınıftaki kız öğrenci sayısı ile erkek öğrenci sayısı eşittir. Sınıftan rastgele seçilen bir öğrencinin gözlüklü olma durumu ile kız olma durumu karşılaştırıldığında aşağıdakilerden hangisi kesinlikle doğrudur?",
+      "answers": [
+        "Gözlüklü olma durumu daha fazla olasıdır.",
+        "Gözlüklü olma durumu daha az olasıdır.",
+        "İkisi de eşit olasılıklıdır.",
+        "Karşılaştırılamaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Sınıfta kız ve erkek sayısı eşitse 20 kız, 20 erkek vardır. Gözlüklü sayısı gözlüksüzden az ise, gözlüklü sayısı 20'den (sınıfın yarısından) azdır. Dolayısıyla gözlüklü sayısı (max 19) < kız sayısı (20) olur. Bu nedenle gözlüklü seçilme ihtimali daha az olasıdır."
+    }
+  ]
+}

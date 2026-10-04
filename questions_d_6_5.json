@@ -1,0 +1,425 @@
+{
+  "unit": "Kültürümüzdeki Dinî Motifler",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "Kültürümüzde yeni doğan bir bebeğe isim verilirken bebeğin sağ kulağına ezan, sol kulağına ise kamet okunur. Bu güzel geleneğin temel amacı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bebeğin çabuk uyumasını sağlamak",
+        "Bebeğin işitme yeteneğini test etmek",
+        "Çocuğun duyduğu ilk seslerin Allah'ın adı ve İslam'ın çağrısı olmasını sağlamak",
+        "Çocuğun ileride müezzin olmasını dilemek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Hayata gözlerini yeni açan bir bebeğe Allah'ın adını ve dinin temel çağrısını (Tevhid) duyurmak, kültürümüzdeki en köklü dini motiflerden biridir."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Türk milleti, askere giden gençleri davulla zurnayla, ellerine kına yakarak büyük bir coşkuyla uğurlar. Asker ocağına kültürümüzde verilen özel isim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peygamber Ocağı",
+        "Devlet Ocağı",
+        "Millet Kapısı",
+        "Eğitim Yuvası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Milletimiz, ordusunu peygamberinin (Hz. Muhammed'in ordusu/Mehmetçik) bir emaneti olarak gördüğü için asker ocağına saygıyla 'Peygamber Ocağı' der."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "İslam dininde vatanı, milleti, dini ve namusu korumak uğruna savaşırken canını feda eden (ölen) kişilere verilen en yüksek manevi rütbe nedir?",
+      "answers": [
+        "Kahraman",
+        "Şehit",
+        "Gazi",
+        "Lider"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Allah yolunda ve vatan savunmasında hayatını kaybedenlere 'Şehit' denir. Kur'an'a göre onlar ölü değil, diridirler."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "Vatan savunmasında düşmanla çarpışan, yaralanan ancak hayatta kalarak geri dönen kahramanlarımıza dinimizde ve kültürümüzde hangi unvan verilir?",
+      "answers": [
+        "Şehit",
+        "Muhacir",
+        "Ensar",
+        "Gazi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Vatanı için savaşıp sağ salim veya yaralı olarak dönen kahramanlar 'Gazi' unvanıyla onurlandırılır."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "İstiklal Marşı'mızın, 'Bu ezanlar -ki şehadetleri dinin temeli / Ebedi yurdumun üstünde benim inlemeli' dizelerinde, şair Mehmet Akif Ersoy bağımsızlığımızın sembolü olarak neyi göstermiştir?",
+      "answers": [
+        "Sadece silah gücünü",
+        "Ekonomik zenginliği",
+        "Ezanı ve İslam inancını",
+        "Tarihi binaları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "İstiklal Marşı'mız dini motiflerle doludur. Ezanların susmaması, Türk milletinin bağımsızlığının ve inancının en büyük göstergesidir."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Halkımız arasında 'Tanrı Misafiri' kavramı çok yaygındır. Eve gelen bir yabancıya bile sofranın en güzel yeri verilir. Bu durum kültürümüzün hangi dini öğütten etkilendiğini gösterir?",
+      "answers": [
+        "İsraf etmekten kaçınma",
+        "Sadece tanıdıklara yardım etme",
+        "Allah'a ve ahiret gününe inananın misafirine ikram etmesi ilkesinden",
+        "Ticari ilişkileri geliştirme isteğinden"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Misafirperverliğimizin temelinde, misafirin rızkıyla geldiği ve onu ağırlamanın Allah'ın rızasını kazandırdığı inancı yatar."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "Günlük hayatımızda hasta olan birini ziyaret ettiğimizde ona geçmiş olsun dileklerimizi iletmek için genellikle hangi dini ifadeyi kullanırız?",
+      "answers": [
+        "Allah rahmet eylesin",
+        "Allah şifa versin",
+        "Allah mübarek etsin",
+        "Allah analı babalı büyütsün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Şifa (iyileşme), Allah'ın 'Şâfî' isminden istenir. Hastalara, şifa bulmaları için 'Allah şifa versin' diye dua edilir."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "Ahmet, arkadaşına bir konuda yardım etmiş, arkadaşı da ona teşekkür etmek amacıyla 'Allah senden razı olsun' demiştir. Bu dua cümlesinin anlamı nedir?",
+      "answers": [
+        "Allah sana çok para versin",
+        "Allah senin iyiliğinden memnun olsun ve seni sevsin",
+        "Allah seni hep genç tutsun",
+        "Allah seni herkesten üstün kılsın"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Birinin yaptığı iyiliğe karşı, 'Allah senin bu davranışından hoşnut olsun' anlamında edilen en güzel teşekkür duasıdır."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "Edebiyatımızda Allah'a duyulan sevgiyi (ilahi aşkı), insan sevgisini ve hoşgörüyü işleyen şiirlere ne ad verilir?",
+      "answers": [
+        "Tasavvuf (Tekke) Edebiyatı",
+        "Destan Edebiyatı",
+        "Masal Edebiyatı",
+        "Mizah Edebiyatı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 3,
+      "explanation": "Yunus Emre, Hacı Bektaş Veli ve Mevlana gibi şairlerin oluşturduğu, merkezinde din ve ilahi aşk olan edebiyat koluna 'Tasavvuf' denir."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "Tarihimizde, özellikle kuşların kış aylarında aç kalmaması veya göçmen kuşların tedavisi için hastaneler (Gurabahane-i Laklakan) kurulmuştur. Hayvanlar için bile kurulan bu derneklere (sistemlere) ne ad verilir?",
+      "answers": [
+        "Banka",
+        "Vakıf",
+        "Külliye",
+        "Medrese"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "İslam'ın merhamet ve yardımlaşma duygusunun kurumsallaşmış haline 'Vakıf' denir. Ecdadımız hayvanları korumak için bile vakıflar kurmuştur."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Osmanlı döneminde yazılan ve günümüzde hala peygamberimizin doğumunu, hayatını ve güzel ahlakını anmak için kandil gecelerinde camilerde okunan eserin (Vesiletü'n-Necat) halk arasındaki adı nedir?",
+      "answers": [
+        "Mesnevi",
+        "İlahi",
+        "Mevlid",
+        "Ezan"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Süleyman Çelebi'nin yazdığı eser halk arasında 'Mevlid' (doğum zamanı) olarak bilinir ve peygamberimize duyulan sevgiyi ifade eder."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "Mimar Sinan, camilerin içini aydınlatmak için büyük pencereler yapmış, ayrıca is odaları kurarak yanan mumların isini toplayıp ondan mürekkep elde etmiştir. Bu durum İslam medeniyeti ile ilgili neyi kanıtlar?",
+      "answers": [
+        "Sadece estetiğe önem verdiklerini",
+        "Mimari ile bilimi, geri dönüşümü ve sanatı muazzam şekilde birleştirdiklerini",
+        "Sadece karanlıkta ibadet ettiklerini",
+        "Camilerin çok küçük olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 3,
+      "explanation": "İs odasında toplanan dumanın hat sanatında mürekkep olarak kullanılması, ecdadımızın mimarideki bilimsel ve çevreci (geri dönüşüm) dehasını gösterir."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "Aşağıdakilerden hangisi edebiyatımızda (masal, şiir, atasözü) sıklıkla karşılaştığımız dini motiflerden biri değildir?",
+      "answers": [
+        "Bismillah ile işe başlamak",
+        "Hızır gibi yetişmek tabiri",
+        "Rüzgarın yönünü hesaplamak",
+        "Sabreden derviş muradına ermiş sözü"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Rüzgarın yönünü hesaplamak coğrafi/fiziksel bir durumdur. Diğerleri ise edebiyatımıza yerleşmiş, din kaynaklı deyim ve atasözleridir."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "Düğünlerimizde veya önemli toplantılarımızda Kur'an-ı Kerim okunması, dualar edilmesi kültürümüzün bir parçasıdır. Bu uygulamanın temel amacı nedir?",
+      "answers": [
+        "Toplantının daha uzun sürmesini sağlamak",
+        "İnsanları eğlendirmek",
+        "Kurulan yeni yuvaya veya yapılan işe Allah'ın bereket vermesini dilemek",
+        "Sadece geleneklere ayak uydurmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Kültürümüzde yeni başlangıçlar (düğün, iş yeri açılışı) Allah'ın adıyla ve O'nun bereket (hayır) duasıyla başlatılır."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "Bayrağımızdaki hilal ve yıldız şekillerinin milletimiz için dini ve manevi bir anlamı da vardır. Hilal (yarım ay) sembolü bağımsızlığın yanı sıra İslam'da neyi temsil eder?",
+      "answers": [
+        "Tevhid (Allah'ın birliği) inancını ve İslam'ı",
+        "Sadece gece vakti olduğunu",
+        "Gökyüzü bilimiyle uğraşıldığını",
+        "Tarım toplumunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Bayrağımızdaki Hilal, İslam'ı ve Tevhid inancını (Allah'ın birliğini), yıldız ise peygamberimizi veya şehitlerimizi temsil eder."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "Cenaze evine yemek götürülmesi, bayramlarda büyüklerin ziyaret edilmesi (sıla-i rahim) ve aşure dağıtılması gibi geleneklerimiz, dinimizin hangi yönünün hayatımıza yansımasıdır?",
+      "answers": [
+        "Sadece ibadet yönünün",
+        "Ticari ve ekonomik yönünün",
+        "Sosyal yardımlaşma, dayanışma ve kardeşlik yönünün",
+        "Kişisel temizlik yönünün"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Bu gelenekler, İslam'ın toplumu birbirine bağlayan, acıları ve sevinçleri paylaşmayı emreden (sosyal) yönünün bir sonucudur."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "Türk İslam sanatlarında, 'Allah'ın yarattığı doğadaki kusursuz güzelliği kağıda veya duvara işlemek' esastır. Suyun üzerindeki boyaların şekillendirilmesiyle yapılan bu geleneksel sanatımız hangisidir?",
+      "answers": [
+        "Hat",
+        "Ebru",
+        "Çini",
+        "Minyatür"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Özel bir sıvının üzerine boyaların damlatılarak desen verilmesi ve kağıda aktarılması sanatına 'Ebru' denir ve tasavvufi bir sabır sanatıdır."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Kur'an-ı Kerim ayetlerini taşa, tahtaya veya kağıda estetik (güzel) bir şekilde yazma sanatı olan 'Hat' sanatıyla uğraşan ustalara ne ad verilir?",
+      "answers": [
+        "Ressam",
+        "Nakkaş",
+        "Hattat",
+        "Müzehhip"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Güzel yazı yazma sanatına 'Hat', bu sanatı icra eden, büyük bir sabır ve ustalıkla ayetleri yazan sanatçılara ise 'Hattat' denir."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "Dinimizin bir kuralı olan 'Sadaka' (yardımlaşma) kavramı, Osmanlı döneminde kuşlar için yapılan yuvalarda (Kuş köşkleri) ve sokak hayvanlarına su verilen kaplarda bile kendini göstermiştir. Bu durum neyi kanıtlar?",
+      "answers": [
+        "İnsanlara yardım etmenin yasak olduğunu",
+        "Sadakanın sadece parayla yapıldığını",
+        "İslam'daki merhamet anlayışının tüm canlıları (ekosistemi) kapsadığını",
+        "Kuşların daha değerli olduğunu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "İslam merhameti sadece insanı değil, Allah'ın yarattığı tüm kainatı, hayvanları ve doğayı kapsayan evrensel bir değerdir."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "Camilerde minarenin içindeki merdivenlerle çıkılan ve müezzinin etrafında dönerek ezan okuduğu şerefiyeli balkona ne ad verilir?",
+      "answers": [
+        "Kubbe",
+        "Kürsü",
+        "Şerefe",
+        "Mihrap"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Minarelerde bulunan ve müezzinin (eski dönemlerde hoparlör yokken) çıkarak ezan okuduğu balkon kısmına 'Şerefe' denir."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "Bir işi başaracağımıza dair kendimize çok güvensek bile, 'Yarın kesin geliyorum' demek yerine 'Yarın Allah izin verirse geliyorum' anlamında hangi sözü söylemek İslam ahlakına daha uygundur?",
+      "answers": [
+        "Eyvallah",
+        "Sübhanallah",
+        "Elhamdülillah",
+        "İnşallah"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "İnşallah, 'Allah dilerse' anlamına gelir ve gelecekle ilgili planlarda insanın acizliğini kabul edip Allah'ın iradesine teslim olmasını ifade eder."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "Vefat eden (ölen) bir kişinin ardından cenaze namazı kılınır ve cemaatten 'Hakkınızı helal ediyor musunuz?' diye sorulur. Bu uygulama dinimizdeki hangi kavramın ne kadar önemli olduğunu gösterir?",
+      "answers": [
+        "Mal biriktirmenin",
+        "Kul hakkının ve helalleşmenin",
+        "Çok uyumanın",
+        "Süslü elbiseler giymenin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Allah, kul hakkını ancak hakkı yenen kişinin affedebileceğini belirtir. Bu nedenle cenaze merasiminde ölünün kul hakkı borçlarından arınması (helalleşme) istenir."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "Mimarimizde hastaneler günümüzdeki gibi sadece soğuk binalar değildi. Osmanlı'da hastalar su sesiyle, ney müziğiyle ve çiçek kokularıyla tedavi edilirdi. Bu sağlık yapılarına ne ad verilirdi?",
+      "answers": [
+        "Medrese",
+        "Kervansaray",
+        "Darüşşifa (Şifahane)",
+        "Bedesten"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Şifa kapısı anlamına gelen 'Darüşşifa', İslam medeniyetinin insana verdiği değeri gösteren estetik ve merhamet dolu hastanelerdir."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "Camilere girerken sağ ayakla girmek, Kur'an'ı belden yukarıda tutmak, büyüklere saygı için ellerini öpmek. Tüm bu davranışlar dinimizin hangi kavramının toplumsal yansımasıdır?",
+      "answers": [
+        "Adalet",
+        "Edep (Saygı ve Terbiye)",
+        "Cesaret",
+        "Özgürlük"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Kültürümüzde kutsal sayılan şeylere ve büyüklere karşı gösterilen bu ince davranışların tamamı İslam'ın 'Edep' (güzel terbiye) kuralıdır."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "Dinî musiki (müzik) edebiyatımızda çok önemlidir. Yalnızca insan sesiyle (bazen def eşliğinde) söylenen, Allah ve peygamber sevgisini anlatan sözlü müzik türüne ne ad verilir?",
+      "answers": [
+        "Türkü",
+        "İlahi",
+        "Destan",
+        "Bozlak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Allah'ı övmek, peygambere duyulan sevgiyi anlatmak amacıyla makamla söylenen, en ünlü örneklerini Yunus Emre'nin yazdığı şiirlere 'İlahi' denir."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "Bir işi başardıktan sonra veya yemek yedikten sonra şükrümüzü belli etmek için 'Bütün övgüler Allah'a aittir' anlamına gelen hangi ifadeyi kullanırız?",
+      "answers": [
+        "Bismillah",
+        "Estağfirullah",
+        "Elhamdülillah",
+        "İnşallah"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Elhamdülillah (Hamd olsun), bize verilen nimetler ve başarılar karşısında Allah'a duyduğumuz şükrü ve minnettarlığı ifade eder."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "Hz. Ömer'in, 'Fırat'ın kıyısında bir koyunu kurt kapsa, Allah bunun hesabını benden sorar' sözü, İslam kültüründe hangi makamın ne kadar büyük bir sorumluluk gerektirdiğini gösterir?",
+      "answers": [
+        "Zenginlik makamının",
+        "Yöneticilik (Devlet Başkanlığı) ve adalet makamının",
+        "Öğretmenlik makamının",
+        "Doktorluk makamının"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 3,
+      "explanation": "Devlet yönetimi ve liderlik, sadece bir güç değil; ülkedeki bir hayvanın bile güvenliğinden sorumlu olunan devasa bir 'Adalet' yüküdür."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "Edebiyatımızda peygamberimizi sembolize eden çiçek 'Gül', Allah'ın birliğini (Tevhid) sembolize eden çiçek ise 'Lale'dir. Camilerdeki çinilerde bu çiçeklerin çokça kullanılmasının sebebi nedir?",
+      "answers": [
+        "Başka çiçek resmi çizmeyi bilmemeleri",
+        "Dini duyguları (Tevhid ve Peygamber sevgisini) doğanın estetiğiyle (sanatla) anlatmak istemeleri",
+        "O çiçeklerin ucuz olması",
+        "Sadece kırmızı rengi sevmeleri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 3,
+      "explanation": "Ecdadımız sanatı amaçsız yapmamış, lale (kelime olarak Allah lafzına benzer) ve gül motifleriyle her yere İslami inançları kodlamışlardır."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "Camilerde minarelerin arasına özellikle Ramazan aylarında gerilen iplere, kandillerle 'Hoş Geldin On Bir Ayın Sultanı' gibi yazıların yazılması sanatına ne ad verilir?",
+      "answers": [
+        "Minyatür",
+        "Hat",
+        "Mahya",
+        "Tezhip"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 2,
+      "explanation": "Mahya, gökyüzünü mesajlarla süsleyen, Ramazan ayının coşkusunu görsel bir şölene dönüştüren Türk-İslam kültürüne ait bir ışık sanatıdır."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "Kültürümüzde evden çıkan birine 'Allah'a emanet ol' denir. Bu güzel sözün altında yatan dini inanç nedir?",
+      "answers": [
+        "İnsanı her türlü tehlikeden koruyacak en büyük gücün Allah olduğu inancı (Tevekkül)",
+        "Dışarı çıkmanın çok tehlikeli olduğu inancı",
+        "İnsanların birbirine güvenmemesi gerektiği",
+        "Sadece yaşlıların korunması gerektiği"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kültürümüzdeki Dinî Motifler",
+      "difficulty": 1,
+      "explanation": "Sevdiklerimizi dünyadaki her şeyi koruyup gözeten (Hafiz olan) Allah'a emanet etmek, kültürümüzdeki en güçlü tevekkül (güvenme) motifidir."
+    }
+  ]
+}

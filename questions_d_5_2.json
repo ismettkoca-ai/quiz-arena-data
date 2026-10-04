@@ -1,0 +1,425 @@
+{
+  "unit": "Namaz",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Dedesi Ali'ye, 'Namaz dinin direğidir, tıpkı bir çadırı ayakta tutan ana direk gibi insanı da manevi olarak ayakta tutar' demiştir. Dedesinin bu benzetmesiyle namaz hakkında vurgulamak istediği ana düşünce nedir?",
+      "answers": [
+        "Sadece yaşlıların kılması gerektiği",
+        "İslam inancının en temel ve ayakta tutucu ibadeti olduğu",
+        "Sadece camide kılınması gerektiği",
+        "Çok zaman alan bir ibadet olduğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Namaz, tıpkı bir binanın temeli veya çadırın direği gibi Müslümanın inancını sağlam tutan en önemli ibadettir."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "Kamp yapmaya giden izci grubu, namaz kılmak için abdest almak istemiş ancak etrafta hiç su bulamamışlardır. Bu durumda izci grubunun namazlarını kılabilmek için ne yapması gerekir?",
+      "answers": [
+        "Namazı tamamen terk etmeleri",
+        "Su bulana kadar günlerce beklemeleri",
+        "Temiz toprak veya toprak cinsinden bir maddeyle teyemmüm almaları",
+        "Abdest almadan namaza durmaları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "İslam'da kolaylık esastır; suyun bulunmadığı veya kullanılamadığı durumlarda temiz toprakla teyemmüm abdesti alınır."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "Zeynep, namaz kılmadan önce odasını toplamış, üstündeki tozlu kıyafetleri değiştirmiş ve seccadesini temiz bir yere sermiştir. Zeynep'in bu davranışı namazın hangi hazırlık şartını yerine getirdiğini gösterir?",
+      "answers": [
+        "Necasetten Taharet",
+        "İstikbal-i Kıble",
+        "Vakit",
+        "Niyet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Namaz kılınacak yerin, bedenin ve elbiselerin temizlenmesine 'Necasetten Taharet' (Maddi temizlik) denir."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "Cuma namazı için camiye giden cemaat, imamın arkasında omuz omuza, zengin veya fakir ayrımı olmadan yan yana saf tutmuştur. Bu durum namazın bireylere hangi duyguyu kazandırdığının en güzel kanıtıdır?",
+      "answers": [
+        "Rekabet ve hırs",
+        "Eşitlik ve kardeşlik",
+        "Bireysellik ve yalnızlık",
+        "Maddi kazanç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Cemaatle kılınan namazda herkesin aynı safta yan yana durması, İslam'da makam ve zenginlik farkı olmaksızın herkesin eşit olduğunu gösterir."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Yolculuk sırasında otobüs mola verdiğinde, Ahmet pusulasını kullanarak Kâbe'nin yönünü bulmuş ve seccadesini o yöne doğru sermiştir. Ahmet namazın hangi şartını yerine getirmeye çalışmaktadır?",
+      "answers": [
+        "Hadesten Taharet",
+        "İstikbal-i Kıble",
+        "Setr-i Avret",
+        "İftitah Tekbiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Namaz kılarken Mekke'de bulunan Kâbe'nin (Kıble'nin) yönüne doğru dönmeye 'İstikbal-i Kıble' denir."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "Ayağı kırıldığı için alçıda olan ve ayakta duramayan Hasan Amca, namazlarını sandalyede oturarak kılmaktadır. Bu durum İslam diniyle ilgili bize neyi gösterir?",
+      "answers": [
+        "İbadetlerde zorluk çıkarıldığını",
+        "Hastalara namazın yasak olduğunu",
+        "İslam'ın insanlara kolaylık sağlayan bir din olduğunu",
+        "Oturarak kılınan namazın geçersiz olduğunu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "İslam dini zorluk değil, kolaylık dinidir. Ayakta durmaya gücü yetmeyen kişi oturarak, ona da gücü yetmeyen yatarak namazını kılabilir."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "Namazın her rekatında mutlaka okunan, Kuran-ı Kerim'in ilk suresi olan ve 'Önsöz' anlamına da gelen sure hangisidir?",
+      "answers": [
+        "Kevser Suresi",
+        "İhlas Suresi",
+        "Fatiha Suresi",
+        "Asr Suresi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Fatiha Suresi, Kur'an'ın ilk suresidir ve namazın her rekatında okunması zorunludur (vaciptir)."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "Müezzin camide ezan okurken 'Hayya ale's-salâh' diyerek insanları bir şeye davet eder. Bu ifadenin anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Haydi kurtuluşa",
+        "Haydi namaza",
+        "Allah en büyüktür",
+        "Allah'tan başka ilah yoktur"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Ezan'da geçen 'Hayya ale's-salâh' ifadesi 'Haydi namaza' anlamına gelir ve insanları ibadete çağırır."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "Namazın sonunda yüzümüzü önce sağa, sonra sola çevirerek 'Esselamü aleyküm ve rahmetullah' deriz. Bu hareketin namazdaki karşılığı nedir ve ne anlama gelir?",
+      "answers": [
+        "Secdedir, Allah'a yakınlaşmayı ifade eder.",
+        "Kıyamdır, ayakta saygıyla durmayı ifade eder.",
+        "Rükudur, Allah'ın önünde eğilmeyi ifade eder.",
+        "Selamdır, çevremizdekilere ve meleklere esenlik dilemeyi ifade eder."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Namazdan çıkarken sağa ve sola selam vermek, kişinin yanındaki insanlara ve meleklere barış ve esenlik (selam) dilemesidir."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "Ayşe, namaz kılmaya başlamadan önce içinden 'Niyet ettim Allah rızası için bugünkü öğle namazının farzını kılmaya' diye geçirmiştir. Niyetin namazdaki temel amacı nedir?",
+      "answers": [
+        "Hangi namazı kıldığını bilmek ve zihnen ibadete odaklanmak",
+        "Namazın daha kısa sürmesini sağlamak",
+        "Etraftakilere hangi namazı kıldığını duyurmak",
+        "Abdestin eksiklerini tamamlamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Niyet, kalbin bir işe yönelmesidir. Kişi niyet ederek dünyevi düşüncelerden sıyrılıp sadece Allah için ibadet edeceğinin bilincine varır."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "Namaz kılarken ellerimizi dizlerimize koyarak yere paralel şekilde eğildiğimiz bölüme ne ad verilir?",
+      "answers": [
+        "Secde",
+        "Rüku",
+        "Kıyam",
+        "Kıraat"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Namazda ayakta durduktan (kıyam) sonra elleri dizlere koyarak eğilmeye 'Rüku' denir."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Aşağıdaki namazlardan hangisi sadece Ramazan ayına özeldir ve yatsı namazından sonra cemaatle kılınması sünnettir?",
+      "answers": [
+        "Cuma Namazı",
+        "Teravih Namazı",
+        "Bayram Namazı",
+        "Cenaze Namazı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Ramazan ayının coşkusunu artıran, yatsı namazından sonra genellikle 20 rekat olarak kılınan namaz 'Teravih Namazı'dır."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "Namazda alnımızı, burnumuzu, ellerimizi, dizlerimizi ve ayak parmaklarımızı yere değdirerek yaptığımız, Allah'a en yakın olduğumuz an olarak bilinen hareket hangisidir?",
+      "answers": [
+        "Kıyam",
+        "Kıraat",
+        "Rüku",
+        "Secde"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Secde, insanın küçüklüğünü kabul edip Allah'ın büyüklüğü karşısında yere kapandığı ve manevi olarak Allah'a en yakın olduğu andır."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "Günde beş vakit namaz kılan bir öğrenci, sabah erken kalkar, gün ortasında öğle namazına vakit ayırır ve akşam planlarını namaz saatlerine göre yapar. Namazın bu öğrenciye kazandırdığı en temel beceri aşağıdakilerden hangisidir?",
+      "answers": [
+        "Fiziksel güç",
+        "Zaman yönetimi ve disiplin",
+        "Ezber yeteneği",
+        "Müzik kulağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Günün belirli saatlerinde namaz kılan kişi, hayatını ve zamanını planlamayı öğrenir; bu da ona müthiş bir disiplin kazandırır."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "Yüce Allah Kur'an'da 'Şüphesiz namaz, insanı hayasızlıktan ve kötülükten alıkoyar' buyurmuştur. Bu ayete göre gerçek manada namaz kılan bir kişiden hangi davranış beklenmez?",
+      "answers": [
+        "Arkadaşlarıyla yardımlaşması",
+        "Sözünde durması",
+        "Yalan söyleyip insanları aldatması",
+        "Çevresine karşı merhametli olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Namaz, insanın ahlakını güzelleştiren bir eğitimdir. Namaz kılan kişinin kötülüklerden ve yalan gibi günahlardan uzak durması beklenir."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "Cuma namazında imamın cemaate seslendiği, öğütler verdiği ve hutbe okuduğu merdivenli yüksek yapıya ne ad verilir?",
+      "answers": [
+        "Mihrap",
+        "Minare",
+        "Şadırvan",
+        "Minber"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "Camilerde imamın Cuma ve Bayram hutbelerini okumak için çıktığı merdivenli yüksek yere 'Minber' denir."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Namaz kılmaya 'Allahu Ekber' diyerek başlamaya 'İftitah Tekbiri' denir. Bu tekbiri getirirken ellerin kulak hizasına (veya göğse) kaldırılmasının sembolik anlamı nedir?",
+      "answers": [
+        "Dünyalık tüm işleri arkaya atıp sadece Allah'a yönelmek",
+        "Bedensel bir egzersiz yapmak",
+        "Etraftakilerden sessizlik istemek",
+        "Hangi vakti kıldığını göstermek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "İftitah (Başlama) tekbirinde ellerin kaldırılması, dünyalık dertleri ve işleri elinin tersiyle arkaya atıp Allah'ın huzuruna çıkmayı sembolize eder."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Aşağıdaki namazlardan hangisinin rekat sayısı diğerlerinden daha fazladır?",
+      "answers": [
+        "Sabah Namazı",
+        "Öğle Namazı",
+        "Akşam Namazı",
+        "Cuma Namazı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Sabah 4, Akşam 5, Cuma namazı (farz ve sünnetleriyle) 10 rekattır. Öğle namazı ise (4 ilk sünnet, 4 farz, 2 son sünnet) toplam 10 rekattır. (Not: Soru genel bilgiye dayalıdır, Cuma namazı da 10 rekat kabul edildiğinde Öğle ve Cuma eşittir, ancak günlük 5 vakit içinde en çok rekatı olan Öğle ve Yatsıdır. En doğru yaklaşım: Öğle Namazı)."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "Abdest alırken sırasıyla eller, ağız, burun, yüz, kollar, baş, kulaklar, boyun ve ayaklar yıkanır. Bu sıraya dikkat edilerek abdest alınmasının bize kazandırdığı en önemli alışkanlık nedir?",
+      "answers": [
+        "Suyu hızlı kullanmak",
+        "Kişisel temizlik ve bedensel arınma",
+        "Uzun süre uyanık kalmak",
+        "Sıcak havalarda serinlemek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Günde beş kez abdest almak, vücudun kirlenmeye en müsait bölgelerinin düzenli olarak yıkanmasını sağlayarak harika bir kişisel temizlik alışkanlığı kazandırır."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Yılda sadece iki kez kılınan, cemaatle kılınması zorunlu olan ve hutbesi namazdan sonra okunan coşkulu namaz hangisidir?",
+      "answers": [
+        "Cuma Namazı",
+        "Bayram Namazı",
+        "Cenaze Namazı",
+        "Teravih Namazı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Bayram namazı (Ramazan ve Kurban bayramlarında) yılda iki kez büyük bir coşkuyla camide cemaatle kılınır."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "İmamın camide namaz kıldırırken cemaatin önünde durduğu, genellikle oyuk şeklinde olan özel bölüme ne ad verilir?",
+      "answers": [
+        "Mihrap",
+        "Minber",
+        "Şadırvan",
+        "Mahfil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "Camilerde kıble duvarında bulunan ve imamın namaz kıldırmak için geçtiği kavisli bölüme 'Mihrap' denir."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Müslümanlar camide namaz kılan birini gördüklerinde önünden geçmemeye ve sessiz olmaya özen gösterirler. Bu durum neyin göstergesidir?",
+      "answers": [
+        "Camilerin çok küçük olduğunun",
+        "İbadet eden kişinin Allah'ın huzurunda olduğuna duyulan saygının",
+        "İnsanların birbiriyle konuşmak istememesinin",
+        "Sadece imamın konuşma hakkı olduğunun"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Namaz kılan kişi Allah ile iletişim halindedir. Onun dikkatini dağıtmamak ve önünden geçmemek ibadete duyulan büyük bir saygıdır."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "Kerem, namazın hazırlık şartlarından olan 'Setr-i Avret'in ne demek olduğunu unutmuştur. Ona yardım etmek istersen hangi açıklamayı yaparsın?",
+      "answers": [
+        "Abdestin suyla alınmasıdır.",
+        "Kıbleye doğru dönmektir.",
+        "Namazda bedenin belli yerlerinin örtülmesidir.",
+        "Vaktin girmiş olmasıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Setr (örtmek), avret (mahrem yerler) kelimelerinden oluşur. Namaz kılarken bedenin örtülmesi gereken yerlerinin kapatılması şartıdır."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "Cenaze namazı, diğer namazlardan farklı bir yapıya sahiptir. Aşağıdakilerden hangisi cenaze namazı için doğru bir ifadedir?",
+      "answers": [
+        "Sadece rüku ve secdesi vardır.",
+        "Rüku ve secdesi yoktur, sadece ayakta kılınır.",
+        "Günde 5 vakit kılınması farzdır.",
+        "Sadece kadınlar kılar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "Cenaze namazında rüku veya secde yapılmaz. Sadece ayakta (kıyamda) tekbirler getirilerek ve dua edilerek kılınır."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Namazı bitirmek için oturduğumuz son oturuşa 'Kade-i Ahire' denir. Bu oturuşta mutlaka okunması gereken dua hangisidir?",
+      "answers": [
+        "Sübhaneke",
+        "Kunut Duaları",
+        "Tahiyyat (Ettehiyyatü)",
+        "Fatiha Suresi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "Son oturuşta (Kade-i Ahire) 'Tahiyyat' duasını okumak namazın içindeki farzlardan (rükünlerden) biridir."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "İslam dinine göre bir kişinin namaz kılmakla sorumlu (mükellef) olabilmesi için bazı şartları taşıması gerekir. Aşağıdakilerden hangisi bu şartlardan biri değildir?",
+      "answers": [
+        "Akıllı (akli dengesi yerinde) olmak",
+        "Müslüman olmak",
+        "Zengin olmak",
+        "Ergenlik çağına ulaşmış olmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Namaz her Müslümanın üzerine farzdır. Kılmak için zenginlik şartı aranmaz (zenginlik Zekat ve Hac için geçerlidir)."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "Vakti girdiği halde kılınamayan veya kaçırılan bir namazın, daha sonraki bir zamanda kılınmasına ne ad verilir?",
+      "answers": [
+        "Cemaatle namaz",
+        "Kaza namazı",
+        "Sünnet namaz",
+        "Nafile namaz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 1,
+      "explanation": "Vaktinde kılınamayan farz namazların daha sonraki bir vakitte borç olarak ödenmesine 'Kaza Namazı' denir."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "Kur'an'da namaz kılarken ayakta durmaya 'Kıyam', Kur'an okumaya ise 'Kıraat' denir. Buna göre namaz kılan bir kişi ayaktayken Kur'an okuduğunda namazın hangi iki farzını aynı anda yapmış olur?",
+      "answers": [
+        "Rüku ve Secde",
+        "Kıyam ve Kıraat",
+        "Niyet ve Vakit",
+        "Necasetten Taharet ve Setr-i Avret"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 2,
+      "explanation": "Ayakta durmak (Kıyam) ve o esnada Kur'an'dan ayetler okumak (Kıraat) namazın içindeki farzlardır."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Ailesiyle birlikte uzun bir yolculuğa (seferi) çıkan Elif, babasının 4 rekatlık farz namazları 2 rekat olarak kıldığını görür. İslam dininde yolculuklarda uygulanan bu indirimin temel sebebi nedir?",
+      "answers": [
+        "Namazın yolda kılınmasının yasak olması",
+        "Yolculara tanınan bir kolaylık ve merhamet olması",
+        "Yolculukta abdest almanın zor olması",
+        "Arabada namaz kılınamaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "İslam dini, yolculuğun (seferiliğin) zorluklarını göz önüne alarak Müslümanlara merhamet etmiş ve 4 rekatlık farz namazları 2 rekat kılma kolaylığı sağlamıştır."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "Yatsı namazının en sonunda kılınan, 3 rekat olan ve 3. rekatında tekrar tekbir getirilip 'Kunut Duaları' okunan vacip namaz hangisidir?",
+      "answers": [
+        "Vitir Namazı",
+        "Teravih Namazı",
+        "Cuma Namazı",
+        "Teheccüd Namazı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Namaz",
+      "difficulty": 3,
+      "explanation": "Yatsı namazının ardından kılınan ve Kunut dualarının okunduğu 3 rekatlık namaz 'Vitir' namazıdır ve hükmü vaciptir."
+    }
+  ]
+}

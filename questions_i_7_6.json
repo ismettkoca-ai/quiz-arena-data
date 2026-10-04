@@ -1,0 +1,425 @@
+{
+  "unit": "Celebrations",
+  "questions": [
+    {
+      "id": "Q_7_6_001",
+      "questionText": "It is my best friend's birthday tomorrow. I want to ________ a surprise party for him.",
+      "answers": [
+        "throw",
+        "buy",
+        "write",
+        "clean"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "İngilizcede parti vermek, parti düzenlemek anlamında 'throw a party' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_7_6_002",
+      "questionText": "If you want people to come to your party, you should send them ________.",
+      "answers": [
+        "invitation cards",
+        "shopping lists",
+        "beverages",
+        "music CDs"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "İnsanların partiye gelmesi için onlara davetiye ('invitation cards') gönderilmelidir."
+    },
+    {
+      "id": "Q_7_6_003",
+      "questionText": "Before the party starts, we must ________ the living room with balloons and confetti.",
+      "answers": [
+        "decorate",
+        "refuse",
+        "forget",
+        "accept"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Parti öncesinde odayı balon ve konfetilerle süslemek ('decorate') gerekir."
+    },
+    {
+      "id": "Q_7_6_004",
+      "questionText": "Tom: ________ organizing a costume party for Halloween?\nSue: That sounds great!",
+      "answers": [
+        "How about",
+        "Let's",
+        "Why don't we",
+        "Would you like"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Boşluktan sonra gelen fiil '-ing' takısı (organizing) almıştır. Öneri kalıplarından sadece 'How about' (veya What about) kendisinden sonra '-ing' takılı fiil alır."
+    },
+    {
+      "id": "Q_7_6_005",
+      "questionText": "________ prepare some snacks and sandwiches for the guests.",
+      "answers": [
+        "Let's",
+        "How about",
+        "What about",
+        "Would you"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "'Let's' (Hadi) kalıbından sonra fiil yalın halde (prepare) kullanılır."
+    },
+    {
+      "id": "Q_7_6_006",
+      "questionText": "A person who invites people to their house and organizes the party is the ________.",
+      "answers": [
+        "host",
+        "guest",
+        "singer",
+        "clown"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Partiyi düzenleyen ve insanları davet eden kişiye ev sahibi ('host') denir."
+    },
+    {
+      "id": "Q_7_6_007",
+      "questionText": "We need to ________ a big chocolate cake from the bakery for the birthday boy.",
+      "answers": [
+        "order",
+        "wrap",
+        "decorate",
+        "invite"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Fırından/pastaneden pasta sipariş etmek ('order') mantıklı olan eylemdir."
+    },
+    {
+      "id": "Q_7_6_008",
+      "questionText": "İngilizcede 'Beverages' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "İçecekler",
+        "Atıştırmalıklar",
+        "Hediyeler",
+        "Davetiyeler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "'Beverages' kelimesi partilerde sunulan meyve suyu, kola vb. içecekler anlamına gelir."
+    },
+    {
+      "id": "Q_7_6_009",
+      "questionText": "Mom: We don't have ________ juice in the fridge. We should buy some.\nSon: Okay, I will go to the market.",
+      "answers": [
+        "any",
+        "a few",
+        "some",
+        "many"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Olumsuz cümlelerde (don't have) 'hiç' anlamında 'any' kullanılır."
+    },
+    {
+      "id": "Q_7_6_010",
+      "questionText": "There are only ________ apples left. I can make a small apple pie.",
+      "answers": [
+        "a few",
+        "a little",
+        "much",
+        "any"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Elmalar sayılabilen çoğul (apples) bir isim olduğu için 'birkaç' anlamında 'a few' kullanılır."
+    },
+    {
+      "id": "Q_7_6_011",
+      "questionText": "Could you add ________ sugar to my tea, please? I don't like it bitter.",
+      "answers": [
+        "a little",
+        "a few",
+        "many",
+        "any"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Şeker (sugar) sayılamayan bir isimdir. 'Biraz' anlamında sayılamayan isimlerle 'a little' kullanılır."
+    },
+    {
+      "id": "Q_7_6_012",
+      "questionText": "We need to make a ________ list before we go to the supermarket so we don't forget anything.",
+      "answers": [
+        "shopping",
+        "guest",
+        "music",
+        "dance"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Market alışverişine gitmeden önce hiçbir şeyi unutmamak için alışveriş ('shopping') listesi yapılır."
+    },
+    {
+      "id": "Q_7_6_013",
+      "questionText": "Jack: ________ you like to join my graduation party on Friday?\nLeo: I'd love to!",
+      "answers": [
+        "Would",
+        "Do",
+        "Are",
+        "Should"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Kibarca teklifte bulunurken veya davet ederken 'Would you like to...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_7_6_014",
+      "questionText": "Lisa: Let's organize a sleepover party tonight!\nAnn: I'd love to, but ________. I have an important exam tomorrow.",
+      "answers": [
+        "I can't",
+        "that's a great idea",
+        "I will come",
+        "why not"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Sınavı olduğu için teklifi reddetmektedir. 'Çok isterdim ama yapamam' anlamında 'I can't' kullanılmalıdır."
+    },
+    {
+      "id": "Q_7_6_015",
+      "questionText": "A party where people wear special or funny clothes to look like different characters is called a ________ party.",
+      "answers": [
+        "fancy dress / costume",
+        "sleepover",
+        "graduation",
+        "wedding"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "İnsanların farklı karakterlere benzemek için özel kıyafetler giydiği partilere kostüm partisi ('fancy dress party') denir."
+    },
+    {
+      "id": "Q_7_6_016",
+      "questionText": "I bought a nice present for my mother. Now, I need to ________ it with a beautiful paper.",
+      "answers": [
+        "wrap",
+        "eat",
+        "drink",
+        "throw"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Alınan bir hediyeyi ambalaj kağıdıyla kaplamak/paketlemek 'wrap' fiili ile ifade edilir."
+    },
+    {
+      "id": "Q_7_6_017",
+      "questionText": "There are ________ balloons in the room. It looks so colorful and ready for the party.",
+      "answers": [
+        "a lot of",
+        "a little",
+        "any",
+        "much"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Olumlu cümlede sayılabilen çoğul isimlerle (balloons) 'çok' anlamında 'a lot of' veya 'many' kullanılır. 'A lot of' her iki isim türüyle de uygundur."
+    },
+    {
+      "id": "Q_7_6_018",
+      "questionText": "Which sentence is a way of ACCEPTING an invitation?",
+      "answers": [
+        "Sure, it sounds awesome.",
+        "I'm sorry, I am busy.",
+        "I'd love to, but I have other plans.",
+        "No, thanks."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Daveti kabul eden ifade 'Tabi ki, harika kulağa geliyor' anlamına gelen 'Sure, it sounds awesome' cümlesidir."
+    },
+    {
+      "id": "Q_7_6_019",
+      "questionText": "You need to prepare a ________ list to know who is coming to your party.",
+      "answers": [
+        "guest",
+        "shopping",
+        "music",
+        "food"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Partiye kimin geleceğini belirlemek için davetli / misafir ('guest') listesi hazırlanır."
+    },
+    {
+      "id": "Q_7_6_020",
+      "questionText": "My sister is finishing university next week. We are preparing a ________ party for her.",
+      "answers": [
+        "graduation",
+        "birthday",
+        "wedding",
+        "Halloween"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Üniversiteyi bitiren biri için mezuniyet ('graduation') partisi hazırlanır."
+    },
+    {
+      "id": "Q_7_6_021",
+      "questionText": "Tom: ________ don't we buy some party hats?\nSue: Good idea!",
+      "answers": [
+        "Why",
+        "What",
+        "How",
+        "Where"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "'Neden ... yapmıyoruz?' anlamındaki öneri kalıbı 'Why don't we...?' şeklindedir."
+    },
+    {
+      "id": "Q_7_6_022",
+      "questionText": "She is going to ________ candles on her birthday cake and make a wish.",
+      "answers": [
+        "blow out",
+        "wrap",
+        "arrange",
+        "invite"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Doğum günü pastasının üzerindeki mumları üfleyip söndürmek 'blow out' öbeği ile söylenir."
+    },
+    {
+      "id": "Q_7_6_023",
+      "questionText": "İngilizcede 'Arrange music' ifadesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Müzik ayarlamak",
+        "Şarkı söylemek",
+        "Gitar çalmak",
+        "Müzik dinlemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "'Arrange music' bir etkinlik veya parti için müzikleri organize etmek, ayarlamak demektir."
+    },
+    {
+      "id": "Q_7_6_024",
+      "questionText": "If you are hungry, you can eat some ________ on the table.",
+      "answers": [
+        "snacks",
+        "beverages",
+        "music CDs",
+        "decorations"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Aç olan biri masadaki atıştırmalıklardan ('snacks') yiyebilir."
+    },
+    {
+      "id": "Q_7_6_025",
+      "questionText": "How ________ milk do we need for the birthday cake?",
+      "answers": [
+        "much",
+        "many",
+        "few",
+        "any"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Süt (milk) sayılamayan bir isim olduğu için miktar sorulurken 'How much' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_7_6_026",
+      "questionText": "How ________ guests are coming to the wedding ceremony?",
+      "answers": [
+        "many",
+        "much",
+        "little",
+        "some"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Misafirler (guests) sayılabilen çoğul bir isim olduğu için 'Kaç tane?' diye sorarken 'How many' kullanılır."
+    },
+    {
+      "id": "Q_7_6_027",
+      "questionText": "I'm throwing a party. I need to ________ the living room. It looks messy.",
+      "answers": [
+        "clean",
+        "order",
+        "buy",
+        "invite"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Oda dağınık (messy) görünüyorsa, parti öncesi orayı temizlemek ('clean') gerekir."
+    },
+    {
+      "id": "Q_7_6_028",
+      "questionText": "We must choose a nice ________ for the party. Our garden is perfect for this.",
+      "answers": [
+        "place / location",
+        "time",
+        "guest",
+        "music"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 2,
+      "explanation": "Bahçenin harika olduğu söylendiğine göre, parti için seçilmesi gereken şey bir mekan veya yerdir ('place / location')."
+    },
+    {
+      "id": "Q_7_6_029",
+      "questionText": "What do you do with a gift before you give it to someone?",
+      "answers": [
+        "You wrap it.",
+        "You eat it.",
+        "You listen to it.",
+        "You invite it."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Bir hediye, birine verilmeden önce paketlenir ('wrap')."
+    },
+    {
+      "id": "Q_7_6_030",
+      "questionText": "Sue: Let's buy a big cake for the party.\nTom: ________. We can buy a chocolate one.",
+      "answers": [
+        "That's a good idea",
+        "I'm sorry, I can't",
+        "No, thanks",
+        "I hate cakes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Celebrations",
+      "difficulty": 1,
+      "explanation": "Devamında çikolatalı alabiliriz dediği için, teklifi onaylayan 'İyi bir fikir' (That's a good idea) yanıtı doğrudur."
+    }
+  ]
+}

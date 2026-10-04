@@ -1,0 +1,425 @@
+{
+  "unit": "Personal Life",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "Aşağıdaki saat okunuşlarından hangisi DOĞRUDUR? (07:30)",
+      "answers": [
+        "It is half past seven.",
+        "It is quarter past seven.",
+        "It is quarter to seven.",
+        "It is seven o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "07:30 ifadesi İngilizce'de 'half past seven' (saat yedi buçuk) olarak okunur."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "'What time is it?' sorusuna saat 04:15 olduğunda verilecek en doğru yanıt hangisidir?",
+      "answers": [
+        "It is quarter past four.",
+        "It is quarter to four.",
+        "It is half past four.",
+        "It is four o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "04:15 geçe ifadelerinde 'quarter past' kullanılır."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "Günlük rutinlerimizden biri olan 'Uyanmak' fiilinin İngilizce karşılığı hangisidir?",
+      "answers": [
+        "Get up / Wake up",
+        "Go to bed",
+        "Have breakfast",
+        "Wash my face"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Uyanmak ve yataktan kalkmak 'wake up' veya 'get up' fiilleriyle ifade edilir."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Sabahleyin kahvaltı yapmak eylemini belirten ifade hangisidir?",
+      "answers": [
+        "Have breakfast",
+        "Have lunch",
+        "Have dinner",
+        "Brush teeth"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Kahvaltı yapmak 'have breakfast'tır."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "'I can play football, but I can't play the piano.' diyen bir kişi için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Futbol oynayabildiğini, ancak piyano çalamadığını belirtmektedir.",
+        "İkisini de çok iyi yapabildiğini söylemektedir.",
+        "Piyano çalmayı çok sevmektedir.",
+        "Futbol oynamayı sevmemektedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Can' yetenek veya yapabilirlik bildirirken, 'can't' yapamayadığımız şeyleri ifade eder."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+      "answers": [
+        "In the morning - Sabahleyin",
+        "In the afternoon - Öğleden sonra",
+        "At night - Akşamüstü / Gece",
+        "At noon - Gece yarısı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "'At noon' öğle vakti (saat 12:00) demektir; gece yarısı 'midnight'tır."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "'What do you like doing in your free time?' sorusuna verilebilecek en uygun yanıt hangisidir?",
+      "answers": [
+        "I like riding a bike and reading books.",
+        "I am ten years old.",
+        "I get up at 7 o'clock.",
+        "I am from Turkey."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Boş zamanlarda ne yapmayı sevdiğini soran soruya hobilerle yanıt verilir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Saat 08:45 ifadesinin İngilizce doğru okunuşu hangisidir?",
+      "answers": [
+        "It is quarter to nine.",
+        "It is quarter past eight.",
+        "It is half past eight.",
+        "It is nine o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "08:45 dokuza çeyrek var demektir ('quarter to nine')."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "Aşağıdaki eylemlerden hangisi okuldan sonra (after school) yapılan aktivitelerdendir?",
+      "answers": [
+        "Doing homework",
+        "Getting up",
+        "Waking up",
+        "Having breakfast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Ödev yapmak (doing homework) genellikle okul dönüşü yapılır."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "'Can you swim?' sorusuna olumlu ve kısa bir yanıt vermek isteyen kişi ne der?",
+      "answers": [
+        "Yes, I can.",
+        "No, I can.",
+        "Yes, I do.",
+        "No, I am not."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Can' ile sorulan sorulara 'Yes, I can' veya 'No, I can't' ile yanıt verilir."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Yüzümü yıkarım ve dişlerimi fırçalarım eylemleri sırasıyla hangi seçenekte verilmiştir?",
+      "answers": [
+        "Wash my face and brush my teeth",
+        "Get up and go to bed",
+        "Have lunch and run",
+        "Read a book and sleep"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Yüz yıkamak 'wash my face', diş fırçalamak 'brush my teeth'dir."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "Haftada kaç kez veya sıklık bildiren 'How often do you...' sorusuna yanıt verirken kullanılan 'always, usually, sometimes' gibi kelimelere ne denir?",
+      "answers": [
+        "Sıklık zarfları (Adverbs of frequency)",
+        "Zaman edatları",
+        "Kişi zamirleri",
+        "Soru kalıpları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Always, usually, never gibi kelimeler sıklık zarflarıdır."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "'She likes drawing pictures, but she ......... like swimming.' cümlesinde boş bırakılan yere hangisi gelmelidir?",
+      "answers": [
+        "doesn't",
+        "don't",
+        "can",
+        "is"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "'She' öznesiyle birlikte olumsuz geniş zamanda 'doesn't' kullanılır."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Akşam yemeği yemek eyleminin İngilizce karşılığı hangisidir?",
+      "answers": [
+        "Have dinner",
+        "Have breakfast",
+        "Have lunch",
+        "Wake up"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Akşam yemeği 'have dinner' (veya have supper) olarak ifade edilir."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "Saat 12:00 tam öğle vaktini belirtmek için hangi kelime kullanılır?",
+      "answers": [
+        "Noon (Midday)",
+        "Midnight",
+        "Morning",
+        "Evening"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Öğle vakti 'noon' veya 'midday'dir."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "'I go to bed at ten o'clock at night.' diyen bir kişi günün hangi saatinde uyumaktadır?",
+      "answers": [
+        "Saat 22:00'de (gece saat 10'da)",
+        "Sabah saat 10:00'da",
+        "Öğle saat 12:00'de",
+        "Öğleden sonra 16:00'da"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Ten o'clock at night gece saat 10'u (22:00) ifade eder."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Aşağıdaki hobilerden hangisi 'outdoor' (dış mekan / açık hava) aktivitesi olarak değerlendirilir?",
+      "answers": [
+        "Riding a bike / Cycling",
+        "Playing chess",
+        "Reading a book",
+        "Watching TV"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Bisiklet sürmek dışarıda yapılan bir aktivitedir."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "'What time do you get up on weekdays?' sorusundaki 'weekdays' kelimesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Hafta içi günler (Pazartesi - Cuma)",
+        "Hafta sonu",
+        "Yaz tatili",
+        "Doğum günü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Weekdays' hafta içi günlerini ifade eder."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+      "answers": [
+        "Play chess - Futbol oynamak",
+        "Ride a horse - Ata binmek",
+        "Skip rope - İp atlamak",
+        "Fly a kite - Uçurtma uçurmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "'Play chess' satranç oynamak demektir, futbol oynamak 'play football'dur."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "'Do you like camping?' sorusuna olumsuz yanıt vermek isteyen bir kişi ne der?",
+      "answers": [
+        "No, I don't like camping.",
+        "Yes, I do.",
+        "Of course, I love it.",
+        "Yes, I can camp."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Geniş zamanda 'Do you...' sorularına 'No, I don't' ile yanıt verilir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Öğleden sonra okuldan eve dönmek eyleminin İngilizce karşılığı nedir?",
+      "answers": [
+        "Get back home / Come home from school",
+        "Go to school",
+        "Wake up",
+        "Have breakfast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Eve dönmek 'get back home' veya 'come home'dur."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "Hafta sonu (Saturday and Sunday) genellikle ne tür aktiviteler yapılır?",
+      "answers": [
+        "Hobby and outdoor activities, resting",
+        "Going to regular school lessons",
+        "Taking exams all day",
+        "Waking up at 6 am for classes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Hafta sonu okul tatil olduğu için dinlenme ve hobi aktiviteleri yapılır."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "'Can your brother ride a bike? - No, he .........'",
+      "answers": [
+        "can't",
+        "can",
+        "doesn't",
+        "don't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "'Can' ile sorulan soruya olumsuz yanıt verilirken 'can't' kullanılır."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Aşağıdaki ifadelerden hangisi beceri (ability) sormak için kullanılır?",
+      "answers": [
+        "Can you play the guitar?",
+        "What time is it?",
+        "Where are you from?",
+        "What is your name?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Yetenek sormak için 'Can you...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Akşamüstü arkadaşlarıyla dışarıda buluşmak ve oynamak eylemi hangisidir?",
+      "answers": [
+        "Meet friends and play outside",
+        "Sleep all day",
+        "Clean the classroom",
+        "Read a textbook"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 1,
+      "explanation": "Arkadaşlarla buluşmak 'meet friends' demektir."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "Mert her sabah saat 07:30'da uyanmakta, 08:00'de kahvaltı yapmakta ve 08:30'da evden çıkarak okula gitmektedir. Mert'in bu günlük akışı hangi ünitenin konusuna doğrudan aittir?",
+      "answers": [
+        "Personal Life (Günlük rutinler ve kişisel yaşam)",
+        "Wild Animals",
+        "Planets",
+        "Public Buildings"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 3,
+      "explanation": "Günlük rutinler ve saatler Personal Life ünitesinin temelidir."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "'I love listening to music, but my sister ......... pop music.' cümlesinde boş yere hangisi gelmelidir?",
+      "answers": [
+        "hates",
+        "like",
+        "love",
+        "enjoy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "'My sister' tekil bir öznedir (she) ve olumlu cümlede geniş zamanda fiil -s takısı alır ('hates')."
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Aşağıdaki spor ve hobi eşleştirmelerinden hangisi DOĞRUDUR?",
+      "answers": [
+        "Do origami - Origami yapmak",
+        "Play swimming - Yüzmek oynamak",
+        "Go football - Futbol gitmek",
+        "Read a tennis - Tenis okumak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Origami yapmak 'do origami'dir; diğerleri hatalı fiil eşleştirmeleridir."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "Gece yarısını ifade etmek için İngilizce'de hangi kelime kullanılır?",
+      "answers": [
+        "Midnight",
+        "Noon",
+        "Afternoon",
+        "Morning"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Gece yarısı 'midnight'tır."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "'What do you do in the evenings?' sorusuna verilebilecek en mantıklı yanıt hangisidir?",
+      "answers": [
+        "I do my homework and watch cartoons.",
+        "I wake up at 7 am.",
+        "I go to school by bus.",
+        "I eat breakfast."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Personal Life",
+      "difficulty": 2,
+      "explanation": "Akşamları ne yapıldığını soran soruya ödev yapmak ve çizgi film izlemek gibi akşam aktiviteleriyle yanıt verilir."
+    }
+  ]
+}

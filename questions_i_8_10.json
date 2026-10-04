@@ -1,0 +1,425 @@
+{
+  "unit": "Natural Forces",
+  "questions": [
+    {
+      "id": "Q_8_10_001",
+      "questionText": "A sudden and violent shaking of the ground is called a(n) ...............",
+      "answers": [
+        "drought",
+        "earthquake",
+        "flood",
+        "hurricane"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Yerin aniden ve şiddetli bir şekilde sarsılması depremdir. Deprem İngilizcede 'earthquake' demektir."
+    },
+    {
+      "id": "Q_8_10_002",
+      "questionText": "When there is no rain for a long time, rivers and lakes dry up. This natural disaster is called a ...............",
+      "answers": [
+        "drought",
+        "tsunami",
+        "tornado",
+        "landslide"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Uzun süre yağmur yağmaması ve suların kuruması kuraklığa (drought) neden olur."
+    },
+    {
+      "id": "Q_8_10_003",
+      "questionText": "A large mass of snow falling rapidly down a mountain is called an ...............",
+      "answers": [
+        "avalanche",
+        "eruption",
+        "hurricane",
+        "explosion"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Dağdan aşağı hızla düşen büyük kar kütlesi çığdır (avalanche)."
+    },
+    {
+      "id": "Q_8_10_004",
+      "questionText": "We must stop cutting down trees. ............... is a big problem for our planet.",
+      "answers": [
+        "Deforestation",
+        "Recycling",
+        "Planting",
+        "Wind energy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Ağaçların kesilmesi ve ormanların yok edilmesi 'deforestation' (ormansızlaşma) olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_10_005",
+      "questionText": "A ............... is a huge wave caused by an earthquake under the sea.",
+      "answers": [
+        "flood",
+        "tsunami",
+        "volcano",
+        "drought"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Deniz altındaki bir depremin neden olduğu devasa dalgalara 'tsunami' denir."
+    },
+    {
+      "id": "Q_8_10_006",
+      "questionText": "If it rains heavily for days, rivers can overflow and cause a ...............",
+      "answers": [
+        "flood",
+        "hurricane",
+        "drought",
+        "tornado"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Günlerce aşırı yağmur yağması ve nehirlerin taşması sele (flood) neden olur."
+    },
+    {
+      "id": "Q_8_10_007",
+      "questionText": "The Earth is getting hotter every year because of ...............",
+      "answers": [
+        "global warming",
+        "renewable energy",
+        "solar panels",
+        "recycling"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Dünyanın her geçen yıl daha da ısınmasının nedeni küresel ısınmadır (global warming)."
+    },
+    {
+      "id": "Q_8_10_008",
+      "questionText": "People should take some ............... before a natural disaster happens to stay safe.",
+      "answers": [
+        "victims",
+        "precautions",
+        "damages",
+        "reasons"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Afetlerden önce güvende kalmak için 'önlem almak' (take precautions) gerekir."
+    },
+    {
+      "id": "Q_8_10_009",
+      "questionText": "A: What is a tornado?\nB: It is a dark funnel-shaped cloud with very strong ...............",
+      "answers": [
+        "winds",
+        "snow",
+        "fire",
+        "sunlight"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Hortum (tornado), çok güçlü rüzgarları (winds) olan huni şeklindeki bir fırtınadır."
+    },
+    {
+      "id": "Q_8_10_010",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "Volcano - Eruption",
+        "Earthquake - Shaking",
+        "Drought - A lot of rain",
+        "Avalanche - Snow"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 1,
+      "explanation": "Kuraklık (drought) suyun ve yağmurun hiç olmadığı durumlardır. 'A lot of rain' (çok yağmur) sel ile ilgilidir."
+    },
+    {
+      "id": "Q_8_10_011",
+      "questionText": "A: I think we will have serious water shortages in the future.\nB: ............... People are wasting too much water.",
+      "answers": [
+        "I don't think so.",
+        "You are absolutely right.",
+        "That is impossible.",
+        "I completely disagree."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "B kişisi insanların çok su israf ettiğini (wasting too much water) söyleyerek A kişisinin su kıtlığı fikrine katılıyor. Katılma ifadesi 'You are absolutely right' (Kesinlikle haklısın) olmalıdır."
+    },
+    {
+      "id": "Q_8_10_012",
+      "questionText": "To protect our environment, we should use ............... energy like solar and wind power.",
+      "answers": [
+        "fossil",
+        "renewable",
+        "dangerous",
+        "chemical"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Güneş (solar) ve rüzgar (wind) enerjisi gibi çevreye zarar vermeyen enerjilere yenilenebilir (renewable) enerji denir."
+    },
+    {
+      "id": "Q_8_10_013",
+      "questionText": "Because of heavy rain, a large mass of rock and earth fell down the mountain. It destroyed the roads. This was a ...............",
+      "answers": [
+        "drought",
+        "tornado",
+        "landslide",
+        "volcanic eruption"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Aşırı yağmurdan dolayı dağdan aşağı düşen büyük toprak ve kaya kütlesi heyelan/toprak kaymasıdır (landslide)."
+    },
+    {
+      "id": "Q_8_10_014",
+      "questionText": "If we don't protect the animals and their habitats, many species will become ............... in the future.",
+      "answers": [
+        "extinct",
+        "survived",
+        "rescued",
+        "alive"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Hayvanları ve yaşam alanlarını korumazsak gelecekte birçok türün nesli tükenecektir. Nesli tükenmek 'become extinct' demektir."
+    },
+    {
+      "id": "Q_8_10_015",
+      "questionText": "Which sentence is GRAMMATICALLY correct to make a prediction about the future?",
+      "answers": [
+        "I think the Earth was hotter in the past.",
+        "People will probably use flying cars in 2050.",
+        "We are taking precautions now.",
+        "They have never seen a tsunami."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Gelecek hakkında tahmin/öngörü (prediction) yaparken 'will/won't' ve 'probably' (muhtemelen) ifadeleri kullanılır."
+    },
+    {
+      "id": "Q_8_10_016",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Recycle bottles and paper",
+        "Plant more trees",
+        "Use public transportation",
+        "Cut down forests"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Geri dönüşüm yapmak, ağaç dikmek ve toplu taşıma kullanmak çevreci eylemlerdir. Ormanları kesmek (cut down forests) ise çevreye zarar veren olumsuz bir eylemdir."
+    },
+    {
+      "id": "Q_8_10_017",
+      "questionText": "A: What should we do during an earthquake?\nB: We should ...............",
+      "answers": [
+        "use the elevators to go down.",
+        "stand next to the windows.",
+        "drop, cover, and hold on.",
+        "run outside immediately in panic."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Deprem sırasında yapılması gereken doğru hareket 'çök, kapan, tutun' (drop, cover, and hold on) eylemidier. Asansör kullanmak veya cam kenarında durmak tehlikelidir."
+    },
+    {
+      "id": "Q_8_10_018",
+      "questionText": "The rescue team saved three ............... under the ruined buildings after the earthquake.",
+      "answers": [
+        "precautions",
+        "disasters",
+        "victims",
+        "hurricanes"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Kurtarma ekipleri depremden sonra yıkılmış binaların altındaki kurbanları/kazazedeleri (victims) kurtarır."
+    },
+    {
+      "id": "Q_8_10_019",
+      "questionText": "If people continue wasting water, we will ............... clean water soon.",
+      "answers": [
+        "run out of",
+        "take care of",
+        "look for",
+        "get up"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "Suyu israf etmeye devam edersek temiz suyumuz tükenecektir. Bir şeyin tükenmesi/bitmesi 'run out of' phrasal verb'ü ile ifade edilir."
+    },
+    {
+      "id": "Q_8_10_020",
+      "questionText": "A: ...............?\nB: We can unplug electrical devices when we don't use them.",
+      "answers": [
+        "What should we do to save energy",
+        "How can we stop a hurricane",
+        "Why is global warming dangerous",
+        "What is the best renewable energy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 2,
+      "explanation": "B kişisi 'Kullanmadığımız zaman elektrikli aletlerin fişini çekebiliriz' diyor. Bu yüzden A kişisi 'Enerji tasarrufu yapmak için ne yapmalıyız?' diye sormuştur."
+    },
+    {
+      "id": "Q_8_10_021",
+      "questionText": "Read the sentences:\n1. First, you should prepare an emergency bag.\n2. In the bag, you must put some water, food, and a flashlight.\n3. It is very important to have an emergency bag for natural disasters.\n4. Also, a first-aid kit is necessary for injuries.\n\nKarışık olarak verilen cümlelerin anlamlı bir paragraf oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "3 - 1 - 2 - 4",
+        "1 - 2 - 4 - 3",
+        "3 - 2 - 1 - 4",
+        "1 - 4 - 2 - 3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Doğru sıralama: Acil durum çantasına sahip olmak önemlidir (3) -> İlk olarak çantayı hazırlamalısın (1) -> İçine su, yiyecek vs. koymalısın (2) -> Ayrıca ilk yardım çantası da gereklidir (4)."
+    },
+    {
+      "id": "Q_8_10_022",
+      "questionText": "Global warming causes glaciers to melt in the poles, ............... the sea levels are rising and threatening the coastal cities.",
+      "answers": [
+        "so",
+        "because",
+        "but",
+        "if"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Küresel ısınma buzulların erimesine neden olur. Bunun bir SOUNUCU OLARAK deniz seviyeleri yükselir. Sebep-sonuç ilişkisinde sonucu bildirmek için 'so' (bu yüzden/bu nedenle) kullanılır."
+    },
+    {
+      "id": "Q_8_10_023",
+      "questionText": "According to the news, a terrible hurricane hit the coastal town yesterday. It destroyed many houses and uprooted the trees. Fortunately, there were no casualties.\nWhat does 'no casualties' mean in this text?",
+      "answers": [
+        "Nobody lost their lives.",
+        "Many people died.",
+        "The hurricane was very small.",
+        "All the houses were safe."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Metinde 'fortunately, there were no casualties' (Neyse ki can kaybı olmadı) denilmektedir. Bu da 'kimsenin hayatını kaybetmediği' (nobody lost their lives) anlamına gelir."
+    },
+    {
+      "id": "Q_8_10_024",
+      "questionText": "If you want to be an 'eco-friendly' person, you should ...............",
+      "answers": [
+        "throw your rubbish into the sea.",
+        "use fossil fuels for your car.",
+        "leave the tap running while brushing your teeth.",
+        "use eco-friendly light bulbs and recycle your waste."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "'Eco-friendly' çevre dostu demektir. Çevre dostu biri tasarruflu ampuller kullanır ve atıklarını geri dönüştürür (recycle your waste)."
+    },
+    {
+      "id": "Q_8_10_025",
+      "questionText": "A: In my opinion, humans are the biggest threat to nature.\nB: ............... They destroy forests, pollute the oceans, and cause global warming.",
+      "answers": [
+        "I don't think so.",
+        "You are absolutely right.",
+        "That's not true.",
+        "I am afraid I disagree."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "B kişisi, insanların ormanları yok ettiğini ve okyanusları kirlettiğini söyleyerek A kişisinin 'insanlar en büyük tehdittir' fikrini destekliyor. Bu yüzden 'Kesinlikle haklısın' (You are absolutely right) demelidir."
+    },
+    {
+      "id": "Q_8_10_026",
+      "questionText": "Which statement matches with the environmental problem 'Air Pollution'?",
+      "answers": [
+        "People cut down thousands of trees to build new houses.",
+        "The factory chemicals are killing the fish in the river.",
+        "Exhaust gases from cars and factories make it hard to breathe in big cities.",
+        "There hasn't been any rain for 6 months."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "'Air Pollution' hava kirliliğidir. Araçlardan ve fabrikalardan çıkan egzoz gazlarının büyük şehirlerde nefes almayı zorlaştırması hava kirliliği ile ilgilidir."
+    },
+    {
+      "id": "Q_8_10_027",
+      "questionText": "A survey shows what teenagers worry about for the future of the Earth:\n- Global warming: 45%\n- Water shortage: 30%\n- Deforestation: 15%\n- Earthquakes: 10%\n\nAccording to the survey, ...............",
+      "answers": [
+        "teenagers worry about earthquakes the most.",
+        "deforestation is the biggest fear of the teens.",
+        "almost half of the teens are worried about global warming.",
+        "water shortage is less worrying than deforestation."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Küresel ısınmanın oranı %45'tir. Bu oran 'neredeyse yarısı' (almost half) ifadesine karşılık gelir. Gençlerin neredeyse yarısı küresel ısınmadan endişe duymaktadır."
+    },
+    {
+      "id": "Q_8_10_028",
+      "questionText": "Scientists predict that by 2050, the Earth's average temperature will rise by 2 degrees. This will cause ..............., and many coastal cities will be underwater.",
+      "answers": [
+        "earthquakes",
+        "glaciers to melt",
+        "more forests",
+        "volcanic eruptions"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Sıcaklığın artması buzulların erimesine (glaciers to melt) neden olur, bu da deniz seviyesini yükselterek kıyı şehirlerinin su altında kalmasına yol açar."
+    },
+    {
+      "id": "Q_8_10_029",
+      "questionText": "Find the synonym (eş anlamlı) of the word 'damage' or 'destroy'.",
+      "answers": [
+        "Protect",
+        "Ruin",
+        "Rescue",
+        "Survive"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "'Damage' (zarar vermek) ve 'destroy' (yok etmek) kelimelerinin eş anlamlısı 'ruin' (mahvetmek, harabeye çevirmek) kelimesidir. Diğerleri korumak veya kurtarmak anlamındadır."
+    },
+    {
+      "id": "Q_8_10_030",
+      "questionText": "Read the text: 'Natural disasters like earthquakes and tornadoes happen suddenly, so we cannot stop them. However, we can minimize the damage if we take necessary precautions. We must educate people, build stronger houses, and always have an emergency plan.'\n\nWhat is the MAIN IDEA of the text?",
+      "answers": [
+        "We can stop natural disasters if we try hard.",
+        "Earthquakes are more dangerous than tornadoes.",
+        "We cannot prevent natural disasters, but we can prepare for them.",
+        "Emergency plans are only necessary for tornadoes."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Natural Forces",
+      "difficulty": 3,
+      "explanation": "Metinde doğal afetleri durduramayacağımız, ancak gerekli önlemleri alırsak (precautions) hasarı en aza indirebileceğimiz anlatılıyor. Ana fikir: 'Doğal afetleri önleyemeyiz ama onlar için hazırlıklı olabiliriz' (We cannot prevent... but we can prepare for them)."
+    }
+  ]
+}

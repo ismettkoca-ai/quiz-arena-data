@@ -1,0 +1,425 @@
+{
+  "unit": "School Life",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "Lisa: What is your favorite class?\nJohn: I love doing experiments and learning about nature. It is _________.",
+      "answers": [
+        "Science",
+        "Math",
+        "History",
+        "Art"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Deney yapmak (doing experiments) ve doğayı öğrenmek Fen Bilimleri (Science) dersinin içeriğidir."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "Which day comes right after Wednesday?",
+      "answers": [
+        "Thursday",
+        "Tuesday",
+        "Friday",
+        "Monday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Çarşamba (Wednesday) gününden hemen sonra Perşembe (Thursday) gelir."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "We have physical education class in the _________.",
+      "answers": [
+        "gym",
+        "library",
+        "laboratory",
+        "canteen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Beden eğitimi (physical education) dersleri spor salonunda (gym) işlenir."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "Teacher: What do you do in an IT class?\nStudent: We _________.",
+      "answers": [
+        "use computers",
+        "draw pictures",
+        "play football",
+        "sing songs"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "IT (Information Technology - Bilişim Teknolojileri) dersinde bilgisayarlar (use computers) kullanılır."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "I always read books and study quietly in the _________.",
+      "answers": [
+        "library",
+        "playground",
+        "staffroom",
+        "garden"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Sessizce ders çalışılan ve kitap okunan yer kütüphanedir (library)."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "Mark hates solving problems and working with numbers. Which lesson does he probably dislike?",
+      "answers": [
+        "Math",
+        "Music",
+        "Drama",
+        "P.E."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Sayılarla çalışmayı (working with numbers) ve problem çözmeyi sevmeyen biri Matematik (Math) dersini sevmiyordur."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "Sam: _________ do you have English lessons?\nDavid: On Mondays and Thursdays.",
+      "answers": [
+        "When",
+        "Where",
+        "Who",
+        "What"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Yanıt olarak günler (On Mondays...) verildiği için sorunun 'Ne zaman' (When) olması gerekir."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "Look at the time: 08:30. What time is it?",
+      "answers": [
+        "It is half past eight.",
+        "It is quarter past eight.",
+        "It is half past nine.",
+        "It is eight o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "İngilizcede buçuklu saatler 'half past' ile ifade edilir. 08:30 'half past eight' olarak okunur."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Emma wants to buy a sandwich and some fruit juice during the break. Where should she go?",
+      "answers": [
+        "To the canteen",
+        "To the science lab",
+        "To the art room",
+        "To the principal's office"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Okulda yiyecek ve içecek satın alınan yer kantindir (canteen)."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "Student: Excuse me, I didn't understand. _________?\nTeacher: Of course. Open your books to page 12.",
+      "answers": [
+        "Can you repeat that, please",
+        "May I go out",
+        "What time is it",
+        "Where are you from"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Söyleneni anlamayan bir öğrenci, öğretmenden tekrar etmesini isterken 'Can you repeat that, please?' kalıbını kullanır."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "We usually use a dictionary in our _________ classes.",
+      "answers": [
+        "English",
+        "Math",
+        "P.E.",
+        "Music"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Sözlük (dictionary) genellikle yabancı dil, yani İngilizce (English) derslerinde kullanılır."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "Which of the following is a weekend day?",
+      "answers": [
+        "Saturday",
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Cumartesi (Saturday) hafta sonu (weekend) günlerindendir."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "A student needs to draw straight lines for his geometry project. What does he need?",
+      "answers": [
+        "A ruler",
+        "An eraser",
+        "A dictionary",
+        "A schoolbag"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Düz çizgi çizmek için cetvel (ruler) gereklidir."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "Look at the timetable:\nMonday: Art, Drama\nWednesday: Drama, Music\nHow many times a week do the students have Drama?",
+      "answers": [
+        "Twice a week",
+        "Once a week",
+        "Three times a week",
+        "Every day"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Drama dersi programda Pazartesi ve Çarşamba olmak üzere haftada iki kez (twice a week) yer almaktadır."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "Which subject teaches us about countries, mountains, rivers, and maps?",
+      "answers": [
+        "Geography",
+        "History",
+        "Science",
+        "Art"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Ülkeleri, dağları, nehirleri ve haritaları inceleyen ders Coğrafyadır (Geography)."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "I have P.E. _________ Tuesday morning.",
+      "answers": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "İngilizcede gün isimlerinden önce her zaman 'on' edatı kullanılır."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "My classes start _________ half past eight every day.",
+      "answers": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Kesin saat bildiren ifadelerden önce 'at' edatı kullanılır."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "Oliver loves mixing colors, using brushes, and painting landscapes. His favorite class is _________.",
+      "answers": [
+        "Art",
+        "Science",
+        "IT",
+        "History"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Renkleri karıştırmak, fırça kullanmak ve resim yapmak Görsel Sanatlar (Art) dersine aittir."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "Tom: _________ does your English class start?\nJack: It starts at ten o'clock.",
+      "answers": [
+        "What time",
+        "Where",
+        "Why",
+        "Who"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Cevapta bir saat (at ten o'clock) verildiği için soru kelimesi 'Saat kaçta' (What time) olmalıdır."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "During the break time, students play games and chat with their friends in the _________.",
+      "answers": [
+        "playground",
+        "library",
+        "staffroom",
+        "laboratory"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Teneffüslerde öğrencilerin oyun oynayıp sohbet ettiği açık alan okul bahçesidir (playground)."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "Which of the following words is NOT a school subject?",
+      "answers": [
+        "Scissors",
+        "Math",
+        "Science",
+        "History"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Makas (scissors) bir okul eşyasıdır, ders adı değildir."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Alex: Are you good at playing instruments?\nLinda: Yes, I am. I can play the piano.\nWhich class is Linda probably good at?",
+      "answers": [
+        "Music",
+        "Geography",
+        "P.E.",
+        "Art"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Enstrüman çalmakta yetenekli olan birisi büyük ihtimalle Müzik (Music) dersinde başarılıdır."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Which day comes before Sunday?",
+      "answers": [
+        "Saturday",
+        "Monday",
+        "Friday",
+        "Tuesday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Pazar (Sunday) gününden hemen önceki gün Cumartesidir (Saturday)."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "Teachers go to the _________ to rest, drink tea, and prepare for their lessons.",
+      "answers": [
+        "staffroom",
+        "gym",
+        "playground",
+        "canteen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Öğretmenlerin dinlenip ders hazırlığı yaptığı yer öğretmenler odasıdır (staffroom)."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "I like learning about the past, old empires, and famous leaders. My favorite lesson is _________.",
+      "answers": [
+        "History",
+        "Geography",
+        "IT",
+        "Math"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Geçmişi, eski imparatorlukları ve liderleri inceleyen ders Tarih (History) dersidir."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "Student: Teacher, I need to wash my face.\nTeacher: Yes, you can go to the _________.",
+      "answers": [
+        "restroom",
+        "library",
+        "canteen",
+        "staffroom"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Öğrencinin yüzünü yıkamak için gitmesi gereken yer lavabo/tuvalettir (restroom)."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "Look at the time: 09:45. What time is it?",
+      "answers": [
+        "It is quarter to ten.",
+        "It is quarter past nine.",
+        "It is half past nine.",
+        "It is ten o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 3,
+      "explanation": "09:45 saati 'ona çeyrek var' anlamına gelir ve İngilizcede 'quarter to ten' olarak söylenir."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Tim: Do you have Science on Fridays?\nSue: _________. We only have it on Mondays.",
+      "answers": [
+        "No, we don't",
+        "Yes, we do",
+        "Yes, we are",
+        "No, we aren't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Cümlenin devamında dersin sadece Pazartesi günü olduğu belirtildiği için soruya olumsuz yanıt ('No, we don't') verilmelidir."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "We usually use a _________ to carry our books, notebooks, and pencil cases.",
+      "answers": [
+        "schoolbag",
+        "desk",
+        "board",
+        "sharpener"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Kitap ve defterleri taşımak için okul çantası (schoolbag) kullanılır."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "If a student wants to act in plays and perform on a stage, which class should they enjoy?",
+      "answers": [
+        "Drama",
+        "Math",
+        "P.E.",
+        "Geography"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Sahnede rol almak ve tiyatro oynamak Drama dersinin konularındandır."
+    }
+  ]
+}

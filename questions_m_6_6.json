@@ -1,0 +1,425 @@
+{
+  "unit": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+  "questions": [
+    {
+      "id": "Q_6_6_001",
+      "questionText": "5 + 4 · 3 işleminin sonucu kaçtır?",
+      "answers": [
+        "17",
+        "27",
+        "32",
+        "60"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "İşlem önceliğine göre önce çarpma işlemi yapılır: 4 · 3 = 12. Daha sonra toplama işlemi yapılır: 5 + 12 = 17."
+    },
+    {
+      "id": "Q_6_6_002",
+      "questionText": "2³ + (15 / 3) işleminin sonucu kaçtır?",
+      "answers": [
+        "10",
+        "11",
+        "13",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Önce üslü sayı hesaplanır: 2³ = 8. Sonra parantez içi yapılır: 15 / 3 = 5. En son toplanır: 8 + 5 = 13."
+    },
+    {
+      "id": "Q_6_6_003",
+      "questionText": "7 · (10 + 2) = 7 · 10 + 7 · ▲ eşitliğinde ▲ sembolü yerine hangi sayı gelmelidir?",
+      "answers": [
+        "2",
+        "7",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Çarpma işleminin toplama işlemi üzerine dağılma özelliği kullanılmıştır. 7 sayısı parantez içindeki 10 ve 2 ile ayrı ayrı çarpılır. Bu yüzden ▲ = 2'dir."
+    },
+    {
+      "id": "Q_6_6_004",
+      "questionText": "15 · 8 - 15 · 3 işleminin ortak çarpan parantezine alınmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "8 · (15 - 3)",
+        "3 · (15 - 8)",
+        "15 · (8 - 3)",
+        "15 · (8 + 3)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Her iki çarpımda da ortak olan sayı 15'tir. İfade 15 parantezine alındığında 15 · (8 - 3) şeklini alır."
+    },
+    {
+      "id": "Q_6_6_005",
+      "questionText": "24 / 4 · 2 işleminin sonucu kaçtır?",
+      "answers": [
+        "3",
+        "6",
+        "12",
+        "24"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Çarpma ve bölme işlemleri yan yana olduğunda işlem önceliği soldan sağa doğru uygulanır. Önce bölme: 24 / 4 = 6. Sonra çarpma: 6 · 2 = 12."
+    },
+    {
+      "id": "Q_6_6_006",
+      "questionText": "Sözel olarak verilen 'Bir sayının 3 katının 5 fazlası' ifadesinin cebirsel gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "x + 15",
+        "3x + 5",
+        "3 · (x + 5)",
+        "5x + 3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Bilinmeyen sayıya x dersek, 3 katı 3x olur. Bunun 5 fazlası ise 3x + 5 şeklinde yazılır."
+    },
+    {
+      "id": "Q_6_6_007",
+      "questionText": "Sözel olarak verilen 'Bir sayının 4 eksiğinin yarısı' ifadesinin cebirsel gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "x/2 - 4",
+        "4x / 2",
+        "(x - 4) / 2",
+        "(x / 4) - 2"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Önce sayının 4 eksiği bulunur: x - 4. Daha sonra elde edilen bu ifadenin tamamının yarısı alınır: (x - 4) / 2."
+    },
+    {
+      "id": "Q_6_6_008",
+      "questionText": "5x + 3y - 7 cebirsel ifadesi kaç terimden oluşmaktadır?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "Cebirsel ifadelerde toplama ve çıkarma sembolleri ile ayrılan kısımların her birine terim denir. Terimler: 5x, 3y ve -7'dir. Toplam 3 terim vardır."
+    },
+    {
+      "id": "Q_6_6_009",
+      "questionText": "4a - 2b + 8 cebirsel ifadesinin sabit terimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "-2",
+        "4",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "İçinde değişken (harf) bulunmayan terime sabit terim denir. Bu ifadede değişkeni olmayan terim +8'dir."
+    },
+    {
+      "id": "Q_6_6_010",
+      "questionText": "2x - 5y + 10 cebirsel ifadesinin katsayıları toplamı kaçtır?",
+      "answers": [
+        "7",
+        "10",
+        "13",
+        "17"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Terimlerin katsayıları 2, -5 ve 10'dur (sabit terim de bir katsayıdır). Toplamları: 2 - 5 + 10 = 7."
+    },
+    {
+      "id": "Q_6_6_011",
+      "questionText": "x = 4 değeri için 5x - 3 cebirsel ifadesinin değeri kaçtır?",
+      "answers": [
+        "14",
+        "17",
+        "20",
+        "23"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 1,
+      "explanation": "İfadede x yerine 4 yazılır: 5 · 4 - 3 = 20 - 3 = 17."
+    },
+    {
+      "id": "Q_6_6_012",
+      "questionText": "a = 3 değeri için 2a² + 5 cebirsel ifadesinin değeri kaçtır?",
+      "answers": [
+        "17",
+        "23",
+        "36",
+        "41"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Önce a² hesaplanır: 3² = 9. Sonra ifade çözülür: 2 · 9 + 5 = 18 + 5 = 23."
+    },
+    {
+      "id": "Q_6_6_013",
+      "questionText": "5, 9, 13, 17, ... şeklinde devam eden sayı örüntüsünün genel kuralı aşağıdakilerden hangisidir?",
+      "answers": [
+        "n + 4",
+        "4n + 1",
+        "5n",
+        "4n - 1"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Örüntü 4'er 4'er arttığı için n'nin katsayısı 4 olmalıdır (4n). İlk terimin 5 olması için n=1 yazdığımızda 4·1 = 4, 5 olması için 1 eklemeliyiz. Kural: 4n + 1."
+    },
+    {
+      "id": "Q_6_6_014",
+      "questionText": "Genel kuralı 3n - 2 olan bir sayı örüntüsünün 15. adımı kaçtır?",
+      "answers": [
+        "41",
+        "43",
+        "45",
+        "47"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Kuralda n yerine 15 yazılır: 3 · 15 - 2 = 45 - 2 = 43."
+    },
+    {
+      "id": "Q_6_6_015",
+      "questionText": "Bir şekil örüntüsünde 1. adımda 4, 2. adımda 7, 3. adımda 10 adet kibrit çöpü kullanılmıştır. Bu örüntünün genel kuralı aşağıdakilerden hangisidir?",
+      "answers": [
+        "n + 3",
+        "3n - 1",
+        "3n + 1",
+        "4n"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Kibrit sayıları 3'er artmaktadır, bu yüzden kural 3n ile başlar. 1. adımda 4 olması için n=1 iken 3·1 = 3, 1 eklersek 4 olur. Kural 3n + 1'dir."
+    },
+    {
+      "id": "Q_6_6_016",
+      "questionText": "Aşağıdaki terim çiftlerinden hangisi cebirsel ifadelerde 'benzer terim'dir?",
+      "answers": [
+        "3x ve 3y",
+        "4a ve 4",
+        "5x² ve 2x",
+        "-2y ve 7y"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Benzer terim olabilmesi için harflerin (değişkenlerin) ve bu harflerin kuvvetlerinin tamamen aynı olması gerekir. -2y ve 7y benzer terimlerdir."
+    },
+    {
+      "id": "Q_6_6_017",
+      "questionText": "20 · 99 işlemini çarpma işleminin dağılma özelliğini kullanarak zihinden yapmak isteyen bir öğrenci, aşağıdaki işlemlerden hangisini yapmalıdır?",
+      "answers": [
+        "20 · (90 + 9)",
+        "20 · (100 - 1)",
+        "99 · (10 + 10)",
+        "20 · (50 + 49)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "99 sayısını hesaplaması kolay olan 100 sayısına tamamlayarak (100 - 1) şeklinde yazarız. Böylece 20 · 100 - 20 · 1 işlemiyle sonuç kolayca bulunur."
+    },
+    {
+      "id": "Q_6_6_018",
+      "questionText": "3² · (10 - 2) / 4 işleminin sonucu kaçtır?",
+      "answers": [
+        "9",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "İşlem önceliğine göre önce üslü sayı ve parantez: 9 · (8) / 4. Sonra çarpma ve bölme soldan sağa yapılır: 72 / 4 = 18."
+    },
+    {
+      "id": "Q_6_6_019",
+      "questionText": "'Ahmet'in yaşının 2 katının 3 eksiği 15'tir.' ifadesine ait denklem aşağıdakilerden hangisidir?",
+      "answers": [
+        "2x + 3 = 15",
+        "3x - 2 = 15",
+        "2x - 3 = 15",
+        "2(x - 3) = 15"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Ahmet'in yaşına x dersek, 2 katı 2x olur. 3 eksiği ise 2x - 3 şeklinde ifade edilir. Denklem: 2x - 3 = 15."
+    },
+    {
+      "id": "Q_6_6_020",
+      "questionText": "x = 2 ve y = 3 değerleri için 4x + 3y cebirsel ifadesinin değeri kaçtır?",
+      "answers": [
+        "14",
+        "17",
+        "20",
+        "24"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "x yerine 2, y yerine 3 yazarız: 4 · 2 + 3 · 3 = 8 + 9 = 17."
+    },
+    {
+      "id": "Q_6_6_021",
+      "questionText": "Kısa kenarı 5 cm, uzun kenarı (x + 2) cm olan bir dikdörtgenin santimetrekare cinsinden alanını veren cebirsel ifade aşağıdakilerden hangisidir?",
+      "answers": [
+        "5x + 2",
+        "5x + 7",
+        "5x + 10",
+        "x + 10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "Dikdörtgenin alanı kısa kenar ile uzun kenarın çarpımıdır. 5 · (x + 2). Dağılma özelliği uygulanırsa 5x + 10 olur."
+    },
+    {
+      "id": "Q_6_6_022",
+      "questionText": "4, 11, 18, 25... şeklinde devam eden sayı örüntüsünün 8. terimi kaçtır?",
+      "answers": [
+        "46",
+        "53",
+        "60",
+        "67"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Örüntü 7'şer artmaktadır (Kural: 7n - 3). 8. adımı bulmak için kuralda n yerine 8 yazarız: 7 · 8 - 3 = 56 - 3 = 53."
+    },
+    {
+      "id": "Q_6_6_023",
+      "questionText": "3x - 4y + 5 cebirsel ifadesindeki katsayıların çarpımı kaçtır?",
+      "answers": [
+        "-60",
+        "-12",
+        "15",
+        "60"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Katsayılar 3, -4 ve 5'tir. Çarpımları: 3 · (-4) · 5 = -12 · 5 = -60'tır."
+    },
+    {
+      "id": "Q_6_6_024",
+      "questionText": "60 / 5 · 3 + 2 işleminin sonucu kaçtır?",
+      "answers": [
+        "6",
+        "14",
+        "38",
+        "60"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Bölme ve çarpma yan yanayken soldan sağa işlem yapılır: 60 / 5 = 12. Sonra çarpma: 12 · 3 = 36. En son toplama: 36 + 2 = 38."
+    },
+    {
+      "id": "Q_6_6_025",
+      "questionText": "(x + 3) / 2 cebirsel ifadesinin x = 9 için değeri kaçtır?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 2,
+      "explanation": "İfadede x yerine 9 yazılır: (9 + 3) / 2 = 12 / 2 = 6."
+    },
+    {
+      "id": "Q_6_6_026",
+      "questionText": "Bir taksinin açılış ücreti 15 TL'dir. Taksimetre, gidilen her kilometre için 10 TL yazmaktadır. Bu taksi ile x kilometre yol giden bir yolcunun ödeyeceği toplam ücreti veren cebirsel ifade nedir?",
+      "answers": [
+        "15x + 10",
+        "10x + 15",
+        "25x",
+        "10 · (x + 15)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Gidilen mesafe (x) kilometre başı ücret olan 10 ile çarpılır (10x). Üzerine baştan sabit alınan 15 TL açılış ücreti eklenir: 10x + 15."
+    },
+    {
+      "id": "Q_6_6_027",
+      "questionText": "12 · (A + B) = 12 · 8 + 12 · 5 eşitliğine göre, dağılma özelliği düşünüldüğünde A + B toplamı kaçtır?",
+      "answers": [
+        "10",
+        "12",
+        "13",
+        "25"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Dağılma özelliğine göre A ve B değerleri eşitliğin karşı tarafındaki 8 ve 5 sayılarına karşılık gelmektedir. Toplamları 8 + 5 = 13 olur."
+    },
+    {
+      "id": "Q_6_6_028",
+      "questionText": "Ali'nin parası, Veli'nin parasından 20 TL eksiktir. Veli'nin parası x TL olduğuna göre, her ikisinin paraları TOPLAMINI gösteren cebirsel ifade nedir?",
+      "answers": [
+        "2x - 20",
+        "2x + 20",
+        "x - 20",
+        "x + 20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Veli'nin parası = x. Ali'nin parası = x - 20. İkisinin toplamı: x + (x - 20) = 2x - 20."
+    },
+    {
+      "id": "Q_6_6_029",
+      "questionText": "Bir sinema salonunda ilk sırada 10 koltuk vardır. Her arka sırada koltuk sayısı 3 artmaktadır. Buna göre 6. sırada kaç koltuk vardır?",
+      "answers": [
+        "22",
+        "25",
+        "28",
+        "31"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Örüntü 3'er artmaktadır (Kural: 3n). 1. sırada 10 koltuk olması için kural 3n + 7 olmalıdır. 6. sıradaki koltuk sayısı: 3 · 6 + 7 = 18 + 7 = 25'tir."
+    },
+    {
+      "id": "Q_6_6_030",
+      "questionText": "Bir fidan dikildiğinde boyu 20 cm'dir. Bu fidan her ay düzenli olarak 5 cm uzamaktadır. x ay sonra fidanın boyunun cm cinsinden uzunluğunu gösteren cebirsel ifade hangisidir?",
+      "answers": [
+        "20x + 5",
+        "5x + 20",
+        "25x",
+        "5 · (x + 20)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "difficulty": 3,
+      "explanation": "Fidan her ay 5 cm uzadığı için x ayda 5x cm uzar. İlk boyu olan sabit 20 cm'nin üzerine eklenir: 5x + 20."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Planets",
+  "questions": [
+    {
+      "id": "Q_7_10_001",
+      "questionText": "Jupiter is ________ planet in our solar system.",
+      "answers": [
+        "the biggest",
+        "bigger",
+        "the most big",
+        "big"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Jüpiter Güneş sistemindeki 'en büyük' gezegendir. Kısa sıfatlarda en üstünlük (Superlative) derecesi yapılırken başa 'the' ve sıfata '-est' takısı getirilir."
+    },
+    {
+      "id": "Q_7_10_002",
+      "questionText": "Which planet is known as the 'Red Planet'?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Renginden dolayı 'Kızıl Gezegen' (Red Planet) olarak bilinen gezegen Mars'tır."
+    },
+    {
+      "id": "Q_7_10_003",
+      "questionText": "Scientists use a powerful ________ to observe the stars, moons, and planets.",
+      "answers": [
+        "telescope",
+        "microscope",
+        "satellite",
+        "shuttle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Yıldızları ve gezegenleri gözlemlemek (observe) için kullanılan optik araç teleskoptur (telescope)."
+    },
+    {
+      "id": "Q_7_10_004",
+      "questionText": "Venus is ________ than Mercury, even though Mercury is closer to the Sun.",
+      "answers": [
+        "hotter",
+        "hottest",
+        "more hot",
+        "hot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "İki gezegen kıyaslanıyor (Venus ve Mercury). 'Hot' kısa sıfat olduğu için daha sıcak demek için '-er' takısı alarak 'hotter' olur."
+    },
+    {
+      "id": "Q_7_10_005",
+      "questionText": "İngilizcede 'Solar System' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Güneş Sistemi",
+        "Samanyolu Galaksisi",
+        "Uzay Mekiği",
+        "Gök Taşı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "'Solar' Güneş ile ilgili, 'System' sistem demektir; yani 'Solar System' Güneş Sistemi anlamına gelir."
+    },
+    {
+      "id": "Q_7_10_006",
+      "questionText": "Saturn is very famous for its beautiful, large ________ made of ice and rock.",
+      "answers": [
+        "rings",
+        "moons",
+        "stars",
+        "orbits"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Satürn, buz ve kayalardan oluşan güzel halkalarıyla ('rings') ünlüdür."
+    },
+    {
+      "id": "Q_7_10_007",
+      "questionText": "The Earth takes 365 days to complete its ________ around the Sun.",
+      "answers": [
+        "orbit",
+        "gravity",
+        "surface",
+        "planet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Dünyanın Güneş etrafında izlediği yola ve attığı tura yörünge ('orbit') denir."
+    },
+    {
+      "id": "Q_7_10_008",
+      "questionText": "The Moon is the Earth's natural ________.",
+      "answers": [
+        "satellite",
+        "star",
+        "galaxy",
+        "meteor"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Ay, Dünyamızın doğal uydusudur. Uydu İngilizcede 'satellite' olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_10_009",
+      "questionText": "A special vehicle that takes astronauts into space is called a ________.",
+      "answers": [
+        "space shuttle",
+        "telescope",
+        "submarine",
+        "helicopter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Astronotları uzaya taşıyan özel araçlara uzay mekiği ('space shuttle') denir."
+    },
+    {
+      "id": "Q_7_10_010",
+      "questionText": "Which planet is the closest one to the Sun?",
+      "answers": [
+        "Mercury",
+        "Earth",
+        "Mars",
+        "Neptune"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Güneş'e en yakın ('the closest') gezegen Merkür'dür (Mercury)."
+    },
+    {
+      "id": "Q_7_10_011",
+      "questionText": "İngilizcede 'Gravity' kelimesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Yerçekimi",
+        "Yörünge",
+        "Yüzey",
+        "Kanıt"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Cisimleri yere doğru çeken kuvvete, yani yerçekimine İngilizcede 'Gravity' denir."
+    },
+    {
+      "id": "Q_7_10_012",
+      "questionText": "Pluto is very small, so scientists call it a ________ planet.",
+      "answers": [
+        "dwarf",
+        "giant",
+        "hot",
+        "fast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Plüton çok küçük olduğu için bilim insanları tarafından cüce gezegen ('dwarf planet') olarak sınıflandırılır."
+    },
+    {
+      "id": "Q_7_10_013",
+      "questionText": "Which of the following is a STAR, not a planet?",
+      "answers": [
+        "The Sun",
+        "Uranus",
+        "Neptune",
+        "Venus"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Güneş ('The Sun') bir gezegen değil, ısı ve ışık yayan bir yıldızdır."
+    },
+    {
+      "id": "Q_7_10_014",
+      "questionText": "Our solar system is located in the Milky Way ________.",
+      "answers": [
+        "galaxy",
+        "planet",
+        "orbit",
+        "meteor"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Güneş sistemimiz Samanyolu galaksisinde ('Milky Way galaxy') yer alır."
+    },
+    {
+      "id": "Q_7_10_015",
+      "questionText": "The Earth is ________ than Mars, so it has stronger gravity.",
+      "answers": [
+        "larger",
+        "the largest",
+        "large",
+        "more large"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "İki gezegen karşılaştırılırken 'daha büyük' demek için 'large' sıfatı 'larger' şekline dönüşür."
+    },
+    {
+      "id": "Q_7_10_016",
+      "questionText": "Neptune is ________ planet from the Sun in our solar system.",
+      "answers": [
+        "the farthest",
+        "farther",
+        "far",
+        "the most far"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 3,
+      "explanation": "Neptün Güneş'e 'en uzak' gezegendir. 'Far' (uzak) sıfatının en üstünlük (Superlative) hali 'the farthest' veya 'the furthest' şeklindedir."
+    },
+    {
+      "id": "Q_7_10_017",
+      "questionText": "What is the Turkish meaning of the word 'Observe' in science?",
+      "answers": [
+        "Gözlemlemek",
+        "Keşfetmek",
+        "Fırlatmak",
+        "Kanıtlamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Bilimde bir şeyi teleskop veya mikroskopla incelemek, 'gözlemlemek' (observe) anlamına gelir."
+    },
+    {
+      "id": "Q_7_10_018",
+      "questionText": "There is no life on Mars because it doesn't have any ________ or water on its surface.",
+      "answers": [
+        "oxygen",
+        "rocks",
+        "dust",
+        "sand"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Mars'ta yaşam olmamasının sebebi yüzeyinde su ve solunacak oksijen ('oxygen') olmamasıdır."
+    },
+    {
+      "id": "Q_7_10_019",
+      "questionText": "A ________ is a large piece of rock moving through space.",
+      "answers": [
+        "meteor / asteroid",
+        "telescope",
+        "satellite",
+        "astronaut"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Uzayda hareket eden büyük kaya parçalarına meteor veya asteroit denir."
+    },
+    {
+      "id": "Q_7_10_020",
+      "questionText": "The temperature on Venus is about 460 °C. It is ________ planet in the solar system.",
+      "answers": [
+        "the hottest",
+        "hotter",
+        "the most hot",
+        "hot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "460 derece sıcaklık onu Güneş sistemindeki 'en sıcak' (the hottest) gezegen yapar."
+    },
+    {
+      "id": "Q_7_10_021",
+      "questionText": "Which planet is between Venus and Mars?",
+      "answers": [
+        "Earth",
+        "Mercury",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Güneş sistemindeki sıralamaya göre Venüs ile Mars arasında Dünya (Earth) yer alır."
+    },
+    {
+      "id": "Q_7_10_022",
+      "questionText": "Scientists are looking for the ________ of life on other planets, like small drops of water.",
+      "answers": [
+        "evidence",
+        "gravity",
+        "orbit",
+        "shuttle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 3,
+      "explanation": "Bilim insanları başka gezegenlerde su damlacıkları gibi yaşam kanıtları/delilleri ('evidence') aramaktadırlar."
+    },
+    {
+      "id": "Q_7_10_023",
+      "questionText": "What does 'Launch' mean when we talk about a space shuttle?",
+      "answers": [
+        "Fırlatmak",
+        "İnmek",
+        "İnşa etmek",
+        "Gözlemlemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "Uzay mekiği veya roketler için 'Launch' kelimesi fırlatmak, uzaya göndermek anlamına gelir."
+    },
+    {
+      "id": "Q_7_10_024",
+      "questionText": "Uranus is an 'ice giant'. It is very ________ because it is far away from the Sun.",
+      "answers": [
+        "cold",
+        "hot",
+        "fast",
+        "small"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Uranüs Güneş'e çok uzak olan bir buz devidir, bu yüzden çok soğuktur ('cold')."
+    },
+    {
+      "id": "Q_7_10_025",
+      "questionText": "People who are trained to travel and work in space are called ________.",
+      "answers": [
+        "astronauts",
+        "aliens",
+        "engineers",
+        "pilots"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Uzayda çalışmak ve seyahat etmek üzere eğitilmiş kişilere astronot ('astronauts') denir."
+    },
+    {
+      "id": "Q_7_10_026",
+      "questionText": "İngilizcede 'Surface' kelimesinin uzay bilimlerindeki Türkçe karşılığı nedir?",
+      "answers": [
+        "Yüzey",
+        "Çekirdek",
+        "Atmosfer",
+        "Yörünge"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "'Surface' kelimesi gezegenlerin dış katmanı, yani yüzeyi anlamına gelir."
+    },
+    {
+      "id": "Q_7_10_027",
+      "questionText": "Which sentence is grammatically CORRECT?",
+      "answers": [
+        "Jupiter is larger than Mars.",
+        "Jupiter is more large than Mars.",
+        "Jupiter is largest than Mars.",
+        "Jupiter is the larger than Mars."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 2,
+      "explanation": "'Large' kısa sıfattır. İki gezegen kıyaslanırken -er takısı alır (larger). 'Than' kelimesiyle kıyaslama yapılır."
+    },
+    {
+      "id": "Q_7_10_028",
+      "questionText": "Space ________ is dangerous but very exciting for humanity to learn about the universe.",
+      "answers": [
+        "exploration",
+        "gravity",
+        "pollution",
+        "surface"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 3,
+      "explanation": "Uzayı öğrenmek için yapılan çalışmalar uzay keşfi ('exploration') olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_10_029",
+      "questionText": "A meteor becomes a 'meteorite' when it hits the Earth's ________.",
+      "answers": [
+        "surface",
+        "orbit",
+        "galaxy",
+        "moon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 3,
+      "explanation": "Bir gök taşı Dünya'nın yüzeyine ('surface') çarptığında meteorit adını alır."
+    },
+    {
+      "id": "Q_7_10_030",
+      "questionText": "The Earth is ________ planet from the Sun.",
+      "answers": [
+        "the third",
+        "the first",
+        "the second",
+        "the fourth"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Planets",
+      "difficulty": 1,
+      "explanation": "Güneş sistemindeki gezegen sıralaması Merkür, Venüs ve Dünya'dır. Yani Dünya 3. sıradaki ('the third') gezegendir."
+    }
+  ]
+}

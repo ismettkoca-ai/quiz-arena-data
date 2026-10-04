@@ -1,0 +1,425 @@
+{
+  "unit": "Yaşamımızdaki Elektrik",
+  "questions": [
+    {
+      "id": "Q_5_6_001",
+      "questionText": "Basit bir elektrik devresinde enerjiyi (elektriği) sağlayan ve devrenin güç kaynağı olan eleman aşağıdakilerden hangisidir?",
+      "answers": [
+        "Anahtar",
+        "Kablo",
+        "Pil",
+        "Duy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Pil, kimyasal enerjiyi elektrik enerjisine çevirerek devrenin çalışması için gereken tüm gücü (akımı) sağlayan kaynaktır."
+    },
+    {
+      "id": "Q_5_6_002",
+      "questionText": "Devredeki pilden aldığı elektrik enerjisini ısı ve ışık enerjisine çevirerek etrafı aydınlatan devre elemanı hangisidir?",
+      "answers": [
+        "Duy",
+        "Ampul",
+        "Anahtar",
+        "Pil yatağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Ampul, elektrik enerjisinin içindeki ince telden (filamandan) geçerken parlamasıyla ortama ışık yayan elemandır."
+    },
+    {
+      "id": "Q_5_6_003",
+      "questionText": "Pilde üretilen elektrik enerjisinin devredeki diğer elemanlara (ampule, anahtara) taşınmasını sağlayan yola ne ad verilir?",
+      "answers": [
+        "Bağlantı Kablosu",
+        "Pil Yatağı",
+        "Duy",
+        "Direnç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Bağlantı kablosu (iletken tel), elektriğin bir noktadan başka bir noktaya akmasını (taşınmasını) sağlayan yoldur."
+    },
+    {
+      "id": "Q_5_6_004",
+      "questionText": "Evlerimizde ışığı açıp kapatmak için duvardaki düğmelere basarız. Bu düğmenin basit elektrik devresindeki karşılığı olan devre elemanı hangisidir?",
+      "answers": [
+        "Kablo",
+        "Duy",
+        "Anahtar",
+        "Pil"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Anahtar, elektrik akımının geçişine izin veren (açık/kapalı durumuna göre) devreyi kontrol ettiğimiz elemandır."
+    },
+    {
+      "id": "Q_5_6_005",
+      "questionText": "Basit bir elektrik devresinde 'Anahtar Açık' durumdayken devredeki ampulün durumu ne olur?",
+      "answers": [
+        "Ampul çok parlak yanar.",
+        "Ampul patlar.",
+        "Elektrik akımı geçemeyeceği için ampul ışık vermez (yanmaz).",
+        "Ampul sönük yanar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Anahtarın açık olması, kablodaki yolun kopuk (köprünün kalkmış) olması demektir. Akım karşıya geçemez ve ampul yanmaz."
+    },
+    {
+      "id": "Q_5_6_006",
+      "questionText": "Basit bir elektrik devresi kuran Ali, her şeyi doğru bağlamasına rağmen ampulün yanmadığını fark ediyor. Aşağıdakilerden hangisi ampulün yanmama sebeplerinden biri *olamaz*?",
+      "answers": [
+        "Pilin bitmiş olması",
+        "Kablolardan birinin kopuk olması",
+        "Ampulün içindeki ince telin (filamanın) kopmuş olması",
+        "Devrede pil yatağının kullanılmamış olması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Pil yatağı pilleri sabitlemek için bir kolaylıktır. Kablolar direkt pile bantla yapıştırılsa bile devre çalışır. Pil yatağı olmaması devreyi bozmaz."
+    },
+    {
+      "id": "Q_5_6_007",
+      "questionText": "Piller devrede birden fazla kullanıldığında birbirlerine düzgün temas etmeleri için kullanılan ve devrenin kurulumunu kolaylaştıran plastik/metal yuvaya ne ad verilir?",
+      "answers": [
+        "Duy",
+        "Pil Yatağı",
+        "Bağlantı Kablosu",
+        "Anahtar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Pillerin kaymasını önlemek ve artı/eksi kutuplarını doğru temas ettirmek için piller 'Pil Yatağı' adı verilen plastik yuvaya oturtulur."
+    },
+    {
+      "id": "Q_5_6_008",
+      "questionText": "Ampulün devreye daha sağlam tutunması, sarsıntıdan düşmemesi ve kablo uçlarının kolayca bağlanması için ampulün takıldığı yuvanın adı nedir?",
+      "answers": [
+        "Duy",
+        "Kasa",
+        "Pil Yatağı",
+        "Kutu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Evlerimizdeki avizelerde de gördüğümüz, ampulün çevrilerek oturtulduğu yuvaya Duy denir."
+    },
+    {
+      "id": "Q_5_6_009",
+      "questionText": "Aşağıdaki devre elemanlarından hangisinin tüm dünyada geçerli ortak (evrensel) bir devre şeması sembolü *yoktur*?",
+      "answers": [
+        "Pil",
+        "Anahtar",
+        "Ampul",
+        "Duy ve Pil Yatağı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Duy ve pil yatağı devrenin ana (zorunlu) parçaları değildir, sadece yardımcı malzemelerdir. Bu yüzden bilimsel şemalarda sembolleri yoktur."
+    },
+    {
+      "id": "Q_5_6_010",
+      "questionText": "Bilim insanları veya mühendisler elektrik devresi çizerken neden ampulün veya pilin gerçek resmini çizmek yerine 'Semboller' kullanırlar?",
+      "answers": [
+        "Gerçek resim çizmek yasak olduğu için",
+        "Sembollerle çizim yapmanın daha hızlı olması ve dünyanın her yerindeki (farklı dillerdeki) insanlar tarafından ortak olarak anlaşılabilmesi için",
+        "Sadece çocukların anlamasını sağlamak için",
+        "Sayfada yer kalmadığı için"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Semboller evrensel bir dildir. Çin'deki bir mühendis ile Türkiye'deki bir öğrenci aynı sembolü gördüğünde onun bir 'pil' olduğunu anlar ve çizimi çok kolaydır."
+    },
+    {
+      "id": "Q_5_6_011",
+      "questionText": "Elektrik devre şemalarında 'yuvarlak bir daire içinde çarpı (X) işareti' şeklindeki sembol hangi devre elemanını temsil eder?",
+      "answers": [
+        "Pil",
+        "Anahtar",
+        "Kablo",
+        "Ampul"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Yuvarlak içinde X harfi, içinden ışık saçılan (çarpı ile ışık yansımalarının sembolize edildiği) Ampulün evrensel işaretidir."
+    },
+    {
+      "id": "Q_5_6_012",
+      "questionText": "Devre şemalarında biri uzun diğeri kısa olan iki paralel dikey çizgi (| ı) hangi devre elemanını temsil eder?",
+      "answers": [
+        "Pil",
+        "Anahtar",
+        "Duy",
+        "Ampul"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Uzun ve kısa paralel çizgiler pilin sembolüdür. Piller devrede enerji kaynağı oldukları için çizimlerde bu şekilde gösterilir."
+    },
+    {
+      "id": "Q_5_6_013",
+      "questionText": "Pilin sembolü çizilirken uzun ve kısa çizgilerin ifade ettiği anlam aşağıdakilerden hangisidir?",
+      "answers": [
+        "Uzun çizgi sağ tarafı, kısa çizgi sol tarafı gösterir.",
+        "Uzun çizgi (+) kutbu (Artı), kısa çizgi ise (-) kutbu (Eksi) temsil eder.",
+        "Uzun çizgi yeni pili, kısa çizgi bitmiş pili gösterir.",
+        "Uzun çizgi kabloyu, kısa çizgi anahtarı gösterir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Pilin iki kutbu vardır. Akımın çıktığı Artı (+) kutup her zaman uzun dikey çizgiyle, Eksi (-) kutup ise kısa kalın çizgiyle çizilir."
+    },
+    {
+      "id": "Q_5_6_014",
+      "questionText": "Bağlantı kabloları elektrik devre şemalarında hangi şekille (sembolle) gösterilir?",
+      "answers": [
+        "Yuvarlak içine X işareti",
+        "Dalgalı çizgiler",
+        "Dümdüz siyah çizgiler",
+        "Artı ve eksi işaretleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Elektriğin üzerinden kolayca aktığı yol olan kablolar, devre şemalarında elemanları birbirine bağlayan düz çizgiler olarak gösterilir."
+    },
+    {
+      "id": "Q_5_6_015",
+      "questionText": "Basit bir devrede anahtar sembolü iki yuvarlak ucu birbirine bağlayan yukarı kalkmış bir çizgi şeklindeyse (köprü havada), bu devredeki ampulün durumu nedir?",
+      "answers": [
+        "Ampul yanıyordur.",
+        "Devreden akım geçemediği için ampul yanmıyordur (Anahtar Açıktır).",
+        "Pil patlamak üzeredir.",
+        "Kablolar çok ısınmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Çizginin yukarı kalkık (açık) olması, köprünün havada olması demektir. Akım geçemez, bu yüzden lamba sönüktür. (Düğmenin kapalı haline denk gelir)."
+    },
+    {
+      "id": "Q_5_6_016",
+      "questionText": "El fenerini açma kapama düğmesine basarak yaktığımızda, el fenerinin içindeki elektrik devresinde ne olmuş olur?",
+      "answers": [
+        "Anahtar 'açık' konuma gelmiş, kablo kopmuştur.",
+        "Pil tükenmiştir.",
+        "Anahtar 'kapalı' konuma gelmiş, açık olan yol birleşmiş ve elektrik akımı tamamlanarak ampule ulaşmıştır.",
+        "Ampul patlamıştır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 3,
+      "explanation": "Işığın yanması için devrenin tamamlanması, yolun kapanması gerekir. Anahtarın kapanması, akımın rahatça geçip ampulü yakması demektir."
+    },
+    {
+      "id": "Q_5_6_017",
+      "questionText": "Bir öğrenci elindeki pili devreye bağlarken pilin her iki ucunu (artı ve eksi) aynı kabloyla kısa yoldan birbirine dokundurmuştur. Bu durum devrede hangi soruna yol açar?",
+      "answers": [
+        "Ampul daha parlak yanar.",
+        "Pil şarj olur.",
+        "Kısa devre oluşur, pil aniden ısınır ve ampul yanmaz.",
+        "Hiçbir şey olmaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 3,
+      "explanation": "Akım her zaman en dirençsiz (kolay) yolu seçer. Elektrik ampule gitmek yerine kolay kablodan geçip hemen öteki kutba ulaşırsa buna kısa devre denir."
+    },
+    {
+      "id": "Q_5_6_018",
+      "questionText": "Bilimsel bir deneyde, araştırmacının deneyin sonucunu görmek için kendi isteğiyle bilerek değiştirdiği (farklılaştırdığı) değişkene ne ad verilir?",
+      "answers": [
+        "Bağımlı değişken",
+        "Bağımsız değişken",
+        "Sabit tutulan (Kontrol) değişken",
+        "Gözlem değişkeni"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Deneyde bizim elimizle (özgürce, bağımsızca) sayısını veya miktarını değiştirdiğimiz değişkene 'Bağımsız Değişken' (Nedeni) denir."
+    },
+    {
+      "id": "Q_5_6_019",
+      "questionText": "Bilimsel bir deneyde, bağımsız değişkene (bizim yaptığımız değişikliğe) bağlı olarak ortaya çıkan sonuca (etkilenen duruma) ne ad verilir?",
+      "answers": [
+        "Bağımsız değişken",
+        "Sabit (Kontrol edilen) değişken",
+        "Bağımlı değişken",
+        "Deney süresi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Bağımsız değişken değiştiğinde, ona bağlı olarak (ondan etkilenerek) değişen 'Sonuç' kısmına Bağımlı değişken denir."
+    },
+    {
+      "id": "Q_5_6_020",
+      "questionText": "Bir elektrik devresinde pil sayısı ve anahtar sayısı sabit (aynı) tutulup, sadece devreye eklenen 'Ampul Sayısı' artırılmıştır. Bu devrede 'Bağımsız Değişken' hangisidir?",
+      "answers": [
+        "Pil sayısı",
+        "Ampul parlaklığı",
+        "Anahtar durumu",
+        "Ampul sayısı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 3,
+      "explanation": "Deneyi yapan kişi bilerek 'Ampul sayısını' değiştirmiştir (1 iken 2 yapmış vb.). Bu yüzden bizim değiştirdiğimiz değişken (Ampul sayısı) bağımsız değişkendir."
+    },
+    {
+      "id": "Q_5_6_021",
+      "questionText": "Yukarıdaki soruda (pil sabitken ampul sayısı artırılan deneyde), deneyin sonucunda ampul parlaklığının azaldığı görülmüştür. Bu deneyde 'Bağımlı Değişken' (sonuç) nedir?",
+      "answers": [
+        "Pil sayısı",
+        "Ampul sayısı",
+        "Ampul parlaklığı",
+        "Kablo uzunluğu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 3,
+      "explanation": "Ampul sayısının artmasından 'etkilenen' ve değişen (sonuç) durum ampulün parlaklığıdır. Dolayısıyla parlaklık 'Bağımlı' değişkendir."
+    },
+    {
+      "id": "Q_5_6_022",
+      "questionText": "Zeynep, kurduğu iki farklı devreden birine 1 pil ve 1 ampul; diğerine ise 2 pil ve 1 ampul bağlamıştır. Zeynep'in bu deneyde 'Sabit (Kontrol Edilen)' tuttuğu değişken hangisidir?",
+      "answers": [
+        "Pil sayısı",
+        "Ampul sayısı",
+        "Ampul parlaklığı",
+        "Elektrik enerjisi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Her iki devrede de sayısıyla hiç oynanmayan, eşit (sabit) tutulan eleman 'Ampul sayısı' (1 adet) olduğu için kontrol edilen değişken odur."
+    },
+    {
+      "id": "Q_5_6_023",
+      "questionText": "Basit bir elektrik devresinde diğer her şey sabit tutulup sadece 'Pil Sayısı' artırılırsa (örneğin 1 pilden 3 pile çıkılırsa), ampulün parlaklığı nasıl değişir?",
+      "answers": [
+        "Azalır.",
+        "Artar.",
+        "Değişmez.",
+        "Ampul tamamen söner."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Pil devrenin enerji kaynağıdır. Enerji kaynağı (pil) çoğaldıkça ampulün içinden geçen elektrik akımı da çoğalır ve ampul daha parlak yanar."
+    },
+    {
+      "id": "Q_5_6_024",
+      "questionText": "Basit bir elektrik devresinde pil sayısı aynı bırakılıp, peş peşe (seri) bağlanan 'Ampul Sayısı' artırılırsa (örneğin 1 ampul yerine 4 ampul takılırsa) ampullerin parlaklığı nasıl değişir?",
+      "answers": [
+        "Parlaklıkları artar.",
+        "Değişmez, hepsi aynı parlaklıkta yanar.",
+        "Pildeki aynı enerji daha çok ampule bölüneceği için parlaklıkları azalır (sönükleşirler).",
+        "Ampuller patlar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Pildeki toplam enerji miktarı sabittir. 1 ekmeği 1 kişi yerse doyar, 4 kişiye bölersen herkese az düşer. Ampuller arttıkça enerji bölüşülür ve parlaklık düşer."
+    },
+    {
+      "id": "Q_5_6_025",
+      "questionText": "Ahmet'in oyuncak arabasının pili bitmiş ve arabası çalışmaz olmuştur. Ahmet pilleri yenileriyle değiştirmesine rağmen araba hala çalışmıyorsa, devredeki hangi kuralı 'yanlış' yapmış olabilir?",
+      "answers": [
+        "Pillerin kutuplarını (+) ve (-) yönlerine dikkat etmeden ters bağlamış olabilir.",
+        "Arabayı temizlememiş olabilir.",
+        "Anahtarı açık bırakmıştır.",
+        "Arabanın tekerlekleri kirlenmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Pillerin doğru enerji üretebilmesi için bir pilin (-) kutbu, diğer pilin (+) kutbuna temas etmelidir. Ters bağlanırsa elektrik akımı oluşmaz."
+    },
+    {
+      "id": "Q_5_6_026",
+      "questionText": "Devre elemanları sembollerle çizilirken iki uzun ve iki kısa çizgi art arda çizilmişse ( |ı |ı ) bu şekil devrede neyin olduğunu gösterir?",
+      "answers": [
+        "2 adet Anahtar",
+        "2 adet Ampul",
+        "2 adet Pilin birbirine bağlandığını (Pil grubu)",
+        "Kopan bir kabloyu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Bir uzun bir kısa çizgi 1 pildir. Peş peşe iki uzun iki kısa çizgi çizilmişse bu devrede seri bağlanmış 2 adet pil olduğunu gösterir."
+    },
+    {
+      "id": "Q_5_6_027",
+      "questionText": "Elektrik çarpmalarından korunmak için bağlantı kablolarının içindeki iletken telin (örneğin bakırın) dış kısmı hangi özellikle kaplanmıştır?",
+      "answers": [
+        "İletken tellerle kaplanmıştır.",
+        "Yalıtkan (elektriği geçirmeyen) bir madde olan plastik ile kaplanmıştır.",
+        "Kağıt ile kaplanmıştır.",
+        "Sıvı ile kaplanmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 1,
+      "explanation": "Elektriğin elimize geçmemesi (bizi çarpmaması) için kabloların dışı elektriği iletmeyen 'Yalıtkan' bir plastik tabaka ile sarılır."
+    },
+    {
+      "id": "Q_5_6_028",
+      "questionText": "Devre elemanlarından 'Ampul'ün yapısındaki ince tele 'Filaman' denir. Filamanın görevi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Pili şarj etmek",
+        "Elektrik enerjisi üzerinden geçtiğinde çok fazla ısınıp 'ışık' saçmak (parlamak)",
+        "Anahtarı açıp kapatmak",
+        "Kabloyu koparmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Filaman genellikle Tungsten (Volfram) telinden yapılır. Elektrik geçince zorlanır, kızarır ve çevreye ışık yaymaya başlar."
+    },
+    {
+      "id": "Q_5_6_029",
+      "questionText": "Bir sınıftaki ampul sayısı ve özellikleri aynı olan 3 farklı devreden; 1. devrede 2 pil, 2. devrede 4 pil, 3. devrede ise 1 pil vardır. Bu devrelerin 'en parlak yanandan en sönük yanana doğru' sıralaması nasıl olur?",
+      "answers": [
+        "3. Devre > 1. Devre > 2. Devre",
+        "1. Devre > 2. Devre > 3. Devre",
+        "2. Devre > 1. Devre > 3. Devre",
+        "Hepsi aynı parlaklıkta yanar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 3,
+      "explanation": "Ampul sayısı aynı olduğunda, pil (enerji kaynağı) sayısı en fazla olan devre en parlak yanar. Buna göre 4 pil (2. devre) en parlak, 1 pil (3. devre) en sönüktür."
+    },
+    {
+      "id": "Q_5_6_030",
+      "questionText": "Ampul ve pilin doğru bağlanmasına rağmen ampul yanmıyorsa ve kablo da kopuk değilse, sorunun ampul ile duy arasında olma ihtimali nedir?",
+      "answers": [
+        "Ampul duya tam sıkıştırılmamış, gevşek kaldığı için temassızlık yaşanıyor olabilir.",
+        "Ampul duyda çok uzun süre kalmıştır.",
+        "Duyun plastikten yapılmış olması gerekir.",
+        "Sorun duyda olamaz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşamımızdaki Elektrik",
+      "difficulty": 2,
+      "explanation": "Elektriğin iletilmesi için metalik temas şarttır. Ampul duya gevşek takılırsa iletken uçlar birbirine değmez, açık anahtar gibi olur ve ampul yanmaz."
+    }
+  ]
+}

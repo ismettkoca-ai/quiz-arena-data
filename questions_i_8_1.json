@@ -1,0 +1,425 @@
+{
+  "unit": "Friendship",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "A good friend should be 'honest'. \nAltı çizili kelimenin (honest) anlamını veren ifade aşağıdakilerden hangisidir?",
+      "answers": [
+        "Never tells a lie",
+        "Always tells lies",
+        "Never helps people",
+        "Changes his/her mind easily"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'Honest' dürüst demektir. Dürüst bir insan asla yalan söylemez (Never tells a lie)."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "If you 'count on' someone, it means you ............... him/her.",
+      "answers": [
+        "hate",
+        "trust",
+        "argue with",
+        "forget"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'Count on' güvenmek anlamına gelir. Eş anlamlısı 'trust' kelimesidir."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "Jack: Would you like to drink some coffee?\nSue: ............... I am very thirsty.",
+      "answers": [
+        "No, thanks.",
+        "I'm sorry, I can't.",
+        "Yes, I would love to.",
+        "Maybe later."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "Sue çok susadığını (I am very thirsty) söylüyor. Bu yüzden teklifi kabul etmesi gerekir: 'Yes, I would love to.'"
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'destek olmak, arka çıkmak' anlamındadır?",
+      "answers": [
+        "Back up",
+        "Get on well",
+        "Argue",
+        "Keep secret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'Back up' birine destek olmak, arka çıkmak anlamına gelen bir ifadedir."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Tom: How about going to the cinema tomorrow?\nAli: ............... What time are we meeting?",
+      "answers": [
+        "I am busy.",
+        "That sounds awesome.",
+        "I don't like movies.",
+        "I must finish my project."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "Ali 'Saat kaçta buluşuyoruz?' diye sorduğuna göre teklifi kabul etmiştir. 'That sounds awesome' (Kulağa harika geliyor) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "Laid-back: Relaxed",
+        "Stubborn: Never changes mind",
+        "Generous: Doesn't share things",
+        "Amusing: Makes people laugh"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'Generous' cömert demektir, eşyalarını paylaşan kişiler için kullanılır. 'Doesn't share things' ise cimri (mean/stingy) kişilerin özelliğidir."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "Mary: We are having a picnic on Sunday. Why don't you join us?\nKate: I'd love to, but ...............",
+      "answers": [
+        "I am not doing anything.",
+        "I will be there.",
+        "it is a great idea.",
+        "I have to study for my exam."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'I'd love to, but...' ifadesi bir mazeret (excuse) bildirmeyi gerektirir. Sınava çalışmak zorunda olması geçerli bir mazerettir."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "'To have a good relationship with someone' ifadesinin karşılığı olan phrasal verb hangisidir?",
+      "answers": [
+        "Back up",
+        "Get on well with",
+        "Count on",
+        "Pick up"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "Biriyle iyi geçinmek, iyi bir ilişkisi olmak anlamına gelen ifade 'get on well with'tir."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "Sam: Are you doing anything on Friday night?\nPaul: ............... Why do you ask?",
+      "answers": [
+        "No, not at all.",
+        "I'm very busy.",
+        "I have a plan.",
+        "Yes, I am."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Paul 'Neden soruyorsun?' dediğine göre o akşam müsaittir. 'No, not at all' (Hayır, hiçbir şey yapmıyorum) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "Aşağıdaki cümlelerden hangisi bir davet (invitation) içermez?",
+      "answers": [
+        "Would you like to come to my party?",
+        "How about drinking some tea?",
+        "I'm sorry, I can't attend.",
+        "Let's play football after school."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 1,
+      "explanation": "'I'm sorry, I can't attend' cümlesi bir davet değil, daveti reddetme (refusing) ifadesidir."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "David: Let's eat pizza for dinner.\nMark: ............... I am totally full.",
+      "answers": [
+        "I'm stuffed.",
+        "That's a good idea.",
+        "Sure, why not?",
+        "I am very hungry."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Mark tamamen tok olduğunu (I am totally full) söylüyor. 'I'm stuffed' (Tıka basa doluyum/Tokum) ifadesi aynı anlama gelir."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "If a person is 'arrogant', he/she usually ...............",
+      "answers": [
+        "buys presents for friends.",
+        "thinks he/she is better than everyone else.",
+        "helps poor people.",
+        "makes funny jokes."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "'Arrogant' kibirli demektir. Kibirli biri kendini diğerlerinden üstün görür (thinks he/she is better than everyone else)."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "Which matching is INCORRECT?",
+      "answers": [
+        "Mate = Buddy",
+        "Awesome = Terrible",
+        "Trust = Count on",
+        "Support = Back up"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "'Awesome' harika demektir. 'Terrible' ise berbat demektir. Bu iki kelime eş anlamlı değil, zıt anlamlıdır."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "Aşağıdaki ifadelerden hangisi bir 'excuse' (mazeret) cümlesidir?",
+      "answers": [
+        "I hope you can come.",
+        "What time is the party?",
+        "My cousin is coming on that day.",
+        "See you soon."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Mazeret bildiren cümle, davete neden katılamayacağını açıklayan cümledir: 'O gün kuzenim geliyor'."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "Lisa: I have two tickets for a concert tonight. Would you like to come with me?\nNina: I'd love to, but I can't. ...............\nBoşluğa hangisi gelirse Nina mazeretini (excuse) bildirmiş olur?",
+      "answers": [
+        "I am going to visit my grandparents.",
+        "I really like concerts.",
+        "Who is the singer?",
+        "I have nothing to do."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Büyükanne ve büyükbabasını ziyaret edecek olması (I am going to visit my grandparents) reddetme sebebidir (mazeret)."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "Dear Sally, \nWe are organizing a class reunion party on Sunday. It is at the Blue Cafe. I hope to see you there. \nCheers, \nAmanda.\n\nWho is the 'sender' (gönderen) of the invitation?",
+      "answers": [
+        "Sally",
+        "Amanda",
+        "Blue Cafe",
+        "The classmates"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Davetiyeyi yazan ve gönderen kişi metnin en altında imzasını atan kişidir. Gönderen (sender) Amanda'dır."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Dear Sally, \nWe are organizing a class reunion party on Sunday. It is at the Blue Cafe. I hope to see you there. \nCheers, \nAmanda.\n\nWhat is the 'event' (etkinlik) in the invitation?",
+      "answers": [
+        "A birthday party",
+        "A class reunion",
+        "A slumber party",
+        "A graduation party"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Davetiyede düzenlenen etkinlik 'a class reunion party' (sınıf buluşması partisi) olarak belirtilmiştir."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "A: Shall we meet in front of the cinema at 7 p.m.?\nB: ............... I don't know where the cinema is.",
+      "answers": [
+        "That's awesome.",
+        "Sure, see you there.",
+        "I'm sorry, I can't.",
+        "Can you text me the address?"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "B kişisi sinemanın yerini bilmediğini söylüyor. Bu yüzden adresi mesaj atmasını istemesi mantıklıdır (Can you text me the address?)."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "1. I'm sorry, but I can't.\n2. Would you like to come to my birthday party?\n3. Oh, really? Why not?\n4. Because I must finish my science project.\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "2 - 1 - 3 - 4",
+        "2 - 4 - 1 - 3",
+        "3 - 4 - 2 - 1",
+        "1 - 3 - 4 - 2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Doğru sıralama: Davet (2) -> Reddetme (1) -> Nedenini sorma (3) -> Mazeret bildirme (4) şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'arkadaş, dost' anlamında KULLANILMAZ?",
+      "answers": [
+        "Buddy",
+        "Mate",
+        "Enemy",
+        "Friend"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "'Enemy' düşman demektir. 'Buddy', 'Mate' ve 'Friend' ise arkadaş demektir."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "John: I am having a slumber party on Saturday night. Would you like to join?\nCarl: ............... I have to bring my pyjamas, right?",
+      "answers": [
+        "I'm afraid I can't.",
+        "I have another plan.",
+        "That sounds fun.",
+        "I am not interested."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Carl 'Pijamalarımı getirmem gerekiyor, değil mi?' diye sorduğuna göre pijama partisine (slumber party) katılmayı kabul etmiştir. Kabul ifadesi 'That sounds fun' (Kulağa eğlenceli geliyor) olur."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Jane never changes her mind. She always does what she wants and doesn't listen to her friends' advice. \nWhat is Jane's personal trait?",
+      "answers": [
+        "She is generous.",
+        "She is laid-back.",
+        "She is stubborn.",
+        "She is loyal."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Fikrini asla değiştirmeyen, kimseyi dinlemeyen ve kendi bildiğini okuyan kişilere 'stubborn' (inatçı) denir."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Tim: Are you doing anything on Sunday afternoon?\nLeo: No, not at all. Why?\nTim: We are playing football at the park. Would you like to join us?\nLeo: That sounds great, but my leg is broken. \n\nAccording to the dialogue, Leo ...............",
+      "answers": [
+        "accepts the invitation.",
+        "refuses the invitation because he is busy.",
+        "refuses the invitation and gives a reason.",
+        "asks for more details about the event."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Leo daveti harika buluyor ancak bacağının kırık olduğunu (my leg is broken) söyleyerek reddediyor ve nedenini (reason/excuse) açıklıyor."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Aşağıdaki sorulardan hangisi bir davetin 'zamanını' (time) öğrenmek için sorulur?",
+      "answers": [
+        "Where is the party?",
+        "Who is organizing it?",
+        "What time does the event start?",
+        "Why are you refusing?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 2,
+      "explanation": "Zamanı öğrenmek için 'What time' (Saat kaçta) soru kalıbı kullanılır."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "I. Honest\nII. Jealous\nIII. Supportive\nIV. Sneaky\n\nYukarıdaki kelimelerden hangileri 'iyi bir arkadaşta' (a true friend) olması beklenen özelliklerdir?",
+      "answers": [
+        "I and II",
+        "I and III",
+        "II and IV",
+        "III and IV"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "'Honest' (dürüst) ve 'Supportive' (destekleyici) olumlu özelliklerdir. 'Jealous' (kıskanç) ve 'Sneaky' (sinsi) ise kötü özelliklerdir."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "Mike is my best friend. We share the same interests and hobbies. We always have a great time together. \nAltı çizili 'share the same interests' ifadesinin anlamdaşı aşağıdakilerden hangisidir?",
+      "answers": [
+        "argue all the time",
+        "have a lot in common",
+        "tell lies to each other",
+        "never speak to each other"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Aynı ilgi alanlarını paylaşmak, 'have a lot in common' (pek çok ortak noktası olmak) deyimiyle aynı anlama gelir."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "A: How about making a cake for mom's birthday?\nB: ............... I don't know how to make a cake.\nCümleyi anlama uygun olarak tamamlayan ifade hangisidir?",
+      "answers": [
+        "That's a good idea.",
+        "Sure, I can do that.",
+        "I am afraid I can't.",
+        "Let's go to the kitchen."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "B kişisi nasıl kek yapılacağını bilmediğini söylediğine göre teklifi reddetmelidir. 'I am afraid I can't' (Korkarım ki yapamam) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "Dear Mary, \nThanks for your nice invitation to your graduation party. I really want to be there, but I must stay at home and look after my little sister. Have a great time!\nLove, \nSusan.\n\nWhy does Susan refuse Mary's invitation?",
+      "answers": [
+        "Because she hates parties.",
+        "Because she has an exam on that day.",
+        "Because she has to take care of her sister.",
+        "Because she is going to a concert."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Metinde Susan evde kalıp küçük kız kardeşine bakmak (look after) zorunda olduğunu söylüyor. 'Look after' ile 'take care of' (ilgilenmek, bakmak) eş anlamlıdır."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Complete the sentence with the correct grammar structure: \n\"Would you like ............... some cookies?\"",
+      "answers": [
+        "eat",
+        "to eat",
+        "eating",
+        "ate"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "'Would you like' kalıbından sonra gelen fiil her zaman 'to' eki alır (Would you like TO do something?)."
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "Bob: I'm organizing a soccer match on Saturday. Why don't you come?\nAdam: I'm not really into soccer. I prefer playing basketball. \n\nAdam refuses the invitation because ...............",
+      "answers": [
+        "he has to study.",
+        "he thinks soccer is exciting.",
+        "he doesn't like soccer.",
+        "he will play basketball with Bob."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Friendship",
+      "difficulty": 3,
+      "explanation": "Adam futbolla ilgilenmediğini (I'm not really into soccer) ve basketbolu tercih ettiğini söylüyor. Yani futbolu sevmiyor (he doesn't like soccer)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Kuvvetin Etkisinde Hareket",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "Duran bir cismi hareket ettiren, hareket eden bir cismi durduran, cismin hızını, yönünü veya şeklini değiştirebilen etkiye ne ad verilir?",
+      "answers": [
+        "Sürat",
+        "İvme",
+        "Kuvvet",
+        "Enerji"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Kuvvet, cisimler üzerinde itme veya çekme şeklinde etki eden; cisimlerin hareket durumunu veya şeklini değiştirebilen etkidir."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "Kuvvetin büyüklüğünü ölçmek için kullanılan yaylı araca ve kuvvetin uluslararası birimine sırasıyla ne ad verilir?",
+      "answers": [
+        "Termometre - Derece",
+        "Dinamometre - Newton (N)",
+        "Eşit kollu terazi - Kilogram",
+        "Barometre - Pascal"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Kuvvet dinamometre adı verilen ve içindeki yayın esnemesiyle çalışan aletle ölçülür. Birimi ise meşhur fizikçi Isaac Newton'ın anısına Newton (N) olarak kabul edilmiştir."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "Fizikte bir kuvveti çizimle (şekille) tam olarak ifade edebilmek için kuvvetin bazı özelliklerini belirtmek gerekir. Aşağıdakilerden hangisi bir kuvvetin temel özelliklerinden biri değildir?",
+      "answers": [
+        "Yönü",
+        "Büyüklüğü (Şiddeti)",
+        "Doğrultusu",
+        "Sıcaklığı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Bir kuvveti tanımlarken onun ne kadar büyük olduğunu (şiddetini), hangi çizgi üzerinde uygulandığını (doğrultusunu) ve ne tarafa gittiğini (yönünü) bilmek zorundayız. Sıcaklık kuvvetin bir özelliği değildir."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "Kuvvetlerin doğrultusu ve yönü sıkça karıştırılan kavramlardır. Aşağıdaki yön çiftlerinden hangisi 'Aynı Doğrultu' üzerinde yer alır ancak birbirine 'Zıt (Ters) Yönde'dir?",
+      "answers": [
+        "Kuzey ve Doğu",
+        "Doğu ve Batı",
+        "Güney ve Batı",
+        "Kuzey ve Yukarı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Doğrultu bir çizgidir (Örneğin Doğu-Batı ekseni yatay ve tek bir çizgidir). Ancak Doğu sağa, Batı sola gittiği için yönleri birbirine zıttır."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "Aynı cisme etki eden iki veya daha fazla kuvvetin yaptığı etkiyi tek başına yapabilen toplam kuvvete ne ad verilir?",
+      "answers": [
+        "Zıt Kuvvet",
+        "Dengeleyici Kuvvet",
+        "Bileşke (Net) Kuvvet",
+        "Sürtünme Kuvveti"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Birden fazla kuvvetin birleşerek oluşturduğu ortak sonuca Bileşke (Net) kuvvet denir. Kısaca 'R' harfi ile gösterilir."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "Bileşke (Net) kuvvet hesaplanırken, eğer cisme etki eden kuvvetler 'aynı yönde' ise matematiksel olarak nasıl bir işlem yapılır?",
+      "answers": [
+        "Kuvvetler birbirinden çıkarılır.",
+        "Kuvvetler birbiriyle toplanır.",
+        "Kuvvetler birbirine çarpılır.",
+        "Sadece büyük olan kuvvet kabul edilir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Aynı yöne doğru uygulanan kuvvetler birbirlerine destek olurlar (Arabayı arkadan iki kişinin itmesi gibi). Bu yüzden net kuvveti bulmak için kuvvetler toplanır."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "Bileşke (Net) kuvvet hesaplanırken, eğer cisme etki eden kuvvetler birbirine 'zıt (ters) yönde' ise nasıl bir işlem yapılır?",
+      "answers": [
+        "Kuvvetler birbiriyle toplanır.",
+        "Kuvvetler birbirine bölünür.",
+        "Büyük kuvvetten küçük kuvvet çıkarılır.",
+        "Küçük kuvvetin yönü kabul edilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Zıt yönlü kuvvetler birbirinin etkisini yok etmeye çalışır (Halat çekme yarışı gibi). Bu yüzden net kuvveti bulmak için büyük değerden küçük değer çıkarılır."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "Bir masaya doğu yönünde 15 N, yine doğu yönünde 10 N büyüklüğünde iki kuvvet uygulanıyor. Bu masaya etki eden Bileşke (Net) kuvvetin yönü ve büyüklüğü nedir?",
+      "answers": [
+        "5 N Doğu",
+        "25 N Batı",
+        "5 N Batı",
+        "25 N Doğu"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Kuvvetlerin ikisi de aynı yöne (Doğuya) olduğu için toplanırlar (15 + 10 = 25 N). Yön aynı kalır (Doğu)."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "Bir alışveriş arabasına Ali batı yönünde 30 N, Ayşe ise doğu yönünde 10 N büyüklüğünde kuvvet uyguluyor. Bu arabanın Bileşke (Net) kuvveti nedir?",
+      "answers": [
+        "40 N Doğu",
+        "20 N Doğu",
+        "20 N Batı",
+        "40 N Batı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Kuvvetler zıt yönde olduğu için büyükten küçük çıkarılır (30 - 10 = 20 N). Net kuvvet her zaman büyük olan kuvvetin (Ali'nin) yönüne, yani Batıya doğru olur."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "Bir cisme etki eden zıt yönlü kuvvetlerin büyüklükleri birbirine eşitse (Yani Bileşke kuvvet Sıfır ise), bu cisim hangi durumdadır?",
+      "answers": [
+        "Dengelenmemiş kuvvetlerin etkisindedir.",
+        "Sürekli hızlanmaktadır.",
+        "Dengelenmiş kuvvetlerin etkisindedir.",
+        "Sürekli yavaşlamaktadır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Sağdan ve soldan eşit kuvvetlerle çekilen bir cismin net kuvveti sıfır (0) olur. Bu duruma fizikte 'Dengelenmiş Kuvvet' denir."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "Dengelenmiş kuvvetlerin etkisinde olan (Net kuvveti sıfır olan) bir cisim, eğer başlangıçta 'duruyorsa' hareket durumu nasıl olur?",
+      "answers": [
+        "Aniden hızlanmaya başlar.",
+        "Sabit süratle hareket eder.",
+        "Durmaya (hareketsiz kalmaya) devam eder.",
+        "Yön değiştirir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Net kuvvet sıfırsa, cismi harekete geçirecek bir etki kalmamış demektir. Bu nedenle duran bir cisim sonsuza kadar durmaya devam eder."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "Dengelenmiş kuvvetlerin etkisinde olan (Net kuvveti sıfır olan) bir cisim, eğer başlangıçta 'hareket halindeyse' hareket durumu nasıl olur?",
+      "answers": [
+        "Aniden durur.",
+        "Hareketine 'Sabit Süratle' (aynı hızda) düz bir çizgide devam eder.",
+        "Sürekli hızlanır.",
+        "Yavaşlayarak durur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Bu fiziğin temel kuralıdır (Eylemsizlik). Hareketli bir cisme uygulanan net kuvvet sıfırlanırsa cisim ne hızlanır ne de yavaşlar; mevcut hızını koruyarak sabit süratle ilerlemeye devam eder."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Aşağıdaki örneklerden hangisi 'Dengelenmiş' kuvvetlerin etkisindeki bir cisme örnektir?",
+      "answers": [
+        "Duvarda asılı duran televizyon",
+        "Durağa yaklaşırken yavaşlayıp fren yapan otobüs",
+        "Ağaçtan yere düşmekte olan elma",
+        "Yeşil ışık yandığında gaza basıp hızlanan araba"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Dengelenmiş olması için cismin net kuvvetinin sıfır (hareketsiz veya sabit süratli) olması gerekir. Yavaşlayan veya hızlanan her cisim dengelenmemiş kuvvettedir."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "Bir cismin net (bileşke) kuvveti sıfırdan farklıysa, ortada kazanan bir taraf var demektir. Bu cisim hangi kuvvetin etkisindedir?",
+      "answers": [
+        "Dengelenmiş Kuvvet",
+        "Dengeleyici Kuvvet",
+        "Dengelenmemiş Kuvvet",
+        "Sürtünme Kuvveti"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Eğer net kuvvet sıfır değilse, kuvvetler birbirini dengeleyememiştir. Cisim dengelenmemiş kuvvetin etkisiyle hızlanır, yavaşlar veya yön değiştirir."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Halat çekme yarışında A takımı doğuya doğru 80 N, B takımı ise batıya doğru 80 N kuvvet uyguluyor. Ortadaki kırmızı mendil hangi yöne hareket eder?",
+      "answers": [
+        "Doğuya",
+        "Batıya",
+        "Hiçbir yöne hareket etmez (Dengede kalır).",
+        "Sürekli yön değiştirir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "İki kuvvet zıt yönlü ve birbirine eşit olduğu için 80 - 80 = 0 N (Net Kuvvet Sıfır) olur. Cisim dengelenmiş kuvvet etkisinde kalır ve yerinden kıpırdamaz."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "Bir kutuyu Ali kuzeye doğru 20 N, Ayşe güneye doğru 5 N kuvvetle çekiyor. Kutunun 'Dengede' (Net kuvvetin sıfır) olabilmesi için hangi yöne, kaç N 'Dengeleyici Kuvvet' eklenmelidir?",
+      "answers": [
+        "Güneye doğru 15 N",
+        "Kuzeye doğru 15 N",
+        "Güneye doğru 25 N",
+        "Kuzeye doğru 25 N"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Şu an net kuvvet Kuzey yönünde 15 N'dir. Bunu sıfırlamak (dengelemek) için, kazanan tarafa tam zıt yönde, eksik olan miktar kadar (Güneye 15 N) dengeleyici kuvvet eklenmelidir."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "Hareketli bir cismin, belirli bir zaman aralığında (örneğin 1 saatte) aldığı yola (gittiği mesafeye) ne ad verilir?",
+      "answers": [
+        "Kuvvet",
+        "İvme",
+        "Zaman",
+        "Sürat"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Birim zamanda (1 saniyede veya 1 saatte) alınan yol miktarına sürat denir. Aracımızın hız göstergesi aslında süratimizi gösterir."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "Bir hareketlinin süratini hesaplayabilmek için (Sürat formülünü kullanmak için) hangi iki bilgiyi kesinlikle bilmemiz gerekir?",
+      "answers": [
+        "Cismin kütlesini ve hacmini",
+        "Gittiği yönü ve uygulanan kuvveti",
+        "Aldığı yolu ve geçen zamanı",
+        "Havanın sürtünmesini ve sıcaklığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Sürat formülü = Alınan Yol / Geçen Zaman'dır. Sürati bulmak için ne kadar mesafe gidildiğini ve bu mesafenin ne kadar sürede tamamlandığını bilmek şarttır."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "Araçların göstergelerinde yer alan ve süratin günlük hayatta en çok kullanılan birimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kilogram / Saat",
+        "Newton / Metre",
+        "Metre / Kilogram",
+        "Metre / Saniye (m/s) veya Kilometre / Saat (km/h)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Sürat, gidilen yolun (metre veya km) geçen zamana (saniye veya saat) bölünmesiyle bulunur. Bu yüzden birimi m/s veya km/h'dir."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "Eşit zaman aralıklarında eşit yollar alan (örneğin her 1 saniyede hep 5 metre giden) bir hareketlinin yaptığı harekete ne ad verilir?",
+      "answers": [
+        "Hızlanan hareket",
+        "Yavaşlayan hareket",
+        "Sabit süratli hareket",
+        "Dengelenmemiş hareket"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 1,
+      "explanation": "Hızı yol boyunca ne artan ne de azalan, gösterge ibresi hep aynı rakamı gösteren araçlar Sabit Süratli hareket yapar."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "Bir sporcu 200 metrelik parkuru 20 saniyede koşmuştur. Bu sporcunun sürati ne kadardır?",
+      "answers": [
+        "10 m/s",
+        "20 m/s",
+        "100 m/s",
+        "4000 m/s"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Sürat = Alınan Yol (200 m) / Geçen Zaman (20 s) formülüyle bulunur. 200 / 20 = 10 m/s."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "Sabit sürati saatte 90 km (90 km/h) olan bir otomobil, hiç mola vermeden 3 saat boyunca yol giderse toplam kaç kilometre yol almış olur?",
+      "answers": [
+        "30 km",
+        "93 km",
+        "270 km",
+        "300 km"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Yol = Sürat x Zaman'dır. Araç 1 saatte 90 km gidiyorsa, 3 saatte; 90 x 3 = 270 kilometre yol alır."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "Bir yarış arabası 600 kilometrelik bir yolu 2 saatte tamamlamıştır. Arabanın sürati saatte kaç kilometredir?",
+      "answers": [
+        "1200 km/h",
+        "300 km/h",
+        "600 km/h",
+        "150 km/h"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Sürat = Yol / Zaman. 600 kilometre yol, 2 saate bölündüğünde aracın sürati saatte 300 km (300 km/h) olarak bulunur."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Sabit süratli bir hareketlinin 'Sürat - Zaman' grafiği çizildiğinde grafik çizgisi nasıl görünür?",
+      "answers": [
+        "Yukarıya doğru dik çıkan bir çizgi",
+        "Aşağıya doğru inen bir çizgi",
+        "Sıfırdan başlayıp çapraz artan bir çizgi",
+        "Zaman eksenine paralel (yatay ve düz) bir çizgi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Sabit süratte aracın hızı hiç değişmez. Araç 50 ile gidiyorsa, zaman ilerlese bile sürat hep 50'de kalacağı için grafik dümdüz yatay bir çizgi olur."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Sabit süratle giden bir aracın 'Yol - Zaman' grafiği incelendiğinde grafik çizgisi nasıl görünür?",
+      "answers": [
+        "Yatay düz bir çizgi olur.",
+        "Sıfırdan (orijinden) başlayarak zamanla orantılı bir şekilde yukarı doğru artan eğimli (çapraz) bir çizgi olur.",
+        "Sürekli zikzaklar çizer.",
+        "Aşağı doğru inen bir çizgi olur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Araç hareket ettikçe zaman ilerler ve aracın aldığı yol (gittiği mesafe) sürekli artar. Bu yüzden grafik sıfır noktasından başlayıp yukarıya doğru tırmanır."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "A noktasından B noktasına gitmek için yola çıkan iki araçtan K aracı aynı yolu 4 saatte, L aracı ise 5 saatte tamamlamıştır. Buna göre süratleri için ne söylenebilir?",
+      "answers": [
+        "İkisi de aynı sürattedir.",
+        "L aracı daha süratlidir.",
+        "K aracı daha süratlidir.",
+        "Hava durumuna göre değişir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 2,
+      "explanation": "Aynı yolu daha kısa sürede (daha çabuk) tamamlayan hareketli, yolu yavaş gidene göre her zaman daha hızlıdır (süratlidir)."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "Bir kutuya etki eden üç farklı kuvvet vardır: Doğuya doğru 15 N ve 5 N, Batıya doğru ise 12 N. Bu kutuya etki eden bileşke (net) kuvvet nedir?",
+      "answers": [
+        "8 N Doğu",
+        "32 N Doğu",
+        "8 N Batı",
+        "12 N Batı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Aynı yönlüler toplanır: Doğuya 15 + 5 = 20 N. Zıt olan çıkarılır: 20 (Doğu) - 12 (Batı) = 8 N. Büyük olanın yönü kazanır (Doğu)."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "Aynı konumdan aynı anda, batı yönüne doğru harekete geçen iki araçtan A aracının sürati 70 km/h, B aracının sürati 90 km/h'dir. 2 saat sonra aralarındaki mesafe kaç km olur?",
+      "answers": [
+        "20 km",
+        "40 km",
+        "160 km",
+        "320 km"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "A aracı 2 saatte 140 km yol alır. B aracı ise 2 saatte 180 km yol alır. Aynı yöne gittikleri için aralarındaki mesafe 180 - 140 = 40 km açılır."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "Tavşan saniyede 15 metre (15 m/s), Kaplumbağa ise saniyede 2 metre (2 m/s) yol almaktadır. İkisi aynı noktadan aynı yöne 10 saniye boyunca hareket ederse Tavşan, Kaplumbağa'ya ne kadar fark atar?",
+      "answers": [
+        "13 metre",
+        "130 metre",
+        "150 metre",
+        "170 metre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Tavşan her 1 saniyede Kaplumbağa'dan 13 metre daha fazla (15 - 2) gitmektedir. 10 saniye sonunda 13 x 10 = 130 metre fark atar."
+    },
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Doğu yönünde 60 km/h hızla ilerleyen bir arabanın üzerine, aniden Batı yönüne doğru güçlü bir net kuvvet etki etmeye başlarsa (örneğin şiddetli bir rüzgar), arabanın hareketinde ilk olarak ne gözlemlenir?",
+      "answers": [
+        "Araba aniden durur.",
+        "Araba aniden geriye doğru hızlanır.",
+        "Araba önce yavaşlar.",
+        "Araba daha da hızlanır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvetin Etkisinde Hareket",
+      "difficulty": 3,
+      "explanation": "Dengelenmemiş net bir kuvvet, cismin hareket yönüne 'zıt' bir şekilde uygulanırsa, cismi önce yavaşlatır. Direnç kırılmazsa cismi bir süre sonra durdurabilir."
+    }
+  ]
+}

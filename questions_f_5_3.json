@@ -1,0 +1,425 @@
+{
+  "unit": "Canlıların Yapısına Yolculuk",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "Canlıların canlılık özelliği gösteren, yapı ve görev bakımından en küçük yapı taşına ne ad verilir?",
+      "answers": [
+        "Hücre",
+        "Doku",
+        "Organ",
+        "Sistem"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Tıpkı bir binanın tuğlalardan oluşması gibi, canlıların vücudunu oluşturan en küçük ve temel yapı birimine 'Hücre' denir."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "Hücreyi bir balon gibi dıştan saran, onu dış etkilerden koruyan ve hücreye madde giriş çıkışını kontrol eden yapı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Çekirdek",
+        "Hücre zarı",
+        "Koful",
+        "Golgi aygıtı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Hücre zarı canlıdır, esnektir ve 'seçici geçirgen' bir yapıya sahiptir. Hücrenin kapı güvenliği gibi çalışarak hangi maddenin girip çıkacağına karar verir."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "Hücre zarı ile çekirdek arasını dolduran, yaşamsal olayların (solunum, sindirim) gerçekleştiği organelleri barındıran yarı akışkan sıvıya ne ad verilir?",
+      "answers": [
+        "Sitoplazma",
+        "Hücre Duvarı",
+        "Kromozom",
+        "Kloroplast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Sitoplazma; yumurta akı kıvamında, büyük oranda sudan oluşan ve hücredeki tüm çalışma organellerinin içinde yüzdüğü yaşam sıvısıdır."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Hücrenin büyüme, bölünme ve onarım gibi tüm yaşamsal faaliyetlerini yöneten, aynı zamanda kalıtsal bilgileri (DNA) taşıyan merkez neresidir?",
+      "answers": [
+        "Çekirdek",
+        "Sitoplazma",
+        "Hücre duvarı",
+        "Ribozom"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Çekirdek, hücrenin beyni yani yönetim merkezidir. Canlının göz renginden saç şekline kadar tüm genetik şifreleri (DNA) burada saklanır."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "Hücreler gözle görülemeyecek kadar küçüktür. Bilim insanları hücreyi ve organellerini ilk kez hangi aletin icat edilmesiyle inceleyebilmişlerdir?",
+      "answers": [
+        "Teleskop",
+        "Mikroskop",
+        "Termometre",
+        "Stetoskop"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Mikroskop, içindeki özel mercekler sayesinde gözle görülemeyen mikroskobik canlıları ve hücre yapılarını binlerce kat büyüterek incelememizi sağlar."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "Çok hücreli canlılarda, aynı yapıdaki ve aynı görevi yapmak üzere bir araya gelmiş hücre topluluklarına ne ad verilir?",
+      "answers": [
+        "Organ",
+        "Doku",
+        "Sistem",
+        "Organizma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Hücreler birleşerek 'Doku'ları oluşturur. Örneğin binlerce kas hücresinin birleşerek 'Kas Dokusu'nu oluşturması gibi."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "Kanı vücuda pompalayan kalp, nefes almamızı sağlayan akciğer veya besinleri sindiren mide; canlılık organizasyonunda hangi basamağa örnektir?",
+      "answers": [
+        "Kan",
+        "Organ",
+        "Kas hücresi",
+        "Organizma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Belirli dokuların bir araya gelerek vücutta özel ve büyük bir görevi üstlenen yapılara (Kalp, Akciğer, Göz vb.) 'Organ' denir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Canlı bir varlıkta, aynı amacı gerçekleştirmek için birden fazla organın birlikte çalışmasıyla oluşan yapıya ne ad verilir? (Örneğin; Ağız, yemek borusu, mide ve bağırsakların birleşimi)",
+      "answers": [
+        "Doku",
+        "Sistem",
+        "Hücre",
+        "Molekül"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Organlar birleşerek Sistemleri oluşturur. Mide ve bağırsakların birleşerek 'Sindirim Sistemi'ni oluşturması buna en iyi örnektir."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "Bir kedi, bir çam ağacı veya bir insan; hücrelerin, dokuların, organların ve sistemlerin kusursuz bir şekilde birleşmesiyle oluşan en büyük basamaktır. Bu bütüne ne ad verilir?",
+      "answers": [
+        "Organizma (Canlı)",
+        "Sistem",
+        "Organ",
+        "Kromozom"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Sistemlerin bir araya gelerek uyum içinde çalışmasıyla oluşan tam ve bağımsız canlı varlığa 'Organizma' denir."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "Bitki hücrelerini hayvan hücrelerinden ayıran en belirgin özellik, bitki hücresinin en dışında bulunan cansız, sert ve hücreye dayanıklılık kazandıran yapıdır. Bu yapının adı nedir?",
+      "answers": [
+        "Çekirdek",
+        "Mitokondri",
+        "Hücre duvarı (Hücre çeperi)",
+        "Ribozom"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 1,
+      "explanation": "Hücre duvarı sadece bitki (ve bazı mantar/bakteri) hücrelerinde bulunur. Cansızdır, tam geçirgendir ve bitkiye sertlik kazandırır."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Mikroskop altında incelenen bir hayvan hücresi yuvarlak/oval bir görünüme sahipken, bir bitki hücresi genellikle köşeli (dikdörtgenimsi) bir görünüme sahiptir. Bitki hücresinin köşeli olmasının sebebi nedir?",
+      "answers": [
+        "İçindeki suyun fazla olması",
+        "Sahip olduğu sert 'Hücre Duvarı'nın ona köşeli bir şekil vermesi",
+        "Güneş ışığını daha iyi alması",
+        "Çekirdeğinin kare şeklinde olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Hayvan hücresinin sadece esnek bir zarı olduğu için yuvarlaktır. Bitki hücresinin en dışında ise tuğla gibi sert bir 'Hücre Duvarı' olduğu için köşeli görünür."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "Hücrenin yaşamsal faaliyetlerini sürdürebilmesi için enerjiye ihtiyacı vardır. Hem bitki hem de hayvan hücrelerinde bulunan, hücrenin 'Enerji Santrali' olan organel hangisidir?",
+      "answers": [
+        "Kloroplast",
+        "Hücre duvarı",
+        "Mitokondri",
+        "Çeper"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Mitokondri, besinleri oksijenle parçalayarak hücrenin ihtiyaç duyduğu tüm enerjiyi (ATP) üreten ortak organeldir."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "Bitkilere yeşil rengini veren ve Güneş enerjisini kullanarak su ve karbondioksitten besin ve oksijen üreten (Fotosentez yapan) organel aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kloroplast",
+        "Lizozom",
+        "Sentrozom",
+        "Koful"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Kloroplast sadece bitki hücrelerinde (ve bazı ilkel canlılarda) bulunur. Güneş ışığını hapsederek bitkinin kendi besinini üretmesini (fotosentezi) sağlar."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Canlıların organizasyon basamakları (küçükten büyüğe doğru) hangi seçenekte doğru olarak sıralanmıştır?",
+      "answers": [
+        "Hücre - doku - organ - sistem - organizma",
+        "Doku - hücre - organ - sistem - organizma",
+        "Hücre - organ - doku - sistem - organizma",
+        "Organizma - sistem - organ - doku - hücre"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Doğru sıralama küçükten büyüğe doğru: Hücre -> Doku -> Organ -> Sistem -> Organizma (Canlı) şeklindedir."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "Amip, öglena, paramesyum (terliksi hayvan) ve bakteriler tek hücreli canlılardır. Bu mikroskobik canlılar için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Yaşamsal faaliyetleri için karmaşık sistemlere (kalp, mide) ihtiyaç duyarlar.",
+        "Beslenme, solunum ve boşaltım gibi tüm yaşam olaylarını sahip oldukları o tek hücrenin içinde gerçekleştirirler.",
+        "Mutlaka gözle görülebilir büyüklüktedirler.",
+        "Dokulardan oluşurlar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Tek hücreli canlılarda doku, organ veya sistem bulunmaz. Yaşamak için gereken her şey (sindirim, enerji vb.) o tek hücrenin içindeki organellerde halledilir."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "Aşağıdakilerden hangisi aynı sistemin içinde birlikte görev alan iki organa örnektir?",
+      "answers": [
+        "Kalp - Akciğer",
+        "Mide - Bağırsak",
+        "Beyin - Kök",
+        "Göz - Böbrek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Mide ve bağırsak, besinlerin parçalanması ve emilmesi için birlikte çalışan 'Sindirim Sistemi'nin birbirine bağlı iki organıdır."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Bitkilerde fotosentezin (besin üretiminin) büyük bir kısmı kloroplast organelinde gerçekleşir. Buna göre kloroplast en çok bitkinin hangi kısmındaki hücrelerde bulunur?",
+      "answers": [
+        "Kök hücresinde",
+        "Yaprak hücresinde",
+        "Kabuk hücresinde",
+        "Tohum hücresinde"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Fotosentez için Güneş ışığı şarttır. Kökler toprak altında olduğu için Güneş görmez ve kloroplast içermez. Kloroplast en yoğun olarak güneşi gören yeşil yapraklarda bulunur."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "Hücreden organizmaya uzanan yolda; 'Kas hücresi → Kas dokusu → Kalp → Dolaşım sistemi → İnsan' sıralaması yapılmıştır. Bu sıralamada 'Dolaşım Sistemi' neyi ifade eder?",
+      "answers": [
+        "Kalp, damarlar ve kanın bir araya gelerek oluşturduğu yapıyı",
+        "Sadece tek bir kas hücresini",
+        "Vücudu dıştan saran deriyi",
+        "Midenin çalışma şeklini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Sistemler, aynı amacı taşıyan organların birleşimidir. Kalp ve damarlar birleşerek kanı vücuda taşıyan Dolaşım Sistemini oluşturur."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "İnsan, kedi, ağaç gibi gelişmiş canlılarda hücreler birleşerek dokuları, dokular organları oluşturur. Buna göre aşağıdakilerden hangisi yalnızca 'Çok Hücreli' canlılar için geçerli bir özelliktir?",
+      "answers": [
+        "Hücre zarına sahip olma",
+        "Enerji (ATP) kullanma",
+        "Doku, organ ve sistemlere sahip olma",
+        "Sitoplazma barındırma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Bakteri gibi tek hücrelilerde doku ve organ yoktur. Doku ve organlaşma sadece gelişmiş, çok hücreli canlılara (insan, hayvan, bitki) özgüdür."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "Öğretmen tahtaya 'Hayvan hücresinde kloroplast bulunur' yazmıştır. Öğrencilerin bu ifadeye vereceği doğru bilimsel tepki ne olmalıdır?",
+      "answers": [
+        "Doğrudur, çünkü hayvanlar da fotosentez yapar.",
+        "Yanlıştır, hayvan hücreleri dışarıdan beslendiği (fotosentez yapmadığı) için onlarda kloroplast bulunmaz.",
+        "Doğrudur, sadece yeşil renkli hayvanlarda bulunur.",
+        "Yanlıştır, hayvan hücresinde çekirdek bulunmaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 2,
+      "explanation": "Hayvanlar ve insanlar tüketici canlılardır, besinlerini dışarıdan hazır alırlar. Bu yüzden kendi besinini üreten kloroplast organeline sahip değillerdir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Hücre içinde fazla su, besin ve atık maddeleri bir depo gibi saklayan (kese şeklindeki) organele ne ad verilir?",
+      "answers": [
+        "Koful",
+        "Golgi",
+        "Mitokondri",
+        "Çekirdek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Koful hücrenin çöp tenekesi veya deposu gibidir. Bitki hücrelerinde yaşlandıkça birleşip büyürler (büyük ve az), hayvan hücrelerinde ise küçük ve çok sayıdadırlar."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "Hücredeki en küçük organeldir. Tüm canlı hücrelerde (bitki, hayvan ve bakterilerde) ortak olarak bulunur ve hücrenin gelişimi için 'Protein Sentezlemek'le (üretmekle) görevlidir. Bu organel hangisidir?",
+      "answers": [
+        "Lizozom",
+        "Ribozom",
+        "Sentrozom",
+        "Kloroplast"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Ribozom protein fabrikasıdır. En ilkel bakteriden en gelişmiş insana kadar istisnasız her canlı hücrede bulunmak zorundadır."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "Hücre bölünmesi sırasında kromozomların ayrılmasında görev alan ve sadece hayvan hücrelerinde (ve ilkel bitkilerde) bulunup, gelişmiş bitki hücrelerinde bulunmayan organel hangisidir?",
+      "answers": [
+        "Mitokondri",
+        "Koful",
+        "Sentrozom (Sentriyoller)",
+        "Hücre zarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Sentrozom, hayvan hücrelerinin çoğalmasında (bölünmesinde) iğ ipliklerini oluşturan yöneticidir. Gelişmiş bitkiler bölünürken sentrozom kullanmazlar."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Bir öğrenci sınav kağıdına 'Akciğer, vücudumuzdaki önemli bir dokudur' yazmıştır. Bu ifadenin bilimsel olarak düzeltilmiş hali nasıl olmalıdır?",
+      "answers": [
+        "Akciğer bir doku değil, hücredir.",
+        "Akciğer bir doku değil, hücrelerin ve dokuların birleşmesiyle oluşmuş bir 'Organ'dır.",
+        "Akciğer bir sistemdir.",
+        "Akciğer sadece kandan oluşur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Akciğer tek bir dokudan oluşmaz. Kas dokusu, bağ dokusu, kıkırdak doku gibi farklı dokuların birleşmesiyle solunumu sağlayan büyük bir 'Organ' halini almıştır."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Hangi seçenekte organizasyon basamaklarıyla ilgili verilen bilgi tamamen 'yanlıştır'?",
+      "answers": [
+        "Hücre, canlının en küçük yapı taşıdır.",
+        "Doku, benzer görevdeki hücrelerin topluluğudur.",
+        "Organ, farklı dokuların bir araya gelmesiyle oluşur.",
+        "Sistem, sadece tek ve devasa bir hücreden oluşur."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Sistemler tek bir hücreden değil, trilyonlarca hücrenin oluşturduğu dokuların ve o dokuların oluşturduğu organların (kalp, damar vb.) birleşmesiyle oluşur."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "Mikroskop laboratuvarında 'Soğan Zarı' ve insanın ağız içinden alınan 'Epitel' hücresini inceleyen bir öğrenci, bu iki hücre arasındaki en büyük fiziksel fark olarak neyi gözlemler?",
+      "answers": [
+        "İkisinin de tıpatıp aynı olduğunu",
+        "İnsan hücresinin yeşil, soğan hücresinin kırmızı olduğunu",
+        "Soğan hücresinin (bitki) hücre duvarı sayesinde köşeli, insan hücresinin (hayvan) ise zardan dolayı yuvarlak/oval olduğunu",
+        "Soğan hücresinde çekirdek olmadığını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Bitki hücrelerinin dışındaki cansız çeper (duvar) hücreyi bir tuğla gibi köşeli gösterirken, insan (hayvan) hücresinin sadece esnek bir zarı olduğu için oval görünür."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "Hücre içi sindirimde (büyük moleküllerin parçalanmasında) ve yaşlanmış organellerin yok edilmesinde görevli olan; hayvan hücrelerinde bulunup gelişmiş bitki hücrelerinde bulunmayan kese şeklindeki organel hangisidir?",
+      "answers": [
+        "Lizozom",
+        "Ribozom",
+        "Çekirdek",
+        "Mitokondri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Lizozom, hücrenin midesi gibidir. İçindeki enzimlerle sindirim yapar. Gelişmiş bitki hücreleri sindirim yapmadığı için lizozoma sahip değildir."
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Tükürük, gözyaşı, süt ve ter gibi sıvı maddeleri üreten, bunları paketleyip hücre dışına salgılayan (gönderen) organel aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ribozom",
+        "Kloroplast",
+        "Golgi Cisimciği (Aygıtı)",
+        "Koful"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Golgi cisimciği hücrenin paketleme ve kargo merkezidir. Üretilen salgıları (ter, süt, enzim) paketler ve dışarı atılmasını sağlar."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "Hücre zarı ile Hücre duvarı (çeperi) arasındaki en temel işlevsel (görevsel) fark aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hücre zarı cansız, hücre duvarı canlıdır.",
+        "Hücre zarı bitkilerde, hücre duvarı hayvanlarda bulunur.",
+        "Hücre zarı 'seçici geçirgen' (kapı güvenliği gibi) iken, hücre duvarı cansız olduğu için 'tam geçirgen'dir (her maddeyi geçirir).",
+        "İkisi de hücrenin enerji merkezidir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Zar canlıdır ve hücreye zararlı şeylerin girmesine izin vermez (seçer). Ancak bitkilerdeki hücre duvarı cansızdır, deliklerinden sığabilen her maddeyi seçmeden içeri alır."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi hem bitki hem de hayvan hücresinde kesinlikle 'ortak' olarak bulunan yapıları (organelleri) göstermektedir?",
+      "answers": [
+        "Hücre zarı - Sitoplazma - Mitokondri - Ribozom",
+        "Hücre duvarı - Çekirdek - Kloroplast",
+        "Sentrozom - Lizozom - Kloroplast",
+        "Hücre çeperi - Sitoplazma - Golgi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlıların Yapısına Yolculuk",
+      "difficulty": 3,
+      "explanation": "Zar, sitoplazma, çekirdek, enerji üreten mitokondri ve protein üreten ribozom her iki gelişmiş hücre tipinde de (bitki/hayvan) kesinlikle ortak bulunur."
+    }
+  ]
+}

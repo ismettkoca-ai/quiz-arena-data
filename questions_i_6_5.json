@@ -1,0 +1,425 @@
+{
+  "unit": "Life in the Neighbourhood & City",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "If you want to buy some fresh bread and croissants, you should go to the ________.",
+      "answers": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "bank"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Taze ekmek ve kruvasan almak için fırına (bakery) gidilir."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Aşağıdakilerden hangisi 'Eczane' kelimesinin İngilizce karşılığıdır?",
+      "answers": [
+        "Pharmacy",
+        "Hospital",
+        "Grocery",
+        "Butcher"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "İngilizcede eczane 'pharmacy' veya 'chemist's' olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "Istanbul is ________ than my hometown. It has over 16 million people!",
+      "answers": [
+        "more crowded",
+        "quieter",
+        "smaller",
+        "cleaner"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "16 milyon nüfusu olan bir şehir diğerine göre 'daha kalabalıktır' (more crowded)."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "You can go to the ________ to borrow some books or study quietly.",
+      "answers": [
+        "library",
+        "post office",
+        "cinema",
+        "police station"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Kitap ödünç almak ve sessizce çalışmak için kütüphaneye (library) gidilir."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "A village is usually ________ than a big city. You can sleep very well there.",
+      "answers": [
+        "quieter",
+        "noisier",
+        "taller",
+        "busier"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Köy, büyük bir şehre göre 'daha sessizdir' (quieter). 'Quiet' sıfatı kısa olduğu için '-er' takısı alır."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Tourist: Excuse me, how can I ________ to the museum?\nPolice: Go straight ahead and turn left.",
+      "answers": [
+        "get",
+        "take",
+        "do",
+        "make"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Yol sorarken 'Nasıl gidebilirim/ulaşabilirim?' anlamında 'How can I get to...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "The bank is ________ the bakery and the post office.",
+      "answers": [
+        "between",
+        "in",
+        "under",
+        "on"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "İki yer belirtiliyorsa (bakery ve post office), banka bu iki yerin arasındadır. Arasında demek için 'between' kullanılır."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "What do we call a very tall building in a modern city?",
+      "answers": [
+        "Skyscraper",
+        "Kiosk",
+        "Town",
+        "Village"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Şehirlerdeki çok yüksek binalara gökdelen (skyscraper) denir."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "A sports car is ________ than a bicycle.",
+      "answers": [
+        "faster",
+        "slower",
+        "taller",
+        "shorter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Bir spor araba, bisikletten daha hızlıdır (faster)."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "İngilizcedeki 'Neighbourhood' kelimesinin Türkçe karşılığı hangisidir?",
+      "answers": [
+        "Mahalle",
+        "Şehir merkezi",
+        "Köy",
+        "Bina"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Neighbourhood' kelimesi mahalle veya semt anlamına gelir."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Take the second turning ________ the left.",
+      "answers": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Yol tarifinde 'sağdan/soldan' derken 'on' edatı kullanılır (on the left / on the right)."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "Where do people go to watch a new movie with their friends?",
+      "answers": [
+        "Cinema",
+        "Hospital",
+        "Grocery",
+        "Bank"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Film izlemek için sinemaya (cinema / movie theater) gidilir."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "Erzurum is ________ than Antalya in winter. It always snows there.",
+      "answers": [
+        "colder",
+        "hotter",
+        "warmer",
+        "better"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Kışın kar yağan Erzurum, Antalya'dan daha soğuktur (colder)."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "Excuse me, can you tell me the ________ to the train station?",
+      "answers": [
+        "way",
+        "time",
+        "name",
+        "price"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Bir yere giden yolu sormak için 'Can you tell me the way to...?' (Bana yolu tarif edebilir misiniz?) kalıbı kullanılır."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "To send a letter or a parcel to your friend, you need to visit the ________.",
+      "answers": [
+        "post office",
+        "police station",
+        "toy shop",
+        "butcher"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Mektup (letter) veya koli (parcel) göndermek için postaneye (post office) gidilir."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "'Kavşak' veya 'Dörtyol ağzı' kelimesinin İngilizce karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Crossroads",
+        "Building",
+        "Street",
+        "Town"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Yolların kesiştiği kavşak noktasına 'crossroads' veya 'junction' denir."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "My house is very ________ to the park, so I can walk there in just two minutes.",
+      "answers": [
+        "close",
+        "far",
+        "expensive",
+        "long"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Sadece iki dakikada yürünebiliyorsa ev parka çok yakındır (close)."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Life in the city is ________ than life in the country because of the heavy traffic and cars.",
+      "answers": [
+        "noisier",
+        "quieter",
+        "cleaner",
+        "cheaper"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Trafik ve arabalar nedeniyle şehir hayatı kırsala göre daha gürültülüdür (noisier)."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "If you have a terrible toothache, you should definitely go to the ________.",
+      "answers": [
+        "dentist's",
+        "greengrocer's",
+        "bakery",
+        "florist"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Diş ağrısı çeken biri dişçiye (dentist's) gitmelidir."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "________ straight ahead and cross the street. You will see the cafe.",
+      "answers": [
+        "Go",
+        "Turn",
+        "Take",
+        "Cross"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Yol tarifinde 'dosdoğru git' demek için 'Go straight ahead' fiili kullanılır."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "Which of the following is a public transportation vehicle in a city?",
+      "answers": [
+        "Subway",
+        "Skyscraper",
+        "Kiosk",
+        "Crosswalk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Toplu taşıma aracı sorulmaktadır. Metro (Subway) bir ulaşım aracıdır."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "An elephant is ________ than a horse.",
+      "answers": [
+        "heavier",
+        "lighter",
+        "thinner",
+        "smaller"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Bir fil bir attan daha ağırdır (heavier)."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "İngilizcede 'Opposite' kelimesinin yön tarifi olarak Türkçe karşılığı nedir?",
+      "answers": [
+        "Karşısında",
+        "Yanında",
+        "Arkasında",
+        "Altında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Opposite' kelimesi iki nesnenin yüz yüze, yani 'karşısında' olduğunu ifade eder."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "I need to buy some flowers for my mother's birthday. Where is the nearest ________?",
+      "answers": [
+        "florist",
+        "butcher",
+        "chemist",
+        "baker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Çiçek satın alınacak yer çiçekçidir (florist)."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "Downtown is ________ than the suburbs because there are many shops, cafes, and people.",
+      "answers": [
+        "busier",
+        "quieter",
+        "boring",
+        "cheaper"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 3,
+      "explanation": "Şehir merkezi (downtown) dükkanlar ve insanlar nedeniyle kenar mahallelere göre daha meşgul/hareketlidir (busier)."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "A plane ticket is usually ________ than a bus ticket.",
+      "answers": [
+        "more expensive",
+        "cheaper",
+        "slower",
+        "worse"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "'Expensive' uzun bir sıfat olduğu için daha pahalı demek için önüne 'more' alır. Uçak bileti otobüsten daha pahalıdır."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "The police station is ________ the bank, so they share the same wall.",
+      "answers": [
+        "next to",
+        "opposite",
+        "in",
+        "between"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Aynı duvarı paylaşıyorlarsa yan yanadırlar, yani bitişiğindedirler (next to)."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "'Go past the library.' cümlesindeki 'go past' ifadesi ne anlama gelmektedir?",
+      "answers": [
+        "Önünden geçip gitmek",
+        "İçine girmek",
+        "Karşısında durmak",
+        "Arkasına saklanmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Yol tarifinde 'go past' bir binayı veya yapıyı geçip yola devam etmek demektir."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "Which of the following places is a natural feature, NOT a building?",
+      "answers": [
+        "River",
+        "Hospital",
+        "Bank",
+        "Museum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Nehir (River) doğal bir coğrafi yapıdır, insan yapımı bir bina değildir."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "'Hometown' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Memleket / Doğup büyünen yer",
+        "Başkent",
+        "Yabancı ülke",
+        "Köy meydanı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "İngilizcede kişinin doğup büyüdüğü yere veya memleketine 'hometown' denir."
+    }
+  ]
+}

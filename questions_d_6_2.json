@@ -1,0 +1,425 @@
+{
+  "unit": "Ramazan ve Oruç",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "Zengin bir ailenin çocuğu olan Ali, Ramazan ayında oruç tutarken akşama doğru çok acıkmış ve 'Demek ki yiyecek ekmeği olmayan fakirler her gün bu hissi yaşıyor' diye düşünmüştür. Bu durum orucun insana kazandırdığı hangi duyguyla açıklanır?",
+      "answers": [
+        "Cesaret",
+        "Empati ve yardımlaşma",
+        "Özgüven",
+        "Tasarruf etme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Oruç, tokun açın halinden anlamasını sağlayarak insana empati yeteneği kazandırır ve toplumsal yardımlaşmayı artırır."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "İslam dininde Ramazan ayının 'On Bir Ayın Sultanı' olarak anılmasının ve diğer aylardan daha üstün tutulmasının en temel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sıcak yaz aylarına denk gelmesi",
+        "İnsanların daha çok uyuması",
+        "Kur'an-ı Kerim'in bu ayda indirilmeye başlanması",
+        "Savaşların bu ayda yasak olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Ramazan ayını diğer aylardan üstün kılan en büyük olay, insanlığa rehber olan Kur'an-ı Kerim'in bu ayda inmeye başlamasıdır."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "Müslümanların oruç tutmak amacıyla gece yarısı kalkıp yemek yedikleri vakte ne ad verilir?",
+      "answers": [
+        "İftar",
+        "Sahur",
+        "İmsak",
+        "Mukabele"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Oruca hazırlık yapmak ve güç toplamak amacıyla gece kalkılıp yenilen yemeğe 'Sahur' denir ve peygamberimizin sünnetidir."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "Sabah ezanının okunmasıyla birlikte yeme ve içmenin kesilip orucun başladığı vakte ne ad verilir?",
+      "answers": [
+        "İmsak",
+        "Sahur",
+        "İftar",
+        "Teravih"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "İmsak, kelime anlamı olarak 'kendini tutmak' demektir. Sabah ezanıyla orucun başladığı ve sahurun bittiği andır."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "Ramazan ayında akşam ezanının okunmasıyla birlikte oruçlu olan kişinin yeme içmeye başlayarak orucunu açtığı vakte ne ad verilir?",
+      "answers": [
+        "İmsak",
+        "İftar",
+        "Sahur",
+        "Fidye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Güneşin batıp akşam ezanının okunmasıyla orucun açıldığı ve Allah'a şükredildiği vakte 'İftar' denir."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "Ramazan ayında yatsı namazından sonra genellikle 20 rekat olarak cemaatle coşku içinde kılınan sünnet namaz hangisidir?",
+      "answers": [
+        "Cuma Namazı",
+        "Vitir Namazı",
+        "Teravih Namazı",
+        "Teheccüd Namazı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Ramazan ayına özel olan, yatsı namazı ile vitir namazı arasında kılınan namaz 'Teravih' namazıdır."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "Zengin sayılan Müslümanların, Ramazan ayında bayram namazından önce yoksullara vermekle yükümlü olduğu, miktarı bir kişinin günlük yiyecek masrafı kadar olan sadakaya ne denir?",
+      "answers": [
+        "Fıtır Sadakası (Fitre)",
+        "Fidye",
+        "Zekat",
+        "Kefaret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Ramazan ayına kavuşmanın ve oruç tutabilmenin bir şükrü olarak ailedeki kişi sayısınca fakirlere verilen vacip sadakaya 'Fitre' denir."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "Ramazan ayında camilerde veya evlerde bir kişinin Kur'an-ı Kerim'i sesli okuması, diğerlerinin ise kitaptan veya içinden onu takip etmesi geleneğine ne ad verilir?",
+      "answers": [
+        "Hatim",
+        "Tefsir",
+        "Mukabele",
+        "Tecvid"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz ile Cebrail'in karşılıklı Kur'an okuma uygulamasına dayanan bu güzel geleneğe 'Mukabele' (karşılık verme) denir."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "Ayşe'nin anneannesi çok yaşlı olduğu ve iyileşme umudu kalmayan kronik bir hastalığı bulunduğu için oruç tutamamaktadır. Bu durumda dinimizce anneannenin ne yapması gerekir?",
+      "answers": [
+        "Hastalanma pahasına zorla oruç tutması",
+        "Yerine başka birinin oruç tutması",
+        "Tutamadığı her gün için bir fakiri doyuracak kadar bedel (Fidye) vermesi",
+        "Hiçbir şey yapmasına gerek olmaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "İyileşme umudu olmayan hastalar ve aşırı yaşlılar oruç tutmazlar; bunun yerine her gün için yoksullara 'Fidye' verirler."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "Ramazan ayında ağır bir gribe yakalanan Ahmet, doktorun uyarısıyla 3 gün oruç tutamamıştır. Ahmet iyileştikten sonra Ramazan bitiminde bu 3 günlük orucunu tutmuştur. Ahmet'in sonradan tuttuğu bu oruca ne ad verilir?",
+      "answers": [
+        "Kefaret Orucu",
+        "Kaza Orucu",
+        "Adak Orucu",
+        "Nafile Oruç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Hastalık veya yolculuk gibi geçerli bir mazeretle tutulamayan farz oruçların, daha sonraki günlerde birebir tutulmasına 'Kaza' denir."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "İlkokula giden küçük Kerem, oruç tutmaya heveslenmiş ancak bünyesi zayıf olduğu için ailesi onu sadece sabahtan öğlene kadar oruç tutturarak alıştırmıştır. Kültürümüzdeki bu güzel geleneğe ne ad verilir?",
+      "answers": [
+        "Çocuk Orucu",
+        "Yarım Oruç",
+        "Tekne Orucu",
+        "Kaza Orucu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Çocukları oruca alıştırmak ve onları Ramazan coşkusuna dahil etmek için yarım gün tutturulan bu kültürel oruca 'Tekne Orucu' denir."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "Osmanlı döneminde Ramazan aylarında camilerin iki minaresi arasına ipler gerilir ve kandillerle 'Hoş Geldin Ramazan' gibi güzel sözler yazılırdı. Günümüzde de devam eden bu ışıklı yazı sanatına ne denir?",
+      "answers": [
+        "Şerefe",
+        "Alem",
+        "Mahya",
+        "Hat"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Minareler arasına asılan ve Ramazan ayının coşkusunu yansıtan bu ışıklı yazılara 'Mahya' adı verilir."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Oruçlu olduğunu tamamen unutarak yanlışlıkla bir bardak su içen bir kişi, durumu hatırladığında ne yapmalıdır?",
+      "answers": [
+        "Orucu bozulduğu için hemen yemek yemelidir.",
+        "Ağzını çalkalayıp hiçbir şey olmamış gibi orucuna devam etmelidir.",
+        "Orucunu bozup yerine 61 gün kefaret tutmalıdır.",
+        "Ertesi gün kaza orucu tutmalıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz 'Kim unutarak yer veya içerse orucunu tamamlasın' buyurmuştur. Unutarak yemek orucu bozmaz."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "Peygamberimiz (s.a.v), 'Kim yalan konuşmayı ve yalanla iş yapmayı terk etmezse, Allah'ın onun yemesini ve içmesini bırakmasına (aç kalmasına) ihtiyacı yoktur' buyurmuştur. Bu hadisten oruçla ilgili hangi sonuç çıkarılır?",
+      "answers": [
+        "Orucun sadece aç ve susuz kalmaktan ibaret olduğu",
+        "Yalan söyleyenlerin oruç tutmasının yasak olduğu",
+        "Orucun midemize olduğu kadar ahlakımıza ve dilimize de tutturulması gerektiği",
+        "Oruçluyken hiç konuşmamak gerektiği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Orucun asıl amacı insanı ahlaken olgunlaştırmaktır. Kötü davranışları terk etmeden sadece aç kalmak orucun manevi ruhuna aykırıdır."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Kur'an'da 'Bin aydan daha hayırlı' olduğu müjdelenen, Kur'an'ın inmeye başladığı o mübarek gece aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kadir Gecesi",
+        "Berat Kandili",
+        "Miraç Kandili",
+        "Mevlid Kandili"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Ramazan ayının son günlerinde bulunan ve Kur'an'ın yeryüzüne inmeye başladığı gece 'Kadir Gecesi'dir."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "Aşağıdakilerden hangisi bir Müslümanın Ramazan orucunu tutmakla zorunlu (farz) olması için gereken şartlardan biri değildir?",
+      "answers": [
+        "Akıl sağlığının yerinde olması",
+        "Ergenlik çağına girmiş olması",
+        "Zengin ve varlıklı olması",
+        "Sağlıklı ve yolcu olmaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Oruç tutmak için zengin olma şartı yoktur, fiziksel bir ibadettir. Zenginlik şartı Zekat ve Hac ibadetleri için geçerlidir."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "Osmanlı döneminde iftara davet edilen misafirlere, yemekten sonra ev sahibi tarafından 'Bize misafir oldunuz, sevap kazandırdınız' denilerek kadife keseler içinde altın veya gümüş hediye edilirdi. Bu zarif geleneğin adı nedir?",
+      "answers": [
+        "Fitre",
+        "Diş Kirası",
+        "Sadaka Taşı",
+        "Zekat"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Misafiri baş tacı yapan ecdadımız, evine gelen konuklara zahmet edip geldikleri için 'Diş Kirası' adıyla zarif hediyeler verirdi."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "Ramazan ayı boyunca iftar, imsak ve namaz vakitlerini gösteren, evlerin duvarlarına asılan özel çizelgeye (takvime) ne ad verilir?",
+      "answers": [
+        "Mukabele",
+        "İmsakiye",
+        "Mahya",
+        "İlmihal"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "İmsak vakti başta olmak üzere günün tüm ibadet saatlerini gösteren Ramazan çizelgelerine 'İmsakiye' denir."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "Muharrem ayının 10. gününde, tarihteki birçok peygamberin kurtuluşunu anmak amacıyla evlerde çeşitli bakliyat, meyve ve kuruyemişlerin karıştırılmasıyla yapılan tatlı hangisidir?",
+      "answers": [
+        "Sütlaç",
+        "Güllaç",
+        "Aşure",
+        "Lokma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Aşure, Muharrem ayında pişirilip komşulara dağıtılan, paylaşmayı ve farklılıkların bir arada güzel olduğunu simgeleyen bir tatlıdır."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "Peygamberimiz Hz. Muhammed'in 'En faziletli oruç' olarak övdüğü, bir gün oruç tutup bir gün tutmamak (yemek) şeklinde yıl boyu uygulanan oruca ne ad verilir?",
+      "answers": [
+        "Adak Orucu",
+        "Şevval Orucu",
+        "Davut Orucu",
+        "Kefaret Orucu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Hz. Davud (a.s) ömrü boyunca bir gün oruç tutup ertesi gün yemiştir. Bu en zor ve faziletli nafile oruca 'Davut Orucu' denir."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "Ramazan ayının bitimiyle birlikte Müslümanların bir ay boyunca tuttukları orucun ve kazandıkları sevapların sevincini yaşamak için kutladıkları 3 günlük bayramın adı nedir?",
+      "answers": [
+        "Kurban Bayramı",
+        "Ramazan Bayramı (Fıtır Bayramı)",
+        "Kadir Gecesi",
+        "Aşure Günü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Oruç ayının ardından sevinçle kutlanan, dargınların barıştığı ve çocukların sevindirildiği bayrama Ramazan (Fitre/Fıtır) Bayramı denir."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "İnsanlar gösteriş yapmak için namaz kılabilir veya zekat verebilirler. Ancak oruçta kişinin bir şey yiyip yemediğini sadece kendisi ve Allah bilir. Bu durum orucun hangi ahlaki yönünü güçlendirir?",
+      "answers": [
+        "İhlaslı olmayı (gösterişten uzaklaşmayı)",
+        "Zengin olmayı",
+        "Hızlı koşmayı",
+        "Cesur olmayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Oruç, gizli tutulabilen tek ibadettir. Kimsenin görmediği bir yerde suyu içmemek, kişinin iradesini ve Allah'a olan ihlasını (samimiyetini) gösterir."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "Aşağıdaki durumlardan hangisi orucu bozan durumlardan biri değildir?",
+      "answers": [
+        "Bilerek isteyerek yemek yemek",
+        "Hastalık tedavisi için iğne vurulmak (ilaç almak)",
+        "Oruçlu olduğunu unutarak yanlışlıkla su içmek",
+        "Besleyici serum taktırmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Unutarak yiyip içmek orucu bozmaz, hatırlandığı an ağız çalkalanıp oruca devam edilir. Diğer seçenekler orucu bozar."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Bir işin gerçekleşmesine veya bir dileğin kabul olmasına bağlı olarak 'Sınavı kazanırsam 3 gün oruç tutacağım' diyerek Allah'a söz verilen oruca ne ad verilir?",
+      "answers": [
+        "Kaza Orucu",
+        "Adak (Nezir) Orucu",
+        "Nafile Oruç",
+        "Kefaret Orucu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Kişinin şart koşarak Allah'a söz verdiği ve dileği gerçekleştiğinde tutması vacip (zorunlu) olan oruca 'Adak' orucu denir."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Oruca başlarken zihnen ve kalben 'Yarınki orucu tutmaya karar vermek' gereklidir. İbadetin kabul olması için şart olan bu eyleme ne ad verilir?",
+      "answers": [
+        "Niyet",
+        "Sahur",
+        "İmsak",
+        "Kaza"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Tüm ibadetlerin özü 'Niyet'tir. Sadece aç kalmak rejim yapmaktır, ancak bunu Allah rızası için yapmaya karar vermek (niyet) onu ibadet yapar."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "Dinimiz; yolculara (seferi olanlara), hamilelere veya ağır işte çalışanlara oruç tutmama konusunda izin vermiş, oruçlarını müsait oldukları bir zamanda tutmalarını (kaza etmelerini) söylemiştir. Bu kural İslam hakkında bize neyi gösterir?",
+      "answers": [
+        "İbadetlerin çok sert ve acımasız olduğunu",
+        "İslam'ın insan sağlığını merkeze alan ve kolaylık sağlayan bir din olduğunu",
+        "Oruç tutmanın aslında çok önemsiz olduğunu",
+        "Sadece zenginlerin yolculuk yapabileceğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "İslam'da insan sağlığı her şeyin üstündedir. Zorluk çıkaran değil, mazeretleri kabul edip kolaylık gösteren (ruhsat veren) bir dindir."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "Eskiden saatlerin yaygın olmadığı dönemlerde, insanların iftar vaktinin (akşam ezanının) girdiğini şehre duyurmak için geliştirilen ve günümüzde de hala devam eden Ramazan geleneği hangisidir?",
+      "answers": [
+        "Mahya asmak",
+        "Ramazan Topu atılması",
+        "Diş kirası dağıtılması",
+        "Gül suyu serpilmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 1,
+      "explanation": "Sesin uzaklara ulaşması için iftar anında 'Ramazan Topu' patlatılması kültürümüze yerleşmiş coşkulu bir gelenektir."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "Peygamberimizin 'Ramazan orucunu tutup ardından bu ayda 6 gün daha oruç tutan, bütün yılı oruçlu geçirmiş gibi sevap kazanır' buyurduğu, Ramazan'dan hemen sonraki ay tutulan nafile oruç hangisidir?",
+      "answers": [
+        "Muharrem Orucu",
+        "Şevval Orucu",
+        "Recep Orucu",
+        "Şaban Orucu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Ramazan ayından hemen sonra gelen Şevval ayında tutulan 6 günlük oruç peygamberimizin kuvvetli sünnetlerindendir."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "Herhangi bir hastalık veya mazereti olmadığı halde, oruca niyet ettikten sonra bilerek ve isteyerek (kasten) bir şey yiyip içerek orucunu bozan kişiye dinimizce verilen cezai oruca ne denir?",
+      "answers": [
+        "Kaza Orucu",
+        "Nafile Oruç",
+        "Kefaret Orucu (61 Gün)",
+        "Adak Orucu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 3,
+      "explanation": "Mazeretsiz yere bilerek orucu bozmak büyük bir hatadır. Bunun bedeli (kefareti) 60 gün ceza ve 1 gün bozduğu gün olmak üzere aralıksız 61 gün oruç tutmaktır."
+    },
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Bir ay boyunca açlığa ve susuzluğa sabrederek oruç tutan bir kişi, gün içinde sinirlendiğinde 'Ben oruçluyum' diyerek öfkesine hakim olur. Bu durum orucun insan üzerindeki hangi etkisidir?",
+      "answers": [
+        "İrade eğitimi ve nefis terbiyesi",
+        "Sadece kilo vermesini sağlaması",
+        "Toplumsal baskıdan korkması",
+        "Fiziksel olarak güçlenmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ramazan ve Oruç",
+      "difficulty": 2,
+      "explanation": "Oruç, kişiye öfkesini, açlığını ve kötü arzularını kontrol etme (irade) gücü verir. İnsanın nefsini terbiye eder."
+    }
+  ]
+}

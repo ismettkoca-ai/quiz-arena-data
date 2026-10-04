@@ -1,0 +1,425 @@
+{
+  "unit": "Appearance and Personality",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "Lisa: What does your new English teacher look like?\nSam: She ________.",
+      "answers": [
+        "is tall and slim with curly hair",
+        "is very honest and punctual",
+        "likes playing tennis",
+        "is a generous person"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "'What does she look like?' sorusu kişinin dış görünüşünü (Appearance) sorar. Bu yüzden boy, kilo veya saç yapısı ile cevap verilmelidir."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "Alex: What is your best friend like?\nTom: He ________.",
+      "answers": [
+        "is smart, funny, and outgoing",
+        "has got blue eyes",
+        "is taller than me",
+        "wears glasses"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "'What is he like?' sorusu kişinin karakterini (Personality) sorar. Zeki, komik ve dışa dönük olması karakter özellikleridir."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "My sister never changes her mind and she never listens to my advice. She is very ________.",
+      "answers": [
+        "stubborn",
+        "generous",
+        "punctual",
+        "cheerful"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Fikrini asla değiştirmeyen ve başkalarını dinlemeyen kişi inatçıdır ('stubborn')."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "An honest person always ________.",
+      "answers": [
+        "tells the truth",
+        "tells lies",
+        "breaks things",
+        "forgets everything"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Dürüst ('honest') bir insan daima doğruyu söyler ('tells the truth')."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "If someone is 'punctual', what does it mean?",
+      "answers": [
+        "He or she is always on time for meetings or events.",
+        "He or she likes buying gifts for friends.",
+        "He or she is nervous around other people.",
+        "He or she always studies hard for exams."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Punctual' dakik demektir. Yani randevularına her zaman vaktinde ('on time') giden kişidir."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "Our dog is very ________. It usually sleeps on the sofa and doesn't want to run or play.",
+      "answers": [
+        "lazy",
+        "hardworking",
+        "clever",
+        "outgoing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Sürekli uyuyan, koşmak ve oynamak istemeyen bir hayvan tembeldir ('lazy')."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "Jack is a ________ boy. He often drops his glass and breaks things accidentally.",
+      "answers": [
+        "clumsy",
+        "selfish",
+        "brave",
+        "smart"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Sürekli bir şeyleri düşüren ve yanlışlıkla kıran kişi sakardır ('clumsy')."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "A generous person loves ________.",
+      "answers": [
+        "sharing things and buying presents",
+        "spending time alone",
+        "working in the office",
+        "telling jokes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Cömert ('generous') bir insan, bir şeylerini paylaşmayı ve hediye almayı sever."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "İngilizcedeki 'Selfish' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bencil",
+        "Yardımsever",
+        "Dışa dönük",
+        "Dürüst"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Sadece kendini düşünen kişilere bencil, yani 'selfish' denir."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "My grandmother has got some ________ on her face because she is 80 years old.",
+      "answers": [
+        "wrinkles",
+        "freckles",
+        "braces",
+        "muscles"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Yaşlılıktan dolayı yüzde oluşan çizgilere kırışıklık ('wrinkles') denir."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "Mary has got small brown spots on her nose and cheeks. She has got ________.",
+      "answers": [
+        "freckles",
+        "glasses",
+        "headscarves",
+        "mustaches"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Burun ve yanaklardaki küçük kahverengi noktalara çil ('freckles') denir."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "Look at the comparison: An elephant is ________ than a tiger.",
+      "answers": [
+        "heavier",
+        "heavyer",
+        "more heavy",
+        "heavy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Heavy' sıfatı -y ile bittiği için karşılaştırma yapılırken -y düşer ve -ier takısı alır ('heavier')."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "I think English is ________ than mathematics because I enjoy learning new words.",
+      "answers": [
+        "easier",
+        "more easy",
+        "easyer",
+        "easy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Easy' sıfatı -y ile biter. Karşılaştırma yaparken -y düşer ve -ier takısı gelir ('easier')."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "A Ferrari is ________ than a regular family car.",
+      "answers": [
+        "more expensive",
+        "expensiver",
+        "more expensiver",
+        "expensive"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "'Expensive' uzun bir sıfat olduğu için önüne 'more' kelimesi alır."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "My brother's exam results are very good, but my results are ________ than his.",
+      "answers": [
+        "better",
+        "gooder",
+        "more good",
+        "best"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Good' (iyi) düzensiz bir sıfattır ve 'daha iyi' demek için 'better' şekline dönüşür."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "The weather today is ________ than yesterday. It is raining and stormy.",
+      "answers": [
+        "worse",
+        "badder",
+        "more bad",
+        "worst"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Bad' (kötü) düzensiz bir sıfattır. 'Daha kötü' demek için 'worse' kelimesi kullanılır."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "She always smiles and looks happy. She is a very ________ girl.",
+      "answers": [
+        "cheerful",
+        "nervous",
+        "shy",
+        "forgetful"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Her zaman gülümseyen ve mutlu görünen kişi neşelidir ('cheerful')."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "İngilizcede 'Plump' kelimesinin fiziksel görünüş olarak Türkçe karşılığı nedir?",
+      "answers": [
+        "Balık etli / Toplu",
+        "Çok zayıf",
+        "Uzun boylu",
+        "Kaslı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "'Plump' kelimesi hafif şişman, balık etli veya toplu kişiler için kullanılır."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "What does 'straight hair' mean?",
+      "answers": [
+        "Hair without curls or waves",
+        "Hair that has curls",
+        "Hair with no color",
+        "Hair that is very short"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "'Straight hair' düz saç demektir. Yani kıvırcık (curls) veya dalga (waves) olmayan saçtır."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "My sister is a very ________ person. She loves meeting new people and going to parties.",
+      "answers": [
+        "outgoing",
+        "shy",
+        "clumsy",
+        "stubborn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Yeni insanlarla tanışmayı ve partilere gitmeyi seven biri dışa dönük, sosyaldir ('outgoing')."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Jane: Are you ________ than your older brother?\nTom: No, I am shorter than him.",
+      "answers": [
+        "taller",
+        "shorter",
+        "thinner",
+        "plumper"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Cevapta 'Hayır, ondan daha kısayım' diyorsa, soruda 'Ondan daha mı uzunsun?' ('taller') diye sorulmuş olmalıdır."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "I can't reach the book on the top shelf because I am ________ than you.",
+      "answers": [
+        "shorter",
+        "taller",
+        "older",
+        "heavier"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "En üst rafa yetişemeyen bir kişi, yanındakine göre 'daha kısa'dır ('shorter')."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "If someone is 'easygoing', what are they like?",
+      "answers": [
+        "They are relaxed, calm, and easy to get along with.",
+        "They are aggressive and angry all the time.",
+        "They are always late for meetings.",
+        "They never share their belongings."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 3,
+      "explanation": "'Easygoing' uyumlu, rahat ve geçinmesi kolay kişi demektir."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "My mother wears a ________ to cover her head.",
+      "answers": [
+        "headscarf",
+        "mustache",
+        "beard",
+        "freckle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Başı örtmek için takılan eşarp/başörtüsü İngilizcede 'headscarf' olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "Men can grow a ________ on their chin and a mustache above their lip.",
+      "answers": [
+        "beard",
+        "scarf",
+        "freckle",
+        "wrinkle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Çenede uzayan kıllara sakal ('beard'), dudağın üstündekine ise bıyık ('mustache') denir."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "We are very good friends because we always ________ with each other.",
+      "answers": [
+        "get on well",
+        "tell lies",
+        "break things",
+        "argue"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Çok iyi arkadaş olmanın sebebi birbirleriyle 'iyi geçinmek'tir ('get on well')."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Tom: Who is ________, a cheetah or a lion?\nDavid: A cheetah, of course! It is the fastest land animal.",
+      "answers": [
+        "faster",
+        "slower",
+        "stronger",
+        "weaker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 1,
+      "explanation": "Çita dünyanın en hızlı kara hayvanı olduğuna göre soruda 'Hangisi daha hızlıdır?' ('faster') sorulmuştur."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "A person who is 'shy' usually feels ________.",
+      "answers": [
+        "nervous and uncomfortable around other people",
+        "very energetic and wants to jump",
+        "angry and aggressive",
+        "hungry and thirsty"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "'Shy' (utangaç) olan kişi başka insanların yanında gergin ve rahatsız hisseder."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "My sister is a beautiful girl with ________ hair and green eyes.",
+      "answers": [
+        "wavy blonde",
+        "handsome tall",
+        "plump dark",
+        "well-built straight"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 2,
+      "explanation": "Saçı tarif etmek için 'dalgalı sarı' ('wavy blonde') sıfatları sırasıyla kullanılabilir."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "A 'thoughtful' person always ________.",
+      "answers": [
+        "cares about other people's feelings",
+        "forgets everything",
+        "thinks only about himself",
+        "arrives late"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Appearance and Personality",
+      "difficulty": 3,
+      "explanation": "Düşünceli ('thoughtful') bir insan her zaman başkalarının hislerini önemser ve onları düşünür."
+    }
+  ]
+}

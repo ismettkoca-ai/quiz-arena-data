@@ -1,0 +1,425 @@
+{
+  "unit": "Kader İnancı",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "Allah'ın evrende olacak olan her şeyi belli bir ölçü, düzen ve uyum içerisinde önceden bilip planlamasına (programlamasına) ne ad verilir?",
+      "answers": [
+        "Kaza",
+        "Kader",
+        "Tevekkül",
+        "Ecel"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Kelime anlamı 'ölçü, miktar, plan' olan Kader, Allah'ın her şeyi ezelde (başlangıçta) sonsuz ilmiyle planlamasıdır."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "Kaderde planlanan olayların, zamanı ve yeri geldiğinde Allah'ın izniyle gerçekleşmesine ne ad verilir?",
+      "answers": [
+        "Rızık",
+        "İrade",
+        "Kader",
+        "Kaza"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Planlamak kader, o planın vakti geldiğinde gerçeğe dönüşmesi (uygulanması) ise Kaza'dır."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'Kaza' kavramına uygun bir durum (gerçekleşmiş bir olay) ifade edilmektedir?",
+      "answers": [
+        "Yarın Ankara'ya şiddetli kar yağacakmış.",
+        "Su deniz seviyesinde 100 derecede kaynar.",
+        "Dün akşam mahallemizde elektrikler kesildi.",
+        "Gelecek ay sınavlara daha çok çalışacağım."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Kaza, olayın yaşanıp bitmiş olmasıdır. 'Dün akşam kesildi' cümlesi gerçekleşmiş bir olayı (kazayı) anlatır."
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "Evrendeki mükemmel düzeni sağlamak için Allah'ın koyduğu fiziksel, biyolojik ve toplumsal yasalara genel olarak ne ad verilir?",
+      "answers": [
+        "Sünnetullah (Adetullah)",
+        "Tefekkür",
+        "Külli İrade",
+        "Hüsnüzan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Allah'ın evreni yönetirken koyduğu şaşmaz ve değişmez doğa kanunlarına (yasalara) Sünnetullah veya Adetullah denir."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Suyun kaldırma kuvveti, yer çekimi kanunu, gece ile gündüzün oluşumu ve gezegenlerin hareketleri evrendeki hangi yasa grubuna girer?",
+      "answers": [
+        "Toplumsal Yasalar",
+        "Biyolojik Yasalar",
+        "Fiziksel Yasalar",
+        "Psikolojik Yasalar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Madde ve enerjinin oluşumu, değişimi ve hareketiyle ilgili, deney ve gözleme dayanan evrensel kanunlara Fiziksel Yasalar denir."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Balıkların suda solunum yapabilmek için solungaçlara sahip olması, etçil hayvanların çene yapılarının farklı olması ve bitkilerin fotosentez yapması hangi yasalarla ilgilidir?",
+      "answers": [
+        "Fiziksel Yasalar",
+        "Biyolojik Yasalar",
+        "Toplumsal Yasalar",
+        "Kimyasal Yasalar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Canlıların doğması, gelişmesi, üremesi ve vücut yapıları (DNA, sindirim sistemi vb.) ile ilgili kurallar Biyolojik yasalardır."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "Kur'an-ı Kerim'de, 'Adaletin olmadığı, yoksulların ezildiği ve haksızlığın arttığı toplumlar tarih sahnesinden silinmeye mahkumdur' mesajı sıkça vurgulanır. Bu durum hangi yasalarla açıklanır?",
+      "answers": [
+        "Biyolojik Yasalar",
+        "Fiziksel Yasalar",
+        "Maddi Yasalar",
+        "Toplumsal Yasalar"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "İnsan ilişkileri, göç, adalet, gelir dağılımı gibi toplumun yapısını ilgilendiren neden-sonuç ilişkileri Toplumsal yasalardır."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "İnsanı diğer canlılardan ayıran, onun yaptıklarından sorumlu tutulmasını (sevap veya günah kazanmasını) sağlayan en önemli iki özelliği hangisidir?",
+      "answers": [
+        "Akıl ve İrade (Seçme özgürlüğü)",
+        "Beslenme ve Barınma",
+        "Uyuma ve Çalışma",
+        "Duygulanma ve Konuşma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "İnsan, aklı sayesinde doğruyu yanlıştan ayırır ve iradesiyle (özgür seçimiyle) karar verir. Bu yüzden eylemlerinden sorumludur."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "İslam inancına göre Allah'ın sahip olduğu sonsuz ve sınırsız seçme gücüne (örneğin evreni yaratması, depremlerin olması) ne ad verilir?",
+      "answers": [
+        "Cüzi İrade",
+        "Külli İrade",
+        "Ecel",
+        "Tevekkül"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Külli (Tümel/Bütün) irade Allah'a aittir ve sınırsızdır. İnsanın gücünün yetmediği, kendisinin seçemediği alanları kapsar."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "İnsana Allah tarafından verilen ve sınırlı olan seçme özgürlüğüne (cüzi irade) göre, aşağıdakilerden hangisi insanın kendi seçimiyle belirlediği (sorumlu olduğu) bir durumdur?",
+      "answers": [
+        "Hangi yılda doğacağı",
+        "Göz rengi ve boy uzunluğu",
+        "Kimlerin anne ve babası olacağı",
+        "Doğru sözlü ve dürüst biri olması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Doğum yılımız, ailemiz ve fiziksel özelliklerimiz Külli iradedir (seçemeyiz). Ancak ahlakımız, çalışmamız ve mesleğimiz Cüzi irade ile kendi seçimimizdir."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "Bir işi başarmak için gerekli tüm tedbirleri aldıktan, üzerine düşen her şeyi yaptıktan sonra sonucu Allah'a bırakıp O'na güvenmeye ne denir?",
+      "answers": [
+        "Tefekkür",
+        "Şükür",
+        "Tevekkül",
+        "Kaza"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Tevekkül (vekil kılmak), insanın elinden gelen çalışmayı (sebebi) yerine getirdikten sonra kalben Allah'a dayanmasıdır."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "Tarlasını sürmeyen, tohum ekmeyen ve sulamayan bir çiftçinin 'Allah verirse ürün alırım, kaderimde varsa olur' diyerek beklemesi İslam'a göre nasıl değerlendirilir?",
+      "answers": [
+        "Doğru bir tevekkül anlayışıdır.",
+        "Kaderi yanlış anlayan, tembelliğe dayalı yanlış bir tevekkül anlayışıdır.",
+        "Allah'a olan büyük güvenin (imanın) işaretidir.",
+        "Çiftçilikte sık görülen bir durumdur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "İslam'da tembelliğe yer yoktur. Emek harcamadan, tedbir almadan sonucu Allah'tan beklemek kaderi yanlış anlamaktır."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "Peygamberimiz (s.a.v), devesini bağlamadan 'Allah'a tevekkül ettim' diyerek mescide giren bedeviye (köylüye) dönmüş ve 'Önce deveni bağla, sonra tevekkül et' buyurmuştur. Bu hadisten çıkarılacak ana ders nedir?",
+      "answers": [
+        "Develerin mutlaka bağlanması gerektiği",
+        "Tevekkülün sadece cami içinde yapılması gerektiği",
+        "Tevekkül etmeden önce mutlaka gerekli güvenlik tedbirlerinin alınması gerektiği",
+        "Dua etmenin gereksiz olduğu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Gerçek tevekkül, önce deveni sağlam kazığa bağlamak (tedbir almak), sonra onun çalınmaması için Allah'a dua etmektir."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "Allah'ın, yarattığı tüm canlılara yaşamlarını sürdürebilmeleri için verdiği maddi ve manevi her türlü nimete (yiyecek, su, sağlık, akıl) ne ad verilir?",
+      "answers": [
+        "Zekat",
+        "Sadaka",
+        "Rızık",
+        "Ömür"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Canlıların hayatta kalması ve faydalanması için Allah'ın sunduğu her türlü imkan 'Rızık' olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "İnsanların doğumuyla başlayan ve ölümüne kadar geçen zaman dilimine 'Ömür', bu sürenin bittiği ve hayatın sona erdiği an'a ise ne ad verilir?",
+      "answers": [
+        "Kıyamet",
+        "Ecel",
+        "Berzah",
+        "Mahşer"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Allah tarafından her canlıya verilen yaşam süresinin bitiş anına (ölüm vaktine) Ecel denir."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "Aşırı hız yapan, emniyet kemeri takmayan ve kırmızı ışıkta geçip kaza yapan bir sürücünün, 'Ne yapayım, kaderimde kaza yapmak varmış, ecelim gelmiş' diyerek kendini savunması neden yanlıştır?",
+      "answers": [
+        "Kazaların sadece araçlardan kaynaklandığı için",
+        "Kaderin hiçbir şekilde değiştirilemeyeceği için",
+        "İnsanın aklını kullanmayıp tedbir almadığı hataların suçunu 'Kader'e atarak kendi sorumluluğundan kaçmasıdır.",
+        "Trafik kurallarının dini bir öneminin olmaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 3,
+      "explanation": "Kişi cüzi iradesiyle kurallara uymazsa sonucundan kendisi sorumlu olur. Kendi hatamızı kadere yüklemek İslam'ın kader anlayışına terstir."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Bir iş yeri açan Kemal Bey, dükkanını temiz tutar, kaliteli ürünler satar ve müşterilerine güler yüz gösterir. 'Rızkımı veren Allah'tır' deyip sadece evde oturmamıştır. Kemal Bey'in bu tutumu bize rızık konusunda neyi öğretir?",
+      "answers": [
+        "Rızkın sadece zenginlere verildiğini",
+        "Allah'ın rızka kefil olduğunu ancak insanın o rızkı arayıp bulmak için emek harcaması (çalışması) gerektiğini",
+        "Çalışmanın rızkı azalttığını",
+        "Müşterilerin dükkana kendiliğinden geldiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Kuşların bile rızkını bulmak için sabah yuvadan çıkıp uçması gibi, insanın da rızkını elde etmek için helal yoldan emek vermesi şarttır."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "Zalim bir hükümdar olan Firavun'a karşı İsrailoğullarını kurtarmak için mücadele eden, asasıyla denizi ikiye yararak halkını karşıya geçiren ve kader inancı ünitesinde azmiyle örnek gösterilen peygamber kimdir?",
+      "answers": [
+        "Hz. İsa",
+        "Hz. Davud",
+        "Hz. Musa",
+        "Hz. Süleyman"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "LGS müfredatında kader ve mücadele bağlamında işlenen, Firavun'un zulmüne karşı Allah'ın yardımıyla galip gelen peygamber Hz. Musa'dır."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "Bakara Suresi'nin 255. ayetidir. Adını, içinde geçen ve Allah'ın sonsuz kudretini (hükümdarlığını) simgeleyen kelimeden alır. Farz namazlardan sonra okunan bu muazzam ayetin adı nedir?",
+      "answers": [
+        "Fatiha Suresi",
+        "Ayet el-Kürsi",
+        "Amenerrasulü",
+        "İhlas Suresi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "İçinde geçen 'Kürsi' (Allah'ın kudreti, gücü, tahtı) kelimesinden adını alan Ayet el-Kürsi, Allah'ın büyüklüğünü anlatan eşsiz bir ayettir."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Ayet el-Kürsi'nin anlamında; Allah'ın ölümsüz ve daima diri olduğu (Hayy), her şeyi ayakta tuttuğu (Kayyum), O'nu uyku ve uyuklama tutmadığı belirtilir. Bu ayet Allah'ın hangi özelliğiyle doğrudan bağlantılıdır?",
+      "answers": [
+        "Evreni yaratıp köşeye çekildiğiyle",
+        "Sonsuz bir güce ve bilgiye sahip olup evrendeki her anı (kaderi) kesintisiz kontrol ettiğiyle",
+        "Sadece insanlara yardım ettiğiyle",
+        "İnsanların dua etmesine gerek kalmadığıyla"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 3,
+      "explanation": "Allah'ın uyumaması ve her an diri olması, evrendeki kaderin, yasaların ve düzenin bir saniye bile kontrol dışı kalmadığını kanıtlar."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "Öğretmeni, 'İnsan rüzgarın önünde sürüklenen bir yaprak değildir' demiştir. Öğretmen bu benzetmeyle insanın hangi yönüne dikkat çekmek istemiştir?",
+      "answers": [
+        "İnsanın hafif bir varlık olduğuna",
+        "İnsanın akıl ve iradesiyle kendi yolunu çizen, kararlarından sorumlu bir varlık olduğuna",
+        "Kaderin asla değiştirilemeyeceğine",
+        "Doğadaki yaprakların önemsiz olduğuna"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Rüzgarda sürüklenen yaprağın iradesi yoktur (Külli irade). Ancak insan akıl ve seçme yeteneğiyle (Cüzi irade) kendi eylemlerine yön verebilir."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Hırsızlık yaparken yakalanan bir adam, hakime 'Kaderimde hırsız olmak yazılıymış, benim suçum ne?' demiştir. Hakimin bu adama İslam'ın kader anlayışına göre vereceği en mantıklı cevap nedir?",
+      "answers": [
+        "Haklısın, kader mahkumusun seni affediyorum.",
+        "Kaderin böyleyse yapacak bir şey yok.",
+        "Allah senin hırsızlık yapacağını önceden biliyordu, ancak bu kararı zorla o verdirmedi, kendi özgür iradenle sen seçtin.",
+        "Hırsızlık yapmak kaderde yer almaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 3,
+      "explanation": "Allah'ın bir şeyi önceden 'bilmesi' (kader), o şeyi bize 'zorla yaptırdığı' anlamına gelmez. Seçimi insan yapar, Allah sadece onun ne seçeceğini ezelden bilir."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Kur'an'da yer alan 'Güneş ve ay bir hesaba göre hareket etmektedir' ayeti, evrendeki hangi yasanın (Sünnetullah'ın) varlığına kanıttır?",
+      "answers": [
+        "Biyolojik Yasalar",
+        "Toplumsal Yasalar",
+        "Fiziksel Yasalar",
+        "Ahlaki Yasalar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Gezegenlerin hareketleri, yörüngeleri ve uzaydaki hassas kütleçekim düzeni doğrudan Fiziksel Yasalara örnektir."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Ali kışın ince kıyafetlerle dışarı çıkmış, terliyken soğuk su içmiş ve sonunda zatürre olmuştur. Hastanede 'Kaderim buymuş' demek yerine Ali'nin hangi ahlaki davranışı sergilemesi beklenir?",
+      "answers": [
+        "Hastalığın ona başkasından bulaştığını iddia etmesi",
+        "Kendi hatası ve tedbirsizliği yüzünden sağlığını bozduğunu kabul edip sorumluluk alması",
+        "Doktorları suçlaması",
+        "Tedavi olmayı reddetmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Hastalık ve sağlık kaderdir, ancak insan sağlığını korumak için önlem almakla görevlidir. Önlem almayıp hastalanmak kişinin kendi cüzi iradesinin hatasıdır."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "İnsanın bir şeyleri başarabilmesi için önce hedef koyması, o hedef doğrultusunda ter dökmesi ve elinden geleni yapması gerekir. İslam ahlakına göre 'Başarı' kavramı için en doğru tanım hangisidir?",
+      "answers": [
+        "Tamamen şansa bağlı tesadüfi bir sonuçtur.",
+        "Emek harcayarak ve doğru sebeplere (kurallara) uyarak Allah'ın lütfunu aramaktır.",
+        "Sadece çok dua ederek ulaşılabilen bir yerdir.",
+        "Zenginlerin daha kolay elde ettiği bir kavramdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Başarı, kuru bir şans veya sadece dua değil; doğru yolda emek (çaba) harcayıp tevekkül edilerek Allah'tan istenen bir sonuçtur."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "'Bir toplum kendisindeki özellikleri (ahlakı, adaleti, dürüstlüğü) değiştirmedikçe, Allah da o toplumun gidişatını (durumunu) değiştirmez.' (Ra'd Suresi). Bu ayet evrendeki hangi yasanın temel kuralıdır?",
+      "answers": [
+        "Fiziksel Yasalar",
+        "Biyolojik Yasalar",
+        "Toplumsal Yasalar",
+        "Kimyasal Yasalar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "Toplumların yükselmesi veya çökmesi, kendi ahlaki ve hukuki davranışlarına bağlıdır. Bu durum sebep-sonuç ilişkisine dayalı Toplumsal Yasadır."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "Kur'an'da Hz. Musa ile birlikte adı geçen, Firavun'a karşı kardeşi Musa'ya destek olmak üzere görevlendirilen diğer peygamber (kardeşi) kimdir?",
+      "answers": [
+        "Hz. İsa",
+        "Hz. Yakub",
+        "Hz. Harun",
+        "Hz. Yusuf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Hz. Musa konuşma zorluğu çektiği için Allah'tan kardeşini ona yardımcı yapmasını istemiş, böylece Hz. Harun da peygamber olarak ona destek vermiştir."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "Ayet el-Kürsi'de geçen 'Şefaat' kavramının anlamı nedir ve ayete göre bu yetki kime bağlıdır?",
+      "answers": [
+        "Savaşmaktır, komutanlara aittir.",
+        "Günahların affı için aracı olmak demektir, ancak Allah'ın izni olmadan hiç kimse şefaat edemez.",
+        "Zengin olmaktır, çok çalışanlara verilir.",
+        "Uzun yaşamaktır, doktorlara bağlıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 3,
+      "explanation": "Ayet el-Kürsi'de 'O'nun izni olmadan katında kim şefaat edebilir?' denilerek, affetme ve şefaat (aracılık) yetkisinin tek sahibinin Allah olduğu vurgulanır."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Peygamberimiz 'Hiç ölmeyecekmiş gibi bu dünya için, yarın ölecekmiş gibi ahiret için çalışın' buyurmuştur. Bu hadis, kader anlayışımızda nasıl bir 'Denge' kurmamızı ister?",
+      "answers": [
+        "Sadece ahiret için dua edip dünyayı terk etmemizi",
+        "Sadece para kazanıp zengin olmamızı",
+        "Dünya hayatındaki rızkımızı ararken (çalışırken), ahireti ve güzel ahlakı da asla unutmamamızı",
+        "Sürekli uyumamızı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kader İnancı",
+      "difficulty": 2,
+      "explanation": "İslam dini, ne sadece ahirete kapanıp dünyayı boş vermeyi, ne de dünyalık hırslar uğruna ahireti satmayı ister. Muazzam bir dünya-ahiret dengesi sunar."
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "LGS'ye hazırlanan bir öğrencinin, 8 ay boyunca düzenli test çözmesi, eksiklerini kapatması ve sınav sabahı 'Allah'ım emeğimi boşa çıkarma' diyerek sınava girmesi, aşağıdaki kavramlardan hangisinin en mükemmel örneğidir?",
+      "answers": [
+        "Hüsnüzan",
+        "Doğru Tevekkül",
+        "Külli İrade",
+        "Yanlış Kader Anlayışı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kader İnancı",
+      "difficulty": 1,
+      "explanation": "Öğrencinin elinden gelen tüm emeği (çalışmayı) gösterdikten sonra sonucun başarısı için Allah'a dayanması ve dua etmesi kusursuz bir tevekkül örneğidir."
+    }
+  ]
+}

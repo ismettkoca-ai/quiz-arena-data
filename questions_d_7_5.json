@@ -1,0 +1,426 @@
+{
+  "unit": "Yaşayan Dünya Dinleri",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "İlahi (Samavi) dinler kavramı ne anlama gelir?",
+      "answers": [
+        "İnsanlar tarafından sonradan uydurulan dinlerdir.",
+        "Kaynağı ilahi vahiy olan, Allah tarafından peygamberler aracılığıyla insanlığa gönderilen dinlerdir.",
+        "Sadece tek bir millete hitap eden yerel inanışlardır.",
+        "Sadece felsefi düşünce sistemleridir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "İlahi dinler, kaynağı doğrudan Allah olan ve peygamberler vasıtasıyla insanlara ulaştırılan hak dinlerdir."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Dünya üzerinde mensubu en fazla olan üç büyük ilahi (samavi) din hangi seçenekte sırasıyla verilmiştir?",
+      "answers": [
+        "Budizm - Hinduizm - İslamiyet",
+        "İslamiyet - Hristiyanlık - Yahudilik",
+        "Yahudilik - Budizm - Hristiyanlık",
+        "Konfüçyanizm - İslamiyet - Taoizm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Mensup sayısı bakımından dünyada sırasıyla Hristiyanlık, İslamiyet ve Yahudilik en bilinen ilahi dinlerdir."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "Yahudiliğin (Museviliğin) kutsal kitabına ve ibadethanesine verilen isimler hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "İncil - Kilise",
+        "Kuran - Cami",
+        "Tevrat - Sinagog (Havra)",
+        "Veda - Tapınak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Yahudiliğin ilahi kaynaklı kutsal kitabı Tevrat, ibadet ettikleri mabet ise Sinagog veya Havra olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "Hristiyanlık dininin kutsal kitabına ve ibadethanesine verilen isimler hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Tevrat - Sinagog",
+        "İncil - Kilise",
+        "Zebur - Manastır",
+        "Tripitaka - Pagoda"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Hristiyanlığın kutsal kitabı İncil, ibadethanesi ise Kilisedir."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "İlahi dinlerin tamamının (İslam, Hristiyanlık, Yahudilik) inanç esasları bakımından birleştikleri en temel ve ortak nokta nedir?",
+      "answers": [
+        "Aynı ibadet şekillerine sahip olmaları",
+        "Aynı kutsal dili konuşmaları",
+        "Tevhid inancı (Allah'ın birliği ve tekliği inancı)",
+        "Aynı coğrafyada doğmuş olmaları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Tüm ilahi dinlerin özü Tevhid'dir; yani Allah'ın bir olduğuna, başka ilah bulunmadığına inanmaktır (Ancak zamanla inançlarında tahrifatlar olmuştur)."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "Aşağıdakilerden hangisi Hindistan'da ortaya çıkan, genellikle çok tanrılı inançları, reenkarnasyonu (ruh göçünü) ve kast sistemini barındıran dinlerden biridir?",
+      "answers": [
+        "Yahudilik",
+        "Hinduizm",
+        "Hristiyanlık",
+        "İslamiyet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Hinduizm, dünyadaki en eski köklü dinlerden biridir ve özellikle Hindistan'da yaygındır; kast sistemi ve ruh göçü inancı öne çıkar."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "MÖ 6. yüzyılda Siddhartha Gautama tarafından Hindistan'da kurulan, arzuları ve bencilliği bitirerek huzura (Nirvana'ya) ulaşmayı amaçlayan din hangisidir?",
+      "answers": [
+        "Budizm",
+        "Musevilik",
+        "İslamiyet",
+        "Protestanlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Budizm, Buda unvanını alan Siddhartha Gautama'nın öğretilerine dayanır ve dünya genelinde geniş bir takipçi kitlesine sahiptir."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "İslam dininde diğer din mensuplarına ve inançsızlara karşı nasıl bir yaklaşım sergilenmesi öğütlenmiştir?",
+      "answers": [
+        "Onlara baskı yapılarak zorla Müslüman yapılmalıdır.",
+        "Onlarla her türlü ilişki kesilmelidir.",
+        "Can ve mal güvenliklerine saygı duyulmalı, adalet ve hoşgörü ile yaklaşılmalıdır ('Dinde zorlama yoktur').",
+        "Sürekli savaşılmalıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "İslam dini inanç özgürlüğünü savunur. 'Dinde zorlama yoktur' ilkesi gereği diğer din mensuplarına adil ve hoşgörülü davranılması emredilir."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "Hristiyanlık inancında Hz. İsa'nın doğumu ve göğe yükselişi gibi olayları kutlamak amacıyla yapılan, inancın temelini oluşturan üçlü ilah inancına (Tanrı-Oğul-Kutsal Ruh) ne ad verilir?",
+      "answers": [
+        "Tevhid",
+        "Teslis (Trinite)",
+        "Kast",
+        "Nirvana"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Hristiyanlıkta sonradan şekillenen inanca göre tanrı üç unsurdan (Baba, Oğul, Kutsal Ruh) oluşur; buna Teslis denir."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "Yahudilik inancına göre Hz. Musa'ya Sina Dağı'nda verilen ve Yahudiliğin temel ahlaki/hukuki yasalarını içeren emirlerin genel adı nedir?",
+      "answers": [
+        "On Emir",
+        "Sekiz Katlı Yol",
+        "Beş Şart",
+        "Dört Hakikat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Tevrat'ta da yer alan ve Yahudi inancının temelini oluşturan kurallar bütününe 'On Emir' denir."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "Aşağıdakilerden hangisi ilahi (samavi) dinlerin ortak özelliklerinden biri *değildir*?",
+      "answers": [
+        "Tek bir Yaratıcı'ya (Allah'a) iman etmeyi emretmeleri",
+        "İnsanlara ahlaklı ve dürüst bir yaşam biçimi sunmaları",
+        "Hepsinde peygamberler aracılığıyla ilahi kitap gönderilmesi",
+        "Hepsinde ibadet şekillerinin, kıblenin ve kuralların tamamen aynı olması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "İlahi dinlerin temel kaynağı bir olsa da zamanla peygamberler dönemindeki şeriatlar (ibadet şekilleri ve ayrıntılı kurallar) farklılık göstermiştir."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "Hinduizm inancında ruhun sürekli başka bedenlerde (insan, hayvan veya bitki olarak) yeniden doğması inancına ne ad verilir?",
+      "answers": [
+        "Vahdet-i Vücut",
+        "Reenkarnasyon (Tenasüh / Ruh Göçü)",
+        "Kıyamet",
+        "Nirvana"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Hinduizm ve bazı doğu dinlerinde ölümden sonra ruhun ölmediği, başka bir bedende yeniden dünyaya geldiği inancına reenkarnasyon denir."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "Dünya dinleri incelendiğinde bazı dinlerin kurucusu belliyken (Hz. Muhammed, Hz. İsa vb.), bazılarının ise belli bir kurucusu yoktur (gelenekselleşmiştir). Aşağıdaki dinlerden hangisinin kurucusu bilinmektedir?",
+      "answers": [
+        "Hinduizm",
+        "Budizm",
+        "Şintoizm",
+        "Taoizm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Budizm, Siddhartha Gautama (Buda) tarafından kurulmuştur. Hinduizm ise tek bir kurucusu olmayan, zamanla 
+      kökleşen bir gelenektir."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Kur'an-ı Kerim'de diğer din mensuplarına (özellikle Yahudi ve Hristiyanlara) hangi özel unvanla hitap edilmiştir?",
+      "answers": [
+        "Müşrikler",
+        "Ehl-i Kitap (Kitap Ehli)",
+        "Mecusiler",
+        "Paganlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Kur'an'da ilahi bir kitaba sahip olan Yahudi ve Hristiyanlar 'Ehl-i Kitap' (Kitap Ehli) olarak anılmış ve onlarla diyalogda nazik olunması istenmiştir."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "Dinlerin toplumsal barışa ve bir arada yaşama kültürüne katkı sağlayabilmesi için en çok hangi ilkeye ihtiyaç vardır?",
+      "answers": [
+        "Diğer dinlere karşı önyargılı ve dışlayıcı olmak",
+        "Karşılıklı diyalog, hoşgörü, adalet ve insan haklarına saygı göstermek",
+        "Herkesin aynı dine inanmasını zorlamak",
+        "Farklı inançları yok saymak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Farklı inançların huzur içinde bir arada yaşaması ancak hoşgörü, adalet, karşılıklı saygı ve diyalog kültürüyle mümkündür."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "Uzzak Doğu dinlerinden biri olan Taoizm'in kurucusu kabul edilen ve 'Yol' anlamına gelen evrenin dengesini savunan düşünür kimdir?",
+      "answers": [
+        "Konfüçyüs",
+        "Lao Zi (Lao Tse)",
+        "Buda",
+        "İbrahimi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Taoizm'in kurucusu ve felsefi önderi Lao Zi'dir; evrendeki dengeyi ve doğayla uyumlu yaşamayı (Tao) savunur."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "Konfüçyanizm inancının temelini oluşturan unsurlar nelerdir?",
+      "answers": [
+        "İlahi bir tanrı inancı ve kurtuluş teorisi",
+        "İlahi kitaptan ziyade ahlak kuralları, aileye saygı, devlet yönetimi ve geleneksel erdemler",
+        "Sadece tapınak ayinleri",
+        "Ruh göçü ve kast sistemi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Konfüçyüsçülük bir din olmaktan ziyade pratik bir ahlak, aileye saygı, dürüstlük ve sosyal düzen felsefesidir."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "İslam inancına göre Hz. Muhammed (s.a.v) son peygamberdir (Hatemü'l-Enbiya). Bu durum diğer ilahi dinlerle ilişkide ne anlama gelir?",
+      "answers": [
+        "Diğer dinlerin kitaplarının tamamen yok sayılması gerektiği",
+        "Hz. Muhammed'in tüm insanlığa gönderilen son elçi olduğu, önceki ilahi dinlerin mesajlarını tamamlayıp güncellediği",
+        "Önceki dinlerin hiçbir değerinin olmadığı",
+        "Sadece Arapların peygamberi olduğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "İslam, kendinden önceki ilahi dinlerin aslını onaylar ancak zamanla bozuldukları için Hz. Muhammed ile evrensel son mesajını göndermiştir."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Yahudilik inancında inananların ibadet etmek, dini eğitim almak ve topluca dua etmek için bir araya geldikleri dini görevli (din adamı) kimdir?",
+      "answers": [
+        "Haham",
+        "Papaz",
+        "Keşiş",
+        "Brahmin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Yahudilikte dini liderlere ve ibadetleri yöneten kişilere Haham denir."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Hristiyanlıkta kilisedeki dini törenleri yöneten, vaftiz ve nikah gibi kutsal ritüelleri yerine getiren din adamına ne ad verilir?",
+      "answers": [
+        "Haham",
+        "Papaz (Rahip)",
+        "Budist",
+        "Müftü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "Hristiyan din adamlarına genel olarak papaz veya rahip denir."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "Hinduizm inancında toplumun sınıflara ayrıldığı sisteme ne ad verilir ve bu sistem insan hakları açısından neden eleştirilir?",
+      "answers": [
+        "Kast Sistemi - İnsanlar arasında eşitsizliğe, ayrıma ve adaletsizliğe yol açtığı için",
+        "Medeni Kanun - Herkesi eşit yaptığı için",
+        "Demokrasi - Halkı seçtiği için",
+        "Sosyal Devlet - Herkese yardım ettiği için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Kast sistemi, insanların doğuştan farklı sınıflara ( Brahmanlar, Kşatriyalar vb.) ayrıldığı, alt sınıfların temel haklardan mahrum bırakıldığı katı bir sistemdir."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "Dünya dinleri dersinin veya dinler arası diyalog çalışmalarının okullarda işlenmesinin en temel amaçlarından biri aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bütün dinleri tek bir din haline getirmek",
+        "Farklı inançları tanıyarak önyargıları azaltmak, barış içinde birlikte yaşama bilincini geliştirmek",
+        "Öğrencilerin kafasını karıştırmak",
+        "Diğer dinlerin yanlışlarını bulup onlarla kavga etmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Dünyadaki inançları doğru tanımak, cehaletten kaynaklanan önyargıları önler ve toplumsal barışa katkı sağlar."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Hristiyanlıkta günahlardan arınmak ve kiliseye kabul edilmek için yapılan suyla yıkama ritüeline ne ad verilir?",
+      "answers": [
+        "Vaftiz",
+        "Hac",
+        "Sema",
+        "Kurban"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Vaftiz, Hristiyan bebeklerin veya yeni inananların suya batırılıp çıkarılmasıyla yapılan kutsal temizlenme ve dine giriş ayinidir."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "Yahudilikte kutsal kabul edilen, Hz. Süleyman Mabedi'nin (Kudüs'teki Mabet) günümüze ulaşabilen tek kalıntısı olduğu için hac merkezi sayılan duvarın adı nedir?",
+      "answers": [
+        "Ağlama Duvarı (Batı Duvarı)",
+        "Kabe Duvarı",
+        "Vatikan Duvarı",
+        "Sina Duvarı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Kudüs'teki eski tapınaktan kalan dış duvar, Yahudiler için en kutsal ibadet ve dua yeridir; Ağlama Duvarı olarak bilinir."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "İslam inancına göre Hz. İsa çarmıha gerilerek öldürülmüş müdür? Kur'an-ı Kerim bu konuda ne bildirir?",
+      "answers": [
+        "Evet, ölmüş ve gömülmüştür.",
+        "Hayır, Kur'an'da onun öldürülmediği, Allah katına yükseltildiği belirtilir.",
+        "Hiçbir bilgi yoktur.",
+        "Başka bir ülkeye kaçmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Nisa Suresi'nde İslam'ın Hz. İsa'nın öldürülmediğini, Yahudilerin onu öldüremediğini, Allah'ın onu kendi katına yükselttiğini bildirdiği yer alır."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Aşağıdaki dinlerden hangisinde putperestlik (birden fazla tanrı veya put heykellerine taptıklarını ifade eden yapı) tamamen reddedilip kesin bir soyut tek tanrıcılık (Tevhid) savunulur?",
+      "answers": [
+        "Hinduizm",
+        "İslamiyet",
+        "Antik Yunan Dinleri",
+        "Budizm (ilk dönemlerinde tanrı kavramı yoktur ama sonradan heykelleri tapınıma dönüşmüştür)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 1,
+      "explanation": "İslam, hiçbir suret ve şekle sokulamayacak kadar yüce, tek ve benzersiz bir Allah inancını (Tevhid) savunur; putperestliği kesinlikle reddeder."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "Hristiyanlıkta pazar günleri kilisede yapılan toplu ibadete ve ayine ne ad verilir?",
+      "answers": [
+        "Cuma Namazı",
+        "Ayin / Pazar Duası (Avaris)",
+        "Mevlit",
+        "Cem"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Hristiyanlar haftalık toplu ibadetlerini pazar günleri kilisede papaz eşliğinde yapılan ayinlerle gerçekleştirirler."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Tarih boyunca farklı din mensuplarının Endülüs'te (İspanya'da), Osmanlı İmparatorluğu'nda ve Kudüs gibi merkezlerde yüzyıllarca barış içinde bir arada yaşamasına ne ad verilir?",
+      "answers": [
+        "Medeniyetler çatışması",
+        "Birlikte Yaşama Kültürü (Hoşgörü Medeniyeti)",
+        "Sürgün politikası",
+        "Asimilasyon"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 2,
+      "explanation": "Osmanlı'nın millet sistemi ve Endülüs Emevileri, farklı dinlerin ibadet ve yaşam özgürlüğüyle bir arada barış içinde yaşadığı tarihi örneklerdir."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "Budizm'de her türlü dünya zevkinden, aşırılıktan uzak durmayı ve orta yolu bulmayı temsil eden öğretiye ne ad verilir?",
+      "answers": [
+        "Sekiz Dilimli Yol (Orta Yol)",
+        "Kast Sistemi",
+        "Cihad",
+        "Haçlı Seferi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "Budizm'de ıstıraptan kurtulmanın yolu olarak 'Sekiz Dilimli Yol' adı verilen ahlaki ve zihinsel denge kuralları öngörülür."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "Analiz Sorusu: Kur'an-ı Kerim'de 'Sizin dininiz size, benim dinim banadır' (Kafirun Suresi) buyrulmaktadır. Bu ayet ve İslam'ın genel felsefesi dikkate alındığında, inanç özgürlüğü ve diğer dinlerle ilişkiler hakkında hangi sonuca ulaşılır?",
+      "answers": [
+        "İslam, inanç konusunda kimseye zorlama yapılmamasını, herkesin kendi inancından sorumlu olduğunu ve toplumsal ilişkilerde adil olunmasını savunur.",
+        "Müslümanların diğer din insanlarıyla konuşması tamamen yasaktır.",
+        "İslam, diğer dinleri hak din olarak kabul eder.",
+        "Bütün dinlerin ritüelleri ortaklaşa yapılmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Dünya Dinleri",
+      "difficulty": 3,
+      "explanation": "İslam inancı kendi doğrusunu tebliğ eder ancak asla inançta baskı ve zorlama yapmaz; herkesin inancında özgür olduğunu ve hesap vereceğini vurgular."
+    }
+  ]
+}

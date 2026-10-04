@@ -1,0 +1,425 @@
+{
+  "unit": "Kuvveti Tanıyalım",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Duran bir cismi hareket ettiren, hareket eden bir cismi durduran, cismin hızını, yönünü veya şeklini değiştirebilen etkiye (itme ve çekmeye) ne ad verilir?",
+      "answers": [
+        "Enerji",
+        "Kuvvet",
+        "Kütle",
+        "Isı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Kuvvet, cisimler üzerinde itme veya çekme şeklinde uygulanan; hareketi, yönü veya şekli değiştirebilen gözle görülmez ama etkisi hissedilen bir etkidir."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "Kuvvetin büyüklüğünü (değerini) ölçmek için kullandığımız yaylı araca ne ad verilir?",
+      "answers": [
+        "Termometre",
+        "Dinamometre",
+        "Voltmetre",
+        "Mikroskop"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Dinamometre, içindeki yayın esneklik özelliğinden faydalanarak cisimlerin uyguladığı kuvvetin büyüklüğünü ölçen alettir."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "Dinamometrelerde kuvvetin büyüklüğünü belirlemek için kullanılan ve kuvvetin şiddetine göre uzayıp kısalan esnek parça aşağıdakilerden hangisidir?",
+      "answers": [
+        "Cam boru",
+        "Cıva",
+        "Yay",
+        "Mıknatıs"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Dinamometreler yayların esneklik (uzama) özelliğinden yararlanılarak yapılır. Kuvvet arttıkça yayın uzama miktarı da artar."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "Kuvvetin uluslararası ölçü sistemindeki birimi, yer çekimi kanununu bulan meşhur bilim insanının soyadıdır. Kuvvetin birimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kilogram (kg)",
+        "Newton (N)",
+        "Litre (L)",
+        "Derece (°C)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Kuvvetin büyüklüğü dinamometre ile ölçülür ve ölçüm sonucu 'Newton' birimiyle ifade edilir. Kısaca 'N' harfi ile gösterilir."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Dinamometrenin ucuna takılan cismin ağırlığı (kuvveti) arttıkça, içindeki yayın uzama miktarı nasıl değişir?",
+      "answers": [
+        "Azalır",
+        "Değişmez",
+        "Artar",
+        "Önce artar sonra azalır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Yayların uzama miktarı, uygulanan kuvvetle doğru orantılıdır. Cismin uyguladığı kuvvet (ağırlık) arttıkça yay daha çok uzar."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "Dinamometrelerin ölçebileceği maksimum bir kuvvet sınırı vardır. Bir dinamometreye ölçebileceğinden çok daha fazla bir kuvvet (ağırlık) asarsak ne olur?",
+      "answers": [
+        "Yay kopar veya esneklik özelliğini kaybederek bozulur.",
+        "Dinamometre daha hassas ölçüm yapmaya başlar.",
+        "Yay kısalır.",
+        "Cisim havada asılı kalır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Her esnek maddenin bir sınırı vardır. Esneklik sınırı aşıldığında yay bozulur ve dinamometre bir daha doğru ölçüm yapamaz."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "Çok küçük ve hafif kuvvetleri hassas bir şekilde ölçmek istiyorsak, kullanacağımız dinamometrenin içindeki yayın özelliği nasıl olmalıdır?",
+      "answers": [
+        "Çok kalın bir yay olmalıdır.",
+        "İnce (hassas) ve kolay uzayan bir yay olmalıdır.",
+        "Hiç uzamayan sert bir yay olmalıdır.",
+        "Yayın plastikten yapılmış olması gerekir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Hafif kuvvetleri ölçmek için ince yaylar kullanılır çünkü ince yaylar çok küçük kuvvetlerde bile hemen uzayarak hassas ölçüm yapmayı sağlar."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "Ağır bir vinç veya kamyonu çeken kuvveti ölçmek için dinamometre yapacak olsaydınız, içindeki yayı nasıl seçerdiniz?",
+      "answers": [
+        "Çok ince ve hassas",
+        "Kalın ve sert",
+        "Kolayca kopabilen",
+        "Sıvı dolu bir boru"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Büyük ve ağır kuvvetleri ölçmek için kalın ve sert yaylar kullanılır. İnce yay kullanılırsa yay kopar ve dinamometre bozulur."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "Hareket eden cisimlerin hareketini zorlaştıran, onları yavaşlatan veya durduran; genellikle hareket yönüne 'zıt' yönde oluşan etkiye ne ad verilir?",
+      "answers": [
+        "Sürtünme Kuvveti",
+        "Manyetik Kuvvet",
+        "Elektriksel Kuvvet",
+        "Kaldırma Kuvveti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Sürtünme kuvveti, temas halindeki iki yüzey arasında oluşan ve hareketi engelleyen (yavaşlatan) bir kuvvettir."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "Aşağıdaki zeminlerin hangisinde itilen bir oyuncak araba, sürtünme kuvveti çok az olduğu için en uzağa gider?",
+      "answers": [
+        "Kalın bir halı üzerinde",
+        "Toprak yolda",
+        "Zımpara kağıdı üzerinde",
+        "Pürüzsüz buz veya mermer üzerinde"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Buz, cam veya mermer gibi kaygan (pürüzsüz) yüzeylerde sürtünme kuvveti çok azdır. Bu yüzden cisimler bu yüzeylerde daha uzun süre kayar."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "Ağır bir koliyi taşırken zorlanan Ali, kolinin altına tekerlekli bir tahta koyduğunda koliyi çok rahat itebilmiştir. Tekerlek kullanmak neyi sağlamıştır?",
+      "answers": [
+        "Kolinin ağırlığını (kütlesini) azaltmıştır.",
+        "Yer çekimini yok etmiştir.",
+        "Yüzey ile koli arasındaki sürtünme kuvvetini azaltarak hareketi kolaylaştırmıştır.",
+        "Sürtünme kuvvetini artırmıştır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Tekerlekler, yüzeyle olan teması azaltır ve cismin kaymak yerine dönerek ilerlemesini sağlar. Bu durum sürtünmeyi büyük ölçüde azaltır."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Kışın arabaların kaymasını önlemek için lastiklere zincir takılması veya yollara kum dökülmesi hangi amacı taşır?",
+      "answers": [
+        "Arabayı hızlandırmayı",
+        "Sürtünme kuvvetini artırarak aracın yola tutunmasını sağlamayı",
+        "Sürtünmeyi tamamen yok etmeyi",
+        "Yer çekimini azaltmayı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Kışın buzlu yollarda sürtünme çok azdır (arabalar kayar). Zincir veya kum, yüzeyi pürüzlü hale getirerek sürtünmeyi artırır ve kaymayı önler."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "Aşağıdaki örneklerin hangisinde kuvvet, cismin 'şeklini değiştirme' etkisine örnek olarak gösterilebilir?",
+      "answers": [
+        "Futbol topuna vurulması",
+        "Oyun hamurunun yoğrulması",
+        "Frene basılan bisikletin durması",
+        "Daldan düşen elma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Oyun hamurunun, süngerin veya bir yayın sıkılması kuvvetin hareket ettirme değil, maddenin 'şeklini değiştirme' etkisine örnektir."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "Sürtünme kuvveti hayatımızda her zaman zararlı bir şey değildir. Bazen sürtünmenin olması hayat kurtarır. Aşağıdakilerden hangisi sürtünme kuvvetinin 'faydalı' olduğu durumlara bir örnektir?",
+      "answers": [
+        "Kapı menteşelerinin gıcırdaması",
+        "Hareket eden motor parçalarının ısınıp aşınması",
+        "Frene basınca arabanın durabilmesi",
+        "Ayakkabı tabanının erimesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Eğer sürtünme kuvveti olmasaydı ne yürüyebilirdik, ne kalemle yazı yazabilirdik ne de frene basınca durabilirdik. Bunlar sürtünmenin faydalarıdır."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "Havada hareket eden cisimlere, havanın temas etmesiyle oluşan ve hareketi zorlaştıran dirence (sürtünme kuvvetine) ne ad verilir?",
+      "answers": [
+        "Su direnci",
+        "Hava direnci",
+        "Yer çekimi",
+        "Manyetik direnç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Hava da bir maddedir ve içinde hareket eden cisimlere sürtünerek bir engel oluşturur. Buna hava direnci veya hava sürtünmesi denir."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "Paraşütçülerin uçaktan atladıktan sonra güvenli bir şekilde yavaşça yere inmesini sağlayan temel kuvvet aşağıdakilerden hangisidir?",
+      "answers": [
+        "Su direnci",
+        "Hava direnci (Hava sürtünmesi)",
+        "Rüzgarın itme kuvveti",
+        "Manyetik alan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Paraşütlerin geniş yüzeyi havayla çok fazla temas eder. Bu durum hava direncini (sürtünmeyi) en üst düzeye çıkarır ve düşüşü yavaşlatır."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Uçakların, yarış arabalarının ve hızlı trenlerin uç kısımlarının 'sivri' (V harfi gibi) tasarlanmasının temel nedeni nedir?",
+      "answers": [
+        "Daha güzel görünmelerini sağlamak",
+        "Hava direncini (sürtünmeyi) en aza indirerek daha hızlı gitmelerini sağlamak",
+        "Daha çok yolcu taşımak",
+        "Hava sürtünmesini artırmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Uçları sivri (aerodinamik) yapılan cisimler havayı kolayca yarar. Bu sayede hava direnci azalır ve araçlar daha hızlı, daha az yakıtla gider."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Suda hareket eden cisimlere (gemi, denizaltı, balık) su tarafından uygulanan ve hareketi zorlaştıran sürtünme kuvvetine ne ad verilir?",
+      "answers": [
+        "Hava direnci",
+        "Su direnci",
+        "Kaldırma kuvveti",
+        "İtme kuvveti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Suyun temas ettiği cisimlere uyguladığı, onların ilerlemesini zorlaştıran sürtünme kuvvetine su direnci denir."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "Gemilerin uç kısımlarının 'V' şeklinde (sivri) yapılması ve balıkların vücut şekillerinin ince-uzun olması hangi amacı taşır?",
+      "answers": [
+        "Su direncini artırmak",
+        "Suyun yüzeyinde yüzebilmek",
+        "Su direncini (sürtünmeyi) azaltarak suda daha hızlı hareket edebilmek",
+        "Kötü görünmekten kaçınmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Sivri yapı, suyun yarılmasını kolaylaştırır. Böylece suyun uyguladığı direnç (sürtünme) azalır ve canlılar/araçlar suda rahatça hızlanabilir."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Bir kapı menteşesi veya bisiklet zinciri zamanla paslanıp gıcırdamaya ve zor dönmeye başlar. Bu parçaların üzerine makine yağı damlatılmasının amacı nedir?",
+      "answers": [
+        "Sürtünme kuvvetini artırmak",
+        "Yüzeyleri daha çok pürüzlendirmek",
+        "Sürtünme kuvvetini azaltarak parçaların kolay ve aşınmadan çalışmasını sağlamak",
+        "Ağırlığı artırmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Yağlama işlemi yüzeydeki girinti ve çıkıntıları (pürüzleri) doldurarak kaygan bir zemin oluşturur. Bu da sürtünmeyi ve parçaların aşınmasını azaltır."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "Kaleci, kendisine doğru hızla gelen futbol topunu iki eliyle tutup yakalıyor. Kalecinin topa uyguladığı kuvvet, kuvvetin hangi etkisine örnektir?",
+      "answers": [
+        "Durdurma etkisi",
+        "Hızlandırma etkisi",
+        "Şekil değiştirme etkisi",
+        "Yön değiştirme etkisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 1,
+      "explanation": "Hareket eden bir cisme, hareketine ters yönde yeterli kuvvet uygulandığında cismin hızı sıfırlanır, yani 'durdurma' etkisi görülür."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Uzaydan Dünya'mıza düşen meteorların (gök taşlarının) büyük bir kısmı yeryüzüne ulaşamadan atmosferde yanarak parçalanır. Buna neden olan kuvvet aşağıdakilerden hangisidir?",
+      "answers": [
+        "Su direnci",
+        "Hava direnci (Sürtünme sonucu açığa çıkan yüksek ısı)",
+        "Mıknatıs kuvveti",
+        "İtme kuvveti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 3,
+      "explanation": "Çok hızlı hareket eden meteorlar atmosfere girdiğinde hava direnciyle (sürtünmeyle) karşılaşır. Sürtünme büyük bir ısı yaratır ve meteor yanarak kül olur."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "Aşağıdaki araçlardan hangisi tasarlanırken hava veya su direncini 'azaltmak' değil, aksine en yüksek seviyeye çıkarmak (artırmak) amaçlanmıştır?",
+      "answers": [
+        "Yarış arabası",
+        "Hızlı tren",
+        "Sürat teknesi",
+        "Paraşüt"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Yarış arabası ve trenler sürtünmeyi azaltıp hızlanmak için yapılır. Ancak paraşüt çok geniş tasarlanır ki, sürtünme 'artsın' ve insan yavaşça düşsün."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "Bir futbolcu kendisine doğru gelen topa kafasıyla vurarak topu kaleye doğru gönderiyor. Bu olayda kuvvetin hangi etkisi en belirgin şekilde görülür?",
+      "answers": [
+        "Durdurma",
+        "Yön değiştirme",
+        "Yavaşlatma",
+        "Kütle artırma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Gelen bir cismin gidiş açısına farklı bir yönden kuvvet uygulandığında cisim yönünü değiştirir. Kafayla vurulan topun hedefe gitmesi 'Yön değiştirme' etkisidir."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Aşağıdaki eylemlerden hangisi sürtünme kuvveti sayesinde 'gerçekleşebilen' faydalı bir olaydır?",
+      "answers": [
+        "Koşarken ayaklarımızın yere tutunarak kaymaması",
+        "Makine parçalarının sürtünmeden dolayı aşınıp bozulması",
+        "Giysilerimizin zamanla eskiyip yırtılması",
+        "Meteorların yanıp yok olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Sürtünme olmasaydı ayağımız yeri kavrayamaz ve sürekli kayar düşerdik. Yürüyebilmemiz sürtünmenin en büyük faydasıdır."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Halter kaldıran bir sporcunun, ağırlığı kaldırmadan önce ellerine beyaz bir toz (pudra/magnezyum) sürmesinin asıl amacı nedir?",
+      "answers": [
+        "Ellerini temizlemek",
+        "Ellerindeki sürtünmeyi artırarak demirin elinden kaymasını engellemek",
+        "Sürtünmeyi azaltıp demiri hızlı kaldırmak",
+        "Ağırlığı hafifletmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 3,
+      "explanation": "Eller terlediğinde kayganlaşır (sürtünme azalır). Halterciler ellerine o tozu sürerek yüzeyi pürüzlü hale getirir ve sürtünmeyi artırıp güçlü bir tutuş sağlarlar."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "Aynı araba ile asfalt yolda 100 km/h hızla giderken frene basıldığında araba 30 metrede duruyor. Aynı araba aynı hızla toprak yolda frene basıldığında ise 15 metrede duruyor. Bunun sebebi nedir?",
+      "answers": [
+        "Toprak yolun daha ağır olması",
+        "Asfalt yolda yer çekiminin fazla olması",
+        "Toprak yolun daha pürüzlü olması sebebiyle sürtünme kuvvetinin daha fazla olması",
+        "Arabanın toprak yolda hafiflemesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 3,
+      "explanation": "Toprak ve taşlı yollar asfalttan çok daha pürüzlüdür. Pürüz arttıkça sürtünme kuvveti artar ve araçlar daha çabuk durur."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "10 eşit bölmeli ve en fazla 100 Newton (N) ölçebilen bir dinamometrenin her bir bölmesi kaç Newtonluk kuvveti ölçmektedir?",
+      "answers": [
+        "5 N",
+        "10 N",
+        "20 N",
+        "100 N"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 3,
+      "explanation": "Toplam kapasiteyi bölme sayısına böleriz. 100 / 10 = 10 Newton. Bu dinamometrede yayın uzadığı her çizgi 10 Newton ağırlığa eşittir."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Kuvvetin cisimler üzerindeki kalıcı 'şekil değiştirme' etkisine günlük hayattan en uygun örnek aşağıdakilerden hangisidir?",
+      "answers": [
+        "Paket lastiğinin çekilip bırakıldığında eski haline dönmesi",
+        "Boş bir alüminyum kutunun üzerine basılarak ezilmesi",
+        "Buzun eriyerek suya dönüşmesi",
+        "Topun duvara çarpıp geri dönmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 2,
+      "explanation": "Esnek olmayan maddelere kuvvet uygulandığında şekilleri değişir ve kuvvet kalktığında eski hallerine dönemezler (Alüminyum kutunun ezilmesi gibi)."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "Yüksek bir atlama kulesinden suya atlayan bir yüzücü, suya girerken ellerini birleştirip kafasının önünde sivri bir şekil oluşturur. Yüzücünün bu hareketi yapmasının nedeni nedir?",
+      "answers": [
+        "Su direncini artırıp yavaşlamak",
+        "Daha güzel bir fotoğraf vermek",
+        "Vücudunu sivriltip su direncini (sürtünmeyi) en aza indirerek suya acı çekmeden ve hızlı girmek",
+        "Suyun kaldırma kuvvetini yok etmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvveti Tanıyalım",
+      "difficulty": 3,
+      "explanation": "Yüzey alanı ne kadar sivri (dar) olursa sürtünme o kadar az olur. Yüzücüler suya atlarken elleriyle suyu yarar, böylece su direncinden korunurlar."
+    }
+  ]
+}

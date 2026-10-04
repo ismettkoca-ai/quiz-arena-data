@@ -1,0 +1,425 @@
+{
+  "unit": "Life in the Neighbourhood & City",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "İlaç almak ve reçete yazdırmak için gittiğimiz yerin İngilizce karşılığı nedir?",
+      "answers": [
+        "Pharmacy (Chemist's)",
+        "Bakery",
+        "Bookstore",
+        "Supermarket"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Eczane 'pharmacy' veya 'chemist's' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "Taze ekmek, simit ve kurabiye almak için hangi dükkana gideriz?",
+      "answers": [
+        "Bakery",
+        "Post office",
+        "Police station",
+        "Toy shop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Fırın 'bakery' demektir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Mektup göndermek, kargo almak veya pul satın almak için gittiğimiz kurum hangisidir?",
+      "answers": [
+        "Post office",
+        "Fire station",
+        "Hospital",
+        "Museum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Postane 'post office' kelimesidir."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "'Go straight ahead.' yön tarifinin Türkçe anlamı nedir?",
+      "answers": [
+        "Düz devam et / Dosdoğru ilerle",
+        "Sola dön",
+        "Sağa dön",
+        "Dur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Go straight ahead' düz gitmek demektir."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "Yol tarif ederken 'Turn left.' diyen bir kişi ne yapmamızı istemektedir?",
+      "answers": [
+        "Sola dönmemizi",
+        "Sağa dönmemizi",
+        "Düz gitmemizi",
+        "Karşıya geçmemizi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Turn left' sola dönmek demektir."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "'Turn right.' ifadesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Sağa dön",
+        "Sola dön",
+        "Düz git",
+        "Geri dön"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Turn right' sağa dönmek demektir."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "Hastalanan insanları tedavi etmek için gittikleri sağlık kurumu İngilizce'de ne olarak adlandırılır?",
+      "answers": [
+        "Hospital",
+        "Cinema",
+        "Bakery",
+        "Library"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Hastane 'hospital' kelimesidir."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "'Where is the bank?' sorusuna verilecek yanıtta 'The bank is ......... the pharmacy and the bookshop.' boşluğa hangisi gelmelidir?",
+      "answers": [
+        "between",
+        "on",
+        "in",
+        "under"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "İki şeyin arasında olduğunu belirtmek için 'between' kullanılır."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Suçluları yakalayan ve güvenliği sağlayan polislerin görev yaptığı yerin adı nedir?",
+      "answers": [
+        "Police station",
+        "Fire station",
+        "Museum",
+        "Canteen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Karakol 'police station'dır."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Yangın söndürmekle görevli itfaiyecilerin merkezine İngilizce'de ne denir?",
+      "answers": [
+        "Fire station",
+        "Police station",
+        "Post office",
+        "Bookstore"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "İtfaiye istasyonu 'fire station'dır."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "Bir binanın 'karşısında' olduğunu söylemek için hangi edat kullanılır?",
+      "answers": [
+        "Opposite",
+        "Next to",
+        "Behind",
+        "In"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "'Opposite' karşısında demektir."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "'The toy shop is next to the baker's.' cümlesinde oyuncak dükkanı fırına göre nerededir?",
+      "answers": [
+        "Bitişiğinde / Yanında",
+        "Karşısında",
+        "Arkasında",
+        "İçinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Next to' bitişiğinde / yanında demektir."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "Film izlemek için gittiğimiz eğlence mekanının İngilizce karşılığı nedir?",
+      "answers": [
+        "Cinema (Movie theater)",
+        "Museum",
+        "Hospital",
+        "Supermarket"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Sinema 'cinema'dır."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "Tarihi eserleri, heykelleri ve eski nesneleri incelemek için ziyaret ettiğimiz yer neresidir?",
+      "answers": [
+        "Museum",
+        "Bakery",
+        "Supermarket",
+        "Toy shop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Müze 'museum' kelimesidir."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "Yabancı bir şehirde yönümüzü bulmak veya adres sormak için hangi soru kalıbı kullanılır?",
+      "answers": [
+        "Excuse me, where is the...?",
+        "How old are you?",
+        "What is your favorite lesson?",
+        "Do you like playing football?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Adres sormak için 'Excuse me, where is...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Çocukların kaydırakta kaydığı, salıncakta sallandığı mahalle parkının İngilizce adı nedir?",
+      "answers": [
+        "Playground / Park",
+        "Hospital",
+        "Supermarket",
+        "Police station"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Oyun parkı 'playground' veya kısaca 'park'tır."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "Para çekmek, yatırmak ve banka hesap işlemlerini yapmak için nereye gideriz?",
+      "answers": [
+        "Bank",
+        "Bakery",
+        "Toy shop",
+        "Cinema"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Banka 'bank' kelimesidir."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "'It is on your left.' yön tarifinde nereyi göstermektedir?",
+      "answers": [
+        "Sol tarafınızdadır.",
+        "Sağ tarafınızdadır.",
+        "Tam karşınızdadır.",
+        "Arkanızdadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'On your left' sol tarafınızda demektir."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+      "answers": [
+        "Butcher - Kasap",
+        "Greengrocer - Manav",
+        "Baker - Fırıncı",
+        "Firefighter - Polis memuru"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "'Firefighter' itfaiyeci demektir, polis memuru 'police officer'dır."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Sebze ve meyve satın almak için gittiğimiz dükkanın İngilizce karşılığı hangisidir?",
+      "answers": [
+        "Greengrocer",
+        "Bookstore",
+        "Bakery",
+        "Toy shop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Manav dükkanı 'greengrocer'dır."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "'Excuse me' ifadesi birine adres sormadan önce neden kullanılır?",
+      "answers": [
+        "Kibarca dikkat çekmek ve özür dileyerek lafa başlamak için",
+        "Kızmak için",
+        "Teşekkür etmek için",
+        "Vedalaşmak için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'Excuse me' affedersiniz / pardon anlamında kibar bir başlangıçtır."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "Şehir merkezinde ana caddelerin kesiştiği dönel kavşak veya köşe noktası için hangi kelime kullanılır?",
+      "answers": [
+        "Corner / Junction",
+        "Roof",
+        "Window",
+        "Door"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 3,
+      "explanation": "Köşe 'corner', kavşak ise 'junction' veya 'crossroads'tur."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "Aşağıdaki yerlerden hangisi haftalık gıda ve ev ihtiyaçlarını büyük ölçüde karşıladığımız markettir?",
+      "answers": [
+        "Supermarket",
+        "Toy shop",
+        "Museum",
+        "Cinema"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Süpermarket alışveriş yapılan büyük markettir."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "'Take the second turning on the right.' yön tarifinin anlamı nedir?",
+      "answers": [
+        "Sağdaki ikinci dönemeçten dön.",
+        "Sola git.",
+        "Düz devam et.",
+        "İlk soldan dön."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 3,
+      "explanation": "'Second turning on the right' sağdaki ikinci sokaktan / dönemeçten dönmek demektir."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "Kitap ve dergi satın almak için gittiğimiz dükkanın adı nedir?",
+      "answers": [
+        "Bookstore / Bookshop",
+        "Bakery",
+        "Toy shop",
+        "Butcher"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Kitabevi 'bookstore' veya 'bookshop'tur."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "Haritada polikinliğin yerini arayan turiste bir vatandaş şöyle demektedir: 'Go straight ahead, take the first turning on the left. It is next to the pharmacy, opposite the bank.' Buna göre hastane nerede yer almaktadır?",
+      "answers": [
+        "Sol taraftaki ilk sokaktan dönüldüğünde eczanenin bitişiğinde, bankanın karşısında",
+        "Sağ tarafta uzak bir köyde",
+        "Okulun içinde",
+        "Parkın ortasında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 3,
+      "explanation": "Yön tarifindeki detaylar (next to pharmacy, opposite bank, first turning left) doğru seçenekte özetlenmiştir."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Et ürünlerini satın aldığımız kasap dükkanının İngilizce karşılığı hangisidir?",
+      "answers": [
+        "Butcher's",
+        "Baker's",
+        "Greengrocer's",
+        "Pharmcy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 2,
+      "explanation": "Kasap dükkanı 'butcher's' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Çocukların oyuncak satın almak için gittiği dükkan hangisidir?",
+      "answers": [
+        "Toy shop",
+        "Bookstore",
+        "Bakery",
+        "Post office"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Oyuncak dükkanı 'toy shop'tur."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "'It is on your right.' ifadesi yön tarifinde neyi gösterir?",
+      "answers": [
+        "Sağ tarafınızdadır.",
+        "Sol tarafınızdadır.",
+        "Çok uzaktadır.",
+        "Yerin altındadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "'On your right' sağ tarafınızda demektir."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "Şehir içinde toplu taşıma araçlarına (otobüs, metro) binmek için gittiğimiz yerin İngilizce karşılığı nedir?",
+      "answers": [
+        "Bus station / Bus stop",
+        "Hospital",
+        "Museum",
+        "Bakery"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Neighbourhood & City",
+      "difficulty": 1,
+      "explanation": "Otobüs durağı veya istasyonu 'bus stop / bus station'dır."
+    }
+  ]
+}

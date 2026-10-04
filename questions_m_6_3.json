@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 2",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "3/4 ile 5/6 kesirlerinin çarpımı aşağıdakilerden hangisidir?",
+      "answers": [
+        "5/8",
+        "8/10",
+        "15/24",
+        "15/10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Kesirlerde çarpma işlemi yapılırken paylar kendi aralarında, paydalar kendi aralarında çarpılır: (3 · 5) / (4 · 6) = 15/24."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "4 tam sayısının 2/3'ü kaçtır?",
+      "answers": [
+        "8/3",
+        "6/4",
+        "2/12",
+        "8/12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Bir tam sayı ile kesir çarpılırken tam sayının paydasına 1 yazılarak çarpılır: (4/1) · (2/3) = 8/3."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Bir kesrin başka bir kesre bölümü yapılırken aşağıdaki kurallardan hangisi uygulanır?",
+      "answers": [
+        "Paylar bölünür, paydalar çarpılır.",
+        "Birinci kesir ters çevrilir, ikinci kesirle toplanır.",
+        "Birinci kesir aynen yazılır, ikinci kesir ters çevrilip çarpılır.",
+        "İki kesir de ters çevrilip çarpılır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Bölme işleminde kural: Birinci kesri aynen yaz, ikinci kesri ters çevir ve çarp."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "1/2 / 1/4 işleminin sonucu kaçtır?",
+      "answers": [
+        "1/8",
+        "1/2",
+        "2",
+        "4"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "İkinci kesri ters çevirip çarpıyoruz: 1/2 · 4/1 = 4/2 = 2."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "3 tam 1/2 kesri bileşik kesre çevrildiğinde payı kaç olur?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Tam sayılı kesir bileşik kesre çevrilirken payda ile tam kısım çarpılıp paya eklenir: (2 · 3) + 1 = 7. Kesir 7/2 olur."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "15 litre zeytinyağı, her biri 3/4 litre yağ alan şişelere doldurulacaktır. Bu işlem için kaç adet şişeye ihtiyaç vardır?",
+      "answers": [
+        "12",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Bölme işlemi yapılır: 15 / (3/4). İkinci kesri ters çevirip çarpalım: 15 · (4/3) = 60 / 3 = 20 şişe."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "2,4 ondalık gösteriminin kesir olarak en sade hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "12/5",
+        "24/10",
+        "2/4",
+        "5/12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "2,4 = 24/10'dur. Her iki sayı 2 ile sadeleştiğinde 12/5 elde edilir."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "5/8 kesrinin ondalık gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "0,58",
+        "0,625",
+        "0,85",
+        "5,8"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paydayı 1000 yapmak için kesri 125 ile genişletiriz: (5 · 125) / (8 · 125) = 625 / 1000 = 0,625."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "4,15 · 10 işleminin sonucu kaçtır?",
+      "answers": [
+        "0,415",
+        "41,5",
+        "415",
+        "4150"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Ondalık sayılar 10 ile çarpıldığında virgül 1 basamak sağa kayar: 41,5."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "124,5 / 100 işleminin sonucu kaçtır?",
+      "answers": [
+        "1,245",
+        "12,45",
+        "1245",
+        "12450"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Ondalık sayılar 100'e bölünürken virgül 2 basamak sola kayar: 1,245."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "0,8 · 0,6 işleminin sonucu kaçtır?",
+      "answers": [
+        "0,048",
+        "0,48",
+        "4,8",
+        "48"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Virgül yokmuş gibi çarpılır: 8 · 6 = 48. Çarpanlarda toplam 2 basamak virgülden sonra olduğu için sonuçtan sağdan sola 2 basamak kayılır: 0,48."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "3,6 / 0,4 işleminin sonucu kaçtır?",
+      "answers": [
+        "0,9",
+        "9",
+        "90",
+        "900"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Bölen sayıyı virgülden kurtarmak için her iki tarafı 10 ile çarparız: 36 / 4 = 9."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "45,827 ondalık gösterimi onda birler basamağına yuvarlandığında hangi sayı elde edilir?",
+      "answers": [
+        "45,8",
+        "45,9",
+        "45,82",
+        "45,83"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Onda birler basamağındaki rakam 8'dir. Sağındaki rakam 2 olduğu için (5'ten küçük) basamak değeri aynı kalır ve sağdakiler atılır: 45,8."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "Aşağıdaki ondalık gösterimlerden hangisi en büyüktür?",
+      "answers": [
+        "2,5",
+        "2,49",
+        "2,501",
+        "2,499"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Basamakları eşitlemek için sıfır koyarız: 2,500 - 2,490 - 2,501 - 2,499. Ondalık kısımları karşılaştırdığımızda 501 en büyüktür."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "Kilosu 15,50 TL olan elmadan 2,5 kg alan bir kişi kasaya kaç TL öder?",
+      "answers": [
+        "38,25",
+        "38,50",
+        "38,75",
+        "39,25"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Çarpma işlemi yapılır: 15,5 · 2,5. Virgül yokmuş gibi: 155 · 25 = 3875. Toplam 2 basamak virgül kaydırılır: 38,75 TL."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "Bir araç 180 kilometrelik yolun 4/9'unu gitmiştir. Aracın kalan yolu kaç kilometredir?",
+      "answers": [
+        "80",
+        "100",
+        "120",
+        "140"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Gidilen yol: 180 · 4/9 = (180/9) · 4 = 20 · 4 = 80 km. Kalan yol = 180 - 80 = 100 km."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Ahmet'in parasının 2/5'i 40 TL'dir. Buna göre Ahmet'in parasının tamamı kaç TL'dir?",
+      "answers": [
+        "80",
+        "100",
+        "120",
+        "200"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Kesir kadarı bilinen bütün bulunurken, sayı paya bölünür ve payda ile çarpılır: 40 / 2 = 20. 20 · 5 = 100 TL."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "2/3 kesrinin 1/4'ü kaçtır?",
+      "answers": [
+        "1/6",
+        "3/7",
+        "2/12",
+        "8/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Bir kesrin kesri bulunurken çarpma işlemi yapılır: (2/3) · (1/4) = 2/12. Sadeleştirirsek 1/6 olur."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "0,75 ondalık gösteriminin yüzde (%) olarak ifadesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "%7",
+        "%75",
+        "%7,5",
+        "%0,75"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "0,75 kesir olarak 75/100'e eşittir. Bu da doğrudan %75 anlamına gelir."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "300 sayısının %40'ı kaçtır?",
+      "answers": [
+        "40",
+        "120",
+        "150",
+        "160"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yüzde hesaplaması yaparken sayı 100'e bölünür ve oranla çarpılır. (300 / 100) · 40 = 3 · 40 = 120."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "0,4 / 0,08 işleminin sonucu kaçtır?",
+      "answers": [
+        "0,5",
+        "5",
+        "50",
+        "500"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Böleni virgülden kurtarmak için 100 ile çarparız. Payı da 100 ile çarpmalıyız. (0,4 · 100) / (0,08 · 100) = 40 / 8 = 5."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "(3/4 + 1/2) · 1/5 işleminin sonucu kaçtır?",
+      "answers": [
+        "1/4",
+        "1/5",
+        "5/4",
+        "1/2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Önce parantez içi: 1/2'yi 2/4 olarak genişletelim. 3/4 + 2/4 = 5/4. Sonra çarpma: (5/4) · (1/5) = 5/20. Sadeleştiğinde 1/4 olur."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "1 tam 2/3 / 2 tam 1/2 işleminin sonucu kaçtır?",
+      "answers": [
+        "2/3",
+        "3/2",
+        "4/5",
+        "5/4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Önce bileşik kesre çevirelim: 5/3 / 5/2. Bölme işleminde ikinci kesir ters çevrilir: 5/3 · 2/5. 5'ler sadeleşir, sonuç 2/3 kalır."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "34,954 sayısının birler basamağına yuvarlanmış hali kaçtır?",
+      "answers": [
+        "34",
+        "34,9",
+        "35",
+        "35,0"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Birler basamağında 4 vardır. Sağındaki onda birler basamağı 9 olduğu için (5 veya 5'ten büyük), birler basamağı 1 artırılır: 35."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "Bir ipin 1/3'ü, sonra kalan ipin 1/2'si kesiliyor. Geriye tüm ipin kaçta kaçı kalır?",
+      "answers": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Önce 1/3'ü kesilirse geriye 2/3'ü kalır. Kalanın (2/3'ün) 1/2'si: (2/3) · (1/2) = 1/3 eder. Bu da kesilir. 2/3'ten 1/3 çıkarsa geriye 1/3 kalır."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "LGS tarzı beceri temelli soru: Bir kırtasiyede etiket fiyatı 120 TL olan bir çanta %20 indirimle satılmaktadır. Müşteri kasada bu indirimli fiyata ek olarak 1/4 oranında ekstra öğrenci indirimi alırsa çanta kaç TL'ye gelir?",
+      "answers": [
+        "72",
+        "76",
+        "80",
+        "96"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "120 TL'nin %20'si 24 TL indirim demektir. Çanta 120 - 24 = 96 TL'ye düşer. Öğrenci indirimi (1/4): 96 / 4 = 24 TL ekstra indirim. Son fiyat = 96 - 24 = 72 TL."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "48 litre suyun tamamı, her biri 0,4 litre su alan bardaklara doldurulacaktır. Bu iş için kaç bardak gerekir?",
+      "answers": [
+        "12",
+        "120",
+        "192",
+        "1200"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "48 / 0,4 işlemi yapılmalıdır. Virgülden kurtarmak için 10 ile genişletiriz: 480 / 4 = 120 bardak."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "Bir sepetteki yumurtaların 3/8'i taşıma sırasında kırılmıştır. Sağlam kalan yumurta sayısı 40 olduğuna göre başlangıçta sepette kaç yumurta vardır?",
+      "answers": [
+        "50",
+        "64",
+        "80",
+        "96"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Kırılan 3/8 ise, sağlam kalan kısım 5/8'dir. 5/8'i 40 olan sayının tamamını bulmak için 40'ı 5'e bölüp 8 ile çarparız: 40 / 5 = 8. 8 · 8 = 64 yumurta."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "(0,5 · 0,2) + 0,9 işleminin sonucu kaçtır?",
+      "answers": [
+        "1",
+        "1,0",
+        "0,1",
+        "0,01"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Önce çarpma: 0,5 · 0,2 = 0,10 (veya 0,1). Sonra toplama: 0,1 + 0,9 = 1,0 yani 1."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "Bir çiftçinin 500 dönümlük tarlasının %30'u buğday, kalan kısmın 2/7'si arpa, geriye kalanı ise boş bırakılmıştır. Buna göre boş bırakılan alan kaç dönümdür?",
+      "answers": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Buğday: 500 · (30/100) = 150 dönüm. Kalan kısım: 500 - 150 = 350 dönüm. Arpa: 350 · (2/7) = 100 dönüm. Boş alan: 350 - 100 = 250 dönüm."
+    }
+  ]
+}

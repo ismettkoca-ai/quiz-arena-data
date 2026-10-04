@@ -1,0 +1,425 @@
+{
+  "unit": "DNA ve Genetik Kod",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "Hücre çekirdeğindeki kalıtsal yapıların karmaşıktan basite (büyükten küçüğe) doğru sıralanışı hangi seçenekte verilmiştir?",
+      "answers": [
+        "Kromozom - DNA - Gen - Nükleotid",
+        "DNA - Gen - Kromozom - Nükleotid",
+        "Nükleotid - Gen - DNA - Kromozom",
+        "Kromozom - Gen - Nükleotid - DNA"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Kalıtsal materyaller büyükten küçüğe doğru 'Kedi Geni' şifresiyle hatırlanır: Kromozom, DNA, Gen, Nükleotid."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "DNA'nın yapı birimi olan nükleotidin yapısında hangi üç temel molekül bulunur?",
+      "answers": [
+        "Şeker - Fosfat - Karbonhidrat",
+        "Fosfat - Deoksiriboz Şekeri - Organik Baz",
+        "Protein - Yağ - Vitamin",
+        "Timin - Adenin - Guanin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Bir nükleotid her zaman bir fosfat, bir deoksiriboz şekeri ve bir organik bazın (Adenin, Timin, Guanin veya Sitozin) birleşmesinden oluşur."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "Sağlıklı bir DNA molekülünde organik baz eşleşmeleri hangi kurala göre yapılır?",
+      "answers": [
+        "Adenin karşısına Guanin, Timin karşısına Sitozin",
+        "Adenin karşısına Sitozin, Timin karşısına Guanin",
+        "Adenin karşısına Timin, Guanin karşısına Sitozin",
+        "Adenin karşısına Adenin, Timin karşısına Timin"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "DNA'nın çift sarmallı yapısında her zaman Adenin (A) bazı ile Timin (T) bazı, Guanin (G) bazı ile Sitozin (C/S) bazı karşılıklı eşleşir."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "Göz rengi, saç şekli veya kan grubu gibi kalıtsal özelliklerimizi belirleyen şifreleri taşıyan, DNA'nın 'görev birimi' olarak adlandırılan yapıya ne denir?",
+      "answers": [
+        "Kromozom",
+        "Organik Baz",
+        "Nükleotid",
+        "Gen"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Kalıtsal özelliklerin şifrelendiği, DNA üzerindeki anlamlı parça dizilerine gen denir. Gen, DNA'nın görev birimidir."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "Bir hücre bölünmeden önce çekirdeğindeki DNA molekülü kendini eşleyerek kopyalar. Bu eşlenme sırasında sitoplazmada bulunan serbest nükleotid sayısında nasıl bir değişim gözlenir?",
+      "answers": [
+        "Değişmez, sabit kalır.",
+        "Sürekli artar.",
+        "Sitoplazmadaki serbest nükleotidler çekirdeğe girdiği için sayıları azalır.",
+        "Önce artar, sonra sabit kalır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "DNA kendini eşlerken yeni zincirleri oluşturmak için ihtiyaç duyulan serbest nükleotidler sitoplazmadan çekirdeğin içine girer, bu nedenle sitoplazmadaki miktarları azalır."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "İnsanda 46, moli balığında 46 ve eğrelti otunda 500 kromozom bulunmaktadır. Sadece bu bilgilere bakılarak aşağıdaki sonuçlardan hangisine kesinlikle ulaşılabilir?",
+      "answers": [
+        "Kromozom sayısı arttıkça canlının vücut büyüklüğü de artar.",
+        "Farklı tür canlıların kromozom sayıları aynı olabilir ve kromozom sayısının canlının gelişmişliğiyle bir ilgisi yoktur.",
+        "Kromozom sayısı aynı olan canlılar kesinlikle birbiriyle akrabadır.",
+        "Bitkiler hayvanlardan daha gelişmiştir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "İnsan ve moli balığı farklı tür olmasına rağmen kromozom sayıları aynıdır (46). Ayrıca eğrelti otunun 500 kromozomu olması onun insandan daha gelişmiş olduğunu göstermez."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "Kalıtım biliminin kurucusu kabul edilen, kalıtsal özelliklerin nesilden nesile nasıl aktarıldığını bezelyeler üzerinde yaptığı çaprazlamalarla keşfeden bilim insanı kimdir?",
+      "answers": [
+        "Albert Einstein",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Gregor Mendel, manastır bahçesinde yetiştirdiği bezelyelerle yaptığı uzun soluklu deneyler sonucunda kalıtımın temel yasalarını (Mendel Kuralları) ortaya koymuştur."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "Gregor Mendel'in deneylerinde özellikle bezelye bitkisini tercih etmesinin nedenleri arasında aşağıdakilerden hangisi gösterilemez?",
+      "answers": [
+        "Yetiştirilmesinin kolay ve maliyetinin düşük olması",
+        "Çok az çeşitte (1-2 tane) karakteristik özelliğe sahip olması",
+        "Yılda birden fazla kez ürün (döl) vermesi",
+        "Kendi kendine tozlaşabilen kapalı çiçek yapısına sahip olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Bezelyenin seçilme nedenlerinden biri çok az değil, tam aksine 'çok çeşitli' gözlemlenebilir zıt özelliklere (boy, renk, tohum şekli vb.) sahip olmasıdır."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "Canlının genetik yapısına (sahip olduğu genlerin tamamına) ve bu genetik yapı ile çevre şartlarının etkileşimi sonucu ortaya çıkan dış görünüşüne sırasıyla ne ad verilir?",
+      "answers": [
+        "Fenotip - Genotip",
+        "Saf Döl - Melez Döl",
+        "Genotip - Fenotip",
+        "Baskın - Çekinik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Canlının harflerle ifade edilen gen dizilimine Genotip (AA, Aa, aa vb.), bu genlerin dışa yansıyan fiziksel özelliklerine ise Fenotip (uzun, kısa, sarı) denir."
+    },
+    {
+      "id": "Q_8_2_010",
+      "questionText": "Hem homozigot (saf) hem de heterozigot (melez) durumda her zaman kendi özelliğini fenotipte (dış görünüşte) gösteren genlere ne ad verilir?",
+      "answers": [
+        "Çekinik (Resesif) Gen",
+        "Mutant Gen",
+        "Baskın (Dominant) Gen",
+        "Kardeş Gen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Baskın genler büyük harfle gösterilir ve yanındaki gen çekinik olsa bile daima kendi özelliğini dış görünüşe yansıtır."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "Bezelyelerde uzun boy geni (U), kısa boy genine (u) baskındır. Melez (heterozigot) iki uzun boylu bezelyenin (Uu x Uu) çaprazlanması sonucunda oluşacak yeni bezelyelerin kısa boylu olma ihtimali yüzde kaçtır?",
+      "answers": [
+        "%0",
+        "%25",
+        "%50",
+        "%75"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 3,
+      "explanation": "Uu x Uu çaprazlandığında; UU, Uu, Uu ve uu genotipleri oluşur. Kısa boylu olabilmesi için 'uu' olması gerekir, bu da 4 ihtimalde 1'dir (%25)."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "Sağlıklı bir insanda toplam 46 kromozom bulunur. Vücut özelliklerimizi belirleyen kromozomlara otozom, cinsiyetimizi belirleyenlere gonozom denir. Buna göre sağlıklı bir erkeğin kromozom formülü aşağıdakilerden hangisidir?",
+      "answers": [
+        "44 + XX",
+        "46 + XY",
+        "44 + XY",
+        "22 + Y"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "İnsanda 44 tane vücut kromozomu (otozom) ve 2 tane eşey kromozomu (gonozom) vardır. Erkeklerde eşey kromozomları XY olduğu için formül 44 + XY şeklindedir."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "Art arda 4 kız çocuğu olan bir ailenin, 5. çocuklarının erkek olma ihtimali yüzde kaçtır?",
+      "answers": [
+        "%0",
+        "%25",
+        "%50",
+        "%100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Geçmiş doğumların yeni doğumdaki olasılığa hiçbir etkisi yoktur. Anneden her zaman X, babadan ise X veya Y kromozomu gelme ihtimali yarı yarıya olduğu için cinsiyet ihtimali her hamilelikte her zaman %50'dir."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "Akraba evliliğinin genetik hastalıklar açısından en büyük risk (sakınca) oluşturmasının bilimsel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Akrabaların aynı evde yaşaması",
+        "Baskın hastalık genlerinin aniden ortaya çıkması",
+        "Akrabalarda gen benzerliği fazla olduğu için, her iki tarafta da gizli bulunan çekinik (resesif) hastalık genlerinin yan yana gelme ihtimalinin artması",
+        "Akrabalarda kromozom sayısının farklı olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Kalıtsal hastalıkların çoğu çekinik genlerle (aa) taşınır. Akrabalar aynı gen havuzundan geldiği için aynı hastalık genini taşıma ihtimalleri yüksektir; çaprazlandıklarında bu genlerin eşleşip hastalığın ortaya çıkma olasılığı artar."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "Radyasyon, X ışınları, aşırı sıcaklık veya kimyasal maddeler gibi çevresel faktörlerin etkisiyle, DNA'nın yapısında (nükleotid diziliminde) meydana gelen kalıcı değişikliklere (bozulmalara) ne ad verilir?",
+      "answers": [
+        "Modifikasyon",
+        "Mutasyon",
+        "Adaptasyon",
+        "Varyasyon"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "DNA'nın şifresinin, kromozom yapısının veya sayısının radyasyon gibi etkenlerle tamamen bozulması ve değişmesine mutasyon denir."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "Aşağıdakilerden hangisi bir mutasyon örneği değildir?",
+      "answers": [
+        "Van kedisinin iki gözünün farklı renklerde olması",
+        "Dört boynuzlu keçilerin doğması",
+        "Ağırlık kaldıran bir sporcunun kaslarının gelişmesi",
+        "İnsanlarda görülen Down Sendromu (+1 kromozom) hastalığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Spor yapan kişinin kaslarının gelişmesi DNA'nın yapısını bozmaz, sadece çevre etkisiyle ortaya çıkan ve kalıtsal olmayan bir durumdur (Modifikasyon). Diğerleri ise genetik bozulmalardır (Mutasyon)."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Bir mutasyonun yavrulara (gelecek nesillere) aktarılabilmesi yani 'kalıtsal' olabilmesi için hücrenin hangi bölümünde gerçekleşmesi zorunludur?",
+      "answers": [
+        "Sadece deri hücrelerinde",
+        "Üreme (Eşey) hücrelerinde veya üreme ana hücrelerinde",
+        "Beyin hücrelerinde",
+        "Kas hücrelerinde"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Vücut hücrelerinde gerçekleşen mutasyonlar (örneğin deri kanseri) sadece o kişiyi ilgilendirir. Yavruya geçebilmesi için mutasyonun sperm veya yumurta gibi üreme hücrelerinde olması gerekir."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Beslenme, ısı, ışık veya nem gibi çevre şartlarının etkisiyle canlının genlerinin yapısı değişmeden sadece 'işleyişinin' değişmesiyle ortaya çıkan ve kalıtsal olmayan değişikliklere ne ad verilir?",
+      "answers": [
+        "Modifikasyon",
+        "Doğal Seçilim",
+        "Mutasyon",
+        "Biyoteknoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Genin yapısı sağlam kalıp sadece çalışma şekli çevreye göre değişiyorsa buna modifikasyon denir. Etken (örneğin güneş) ortadan kalkınca durum eski haline dönebilir."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "Aşağıdakilerden hangisi bir modifikasyon örneğidir?",
+      "answers": [
+        "Altı parmaklı bebeklerin doğması",
+        "Çuha çiçeğinin sıcak ortamda (25-35°C) beyaz, serin ortamda (15-20°C) kırmızı çiçek açması",
+        "Radyasyona maruz kalan sineklerin kıvrık kanatlı doğması",
+        "Albinoluk hastalığı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Çuha çiçeğinin sıcaklığa göre renk değiştirmesi, gen işleyişinin çevreyle değişmesidir. Tohumu alınıp farklı sıcaklığa ekilirse renk yine o sıcaklığa göre çıkar, yani kalıtsal değildir."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "Kraliçe arı ile işçi arıların aslında aynı genetik yapıdaki larvalar olmalarına rağmen, arı sütüyle beslenenlerin iri ve doğurgan (kraliçe), polenle beslenenlerin küçük ve kısır (işçi) olması hangi biyolojik kavramla açıklanır?",
+      "answers": [
+        "Mutasyon",
+        "Kalıtım",
+        "Modifikasyon",
+        "Adaptasyon"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Arı larvalarının beslenme türüne göre (çevre şartı) fiziksel olarak farklı gelişmesi klasik bir modifikasyon örneğidir."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "Canlıların bulundukları yaşama ortamına (çevreye) uyum sağlayarak, hayatta kalma ve üreme şanslarını artıran kalıtsal özellikler kazanmasına ne ad verilir?",
+      "answers": [
+        "Adaptasyon",
+        "Modifikasyon",
+        "Klonlama",
+        "Varyasyon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Canlının çevreye uyum sağlayacak kalıcı silahlar ve donanımlar geliştirmesine adaptasyon denir ve bu özellikler nesilden nesile aktarılır."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "Aşağıdakilerden hangisi bir adaptasyon örneği değildir?",
+      "answers": [
+        "Kutup ayılarının ısı kaybını önlemek için derilerinin altında kalın yağ tabakası bulunması",
+        "Çöl bitkisi olan kaktüslerin su kaybını azaltmak için yapraklarının iğne şeklinde olması",
+        "Güneşlenen bir insanın teninin bronzlaşması",
+        "Bukalemunların bulundukları ortamın rengini alarak kamufle olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Güneşte bronzlaşmak kalıtsal değildir, geçici bir modifikasyondur. Diğerleri ise canlının o ortamda hayatta kalmasını sağlayan kalıtsal donanımlardır (adaptasyon)."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "Aynı tür içinde yer alan bireylerin, genetik yapılarına bağlı olarak birbirlerinden farklı özellikler (çeşitlilik) göstermesine ne ad verilir? (Örneğin insanların farklı göz renklerine sahip olması)",
+      "answers": [
+        "Varyasyon (Tür içi çeşitlilik)",
+        "Doğal Seçilim",
+        "Klonlama",
+        "Yapay Seçilim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Varyasyon, bir tür içindeki genetik çeşitliliği ifade eder. Afrika'daki insanların koyu, Kuzeydekilerin açık tenli olması tür içi varyasyondur."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "Doğadaki zorlu yaşam şartlarına (açlık, avcılar, iklim) uyum sağlayabilen (güçlü) canlıların hayatta kalması, uyum sağlayamayan zayıf canlıların ise elenerek yok olması sürecine ne ad verilir?",
+      "answers": [
+        "Modifikasyon",
+        "Varyasyon",
+        "Doğal Seçilim",
+        "Mutasyon"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Doğal seçilim, Charles Darwin tarafından ortaya atılan, doğanın adeta bir elek gibi işleyip sadece ortama en iyi adapte olanları hayatta bırakması sürecidir."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "Canlıların genetik yapılarını inceleyerek veya onlara müdahale ederek tıp, tarım ve sanayi alanında insanlığa faydalı ürünler ve yeni özellikli canlılar elde etmeyi amaçlayan bilim dalına genel olarak ne ad verilir?",
+      "answers": [
+        "Sismoloji",
+        "Biyoteknoloji",
+        "Astronomi",
+        "Arkeoloji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Biyoteknoloji, genetik mühendisliğinin yöntemlerini kullanarak canlılardan ticari ve faydalı ürünler (aşı, ilaç, verimli bitki) elde eden teknolojik alandır."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Ateş böceğinin ışık saçmasını sağlayan genin bilim insanları tarafından alınıp bir tütün bitkisine yerleştirilmesi ve tütün bitkisinin karanlıkta parlamasının sağlanması, hangi genetik uygulamanın örneğidir?",
+      "answers": [
+        "Gen Tedavisi",
+        "Gen Aktarımı",
+        "Klonlama",
+        "Doğal Seçilim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "Bir canlının sahip olduğu üstün veya farklı bir özelliğin (genin), başka bir canlıya transfer edilerek o canlıya yeni bir özellik kazandırılmasına Gen Aktarımı denir."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "Tarihte ilk kez 1996 yılında Dolly adlı bir koyunda uygulanan; bir canlının hücresinden alınan DNA'nın kullanılarak o canlının genetik olarak birebir kopyasının (ikizinin) üretilmesi işlemine ne ad verilir?",
+      "answers": [
+        "Islah",
+        "Klonlama",
+        "Aşılama",
+        "Gen Tedavisi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Klonlama, eşeyli üreme olmadan bir canlının vücut hücresindeki çekirdek (DNA) kullanılarak onun %100 genetik kopyasının laboratuvarda yaratılmasıdır."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "Bir klonlama deneyinde A koyununun meme hücresinin çekirdeği (DNA'sı) alınıyor, B koyununun çekirdeği boşaltılmış yumurtasının içine yerleştiriliyor. Oluşan embriyo C koyununun rahmine yerleştiriliyor. Doğan yavru koyun genetik olarak kime benzer?",
+      "answers": [
+        "A koyununa",
+        "B koyununa",
+        "C koyununa",
+        "A ve B koyununun karışımına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 3,
+      "explanation": "Kalıtsal bilgiyi (şifreyi) taşıyan yapı çekirdekteki DNA'dır. Hangi koyunun çekirdeği alındıysa (A koyunu), doğacak yavru tamamen onun genetik ikizi olur."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "Zararlı virüsler kullanarak veya doğrudan müdahale ile, hastalıklı (bozuk) genlerin tespit edilip sağlıklı genlerle değiştirilmesi veya onarılması işlemine ne ad verilir?",
+      "answers": [
+        "Klonlama",
+        "Modifikasyon",
+        "Gen Tedavisi",
+        "Yapay Seçilim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 1,
+      "explanation": "Gen tedavisi, hücredeki hasarlı genleri tedavi etmek amacıyla dışarıdan sağlıklı genlerin hücreye aktarılması yöntemidir."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "Biyoteknoloji sadece faydalı değildir, aynı zamanda büyük riskler ve dezavantajlar da taşır. Aşağıdakilerden hangisi biyoteknolojinin olası zararlarından (olumsuz sonuçlarından) biri olarak gösterilebilir?",
+      "answers": [
+        "Tarımda verimi yüksek tohumların üretilmesi",
+        "Daha güçlü vitaminlerin ve aşıların üretilmesi",
+        "Genetiği Değiştirilmiş Organizmaların (GDO) insanlarda alerjik reaksiyonlara neden olması ve biyoçeşitliliği bozması",
+        "Kalıtsal hastalıkların tedavi yöntemlerinin bulunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "DNA ve Genetik Kod",
+      "difficulty": 2,
+      "explanation": "GDO'lu ürünler doğal dengeyi bozabilir, yerel tohumların yok olmasına sebep olabilir ve insan vücudunda öngörülemeyen alerjik/toksik etkiler yaratabilir. Bu, biyoteknolojinin karanlık tarafıdır."
+    }
+  ]
+}

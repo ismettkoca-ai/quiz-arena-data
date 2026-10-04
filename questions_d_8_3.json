@@ -1,0 +1,425 @@
+{
+  "unit": "Din ve Hayat",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "İnsanın doğuştan sahip olduğu, yüce ve güçlü bir varlığa sığınma, ona güvenme ve inanma duygusuna (yaratılış özüne) İslam'da ne ad verilir?",
+      "answers": [
+        "Fıtrat",
+        "İrade",
+        "Kader",
+        "Tevekkül"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İnsanın doğasında (yaratılışında) var olan inanma ve sığınma ihtiyacına 'Fıtrat' denir. Din duygusu fıtridir, yani doğuştan gelir."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "İslam dininin temel gayesi (amacı), insanın dünyada ve ahirette mutlu olmasını sağlamaktır. Bunun için İslam, 'Zarurat-ı Hamse' denilen 5 temel değerin korunmasını emreder. Aşağıdakilerden hangisi bu 5 temel değerden biri değildir?",
+      "answers": [
+        "Canın Korunması",
+        "Makamın Korunması",
+        "Aklın Korunması",
+        "Neslin Korunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İslam'ın korunmasını emrettiği 5 temel esas şunlardır: Canın, Aklın, Malın, Neslin ve Dinin korunması. Makam veya şöhret korumak dini bir amaç değildir."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "İslam'a göre insan hayatı dokunulmazdır ve kutsaldır. Kur'an-ı Kerim'de 'Kim bir kimseyi haksız yere öldürürse, bütün insanları öldürmüş gibi olur' buyrulmaktadır. Bu ayet 5 temel esastan hangisiyle doğrudan ilgilidir?",
+      "answers": [
+        "Dinin Korunması",
+        "Aklın Korunması",
+        "Malın Korunması",
+        "Canın Korunması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İnsan hayatının (yaşama hakkının) kutsallığını, cinayetin ve şiddetin yasaklanmasını vurgulayan tüm ayetler 'Canın Korunması' ilkesiyle ilgilidir."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "İş sağlığı ve güvenliği uzmanı olan Ali Bey, fabrikadaki işçilere kask takmalarını ve güvenlik kemerlerini bağlamalarını emretmektedir. Ali Bey'in bu uygulaması İslam'ın hangi ilkesiyle birebir örtüşür?",
+      "answers": [
+        "Malın Korunması",
+        "Neslin Korunması",
+        "Canın Korunması",
+        "Aklın Korunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "İş kazalarına karşı tedbir almak, sağlığı korumak ve tehlikelerden uzak durmak, İslam'ın 'Canın Korunması' ilkesinin gereğidir."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "Dinimize göre insanı diğer varlıklardan ayıran, düşünmesini ve sorumlu (mükellef) tutulmasını sağlayan en önemli nimet akıldır. Bu nedenle İslam'da alkol, uyuşturucu ve sarhoşluk veren her şey yasaklanmıştır. Bu yasaklar hangi ilkeyi korumak içindir?",
+      "answers": [
+        "Aklın Korunması",
+        "Malın Korunması",
+        "Canın Korunması",
+        "Dinin Korunması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İnsanın düşünme ve karar verme yeteneğini (iradesini) geçici veya kalıcı olarak yok eden her türlü zararlı madde 'Aklın Korunması' ilkesi gereği haram kılınmıştır."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "Ahmet, 'Ben alkol alıyorum ama sadece bir kadeh, beni sarhoş etmiyor ki' diyerek kendini savunmuştur. Ahmet'in bilmediği, peygamberimizin (s.a.v) aklın korunmasıyla ilgili koyduğu temel kural nedir?",
+      "answers": [
+        "Çoğu sarhoşluk veren şeyin, azının da haram olduğu",
+        "Sadece ucuz alkollerin haram olduğu",
+        "Gündüzleri içmenin serbest olduğu",
+        "Sadece yaşlıların içmesinin yasak olduğu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "İslam ahlakında 'Sarhoşluk veren şeyin çoğu haram olduğu gibi azı da haramdır.' Kural çok nettir; aklı uyuşturan şeylere sınır konulmaz, tamamen yasaklanır."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "İslam, insanın mülkiyet edinme hakkına saygı duyar ancak bunun helal yollardan olmasını şart koşar. Bu nedenle hırsızlık, rüşvet, faiz, kumar ve ölçüde-tartıda hile yapmak yasaklanmıştır. Bu yasaklar hangi ilkeyle ilgilidir?",
+      "answers": [
+        "Canın Korunması",
+        "Malın Korunması",
+        "Neslin Korunması",
+        "Aklın Korunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Haksız kazanç sağlayan, başkasının emeğini sömüren veya kolay yoldan zengin olmayı amaçlayan tüm kötü eylemler 'Malın Korunması' (helal kazanç) ilkesine aykırıdır."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "Piyango, loto ve iddaa gibi şans oyunları dinimizce haram kabul edilir. Bunun temel nedeni bu oyunların İslam'ın hangi ilkesine zarar vermesidir?",
+      "answers": [
+        "Canın Korunması",
+        "Neslin Korunması",
+        "Malın Korunması (Emeksiz ve haksız kazanç olması)",
+        "Dinin Korunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Şans oyunları (kumar), alın teri ve emek olmadan başkalarının cebinden çıkan paraya konmak olduğu için 'Malın Korunması' ilkesi gereğince haramdır."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "İslam dini; toplumun temel taşı olan ailenin kurulmasını teşvik eder, evliliği (nikahı) över, zinayı ve ahlaksızlığı kesin bir dille yasaklar. Ayrıca anne-babaya saygıyı emreder. Tüm bu kurallar hangi temel esasın korunması içindir?",
+      "answers": [
+        "Aklın Korunması",
+        "Canın Korunması",
+        "Neslin Korunması",
+        "Dinin Korunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Sağlıklı çocukların yetişmesi, ailenin korunması ve insan soyunun ahlaklı bir şekilde devam etmesi 'Neslin Korunması' ilkesinin temelidir."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "Dinin aslını (özünü) bozacak olan hurafelerden, batıl inançlardan (sihir, büyü, falcılık) ve dine sonradan eklenen uydurmalardan (bid'at) uzak durmak hangi ilkenin bir gereğidir?",
+      "answers": [
+        "Dinin Korunması",
+        "Aklın Korunması",
+        "Malın Korunması",
+        "Canın Korunması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Tevhid (Allah'ın birliği) inancını şirkten, hurafelerden ve yanlış inançlardan uzak tutarak dini Kur'an'daki saf haliyle yaşamak 'Dinin Korunması'dır."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "Alkol alarak direksiyon başına geçen bir sürücü, kaza yapmış ve hem kendi bacağını kırmış, hem de arabasını hurdaya çevirmiştir. Bu sürücü İslam'ın 5 temel esasından sırasıyla hangilerine zarar vermiştir?",
+      "answers": [
+        "Sadece Aklın Korunması",
+        "Aklın, Canın ve Malın Korunması",
+        "Neslin ve Dinin Korunması",
+        "Sadece Canın Korunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 3,
+      "explanation": "Alkol alması 'Aklın' korunmasını, kaza yapıp yaralanması 'Canın' korunmasını, arabasının hurdaya çıkması ise 'Malın' korunması ilkesini ihlal etmiştir."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "Asr Suresi, insanlığın zararda ve ziyanda (hüsranda) olduğunu, ancak 4 özelliğe sahip olanların bu zarardan kurtulacağını bildirir. Aşağıdakilerden hangisi Asr suresinde sayılan bu kurtuluş yollarından biri değildir?",
+      "answers": [
+        "İman etmek (Allah'a inanmak)",
+        "Salih amel işlemek (İyi ve faydalı işler yapmak)",
+        "Çok mal biriktirip zengin olmak",
+        "Hakkı ve sabrı birbirine tavsiye etmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Asr Suresi'ne göre kurtuluşun 4 şartı vardır: 1-İman, 2-Salih Amel (İyi işler), 3-Hakkı (Doğruyu) tavsiye, 4-Sabrı tavsiye etmektir. Zenginlik bir kurtuluş şartı değildir."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "Halk arasında yaygın olan 'Türbelere çaput (bez) bağlayarak dilek dilemek, kurşun döktürmek, baykuş ötmesini uğursuzluk saymak' gibi İslam'ın aslında olmayan inançlara ne ad verilir?",
+      "answers": [
+        "Sünnet",
+        "Hurafe (Batıl İnanç)",
+        "Tefekkür",
+        "Tevekkül"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Akla, mantığa ve dinin özü olan Kur'an'a aykırı olan, dindenmiş gibi gösterilen asılsız inançlara ve uydurmalara 'Hurafe' veya 'Batıl İnanç' denir."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "İnsan sadece fiziksel (yeme, içme, barınma) ihtiyaçları olan bir varlık değildir. Onun 'Ben kimim? Nereden geldim? Ölümden sonra ne olacak?' gibi sorularına en mantıklı ve huzur verici cevapları sunan kurum aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ekonomi",
+        "Siyaset",
+        "Din",
+        "Spor"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Dinin birey üzerindeki en büyük etkisi, ona hayatın anlamını vermesi, belirsizlikleri gidererek psikolojik bir huzur ve amaç sağlamasıdır."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "Hz. Yusuf peygamberin kıssasında, kardeşlerinin onu kuyuya atmasına ve köle olarak satılmasına rağmen; Mısır'a yönetici olduğunda onları affettiği anlatılır. Bu kıssadan çıkarılması gereken en büyük ahlaki ders nedir?",
+      "answers": [
+        "Kardeşlere asla güvenilmemesi gerektiği",
+        "Affetmenin, sabrın ve kötüye karşı iyilikle karşılık vermenin erdemi",
+        "İntikam almanın insanı rahatlattığı",
+        "Kuyuların tehlikeli olduğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Hz. Yusuf kıssası, her türlü ihanete ve zorluğa rağmen Allah'a güvenmekten vazgeçmemeyi, sabretmeyi ve gücü yetse bile düşmanını affetmeyi öğretir."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Kur'an'da 'Ey inananlar! Mallarınızı aranızda haksız yollarla yemeyin...' buyrulmaktadır. Bu ayet, İslam'ın hangi ilkesinin doğrudan bir kanıtıdır (delilidir)?",
+      "answers": [
+        "Aklın Korunması",
+        "Neslin Korunması",
+        "Malın Korunması",
+        "Canın Korunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Haksız kazanç, hırsızlık, faiz veya gasp yoluyla insanların malını yemenin yasaklanması, 'Malın Korunması' ilkesidir."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "Din kelimesinin sözlük anlamları arasında 'boyun eğmek, itaat etmek, yol, kanun ve hesap' gibi anlamlar vardır. Buna göre İslam dininin en temel gayesi insanı kime itaat ettirmektir?",
+      "answers": [
+        "Sadece devlet başkanına",
+        "Sadece doğaya",
+        "Yalnızca her şeyi yaratan Yüce Allah'a",
+        "Toplumdaki zenginlere"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İslam, insanın yaratıcısı olan tek Allah'a boyun eğmesini (Tevhid) ve sadece O'na kul olmasını hedefler."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "Bir devlet, okulların etrafında sigara ve alkol satışını yasaklamış, ayrıca gençleri uyuşturucuya karşı bilinçlendirmek için seminerler düzenlemiştir. Devletin bu politikası İslam'ın hangi iki temel esasını korumaya yöneliktir?",
+      "answers": [
+        "Malın ve Dinin Korunması",
+        "Aklın ve Neslin Korunması",
+        "Canın ve Malın Korunması",
+        "Dinin ve Canın Korunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 3,
+      "explanation": "Zararlı maddeleri yasaklamak 'Aklın', bu uygulamayı özellikle gençleri (gelecek nesli) korumak için yapmak ise 'Neslin Korunması' ilkesiyle örtüşür."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "Tarihte bazı insanlar dini kendi menfaatleri (çıkarları) için kullanmış, ayetleri işlerine geldiği gibi yorumlayarak toplumu kandırmışlardır. Dini bu tür istismarlardan ve yanlışlardan korumanın (Dinin Korunması) en kesin yolu nedir?",
+      "answers": [
+        "Dini hiç öğrenmemek ve ilgilenmemek",
+        "Sadece rüyalara ve hikayelere inanmak",
+        "Dini, temel kaynakları olan Kur'an-ı Kerim'den ve Hz. Muhammed'in sahih (doğru) sünnetinden öğrenmek",
+        "Falcılara ve büyücülere danışmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Dini hurafelerden ve istismarcılardan korumanın tek yolu, onu aklımızı kullanarak doğrudan kendi ana kaynaklarından (Kur'an ve Sünnet) öğrenmektir."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "İslam dini kan davası gütmeyi (intikam için masumları öldürmeyi), kürtajı ve intiharı kesinlikle yasaklamıştır. Bu yasaklar, Allah'ın verdiği hangi emanetin dokunulmaz olduğunu gösterir?",
+      "answers": [
+        "Can (Hayat) emanetinin",
+        "Mal emanetinin",
+        "Din emanetinin",
+        "Akıl emanetinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Yaşama hakkı insana Allah'ın verdiği bir emanettir. İntihar etmek, haksız yere adam öldürmek veya doğacak bebeği keyfi olarak öldürmek (kürtaj) Canın Korunması ihlalidir."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "Asr Suresi, 'Asra (zamana) yemin olsun ki insan ziyan içindedir' diye başlar. Kur'an'da Allah'ın zamana yemin etmesinin temel nedeni ne olabilir?",
+      "answers": [
+        "Zamanın çok yavaş geçmesi",
+        "Zamanın insan hayatındaki en değerli sermaye olduğunu ve boş yere harcanmaması gerektiğini (israf edilmemesi) vurgulamak",
+        "Sadece saatlerin önemini belirtmek",
+        "İnsanları korkutmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "İnsanın geri getiremeyeceği tek şey zamandır (ömürdür). Allah zamana yemin ederek, bu sürenin iman ve iyi işlerle değerlendirilmesi gerektiğine dikkat çeker."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "Müslümanlar cuma namazlarında imamdan sık sık şu duayı duyarlar: 'Ey Rabbimiz! Bize dünyada da iyilik (güzellik) ver, ahirette de iyilik ver...' Bu dua, dinin hayata bakış açısıyla ilgili neyi kanıtlar?",
+      "answers": [
+        "İslam'ın sadece ahireti (ölüm sonrasını) önemsediğini",
+        "İslam'ın sadece dünya hayatını ve parayı önemsediğini",
+        "İslam'ın dünya ve ahiret arasında muazzam bir 'denge' dini olduğunu",
+        "Duanın sadece camide edileceğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "İslam, dünyayı terk edip sadece ahiret için yaşamayı (Ruhbanlık) reddeder. Dünyayı da ahireti de güzelleştirmeyi (Denge) hedefler."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "'Kim bir yetimin başını okşar ve ona yardım ederse, cennette benimle yan yana olacaktır' diyen bir peygamberin ümmeti, aşağıdaki eylemlerden hangisini yaparsa dinin toplumsal faydasını (gelişimini) engellemiş olur?",
+      "answers": [
+        "Sosyal yardım dernekleri kurarsa",
+        "Sadece kendi bencil çıkarları (menfaatleri) için yaşar ve etrafındaki yoksulları görmezden gelirse",
+        "Zekat ve fitresini zamanında verirse",
+        "Adaletli davranırsa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Dinin amacı yardımlaşmayı ve empatiyi artırmaktır. Bencillik ve duyarsızlık, dinin toplumdaki birleştirici gücünü yok eder."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "İslam ahlakına göre bir kimsenin hastalandığında 'Ne yapalım kaderim böyleymiş, Allah verirse iyileşirim' deyip yatarak beklemesi yerine, uzman bir doktora gidip tedavi olması gerekir. Tedavi olmak hangi ilkenin bir gereğidir?",
+      "answers": [
+        "Malın Korunması",
+        "Canın (Sağlığın) Korunması",
+        "Aklın Korunması",
+        "Dinin Korunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "Bedenimiz bize emanettir. Hastalandığımızda tıbba başvurmak ve tedavi yollarını aramak (önlem almak) Canın Korunması ilkesinin emridir."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "Bir işyerinde patron, işçilerin maaşlarını haksız yere düşürüyor, onların sigortalarını yapmıyorsa; işçiler de çalışıyormuş gibi görünüp malzemeleri çalıyorsa, o işyerinde sırasıyla hangi iki dini ilke ihlal ediliyordur?",
+      "answers": [
+        "Aklın Korunması - Dinin Korunması",
+        "Kul Hakkı (Adalet) - Malın Korunması (Helal Kazanç)",
+        "Neslin Korunması - Canın Korunması",
+        "İbadet - Tevekkül"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 3,
+      "explanation": "Patronun emeği sömürmesi 'Kul hakkı'dır. İşçinin malzemeyi çalması veya kaytarması ise helal rızka haram katmak yani 'Malın Korunması' ilkesini ihlal etmektir."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "Asr suresinde geçen 'Salih Amel' kavramının İslam dinindeki karşılığı (anlamı) en geniş hatlarıyla nedir?",
+      "answers": [
+        "Sadece namaz kılmaktır.",
+        "Kişinin Allah rızası için yaptığı her türlü güzel, faydalı ve ahlaklı davranıştır (insanlara yardım, dürüstlük vb.).",
+        "Çok zengin olmaktır.",
+        "Sadece Kur'an okumaktır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Salih Amel; sadece şekilsel ibadetleri değil, topluma ve doğaya fayda sağlayan, dürüstlük ve merhamet içeren her türlü iyi eylemi kapsar."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "Dini konularda sorumluluk (mükellefiyet), kişinin 'akıl sağlığının yerinde olması' şartına bağlanmıştır. Deliler, bebekler veya ağır zihinsel engelliler dinden sorumlu tutulmaz. Bunun temel sebebi nedir?",
+      "answers": [
+        "Dinin sadece yaşlılara gelmiş olması",
+        "İradenin (seçme özgürlüğünün) ve anlama yeteneğinin (aklın) olmaması nedeniyle kişinin davranışlarından sorumlu tutulamayacağı adaleti",
+        "Bu kişilerin camiye gidememesi",
+        "Zengin olmamaları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "İslam akıl dinidir. Aklı olmayanın dini sorumluluğu (günahı/sevabı) yoktur, çünkü doğruyu yanlıştan ayıracak bir iradesi yoktur."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "Kur'an'da yer alan 'Mallarınızı aranızda batıl (haksız ve yalan) yollarla yemeyin...' ayetine göre, aşağıdakilerden hangisi malın korunması ilkesine uygun bir 'helal kazanç' yöntemidir?",
+      "answers": [
+        "Karaborsacılık (Fiyat artsın diye malı saklamak)",
+        "Tefecilik (Yüksek faizle borç vermek)",
+        "Ticarete hile karıştırmak",
+        "Alın teri dökerek, dürüstçe ticaret yapmak veya çalışmak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Din ve Hayat",
+      "difficulty": 1,
+      "explanation": "İslam emeği ve dürüst ticareti överken; tefecilik, karaborsacılık ve rüşvet gibi emeksiz sömürü yollarını haram kılar."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "Bir ebeveynin (anne-babanın) çocuğuna güzel ahlak vermesi, onu sevgiyle büyütmesi, helal lokma yedirmesi ve ona şiddet uygulamaması İslam'ın hangi ilkesinin doğrudan bir gereğidir?",
+      "answers": [
+        "Aklın Korunması",
+        "Malın Korunması",
+        "Dinin Korunması",
+        "Neslin Korunması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Din ve Hayat",
+      "difficulty": 2,
+      "explanation": "Gelecek kuşakların fiziksel, psikolojik ve ahlaki olarak sağlıklı yetiştirilmesi görevi (Ebeveynlik) doğrudan 'Neslin Korunması' kapsamındadır."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "Tarih boyunca bazı toplumlar güneşe, ateşe veya kendi yaptıkları putlara tapmışlardır. Ancak hiçbir zaman inançsız (tamamen dinsiz) bir toplum var olmamıştır. İnsanların sürekli bir şeylere inanma (tapma) eğiliminde olması neyi kanıtlar?",
+      "answers": [
+        "İnsanların sürekli korktuğunu",
+        "Din duygusunun insanın fıtratında (yaratılışında) doğuştan var olan evrensel bir ihtiyaç olduğunu",
+        "Dinlerin tamamen insan uydurması olduğunu",
+        "Sadece fakirlerin inandığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Din ve Hayat",
+      "difficulty": 3,
+      "explanation": "İnsanın tarih boyunca mutlaka yüce bir varlığa (ister doğru ister yanlış olsun) sığınma ihtiyacı hissetmesi, din (inanma) duygusunun doğuştan gelen (fıtri) bir refleks olduğunu kanıtlar."
+    }
+  ]
+}

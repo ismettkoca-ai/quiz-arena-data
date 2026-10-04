@@ -1,0 +1,425 @@
+{
+  "unit": "Classroom Life",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "It is very dark in the classroom. The teacher says: 'Can you _________ the lights, please?'",
+      "answers": [
+        "turn on",
+        "turn off",
+        "open",
+        "close"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Sınıf karanlık olduğunda ışıkları açmak için 'turn on' (açmak) fiil öbeği kullanılır."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "Teacher: _________ your hand before you speak.",
+      "answers": [
+        "Raise",
+        "Clean",
+        "Look",
+        "Listen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Konuşmadan önce söz istemek için el kaldırmak 'raise your hand' kalıbıyla ifade edilir."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "You want to enter the classroom, but you are late. What do you say to your teacher?",
+      "answers": [
+        "May I come in?",
+        "May I go out?",
+        "Can I answer the question?",
+        "Can you repeat that?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Derse geç kalındığında sınıfa girmek için 'May I come in?' (İçeri girebilir miyim?) diyerek izin istenir."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "The teacher is writing some examples on the _________ with a marker.",
+      "answers": [
+        "board",
+        "desk",
+        "window",
+        "door"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Öğretmenler kalemle (marker) tahtaya (board) yazı yazarlar."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "Student: I am sorry, I don't understand the rule. _________?",
+      "answers": [
+        "Can you repeat that, please",
+        "Can I close the window",
+        "Do you like English",
+        "What is your name"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Bir şeyi anlamadığımızda karşı taraftan tekrar etmesini istemek için 'Can you repeat that, please?' denir."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "You need a pencil to draw a picture, but you don't have one. What do you ask your friend?",
+      "answers": [
+        "Can I borrow your pencil?",
+        "Can I give you my pencil?",
+        "Do you want my pencil?",
+        "Where is the pencil?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Birinden bir eşyayı ödünç istemek için 'Can I borrow...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "Which of the following is a negative classroom rule?",
+      "answers": [
+        "Don't run in the corridors.",
+        "Listen to your teacher.",
+        "Do your homework.",
+        "Be quiet."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Seçenekler arasında olumsuz (yapılmaması gereken) kural koridorlarda koşmamaktır ('Don't run...')."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "The weather is very hot and you need some fresh air. What do you ask your teacher?",
+      "answers": [
+        "May I open the window?",
+        "May I close the door?",
+        "Can you turn on the heater?",
+        "May I wear my coat?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Sıcak bir havada temiz hava almak için pencereyi açma izni istenir ('May I open the window?')."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "Where is the teacher's desk? It is usually _________ the board.",
+      "answers": [
+        "in front of",
+        "under",
+        "inside",
+        "between"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Öğretmen masası genellikle tahtanın önündedir ('in front of')."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "Student: _________?\nTeacher: Yes, of course. Here you are.",
+      "answers": [
+        "Can I borrow your dictionary",
+        "May I go out",
+        "Can you repeat that",
+        "What time is it"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 3,
+      "explanation": "Öğretmenin 'Buyurun' (Here you are) demesi, öğrencinin bir nesne (sözlük) istediğini gösterir."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "Teacher: Please _________ your books to page 45 and read the text silently.",
+      "answers": [
+        "open",
+        "close",
+        "turn",
+        "look"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Kitapların belirli bir sayfaya açılması istenirken 'open your books' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "What should students do when the teacher says 'Be quiet!'?",
+      "answers": [
+        "They should stop talking.",
+        "They should stand up.",
+        "They should sing a song.",
+        "They should leave the classroom."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Be quiet' sessiz olun anlamına gelir, bu yüzden öğrenciler konuşmayı bırakmalıdır ('stop talking')."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Student: May I answer the question on the board?\nTeacher: _________.",
+      "answers": [
+        "Yes, you may",
+        "No, you don't",
+        "Yes, I can",
+        "No, I am not"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "'May' ile sorulan bir izin sorusuna dilbilgisel olarak en doğru olumlu yanıt 'Yes, you may' olur."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "You want to throw away your rubbish. Where should you put it?",
+      "answers": [
+        "In the wastebasket",
+        "On the desk",
+        "Under the chair",
+        "In the schoolbag"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Çöpler (rubbish) çöp kutusuna (wastebasket / bin) atılır."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Look at the board and _________ the teacher carefully.",
+      "answers": [
+        "listen to",
+        "speak to",
+        "talk",
+        "look"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Tahtaya bakılır ve öğretmen dikkatlice dinlenir ('listen to')."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "Which word is the odd one out in a classroom?",
+      "answers": [
+        "Refrigerator",
+        "Eraser",
+        "Ruler",
+        "Dictionary"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Silgi, cetvel ve sözlük sınıf eşyasıdır. Buzdolabı (refrigerator) sınıfa ait değildir."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "Student: Sir, I don't know the Turkish meaning of this word. Can you _________ it, please?",
+      "answers": [
+        "translate",
+        "repeat",
+        "spell",
+        "borrow"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Bir kelimenin diğer dildeki anlamı bilinmiyorsa, o kelimenin çevrilmesi ('translate') istenir."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "If you want to know the correct letters of a word, what do you ask your teacher?",
+      "answers": [
+        "How do you spell it?",
+        "What does it mean?",
+        "Can you say it?",
+        "Where is it?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Bir kelimenin harflerini (yazılışını) öğrenmek için 'How do you spell it?' (Nasıl hecelenir?) diye sorulur."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "The students are _________ notes while the teacher is speaking.",
+      "answers": [
+        "taking",
+        "making",
+        "doing",
+        "having"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "İngilizcede not almak 'take notes' öbeği ile ifade edilir."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "It is winter and the classroom is freezing. What do you ask the teacher?",
+      "answers": [
+        "May I close the window?",
+        "May I open the door?",
+        "Can you turn on the fan?",
+        "May I drink some water?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Hava dondurucu derecede soğuksa (freezing), pencereyi kapatmak için izin istenir."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "Teacher: The exam starts now. Please _________ talking and read the questions.",
+      "answers": [
+        "stop",
+        "start",
+        "continue",
+        "keep"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Sınav başladığında öğrencilerden konuşmayı bırakmaları ('stop talking') istenir."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "What do you say when you give something (like a pen or a book) to your friend?",
+      "answers": [
+        "Here you are.",
+        "Thank you.",
+        "You're welcome.",
+        "Excuse me."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Birine bir eşya uzatırken İngilizcede 'Buyurun / Alın' anlamına gelen 'Here you are' denir."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "When someone says 'Thank you' to you, what is the best reply?",
+      "answers": [
+        "You're welcome.",
+        "Here you are.",
+        "I am sorry.",
+        "Excuse me."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Teşekkür eden birine 'Rica ederim' anlamında 'You're welcome' ile yanıt verilir."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Which of these is NOT a good classroom rule?",
+      "answers": [
+        "Eat your lunch during the lesson.",
+        "Raise your hand to speak.",
+        "Keep your desk clean.",
+        "Don't be late for the class."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Ders sırasında yemek yemek (Eat your lunch during the lesson) sınıfta istenmeyen, kötü bir davranıştır."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Teacher: Work in _________ and practice the dialogue with your desk mate.",
+      "answers": [
+        "pairs",
+        "singles",
+        "twice",
+        "double"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Sıra arkadaşıyla ikili gruplar halinde çalışmak 'work in pairs' kalıbı ile söylenir."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "Where do you usually write your homework and lesson notes?",
+      "answers": [
+        "In the notebook",
+        "On the desk",
+        "In the dictionary",
+        "On the map"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Ödevler ve ders notları deftere ('notebook') yazılır."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "Student: I am sorry I am late.\nTeacher: That's OK, but please _________ next time.",
+      "answers": [
+        "don't be late again",
+        "go out of the room",
+        "you are welcome",
+        "turn off the lights"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Geç kalan öğrenciye bir daha geç kalmaması uyarısı yapılır ('don't be late again')."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "To find the meaning of an unknown word, you should look it up in a _________.",
+      "answers": [
+        "dictionary",
+        "map",
+        "notebook",
+        "ruler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Bilinmeyen bir kelimenin anlamına sözlükten (dictionary) bakılır."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "Teacher: Please _________ the board. It is full of old writings and we need space.",
+      "answers": [
+        "clean",
+        "open",
+        "read",
+        "draw"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Tahta eski yazılarla doluysa yeni yer açmak için silinmesi ('clean') istenir."
+    },
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Student: Can I _________ your sharpener?\nFriend: Sure. Here you are.",
+      "answers": [
+        "use",
+        "give",
+        "look",
+        "listen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Birinin kalemtıraşını istemek için kullanabilir miyim ('use') kelimesi en uygun fiildir."
+    }
+  ]
+}

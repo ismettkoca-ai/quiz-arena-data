@@ -1,0 +1,425 @@
+{
+  "unit": "The Internet",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "To check your emails, you must first ............... to your account with your username and password.",
+      "answers": [
+        "log in",
+        "log out",
+        "delete",
+        "download"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "Hesaba giriş yapmak için 'log in' veya 'sign in' (giriş yapmak) ifadesi kullanılır."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "If you want to send a photo to your friend in an email, you should click on the ............... icon.",
+      "answers": [
+        "attachment",
+        "search",
+        "delete",
+        "history"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "E-postaya dosya veya fotoğraf eklemek için 'attachment' (ek/dosya eki) simgesine (genellikle ataş simgesi) tıklanır."
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "............... means putting a file or a program from the Internet to your own computer.",
+      "answers": [
+        "Uploading",
+        "Downloading",
+        "Registering",
+        "Commenting"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "İnternetten kendi bilgisayarına bir dosya indirme işlemine 'downloading' (indirme) denir."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Which one is NOT a web browser?",
+      "answers": [
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Keyboard",
+        "Safari"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "Chrome, Firefox ve Safari birer web tarayıcısıdır (web browser). 'Keyboard' (klavye) ise bir donanım parçasıdır."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Google and Yahoo are examples of ...............",
+      "answers": [
+        "search engines",
+        "social networking sites",
+        "hardware",
+        "passwords"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "Google ve Yahoo, internette bilgi aramak için kullanılan 'search engines' (arama motorları) örnekleridir."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "A: I want to use this website, but it asks me to create an account.\nB: Then, you should ............... first.",
+      "answers": [
+        "confirm",
+        "delete",
+        "register",
+        "log out"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "Bir web sitesinde yeni bir hesap oluşturmak (create an account) için 'register' (kaydolmak) veya 'sign up' gerekir."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "To be safe on the Internet, you should NEVER ...............",
+      "answers": [
+        "use a strong password.",
+        "share your personal information.",
+        "visit safe websites.",
+        "refuse unknown friend requests."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "İnternet güvenliği için kişisel bilgileri (ad, adres, şifre) asla paylaşmamalısınız (never share your personal information)."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "A: I can't connect to the internet. Is there a problem?\nB: Check your ............... first. The cable might be unplugged.",
+      "answers": [
+        "screen",
+        "connection",
+        "keyboard",
+        "speaker"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "İnternete bağlanılamadığında kablo veya modemle ilgili olarak 'connection' (bağlantı) kontrol edilmelidir."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "What does 'confirm' mean in Turkish?",
+      "answers": [
+        "Silmek",
+        "İptal etmek",
+        "Onaylamak",
+        "Giriş yapmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "'Confirm', bir işlemi veya hesabı kabul etmek, doğrulamak ve onaylamak anlamına gelir."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "My brother spends more than 8 hours online every day. He forgets to eat and sleep. He is an internet ...............",
+      "answers": [
+        "vlogger",
+        "browser",
+        "addict",
+        "engine"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 1,
+      "explanation": "Günde 8 saatten fazla internette vakit geçiren, yemeyi ve uyumayı unutan birisi 'addict' (bağımlı) olarak tanımlanır."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "A: What do you usually do on the Net?\nB: I usually use it for communication. I ...............",
+      "answers": [
+        "play online games.",
+        "keep in touch with my friends.",
+        "read online news.",
+        "download movies."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "İletişim (communication) amacıyla interneti kullanan biri arkadaşlarıyla irtibatta kalır (keep in touch with my friends)."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Which matching is WRONG?",
+      "answers": [
+        "Sign in = Log in",
+        "Sign up = Register",
+        "Upload = Download",
+        "Reply = Answer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "'Upload' (yüklemek) ve 'Download' (indirmek) eş anlamlı (synonym) değil, zıt anlamlı (antonym) kelimelerdir."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "Aşağıdaki ifadelerden hangisi güvenli bir şifre (strong password) örneği olabilir?",
+      "answers": [
+        "12345678",
+        "mynameisjohn",
+        "password",
+        "M7*r!x9p"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Güçlü bir şifre büyük-küçük harf, rakam ve semboller içermelidir. 'M7*r!x9p' karmaşık ve güvenli bir şifredir."
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Tom: How do you usually access the internet?\nSue: ............... I always carry it in my pocket.",
+      "answers": [
+        "From my smartphone.",
+        "From a desktop computer.",
+        "I use a search engine.",
+        "I don't have an internet connection."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Sue internete girdiği aracı hep cebinde (in my pocket) taşıdığını söylüyor. Bu durumda akıllı telefonuyla (smartphone) erişim sağlıyordur."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "I took some beautiful photos during my holiday. I want to ............... them to my social media account so my followers can see them.",
+      "answers": [
+        "delete",
+        "upload",
+        "sign in",
+        "download"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Kendi cihazındaki fotoğrafları başkalarının görmesi için internete/sosyal medyaya aktarma işlemine 'upload' (yükleme) denir."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "If someone disturbs you or writes bad comments about you on the Internet, this is called ...............",
+      "answers": [
+        "cyberbullying",
+        "online shopping",
+        "social networking",
+        "downloading"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "İnternette birini rahatsız etmek, kötü yorumlar yazmak veya tehdit etmek siber zorbalıktır (cyberbullying)."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "A: ............... do you spend online every day?\nB: About two hours.",
+      "answers": [
+        "How often",
+        "How much time",
+        "What time",
+        "How many devices"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Cevapta 'Yaklaşık iki saat' dendiği için geçirilen süre sorulmaktadır. Doğru soru 'How much time' (Ne kadar zaman) olmalıdır."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Mary: I have an English project. I need some information about global warming.\nJane: Why don't you use a ............... to find some articles?",
+      "answers": [
+        "keyboard",
+        "search engine",
+        "comment",
+        "password"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Bilgi araştırmak ve makale bulmak için bir 'arama motoru' (search engine) kullanması tavsiye edilir."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "Which rule is BAD for Internet safety?",
+      "answers": [
+        "Be careful with what you share.",
+        "Refuse unknown friend requests.",
+        "Meet your online friends in a cafe alone.",
+        "Tell your parents if someone disturbs you."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "İnternetten tanıştığınız kişilerle tek başınıza kafede buluşmak (Meet your online friends... alone) çok tehlikeli ve kötü (BAD) bir davranıştır."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "A: What is your favorite ...............?\nB: It's Instagram. I love sharing photos and videos there.",
+      "answers": [
+        "search engine",
+        "web browser",
+        "social networking site",
+        "antivirus program"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 2,
+      "explanation": "Instagram bir arama motoru veya web tarayıcısı değil, sosyal ağ sitesidir (social networking site)."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Read the dialogue.\nJack: I am trying to sign up for this forum, but it doesn't accept my password.\nRose: ...............\nJack: It says 'It must have at least 8 characters and one symbol'.",
+      "answers": [
+        "Did you forget your username?",
+        "What does the warning say?",
+        "Do you have a connection problem?",
+        "Why do you use this forum?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Jack 'En az 8 karakter ve bir sembol içermeli diyor' diye cevap verdiğine göre, Rose ona 'Uyarı (warning) ne diyor?' diye sormuştur."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "According to a survey about Internet habits, 50% of teens use the Internet for doing homework, 30% for playing online games, and 20% for online shopping. \nWhich statement is CORRECT according to the survey?",
+      "answers": [
+        "Half of the teens use the Internet for educational purposes.",
+        "Most of the teens do online shopping.",
+        "Playing games is the most popular activity.",
+        "Nobody uses the Internet to do homework."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "%50 (Half) ödev yapmak için kullanıyor. Ödev yapmak eğitimsel bir amaçtır (educational purposes). Bu yüzden A şıkkı doğrudur."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Tom: My computer is very slow and some files are missing. What's wrong with it?\nSam: I think you clicked on an unknown link and downloaded a ...............",
+      "answers": [
+        "virus",
+        "password",
+        "search engine",
+        "social media"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Bilgisayar yavaşlıyor ve dosyalar kayboluyorsa, bilinmeyen bir linkten 'virüs' (virus) indirilmiş olma ihtimali yüksektir."
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "If you don't want to lose your important documents on your computer, you should always ............... them up.",
+      "answers": [
+        "delete",
+        "log",
+        "back",
+        "sign"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Önemli dosyaları kaybetmemek için onları yedeklemek gerekir. Yedeklemek 'back up' (veya make a backup) şeklinde kullanılır."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Parents should check their children's web ............... to see which websites they visited in the past.",
+      "answers": [
+        "history",
+        "attachment",
+        "password",
+        "connection"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Geçmişte hangi sitelere girildiğini görmek için tarayıcı geçmişine (web history) bakılır."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "Mike: I bought a flight ticket online yesterday, but I want to change the date.\nClerk: Let me check. Can you ............... your reservation number, please?\nMike: Sure, it is XY459.",
+      "answers": [
+        "delete",
+        "confirm",
+        "cancel",
+        "upload"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Bilet numarasını söyleyerek işlemi onaylaması/doğrulaması istenir. Doğrulamak/onaylamak 'confirm' demektir."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Which of the following is a disadvantage (con) of the Internet?",
+      "answers": [
+        "You can find information quickly.",
+        "You can easily keep in touch with old friends.",
+        "Your personal information can be stolen.",
+        "You can do online shopping easily."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Kişisel bilgilerin çalınabilmesi (can be stolen) internetin tehlikeli ve dezavantajlı (disadvantage/con) yönlerinden biridir."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "A: What do you mean by 'e-commerce'?\nB: It means buying or selling things on the Internet. It is also called ...............",
+      "answers": [
+        "online shopping",
+        "social networking",
+        "cyberbullying",
+        "search engine"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "İnternet üzerinden bir şeyler alıp satmak (e-ticaret/e-commerce) diğer adıyla 'online shopping' (çevrimiçi alışveriş) olarak bilinir."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Tim: I am a vlogger. I make videos about my travels and ............... them to my channel. I have over 10.000 ...............",
+      "answers": [
+        "download / connections",
+        "upload / subscribers",
+        "delete / attachments",
+        "register / browsers"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Bir vlogger çektiği videoları kanalına 'yükler' (upload) ve kanalının 'aboneleri' (subscribers) olur."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "Read the text: 'The Internet is a great tool, but it has some risks. You must be careful when you are online. For example, never share your address or phone number. Don't believe everything you read. Also, don't meet strangers you talk to online.'\n\nWhat is the MAIN IDEA of the text?",
+      "answers": [
+        "The Internet is only used for communication.",
+        "You should obey the Internet safety rules.",
+        "Meeting online friends is always a good idea.",
+        "You should share your personal information with everyone."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "The Internet",
+      "difficulty": 3,
+      "explanation": "Metin tamamen internetteki riskler ve yapılması/yapılmaması gereken güvenlik kurallarından bahsediyor. Ana fikir: 'İnternet güvenlik kurallarına uymalısın' (You should obey the Internet safety rules)."
+    }
+  ]
+}

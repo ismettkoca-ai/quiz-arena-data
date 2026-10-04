@@ -1,0 +1,425 @@
+{
+  "unit": "Mimarimizde Dini Motifler",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "Uzaktan bir şehre bakıldığında camilerin yerini belli eden, müezzinin ezan okuduğu ince, uzun ve şerefeli yapıya ne ad verilir?",
+      "answers": [
+        "Mihrap",
+        "Minare",
+        "Minber",
+        "Kubbe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Camilerin ince ve yüksek yapılarına 'Minare' denir. Eskiden hoparlör olmadığı için müezzinler minareye çıkarak seslerini tüm şehre duyururlardı."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "Dedesiyle Cuma namazına giden Kerem, caminin avlusunda çok musluklu, üzeri kubbeli bir havuz görmüş ve insanların orada namaz öncesi temizlendiğini fark etmiştir. Bu mimari yapının adı nedir?",
+      "answers": [
+        "Kürsü",
+        "Şadırvan",
+        "Külliye",
+        "Mihrap"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Cami avlularında cemaatin abdest alması için yapılmış çok musluklu su yapılarına 'Şadırvan' adı verilir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Cuma ve Bayram namazlarında imamın merdivenle çıkarak yüksekten cemaate hutbe okuduğu, tavsiyelerde bulunduğu mimari bölüme ne denir?",
+      "answers": [
+        "Minber",
+        "Mihrap",
+        "Şerefe",
+        "Alem"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "İmamın kalabalık cemaate sesini daha iyi duyurabilmek ve onları görebilmek için çıktığı merdivenli yüksek yere 'Minber' denir."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "Camilerin içini süsleyen, Arapça harflerle ve çok estetik bir şekilde yazılmış Kur'an ayetleri veya Allah'ın isimleri hangi sanat dalının örnekleridir?",
+      "answers": [
+        "Çini",
+        "Ebru",
+        "Hat Sanatı",
+        "Tezhip"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Arap harflerini belli kurallara ve estetik ölçülere bağlı kalarak güzel yazma sanatına 'Hat Sanatı' denir."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "Sultanahmet Camii'nin içi, mavi ve turkuaz renkli desenli seramiklerle kaplıdır. Camilere ferahlık veren bu fırınlanmış seramik süsleme sanatının adı nedir?",
+      "answers": [
+        "Minyatür",
+        "Çini",
+        "Ebru",
+        "Oymacılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Toprağın pişirilip sırlanmasıyla elde edilen, genellikle mavi/turkuaz tonlarda laleler ve karanfillerle süslü seramik sanatına 'Çini' denir."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "Osmanlı döneminde inşa edilen camiler sadece birer ibadethane değil; etrafında medrese (okul), şifahane (hastane), aşevi gibi yapıların da bulunduğu büyük bir merkezdi. Bu devasa tesislere ne ad verilirdi?",
+      "answers": [
+        "Külliye",
+        "Vakıf",
+        "Kervansaray",
+        "Şadırvan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Merkezinde cami olan ve toplumun eğitim, sağlık, beslenme gibi tüm ihtiyaçlarını karşılayan yapılar topluluğuna 'Külliye' denir."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "Günlük hayatımızda gelecekle ilgili bir plan yaparken, 'Allah dilerse, Allah izin verirse' anlamında kullandığımız dini ifade hangisidir?",
+      "answers": [
+        "Maşallah",
+        "Sübhanallah",
+        "İnşallah",
+        "Eyvallah"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Geleceğe dair bir şey umut ederken, her şeyin Allah'ın takdiriyle olacağına inandığımız için 'İnşallah' (Allah dilerse) deriz."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "Bir bebek gördüğümüzde veya birinin büyük bir başarısını takdir ettiğimizde, nazar değmesin diye 'Allah'ın ne güzel yarattığı, kem gözlerden korusun' anlamında hangi sözü söyleriz?",
+      "answers": [
+        "Estagfirullah",
+        "Maşallah",
+        "Bismillah",
+        "İnşallah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Güzelliklerin ve başarıların Allah'ın lütfu olduğunu hatırlamak ve kem gözlerden korunmak için 'Maşallah' denir."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Kız isteme merasimlerinde büyüklerimiz konuşmaya, 'Allah'ın emri, peygamberin kavliyle (sözüyle)...' diyerek başlarlar. Bu gelenek bize kültürümüz hakkında neyi gösterir?",
+      "answers": [
+        "Evliliklerin sadece aile arasında yapıldığını",
+        "Dini inançlarımızın örf ve adetlerimizle, en önemli kararlarımızda bile iç içe olduğunu",
+        "Peygamberimizin bu sözü zorunlu kıldığını",
+        "Evliliğin eskiden çok zor olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Evlilik gibi önemli bir dönüm noktasında Allah'ın ve peygamberin adının anılması, dinin kültürümüze ve geleneklerimize ne kadar derin işlediğini gösterir."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Mimar Sinan, camilerin ses akustiğini (sesin her yere eşit yayılmasını) sağlamak için tavanları düz yapmak yerine yarım küre şeklinde tasarlamıştır. Camilerin üstünü örten bu yarım küre yapıya ne ad verilir?",
+      "answers": [
+        "Minber",
+        "Şerefe",
+        "Kubbe",
+        "Kemer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Camilerin üzerini örten, hem estetik bir görünüm katan hem de sesin cami içinde mükemmel dağılmasını sağlayan yarım küre şeklindeki çatıya 'Kubbe' denir."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "Tarihimizde ecdadımız, gösterişten uzak bir şekilde iyilik yapmak için cami köşelerine, içleri oyuk dikili taşlar koymuştur. Zenginler parayı gece gizlice oraya bırakır, ihtiyaç sahipleri de sadece ihtiyacı kadarını oradan alırdı. Bu muazzam geleneğin adı nedir?",
+      "answers": [
+        "Zekat Sandığı",
+        "Fitre Kutusu",
+        "Sadaka Taşı",
+        "Vakıf Taşı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Alan elin veren eli görmediği, fakirin onurunun kırılmadığı bu ince Osmanlı geleneğine 'Sadaka Taşı' adı verilir."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "Kitap süsleme sanatlarının en önemlilerinden biridir. Genellikle altın tozu kullanılarak Kur'an-ı Kerim sayfalarının kenarlarının süslenmesi sanatına ne ad verilir?",
+      "answers": [
+        "Hat",
+        "Ebru",
+        "Minyatür",
+        "Tezhip"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 3,
+      "explanation": "Kelime anlamı 'altınlamak' olan Tezhip sanatı, Kur'an ayetlerine duyulan saygıdan dolayı sayfaların altın yaldızlarla süslenmesidir."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "Bir işe başlarken 'Bismillahirrahmanirrahim' deriz. Bu ifadenin kültürümüzdeki ve inancımızdaki temel karşılığı nedir?",
+      "answers": [
+        "İşin çok çabuk bitmesini istemek",
+        "O işi kendi gücümüzle yapacağımızı göstermek",
+        "Her işe Rahman ve Rahim olan Allah'ın adıyla ve O'nun yardımıyla başlamak",
+        "İnsanlardan yardım beklemek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Bismillah demek, 'Rahman ve Rahim olan Allah'ın adıyla' anlamına gelir ve Müslümanın her işinde Allah'ın desteğini ve rızasını gözetmesidir."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "Camilerde imamın namaz kıldırdığı, duvarda bulunan ve Kıble'yi (Kâbe'nin yönünü) gösteren oyuk bölüme ne ad verilir?",
+      "answers": [
+        "Mihrap",
+        "Minber",
+        "Vaaz Kürsüsü",
+        "Şerefe"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Cami duvarında yarım daire şeklinde oyuk olan, imamın cemaatin önünde namaz kıldırırken yöneldiği ve Kıble'yi gösteren yer 'Mihrap'tır."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "Türk milletinin evine gelen misafiri en iyi şekilde ağırlaması, 'Misafir bereketiyle gelir' inancı, dinimizin kültürümüze olan hangi etkisinin sonucudur?",
+      "answers": [
+        "Tanrı Misafiri inancının ve misafirperverliğin",
+        "Maddi çıkar beklemenin",
+        "Sadece akrabaları sevmenin",
+        "Çok yemek yeme alışkanlığının"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Kültürümüzde misafir 'Tanrı misafiri' kabul edilir. Onları ağırlamak ve ikramda bulunmak İslam'ın cömertlik ve misafirperverlik öğüdünün bir yansımasıdır."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Peygamberimizin doğumunu anlatan, Süleyman Çelebi tarafından yazılan ve günümüzde kandillerde, doğumlarda, cenazelerde makamla okunan ünlü edebi eserimizin adı nedir?",
+      "answers": [
+        "Mesnevi",
+        "Mevlid (Vesiletü'n-Necat)",
+        "Safahat",
+        "Divan-ı Hikmet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Süleyman Çelebi'nin yazdığı 'Vesiletü'n-Necat' (Kurtuluş Vesilesi) isimli eser halk arasında 'Mevlid' olarak bilinir ve peygamber sevgisini anlatır."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "Suyun üzerine özel boyalar damlatılarak desenler oluşturulması ve bu desenlerin kağıda geçirilmesiyle yapılan geleneksel sanatımız hangisidir?",
+      "answers": [
+        "Çini",
+        "Hat",
+        "Minyatür",
+        "Ebru"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Özel bir sıvı üzerine damlatılan boyaların şekillendirilip kağıda aktarılmasıyla yapılan 'Ebru' sanatı, sabır ve estetik gerektiren geleneksel bir sanatımızdır."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "Dinimizin edebiyatımız üzerindeki en büyük izlerinden biri de mutasavvıf (tasavvuf ehli) şairlerimizin şiirleridir. 'Sevelim sevilelim, dünya kimseye kalmaz' diyerek Allah sevgisini ve insan sevgisini dilimize işleyen ünlü halk ozanımız kimdir?",
+      "answers": [
+        "Mevlana",
+        "Yunus Emre",
+        "Hacı Bektaş Veli",
+        "Karacaoğlan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Yunus Emre, sade bir Türkçe ile yazdığı şiirlerinde ilahi aşkı (Allah sevgisini) ve hoşgörüyü edebiyatımıza en güzel kazandıran şairimizdir."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Yemek yedikten sonra, su içtikten sonra veya bir hastalıktan kurtulduğumuzda Allah'a şükrümüzü ifade etmek için kullandığımız söz hangisidir?",
+      "answers": [
+        "İnşallah",
+        "Elhamdülillah",
+        "Bismillah",
+        "Estağfirullah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Elhamdülillah, 'Bütün övgüler ve şükürler Allah'adır' anlamına gelir ve bize verilen nimetlere karşı teşekkürümüzü ifade eder."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Dini günlerde, bayramlarda ve cuma günlerinde komşuların birbirine yemek yapıp dağıtması, helva kavurması veya aşure kaynatması örfümüzdeki hangi değerle açıklanır?",
+      "answers": [
+        "Sadece maddi kazanç sağlamakla",
+        "Paylaşma, dayanışma ve komşuluk hakkını gözetmekle",
+        "Yemek israfını önlemekle",
+        "Yeni yemek tarifleri denemekle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "İslam'ın emrettiği komşuluk hakları ve cömertlik, kültürümüzde aşure ve lokma dağıtmak gibi harika paylaşma adetlerine dönüşmüştür."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "Cami mimarisinde kubbenin en tepe noktasına ve minarenin ucuna takılan, genellikle yarım ay şeklinde olan metal süslemeye ne ad verilir?",
+      "answers": [
+        "Şerefe",
+        "Alem",
+        "Mihrap",
+        "Kürsü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 3,
+      "explanation": "İslam mimarisinin sembolü olan ve kubbe ile minarelerin en üst ucunda yer alan hilal şeklindeki metal yapıya 'Alem' denir."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "Bir hata yaptığımızda veya bir günahtan pişmanlık duyduğumuzda, Allah'tan af dilemek amacıyla kullandığımız ifade hangisidir?",
+      "answers": [
+        "Estağfirullah",
+        "Maşallah",
+        "Eyvallah",
+        "Sübhanallah"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "Estağfirullah kelimesi 'Allah'ım beni affet, bağışla' anlamına gelir ve tövbe etmek için kullanılır."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "İslam tarihinde, savaşlar veya tarihi olaylar gibi önemli sahnelerin derinlik (perspektif) kurallarına uyulmadan, canlı renklerle kağıda çizildiği resim sanatına ne ad verilir?",
+      "answers": [
+        "Ebru",
+        "Çini",
+        "Minyatür",
+        "Tezhip"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 3,
+      "explanation": "Işık, gölge ve uzaklık-yakınlık (perspektif) kuralları uygulanmadan yapılan detaylı Osmanlı resim sanatına 'Minyatür' denir."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "Türk milletinin, doğan çocuklarına Muhammed, Mustafa, Ali, Ayşe, Fatma gibi isimleri çok sık koymasının temel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Başka isim bilmemeleri",
+        "Peygamberimize ve onun ailesine duydukları büyük sevgi",
+        "Bu isimlerin çok kısa olması",
+        "Kanunların böyle emretmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Çocuklara peygamberlerin, ehli beytin veya sahabelerin isimlerinin verilmesi, halkımızın onlara duyduğu derin muhabbetin (sevginin) bir sonucudur."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "Bir kişi vefat ettiğinde (öldüğünde), arkasından kötü konuşulmaz, cenazesine katılmaya özen gösterilir ve geride kalan ailesine yemek götürülür. Bu adetlerin temelinde ne yatar?",
+      "answers": [
+        "Dinin emrettiği merhamet, taziye ve dayanışma ruhu",
+        "Cenaze sahiplerinin zengin olması",
+        "Bedava yemek yeme isteği",
+        "Sadece geleneklere körü körüne bağlılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 2,
+      "explanation": "İslam dini acıların paylaşılmasını, komşunun derdiyle dertlenmeyi emreder. Taziye evine yemek götürmek bu merhametin kültürümüzdeki halidir."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "Günde beş vakit minarelerden yükselen, insanları hem namaza çağıran hem de güzel bir musiki (müzik) makamıyla ruhu dinlendiren çağrıya ne ad verilir?",
+      "answers": [
+        "Kamet",
+        "Hutbe",
+        "Ezan",
+        "Sela"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Ezan, sadece bir duyuru değil, aynı zamanda dinimizin musiki (müzik) sanatındaki estetiğini yansıtan, makamla okunan muazzam bir çağrıdır."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Camilerde imamın veya vaizin normal günlerde cemaate dini öğütler (vaaz) vermek için oturduğu, ahşaptan veya mermerden yapılan koltuk şeklindeki yüksek yapıya ne ad verilir?",
+      "answers": [
+        "Minber",
+        "Kürsü (Vaaz Kürsüsü)",
+        "Mihrap",
+        "Şerefe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 3,
+      "explanation": "Minber sadece Cuma ve Bayram hutbeleri içindir. Kürsü ise normal zamanlarda hocanın oturup sohbet (vaaz) ettiği yüksekçe yerdir."
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Karşılaştığımız insanlara 'Selamün Aleyküm' demek kültürümüzün bir parçasıdır. Bu ifadenin kelime anlamı nedir?",
+      "answers": [
+        "Nereye gidiyorsun?",
+        "Allah'ın selamı, barışı ve esenliği üzerine olsun",
+        "İşlerin nasıl gidiyor?",
+        "Allah yolunu açık etsin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Selam vermek, karşıdaki kişiye zararımız dokunmayacağını, ona barış, dua ve iyilik temenni ettiğimizi anlatan harika bir dini motiftir."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "Muharrem ayında yapılan, Nuh peygamberin gemisindeki son yiyeceklerin karıştırılmasıyla yapıldığına inanılan ve komşulara dağıtılarak kardeşliği pekiştiren tatlı hangisidir?",
+      "answers": [
+        "Güllaç",
+        "Aşure",
+        "Sütlaç",
+        "Lokma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 1,
+      "explanation": "Aşure, din tarihindeki önemli olayları hatırlatan ve içine katılan farklı malzemelerin birlikteliği gibi, farklı insanların kardeşçe yaşamasını simgeleyen bir tatlımızdır."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "Tarihi camilerimizin tavanlarında, duvarlarında ve halılarında hiçbir zaman insan veya hayvan heykelleri (putları) bulunmaz. Bunun yerine çiçek desenleri ve geometrik şekiller kullanılır. Bunun asıl sebebi nedir?",
+      "answers": [
+        "Eskiden heykel yapmayı bilen kimsenin olmaması",
+        "İslam'ın Tevhid inancının, putlaştırılabilecek her türlü figürü ibadet yerlerinden uzak tutması",
+        "Çiçeklerin daha güzel kokması",
+        "Geometrik şekillerin kolay çizilmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Mimarimizde Dini Motifler",
+      "difficulty": 3,
+      "explanation": "Tevhid (Allah'ın birliği) inancı gereği, Allah'a ortak koşulabilecek veya ibadette dikkati dağıtıp saygı duyulacak figürlerden (resim/heykel) ibadethanelerde kaçınılır."
+    }
+  ]
+}

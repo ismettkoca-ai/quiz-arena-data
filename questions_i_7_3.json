@@ -1,0 +1,425 @@
+{
+  "unit": "Biographies",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "Albert Einstein ________ born in Germany in 1879.",
+      "answers": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Einstein tekil bir kişi (He) olduğu için ve geçmişten bahsedildiği için 'was' yardımcı fiili kullanılır."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "How do you read the year '1919' in English?",
+      "answers": [
+        "Nineteen nineteen",
+        "One thousand nine nineteen",
+        "Ninety nineteen",
+        "Nineteen ninety"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "İngilizcede 2000'den önceki yıllar genellikle ikiye bölünerek okunur. 19-19 yani 'nineteen nineteen'."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "Marie Curie ________ two Nobel Prizes for her studies in physics and chemistry.",
+      "answers": [
+        "won",
+        "win",
+        "wins",
+        "winning"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Geçmişte yaşanmış ve bitmiş bir olayı anlatırken 'win' (kazanmak) fiilinin 2. hali olan 'won' kullanılır."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "Thomas Edison was a great ________. He created the electric light bulb.",
+      "answers": [
+        "inventor",
+        "author",
+        "politician",
+        "actor"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Elektrik ampulünü icat eden kişi bir mucittir ('inventor')."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Aziz Sancar ________ from Istanbul University in 1969.",
+      "answers": [
+        "graduated",
+        "raised",
+        "born",
+        "died"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Bir üniversiteden mezun olmak 'graduate' fiili ile ifade edilir, geçmiş zaman olduğu için '-d' takısı almıştır."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "İngilizcede 'Grow up' kelime grubunun geçmiş zamandaki (grew up) Türkçe anlamı nedir?",
+      "answers": [
+        "Büyüdü / Yetişti",
+        "Mezun oldu",
+        "Ödül aldı",
+        "İcat etti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "'Grow up' büyümek, yetişmek demektir. Biyografilerde kişinin çocukluğunun geçtiği yeri anlatmak için kullanılır."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "Student: Where ________ Mustafa Kemal Atatürk born?\nTeacher: In Salonika.",
+      "answers": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Doğum yeri sorulurken geçmiş zamanda tekil şahıslar için 'was' kullanılır. 'Where was he born?'"
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "He was a very successful author. He ________ many books for children.",
+      "answers": [
+        "wrote",
+        "write",
+        "written",
+        "writes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Geçmiş zamanda 'write' (yazmak) fiilinin 2. hali 'wrote' kullanılır."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "A person who writes books, novels, or poems is an ________.",
+      "answers": [
+        "author",
+        "inventor",
+        "engineer",
+        "athlete"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Kitap, roman veya şiir yazan kişiye yazar ('author' veya 'writer') denir."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Alexander Fleming ________ penicillin in 1928, and it saved millions of lives.",
+      "answers": [
+        "discovered",
+        "graduated",
+        "moved",
+        "married"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Penisilini bulmak bir keşiftir. Bu nedenle 'keşfetti' anlamında 'discovered' fiili kullanılır."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "Mozart was a musical genius. He ________ play the piano when he was only four years old.",
+      "answers": [
+        "could",
+        "can",
+        "should",
+        "must"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Geçmişteki bir yetenekten bahsedilirken 'can' kelimesinin geçmiş zaman hali olan 'could' kullanılır."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "They ________ to a big city in 1995 to find a better job.",
+      "answers": [
+        "moved",
+        "died",
+        "grew up",
+        "stayed"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Daha iyi bir iş bulmak için büyük bir şehre 'taşındılar' (moved) demek en mantıklısıdır."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "Tom: ________ did Nikola Tesla die?\nSue: In 1943.",
+      "answers": [
+        "When",
+        "Where",
+        "Who",
+        "Why"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Cevap olarak bir tarih (1943) verildiği için soru kelimesi 'Ne zaman?' (When) olmalıdır."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "She got ________ in 2010 and she had two children later.",
+      "answers": [
+        "married",
+        "graduated",
+        "born",
+        "award"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Evlenmek İngilizcede 'get married' kalıbı ile söylenir. Cümlede 'got married' olarak geçmiş zamana çekimlenmiştir."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "Which sentence is grammatically CORRECT in Simple Past Tense?",
+      "answers": [
+        "He didn't go to university.",
+        "He didn't went to university.",
+        "He wasn't go to university.",
+        "He doesn't went to university."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Geçmiş zaman olumsuz cümlelerinde 'didn't' kullanılır ve asıl fiil birinci (yalın) halinde kalır (didn't go)."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "What does 'Scholarship' mean in a biography text?",
+      "answers": [
+        "Burs",
+        "Mezuniyet",
+        "Başarı",
+        "İcat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Biyografilerde sıkça geçen 'scholarship' kelimesi, öğrencilere verilen 'burs' anlamına gelir."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Barış Manço was a famous singer in Turkey. People ________ him very much.",
+      "answers": [
+        "loved",
+        "love",
+        "loves",
+        "loving"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Geçmişten bahsedildiği için fiilin 2. hali (düzenli fiil olduğu için -d takısı alan hali) 'loved' kullanılır."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "My grandfather ________ in the army as a soldier for three years during the war.",
+      "answers": [
+        "served",
+        "raised",
+        "invented",
+        "graduated"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Orduda asker olarak görev yapmak veya hizmet etmek 'serve' fiili ile ifade edilir (served)."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Steve Jobs and Steve Wozniak ________ the company Apple in 1976.",
+      "answers": [
+        "founded",
+        "found",
+        "are finding",
+        "find"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Bir şirket, kurum veya şehir kurmak anlamındaki fiil 'found'dur ve geçmiş zamanı düzenli olduğu için 'founded' şeklindedir (Bulmak anlamındaki find - found ile karıştırılmamalıdır)."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "Jane: ________ your parents at home last night?\nSue: No, they were at the cinema.",
+      "answers": [
+        "Were",
+        "Was",
+        "Did",
+        "Are"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "'Your parents' (Anne-baban) çoğul bir özne olduğu için geçmiş zaman isim cümlesi sorusu 'Were' ile başlar."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "After his father died, he ________ an orphan and lived with his uncle.",
+      "answers": [
+        "became",
+        "become",
+        "comes",
+        "is becoming"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Yetim 'oldu' veya yetim 'kaldı' anlamında 'become' fiilinin geçmiş hali olan 'became' kullanılır."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "He had a brilliant mind and ________ many mathematical problems easily.",
+      "answers": [
+        "solved",
+        "watched",
+        "played",
+        "listened"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Matematik problemlerini 'çözdü' anlamında 'solved' fiili kullanılmalıdır."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Which verb is IRREGULAR (düzensiz) in Simple Past Tense?",
+      "answers": [
+        "Go (went)",
+        "Play (played)",
+        "Watch (watched)",
+        "Listen (listened)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "'Go' fiili geçmiş zamanda '-ed' takısı almak yerine tamamen değişerek 'went' olur, bu yüzden düzensiz (irregular) bir fiildir."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "Atatürk ________ the Republic of Turkey on October 29, 1923.",
+      "answers": [
+        "founded",
+        "invented",
+        "graduated",
+        "moved"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Türkiye Cumhuriyeti'ni 'kurdu' demek için 'founded' fiili kullanılır."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "İngilizcede 'Success' kelimesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Başarı",
+        "Ödül",
+        "Burs",
+        "Mezuniyet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "'Success' kelimesi biyografilerde çok geçen ve 'başarı' anlamına gelen bir isimdir."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Look at the sentence: 'She won a gold medal in 2012.' What is the question for this sentence?",
+      "answers": [
+        "What did she win in 2012?",
+        "Where did she win the medal?",
+        "Who won the medal?",
+        "When did she go to the Olympics?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Cümle '2012'de altın madalya kazandı' diyor. Altın madalyayı (nesneyi) soran soru '2012'de ne kazandı?' (What did she win...) olmalıdır."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Isaac Newton is famous for discovering the law of ________ after an apple fell on his head.",
+      "answers": [
+        "gravity",
+        "electricity",
+        "medicine",
+        "chemistry"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Isaac Newton'un kafasına elma düştükten sonra bulduğu yasa yerçekimi (gravity) kanunudur."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "She ________ a terrible illness when she was fifty, and died a year later.",
+      "answers": [
+        "caught",
+        "catch",
+        "catches",
+        "is catching"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 3,
+      "explanation": "Hastalığa yakalanmak 'catch an illness' kalıbıdır. Geçmiş zamanda 'catch' düzensiz bir fiil olduğu için 'caught' olur."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Read the text: 'He was raised in a small village by his grandmother.' Who raised him?",
+      "answers": [
+        "His grandmother",
+        "His parents",
+        "A small village",
+        "An orphanage"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 2,
+      "explanation": "Metinde onun büyükannesi tarafından (by his grandmother) yetiştirildiği / büyütüldüğü belirtilmektedir."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "İngilizcede bir kişinin hayat hikayesini anlatan metinlere ne ad verilir?",
+      "answers": [
+        "Biography",
+        "Dictionary",
+        "Geography",
+        "Poetry"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Biographies",
+      "difficulty": 1,
+      "explanation": "Bir kişinin yaşamöyküsünü anlatan metinlere Biyografi (Biography) denir."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Dreams",
+  "questions": [
+    {
+      "id": "Q_7_7_001",
+      "questionText": "I hope I will ________ from a good university and become a successful doctor.",
+      "answers": [
+        "graduate",
+        "retire",
+        "marry",
+        "move"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Bir üniversiteden 'mezun olmak' için 'graduate' fiili kullanılır."
+    },
+    {
+      "id": "Q_7_7_002",
+      "questionText": "When making a prediction about the future, which auxiliary verb do we use?",
+      "answers": [
+        "Will",
+        "Did",
+        "Was",
+        "Do"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Gelecek hakkında tahmin (prediction) yaparken 'will' yardımcı fiili kullanılır."
+    },
+    {
+      "id": "Q_7_7_003",
+      "questionText": "Tom: Do you have any plans for the future?\nSue: I hope I will ________ the world and see different countries.",
+      "answers": [
+        "travel",
+        "buy",
+        "sell",
+        "invent"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Farklı ülkeler görmek için dünyayı 'gezmek / seyahat etmek' (travel) gerekir."
+    },
+    {
+      "id": "Q_7_7_004",
+      "questionText": "I believe we ________ have flying cars in 10 years because technology is growing very fast.",
+      "answers": [
+        "will",
+        "won't",
+        "did",
+        "doesn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Teknolojinin hızla geliştiği söylendiği için olumlu bir beklenti olan 'will' kullanılmalıdır."
+    },
+    {
+      "id": "Q_7_7_005",
+      "questionText": "My biggest dream is to ________ my own business and be a boss.",
+      "answers": [
+        "run",
+        "draw",
+        "catch",
+        "play"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Kendi işini kurmak/yönetmek İngilizcede 'run your own business' kalıbı ile ifade edilir."
+    },
+    {
+      "id": "Q_7_7_006",
+      "questionText": "İngilizcede 'Excellent' kelimesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Harika / Mükemmel",
+        "Sıkıcı",
+        "Korkunç",
+        "Zor"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "'Excellent' kelimesi mükemmel, harika anlamlarına gelen olumlu bir sıfattır."
+    },
+    {
+      "id": "Q_7_7_007",
+      "questionText": "I don't like living in a noisy city. I will probably live in a ________ and quiet village in the future.",
+      "answers": [
+        "peaceful",
+        "crowded",
+        "polluted",
+        "dirty"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Gürültülü şehri sevmeyen biri, huzurlu ('peaceful') ve sessiz bir köyde yaşamak ister."
+    },
+    {
+      "id": "Q_7_7_008",
+      "questionText": "I hope scientists will find a ________ for all bad diseases soon.",
+      "answers": [
+        "cure",
+        "problem",
+        "trick",
+        "prize"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Bilim insanlarının kötü hastalıklar için bir tedavi / çare ('cure') bulması umut edilir."
+    },
+    {
+      "id": "Q_7_7_009",
+      "questionText": "She studies very hard because she wants to have a successful ________ as an engineer.",
+      "answers": [
+        "career",
+        "holiday",
+        "mistake",
+        "ticket"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Bir mühendis olarak başarılı bir kariyere ('career') sahip olmak için çok çalışılır."
+    },
+    {
+      "id": "Q_7_7_010",
+      "questionText": "Alex: Will people live on Mars in 2050?\nDavid: No, they ________. It is impossible.",
+      "answers": [
+        "won't",
+        "will",
+        "don't",
+        "didn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "'Will' sorusuna olumsuz yanıt verilirken ve imkansız olduğu vurgulanırken 'won't' kullanılır."
+    },
+    {
+      "id": "Q_7_7_011",
+      "questionText": "Which word means 'kesinlikle' in English?",
+      "answers": [
+        "Definitely",
+        "Probably",
+        "Maybe",
+        "I guess"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "'Definitely' kelimesi kesinlikle demektir (Probably: Muhtemelen, Maybe: Belki)."
+    },
+    {
+      "id": "Q_7_7_012",
+      "questionText": "I love animals very much. When I get my own house, I will ________ a pet dog.",
+      "answers": [
+        "adopt",
+        "invent",
+        "graduate",
+        "retire"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Kendi evine geçince bir köpek sahiplenmek isteyen biri 'adopt' (sahiplenmek) fiilini kullanır."
+    },
+    {
+      "id": "Q_7_7_013",
+      "questionText": "Our planet is in danger. If we don't protect it, we ________ have a clean environment in the future.",
+      "answers": [
+        "won't",
+        "will",
+        "do",
+        "did"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Doğayı korumazsak, gelecekte temiz bir çevremiz 'olmayacak'tır (won't)."
+    },
+    {
+      "id": "Q_7_7_014",
+      "questionText": "My sister is getting ________ next month. We are preparing for a big wedding ceremony.",
+      "answers": [
+        "married",
+        "graduated",
+        "tired",
+        "rich"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Büyük bir düğün töreni hazırlığı varsa kız kardeşi evleniyordur ('getting married')."
+    },
+    {
+      "id": "Q_7_7_015",
+      "questionText": "I'm sure she will ________ success in her exams because she is studying day and night.",
+      "answers": [
+        "achieve",
+        "lose",
+        "miss",
+        "forget"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Gece gündüz çalışan biri sınavlarda başarı elde edecektir ('achieve success')."
+    },
+    {
+      "id": "Q_7_7_016",
+      "questionText": "What does 'I guess' mean in a conversation?",
+      "answers": [
+        "Sanırım / Tahmin ediyorum ki",
+        "Kesinlikle biliyorum",
+        "Asla yapmam",
+        "Kabul ediyorum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "'I guess' ifadesi bir konuda kesin olmayan fikrini belirtirken 'Sanırım' anlamında kullanılır."
+    },
+    {
+      "id": "Q_7_7_017",
+      "questionText": "He is a very talented actor. I believe he will receive an ________ for his new movie.",
+      "answers": [
+        "award",
+        "excuse",
+        "invitation",
+        "accident"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Yetenekli bir oyuncunun yeni filmi için bir ödül ('award') alması beklenir."
+    },
+    {
+      "id": "Q_7_7_018",
+      "questionText": "My biggest ________ is to fly in space and see the Earth from above.",
+      "answers": [
+        "dream",
+        "problem",
+        "mistake",
+        "rule"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Uzayda uçmak ve dünyayı yukarıdan görmek en büyük hayaldir ('dream')."
+    },
+    {
+      "id": "Q_7_7_019",
+      "questionText": "I want to improve my English, so I will probably go ________ for a language course next year.",
+      "answers": [
+        "abroad",
+        "nowhere",
+        "inside",
+        "backward"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "İngilizcesini geliştirmek isteyen biri dil kursu için muhtemelen yurt dışına ('abroad') gidecektir."
+    },
+    {
+      "id": "Q_7_7_020",
+      "questionText": "If you study hard, you will ________ pass the math exam easily. I am 100% sure.",
+      "answers": [
+        "definitely",
+        "maybe",
+        "never",
+        "rarely"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Yüzde yüz emin olunan durumlarda 'kesinlikle' anlamında 'definitely' kelimesi kullanılır."
+    },
+    {
+      "id": "Q_7_7_021",
+      "questionText": "Which time expression refers to the FUTURE?",
+      "answers": [
+        "Next year",
+        "Yesterday",
+        "Two days ago",
+        "Last month"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Gelecek zamanı ifade eden zaman zarfı 'Gelecek yıl' anlamına gelen 'Next year'dır."
+    },
+    {
+      "id": "Q_7_7_022",
+      "questionText": "Jane: What are your expectations for the future?\nMark: I ________ we will stop wars and live in peace.",
+      "answers": [
+        "hope",
+        "forget",
+        "refuse",
+        "hate"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Savaşların bitmesi ve barış içinde yaşamak olumlu bir beklentidir. Bu yüzden 'Umarım' (I hope) ile ifade edilir."
+    },
+    {
+      "id": "Q_7_7_023",
+      "questionText": "After graduation, I will ________ some money to buy a new car.",
+      "answers": [
+        "earn / save",
+        "spend",
+        "lose",
+        "waste"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Yeni bir araba almak için para kazanmak (earn) ve biriktirmek (save) gerekir."
+    },
+    {
+      "id": "Q_7_7_024",
+      "questionText": "Some people believe in superstitions. For example, they think a four-leaf clover brings ________.",
+      "answers": [
+        "good luck",
+        "bad luck",
+        "sadness",
+        "illness"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 3,
+      "explanation": "Batıl inançlara göre dört yapraklı yonca iyi şans ('good luck') getirir."
+    },
+    {
+      "id": "Q_7_7_025",
+      "questionText": "I don't want to live in a flat. In the future, I will ________ a house with a big garden.",
+      "answers": [
+        "buy",
+        "sell",
+        "destroy",
+        "break"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "Apartman dairesinde yaşamak istemeyen biri, ileride büyük bahçeli bir ev satın almak (buy) isteyecektir."
+    },
+    {
+      "id": "Q_7_7_026",
+      "questionText": "İngilizcede 'Probably' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Muhtemelen",
+        "Kesinlikle",
+        "Hiçbir zaman",
+        "Her zaman"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 1,
+      "explanation": "'Probably' kelimesi kesin olmayan tahminlerde 'muhtemelen' veya 'galiba' anlamında kullanılır."
+    },
+    {
+      "id": "Q_7_7_027",
+      "questionText": "You look very tired. You should ________ a rest.",
+      "answers": [
+        "take",
+        "make",
+        "do",
+        "play"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "İngilizcede dinlenmek 'take a rest' veya 'have a rest' kalıbı ile söylenir."
+    },
+    {
+      "id": "Q_7_7_028",
+      "questionText": "To have a ________ life, people should respect each other and protect nature.",
+      "answers": [
+        "peaceful",
+        "crowded",
+        "dangerous",
+        "noisy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "İnsanların birbirine saygı duyduğu ve doğayı koruduğu bir hayat huzurludur ('peaceful')."
+    },
+    {
+      "id": "Q_7_7_029",
+      "questionText": "I don't know exactly what I will do this weekend. ________ I will visit my grandparents.",
+      "answers": [
+        "Maybe",
+        "Definitely",
+        "Always",
+        "Never"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Ne yapacağını tam olarak bilmiyorsa, büyükannelerini ziyaret etmesi bir olasılıktır ('Maybe' - Belki)."
+    },
+    {
+      "id": "Q_7_7_030",
+      "questionText": "I believe you will ________ an excellent job because you are very hardworking.",
+      "answers": [
+        "do",
+        "make",
+        "lose",
+        "miss"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dreams",
+      "difficulty": 2,
+      "explanation": "Harika bir iş / meslek yapmak veya iyi bir iş çıkarmak 'do a job' kalıbı ile ifade edilir."
+    }
+  ]
+}

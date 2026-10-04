@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 2",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Payı paydasından küçük olan kesirlere ne ad verilir?",
+      "answers": [
+        "Bileşik Kesir",
+        "Tam Sayılı Kesir",
+        "Basit Kesir",
+        "Denk Kesir"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Değeri 1 bütün'den küçük olan ve payı paydasından küçük olan kesirlere basit kesir denir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "18 / 5 kesrinin tam sayılı kesir olarak gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "3 tam 1/5",
+        "3 tam 3/5",
+        "4 tam 2/5",
+        "5 tam 3/18"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "18'i 5'e böldüğümüzde bölüm 3, kalan 3 olur. Bu nedenle kesir 3 tam 3/5 olarak yazılır."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "4 tam 2/7 tam sayılı kesrinin bileşik kesir olarak gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "13/7",
+        "15/7",
+        "28/7",
+        "30/7"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Payda ile tam kısım çarpılır ve pay eklenir: (4 · 7) + 2 = 28 + 2 = 30. Payda aynen yazılır: 30/7."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Aşağıdaki kesirlerden hangisi 3/4 kesrine denk DEĞİLDİR?",
+      "answers": [
+        "6/8",
+        "9/12",
+        "12/15",
+        "15/20"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "3/4 kesrini genişlettiğimizde: 2 ile 6/8, 3 ile 9/12, 5 ile 15/20 elde ederiz. 12/15 ise sadeleştiğinde 4/5 kesrine denktir."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "24 / 36 kesrinin en sade hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Her iki sayı da en büyük ortak bölenleri olan 12'ye bölünerek sadeleştirilir: 24 / 12 = 2 ve 36 / 12 = 3. En sade hali 2/3'tür."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "1/2, 3/4, 5/8 kesirlerinin büyükten küçüğe doğru sıralanışı aşağıdakilerden hangisidir?",
+      "answers": [
+        "3/4 > 5/8 > 1/2",
+        "3/4 > 1/2 > 5/8",
+        "5/8 > 3/4 > 1/2",
+        "1/2 > 5/8 > 3/4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paydaları 8'de eşitlersek: 1/2 = 4/8, 3/4 = 6/8, 5/8 = 5/8. Payı büyük olan daha büyüktür: 6/8 > 5/8 > 4/8, yani 3/4 > 5/8 > 1/2."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "120 sayısının 3/5'i kaçtır?",
+      "answers": [
+        "24",
+        "48",
+        "72",
+        "96"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Bir çokluğun kesir kadarı bulunurken sayı paydaya bölünür, pay ile çarpılır: 120 / 5 = 24. 24 · 3 = 72."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "2/7'si 14 olan sayının tamamı kaçtır?",
+      "answers": [
+        "28",
+        "35",
+        "49",
+        "98"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Kesir kadarı verilen sayının tamamını bulmak için sayı paya bölünür, payda ile çarpılır: 14 / 2 = 7. 7 · 7 = 49."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "45 kişilik bir sınıfın 3/5'i erkektir. Bu sınıfta kaç kız öğrenci vardır?",
+      "answers": [
+        "15",
+        "18",
+        "24",
+        "27"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Erkek öğrenci sayısı: 45 / 5 = 9, 9 · 3 = 27'dir. Kız öğrenci sayısı = Sınıf mevcudu - Erkekler = 45 - 27 = 18'dir."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "17 / 4 kesri sayı doğrusunda hangi iki ardışık doğal sayı arasında yer alır?",
+      "answers": [
+        "3 ile 4",
+        "4 ile 5",
+        "5 ile 6",
+        "17 ile 18"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "17/4 kesrini tam sayılı kesre çevirdiğimizde 4 tam 1/4 elde ederiz. Bu sayı 4'ten büyük, 5'ten küçüktür. Yani 4 ile 5 arasındadır."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "0,7 ondalık gösteriminin kesir olarak en sade hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "7/100",
+        "7/10",
+        "10/7",
+        "1/7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Virgülden sonra 1 basamak olduğu için payda 10 olur. Sayı 7/10 şeklinde yazılır ve en sade halindedir."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "3/4 kesrinin ondalık gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "0,34",
+        "0,43",
+        "0,75",
+        "3,4"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Ondalık gösterim yazmak için paydayı 100 yapmalıyız. Kesri 25 ile genişletirsek 75/100 elde ederiz. Bu da 0,75 olarak yazılır."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "12,045 ondalık gösteriminin okunuşu aşağıdakilerden hangisidir?",
+      "answers": [
+        "On iki tam yüzde kırk beş",
+        "On iki tam binde kırk beş",
+        "On iki tam onda kırk beş",
+        "Yüz yirmi tam binde kırk beş"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Virgülden önceki kısım 'on iki tam' olarak okunur. Virgülden sonra 3 basamak olduğu için 'binde' ifadesi kullanılır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Aşağıdaki ondalık gösterimlerden hangisi en büyüktür?",
+      "answers": [
+        "2,15",
+        "2,08",
+        "2,1",
+        "2,099"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Basamak sayılarını eşitlemek için sonlarına sıfır ekleyelim: 2,150 | 2,080 | 2,100 | 2,099. Ondalık kısımlara bakıldığında 150 en büyüktür."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Sayı doğrusunda 0 ile 1 arası 5 eş parçaya bölünmüştür. Buna göre 0'dan sonraki 3. noktaya karşılık gelen ondalık gösterim kaçtır?",
+      "answers": [
+        "0,3",
+        "0,5",
+        "0,6",
+        "0,8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Beş eş parçaya bölündüğü için her bir parça 1/5'i ifade eder. 3. nokta 3/5 kesridir. 2 ile genişletirsek 6/10 olur. Bu da 0,6'dır."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "Bir ondalık gösterimde 3 yüzlük, 5 birlik, 4 onda birlik ve 7 binde birlik bulunmaktadır. Bu sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "35,407",
+        "305,47",
+        "305,407",
+        "350,047"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yüzler basamağı: 3, Onlar: 0, Birler: 5 (Tam kısım: 305). Onda birler: 4, Yüzde birler: 0, Binde birler: 7 (Ondalık kısım: 407). Sayı: 305,407 olur."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "8 / 25 kesrinin yüzde (%) sembolü ile gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "%8",
+        "%25",
+        "%32",
+        "%40"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Yüzde olarak göstermek için paydayı 100 yapmalıyız. Kesri 4 ile genişletirsek: 32/100 elde ederiz. Bu da %32'dir."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "0,4 ondalık gösteriminin yüzde (%) sembolü ile ifadesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "%4",
+        "%14",
+        "%40",
+        "%44"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "0,4 gösterimi 4/10 kesrine eşittir. Paydayı 100 yapmak için 10 ile genişletiriz: 40/100 olur. Bu da %40'a eşittir."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "Ahmet parasının %25'i ile kitap, %40'ı ile kırtasiye malzemesi almıştır. Ahmet'in geriye parasının yüzde kaçı kalmıştır?",
+      "answers": [
+        "%35",
+        "%45",
+        "%65",
+        "%75"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Harcadığı oran: %25 + %40 = %65. Tamamı %100'dür. Kalan para: %100 - %65 = %35."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "200 sayısının %30'u kaçtır?",
+      "answers": [
+        "30",
+        "50",
+        "60",
+        "70"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "200 sayısının %30'unu bulmak için sayıyı 100'e bölüp 30 ile çarparız. (200 / 100) = 2. 2 · 30 = 60."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Bir mağazada 80 TL olan bir tişörte %25 indirim yapılmıştır. Tişörtün indirimli yeni fiyatı kaç TL'dir?",
+      "answers": [
+        "20",
+        "55",
+        "60",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "%25 indirim, fiyatın dörtte biri (1/4) demektir. 80 / 4 = 20 TL indirim yapılır. Yeni fiyat: 80 - 20 = 60 TL olur."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "Bir yarışta Efe parkuru 12,35 saniyede, Can 12,04 saniyede, Ali 12,41 saniyede ve Mete 12,3 saniyede tamamlamıştır. Buna göre yarışı 1. sırada (en hızlı) bitiren kimdir?",
+      "answers": [
+        "Efe",
+        "Can",
+        "Ali",
+        "Mete"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Koşu yarışlarında süresi en kısa olan kişi en hızlıdır. Süreleri karşılaştıralım: 12,04 < 12,30 < 12,35 < 12,41. En kısa süre Can'a aittir."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "M / 6 kesri basit bir kesir, N / 4 kesri ise bileşik bir kesirdir. M ve N doğal sayı olduğuna göre M'nin alabileceği en büyük değer ile N'nin alabileceği en küçük değerin toplamı kaçtır?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Basit kesirde pay paydadan küçük olmalıdır (M < 6). M'nin en büyük değeri 5'tir. Bileşik kesirde pay paydaya eşit veya büyük olmalıdır (N ≥ 4). N'nin en küçük değeri 4'tür. 5 + 4 = 9."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Aşağıdaki çokluklardan hangisi diğerlerinden DAHA BÜYÜKTÜR?",
+      "answers": [
+        "1/4",
+        "0,3",
+        "%20",
+        "2/5"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Hepsini yüzde olarak yazalım: 1/4 = %25, 0,3 = %30, %20 = %20, 2/5 = %40. En büyük oran %40 ile 2/5 kesridir."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Bir çiftlikteki hayvanların 4/9'u inek, 1/3'ü koyun, geri kalanları ise tavuktur. Bu çiftlikte hayvanların kaçta kaçı tavuktur?",
+      "answers": [
+        "2/9",
+        "3/9",
+        "4/9",
+        "5/9"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Koyunların kesrini genişletelim: 1/3 = 3/9. İnek + Koyun = 4/9 + 3/9 = 7/9. Tamamı 9/9'dur. Tavuklar = 9/9 - 7/9 = 2/9."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "100 TL parası olan Zeynep, parasının %40'ı ile çanta, kalan parasının 1/2'si ile kitap almıştır. Zeynep'in geriye kaç TL'si kalmıştır?",
+      "answers": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Çanta = 100'ün %40'ı = 40 TL. Kalan para = 100 - 40 = 60 TL. Kitap = Kalan parasının 1/2'si = 60 / 2 = 30 TL. Geriye kalan parası: 60 - 30 = 30 TL."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Bir sınıftaki öğrencilerin %60'ı matematik kursuna gitmektedir. Kursa gitmeyen 12 öğrenci olduğuna göre sınıf mevcudu kaçtır?",
+      "answers": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Kursa gitmeyenlerin yüzdesi: %100 - %60 = %40'tır. Sınıfın %40'ı 12 kişi ise, %10'u 3 kişidir. Sınıfın tamamı (%100) = 10 · 3 = 30 kişidir."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "3 tam 1/2 + 1 tam 1/4 işleminin sonucu kaçtır?",
+      "answers": [
+        "4 tam 1/4",
+        "4 tam 3/4",
+        "5",
+        "5 tam 1/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paydaları eşitlersek: 3 tam 2/4 + 1 tam 1/4 = 4 tam 3/4 olur."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Bir sayının %20'si, aynı sayının kaçta kaçına (kesir olarak) eşittir?",
+      "answers": [
+        "1/4",
+        "1/5",
+        "2/5",
+        "1/10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "%20 ifadesi 20/100 kesrine eşittir. Her iki tarafı 20'ye böldüğümüzde en sade hali 1/5 olur."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "5/8 kesrini ondalık olarak yazmak için pay ve paydayı hangi sayı ile genişletmek gerekir?",
+      "answers": [
+        "5",
+        "25",
+        "125",
+        "250"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Ondalık yazabilmek için paydanın 10, 100 veya 1000 olması gerekir. 8 sayısı 125 ile çarpıldığında 1000 olur."
+    }
+  ]
+}

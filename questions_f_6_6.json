@@ -1,0 +1,425 @@
+{
+  "unit": "Elektriğin İletimi ve Direnç",
+  "questions": [
+    {
+      "id": "Q_6_6_001",
+      "questionText": "Elektrik enerjisinin üzerinden kolayca geçmesine (akmasına) izin veren maddelere genel olarak ne ad verilir?",
+      "answers": [
+        "Yalıtkan madde",
+        "İletken madde",
+        "Dirençli madde",
+        "Saydam madde"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Elektrik akımını üzerinden kolayca ileten, bir noktadan diğerine taşıyan maddelere 'İletken Madde' denir."
+    },
+    {
+      "id": "Q_6_6_002",
+      "questionText": "Elektrik enerjisinin üzerinden geçmesine engel olan, akıma izin vermeyen maddelere ne ad verilir?",
+      "answers": [
+        "İletken madde",
+        "Opak madde",
+        "Yalıtkan madde",
+        "Metal madde"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Elektrik akımının geçişini durduran, iletilmesini engelleyen maddelere 'Yalıtkan Madde' denir."
+    },
+    {
+      "id": "Q_6_6_003",
+      "questionText": "Aşağıdaki katı maddelerden hangisi elektrik enerjisini ileten (İletken) bir maddedir?",
+      "answers": [
+        "Plastik tarak",
+        "Porselen fincan",
+        "Bakır tel",
+        "Kuru tahta"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Plastik, porselen ve kuru tahta yalıtkandır. Altın, gümüş, bakır ve demir gibi metaller ise çok iyi birer katı iletkendir."
+    },
+    {
+      "id": "Q_6_6_004",
+      "questionText": "Aşağıdaki katı maddelerden hangisi elektriği iletmeyen (Yalıtkan) bir maddedir?",
+      "answers": [
+        "Cam bardak",
+        "Gümüş yüzük",
+        "Alüminyum folyo",
+        "Demir çivi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Gümüş, alüminyum ve demir metaldir ve elektriği iletir. Cam ise plastik ve tahta gibi yalıtkan (elektriği geçirmeyen) bir maddedir."
+    },
+    {
+      "id": "Q_6_6_005",
+      "questionText": "Elektrik prizlerinin, fişlerin ve kabloların dış kısmının plastik veya kauçuk gibi maddelerle kaplanmasının temel amacı nedir?",
+      "answers": [
+        "Kabloların daha esnek olmasını sağlamak",
+        "Plastiğin yalıtkan olması sayesinde elektrik akımının vücudumuza geçmesini (elektrik çarpmasını) engellemek",
+        "Elektrik akımını daha da hızlandırmak",
+        "Prizlerin daha güzel görünmesini sağlamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Kabloların içi elektriği taşımak için iletkendir (bakır), dışı ise bize zarar vermesini önlemek (izolasyon sağlamak) için yalıtkandır (plastik)."
+    },
+    {
+      "id": "Q_6_6_006",
+      "questionText": "Sıvı maddeler de iletken veya yalıtkan olabilir. Aşağıdaki sıvılardan hangisi elektriği ileten 'İletken' bir sıvıdır?",
+      "answers": [
+        "Saf su",
+        "Şekerli su",
+        "Zeytinyağı",
+        "Limonlu su"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "İçinde asit, baz veya tuz çözünmüş sıvılar iletkendir. Limonlu su, sirkeli su ve tuzlu su elektriği iletir."
+    },
+    {
+      "id": "Q_6_6_007",
+      "questionText": "Aşağıdaki sıvılardan hangisi elektrik akımını kesinlikle geçirmez (Yalıtkan sıvıdır)?",
+      "answers": [
+        "Tuzlu su",
+        "Saf su",
+        "Çeşme suyu",
+        "Ter"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "İçindeki tüm minerallerden arındırılmış (kaynatılıp buharı yoğunlaştırılmış) 'Saf Su', şekerli su ve yağ elektriği iletmez (yalıtkandır)."
+    },
+    {
+      "id": "Q_6_6_008",
+      "questionText": "Ellerimiz tamamen ıslakken elektrik düğmelerine dokunmanın veya fiş çekmenin ölümcül olabilmesinin bilimsel nedeni nedir?",
+      "answers": [
+        "Düğmelerin plastikten yapılması",
+        "Sadece sıcak suların elektriği çekmesi",
+        "Çeşme suyunun (ıslaklığın) 'iletken' olması ve elektriği doğrudan insan vücuduna aktarması",
+        "Plastiğin elektriği iletmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Günlük hayatta kullandığımız musluk suyu (çeşme suyu) içinde mineraller barındırdığı için çok iyi bir iletkendir. Islak eller, yalıtkan plastiğin koruma özelliğini yok eder."
+    },
+    {
+      "id": "Q_6_6_009",
+      "questionText": "İnsan vücudunun elektrik akımına karşı durumu için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Tamamen yalıtkandır.",
+        "Sadece kemiklerimiz elektriği iletir.",
+        "Vücudumuzun büyük bir kısmı su ve minerallerden oluştuğu için insan vücudu 'İletken'dir.",
+        "Sadece hastalandığımızda elektriği iletiriz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "İnsan vücudunun yaklaşık %70'i sudur. Ter ve kanda bulunan mineraller (tuzlar) sayesinde insan vücudu iyi bir elektrik iletkenidir."
+    },
+    {
+      "id": "Q_6_6_010",
+      "questionText": "Gazlar normal şartlarda yalıtkandır (Örneğin hava elektriği iletmez, iletseydi prizdeki elektrik havadan bize çarpardı). Ancak gazlar yüksek enerjide 'iletken' hale geçebilirler. Doğada bu duruma en iyi örnek hangisidir?",
+      "answers": [
+        "Yağmurun yağması",
+        "Şimşek ve Yıldırım olayları",
+        "Rüzgarın esmesi",
+        "Gökkuşağının çıkması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Yıldırım ve şimşek sırasında bulutlardaki devasa elektrik enerjisi, normalde yalıtkan olan havayı bir anlığına iyonlaştırıp 'iletken' yapar ve elektrik toprağa akar."
+    },
+    {
+      "id": "Q_6_6_011",
+      "questionText": "Maddelerin elektrik enerjisinin geçişine (akımına) karşı gösterdiği zorluğa (engele) ne ad verilir?",
+      "answers": [
+        "Ağırlık",
+        "Elektriksel Direnç",
+        "İletkenlik",
+        "Yoğunluk"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Elektrik akımı maddelerin içinden geçerken atomlara çarpar ve zorlanır. Akımın ilerlemesini yavaşlatan bu zorluğa 'Direnç' denir."
+    },
+    {
+      "id": "Q_6_6_012",
+      "questionText": "Elektriksel direnci ölçmek için kullanılan aletin ve direncin fiziksel biriminin adı hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Dinamometre - Newton",
+        "Voltmetre - Amper",
+        "Dirençölçer (Ohmmetre) - Ohm (Ω)",
+        "Termometre - Selsius"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 1,
+      "explanation": "Direnç, Alman fizikçi Georg Ohm'un anısına Ohm (Ω) birimiyle ifade edilir ve Ohmmetre adı verilen cihazla ölçülür."
+    },
+    {
+      "id": "Q_6_6_013",
+      "questionText": "İletken ve Yalıtkan maddelerin 'Elektriksel Dirençleri' karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "İletkenlerin direnci çok yüksektir, yalıtkanların direnci sıfırdır.",
+        "Yalıtkan maddelerin elektriksel direnci o kadar büyüktür ki (çok yüksektir), elektrik akımının geçişine hiç izin vermezler.",
+        "İkisinin de direnci aynıdır.",
+        "Direnç sadece sıvılarda bulunur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Direnç zorluk demektir. Yalıtkanlarda zorluk (direnç) o kadar fazladır ki elektrik asla geçemez. İletkenlerde ise direnç çok düşüktür, elektrik kolayca akar."
+    },
+    {
+      "id": "Q_6_6_014",
+      "questionText": "İletken bir telin elektriksel direnci hangi 3 özelliğe bağlı olarak değişir?",
+      "answers": [
+        "Telin rengi, kokusu, kütlesi",
+        "Telin markası, sıcaklığı, yaşı",
+        "Telin dik kesit alanı (kalınlığı), uzunluğu ve yapıldığı maddenin cinsi",
+        "Telin ağırlığı, hacmi ve parlaklığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Telin direnci (elektriğe göstereceği zorluk); telin boyuna, ne kadar ince/kalın olduğuna ve hangi maddeden (bakır, demir, altın vb.) üretildiğine bağlıdır."
+    },
+    {
+      "id": "Q_6_6_015",
+      "questionText": "Kalınlıkları ve yapıldıkları maddeler aynı olan iki telden biri 10 metre, diğeri 50 metre uzunluğundadır. Bu tellerin dirençleri için ne söylenebilir?",
+      "answers": [
+        "10 metrelik telin direnci daha büyüktür.",
+        "İkisinin de direnci eşittir.",
+        "50 metrelik (uzun olan) telin direnci daha büyüktür.",
+        "Kısa tel elektriği hiç geçirmez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Elektrik teli bir tünel gibidir. Tünel (uzunluk) ne kadar uzarsa, akımın geçeceği zorlu yol (direnç) da o kadar artar."
+    },
+    {
+      "id": "Q_6_6_016",
+      "questionText": "Uzunlukları ve yapıldıkları maddeler aynı olan iki bakır telden biri çok ince, diğeri çok kalındır. İnce telin direnci mi, kalın telin direnci mi daha büyüktür?",
+      "answers": [
+        "İkisinin de direnci eşittir.",
+        "Kalın telin direnci daha büyüktür.",
+        "İnce telin (dik kesit alanı küçük olanın) direnci daha büyüktür.",
+        "Kalınlık direnci etkilemez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Kabloyu su borusu gibi düşünün. Boru daraldıkça (ince tel) suyun geçişi zorlaşır. Boru genişledikçe (kalın tel) rahat akar. Bu yüzden ince telde zorluk (direnç) çok daha büyüktür."
+    },
+    {
+      "id": "Q_6_6_017",
+      "questionText": "Basit bir elektrik devresinde, ampulün 'en parlak' yanmasını isteyen bir öğrenci, devreye bağlayacağı iletken teli nasıl seçmelidir?",
+      "answers": [
+        "En uzun ve en ince teli seçmelidir.",
+        "En kısa ve en kalın teli seçmelidir.",
+        "Kısa ve ince teli seçmelidir.",
+        "Uzun ve kalın teli seçmelidir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Parlaklığın artması için devredeki direncin 'en az' olması gerekir. Direnci en aza indirmek için yolun en kısa ve geçişin en rahat (kalın) olduğu 'Kısa ve Kalın' tel seçilmelidir."
+    },
+    {
+      "id": "Q_6_6_018",
+      "questionText": "Ampulün içinde ışık yaymasını sağlayan 'filaman' adı verilen telin özellikleri nasıldır?",
+      "answers": [
+        "Çok kısa ve çok kalın bir teldir.",
+        "Düz, kalın ve yalıtkan bir teldir.",
+        "Çok ince, uzun ve kıvrımlı (sarmal) yapıya sahip bir teldir.",
+        "Altından yapılmış kısa bir teldir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Ampulün içindeki tel, elektrik geçişini zorlaştırmak için bilerek 'çok ince ve çok uzun' yapılır. Sığması için de yay gibi sarmal şekle getirilir."
+    },
+    {
+      "id": "Q_6_6_019",
+      "questionText": "Ampullerdeki 'filaman' telinin ince, uzun ve Tungsten (Volfram) metalinden yapılmasının asıl amacı nedir?",
+      "answers": [
+        "Telin direncini 'en aza' indirerek elektriğin hızlı geçmesini sağlamak",
+        "Telin direncini 'çok yükseklere' çıkararak üzerinden geçen elektriğin teli aşırı ısıtmasını ve akkor haline gelip çevreye ışık yaymasını sağlamak",
+        "Ampulün hafif olmasını sağlamak",
+        "Tungsten metalinin çok ucuz olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Direnç ne kadar artarsa sürtünme o kadar artar, tel o kadar ısınır. İnce uzun Tungsten teli o kadar zorlayıcıdır (dirençlidir) ki, geçmeye çalışan elektrik teli yakarak 3000°C'de parlamasını (ışık vermesini) sağlar."
+    },
+    {
+      "id": "Q_6_6_020",
+      "questionText": "Ampuller için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Ampul bir iletkendir ancak aynı zamanda elektrik enerjisini harcayan büyük bir 'Direnç'tir.",
+        "Ampul bir yalıtkandır, elektriği hiç geçirmez.",
+        "Ampul direnci sıfır olan bir araçtır.",
+        "Ampul sadece pili şarj eder."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Ampulün içindeki filaman teli de elektrik akımına karşı bir zorluk çıkarır. Bu yüzden ampulün kendisi de devrede bir 'Direnç' (kullanıcı) olarak kabul edilir."
+    },
+    {
+      "id": "Q_6_6_021",
+      "questionText": "Tost makinesi, saç kurutma makinesi ve elektrikli fırın gibi aletlerin içindeki tellerin ortak özelliği nedir?",
+      "answers": [
+        "Plastikten yapılmaları",
+        "Dirençlerinin 'çok büyük' olması sayesinde elektrik enerjisini güçlü bir 'Isı Enerjisine' dönüştürmeleri",
+        "Dirençlerinin 'çok küçük' olması ve hiç ısınmamaları",
+        "Sıvı halde olmaları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Isıtıcı aletlerin içindeki krom-nikel tellerin direnci bilerek çok yüksek tutulur. Böylece elektrik akımı zorlanıp teli kızartır ve dışarıya yüksek bir ısı verir."
+    },
+    {
+      "id": "Q_6_6_022",
+      "questionText": "Uzunlukları ve kalınlıkları tamamen aynı olan bir 'Bakır' tel ile bir 'Demir' tel aynı devreye sırayla bağlanıyor. Ampulün parlaklığının değiştiği görülüyor. Bu deney neyi kanıtlar?",
+      "answers": [
+        "Direncin telin uzunluğuna bağlı olduğunu",
+        "Direncin telin kalınlığına bağlı olduğunu",
+        "Direncin pil sayısına bağlı olduğunu",
+        "Direncin telin yapıldığı maddenin 'Cinsine' (türüne) bağlı olduğunu"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Boyları ve kalınlıkları aynı olmasına rağmen farklı sonuç çıkıyorsa, tek farklı olan değişken 'maddenin türü'dür. Bakırın direnci demirden farklıdır (daha düşüktür)."
+    },
+    {
+      "id": "Q_6_6_023",
+      "questionText": "Yukarıdaki soruda yapılan bilimsel deneyde, deneyi yapan kişinin isteyerek değiştirdiği 'Bağımsız Değişken' hangisidir?",
+      "answers": [
+        "Telin uzunluğu",
+        "Telin kalınlığı",
+        "Telin yapıldığı maddenin cinsi (Bakır veya Demir olması)",
+        "Ampulün parlaklığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Deneyi kuran kişi bilerek tellerin cinsini farklı seçmiştir (biri bakır, biri demir). Bizim değiştirdiğimiz bu faktör bağımsız değişkendir."
+    },
+    {
+      "id": "Q_6_6_024",
+      "questionText": "Aynı uzunluktaki iki telden biri ince diğeri kalın seçilerek yapılan bir elektrik devresi deneyinde 'Bağımlı Değişken' (Sonuç) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Telin kalınlığı",
+        "Telin uzunluğu",
+        "Telin yapıldığı madde",
+        "Ampulün parlaklığı (veya devrenin direnci)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Tel kalınlaştıkça veya inceldikçe direnç değişir, buna 'bağlı olarak' da lamba parlaklığı değişir. Etkilenen sonuç kısım bağımlı değişkendir."
+    },
+    {
+      "id": "Q_6_6_025",
+      "questionText": "Açık uçlu iki kablo bir bardağın içindeki sıvıya daldırıldığında devredeki lamba yanmıyor (ışık vermiyor). Ancak sıvıya dışarıdan bir miktar 'Tuz' eklenip karıştırıldığında lamba yanmaya başlıyor. Bu olayın bilimsel açıklaması nedir?",
+      "answers": [
+        "Tuzun ışık saçan bir madde olması",
+        "Pilin ısınması",
+        "Sıvının ilk başta yalıtkan (örneğin saf su) olması, tuz eklendiğinde (tuzlu su olunca) iletken hale geçerek devreyi tamamlaması",
+        "Tuzun suyu buharlaştırması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Saf su yalıtkandır ve devreden akım geçemez. Ancak tuz suda çözündüğünde serbest iyonlar oluşur ve sıvı güçlü bir iletkene (tuzlu su) dönüşerek elektriği karşıya geçirir."
+    },
+    {
+      "id": "Q_6_6_026",
+      "questionText": "Şehirlerarası yüksek gerilim hatlarında ve ev tesisatlarında kullanılan elektrik kablolarının iç telleri, neden gümüş veya altından değil de genellikle 'Bakır' ve 'Alüminyum' metallerinden üretilir?",
+      "answers": [
+        "Gümüş ve altının yalıtkan olması",
+        "Bakır ve alüminyumun direncinin düşük (iyi iletken) olmasının yanı sıra, doğada çok bulunup gümüş ve altına göre çok daha 'ucuz' ve ekonomik olması",
+        "Bakırın daha güzel görünmesi",
+        "Bakırın elektriği hiç geçirmemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "En iyi iletken altındır ancak kilosu milyonlarca liradır. Tonlarca kablo döşemek için altın kullanılamaz. Bakır hem çok iyi bir iletkendir hem de altından binlerce kat ucuzdur."
+    },
+    {
+      "id": "Q_6_6_027",
+      "questionText": "Elektrik devresindeki bir kablonun uzunluğu 2 katına çıkarılıp, kalınlığı yarı yarıya inceltilirse (kablo uzun ve ince hale getirilirse) devrenin toplam direnci nasıl değişir?",
+      "answers": [
+        "Direnç tamamen kaybolur.",
+        "Direnç azalır.",
+        "Direnç büyük oranda 'Artar'.",
+        "Direnç değişmez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Uzunluk arttıkça direnç artar. Kalınlık azaldıkça (inceldikçe) direnç daha da artar. İki hamle de elektriğin geçişini zorlaştırdığı için toplam direnç zirveye çıkar."
+    },
+    {
+      "id": "Q_6_6_028",
+      "questionText": "Maddelerin elektriği iletme yetenekleri sıralandığında; gümüş, bakır ve demir arasında direnci 'en yüksek' (akımı en çok zorlayan) iletken hangisidir?",
+      "answers": [
+        "Gümüş",
+        "Bakır",
+        "Demir",
+        "Üçü de eşittir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Gümüş doğadaki en mükemmel iletkendir (direnci en düşüktür). Onu bakır izler. Demir ise gümüş ve bakıra göre akıma daha fazla direnç gösterir."
+    },
+    {
+      "id": "Q_6_6_029",
+      "questionText": "Açık uçlu bir elektrik devresi test aracına sırasıyla; madeni para, silgi, porselen fincan ve limon daldırılıyor. Bu maddelerden hangilerinde devredeki lamba ışık verir?",
+      "answers": [
+        "Sadece madeni para",
+        "Silgi ve porselen",
+        "Madeni para ve Limon",
+        "Hiçbirinde ışık vermez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 2,
+      "explanation": "Madeni para metal olduğu için iyi bir katı iletkendir. Limon ise içindeki asitli sıvıdan dolayı iletkendir. Silgi ve porselen ise yalıtkandır."
+    },
+    {
+      "id": "Q_6_6_030",
+      "questionText": "Günümüzde sokak tabelalarında kullanılan 'Neon' lambalar veya okullardaki uzun 'Floresan' lambalar elektriği nasıl iletip ışık saçar?",
+      "answers": [
+        "İçlerinde devasa kalınlıkta metaller olduğu için",
+        "Tüpün içindeki bazı özel gazların, elektrik enerjisi verildiğinde iyonlaşıp 'iletken' hale gelmesi ve ışık saçması sayesinde",
+        "İçlerine su doldurulduğu için",
+        "Pille çalıştıkları için"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriğin İletimi ve Direnç",
+      "difficulty": 3,
+      "explanation": "Bu lambaların içinde tel (filaman) yoktur. İçlerinde özel gazlar (Neon, Argon) vardır. Yüksek elektrik bu gazlardan geçerken onları uyandırır (iletken yapar) ve renklendirerek ışıma yapmalarını sağlar."
+    }
+  ]
+}

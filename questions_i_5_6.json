@@ -1,0 +1,426 @@
+{
+  "unit": "Life in the World",
+  "questions": [
+    {
+      "id": "Q_5_6_001",
+      "questionText": "Dünya üzerindeki büyük kara parçalarına (Asya, Avrupa, Afrika vb.) verilen ad nedir?",
+      "answers": [
+        "Continent (Kıta)",
+        "Ocean",
+        "Country",
+        "City"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Dünyadaki büyük kara parçalarına kıta (continent) denir."
+    },
+    {
+      "id": "Q_5_6_002",
+      "questionText": "Dünyamızı çevreleyen devasa tuzlu su kütlelerine ne ad verilir?",
+      "answers": [
+        "Ocean (Okyanus)",
+        "River",
+        "Lake",
+        "Mountain"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Dev su kütleleri okyanuslardandır (ocean)."
+    },
+    {
+      "id": "Q_5_6_003",
+      "questionText": "Türkiye hangi kıtalar arasında bir köprü konumundadır?",
+      "answers": [
+        "Asia and Europe (Asya ve Avrupa)",
+        "America and Africa",
+        "Australia and Antarctica",
+        "Asia and America"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Türkiye Asya ve Avrupa kıtalarında toprakları olan bir ülkedir."
+    },
+    {
+      "id": "Q_5_6_004",
+      "questionText": "İngiltere'nin başkenti hangi şehirdir?",
+      "answers": [
+        "London",
+        "Paris",
+        "Ankara",
+        "Rome"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Londra (London) İngiltere'nin başkentidir."
+    },
+    {
+      "id": "Q_5_6_005",
+      "questionText": "Fransa'nın başkenti ve ünlü Eyfel Kulesi'nin bulunduğu şehir hangisidir?",
+      "answers": [
+        "Paris",
+        "Madrid",
+        "Berlin",
+        "Tokyo"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Paris Fransa'nın başkentidir."
+    },
+    {
+      "id": "Q_5_6_006",
+      "questionText": "Dünya üzerinde kaç tane ana kıta (continent) bulunmaktadır?",
+      "answers": [
+        "7",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Dünyada 7 kıta vardır."
+    },
+    {
+      "id": "Q_5_6_007",
+      "questionText": "Aşağıdaki ülkelerden hangisi Asya kıtasında yer alır?",
+      "answers": [
+        "Japan (Japonya)",
+        "Italy",
+        "France",
+        "Spain"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Japonya Asya kıtasının doğusunda yer alan bir ada ülkesidir."
+    },
+    {
+      "id": "Q_5_6_008",
+      "questionText": "'What is the capital of Turkey?' sorusunun doğru yanıtı hangisidir?",
+      "answers": [
+        "Ankara",
+        "Istanbul",
+        "İzmir",
+        "Antalya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Türkiye'nin başkenti Ankara'dır."
+    },
+    {
+      "id": "Q_5_6_009",
+      "questionText": "Dünya üzerindeki en soğuk ve tamamen buzullarla kaplı olan güneydeki kıta hangisidir?",
+      "answers": [
+        "Antarctica",
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Antarktika en güneydeki buzullarla kaplı kıtadır."
+    },
+    {
+      "id": "Q_5_6_010",
+      "questionText": "'Where do kangaroos live?' sorusuna verilecek doğru yanıt hangi ülkedir?",
+      "answers": [
+        "Australia",
+        "Turkey",
+        "England",
+        "Germany"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Kangurular Avustralya'da (Australia) yaşar."
+    },
+    {
+      "id": "Q_5_6_011",
+      "questionText": "İtalya'nın başkenti olan ve tarihi Kolezyum (Colosseum) binasıyla ünlü şehir hangisidir?",
+      "answers": [
+        "Rome",
+        "London",
+        "Madrid",
+        "Ankara"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 2,
+      "explanation": "Roma (Rome) İtalya'nın başkentidir."
+    },
+    {
+      "id": "Q_5_6_012",
+      "questionText": "Aşağıdaki ülke ve resmi dil eşleştirmelerinden hangisi DOĞRUDUR?",
+      "answers": [
+        "Spain - Spanish",
+        "Germany - French",
+        "Italy - English",
+        "Japan - Turkish"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "İspanya'da İspanyolca (Spanish) konuşulur."
+    },
+    {
+      "id": "Q_5_6_013",
+      "questionText": "Amerika Birleşik Devletleri'nin (USA) resmi dili nedir?",
+      "answers": [
+        "English",
+        "Spanish",
+        "German",
+        "Italian"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "ABD'de ağırlıklı olarak İngilizce (English) konuşulur."
+    },
+    {
+      "id": "Q_5_6_014",
+      "questionText": "Mısır ülkesinde (Egypt) hangi ünlü tarihi yapılar bulunmaktadır?",
+      "answers": [
+        "Pyramids (Piramitler)",
+        "Eiffel Tower",
+        "Big Ben",
+        "Colosseum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Mısır piramitleriyle dünyaca ünlüdür."
+    },
+    {
+      "id": "Q_5_6_015",
+      "questionText": "Dünyanın en büyük yüz ölçümüne sahip ülkesi hangisidir?",
+      "answers": [
+        "Russia",
+        "Turkey",
+        "France",
+        "Italy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 2,
+      "explanation": "Rusya (Russia) yüz ölçümü olarak dünyanın en büyük ülkesidir."
+    },
+    {
+      "id": "Q_5_6_016",
+      "questionText": "'What is the weather like in London today? - It is rainy and cold.' diyerek ne sorulmakta ve söylenmektedir?",
+      "answers": [
+        "Londra'da havanın yağmurlu ve soğuk olduğu söylenmektedir.",
+        "Londra'nın başkenti sorulmaktadır.",
+        "Londra'nın nüfusu sorulmaktadır.",
+        "Londra'daki okullar sorulmaktadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Hava durumu (weather) sorulmuş ve yağmurlu/soğuk olduğu belirtilmiştir."
+    },
+    {
+      "id": "Q_5_6_017",
+      "questionText": "Aşağıdaki yönlerden hangisi haritalarda 'North' kelimesinin Türkçe karşılığıdır?",
+      "answers": [
+        "Kuzey",
+        "Güney",
+        "Doğu",
+        "Batı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "'North' kuzey demektir."
+    },
+    {
+      "id": "Q_5_6_018",
+      "questionText": "Haritalarda 'South' yönü hangi coğrafi yönü ifade eder?",
+      "answers": [
+        "Güney",
+        "Kuzey",
+        "Doğu",
+        "Batı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "'South' güney demektir."
+    },
+    {
+      "id": "Q_5_6_019",
+      "questionText": "'East' ve 'West' kelimelerinin Türkçe karşılıkları sırasıyla hangi seçenekte doğrudur?",
+      "answers": [
+        "Doğu ve Batı",
+        "Kuzey ve Güney",
+        "Güney ve Doğu",
+        "Batı ve Kuzey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "'East' doğu, 'West' batı demektir."
+    },
+    {
+      "id": "Q_5_6_020",
+      "questionText": "Brezilya ülkesi hangi kıtada yer almaktadır?",
+      "answers": [
+        "South America (Güney Amerika)",
+        "Europe",
+        "Asia",
+        "Asia Minor"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 2,
+      "explanation": "Brezilya Güney Amerika kıtasındadır."
+    },
+    {
+      "id": "Q_5_6_021",
+      "questionText": "Çin'in başkenti ve ünlü 'Çin Seddi'nin bulunduğu ülkenin İngilizce adı nedir?",
+      "answers": [
+        "China",
+        "Japan",
+        "India",
+        "Russia"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Çin 'China' olarak yazılır."
+    },
+    {
+      "id": "Q_5_6_022",
+      "questionText": "Dünya üzerindeki en büyük okyanus hangisidir?",
+      "answers": [
+        "Pacific Ocean (Pasifik / Büyük Okyanus)",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 2,
+      "explanation": "Pasifik okyanusu en büyük okyanustur."
+    },
+    {
+      "id": "Q_5_6_023",
+      "questionText": "Aşağıdaki ülkelerden hangisi Avrupa kıtasında yer almaz?",
+      "answers": [
+        "China",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Çin Asya kıtasındadır, diğerleri Avrupa'dadır."
+    },
+    {
+      "id": "Q_5_6_024",
+      "questionText": "'What nationality are you?' sorusuna Türkiye'den biri nasıl yanıt vermelidir?",
+      3,
+      "answers": [
+        "I am Turkish.",
+        "I am Turkey.",
+        "I speak London.",
+        "I live in capital."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Milliyet (nationality) sorusuna 'I am Turkish' ile yanıt verilir."
+    },
+    {
+      "id": "Q_5_6_025",
+      "questionText": "Japonya'nın bayrağında yer alan kırmızı daire neyi simgelemektedir?",
+      "answers": [
+        "Güneş (Kayan Güneş ülkesi)",
+        "Ay",
+        "Yıldız",
+        "Deniz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 3,
+      "explanation": "Japonya 'Güneşin doğduğu ülke' olarak bilinir; bayrağındaki kırmızı daire güneştir."
+    },
+    {
+      "id": "Q_5_6_026",
+      "questionText": "Harita üzerinde inceleme yapan Elif, Türkiye'nin komşularını ve bulunduğu coğrafi konumu incelemiştir. Elif'in ulaştığı 'Türkiye üç kıtanın kesişim noktasındadır' tespiti coğrafi olarak neyi kanıtlar?",
+      "answers": [
+        "Türkiye'nin çok stratejik ve merkezi bir özel konuma sahip olduğunu",
+        "Türkiye'nin bir ada ülkesi olduğunu",
+        "Türkiye'nin güney kutbunda yer aldığını",
+        "Türkiye'nin okyanusa kıyısı olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 3,
+      "explanation": "Üç kıta arasındaki geçiş noktası olmak stratejik ve özel konum avantajıdır."
+    },
+    {
+      "id": "Q_5_6_027",
+      "questionText": "İspanya'da düzenlenen ve binlerce insanın birbirine domates attığı ünlü festivalin adı nedir?",
+      "answers": [
+        "La Tomatina",
+        "Carnival",
+        "Halloween",
+        "Christmas"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World &",
+      "difficulty": 2,
+      "explanation": "İspanya'daki domates festivali La Tomatina'dır."
+    },
+    {
+      "id": "Q_5_6_028",
+      "questionText": "Almanya'da konuşulan resmi dil hangisidir?",
+      "answers": [
+        "German",
+        "French",
+        "Spanish",
+        "English"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "Almanya'da Almanca (German) konuşulur."
+    },
+    {
+      "id": "Q_5_6_029",
+      "questionText": "'The Earth' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Dünya / Yeryüzü",
+        "Güneş",
+        "Ay",
+        "Yıldız"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 1,
+      "explanation": "'The Earth' dünyamız demektir."
+    },
+    {
+      "id": "Q_5_6_030",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi başkent ve ülke açısından YANLIŞTIR?",
+      "answers": [
+        "Ankara - France",
+        "London - Britain",
+        "Paris - France",
+        "Rome - Italy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World",
+      "difficulty": 2,
+      "explanation": "Ankara Türkiye'nin başkentidir; Fransa'nın başkenti Paris'tir."
+    }
+  ]
+}

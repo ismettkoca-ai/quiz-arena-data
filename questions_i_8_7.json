@@ -1,0 +1,425 @@
+{
+  "unit": "Tourism",
+  "questions": [
+    {
+      "id": "Q_8_7_001",
+      "questionText": "If a city or a building is 'ancient', it means it is ...............",
+      "answers": [
+        "very modern",
+        "very old",
+        "very crowded",
+        "very clean"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "'Ancient' kelimesi antik, çok eski (very old) anlamına gelir."
+    },
+    {
+      "id": "Q_8_7_002",
+      "questionText": "When you go on a holiday, you can buy some ............... for your friends and family to remember the trip.",
+      "answers": [
+        "souvenirs",
+        "accommodations",
+        "destinations",
+        "architectures"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Tatilden dönerken arkadaşlara ve aileye alınan hatıra/hediyelik eşyalara 'souvenirs' denir."
+    },
+    {
+      "id": "Q_8_7_003",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'konaklama' (kalacak yer) anlamına gelir?",
+      "answers": [
+        "Transportation",
+        "Attraction",
+        "Accommodation",
+        "Vacation"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Otel, pansiyon, çadır gibi kalınacak yerleri ifade eden genel terim 'accommodation' (konaklama) kelimesidir."
+    },
+    {
+      "id": "Q_8_7_004",
+      "questionText": "If you want to travel by air, you should book a ............... ticket.",
+      "answers": [
+        "train",
+        "bus",
+        "flight",
+        "ship"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Havayoluyla (by air) seyahat etmek için uçuş/uçak (flight) bileti almanız gerekir."
+    },
+    {
+      "id": "Q_8_7_005",
+      "questionText": "Complete the sentence with the correct grammar form:\n............... you ever ............... to Paris?",
+      "answers": [
+        "Did / go",
+        "Have / been",
+        "Are / going",
+        "Do / travel"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Hayat tecrübelerini sorarken Present Perfect Tense (Have you ever V3...?) kullanılır. Doğru kullanım 'Have you ever been to...' (Hiç bulundun mu/gittin mi?) şeklindedir."
+    },
+    {
+      "id": "Q_8_7_006",
+      "questionText": "A: What kind of holidays do you prefer?\nB: I prefer ............... holidays because I love learning about the past and visiting museums.",
+      "answers": [
+        "beach",
+        "winter",
+        "historic",
+        "adventure"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Geçmiş hakkında bir şeyler öğrenmeyi ve müzeleri gezmeyi seven biri tarihi (historic) tatilleri tercih eder."
+    },
+    {
+      "id": "Q_8_7_007",
+      "questionText": "Which matching of opposites (zıt anlamlılar) is WRONG?",
+      "answers": [
+        "Rural x Urban",
+        "Ancient x Modern",
+        "Cheap x Expensive",
+        "Traditional x Historic"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Rural (Kırsal) - Urban (Kentsel), Ancient (Eski) - Modern (Yeni), Cheap (Ucuz) - Expensive (Pahalı) zıt anlamlıdır. Fakat Traditional (Geleneksel) ve Historic (Tarihi) zıt anlamlı değildir."
+    },
+    {
+      "id": "Q_8_7_008",
+      "questionText": "I don't like big, crowded cities. I prefer spending my holidays in ............... areas because they are quiet and peaceful.",
+      "answers": [
+        "urban",
+        "rural",
+        "noisy",
+        "polluted"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Kalabalık ve büyük şehirleri sevmeyen, sessiz ve huzurlu (quiet and peaceful) yerleri tercih eden biri kırsal (rural) bölgeleri seviyordur."
+    },
+    {
+      "id": "Q_8_7_009",
+      "questionText": "A: What is the traditional ............... of Italy?\nB: It is pizza and pasta. You should definitely taste them.",
+      "answers": [
+        "weather",
+        "location",
+        "dish",
+        "climate"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Pizza ve makarna birer yemektir. Geleneksel yemek/mutfak sorulurken 'traditional dish' veya 'cuisine' kelimeleri kullanılır."
+    },
+    {
+      "id": "Q_8_7_010",
+      "questionText": "In a(n) ............... hotel, you don't pay extra money for meals and drinks. Everything is included in the price.",
+      "answers": [
+        "bed and breakfast",
+        "all-inclusive",
+        "hostel",
+        "tent"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 1,
+      "explanation": "Yemek ve içecekler için ekstra para ödenmeyen, her şeyin fiyata dahil olduğu otel konseptine 'all-inclusive' (her şey dahil) denir."
+    },
+    {
+      "id": "Q_8_7_011",
+      "questionText": "A: Where did you stay in London?\nB: We stayed at a comfortable ............... near the city center.",
+      "answers": [
+        "flight",
+        "souvenir",
+        "guesthouse",
+        "plane"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Kalınacak yer (accommodation) sorulmuştur. Şıklar arasında konaklama yeri olan tek kelime 'guesthouse' (konukevi / pansiyon) kelimesidir."
+    },
+    {
+      "id": "Q_8_7_012",
+      "questionText": "Tim: ...............?\nSue: It is usually hot and sunny in summers, but warm in springs.",
+      "answers": [
+        "What is the weather like in Antalya",
+        "Where is Antalya located",
+        "What are the tourist attractions in Antalya",
+        "How can I get to Antalya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Sue sıcak, güneşli ve ılık olduğundan (hot, sunny, warm) bahsediyor. Bu yüzden hava durumu (What is the weather like...?) sorulmuştur."
+    },
+    {
+      "id": "Q_8_7_013",
+      "questionText": "Which sentence has a GRAMMAR mistake?",
+      "answers": [
+        "I have visited Rome two years ago.",
+        "She has never been to abroad.",
+        "Have you ever tasted sushi?",
+        "We haven't decided our destination yet."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "A şıkkında 'two years ago' (iki yıl önce) gibi net bir geçmiş zaman ifadesi kullanılmıştır. Net bir zaman verildiğinde Present Perfect (have visited) değil, Simple Past Tense (visited) kullanılmalıdır."
+    },
+    {
+      "id": "Q_8_7_014",
+      "questionText": "The Topkapı Palace is a 'must-see' place in Istanbul. \nAltı çizili ifadenin (must-see) anlama katkısı nedir?",
+      "answers": [
+        "You shouldn't go there.",
+        "It is very boring.",
+        "You should definitely visit it.",
+        "It is closed to tourists."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "'Must-see' kesinlikle görülmesi gereken, harika yerler için kullanılan bir ifadedir (You should definitely visit it)."
+    },
+    {
+      "id": "Q_8_7_015",
+      "questionText": "Mark: I'd rather visit Göbeklitepe because I am interested in ancient ............... and history.",
+      "answers": [
+        "ruins",
+        "beaches",
+        "resorts",
+        "sports"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Tarihe ve Göbeklitepe'ye ilgi duyan biri antik kalıntılara (ancient ruins) ilgi duyuyordur."
+    },
+    {
+      "id": "Q_8_7_016",
+      "questionText": "I. To a comfortable hotel by the sea.\nII. Where did you go on your holiday last summer?\nIII. I went to Antalya with my family.\nIV. Where did you stay there?\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "II - III - IV - I",
+        "II - IV - III - I",
+        "IV - I - II - III",
+        "IV - III - II - I"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Nereye gittin (II) -> Antalya'ya (III) -> Nerede kaldın (IV) -> Deniz kenarında bir otelde (I)."
+    },
+    {
+      "id": "Q_8_7_017",
+      "questionText": "Cappadocia is famous for its fairy chimneys. You can also join a hot air balloon tour to see the ............... scenery from the sky.",
+      "answers": [
+        "disappointing",
+        "fascinating",
+        "boring",
+        "ugly"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Kapadokya'daki sıcak hava balonu turuyla gökyüzünden harika/büyüleyici (fascinating) manzara (scenery) izlenir. Diğer sıfatlar olumsuzdur."
+    },
+    {
+      "id": "Q_8_7_018",
+      "questionText": "A: Have you ever traveled by train?\nB: ............... I prefer planes because they are faster.",
+      "answers": [
+        "Yes, I have.",
+        "Of course, many times.",
+        "No, I haven't.",
+        "I love train journeys."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "B kişisi uçakları tercih ettiğini (I prefer planes) söylediğine göre daha önce trenle seyahat etmemiştir (No, I haven't)."
+    },
+    {
+      "id": "Q_8_7_019",
+      "questionText": "A: What is the best ............... to visit Trabzon?\nB: I think summer is the best because it is very cold and rainy in winter.",
+      "answers": [
+        "time",
+        "accommodation",
+        "location",
+        "budget"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "B kişisi 'Bence yaz en iyisi, kışın çok soğuk' diyerek bir mevsim/zaman belirttiğine göre, A kişisi Trabzon'u ziyaret etmek için 'en iyi zamanı' (the best time) sormuştur."
+    },
+    {
+      "id": "Q_8_7_020",
+      "questionText": "Which matching of tourist attraction and activity is WRONG?",
+      "answers": [
+        "Beach - Sunbathing",
+        "Museum - Learning about history",
+        "Mountain - Skiing",
+        "Ancient ruins - Buying souvenirs"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Tourism",
+      "difficulty": 2,
+      "explanation": "Plajda güneşlenilir, müzede tarih öğrenilir, dağda kayak yapılır. Ancak antik kalıntıların (ancient ruins) temel amacı hediyelik eşya almak (buying souvenirs) değildir, tarihi yerleri gezmektir (sightseeing)."
+    },
+    {
+      "id": "Q_8_7_021",
+      "questionText": "Jane: Let's go to Uludağ for our winter holiday.\nMary: I don't think so. I'd rather go to Palandöken because Uludağ is ............... than Palandöken. I don't like crowded places.",
+      "answers": [
+        "more relaxing",
+        "cheaper",
+        "more touristy",
+        "quieter"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Mary kalabalık yerleri sevmediğini (I don't like crowded places) söyleyerek Uludağ'ı reddediyor. Bu durumda Uludağ'ın Palandöken'den daha kalabalık ve 'daha turistik' (more touristy) olduğunu kastediyordur."
+    },
+    {
+      "id": "Q_8_7_022",
+      "questionText": "Read the brochure: \n'Visit Rome! A 4-day trip including flight tickets, a 4-star hotel (bed and breakfast), and a city tour. Only $400!'\nWhat is NOT included in the price?",
+      "answers": [
+        "Transportation",
+        "Accommodation",
+        "Lunch and dinner",
+        "Sightseeing tour"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Broşürde ulaşım (flight tickets), konaklama (4-star hotel), kahvaltı (bed and breakfast) ve şehir turu (city tour) fiyata dahildir. 'Bed and breakfast' sadece yatak ve kahvaltıyı kapsar, öğle ve akşam yemeği (Lunch and dinner) fiyata dahil değildir."
+    },
+    {
+      "id": "Q_8_7_023",
+      "questionText": "A: My plane leaves at 8 p.m., but I have to be at the airport two hours early.\nB: Then we should ............... at 5 p.m. to avoid traffic.",
+      "answers": [
+        "set off",
+        "check in",
+        "hang up",
+        "pick up"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Trafiğe takılmamak ve havaalanına vaktinde yetişmek için saat 5'te 'yola çıkmalıyız'. Yola çıkmak anlamına gelen phrasal verb 'set off'tur."
+    },
+    {
+      "id": "Q_8_7_024",
+      "questionText": "According to a survey, 55% of people prefer historic sites, 30% prefer seaside holidays, and 15% prefer winter sports. \nWhich statement is CORRECT?",
+      "answers": [
+        "Winter sports are more popular than seaside holidays.",
+        "More than half of the people prefer visiting historic sites.",
+        "Nobody likes winter sports.",
+        "Seaside holidays are the most popular choice."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "%55 (More than half / Yarıdan fazlası) tarihi yerleri tercih etmektedir. Bu yüzden B şıkkı doğrudur."
+    },
+    {
+      "id": "Q_8_7_025",
+      "questionText": "If you are interested in the ............... of a city, you should definitely visit the mosques, palaces, and ancient bridges.",
+      "answers": [
+        "architecture",
+        "climate",
+        "food",
+        "transportation"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Camiler, saraylar ve köprüler bir şehrin 'mimarisi' ile ilgilidir. Mimari İngilizcede 'architecture' demektir."
+    },
+    {
+      "id": "Q_8_7_026",
+      "questionText": "I have ............... to Paris, but my brother has ............... to London. He is still there.",
+      "answers": [
+        "been / gone",
+        "gone / been",
+        "been / been",
+        "gone / gone"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Present Perfect Tense'de 'have been' gidip dönmüş olmayı (bulunmayı), 'have gone' ise gidip hala orada olmayı ifade eder. Kardeşi hala orada (He is still there) olduğuna göre 'has gone' kullanılmalıdır. Kendisi ise 'have been' kullanmalıdır."
+    },
+    {
+      "id": "Q_8_7_027",
+      "questionText": "A: What are the recreational activities in Muğla?\nB: You can ...............",
+      "answers": [
+        "taste traditional dishes.",
+        "visit ancient ruins.",
+        "try paragliding, scuba diving and sailing.",
+        "stay at a five-star hotel."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "'Recreational activities' eğlence ve boş zaman aktiviteleri (spor, tur vb.) demektir. Yamaç paraşütü, dalış ve yelken açmak bu aktivitelere örnektir."
+    },
+    {
+      "id": "Q_8_7_028",
+      "questionText": "Read the text: 'Dubai is an amazing city. It is famous for its modern architecture, huge shopping malls, and luxury hotels. It is always hot, so you can visit it anytime. However, it is a very expensive destination.'\n\nWhat is a DISADVANTAGE of Dubai according to the text?",
+      "answers": [
+        "It has modern architecture.",
+        "It is always hot.",
+        "It costs a lot of money to visit there.",
+        "It has luxury hotels."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Metinde Dubai'nin çok pahalı bir yer (very expensive destination) olduğu 'However' (Ancak) bağlacıyla belirtilmiştir. Dezavantajı, ziyaret etmenin çok paraya mal olmasıdır (costs a lot of money)."
+    },
+    {
+      "id": "Q_8_7_029",
+      "questionText": "A: I want to go to a place where I can see the green nature, breathe fresh air and stay in a wooden house.\nB: Then, you should go to the ............... regions of the country.",
+      "answers": [
+        "coastal",
+        "urban",
+        "industrial",
+        "rural"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Yeşil doğa, temiz hava ve ahşap ev arayan birisi, şehir merkezi veya sanayi bölgesi yerine 'kırsal' (rural) bölgelere gitmelidir."
+    },
+    {
+      "id": "Q_8_7_030",
+      "questionText": "Tom: Have you ever visited the Great Wall of China?\nSue: Yes, I have. I went there two years ago.\nTom: ...............?\nSue: It was incredible! I was fascinated by its length and history.",
+      "answers": [
+        "How did you go there",
+        "Who did you go with",
+        "What was it like",
+        "How much did it cost"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Tourism",
+      "difficulty": 3,
+      "explanation": "Sue 'İnanılmazdı! Uzunluğuna ve tarihine büyülendim' şeklinde bir izlenim/yorum bildirdiğine göre, Tom ona 'Nasıldı?' (What was it like?) diye sormuştur."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Peygamber ve İlahi Kitap İnancı",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "Yüce Allah'ın, insanlara doğru yolu göstermek, emir ve yasaklarını bildirmek amacıyla peygamberlerine gönderdiği ilahi mesajlara ne ad verilir?",
+      "answers": [
+        "Sünnet",
+        "Vahiy",
+        "Hadis",
+        "Kıssa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Allah'ın, Cebrail aracılığıyla veya doğrudan peygamberlerine ilettiği mesajlara 'Vahiy' denir."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "Öğretmeni Ali'ye, 'Eğer Allah bize bir melek gönderseydi, o yorulmaz ve acıkmazdı. Biz de ona bakıp biz senin gibi olamayız derdik' diyerek bir konuyu açıklamıştır. Öğretmenin bu örneği neyi açıklamaktadır?",
+      "answers": [
+        "Meleklerin çok hızlı olduğunu",
+        "Peygamberlerin neden insanlar arasından seçildiğini",
+        "İnsanların melekleri göremediğini",
+        "Vahyin sadece meleklere geldiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Peygamberlerin insan olması, onların bizim gibi acıkması, yorulması ve üzülmesi, insanlara 'uygulanabilir' ve 'gerçekçi' bir model (örnek) olmalarını sağlar."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "İslam dininde peygamberler, kendilerine yeni bir kitap verilenler ve kendinden önceki peygamberin kitabını uygulayanlar olarak ikiye ayrılır. Kendisine yeni bir ilahi kitap verilen peygamberlere ne ad verilir?",
+      "answers": [
+        "Nebi",
+        "Halife",
+        "Resul",
+        "Sahabe"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Kendisine yeni bir kitap (şeriat) verilen peygamberlere 'Resul', kendisine kitap verilmeyip önceki kitabı anlatan peygamberlere 'Nebi' denir."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v), şaka yaparken bile hiçbir zaman yalan söylememiş, her zaman doğruyu konuşmuştur. Peygamberlerin bu 'Doğruluk' sıfatı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Emanet",
+        "Sıdk",
+        "Fetanet",
+        "Tebliğ"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Bütün peygamberlerin ortak özelliklerinden olan 'Sıdk', özünde ve sözünde her zaman doğru olmak, asla yalan söylememek demektir."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "Mekkeli müşrikler, peygamberimize düşman olmalarına rağmen değerli eşyalarını saklaması için ona verirlerdi. Çünkü onun bu eşyaları asla çalmayacağını ve koruyacağını bilirlerdi. Bu durum peygamberlerin hangi sıfatını gösterir?",
+      "answers": [
+        "Fetanet",
+        "İsmet",
+        "Sıdk",
+        "Emanet"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Emanet sıfatı, peygamberlerin son derece güvenilir insanlar olduğunu, kendilerine emanet edilen maddi veya manevi sırları koruduklarını ifade eder."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "Hz. İbrahim, halkının taptığı putları gizlice kırmış ve baltayı en büyük putun boynuna asarak kavmini düşünmeye sevk etmiştir. Hz. İbrahim'in bu akıllıca planı, peygamberlerin hangi özelliğini ön plana çıkarır?",
+      "answers": [
+        "İsmet (Günahsızlık)",
+        "Fetanet (Akıllı ve Zeki Olma)",
+        "Tebliğ (Bildirme)",
+        "Sıdk (Doğruluk)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 3,
+      "explanation": "Peygamberlerin karşılaştıkları zorlukları aşarken veya hakikati anlatırken kullandıkları üstün zeka ve pratik akla 'Fetanet' denir."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "Peygamberler, insanlara en iyi örnek olabilmek için Allah'ın koruması altındadırlar ve bilerek günah işlemezler. Peygamberlerin bu 'Günah işlemekten korunmuş olma' sıfatı nedir?",
+      "answers": [
+        "İsmet",
+        "Emanet",
+        "Tebliğ",
+        "Mucize"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "İsmet sıfatı, peygamberlerin hata yapmaktan, günah işlemekten ve kötü ahlaktan Allah tarafından korunmuş olmalarını ifade eder."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v), Allah'tan aldığı ayetleri kendi fikrini katmadan, insanlardan korkmadan, aynen ve eksiksiz olarak insanlara ulaştırmıştır. Bu göreve ne ad verilir?",
+      "answers": [
+        "Fetanet",
+        "Tebliğ",
+        "Sıdk",
+        "Mucize"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Tebliğ, peygamberlerin Allah'tan aldıkları vahyi (mesajı) hiçbir değişiklik yapmadan, eksiltmeden veya artırmadan insanlara bildirmesidir."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Allah'ın, sadece peygamberlerine verdiği, insanların yapmaktan aciz kaldığı doğaüstü olaylara ne ad verilir?",
+      "answers": [
+        "Sihir",
+        "Keramet",
+        "Mucize",
+        "Vahiy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Peygamberlerin, kendilerine inanmayan insanlara peygamberliklerini kanıtlamak için Allah'ın izniyle gösterdikleri olağanüstü olaylara 'Mucize' denir."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "Yüce Allah, bazı peygamberlere büyük kitaplar (Tevrat, İncil vb.) göndermiş, bazılarına ise sayfa sayısı daha az olan küçük kitapçıklar göndermiştir. Bu küçük kitapçıklara (sayfalara) ne ad verilir?",
+      "answers": [
+        "Suhuf",
+        "Hadis",
+        "Ayet",
+        "Cüz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Suhuf, Arapça 'sayfalar' demektir. Hz. Adem, Hz. Şit, Hz. İdris ve Hz. İbrahim'e indirilen ilahi sayfalara bu ad verilir."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi, peygamberlere gönderilen Suhufların (sayfaların) dağılımında doğru verilmiştir?",
+      "answers": [
+        "Hz. İbrahim - 50 Sayfa",
+        "Hz. Şit - 10 Sayfa",
+        "Hz. Adem - 10 Sayfa",
+        "Hz. İdris - 100 Sayfa"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 3,
+      "explanation": "Suhuflar toplam 100 sayfadır: Hz. Adem (10), Hz. Şit (50), Hz. İdris (30), Hz. İbrahim (10) sayfadır."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "Yüce Allah tarafından Hz. Musa'ya gönderilen, İsrailoğullarına doğru yolu göstermek için indirilen ilahi kitabın adı nedir?",
+      "answers": [
+        "Zebur",
+        "Kur'an-ı Kerim",
+        "İncil",
+        "Tevrat"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Tevrat, Hz. Musa'ya indirilmiştir ve Yahudilik inancının temel kutsal kitabıdır."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "Güzel sesiyle bilinen Hz. Davud'a indirilmiş olan, içerisinde daha çok duaların, şiirlerin ve ilahilerin yer aldığı ilahi kitabın adı nedir?",
+      "answers": [
+        "Zebur",
+        "İncil",
+        "Tevrat",
+        "Suhuf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Zebur, Hz. Davud'a indirilmiş olan ve günümüzde Hristiyan ve Yahudiler tarafından (Mezmurlar adıyla) okunan ilahi kitaptır."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "Kur'an-ı Kerim'den önceki son ilahi kitap olan ve Allah tarafından Hz. İsa'ya gönderilen kutsal kitap aşağıdakilerden hangisidir?",
+      "answers": [
+        "Zebur",
+        "Tevrat",
+        "İncil",
+        "Suhuf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "İncil, Hz. İsa'ya indirilmiş olup Hristiyanlık dininin kutsal kitabıdır."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "Kur'an-ı Kerim'i diğer tüm ilahi kitaplardan (Tevrat, Zebur, İncil) ayıran en önemli özellik aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sadece peygamberlerin okuyabilmesi",
+        "Sadece Araplara gönderilmiş olması",
+        "Hiç değişmeden, tahrif olmadan günümüze kadar ulaşmış son ilahi kitap olması",
+        "Sadece inanç konularından bahsetmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Kur'an-ı Kerim, Allah'ın koruması altında olduğu için hiçbir kelimesi bile değişmeden (tahrif olmadan) günümüze gelen tek ve son kitaptır."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "İlahi kitapların (Tevrat, Zebur, İncil, Kur'an) insanlara gönderilişindeki en temel ortak amaç nedir?",
+      "answers": [
+        "Farklı dinler kurarak insanları bölmek",
+        "İnsanlara Allah'ın birliğini (Tevhid) anlatmak ve onları güzel ahlaka yönlendirmek",
+        "Tarihsel bilgileri arşivlemek",
+        "Bilimsel formülleri öğretmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Tüm ilahi kitaplar özünde aynı mesajı taşır: Allah'ın birliği (Tevhid) inancı ve insanların dünyada/ahirette mutlu olması için güzel ahlaklı olmaları."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "Zaman içinde Tevrat ve İncil gibi ilahi kitaplara insanların kendi sözleri karışmış ve kitapların orjinalliği bozulmuştur. Dini bir terim olan bu 'bozulma, değiştirilme' olayına ne ad verilir?",
+      "answers": [
+        "Tefsir",
+        "Tahrif",
+        "Hatim",
+        "Tebliğ"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 3,
+      "explanation": "Bir metnin, özellikle de ilahi bir kitabın asıl metninin insanlar tarafından bilerek veya bilmeyerek değiştirilip bozulmasına 'Tahrif' denir."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v) için İslam inancında 'Hatemu'l-Enbiya' ifadesi kullanılır. Bu ifadenin anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "En çok mucize gösteren peygamber",
+        "Peygamberlerin en zengini",
+        "Peygamberlerin sonuncusu, peygamberlik mührü",
+        "Sadece Mekke'nin peygamberi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Hatem, mühür veya son demektir. 'Hatemu'l-Enbiya', Hz. Muhammed'den sonra bir daha kıyamete kadar hiçbir peygamber gelmeyeceği anlamına gelir."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "Zeynep, 'Kur'an'da adı geçmeyen peygamberlere inanmıyorum' diyerek bir hata yapmıştır. Zeynep'in bilmediği dini kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kur'an'da peygamber isimlerinin hiç geçmemesi",
+        "Yalnızca Hz. Muhammed'in peygamber sayılması",
+        "Kur'an'da adı geçsin veya geçmesin, Allah'ın gönderdiği tüm peygamberlere ayrım yapmadan inanılması gerektiği",
+        "Peygamber sayısının sadece 25 kişi olduğu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "İslam inanç esaslarına göre peygamberlere iman, aralarında ayrım yapmadan, adı bilinen veya bilinmeyen tüm elçilere inanmayı gerektirir."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "Sınıfta 'Vahiy meleği kimdir?' sorusuna yanlış cevap veren bir öğrenci, aşağıdaki meleklerden hangisini söylemiş olabilir?",
+      "answers": [
+        "Cebrail",
+        "Ruhu'l-Kudüs",
+        "Vahiy Meleği",
+        "Azrail"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Cebrail (Ruhu'l-Kudüs) vahiy meleğidir. Azrail ise canlıların ruhunu teslim almakla görevli ölüm meleğidir."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "Allah, her topluma onların anladığı dilden konuşan peygamberler göndermiştir. Bunun temel amacı aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "Farklı dillerin yayılmasını sağlamak",
+        "İnsanların ilahi mesajı kolayca anlayıp kavramasını ve hayatına uygulamasını sağlamak",
+        "Yabancı dil eğitimini kolaylaştırmak",
+        "Peygamberlerin işini zorlaştırmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "İlahi mesajın (vahyin) amacı anlaşılmak ve uygulanmaktır. Bu yüzden Allah, her kavme mesajı en iyi anlatacak kendi içlerinden peygamberler göndermiştir."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v), Taif halkını İslam'a davet ettiğinde taşlanmış, ayakları kan içinde kalmıştır. Buna rağmen onlara beddua etmemiş, 'Allah'ım onlar bilmiyorlar, onları affet' demiştir. Bu durum onun hangi özelliğini öne çıkarır?",
+      "answers": [
+        "Korkak bir karaktere sahip olmasını",
+        "Sonsuz merhametini ve affediciliğini",
+        "İnsanlardan intikam almak istemesini",
+        "Kendi canını çok sevmesini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Kendisine zarar verenleri bile affedecek kadar büyük bir şefkat taşıması, peygamberimizin 'Alemlere rahmet' (merhamet) olarak gönderildiğinin kanıtıdır."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Aşağıdaki kitap - peygamber eşleştirmelerinden hangisi yanlıştır?",
+      "answers": [
+        "Tevrat - Hz. Musa",
+        "İncil - Hz. İsa",
+        "Zebur - Hz. Süleyman",
+        "Kur'an-ı Kerim - Hz. Muhammed"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Zebur adlı ilahi kitap Hz. Süleyman'a değil, Hz. Davud'a indirilmiştir."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "Allah'ın, insanlara gönderdiği kitapları ve kuralları korumayı bizzat kendi üzerine aldığı, 'Şüphesiz o Zikri (Kur'an'ı) biz indirdik, onun koruyucusu da mutlaka biziz' ayetiyle müjdelenen kitap hangisidir?",
+      "answers": [
+        "İncil",
+        "Suhuflar",
+        "Tevrat",
+        "Kur'an-ı Kerim"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'in en büyük mucizelerinden biri, indiği günden itibaren hiçbir değişime uğramadan ilahi koruma altında günümüze kadar ulaşmasıdır."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "Müslümanlar namazlarında, dualarında veya günlük yaşamlarında sadece Kur'an'ı Kerim'i okurlar. Bunun dinî açıdan asıl sebebi nedir?",
+      "answers": [
+        "Diğer kitapların sayfalarının çok fazla olması",
+        "Kur'an'ın diğer kitapların hükmünü (geçerliliğini) ortadan kaldıran en son ve tahrif edilmemiş kitap olması",
+        "Sadece Arapça okunmasının sevap olması",
+        "Diğer kitapların isimlerinin unutulmuş olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 3,
+      "explanation": "Kur'an-ı Kerim inince, önceki kitapların orjinalliği bozulduğu için onların dini kuralları (hükümleri) geçersiz kılınmış, son ve geçerli kitap Kur'an olmuştur."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "Ayşe, arkadaşına 'Ben sadece kendi işime gelen Kur'an ayetlerine inanıyorum, diğerlerini pek umursamıyorum' demiştir. Ayşe'nin bu düşüncesi İslam inancının hangi kuralıyla çelişir?",
+      "answers": [
+        "Kur'an'ın bir bütün olduğuna ve bir ayetini bile inkar edenin dinden çıkacağına",
+        "Kur'an'ın sadece büyükler için olduğuna",
+        "Kur'an'ın sadece namazda okunacağına",
+        "Ayşe'nin Arapça bilmediğine"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "İlahi kitaplara iman etmek; o kitabın içindeki tüm ayetlere, hiçbir ayrım yapmadan, eksiksiz bir şekilde iman etmeyi (inanmayı) gerektirir."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "Kur'an-ı Kerim'de sadece peygamberler ve ibadetler anlatılmaz. Aynı zamanda ticaret yapılırken hile yapılmaması, komşu hakkı, yetimlerin korunması gibi konular da yer alır. Bu konular Kur'an'ın hangi yönüyle ilgilidir?",
+      "answers": [
+        "Kıssa",
+        "İnanç",
+        "Ahlak ve Hukuk",
+        "Tarih"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 2,
+      "explanation": "Kur'an'da insanların birbiriyle olan ilişkilerini düzenleyen, hak yememeyi ve dürüst olmayı emreden kurallara ahlak ve hukuk (muamelat) denir."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Ali, 'Neden peygamberler var ki? Allah direkt içimize bir his verseydi veya kitapları gökten hazır indirseydi olmaz mıydı?' diye sorar. Bu soruya verilebilecek en mantıklı cevap nedir?",
+      "answers": [
+        "Kitapların gökten düşerken zarar görebileceği",
+        "İnsanların, yaşayarak kendilerine canlı bir örnek (model) gösterecek bir öğretmene muhtaç olması",
+        "Allah'ın insanlarla konuşmak istememesi",
+        "Peygamberlerin kitap okumayı daha çok sevmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 3,
+      "explanation": "Bir kitabı anlamak için öğretmene ihtiyaç vardır. Peygamberler sadece postacı değildir; onlar kitabı yaşayarak insanlara gösteren canlı modellerdir."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "Peygamberimiz Hz. Muhammed (s.a.v) sadece belli bir ırka, millete veya döneme değil, tüm insanlığa gönderilmiştir. Bu durum İslam'ın ve Kur'an'ın hangi özelliğini ifade eder?",
+      "answers": [
+        "Yerellik",
+        "Milliyetçilik",
+        "Evrensellik",
+        "Geleneksellik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "Mesajının çağları aşması, Amerika'dan Asya'ya kadar dünyadaki tüm insanları kapsaması dinimizin ve kitabımızın 'Evrensel' (tüm evreni kapsayan) olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "İnsanlara peygamberlik verildiğinde bazıları onlara inanmamış ve 'Bize doğaüstü bir şey göster de inanalım' demişlerdir. Bunun üzerine Allah'ın yardımıyla peygamberlerin gösterdiği, denizin yarılması, parmaklardan su akması gibi olaylara ne denir?",
+      "answers": [
+        "Mucize",
+        "Sihir",
+        "Kıssa",
+        "İsmet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber ve İlahi Kitap İnancı",
+      "difficulty": 1,
+      "explanation": "İnsanları aciz bırakan, fizik kurallarını aşan ve peygamberlerin doğru söylediğini kanıtlayan olağanüstü olaylara 'Mucize' denir."
+    }
+  ]
+}

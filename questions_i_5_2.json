@@ -1,0 +1,425 @@
+{
+  "unit": "Classroom Life",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Öğretmenin sınıfa girdiğinde öğrencilere söylediği 'Sit down, please.' komutunun Türkçe anlamı nedir?",
+      "answers": [
+        "Lütfen ayağa kalkın.",
+        "Lütfen oturun.",
+        "Lütfen tahtayı silin.",
+        "Lütfen sessiz olun."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Sit down' oturmak demektir."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "Sınıfta dışarı çıkmak veya tuvalete gitmek için öğretmenden izin isterken hangi kalıp kullanılır?",
+      "answers": [
+        "May I come in?",
+        "May I go out?",
+        "Close the door.",
+        "Open your book."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Dışarı çıkmak için izin isteme cümlesi 'May I go out?' şeklindedir."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi sınıf içi komutlar (classroom rules) açısından YANLIŞTIR?",
+      "answers": [
+        "Clean the board - Tahtayı sil",
+        "Turn off the lights - Işıkları kapat",
+        "Open the window - Pencereyi kapat",
+        "Raise your hand - Elini kaldır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Open the window' pencereyi açmak demektir; kapatmak ise 'close the window'dur."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "Sınıfa geç kalan bir öğrencinin içeri girmek için öğretmenden kibarca izin isterken söylediği cümle hangisidir?",
+      "answers": [
+        "May I come in?",
+        "May I clean the board?",
+        "Sit down, please.",
+        "Open the door."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "İçeri girmek için izin istemek 'May I come in?'dir."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Yer yön belirteçlerinden (prepositions) 'in' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "İçinde",
+        "Üzerinde",
+        "Altında",
+        "Arasında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'In' kelimesi bir şeyin içinde olduğunu belirtir."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "Kalemliğin masanın üzerinde olduğunu söylemek isteyen bir öğrenci hangi cümleyi kurmalıdır?",
+      "answers": [
+        "The pencil case is under the desk.",
+        "The pencil case is on the desk.",
+        "The pencil case is in the desk.",
+        "The pencil case is behind the desk."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Üzerinde kelimesi 'on' edatıyla ifade edilir."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "'Where is the cat?' sorusuna görselde kedi kutunun içindeyse verilecek yanıt hangisidir?",
+      "answers": [
+        "It is in the box.",
+        "It is under the box.",
+        "It is on the box.",
+        "It is near the box."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Kutu içinde anlamı 'in the box' ile verilir."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "Aşağıdaki yer yön edatlarından hangisi 'arkasında' anlamına gelir?",
+      "answers": [
+        "Behind",
+        "In front of",
+        "Near",
+        "Between"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Behind' arkasında demektir."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "'The ball is between the box and the chair.' cümlesinde topun konumu nerededir?",
+      "answers": [
+        "Kutu ile sandalyenin arasındadır.",
+        "Kutunun üzerindedir.",
+        "Sandalyenin altındadır.",
+        "Kutunun içindedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Between' iki şeyin arasında anlamına gelir."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "Öğretmenin 'Be quiet, please.' uyarısının Türkçe karşılığı nedir?",
+      "answers": [
+        "Lütfen sessiz olun.",
+        "Lütfen tahtaya bakın.",
+        "Lütfen kapıyı açın.",
+        "Lütfen oturun."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Be quiet' sessiz olmak demektir."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "Sınıfta silgisini unutan bir öğrencinin arkadaşından silgi isterken kurduğu kibar cümle hangisi olmalıdır?",
+      "answers": [
+        "Give me your eraser!",
+        "Can I borrow your eraser, please?",
+        "Where is my eraser?",
+        "I have an eraser."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Bir şey ödünç istemek için 'Can I borrow...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Aşağıdaki yön belirteçlerinden hangisi 'önünde' anlamına gelir?",
+      "answers": [
+        "In front of",
+        "Behind",
+        "Under",
+        "In"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'In front of' önünde demektir."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "Öğretmenin 'Listen to me, please.' komutu öğrencilerden ne yapmasını ister?",
+      "answers": [
+        "Beni dinleyin, lütfen.",
+        "Tahtaya yazın, lütfen.",
+        "Kitabınızı açın, lütfen.",
+        "Dışarı çıkın, lütfen."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Listen' dinlemek demektir."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "'The cat is under the table.' cümlesinde kedi nerededir?",
+      "answers": [
+        "Masanın altındadır.",
+        "Masanın üzerindedir.",
+        "Masanın yanındadır.",
+        "Masanın arkasındadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Under' altında demektir."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "Sınıfta haritayı göstermek veya bir şeyi işaret etmek için öğretmenin söylediği komut ne olabilir?",
+      "answers": [
+        "Point at the map.",
+        "Close your books.",
+        "Sit down.",
+        "Clean the board."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "'Point at' işaret etmek / göstermek demektir."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "In - Altında",
+        "On - Üzerinde",
+        "Under - Altında",
+        "Near - Yakınında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'In' içinde demektir (Altında 'under'dır). Yanlış eşleşme A şıkkıdır."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Öğretmenin 'Open your books to page 10.' talimatı öğrencilere neyi söyler?",
+      "answers": [
+        "Kitaplarınızı 10. sayfaya açın.",
+        "Kitaplarınızı kapatın.",
+        "10. sayfayı yırtın.",
+        "Defterinize 10 soru yazın."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Open your books to page 10' 10. sayfayı açın demektir."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Sınıfta bir soruya cevap vermek veya söz istemek için öğrencinin yapması gereken fiziksel hareket nedir?",
+      "answers": [
+        "Raise your hand.",
+        "Close the door.",
+        "Go out.",
+        "Clean the board."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Söz istemek için el kaldırmak gerekir ('Raise your hand')."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "'The school bag is near the door.' cümlesine göre okul çantası kapıya göre nerededir?",
+      "answers": [
+        "Kapının yanındadır (yakınındadır).",
+        "Kapının içindedir.",
+        "Kapının üzerindedir.",
+        "Kapının altındadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Near' yakınında / yanında demektir."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Arkadaşından cetvelini istemek isteyen bir öğrenci hangisini söylemelidir?",
+      "answers": [
+        "Can I borrow your ruler, please?",
+        "Give me your pencil case.",
+        "Where is my ruler?",
+        "Open your ruler."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Kırtasiye malzemesi ödünç isterken 'Can I borrow your...' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "Öğretmen sınıftan dışarı çıkmak isteyen öğrenciye izin vermezse nasıl bir yanıt verebilir?",
+      "answers": [
+        "No, you can't.",
+        "Yes, of course.",
+        "Sure, go ahead.",
+        "Here you are."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Olumsuz izin yanıtı 'No, you can't.' şeklindedir."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Aşağıdaki yön ifadelerinden hangisi iki nesnenin ortasında olmayı belirtir?",
+      "answers": [
+        "Between",
+        "Behind",
+        "In front of",
+        "On"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Between' arasında demektir."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "Sınıfta pencereleri açmak için öğretmenden izin isteyen bir öğrenci ne der?",
+      "answers": [
+        "May I open the window, please?",
+        "May I close the door?",
+        "Can I clean the board?",
+        "May I come in?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Pencereyi açmak için izin istemek 'May I open the window, please?'dir."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "'The ball is on the box' ile 'The ball is in the box' cümleleri arasındaki temel fark nedir?",
+      "answers": [
+        "Topun kutunun üstünde mi yoksa içinde mi olduğu",
+        "Topun rengi",
+        "Kutunun büyüklüğü",
+        "Cümlenin olumlu veya olumsuz olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "'On' üzerinde, 'in' ise içinde anlamı katar."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Öğretmenin 'Turn off the lights.' komutunu duyan bir öğrenci ne yapmalıdır?",
+      "answers": [
+        "Işıkları kapatmalıdır.",
+        "Işıkları açmalıdır.",
+        "Pencereyi açmalıdır.",
+        "Tahtayı silmelidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Turn off' kapatmak demektir."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Sınıftaki eşyaların yerini soran bir bulmacada Ali, topun sandalyenin altında, kalemin masanın üstünde, kedinin ise kutunun içinde olduğunu bulmuştur. Buna göre bu bulmacada sırasıyla hangi edatlar kullanılmıştır?",
+      "answers": [
+        "under - on - in",
+        "in - on - under",
+        "on - under - near",
+        "between - behind - in"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 3,
+      "explanation": "Altında (under), üzerinde (on), içinde (in) sırasıyla verilmiştir."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "Arkadaşına ait kalemi ödünç alan ve işi bitince geri veren bir öğrenci arkadaşına teşekkür ederken ne der?",
+      "answers": [
+        "Thank you / Thanks",
+        "Excuse me",
+        "I'm sorry",
+        "Good morning"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Teşekkür etmek için 'Thank you' veya 'Thanks' denir."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "Öğretmen derse başladığında öğrencilerin dikkatini çekmek için genellikle ne söyler?",
+      "answers": [
+        "Quiet, please! / Listen to me.",
+        "Go home.",
+        "Open your lunchbox.",
+        "Sleep, please."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "Dikkat toplamak için sessizlik ve dinleme komutları verilir."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Aşağıdaki komutlardan hangisi sınıfı temiz tutmakla ilgilidir?",
+      "answers": [
+        "Keep the classroom clean.",
+        "Open the door.",
+        "Stand up.",
+        "Turn on the lights."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 1,
+      "explanation": "'Keep the classroom clean' sınıfı temiz tutun demektir."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "'Where is the teacher?' sorusuna 'She is _________ the classroom, in front of the board.' yanıtı verilirse boşluğa en uygun edat hangisi olur?",
+      "answers": [
+        "in",
+        "on",
+        "under",
+        "between"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Classroom Life",
+      "difficulty": 2,
+      "explanation": "Öğretmen sınıfın içindedir ve tahtanın önündedir ('in the classroom')."
+    }
+  ]
+}

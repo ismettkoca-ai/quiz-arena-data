@@ -1,0 +1,425 @@
+{
+  "unit": "Sürdürülebilir Yaşam Ve Enerji",
+  "questions": [
+    {
+      "id": "Q_7_7_001",
+      "questionText": "Kullanıldıkça tükenen, doğada yeniden oluşması milyonlarca yıl süren enerji kaynaklarına ne ad verilir?",
+      "answers": [
+        "Yenilenebilir Enerji Kaynakları",
+        "Tükenmez Enerji Kaynakları",
+        "Yenilenemez Enerji Kaynakları",
+        "Temiz Enerji Kaynakları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Kömür, petrol ve doğal gaz gibi oluşumu çok uzun süren ve rezervleri sınırlı olan kaynaklara yenilenemez enerji kaynakları denir."
+    },
+    {
+      "id": "Q_7_7_002",
+      "questionText": "Aşağıdakilerden hangisi yenilenemez enerji kaynaklarından biri olan 'Fosil Yakıtlar' grubuna girmez?",
+      "answers": [
+        "Kömür",
+        "Petrol",
+        "Doğal Gaz",
+        "Biyokütle"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Biyokütle enerjisi, bitki ve hayvan atıklarından elde edilen yenilenebilir bir enerji türüdür. Kömür, petrol ve doğal gaz ise fosil yakıtlardır."
+    },
+    {
+      "id": "Q_7_7_003",
+      "questionText": "Doğada sürekli var olan, kullanıldıkça tükenmeyen ve çevreye genellikle zarar vermeyen enerji kaynaklarına ne ad verilir?",
+      "answers": [
+        "Nükleer Enerji",
+        "Yenilenebilir Enerji Kaynakları",
+        "Fosil Yakıtlar",
+        "Kimyasal Enerji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Güneş, rüzgar ve su gibi doğanın kendi döngüsü içinde sürekli yenilenen kaynaklara yenilenebilir enerji kaynakları denir."
+    },
+    {
+      "id": "Q_7_7_004",
+      "questionText": "Güneş ışınlarını toplayarak doğrudan elektrik enerjisine dönüştüren teknolojik sistemlere ne ad verilir?",
+      "answers": [
+        "Rüzgar Türbini",
+        "Güneş Paneli (Fotovoltaik Pil)",
+        "Jeneratör",
+        "Hidroelektrik Santral"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Güneş panelleri, yüzeylerine çarpan güneş ışığını barındırdıkları fotovoltaik hücreler sayesinde doğrudan elektrik akımına çevirir."
+    },
+    {
+      "id": "Q_7_7_005",
+      "questionText": "Rüzgarın sahip olduğu hareket (kinetik) enerjisini elektrik enerjisine dönüştüren dev pervaneli sistemlere ne denir?",
+      "answers": [
+        "Güneş Paneli",
+        "Rüzgar Türbini",
+        "Baraj",
+        "Nükleer Reaktör"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Rüzgar türbinleri, rüzgarın pervaneleri döndürmesiyle oluşan mekanik enerjiyi jeneratörler yardımıyla elektriğe dönüştürür."
+    },
+    {
+      "id": "Q_7_7_006",
+      "questionText": "Barajlarda biriken suyun yüksekten aşağıya doğru akıtılarak türbinleri döndürmesi ve jeneratörler aracılığıyla elektrik üretilmesi hangi enerji santralinin çalışma prensibidir?",
+      "answers": [
+        "Termik Santral",
+        "Hidroelektrik Santral",
+        "Nükleer Santral",
+        "Jeotermal Santral"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Hidroelektrik santraller (HES), suyun potansiyel enerjisini önce kinetik enerjiye, ardından türbinler aracılığıyla elektrik enerjisine dönüştürür."
+    },
+    {
+      "id": "Q_7_7_007",
+      "questionText": "Magmanın yeraltı sularını ısıtmasıyla oluşan sıcak su ve buharın yeryüzüne çıkarılarak enerji üretiminde kullanılmasına ne ad verilir?",
+      "answers": [
+        "Jeotermal Enerji",
+        "Biyokütle Enerjisi",
+        "Dalga Enerjisi",
+        "Hidroelektrik Enerji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Yer (Jeo) ve ısı (Termal) kelimelerinden oluşan jeotermal enerji, yeraltındaki sıcak su ve buhar hatlarından (fay kırıklarından) elde edilen yenilenebilir enerjidir."
+    },
+    {
+      "id": "Q_7_7_008",
+      "questionText": "Bitki kalıntıları, hayvan dışkıları, evsel organik atıklar ve tarım ürünlerinin yakılması veya çürütülmesiyle elde edilen enerji türü hangisidir?",
+      "answers": [
+        "Fosil Yakıtlar",
+        "Jeotermal Enerji",
+        "Nükleer Enerji",
+        "Biyokütle (Biyomas) Enerjisi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Biyokütle enerjisi, canlı veya yakın zamanda yaşamış organizmalardan (organik atıklardan) elde edilen biyolojik kökenli yenilenebilir bir enerjidir."
+    },
+    {
+      "id": "Q_7_7_009",
+      "questionText": "Uranyum ve plütonyum gibi ağır atomların çekirdeklerinin parçalanması sonucu açığa çıkan devasa ısıyla elektrik üretilen santrallere ne ad verilir?",
+      "answers": [
+        "Jeotermal Santral",
+        "Nükleer Santral",
+        "Hidroelektrik Santral",
+        "Biyokütle Santrali"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Nükleer santraller, atom çekirdeğinin parçalanmasıyla çok yüksek enerji elde edilen, ancak radyoaktif atık riski taşıyan yenilenemez enerji tesisleridir."
+    },
+    {
+      "id": "Q_7_7_010",
+      "questionText": "Nükleer enerjinin elektrik üretimi sürecinde atmosfere karbondioksit (CO2) salınımı yapmamasına rağmen çevreciler tarafından eleştirilmesinin temel nedeni nedir?",
+      "answers": [
+        "Çok az enerji üretmesi",
+        "Maliyetinin çok düşük olması",
+        "Kazalar veya sızıntılar durumunda ölümcül radyasyon yayması ve atıklarının binlerce yıl tehlikeli kalması",
+        "Sadece geceleri çalışabilmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Nükleer enerji sera gazı üretmez ancak radyoaktif atıkların güvenli şekilde depolanması çok zordur ve Çernobil gibi kazalar doğaya kalıcı hasar verir."
+    },
+    {
+      "id": "Q_7_7_011",
+      "questionText": "Güneş ışınlarının bir kısmının Dünya'ya çarptıktan sonra uzaya yansımasını engelleyerek, ısının atmosferde tutulmasına ve Dünya'nın ısınmasına neden olan olaya ne ad verilir?",
+      "answers": [
+        "Ozon Tabakasının İncelmesi",
+        "Sera Etkisi",
+        "Asit Yağmurları",
+        "Işık Kirliliği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Atmosferdeki bazı gazların tıpkı bir cam sera gibi ısıyı içeride hapsetmesi olayına sera etkisi denir."
+    },
+    {
+      "id": "Q_7_7_012",
+      "questionText": "Aşağıdaki gazlardan hangisi atmosferde sera etkisini en çok artıran ve küresel ısınmaya neden olan gazların başında gelir?",
+      "answers": [
+        "Oksijen (O2)",
+        "Azot (N2)",
+        "Karbondioksit (CO2)",
+        "Helyum (He)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Fosil yakıtların (kömür, petrol vb.) aşırı tüketilmesi sonucu atmosfere salınan karbondioksit (CO2) ve metan (CH4) gazları sera etkisinin baş aktörleridir."
+    },
+    {
+      "id": "Q_7_7_013",
+      "questionText": "İnsan faaliyetleri sonucunda sera gazlarının atmosferde aşırı birikmesiyle Dünya'nın ortalama yüzey sıcaklığının tehlikeli boyutlarda artmasına ne ad verilir?",
+      "answers": [
+        "Küresel Isınma",
+        "Mevsim Dönüşümü",
+        "Ekolojik Denge",
+        "Güneş Tutulması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Sera etkisinin şiddetlenmesiyle yeryüzündeki ortalama sıcaklıkların her yıl kademeli olarak artış göstermesine küresel ısınma denir."
+    },
+    {
+      "id": "Q_7_7_014",
+      "questionText": "Aşağıdakilerden hangisi küresel ısınmanın ve iklim değişikliğinin doğuracağı felaket (sonuç) senaryolarından biri değildir?",
+      "answers": [
+        "Buzulların erimesi ve deniz seviyelerinin yükselmesi",
+        "Aşırı kuraklık ve çölleşmenin artması",
+        "Biyoçeşitliliğin ve tarım ürünlerinin artması",
+        "Aşırı hava olaylarının (kasırga, sel) sıklaşması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "İklim değişikliği biyoçeşitliliği artırmaz, aksine birçok bitki ve hayvan türünün yok olmasına ve tarımsal verimin düşmesine neden olur."
+    },
+    {
+      "id": "Q_7_7_015",
+      "questionText": "Bir kişinin veya kurumun ulaşım, ısınma, elektrik tüketimi gibi faaliyetleri sonucunda atmosfere salınmasına neden olduğu toplam sera gazı (özellikle karbondioksit) miktarına ne ad verilir?",
+      "answers": [
+        "Karbon Ayak İzi",
+        "Ekolojik Denge",
+        "Ozon Deliği",
+        "Sürdürülebilirlik Endeksi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Karbon ayak izi, yaşam tarzımızın doğaya bıraktığı karbon (CO2) tahribatının ölçüsüdür."
+    },
+    {
+      "id": "Q_7_7_016",
+      "questionText": "Bireysel karbon ayak izimizi küçültmek (doğaya daha az zarar vermek) için aşağıdaki davranışlardan hangisinden kaçınmalıyız?",
+      "answers": [
+        "Toplu taşıma veya bisiklet kullanmak",
+        "Enerji verimli (A sınıfı) beyaz eşyalar kullanmak",
+        "Geri dönüşüme önem vermek",
+        "Kısa mesafelerde bile sürekli kendi özel aracımızı kullanmak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Özel araç kullanmak kişi başına düşen fosil yakıt tüketimini ve karbon salınımını en çok artıran eylemlerden biridir."
+    },
+    {
+      "id": "Q_7_7_017",
+      "questionText": "Bir insanın veya toplumun tükettiği doğal kaynakların yeniden üretilebilmesi ve yarattığı atıkların doğa tarafından yok edilebilmesi için ihtiyaç duyulan biyolojik olarak verimli toprak ve su alanına ne ad verilir?",
+      "answers": [
+        "Sera Etkisi",
+        "Ekolojik Ayak İzi",
+        "Küresel Isınma",
+        "Karbondioksit Salınımı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Ekolojik ayak izi, yaşam tarzımızın sürdürülebilmesi için doğadan ne kadarlık bir alana ihtiyaç duyduğumuzun (doğaya olan talebimizin) bilimsel ölçüsüdür."
+    },
+    {
+      "id": "Q_7_7_018",
+      "questionText": "Günümüzdeki insan ihtiyaçlarının karşılanırken, gelecek nesillerin kendi ihtiyaçlarını karşılayabilme yeteneğinden ödün vermemeyi hedefleyen anlayışa ne ad verilir?",
+      "answers": [
+        "Küreselleşme",
+        "Hızlı Tüketim",
+        "Sürdürülebilir Kalkınma (Sürdürülebilirlik)",
+        "Endüstriyel Devrim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Sürdürülebilirlik, doğayı sömürmeden ve kaynakları tüketmeden ekonomik büyüme sağlamak; dünyayı bizden sonrakilere yaşanabilir bırakmaktır."
+    },
+    {
+      "id": "Q_7_7_019",
+      "questionText": "Atık yönetimi hiyerarşisinde '3R Kuralı' olarak bilinen kavramların doğru sıralaması (öncelik sırası) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Geri dönüştür -> Yak -> Çöpe at",
+        "Azalt (Reduce) -> Yeniden kullan (Reuse) -> Geri dönüştür (Recycle)",
+        "Satın al -> Tüket -> Geri dönüştür",
+        "Yeniden kullan -> Çöpe at -> Geri dönüştür"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "En iyi atık yönetimi atığı hiç üretmemektir (Azalt). Oluştuysa başka amaçla değerlendirmektir (Yeniden kullan). En son çare hammaddeye dönüştürmektir (Geri dönüştür)."
+    },
+    {
+      "id": "Q_7_7_020",
+      "questionText": "Bir cam kavanozun yıkanıp evde salça saklamak için tekrar kullanılması ile aynı kavanozun fabrikada eritilip yeni bir cam şişeye dönüştürülmesi işlemleri sırasıyla hangi kavramlara örnektir?",
+      "answers": [
+        "Geri Dönüşüm / Geri Kazanım",
+        "Yeniden Kullanım / Geri Dönüşüm",
+        "Atık Azaltma / Yeniden Kullanım",
+        "Sürdürülebilirlik / Biyokütle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Maddenin formunu bozmadan kendi veya başka bir amaçla tekrar kullanılmasına 'Yeniden Kullanım', fiziksel/kimyasal işlemlerle hammaddeye çevrilmesine 'Geri Dönüşüm' denir."
+    },
+    {
+      "id": "Q_7_7_021",
+      "questionText": "Meyve kabukları, sebze artıkları ve dökülen yapraklar gibi organik atıkların çürütülerek toprağı zenginleştiren doğal bir gübreye dönüştürülmesi işlemine ne ad verilir?",
+      "answers": [
+        "Sıfır Atık",
+        "Damıtma",
+        "Kompost",
+        "Buharlaştırma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Kompost, organik evsel atıkların doğadaki mikroorganizmalar tarafından parçalanarak humuslu, verimli bir toprak eklentisine dönüştürülmesidir."
+    },
+    {
+      "id": "Q_7_7_022",
+      "questionText": "Pillerin (bataryaların) normal çöpe atılması veya doğaya bırakılması çevresel açıdan neden çok büyük bir tehlikedir?",
+      "answers": [
+        "Hava ile temas edip oksijen ürettikleri için",
+        "İçerdikleri kurşun, cıva, kadmiyum gibi ağır metallerin toprağa ve yeraltı sularına karışarak zehirlenmelere yol açtığı için",
+        "Kısa sürede çürüyüp koku yaptıkları için",
+        "Toprağı çok fazla ısıttıkları için"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Pillerin içindeki ağır metaller biyolojik olarak parçalanmaz; toprağa, oradan da bitkiler yoluyla besin zincirine sızarak kanserojen etkiler yaratır."
+    },
+    {
+      "id": "Q_7_7_023",
+      "questionText": "Güneş enerjisi ve rüzgar enerjisi santralleri çevre dostu (temiz) olmalarına rağmen, fosil yakıtlara kıyasla en büyük dezavantajları (sorunları) nedir?",
+      "answers": [
+        "Atmosfere radyoaktif gaz salmaları",
+        "Enerji üretiminin hava koşullarına (iklime, gece/gündüz döngüsüne) bağlı olarak kesintiye uğraması",
+        "Kurulumdan sonra yakıt maliyetlerinin çok yüksek olması",
+        "Kömürden daha fazla sera gazı üretmeleri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Güneş geceleri veya bulutlu havalarda; rüzgar türbinleri ise rüzgar esmediğinde elektrik üretemez. Üretim sürekliliği doğa şartlarına bağlıdır."
+    },
+    {
+      "id": "Q_7_7_024",
+      "questionText": "Enerjiyi kullanmaktan vazgeçmeden (hayat standardını düşürmeden), aynı işi daha az enerji harcayarak yapmaya olanak sağlayan sisteme ne ad verilir?",
+      "answers": [
+        "Enerji Kesintisi",
+        "Enerji Yoksunluğu",
+        "Enerji Verimliliği",
+        "Fosil Yakıt Tüketimi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Eski akkor ampul yerine aynı ışığı veren ama %80 daha az elektrik yakan LED ampul kullanmak veya binalara yalıtım yapmak birer 'Enerji Verimliliği' uygulamasıdır."
+    },
+    {
+      "id": "Q_7_7_025",
+      "questionText": "Okyanus asitlenmesi, deniz yaşamını (özellikle mercanları) tehdit eden küresel bir sorundur. Bu asitlenmenin temel nedeni okyanusların atmosferden aşırı miktarda hangi gazı emmesidir?",
+      "answers": [
+        "Oksijen",
+        "Azot",
+        "Karbondioksit (CO2)",
+        "Ozon"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Okyanuslar, insanların atmosfere saldığı fazla Karbondioksitin (CO2) büyük kısmını emer. Suyla birleşen CO2 karbonik asit oluşturarak suyun pH dengesini (asitliğini) bozar."
+    },
+    {
+      "id": "Q_7_7_026",
+      "questionText": "Ambalajların üzerinde bulunan, birbiri ardına dönen 3 yeşil oktan (Möbiüs şeridi) oluşan sembol tüketicilere ne mesaj verir?",
+      "answers": [
+        "Ürünün zehirli olduğunu",
+        "Ürünün geri dönüştürülebilir malzemeden yapıldığını",
+        "Ürünün yenilebilir olduğunu",
+        "Ürünün radyasyon yaydığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 1,
+      "explanation": "Üç oklu evrensel geri dönüşüm sembolü, o ambalajın veya ürünün çöpe değil geri dönüşüm kutularına atılması gerektiğini belirtir."
+    },
+    {
+      "id": "Q_7_7_027",
+      "questionText": "Evsel atıkların geri dönüşümü için kağıt, cam ve plastik ayrı ayrı toplanır. Ancak aşağıdaki evsel atıklardan hangisinin geri dönüştürülmesi mümkün değildir?",
+      "answers": [
+        "Karton koli",
+        "Bebek bezi",
+        "Cam kavanoz",
+        "Pet şişe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Bebek bezleri, kullanılmış kağıt havlular veya kimyasal bulaşmış maddeler hijyenik sorunlar ve yapısal bozulmalar nedeniyle geri dönüştürülemez."
+    },
+    {
+      "id": "Q_7_7_028",
+      "questionText": "Dünyadaki yenilenebilir enerji kaynaklarının hemen hemen tamamı (rüzgar, hidroelektrik, güneş, biyokütle vb.) kökenini uzaydaki hangi gök cisminden almaktadır?",
+      "answers": [
+        "Ay",
+        "Güneş",
+        "Kutup Yıldızı",
+        "Mars"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Rüzgarın esmesi sıcaklık farkıyla, su döngüsü buharlaşmayla, bitkilerin büyümesi (biyokütle) fotosentezle oluşur; tüm bunların temel enerji motoru Güneş'tir (Jeotermal hariç)."
+    },
+    {
+      "id": "Q_7_7_029",
+      "questionText": "Fabrika bacalarına ve araba egzozlarına filtre takılması, Sürdürülebilir Yaşam ilkeleri kapsamında öncelikle hangi çevre felaketini engellemeyi amaçlar?",
+      "answers": [
+        "Toprak Kaymasını",
+        "Depremleri",
+        "Asit Yağmurlarını ve Hava Kirliliğini",
+        "Deniz Kirliliğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 2,
+      "explanation": "Kükürt dioksit ve azot dioksit gibi zehirli baca/egzoz gazları, bulutlardaki su buharıyla birleşerek asit yağmuru olarak yere düşer. Filtreler bu gazların havaya karışmasını önler."
+    },
+    {
+      "id": "Q_7_7_030",
+      "questionText": "Küresel Isınma (Sera Etkisi) ile Ozon Tabakasının İncelmesi kavramları genellikle birbirine karıştırılır. Bu iki çevre sorunu arasındaki en temel fark aşağıdakilerden hangisidir?",
+      "answers": [
+        "İkisi de tamamen aynı şeydir.",
+        "Sera etkisi ısının atmosferde hapsolmasıdır; Ozon tabakasının incelmesi ise Güneş'in zararlı morötesi (UV) ışınlarının Dünya'ya ulaşmasına neden olan koruyucu kalkanın delinmesidir.",
+        "Sera etkisini güneş, ozon tabakasını ay oluşturur.",
+        "Ozon tabakası dünyayı ısıtır, sera etkisi dünyayı soğutur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam Ve Enerji",
+      "difficulty": 3,
+      "explanation": "Sera etkisi CO2 kaynaklı bir ısı problemidir. Ozon tabakasının incelmesi ise parfüm ve soğutuculardan çıkan CFC gazları yüzünden Dünya'nın UV filtresinin zarar görmesidir."
+    }
+  ]
+}

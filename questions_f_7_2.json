@@ -1,0 +1,425 @@
+{
+  "unit": "Kuvvet Ve Enerjiyi Keşfedelim",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "Madde miktarının bir ölçüsü olan, evrenin hiçbir yerinde değişmeyen ve sembolü 'm' ile gösterilen büyüklüğe ne ad verilir?",
+      "answers": [
+        "Ağırlık",
+        "Kütle",
+        "Kuvvet",
+        "Enerji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Kütle, cismin sahip olduğu değişmeyen madde miktarıdır. Bir cismi uzayın neresine götürürseniz götürün kütlesi sabit kalır."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Kütleye etki eden yer çekimi kuvvetine ne ad verilir?",
+      "answers": [
+        "Basınç",
+        "İş",
+        "Ağırlık",
+        "Sürat"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Ağırlık bir kuvvettir ve gezegenin cisme uyguladığı çekim gücüne bağlı olarak ortaya çıkar."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "Kütle ve ağırlığı ölçmek için kullanılan araçlar sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Dinamometre - Eşit kollu terazi",
+        "Eşit kollu terazi - Dinamometre",
+        "Termometre - Barometre",
+        "Dinamometre - Yaylı kantar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Madde miktarını (kütleyi) eşit kollu terazi, yer çekimi kuvvetini (ağırlığı) ise içindeki yayın esnemesinden faydalanan dinamometre ölçer."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "Dünya'dan Ay'a araştırma yapmaya giden bir astronotun kütlesi ve ağırlığı için aşağıdaki ifadelerden hangisi doğrudur?",
+      "answers": [
+        "Hem kütlesi hem de ağırlığı azalır.",
+        "Hem kütlesi hem de ağırlığı artar.",
+        "Kütlesi değişmez, ağırlığı artar.",
+        "Kütlesi değişmez, ağırlığı yaklaşık 6 kat azalır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Kütle değişmeyen madde miktarıdır. Ay'ın çekim gücü Dünya'nınkinin 6'da 1'i olduğu için sadece ağırlık azalır."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "Dünya, kutuplardan basık ekvatordan şişkin bir şekle (geoid) sahiptir. Kutuplarda bulunan bir cisim ekvatora doğru götürüldüğünde ağırlığında nasıl bir değişim gözlenir?",
+      "answers": [
+        "Sürekli artar.",
+        "Sürekli azalır.",
+        "Değişmez.",
+        "Önce artar, sonra azalır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Kutuplar Dünya'nın merkezine daha yakındır, bu yüzden yer çekimi kuvveti fazladır. Ekvatora inildikçe merkezden uzaklaşılır ve ağırlık giderek azalır."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "Bilimsel (fiziksel) anlamda iş yapılabilmesi için bir cisme kuvvet uygulanması ve cismin ne yapması zorunludur?",
+      "answers": [
+        "Kuvvet uygulanan yöne dik bir şekilde hareket etmesi",
+        "Kuvvetle aynı doğrultuda hareket ederek yer değiştirmesi",
+        "Sadece şekil değiştirmesi",
+        "Olduğu yerde dönmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Bir cisme uygulanan kuvvet, o cismi uygulandığı doğrultuda hareket ettiriyorsa fiziksel anlamda iş yapılmış olur."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "Aşağıdaki durumların hangisinde fiziksel anlamda iş yapılmış sayılmaz?",
+      "answers": [
+        "Yerdeki bir koliyi kaldırıp üst rafa koyan işçi",
+        "Düz yolda sırtındaki çanta ile sabit süratle ilerleyen öğrenci",
+        "Elindeki taşı havaya doğru fırlatan çocuk",
+        "Market arabasını ileri doğru iten müşteri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Sırtında çanta taşıyan öğrenci, çantayı yukarı doğru tutmak için (düşmemesi için) kuvvet uygular ancak çantayla birlikte ileri (yatay) hareket eder. Kuvvet ve hareket doğrultusu farklı olduğu için iş yapılmaz."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "Fiziksel anlamda yapılan işin büyüklüğü, uygulanan kuvvete ve cismin aldığı yola bağlıdır. İş ve enerji birimi olarak bilimde hangi terim kullanılır?",
+      "answers": [
+        "Newton",
+        "Kilogram",
+        "Joule",
+        "Pascal"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Kuvvet birimi Newton, yol birimi metredir. Bu ikisinin çarpımı olan İş (veya Enerji) birimi ise Joule'dür."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "Duvarı bütün gücüyle saatlerce itmesine rağmen onu hiç hareket ettiremeyen bir kişi yorgunluktan ter içinde kalmıştır. Bu kişinin durumu fizikte nasıl açıklanır?",
+      "answers": [
+        "Çok iş yapmıştır çünkü çok yorulmuştur.",
+        "Enerjisi sıfırdır.",
+        "İş yapmamıştır çünkü cisim (duvar) kuvvet doğrultusunda yer değiştirmemiştir.",
+        "Kuvvet uygulamamıştır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Fizikte yorulmak iş yapıldığını göstermez. Kuvvet uygulansa bile yer değiştirme (yol) sıfır ise yapılan iş de sıfırdır."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "Maddelerin iş yapabilme yeteneğine ne ad verilir?",
+      "answers": [
+        "Güç",
+        "Enerji",
+        "Kuvvet",
+        "Ağırlık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Enerji olmadan iş yapılamaz. Fiziksel sistemlerin iş yapabilme kapasitesi enerji olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "Hareket eden (belli bir sürate sahip) cisimlerin kütlelerinden ve süratlerinden dolayı sahip oldukları enerji türüne ne ad verilir?",
+      "answers": [
+        "Potansiyel Enerji",
+        "Esneklik Enerjisi",
+        "Kinetik Enerji",
+        "Isı Enerjisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Kinetik enerji, hareket enerjisidir. Hareket etmeyen (sürati sıfır olan) bir cismin kinetik enerjisi sıfırdır."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Kinetik enerjinin büyüklüğü hangi iki değişkene doğrudan bağlıdır?",
+      "answers": [
+        "Yükseklik ve Kütle",
+        "Sürat ve Yükseklik",
+        "Kütle ve Sürat",
+        "Hacim ve Ağırlık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Cismin kütlesi veya sürati (hızı) arttıkça sahip olduğu kinetik enerji de artar."
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "Kütleleri tamamen birbirine eşit olan A ve B araçlarından A aracı 50 km/h, B aracı ise 100 km/h süratle gitmektedir. Bu duruma göre hangi aracın kinetik enerjisi daha fazladır?",
+      "answers": [
+        "A aracının",
+        "B aracının",
+        "İkisinin eşittir.",
+        "Kinetik enerjileri yoktur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Kütleler eşitse, sürati daha yüksek olan cismin hareket (kinetik) enerjisi de her zaman daha büyüktür."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Cisimlerin bulundukları konum (yükseklik) nedeniyle sahip oldukları depolanmış enerji türüne ne denir?",
+      "answers": [
+        "Kinetik Enerji",
+        "Isı Enerjisi",
+        "Elektrik Enerjisi",
+        "Çekim Potansiyel Enerjisi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Yerden belli bir yüksekliğe çıkarılan cisim, yer çekimine karşı iş yaptığı için üzerinde 'çekim potansiyel enerjisi' depolar."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "Çekim potansiyel enerjisinin büyüklüğü cismin bulunduğu yüksekliğe ve hangi fiziksel özelliğine bağlıdır?",
+      "answers": [
+        "Süratine",
+        "Hacmine",
+        "Rengine",
+        "Kütlesine (veya Ağırlığına)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Bir cisim ne kadar yüksekteyse ve kütlesi (ağırlığı) ne kadar fazlaysa çekim potansiyel enerjisi o kadar büyük olur."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "Yay, lastik, sünger gibi esnek cisimlerin gerilmesi veya sıkıştırılması sonucu sahip oldukları (depoladıkları) enerji türüne ne ad verilir?",
+      "answers": [
+        "Kinetik Enerji",
+        "Çekim Potansiyel Enerjisi",
+        "Esneklik Potansiyel Enerjisi",
+        "Kimyasal Enerji"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Esnek cisimlerin şekli değiştirildiğinde üzerlerinde bir iş yapılır ve bu iş yayda veya lastikte 'esneklik potansiyel enerjisi' olarak birikir."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "Bir oyuncak arabayı fırlatmak için sıkıştırılan sarmal yayın esneklik potansiyel enerjisi aşağıdakilerden hangisine bağlı değildir?",
+      "answers": [
+        "Yayın ne kadar sıkıştırıldığına",
+        "Yayın kalınlığına",
+        "Yayın yapıldığı maddenin cinsine",
+        "Yayın rengine"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Esneklik enerjisi yayın sertliği, kalınlığı, cinsi ve ne kadar sıkıştığına (veya gerildiğine) bağlıdır. Renk gibi görsel özelliklerin fiziksel enerjiye etkisi yoktur."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "Aşağıdakilerden hangisi çekim potansiyel enerjisinin kinetik enerjiye dönüştüğü bir olaya örnektir?",
+      "answers": [
+        "Yerden havaya doğru atılan topun yükselmesi",
+        "Düz bir yolda hızlanan araba",
+        "Ağacın dalından koparak yere doğru düşmekte olan elma",
+        "Gerilmiş bir okun fırlatılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Dalından düşen elma yükseklik kaybettiği için potansiyel enerjisi azalır; ancak yere doğru hızlandığı için bu enerji kinetik enerjiye dönüşür."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "Hava sürtünmesinin ihmal edildiği bir ortamda, yerden dikey olarak yukarı fırlatılan bir top en tepe noktaya (maksimum yüksekliğe) ulaştığı anda hangi enerji durumundadır?",
+      "answers": [
+        "Sadece Kinetik Enerjisi vardır.",
+        "Kinetik enerjisi sıfırdır, Çekim Potansiyel Enerjisi maksimumdur.",
+        "İki enerjisi de sıfırdır.",
+        "İki enerjisi de maksimumdur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Top en tepe noktaya ulaştığında bir anlığına durur (sürat=0). Bu anlık duruşta kinetik enerji sıfırlanırken, en yüksek konumda olduğu için potansiyel enerjisi zirveye ulaşır."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "Enerjinin yok olmaması, ancak bir türden başka bir enerji türüne (örneğin potansiyelin kinetiğe) dönüşerek toplam enerjinin sabit kalması ilkesine ne ad verilir?",
+      "answers": [
+        "Kinetik Teoremi",
+        "Enerjinin Korunumu Yasası",
+        "Ağırlık Merkezi",
+        "Yer Çekimi Kanunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Evrendeki toplam enerji miktarı sabittir. Enerji yoktan var edilemez, var olan enerji de yok olamaz; sadece form (tür) değiştirir."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "Sürtünmesiz bir ortamda, bir ipten sarkıtılarak serbest bırakılan salıncak (sarkaç) şeklindeki bir cismin kinetik enerjisi hangi noktada en yüksek (maksimum) değere ulaşır?",
+      "answers": [
+        "Sallanmanın başladığı en yüksek noktalarda",
+        "Yere (denge konumuna) en yakın olduğu tam alt noktadan geçerken",
+        "Hareketin her anında aynıdır",
+        "Sallanmanın durduğu an"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 3,
+      "explanation": "Sarkaç en yüksekteyken potansiyel enerji maksimumdur. Aşağı doğru indikçe hızlanır ve en alt noktadan (denge noktası) geçerken maksimum hıza ulaşarak en yüksek kinetik enerjiye sahip olur."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "Bir sporcu, esnek bir sırık kullanarak yüksek atlama yapmaktadır. Koşarak gelen, sırığı yere saplayıp bükerek yükselen ve mindere düşen sporcunun enerji dönüşüm sırası nasıldır?",
+      "answers": [
+        "Potansiyel -> Kinetik -> Esneklik",
+        "Kinetik -> Esneklik Potansiyel -> Çekim Potansiyel -> Kinetik",
+        "Esneklik -> Potansiyel -> Isı",
+        "Sadece Kinetik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 3,
+      "explanation": "Sporcu koşarken (Kinetik), sırığı büker (Esneklik), yükseğe fırlar (Çekim Potansiyel) ve mindere düşerken tekrar hızlanır (Kinetik)."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "Hareket halindeki cisimlerin yüzeylerle temas etmesi sonucu hareketi zorlaştıran veya durduran etkiye sürtünme kuvveti denir. Sürtünme kuvveti kinetik enerjiyi çoğunlukla hangi enerji türüne dönüştürür?",
+      "answers": [
+        "Işık Enerjisine",
+        "Ses Enerjisine",
+        "Isı Enerjisine",
+        "Esneklik Enerjisine"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Ellerimizi birbirine sürttüğümüzde ısınması gibi, sürtünme kuvveti mekanik enerjiyi (kinetiği) ısı enerjisine dönüştürerek yutar."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "Düz bir yolda yuvarlanan bir futbol topu, hiçbir cisme çarpmamasına rağmen bir süre sonra yavaşlayarak durur. Bu durumun enerjinin korunumu yasası açısından açıklaması nedir?",
+      "answers": [
+        "Topun enerjisi tamamen yok olmuştur.",
+        "Kinetik enerji, sürtünme kuvveti nedeniyle ısı enerjisine dönüşerek dağılmıştır.",
+        "Topun potansiyel enerjisi artmıştır.",
+        "Kütlesi azalmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 3,
+      "explanation": "Enerji yok olmaz. Yerde yuvarlanan topun kinetik enerjisi zemin ve hava sürtünmesiyle adım adım ısıya dönüşerek havaya ve zemine aktarılır."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Hava ortamında hareket eden cisimlerin hareketini zorlaştıran hava direncini (sürtünmesini) artırarak güvenli bir iniş sağlamak amacıyla aşağıdaki araçlardan hangisi özel olarak tasarlanmıştır?",
+      "answers": [
+        "Yarış arabası",
+        "Mermi",
+        "Paraşüt",
+        "Hızlı tren"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 1,
+      "explanation": "Paraşütlerin yüzey alanı bilerek çok geniş tasarlanır ki hava direncini (sürtünmeyi) artırsın ve düşüş hızını güvenli bir seviyeye indirsin."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Denizaltıların, gemilerin ve sürat teknelerinin ön (baş) kısımlarının 'V' şeklinde (sivri) yapılmasının temel nedeni nedir?",
+      "answers": [
+        "Geminin batmasını sağlamak",
+        "Daha çok yük alabilmek",
+        "Su direncini (sürtünmesini) azaltarak suyun içinde daha hızlı ve kolay hareket etmek",
+        "Güneş ışığını daha iyi almak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Sivri uçlu tasarım suyu keser ve su direncinin (sürtünmesinin) gemiyi yavaşlatıcı etkisini en aza indirerek hareket kolaylığı sağlar."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "Dünya atmosferine hızla giren meteorların (gök taşlarının) büyük bir kısmının yeryüzüne ulaşamadan yanarak yok olması, sürtünme kuvvetinin hangi özelliği ile açıklanır?",
+      "answers": [
+        "Hava direncinin meteorun kinetik enerjisini hızla ısı ve ışık enerjisine dönüştürüp meteoru eritmesi",
+        "Meteorların aslında buzdan yapılmış olması",
+        "Yer çekiminin meteorları itmesi",
+        "Meteorların sürtünmesiz ortamda hareket etmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 3,
+      "explanation": "Atmosferin yarattığı hava sürtünmesi o kadar şiddetlidir ki, devasa kinetik enerji saniyeler içinde devasa bir ısıya dönüşür ve meteoru buharlaştırır."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "Aşağıdakilerden hangisi sürtünme kuvvetinin etkisini 'azaltmak' (işleri kolaylaştırmak) için yapılan bir uygulamadır?",
+      "answers": [
+        "Kışın arabalara kar lastiği veya zincir takılması",
+        "Haltercilerin ağırlık kaldırmadan önce ellerini pudralaması",
+        "Makine dişlilerinin ve motor parçalarının yağlanması",
+        "Merdiven basamaklarına kaydırmaz bant yapıştırılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Pudra, kar lastiği ve bant sürtünmeyi artırmak içindir. Yağlama ise yüzeyleri kayganlaştırıp aşınmayı ve ısı kaybını (sürtünmeyi) azaltmak içindir."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "Otomobiller, uçaklar ve hızlı trenler tasarlanırken dış yüzeylerinin havayı kolayca yaracak şekilde, aerodinamik ve pürüzsüz yapılması enerjinin korunumu açısından ne işe yarar?",
+      "answers": [
+        "Daha fazla yakıt harcamalarına neden olur.",
+        "Hava direncinin azaltılarak kinetik enerjinin ısıya dönüşüp kaybolmasını engeller, böylece yakıt tasarrufu sağlar.",
+        "Aracın daha ağır olmasını sağlar.",
+        "Aracın yolcuları sarsmasını engeller."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 3,
+      "explanation": "Aerodinamik tasarım rüzgar direncini düşürür. Daha az hava sürtünmesi, daha az enerji israfı ve daha az yakıt tüketimi demektir."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Okçuluk yarışmasına hazırlanan bir sporcu yayı geriye doğru kuvvetlice çekip beklemektedir. Bu anda okun ucunda ve yayda hangi enerji türü depolanmış durumdadır?",
+      "answers": [
+        "Sadece Kinetik Enerji",
+        "Çekim Potansiyel Enerjisi",
+        "Esneklik Potansiyel Enerjisi",
+        "Isı Enerjisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kuvvet Ve Enerjiyi Keşfedelim",
+      "difficulty": 2,
+      "explanation": "Yayın çekilip şeklinin değiştirilmesiyle üzerinde bir iş yapılır ve bu iş esneklik potansiyel enerjisi olarak sisteme (ok fırlatılana kadar) depolanır."
+    }
+  ]
+}

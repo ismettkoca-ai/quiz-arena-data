@@ -1,0 +1,425 @@
+{
+  "unit": "Kur'an-ı Kerim",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "Ali'nin dedesi, Kur'an-ı Kerim'i sadece süslü bir kılıfa koyup duvara asmak yerine, her gün masasına alıp anlamını düşünerek okumaktadır. Dedesinin bu davranışı Kur'an'ın indiriliş amaçlarından hangisiyle doğrudan ilgilidir?",
+      "answers": [
+        "Sadece evleri süslemek için indirilmesi",
+        "İnsanların okuyup anlaması ve hayatına uygulaması için bir rehber olması",
+        "Yalnızca hafızların okuyabileceği bir kitap olması",
+        "Sadece geçmişteki insanlara hitap etmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim duvarları süslemek için değil, insanların onu okuyup anlaması ve hayatlarına uygulaması (rehber edinmesi) için indirilmiştir."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "Ramazan ayında camide Kur'an okuyan Ayşe Teyze, her gün 20 sayfalık bir bölümü tamamlayarak okumasını bitirir. Kur'an-ı Kerim'in bu 20 sayfalık bölümlerine ne ad verilir?",
+      "answers": [
+        "Ayet",
+        "Sure",
+        "Cüz",
+        "Hatim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'in her biri 20 sayfadan oluşan 30 bölümünün her birine 'Cüz' adı verilir."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "Kur'an-ı Kerim'i inceleyen bir öğrenci, en kısası 3 ayet, en uzunu ise 286 ayet olan, başı ve sonu belli bölümlerden oluştuğunu görür. Kur'an'daki bu 114 farklı bölümün her birine ne ad verilir?",
+      "answers": [
+        "Cüz",
+        "Sure",
+        "Hafız",
+        "Meal"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'in içindeki birbirinden besmele ile ayrılan 114 bölümün her birine 'Sure' denir."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Öğretmen derste, 'Allah'ın Cebrail aracılığıyla Peygamberimize gönderdiği ilahi sözlerin her bir cümlesidir' demiştir. Öğretmenin tanımını yaptığı kavram hangisidir?",
+      "answers": [
+        "Ayet",
+        "Hadis",
+        "Kıssa",
+        "Tefsir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'de sureleri oluşturan, birkaç harften veya bir ya da birkaç cümleden oluşan ilahi ifadelere 'Ayet' denir."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "Kur'an-ı Kerim'in ilk inen ayetleri 'Yaratan Rabbinin adıyla oku!' şeklinde başlar. İlk emrin 'Oku' olması, İslam dininin neye verdiği önemi gösterir?",
+      "answers": [
+        "Sadece zenginliğe",
+        "Fiziksel güce ve savaşa",
+        "Bilgiye, öğrenmeye ve akletmeye",
+        "İnsanlardan uzak durmaya"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "İslam'ın ilk emrinin 'Oku' olması, dinimizin bilgiye, öğrenmeye, okumaya ve aklı kullanmaya verdiği büyük önemi vurgular."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "Kerem, Kur'an'ı Arapça aslından çok güzel ve akıcı okuyabilmektedir. Ancak Allah'ın kendisine neler öğütlediğini, neleri yasakladığını tam olarak anlamak istemektedir. Bu durumda Kerem'in ne okuması gerekir?",
+      "answers": [
+        "Siyer kitabı",
+        "Kur'an-ı Kerim Meali",
+        "Sadece Fatiha suresini",
+        "Yalnızca Türkçe şiirler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an-ı Kerim'in Arapçadan Türkçeye veya başka bir dile yaklaşık olarak çevrilmesine 'Meal' denir; anlamak için meal okunur."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "Allah'ın mesajlarını Peygamberimiz Hz. Muhammed'e (s.a.v) getirmekle görevli olan, Kur'an'da 'Ruhu'l-Kudüs' (Kutsal Ruh) olarak da anılan melek kimdir?",
+      "answers": [
+        "Mikail",
+        "İsrafil",
+        "Azrail",
+        "Cebrail"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Allah ile peygamberler arasında elçilik yapan ve Kur'an ayetlerini peygamberimize ulaştıran vahiy meleği Cebrail'dir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Kur'an-ı Kerim, tek seferde toplu bir kitap olarak değil, yaklaşık 23 yıllık bir süreçte ayet ayet, sure sure indirilmiştir. Bu durumun Müslümanlara sağladığı en büyük fayda ne olmuştur?",
+      "answers": [
+        "Kitabın sayfa sayısını azaltması",
+        "Ayetlerin anlaşılmasını, ezberlenmesini ve hayata uygulanmasını kolaylaştırması",
+        "Sadece Mekke halkına hitap etmesi",
+        "Arapça dışında başka dillere çevrilememesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Kur'an'ın parça parça inmesi (tedricilik), Müslümanların emir ve yasakları sindirerek öğrenmelerini ve yaşamlarına yavaş yavaş aktarmalarını sağlamıştır."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "Ahmet, Kur'an-ı Kerim'in başından (Fatiha Suresi) başlayıp sonuna kadar (Nas Suresi) tamamını sırasıyla okuyarak bitirmiştir. Ahmet'in yaptığı bu ibadete ne ad verilir?",
+      "answers": [
+        "Mukabele",
+        "Hatim",
+        "Hafızlık",
+        "Tefsir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'i başından sonuna kadar tamamen okuyup bitirmeye 'Hatim' veya 'Hatim indirmek' denir."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "Geçmişte yaşamış peygamberlerin ve toplumların başından geçen, Kur'an'da bize ibret ve ders olması için anlatılan tarihi olaylara ne ad verilir?",
+      "answers": [
+        "Ayet",
+        "Cüz",
+        "Kıssa",
+        "Hadis"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an-ı Kerim'de insanlara öğüt vermek, doğruyu göstermek amacıyla anlatılan geçmişteki olaylara 'Kıssa' denir."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Kur'an-ı Kerim okunurken veya dinlenirken insanların kalbine bir huzur ve sakinlik gelir. Yüce Allah, Kur'an'ın inananlar için bir 'Şifa ve Rahmet' olduğunu belirtir. Bu durum Kur'an'ın insan hayatındaki hangi yönünü gösterir?",
+      "answers": [
+        "Sadece maddi hastalıkları tedavi ettiğini",
+        "İnsanın ruhsal (psikolojik) sıkıntılarına huzur verdiğini",
+        "Sadece cenazelerde okunması gerektiğini",
+        "Okunuşunun çok zor olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an'ın şifa olması, insanın kalbini kötü duygulardan arındırması ve okunduğunda ruha büyük bir manevi huzur vermesiyle ilgilidir."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "Kur'an-ı Kerim'in tamamını kelimesi kelimesine ezberleyen, zihninde koruyan ve hafızasına kaydeden kişilere ne ad verilir?",
+      "answers": [
+        "Müezzin",
+        "Hafız",
+        "İmam",
+        "Hoca"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an'ın tamamını (600 sayfayı) eksiksiz bir şekilde ezberleyen ve koruyan kişiye 'Hafız' denir."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "Müslümanlar Kur'an-ı Kerim'e dokunmadan önce mutlaka abdest alırlar. Onu temiz kılıflarda, yüksek yerlerde muhafaza ederler. Bu davranışlar neyin göstergesidir?",
+      "answers": [
+        "Kur'an'ın Allah'ın sözü (kelamı) olduğuna duyulan büyük saygının",
+        "Kur'an okumanın çok tehlikeli bir iş olduğunun",
+        "Sadece temiz insanların Kur'an öğrenebileceğinin",
+        "Kur'an'ın eski bir kitap olmasının"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an-ı Kerim sıradan bir kitap değildir, yüce Allah'ın sözüdür. Abdestli dokunmak ve özenle saklamak O'na duyulan sevgi ve saygının sonucudur."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Kur'an-ı Kerim'in temel konuları arasında; Allah'ın varlığı, meleklere iman, ahiret inancı gibi konular 'İnanç', namaz ve oruç gibi konular 'İbadet' başlığında toplanır. Dürüstlük, yalan söylememek, adaletli olmak gibi konular hangi başlık altında değerlendirilir?",
+      "answers": [
+        "Kıssa",
+        "Hukuk",
+        "Ahlak",
+        "Tarih"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an'da insanların birbirleriyle ve çevreleriyle olan ilişkilerini düzenleyen, iyi ve kötü davranışları belirten kurallar bütününe 'Ahlak' denir."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "Kur'an-ı Kerim'de en çok vurgulanan konulardan biri de insanın çevresindeki mükemmel düzeni görüp 'düşünmesi ve aklını kullanması'dır. Buna göre Kur'an ile bilimsel düşünce arasında nasıl bir ilişki vardır?",
+      "answers": [
+        "Kur'an insanları bilimden ve düşünmekten uzaklaştırır.",
+        "Kur'an bilime karşı çıkar, sadece ibadeti öğütler.",
+        "Kur'an, aklı kullanmayı ve evreni incelemeyi teşvik eder.",
+        "Kur'an sadece Arapların bilim yapmasını ister."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an, 'Hiç düşünmüyor musunuz?', 'Aklınızı kullanmıyor musunuz?' ayetleriyle insanı sürekli evreni araştırmaya, okumaya ve bilime yönlendirir."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "Peygamberimiz döneminde inen Kur'an ayetleri, deri parçalarına, kürek kemiklerine ve yassı taşlara yazılarak ezberlenirdi. Kur'an ayetleri günümüze kadar hiçbir kelimesi bile değişmeden nasıl ulaşabilmiştir?",
+      "answers": [
+        "Sadece yazılı olduğu için",
+        "Kimse okumadığı için",
+        "Hem yazılıp hem de binlerce hafız tarafından ezberlenerek Allah'ın koruması altında olduğu için",
+        "Başka dillere çevrilmediği için"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Kur'an, indiği andan itibaren hem yazılmış hem de hafızlar tarafından ezberlenmiştir. Allah da Kur'an'ı koruyacağını ayetle müjdelemiştir."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Bir Müslüman sadece 'Lailaheillallah' (Allah'tan başka ilah yoktur) demekle kalmamalı, Kur'an'ın emrettiği gibi dürüst olmalı, yoksullara yardım etmeli ve çevresine faydalı olmalıdır. Bu durum Kur'an'ın hangi iki temel konusunun birbirinden ayrılamayacağını gösterir?",
+      "answers": [
+        "İnanç ve Ahlak",
+        "Kıssa ve Tarih",
+        "Ekonomi ve Hukuk",
+        "Eğitim ve Sanat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Sadece inanmak (İnanç) yetmez, bu inancın güzel davranışlara (Ahlak) ve ibadetlere dönüşmesi gerekir. Kur'an bunları bir bütün olarak ele alır."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "Zeynep, Kur'an'ı Arapça harflerle okumayı yeni öğrenmiş ancak bazı yerlerde harfleri uzatması veya kalın okuması gerektiğini fark etmiştir. Kur'an-ı Kerim'i kurallarına uygun ve güzel bir sesle okumayı öğreten ilim hangisidir?",
+      "answers": [
+        "Tefsir",
+        "Tecvid",
+        "Kelam",
+        "Fıkıh"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an harflerinin çıkış yerlerine, uzatma, tutma ve kalın-ince okuma kurallarına uyarak güzel okumayı sağlayan ilme 'Tecvid' denir."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "İlk Sure -> Fatiha",
+        "Son Sure -> Nas",
+        "En Uzun Sure -> Bakara",
+        "En Kısa Sure -> Yasin"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'in en kısa suresi 3 ayetten oluşan 'Kevser' suresidir. Yasin suresi ise oldukça uzundur."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "Öğretmeni, Sude'den Kur'an'ın indirildiği ilk gece olan ve Kur'an'da 'Bin aydan daha hayırlı' olarak müjdelenen o özel geceyi bulmasını istemiştir. Sude'nin doğru cevabı aşağıdakilerden hangisi olmalıdır?",
+      "answers": [
+        "Berat Kandili",
+        "Miraç Kandili",
+        "Kadir Gecesi",
+        "Mevlid Kandili"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kur'an-ı Kerim'in indirilmeye başlandığı, Ramazan ayının içinde bulunan ve bin aydan hayırlı olan o mübarek gece Kadir Gecesi'dir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Kur'an-ı Kerim sadece peygamberimizin yaşadığı döneme veya sadece Arap toplumuna değil, kıyamete kadar gelecek tüm insanlara, her çağa ve her ırka gönderilmiştir. Bu durum Kur'an'ın hangi özelliğini ifade eder?",
+      "answers": [
+        "Tarihi bir kitap olmasını",
+        "Evrensel bir kitap olmasını",
+        "Sadece kurallardan oluşmasını",
+        "Milli bir değer olmasını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Tüm dünyaya, bütün zamanlara ve tüm insanlığa hitap etmesi, Kur'an'ın 'Evrensel' (tüm evreni kapsayan) bir ilahi kitap olduğunu gösterir."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "Ramazan aylarında camilerde veya evlerde bir kişinin Kur'an'ı sesli olarak okuması, diğerlerinin de onu kendi kitaplarından veya hafızalarından sessizce takip etmesi geleneğine ne ad verilir?",
+      "answers": [
+        "Tefsir okumak",
+        "Vaaz dinlemek",
+        "Mukabele okumak",
+        "Hutbe okumak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz ile Cebrail'in her Ramazan ayında karşılıklı Kur'an okumasına dayanan bu takip etme geleneğine 'Mukabele' (karşılık vermek) denir."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "Kur'an'da geçen Yusuf peygamberin kıssasını okuyan Ali, kardeşlerinin ona kötülük yapmasına rağmen Hz. Yusuf'un onları affettiğini öğrenir. Ali bu kıssadan hangi dersi çıkarmalıdır?",
+      "answers": [
+        "İntikam almanın en doğru yol olduğu",
+        "Affetmenin, sabrın ve iyi niyetin sonunda her zaman kazandırdığı",
+        "Kardeşlere asla güvenilmemesi gerektiği",
+        "Sadece güçlü olanın hayatta kalacağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Kur'an'daki kıssalar sadece hikaye değil, bir ahlak dersidir. Hz. Yusuf kıssası bize sabrı, affetmeyi ve Allah'a güvenmeyi öğretir."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Kur'an-ı Kerim, 'iyi ile kötüyü, doğru ile yanlışı birbirinden ayıran' anlamına gelen bir isimle de anılır. Kur'an'ın bu önemli ismi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Furkan",
+        "Zikir",
+        "Şifa",
+        "Nur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Hak ile batılı (doğru ile yanlışı) birbirinden kesin bir çizgiyle ayıran anlamına gelen 'Furkan', Kur'an-ı Kerim'in diğer isimlerinden biridir."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Peygamberimiz (s.a.v), 'Sizin en hayırlınız, Kur'an'ı öğrenen ve öğreteninizdir' buyurmuştur. Bu hadis-i şerife göre bir Müslüman'dan beklenen en güzel davranış nedir?",
+      "answers": [
+        "Kur'an'ı sadece kendisi için okumak",
+        "Kur'an'ı yüksek raflarda saklamak",
+        "Kur'an'ın anlamını ve okunuşunu öğrenip bunu diğer insanlarla paylaşmak",
+        "Sadece Ramazan ayında Kur'an'ı hatırlamak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "İslam, ilmin (bilginin) paylaşılmasını ister. Kendi öğrendiği güzel ahlakı ve Kur'an'ı başkalarına öğreten kişi en hayırlı insandır."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "Kur'an-ı Kerim'in açıklamalı ve detaylı bir şekilde yorumlanmasına, ayetlerin hangi olay üzerine indiğinin (sebeb-i nüzul) anlatılmasına ne ad verilir?",
+      "answers": [
+        "Meal",
+        "Tefsir",
+        "Kıraat",
+        "Hatim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Meal sadece çeviridir. Ancak ayetlerin derinlemesine yorumlanması, ne demek istediğinin genişçe açıklanmasına 'Tefsir' ilmi denir."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "Kur'an-ı Kerim, 610 yılı Ramazan ayında inmeye başlamıştır. Bu ilk ayetlerin peygamberimize geldiği, Mekke yakınlarındaki o tarihi mekanın adı nedir?",
+      "answers": [
+        "Sevr Mağarası",
+        "Mescid-i Aksa",
+        "Nur Dağı - Hira Mağarası",
+        "Kâbe"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Peygamberimizin sık sık yalnız kalıp düşündüğü ve ilk vahyin (Alak Suresi ilk 5 ayet) geldiği yer Nur Dağı'ndaki Hira Mağarası'dır."
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Allah tarafından gönderilen ilahi kitaplar ve gönderildikleri peygamberler eşleştirilmiştir. Hangi eşleştirme yanlıştır?",
+      "answers": [
+        "Tevrat -> Hz. Musa",
+        "Zebur -> Hz. İsa",
+        "Kur'an-ı Kerim -> Hz. Muhammed",
+        "İncil -> Hz. İsa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 2,
+      "explanation": "Zebur adlı ilahi kitap Hz. Davud'a (a.s) indirilmiştir. Hz. İsa'ya indirilen kitap İncil'dir."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "Müslümanlar, peygamberlerin hayatlarını anlatan kıssaları okuduklarında onlardan örnek alırlar. Kur'an'a göre, aşağıdakilerden hangisi peygamber kıssalarının anlatılış amaçlarından biri olamaz?",
+      "answers": [
+        "Geçmiş toplumların hatalarından ders çıkarmak",
+        "Sabır ve dürüstlüğün önemini kavramak",
+        "Allah'ın adaletini anlamak",
+        "Eski çağlardaki masallarla insanları eğlendirmek"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 1,
+      "explanation": "Kıssalar asla birer efsane veya eğlencelik masal değildir. Tarihte yaşanmış ve insanlara ahlaki dersler veren gerçek olaylardır."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "Kur'an-ı Kerim'i oluşturan surelerin isimleri, genellikle o surenin içinde geçen dikkat çekici bir kelimeden veya anlattığı bir olaydan alınmıştır. 'İnek' anlamına gelen kelimeden adını alan ve Kur'an'ın en uzun suresi olan sure hangisidir?",
+      "answers": [
+        "Bakara Suresi",
+        "Neml Suresi",
+        "Nahl Suresi",
+        "Kevser Suresi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kur'an-ı Kerim",
+      "difficulty": 3,
+      "explanation": "Arapçada inek anlamına gelen 'Bakara', İsrailoğulları ile ilgili bir olaydan dolayı bu sureye isim olmuştur ve 286 ayetle Kur'an'ın en uzun suresidir."
+    }
+  ]
+}

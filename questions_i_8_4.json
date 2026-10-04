@@ -1,0 +1,425 @@
+{
+  "unit": "On the Phone",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "Secretary: Good morning, Mr. Taylor's office. \nMr. Black: Hello, could I speak to Mr. Taylor, please? \nSecretary: I'm sorry, he is not ............... at the moment.",
+      "answers": [
+        "available",
+        "engaged",
+        "connected",
+        "broken"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Telefonda birinin o an müsait olmadığını belirtmek için 'available' (müsait/ulaşılabilir) kelimesi kullanılır. 'He is not available' o an müsait olmadığını ifade eder."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "A: Hello, is Jane there?\nB: Please ............... . I will put you through.",
+      "answers": [
+        "hang up",
+        "hold on",
+        "pick up",
+        "call back"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Arayan kişiyi hatta bekletmek için 'hold on' (beklemek/hatta kalmak) ifadesi kullanılır."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "'Put through' ifadesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Telefonu kapatmak",
+        "Hatta beklemek",
+        "Telefonu bağlamak",
+        "Mesaj bırakmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "'Put through' birini telefonda başka birine veya birime bağlamak (connect) anlamına gelir."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "A: Hello, this is Mark. Can I speak to Sarah?\nB: ............... I will get her.\nBoşluğa gelmesi gereken en uygun ifade hangisidir?",
+      "answers": [
+        "She is out.",
+        "Hang up the phone.",
+        "Don't call again.",
+        "Just a minute, please."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "B kişisi 'I will get her' (Onu çağıracağım) dediğine göre, Mark'tan beklemesini istemesi gerekir. 'Just a minute, please' (Bir dakika lütfen) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "If you want to end a phone conversation, you ............... the phone.",
+      "answers": [
+        "hang up",
+        "dial",
+        "pick up",
+        "hold"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Bir telefon görüşmesini sonlandırmak (end) için telefonu kapatırız. Telefonu kapatmak 'hang up' demektir."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "A: Hi, is David at home?\nB: No, he has gone out. ...............?\nA: No, thanks. I'll call back later.",
+      "answers": [
+        "Who is calling",
+        "Would you like to leave a message",
+        "Could you put me through",
+        "Is it a bad line"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "David dışarıda olduğuna göre B kişisi mesaj bırakmak isteyip istemediğini soracaktır. 'Would you like to leave a message?' (Mesaj bırakmak ister misiniz?) doğru sorudur."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "A: I am trying to call Mary, but the line is always ...............\nB: She is probably talking to someone else.",
+      "answers": [
+        "available",
+        "engaged",
+        "broken",
+        "smart"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Biri başkasıyla konuşuyorsa hat meşguldür. Hat meşgul demek için 'engaged' (veya busy) kelimesi kullanılır."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "What do you do when your phone rings? You ............... it.",
+      "answers": [
+        "hang up",
+        "dial",
+        "pick up",
+        "text"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Telefon çaldığında telefonu açarız. Telefonu açmak/cevaplamak eylemi 'pick up' veya 'answer' kelimeleriyle ifade edilir."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "To make a phone call, first you take your phone and ............... the number.",
+      "answers": [
+        "hold",
+        "dial",
+        "hang up",
+        "leave"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Birini aramak için önce numarayı tuşlamak/çevirmek gerekir. 'Dial' numara çevirmek/tuşlamak demektir."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Customer Service: Hello, how can I help you?\nClient: I bought a shirt yesterday, but it is torn. I want to ............... it.",
+      "answers": [
+        "book",
+        "buy",
+        "return",
+        "listen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 1,
+      "explanation": "Müşteri, aldığı gömleğin yırtık (torn) olduğunu söylüyor. Bu durumda onu iade etmek (return) isteyecektir."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "A: Can I speak to the manager, please?\nB: ............... I am trying to connect you.",
+      "answers": [
+        "He is not here.",
+        "Hang up the phone.",
+        "Hold the line, please.",
+        "Could you repeat that?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "B kişisi 'Sizi bağlamaya çalışıyorum' dediğine göre A kişisinden hatta kalmasını (Hold the line, please) istemelidir."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "A: Hello. This is Tom calling.\nB: ...............\nA: Tom! T-O-M. Can you hear me now?",
+      "answers": [
+        "I'll put you through.",
+        "Could you speak louder, please? It's a bad line.",
+        "Would you like to leave a message?",
+        "Don't hang up."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Tom adını heceleyerek (T-O-M) ve 'Beni şimdi duyabiliyor musun?' diyerek tekrar ettiğine göre B kişisi onu iyi duyamamıştır. 'Hat kötü, daha yüksek sesle konuşabilir misiniz?' (Could you speak louder, please? It's a bad line.) en mantıklı ifadedir."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "I'm calling to ............... a flight ticket to London for next Monday.",
+      "answers": [
+        "return",
+        "cancel",
+        "book",
+        "connect"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Gelecek pazartesi için Londra'ya uçak bileti ayırtmak amacıyla arıyor. Bilet, otel vb. ayırtmak/rezervasyon yapmak 'book' veya 'reserve' fiili ile ifade edilir."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "Aşağıdaki iletişim yollarından (ways of communication) hangisi farklı bir gruptadır?",
+      "answers": [
+        "Sending an email",
+        "Leaving a voicemail",
+        "Texting a message",
+        "Writing a letter"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Email göndermek, mesaj yazmak (texting) ve mektup yazmak yazılı iletişim yollarıdır. 'Leaving a voicemail' (Sesli mesaj bırakmak) ise sözlü (verbal) iletişime girer."
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Secretary: Mr. Jackson is in a meeting right now. ...............?\nMr. Smith: Yes. Can you tell him to call Mr. Smith back?",
+      "answers": [
+        "Who is calling",
+        "Can I take a message",
+        "Could you put me through",
+        "Is he available"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Arayan kişi 'Evet. Bana geri dönmesini söyler misiniz?' diyerek bir mesaj bırakmaktadır. Bu yüzden sekreterin sorusu 'Mesajınızı alabilir miyim?' (Can I take a message?) olmalıdır."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "Choose the correct synonym (eş anlamlı) for 'keep in touch'.",
+      "answers": [
+        "Hang up",
+        "Communicate",
+        "Leave",
+        "Cancel"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "'Keep in touch' iletişimde kalmak, irtibatı koparmamak demektir. Eş anlamlısı 'communicate' (iletişim kurmak) kelimesidir."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Sue: I have a problem with my internet connection. I can't go online.\nWhich number should Sue dial?",
+      "answers": [
+        "A restaurant",
+        "A travel agency",
+        "Customer service of the internet provider",
+        "A hospital"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Sue'nun internet bağlantısıyla ilgili sorunu olduğuna göre, internet sağlayıcısının müşteri hizmetlerini (Customer service of the internet provider) aramalıdır."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Many teenagers use their smartphones to ............... their way in the traffic.",
+      "answers": [
+        "translate",
+        "learn",
+        "find",
+        "buy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "Trafikte yönlerini/yollarını 'bulmak' için akıllı telefonlardaki navigasyonları kullanırlar. Yön bulmak 'find one's way' kalıbıdır."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "I. Hello, is that Green Travel Agency?\nII. Yes, how can I help you?\nIII. I would like to book a room for two nights.\nIV. Let me check... I'm sorry, we are completely booked.\n\nYukarıdaki numaralanmış diyalog doğru sıradadır. III numaralı cümlede müşterinin arama amacı (purpose) nedir?",
+      "answers": [
+        "To make a complaint",
+        "To buy a flight ticket",
+        "To make a reservation",
+        "To return a product"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "'Book a room' (oda ayırtmak) ifadesi rezervasyon yapmak anlamına gelir (To make a reservation)."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "A: Can you put me through to the manager, please?\nB: ............... Could you hold on a minute?",
+      "answers": [
+        "Let me check if he is in his office.",
+        "I'm sorry, he is busy.",
+        "He has gone out.",
+        "You have the wrong number."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "On the Phone",
+      "difficulty": 2,
+      "explanation": "B kişisi 'Bir dakika bekler misiniz?' dediğine göre, müdürün odasında olup olmadığını kontrol edecektir (Let me check if he is in his office)."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "MEMO\nTo: Mr. Brown\nFrom: Mrs. Davis\nDate: 12th May\nTime: 2.30 p.m.\nMessage: The meeting is postponed to Friday.\n\nAccording to the memo, who called the office?",
+      "answers": [
+        "The secretary",
+        "Mr. Brown",
+        "Mrs. Davis",
+        "The manager"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "Not kağıdında (Memo) 'From' (Kimden) kısmı arayan/mesajı bırakan kişiyi gösterir. Mesajı bırakan kişi Mrs. Davis'tir."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "MEMO\nTo: Mr. Brown\nFrom: Mrs. Davis\nDate: 12th May\nTime: 2.30 p.m.\nMessage: The meeting is postponed to Friday.\n\nWhat is the message about?",
+      "answers": [
+        "A change in the schedule of the meeting.",
+        "Buying a flight ticket to London.",
+        "Returning a broken product.",
+        "Asking for an extension number."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "Mesajda toplantının cumaya ertelendiği (postponed) yazmaktadır. Bu da toplantı planında/programında bir değişiklik (change in the schedule) olduğunu gösterir."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "If you don't know the ............... number of the person you want to talk to in a big company, you can wait for the operator.",
+      "answers": [
+        "flight",
+        "extension",
+        "smart",
+        "social"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "Büyük şirketlerde belli bir kişinin odasına/telefonuna doğrudan bağlanmak için kullanılan dahili numaraya 'extension number' denir."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "A: Hello, X Company. How can I help you?\nB: Hello. I bought a smartphone from your website, but the screen is broken. I want to make a ...............",
+      "answers": [
+        "reservation",
+        "complaint",
+        "flight",
+        "payment"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "B kişisi ekranı kırık bir telefon aldığını belirtiyor. Bu durumda müşteri hizmetlerini arama amacı şikayet etmektir (make a complaint)."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "There are many pros (advantages) and cons (disadvantages) of using smartphones. Which of the following is a CON (disadvantage)?",
+      "answers": [
+        "Easy internet access",
+        "Keeping in touch with friends easily",
+        "Smartphone addiction",
+        "Finding your way with maps"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "'Con' dezavantaj demektir. Akıllı telefon bağımlılığı (Smartphone addiction) telefon kullanımının olumsuz (dezavantajlı) bir yönüdür."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Most teenagers prefer sending text messages to making a phone call because they think it is ...............",
+      "answers": [
+        "more difficult and expensive",
+        "faster and cheaper",
+        "boring and slow",
+        "unbearable"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "Gençlerin aramak yerine mesaj atmayı tercih etmelerinin en yaygın nedeni mesajlaşmanın daha hızlı ve ucuz (faster and cheaper) olduğunu düşünmeleridir."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "A: I am sorry, but she is not available. Would you like to leave a message?\nB: ............... Can you tell her to call me back?",
+      "answers": [
+        "No, thanks.",
+        "Yes, please.",
+        "I'll call back later.",
+        "Don't worry."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "B kişisi 'Bana geri dönmesini söyler misiniz?' diyerek mesaj bırakmaktadır. Bu yüzden 'Mesaj bırakmak ister misiniz?' sorusuna 'Evet, lütfen' (Yes, please) yanıtını vermelidir."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "Which matching of phrasal verbs is CORRECT?",
+      "answers": [
+        "Hang on = End the call",
+        "Hang up = Wait on the line",
+        "Get back = Call later",
+        "Put through = Answer the phone"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "'Get back to someone' birine geri dönüş yapmak, daha sonra aramak anlamına gelir ve 'Call later' ile eşleşir. Diğerleri yanlıştır (Hang on = beklemek, Hang up = kapatmak, Put through = bağlamak)."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "A: I want to book a table for two for tonight.\nB: ...............\nA: At 8 p.m. please.\nWhat did 'B' ask?",
+      "answers": [
+        "How many people?",
+        "What time?",
+        "Can I take your name?",
+        "Would you like a dessert?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "A kişisi 'At 8 p.m. please' (Akşam 8'de lütfen) diye saat vererek yanıtladığına göre, B kişisi saati, yani 'What time?' (Saat kaçta?) sorusunu sormuştur."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "In customer service calls, if the call center agent says 'Please hold on, I am putting you through to the related department', what does it mean?",
+      "answers": [
+        "The agent is hanging up the phone.",
+        "The agent is transferring the call to the right person.",
+        "The agent wants you to call back later.",
+        "The agent is leaving a message for you."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "On the Phone",
+      "difficulty": 3,
+      "explanation": "Müşteri temsilcisinin 'Lütfen bekleyin, sizi ilgili bölüme bağlıyorum' demesi, aramayı doğru kişiye/bölüme aktardığını (transferring the call) gösterir."
+    }
+  ]
+}

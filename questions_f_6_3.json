@@ -1,0 +1,425 @@
+{
+  "unit": "Canlılarda Sistemler",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "Vücudumuza şekil veren, dik durmamızı sağlayan ve beyin, kalp gibi hayati iç organlarımızı darbelere karşı koruyan sisteme ne ad verilir?",
+      "answers": [
+        "Sindirim Sistemi",
+        "Destek ve Hareket Sistemi",
+        "Boşaltım Sistemi",
+        "Solunum Sistemi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Kemikler, eklemler ve kaslardan oluşan 'Destek ve Hareket Sistemi' vücudun çatısını oluşturur, ona destek olur ve hareket etmesini sağlar."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "İnsan iskeletindeki kemikler şekillerine göre uzun, kısa ve yassı olmak üzere üçe ayrılır. Aşağıdakilerden hangisi 'uzun kemiklere' bir örnektir?",
+      "answers": [
+        "Kafatası kemikleri",
+        "Omurga kemikleri",
+        "Kol ve bacak kemikleri",
+        "El ve ayak bileği kemikleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Boyu eninden daha uzun olan kemiklere uzun kemik denir. Kollarımızdaki ve bacaklarımızdaki (uyluk) kemikler uzun kemiklerin en belirgin örnekleridir."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Kafatasımızdaki kemikler birbirine adeta bir yapboz parçası gibi sıkıca kenetlenmiştir ve aralarında hareket yoktur. Bu eklem türüne ne ad verilir?",
+      "answers": [
+        "Oynar eklem",
+        "Yarı oynar eklem",
+        "Oynamaz eklem",
+        "Kıkırdak eklem"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Beyni korumakla görevli olan kafatası kemikleri, hareket etmeyecek şekilde birbirine kaynaşmıştır. Bu sıkı bağlantılara oynamaz eklem denir."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "Bilinçli (isteğimizle) çalışan, iskeletimize tutunarak hareket etmemizi sağlayan ancak çok çabuk yorulan kas çeşidi hangisidir?",
+      "answers": [
+        "Düz kas",
+        "Çizgili kas (İskelet kası)",
+        "Kalp kası",
+        "Mide kası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Çizgili kaslar kol ve bacaklarımızda bulunur. Kendi isteğimizle çok hızlı hareket ettirebiliriz ancak kısa sürede laktik asit birikimiyle yorulurlar."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "Mide, ince bağırsak ve kan damarları gibi iç organlarımızın yapısında bulunan; isteğimiz dışında otomatik, yavaş ve yorulmadan çalışan kas türü hangisidir?",
+      "answers": [
+        "Çizgili kas",
+        "Kalp kası",
+        "Düz kas",
+        "İskelet kası"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "İç organlarımızın (kalp hariç) çalışmasını sağlayan düz kaslardır. Beynimizin bilinçli düşüncesine ihtiyaç duymadan, yorulmaksızın kendi kendilerine çalışırlar."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "Kas türleri arasında istisnai (özel) bir yapıya sahip olan 'Kalp Kası'nın en temel özelliği aşağıdakilerden hangisidir?",
+      "answers": [
+        "İsteğimizle çalışması",
+        "Yapı olarak düz kasa, çalışma olarak çizgili kasa benzemesi",
+        "Sadece kollarımızda bulunması",
+        "Yapı olarak çizgili kasa benzemesine rağmen, isteğimiz dışında yorulmadan (düz kas gibi) sürekli çalışması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Kalp kası mikroskop altında çizgili görünür ve güçlü kasılır, ancak irademiz (isteğimiz) dışında tıpkı bir düz kas gibi hayat boyu yorulmadan tıkır tıkır çalışır."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "Yediğimiz büyük yapılı besin maddelerinin, hücrelerimizin zarlarından geçebilecek kadar küçük parçalara (yapı taşlarına) ayrılması olayına ne denir?",
+      "answers": [
+        "Boşaltım",
+        "Solunum",
+        "Sindirim",
+        "Dolaşım"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Besinlerin kana karışıp hücrelere gidebilmesi için çok küçülmeleri (mikroskobik boyutlara inmesi) gerekir. Bu küçültme ve parçalama işlemine sindirim denir."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "Besinlerin herhangi bir kimyasal enzim kullanılmadan, sadece dişlerle çiğnenerek veya kaslarla ezilerek küçük parçalara ayrılmasına ne ad verilir?",
+      "answers": [
+        "Kimyasal Sindirim",
+        "Fiziksel (Mekanik) Sindirim",
+        "Biyolojik Sindirim",
+        "Emilim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Ekmeği dişlerimizle koparmak veya midenin kasılarak besinleri yoğurması, besinlerin yapısını (kimyasını) bozmadan sadece boyutunu küçülttüğü için Fiziksel sindirimdir."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "Besinlerin su ve 'Enzim' adı verilen özel kimyasal sıvılar yardımıyla tamamen eritilerek en küçük yapı taşlarına kadar ayrılmasına ne ad verilir?",
+      "answers": [
+        "Mekanik Sindirim",
+        "Fiziksel Sindirim",
+        "Kimyasal Sindirim",
+        "Hücresel Emilim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Enzimlerin bir makas gibi görev yaparak besinleri yapı taşlarına (kimyasına) kadar parçalayıp kana geçebilecek hale getirmesi olayına kimyasal sindirim denir."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "Tükettiğimiz besinlerden et, yumurta ve süt gibi 'Proteinlerin' kimyasal sindirimi vücudumuzda ilk olarak hangi organda başlar?",
+      "answers": [
+        "Ağız",
+        "İnce Bağırsak",
+        "Mide",
+        "Yutak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Karbonhidratların (ekmek) sindirimi ağızdaki tükürükle başlarken, proteinlerin kimyasal sindirimi ilk kez midenin içindeki güçlü asit ve enzimlerle başlar."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "Sindirim sisteminde karbonhidratların, proteinlerin ve yağların kimyasal sindiriminin tamamen bittiği ve kana karıştığı (villuslar ile emildiği) final organı hangisidir?",
+      "answers": [
+        "Mide",
+        "Kalın bağırsak",
+        "Ağız",
+        "İnce bağırsak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "İnce bağırsak sindirimin patronudur. Bütün kimyasal parçalanmalar burada sona erer ve küçülen besinler ince bağırsaktaki parmaksı çıkıntılar (villuslar) tarafından emilerek kana geçer."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "Karaciğer tarafından üretilerek bir kesede depolanan ve yağların daha kolay parçalanmasını (yağların fiziksel sindirimini) sağlayan yeşilimsi sıvıya ne ad verilir?",
+      "answers": [
+        "Safra sıvısı",
+        "Tükürük sıvısı",
+        "Mide özsuyu",
+        "Pankreas özsuyu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Safra bir enzim değildir, bu yüzden kimyasal sindirim yapamaz. Görevi büyük yağ damlalarını mekanik olarak küçük yağ damlacıklarına çevirmektir."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "Kan hücreleri görevlerine göre alyuvar, akyuvar ve kan pulcukları olarak üçe ayrılır. Vücudumuza giren mikroplara karşı savaşan (vücudun asker hücreleri) hangisidir?",
+      "answers": [
+        "Alyuvarlar",
+        "Akyuvarlar",
+        "Kan pulcukları",
+        "Plazma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Akyuvarlar ('Ak' yani beyaz kan hücreleri) bağışıklık ve savunma sistemimizdir. Hasta olduğumuzda sayıları hızla artarak mikropları yok ederler."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "Damarımız kesildiğinde bir süre sonra yara kabuk bağlar ve kanama durur. Kanın katılaşmasını (pıhtılaşmasını) sağlayan kan hücreleri hangileridir?",
+      "answers": [
+        "Akyuvarlar",
+        "Kan pulcukları",
+        "Alyuvarlar",
+        "Plazma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Kan pulcukları, damar zedelendiğinde o bölgeye ağ örerek kanın katılaşmasını (pıhtılaşmayı) ve yaranın dışarı sızmasını engeller."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "Oksijence zengin (temiz) kanı kalbimizden alıp tüm vücut hücrelerimize doğru pompalayan, çeperleri kalın ve dayanıklı damarlara ne ad verilir?",
+      "answers": [
+        "Toplardamar",
+        "Kılcal damar",
+        "Atardamar",
+        "Lenf damarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Kalbin kanı güçlü bir şekilde dışarı (vücuda) fırlattığı (attığı) damarlar atardamarlardır. İçlerinde yüksek basınçlı kan taşırlar."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "Dolaşım sistemimizde 'Küçük Kan Dolaşımı' kalbin sağ karıncığında başlayıp sol kulakçığında biter. Küçük kan dolaşımının yapılmasındaki temel amaç nedir?",
+      "answers": [
+        "Besinlerin hücrelere iletilmesini sağlamak",
+        "Vücutta kirlenen (karbondioksitli) kanı akciğerlere götürüp oksijenle temizleyerek kalbe geri getirmek",
+        "Kanın vücut ısısını düzenlemek",
+        "Hücrelerdeki atıkları böbreğe taşımak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Küçük dolaşım kalp ile akciğer arasındaki kısa yoldur. Tek amacı kirli kanı (egzoz gazını) ciğerlere atıp yerine temiz oksijen alarak kalbe dönmektir."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Atardamarlar ile toplardamarları birbirine bağlayan, saç teli inceliğinde olan ve kandaki oksijen-besinlerin hücrelere geçişini sağlayan incecik damarlar hangileridir?",
+      "answers": [
+        "Aort",
+        "Toplardamar",
+        "Atardamar",
+        "Kılcal damar"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Kılcal damarlar çok ince duvarlıdır. Bu sayede içindeki temiz oksijeni ve besini hücreye kolayca sızdırır, hücrenin çöplerini de (karbondioksiti) içine alır."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "Güvenli bir kan nakli için kişinin kan grubuyla alacağı kanın uyumlu olması çok önemlidir. Buna göre A Rh(+) kan grubuna sahip olan bir hasta, acil bir durumda sadece kimlerden kan alabilir?",
+      "answers": [
+        "B Rh(+) kan grubuna sahip kişilerden",
+        "Tüm negatif gruplardan",
+        "Sadece kendi grubuyla aynı olan A Rh(+) kişilerden",
+        "Herkes'ten kan alabilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Kan nakillerinde altın kural kendi grubuyla birebir eşleşmektir. Bir kişi ancak kendi kan grubundan ve kendi Rh faktöründen (A Rh+ ise A Rh+ den) güvenle kan alabilir."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "Nefes aldığımızda havadaki oksijenin akciğerlere kadar ulaşırken izlediği doğru yol hangi seçenekte sırasıyla verilmiştir?",
+      "answers": [
+        "Burun -> Soluk borusu -> Yutak -> Gırtlak -> Akciğerler",
+        "Burun -> Yutak -> Gırtlak -> Soluk borusu -> Akciğerler",
+        "Ağız -> Gırtlak -> Yutak -> Akciğerler",
+        "Burun -> Akciğerler -> Yutak -> Gırtlak -> Soluk borusu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Hava önce burundan girer (ısıtılır/temizlenir), yutak ve ses tellerinin olduğu gırtlaktan geçerek uzun kıkırdak boru olan soluk borusuyla akciğerlere ulaşır."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "Soluk borusunun nefes alıp verme sırasında büzülerek yapışmasını (kapanmasını) engelleyen ve sürekli açık kalmasını sağlayan yapı aşağıdakilerden hangisidir?",
+      "answers": [
+        "İçindeki düz kaslar",
+        "Kemik doku",
+        "C harfi şeklindeki kıkırdak halkalar",
+        "Tüyler"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Soluk borusu üst üste dizilmiş yarım ay (C) şeklindeki sert kıkırdak halkalardan oluşur. Bu kıkırdaklar borunun elektrik süpürgesi hortumu gibi içe çökmesini engeller."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "Akciğerlerimizin en uç noktalarında bulunan, etrafı kılcal damarlarla sarılı olan ve oksijen ile karbondioksitin yer değiştirdiği üzüm salkımına benzeyen minik hava keseciklerine ne denir?",
+      "answers": [
+        "Bronş",
+        "Bronşçuk",
+        "Diyafram",
+        "Alveol"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Alveoller gaz alışverişinin asıl yapıldığı duraktır. Nefes aldığımızdaki oksijen alveollerden kana, kandaki zehirli karbondioksit ise kana atılmak üzere alveollere geçer."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "Nefes (soluk) alma sırasında akciğerlerin altına yerleşmiş kaslı bir yapı olan 'Diyafram' ve göğüs kafesimiz nasıl bir hareket yapar?",
+      "answers": [
+        "Diyafram kubbeleşir, göğüs kafesi daralır.",
+        "Diyafram kasılıp düzleşir (aşağı iner), göğüs kafesi genişler.",
+        "İkisi de hareketsiz kalır.",
+        "Diyafram yukarı çıkar, göğüs kafesi küçülür."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Nefes aldığımızda havanın akciğerlere dolması için ekstra yere (hacme) ihtiyacımız vardır. Bu yüzden diyafram aşağı doğru düzleşir ve göğüs kafesi havayla şişip genişler."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "Hücrelerimizde oluşan zehirli atık maddelerin (üre, ürik asit) ve fazla suyun kandan süzülerek idrar halinde vücut dışına atılması işlemini gerçekleştiren sisteme ne ad verilir?",
+      "answers": [
+        "Boşaltım Sistemi",
+        "Sindirim Sistemi",
+        "Dolaşım Sistemi",
+        "Solunum Sistemi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Kanı bir filtre gibi temizleyerek zararlı atıkları vücuttan idrar yoluyla uzaklaştıran bu önemli yapı Boşaltım Sistemidir."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "Boşaltım sisteminde kanın asıl süzüldüğü ve atıkların ayrıştırılarak idrarın oluşturulduğu (fasulye şeklindeki) ana organımız aşağıdakilerden hangisidir?",
+      "answers": [
+        "Mesane",
+        "Böbrek",
+        "Üreter",
+        "Üretra"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 1,
+      "explanation": "Böbrekler belimizin iki yanında bulunan, içindeki 'nefron' adı verilen milyonlarca süzgeç sayesinde kanı temizleyip idrarı oluşturan organdır."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "Böbreklerde süzülerek oluşturulan idrar, vücuttan dışarı atılana kadar sırasıyla hangi yolu izler?",
+      "answers": [
+        "Böbrek -> Mesane (İdrar kesesi) -> Üretra -> Üreter",
+        "Üretra -> Böbrek -> Mesane -> Üreter",
+        "Böbrek -> Üreter (İdrar borusu) -> Mesane (İdrar kesesi) -> Üretra (İdrar kanalı)",
+        "Mesane -> Böbrek -> Üreter -> Üretra"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "İdrar önce böbrekte üretilir, oradan uzun bir boru olan 'Üreter' ile aşağı iner. Esnek torba olan 'Mesane'de bir süre depolanır ve tuvalet ihtiyacı geldiğinde 'Üretra' kanalından atılır."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "Vücudumuzda boşaltım işlemini sadece böbrekler yapmaz. Atık maddelerin bir kısmını 'Terleme' yoluyla gözeneklerinden dışarı atarak boşaltıma yardımcı olan büyük organımız hangisidir?",
+      "answers": [
+        "Akciğer",
+        "Karaciğer",
+        "Deri",
+        "Kalın bağırsak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Derimiz terleme yoluyla vücuttaki fazla su ve tuzu dışarı atar. Böylece hem vücudun ısı dengesini sağlar hem de böbreklerin yükünü hafifletir."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "Yediğimiz besinlerin sindirilemeyen posalarını (atıklarını) depolayan ve içindeki fazla suyu emerek dışkı (katı atık) halinde vücuttan atan organ hangisidir?",
+      "answers": [
+        "Mide",
+        "İnce Bağırsak",
+        "Kalın Bağırsak",
+        "Karaciğer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 2,
+      "explanation": "Kalın bağırsak, sindirim sisteminin bir parçası olmasına rağmen su ve mineral emilimini tamamlayıp atıkları vücuttan atarak boşaltıma da dolaylı yoldan yardımcı olur."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "Kan hücrelerinden 'Alyuvarların' yapısında bulunan ve kana o meşhur kırmızı rengini veren maddenin adı nedir?",
+      "answers": [
+        "Hemoglobin",
+        "Melanin",
+        "Plazma",
+        "Klorofil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Alyuvarların içindeki hemoglobin proteini, oksijen ve karbondioksiti bağlayarak taşır. Demir içeren bu madde kana kırmızı rengini verir."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "Eforlu bir spor yapmaya (örneğin hızlıca koşmaya) başlayan bir kişide, sistemler arası ilişkiler düşünüldüğünde çalışma hızları sırasıyla nasıl bir tepki verir?",
+      "answers": [
+        "Sadece kas sistemi hızlanır, diğerleri yavaşlar.",
+        "Önce destek ve hareket sistemi hızlanır, kaslar çok enerji istediği için kalp atışı (dolaşım) ve nefes (solunum) hızlanır, artan atıklarla terleme (boşaltım) başlar.",
+        "Önce sindirim sistemi hızlanır, sonra solunum yavaşlar.",
+        "Sistemler birbirinden bağımsızdır, sadece terleme başlar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "İnsan vücudu muazzam bir bütündür. Koşmak kasları çalıştırır, kaslar fazla oksijen ister. Bu yüzden akciğerler ve kalp hemen hızlanarak o oksijeni yetiştirmeye çalışır, artan ısıyla deri terler."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "Sağlıklı bir insanda, süzülmek üzere böbreğe gelen kanda bol miktarda bulunan 'Üre' (zehirli atık) maddesi, süzülüp temizlendikten (böbrekten çıktıktan) sonra ne olur?",
+      "answers": [
+        "Kanın içinde tamamen aynı miktarda kalır.",
+        "Böbrekte birikip orada kalır.",
+        "Böbrekteki nefronlar tarafından süzülüp idrara karıştırılır, böylece temizlenen kan böbrekten çıkarken üre miktarı çok azalmış olur.",
+        "Üre tekrar kana geri emilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Canlılarda Sistemler",
+      "difficulty": 3,
+      "explanation": "Böbreğe gelen kanda çok fazla atık vardır. Böbrek bu kanı süzer, yararlıları geri kana verirken, zararlı olan 'Üre'yi idrar kanalına yönlendirerek vücuttan dışarı atılmasını sağlar."
+    }
+  ]
+}

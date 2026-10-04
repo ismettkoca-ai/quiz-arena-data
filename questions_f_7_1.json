@@ -1,0 +1,425 @@
+{
+  "unit": "Uzay Çağı",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "Gök cisimlerini incelemek için kullanılan, uzaydaki nesneleri yakınlaştırarak daha net görmemizi sağlayan optik araca ne ad verilir?",
+      "answers": [
+        "Mikroskop",
+        "Teleskop",
+        "Periskop",
+        "Dürbün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Uzay araştırmalarının temel aracı olan teleskop, gök cisimlerinden gelen ışığı toplayarak onları gözlemlememizi sağlar."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "Tarihte kendi yaptığı teleskopla gökyüzünü inceleyen ilk bilim insanı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Galileo, 1609 yılında kendi yaptığı teleskopla gökyüzünü gözlemlemiş; Ay'ın kraterlerini ve Jüpiter'in uydularını keşfeden ilk kişi olmuştur."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "Dünya yörüngesinde dönen, artık hiçbir işlevi kalmamış insan yapımı cisimlerin (eski uydular, roket parçaları) oluşturduğu soruna ne ad verilir?",
+      "answers": [
+        "Hava Kirliliği",
+        "Uzay Kirliliği",
+        "Işık Kirliliği",
+        "Ozon Delinmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Ömrünü tamamlamış uydular, roket enkazları ve yakıt tankları Dünya yörüngesinde tehlikeli bir 'Uzay Kirliliği' tabakası oluşturur."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "Aşağıdakilerden hangisi uzay kirliliğine neden olan faktörlerden biri değildir?",
+      "answers": [
+        "Ömrünü tamamlamış haberleşme uyduları",
+        "Uzay istasyonlarından bırakılan çöpler",
+        "Güneş sisteminde doğal olarak dolaşan meteorlar (gök taşları)",
+        "Parçalanmış roket parçaları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Meteorlar ve asteroitler uzayın doğal bir parçasıdır. Uzay kirliliği sadece 'insan yapımı' cisimlerin bıraktığı enkazlarla oluşur."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "Gökyüzü gözlemlerinin daha net yapılabilmesi için Rasathane (Gözlemevi) kurulacak bir yerin taşıması gereken en önemli özellik nedir?",
+      "answers": [
+        "Şehir merkezine ve ışıklarına çok yakın olması",
+        "Deniz seviyesinde ve çok nemli olması",
+        "Bulutsuz gece sayısının fazla, şehir ışıklarından uzak ve yüksek bir yer olması",
+        "Çevresinde büyük fabrikaların bulunması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Işık ve hava kirliliği yıldızların görünmesini engeller. Bu yüzden rasathaneler dağ tepelerine, karanlık ve nemsiz bölgelere kurulur."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "Geceleri sokak lambalarının yanlış tasarlanması, gökyüzüne doğru gereksiz ışık yayılması gök bilimcilerin yıldızları görmesini zorlaştırır. Bu duruma ne ad verilir?",
+      "answers": [
+        "Görüntü Kirliliği",
+        "Hava Kirliliği",
+        "Işık Kirliliği",
+        "Radyasyon Kirliliği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Yanlış yöne vuran ve gereğinden fazla kullanılan aydınlatmalar 'Işık Kirliliği' oluşturarak gökyüzünün karanlığını bozar."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "Uzaya gönderilen, astronotların içinde uzun süre yaşayıp deneyler ve bilimsel araştırmalar yapabildiği devasa laboratuvarlara ne ad verilir?",
+      "answers": [
+        "Uzay İstasyonu",
+        "Uzay Mekiği",
+        "Yapay Uydu",
+        "Uzay Sondası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Uluslararası Uzay İstasyonu (ISS) gibi yapılar, astronotların aylarca kalıp yerçekimsiz ortam deneyleri yaptığı büyük üslerdir."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "İnsanlı uçuşların çok tehlikeli olduğu uzak gezegenlere (Mars, Jüpiter vb.) gönderilen, o gezegenin fotoğrafını çekip Dünya'ya veri yollayan insansız uzay araçlarına ne denir?",
+      "answers": [
+        "Roket",
+        "Uzay İstasyonu",
+        "Uzay Sondası",
+        "Teleskop"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Uzay sondaları, içlerinde insan bulunmayan, uzak gezegenlere inerek veya yörüngesine girerek veri toplayan robotik araçlardır."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "Türkiye'nin uzayda iletişim ve yayıncılık amacıyla kullandığı aktif haberleşme uyduları genellikle hangi isim serisiyle adlandırılır?",
+      "answers": [
+        "Göktürk",
+        "Türksat",
+        "Rasat",
+        "İmece"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Türksat uyduları (Türksat 3A, 4A, 5B vb.) Türkiye'nin televizyon yayını ve haberleşme ihtiyacını karşılayan uydularıdır."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "Aşağıdaki Türk uydularından hangisi haberleşme değil, istihbarat, haritacılık ve çevre takibi amacıyla kullanılan 'Gözlem' uydularımızdan biridir?",
+      "answers": [
+        "Türksat 4B",
+        "Türksat 5A",
+        "Göktürk-1",
+        "Türksat 3A"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Göktürk, Rasat ve İmece uyduları, yeryüzünün fotoğraflarını çekerek askeri ve çevresel bilgi sağlayan gözlem uydularımızdır."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "Uzay mekikleri diğer uzay araçlarından (örneğin ilk dönem roketlerinden) farklı olarak çok büyük bir ekonomik avantaja sahipti. Bu avantaj nedir?",
+      "answers": [
+        "Sadece ışık hızıyla gitmeleri",
+        "Uçak gibi Dünya'ya iniş yapabilmeleri ve defalarca tekrar kullanılabilmeleri",
+        "İçinde oksijene ihtiyaç duyulmaması",
+        "Asla kaza yapmamaları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Uzay mekikleri, görevi bittikten sonra bir uçak gibi piste inebilen ve bir sonraki görevde tekrar kullanılabilen araçlardır."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "Yıldızlar arasındaki mesafeler o kadar büyüktür ki, bu mesafeleri kilometre ile ölçmek imkansızdır. Gök biliminde kullanılan 'Işık Yılı' kavramı neyi ölçmek için kullanılır?",
+      "answers": [
+        "Zamanı",
+        "Kütleyi",
+        "Sıcaklığı",
+        "Uzaklığı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Işık yılı bir zaman birimi değil, ışığın uzay boşluğunda bir yıl boyunca aldığı mesafeyi (yaklaşık 9.5 trilyon km) ifade eden bir uzaklık ölçüsüdür."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "Yıldızlar sıcaklıklarına göre farklı renklerde ışık yayarlar. Çok sıcak yıldızlar, orta sıcaklıktakiler ve en soğuk yıldızlar sırasıyla hangi renklerde görünür?",
+      "answers": [
+        "Kırmızı - Sarı - Mavi",
+        "Mavi - Sarı - Kırmızı",
+        "Sarı - Mavi - Kırmızı",
+        "Mavi - Kırmızı - Sarı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Ateşin merkezinin mavi olması gibi, yıldızlarda da en sıcak olanlar mavi/beyaz, orta sıcaklıktakiler sarı (Güneş gibi), sıcaklığı en düşük olanlar kırmızı renk yayar."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "Uzayda ekseni etrafında dönerken aynı zamanda bir bütün olarak hareket eden, gaz, toz ve yıldızların oluşturduğu devasa sistemlere ne ad verilir?",
+      "answers": [
+        "Bulutsu (Nebula)",
+        "Takımyıldızı",
+        "Galaksi (Gökada)",
+        "Güneş Sistemi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Milyarlarca yıldızın, gezegenin, gaz ve toz bulutlarının kütle çekimiyle bir arada durduğu dev sistemlere Galaksi denir."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "Güneş sistemimizin de içinde bulunduğu, merkezden dışarıya doğru uzanan kolları olan sarmal yapılı galaksinin adı nedir?",
+      "answers": [
+        "Andromeda",
+        "Samanyolu",
+        "Sombrero",
+        "Büyük Ayı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Dünyamız, Güneş sistemi ile birlikte sarmal yapıdaki Samanyolu (Milky Way) galaksisinin Avcı (Orion) kolunda yer alır."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "Dünyadan bakıldığında gökyüzünde bir arada duruyormuş gibi görünen ve eski çağlardan beri çeşitli nesnelere veya hayvanlara (Büyük Ayı, Orion vb.) benzetilen yıldız gruplarına ne denir?",
+      "answers": [
+        "Galaksi",
+        "Kuyruklu Yıldız",
+        "Takımyıldızı",
+        "Bulutsu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Gökyüzünü haritalamak ve yön bulmak için eski çağlardan beri kullanılan bu hayali yıldız gruplarına Takımyıldızı denir."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "Yıldızların doğduğu (oluştuğu), uzay boşluğunda geniş alanlara yayılmış olan yüksek yoğunluktaki gaz ve toz bulutlarına ne ad verilir?",
+      "answers": [
+        "Kara Delik",
+        "Bulutsu (Nebula)",
+        "Beyaz Cüce",
+        "Asteroit"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Bulutsular (Nebulalar) uzayın doğumhaneleridir. Kütle çekiminin etkisiyle gaz ve tozların sıkışması sonucu yeni yıldızlar burada oluşur."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "Kütlesi Güneş'in kütlesine yakın olan 'küçük kütleli' bir yıldız, ömrünün sonuna geldiğinde önce Kırmızı Dev'e dönüşür. Bu yıldızın yaşam döngüsünün en son aşaması nedir?",
+      "answers": [
+        "Kara Delik",
+        "Süpernova",
+        "Beyaz Cüce",
+        "Nötron Yıldızı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 3,
+      "explanation": "Küçük ve orta kütleli yıldızlar dış katmanlarını uzaya fırlatarak (Gezegenimsi Bulutsu) geriye sadece sönük, yoğun ve sıcak bir çekirdek bırakırlar. Buna Beyaz Cüce denir."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "Kütlesi Güneş'ten çok daha büyük olan devasa yıldızlar ömürlerini korkunç bir patlamayla ('Süpernova') tamamlarlar. Bu patlamanın ardından çekirdek kendi içine çökerek ışığın bile kaçamayacağı kadar güçlü bir çekim merkezine dönüşebilir. Bu gök cismine ne ad verilir?",
+      "answers": [
+        "Kara Delik",
+        "Kızıl Cüce",
+        "Gezegenimsi Bulutsu",
+        "Pulsar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Süpernova patlaması sonrası dev kütleli yıldızların çekirdeği inanılmaz bir yoğunluğa ulaşır ve kütle çekimi ışığı bile yutacak seviyeye çıkarak Kara Delik oluşturur."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "Bir gök bilimci yeryüzündeki teleskobuyla uzayı izlerken, görüntünün atmosferdeki bulutlar, rüzgar ve hava olayları nedeniyle titrediğini ve bozulduğunu fark etmiştir. Bu sorunu kökten çözmek için bilim dünyasının bulduğu en etkili yöntem nedir?",
+      "answers": [
+        "Daha kalın mercekler kullanmak",
+        "Teleskopları deniz altına yerleştirmek",
+        "Teleskopları atmosferin dışına (uzay yörüngesine) yerleştirmek",
+        "Gündüz gözlem yapmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 3,
+      "explanation": "Hubble ve James Webb gibi uzay teleskopları atmosferin bulanıklaştırıcı ve ışığı emici etkisinden kurtulmak için doğrudan uzay yörüngesine yerleştirilir."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Uzayda donmuş gaz, toz ve kaya parçalarından oluşan; Güneş'e yaklaştıkça buzları eriyerek arkasında parlak bir iz bırakan gök cisimlerine halk arasında 'Kirli Kartopu' da denir. Bu gök cisminin bilimsel adı nedir?",
+      "answers": [
+        "Kuyruklu Yıldız",
+        "Göktaşı (Meteor)",
+        "Kara Delik",
+        "Yapay Uydu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Kuyruklu yıldızlar aslında yıldız değildir; Güneş'e yaklaştıkça buharlaşan buz ve tozların ışığı yansıtmasıyla parlak bir kuyruk oluştururlar (Örn: Halley)."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "Güneş sistemindeki Mars ile Jüpiter gezegenleri arasında yoğun olarak bulunan, irili ufaklı binlerce kaya ve metal parçasına ne ad verilir?",
+      "answers": [
+        "Kuyruklu Yıldızlar",
+        "Asteroitler (Asteroit Kuşağı)",
+        "Kara Delikler",
+        "Yapay Uydular"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Mars ve Jüpiter arasındaki yörüngede dolanan bu kayaç kalıntılarına asteroit, bu bölgeye ise asteroit kuşağı denir."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "Uzay boşluğunda dolaşan kaya parçaları Dünya'nın atmosferine girdiğinde, yüksek hız ve sürtünme nedeniyle yanarak kor haline gelir. Gece gökyüzünde bir ışık çizgisi oluşturan (halk arasında yıldız kayması denilen) bu olaya neden olan cisme ne denir?",
+      "answers": [
+        "Gök taşı (Meteor)",
+        "Galaksi",
+        "Gezegen",
+        "Pulsar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Atmosfere giren gök cisimlerine meteor denir. Yanarak ışık saçması olayı ise meteor yağmuru veya yıldız kayması olarak bilinir."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "Atmosfere giren bir meteor tamamen yanıp kül olmazsa, yeryüzüne kadar ulaşıp yere şiddetle çarpar. Yeryüzüne ulaşmayı başaran bu kaya parçasına ve yerde oluşturduğu büyük çukura ne ad verilir?",
+      "answers": [
+        "Asteroit - Volkan çukuru",
+        "Gök taşı (Meteorit) - Gök taşı çukuru",
+        "Kuyruklu yıldız - Krater",
+        "Uydu - Havza"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Atmosferi geçip yere düşen taşa gök taşı (meteorit), düştüğü yerde açtığı büyük ize ise gök taşı çukuru denir."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "Küçükayı takımyıldızının en ucunda bulunan, Dünya'nın dönüş ekseniyle aynı doğrultuda olduğu için gökyüzünde yeri hiç değişmeyen ve her zaman Kuzey yönünü gösteren yıldızın adı nedir?",
+      "answers": [
+        "Güneş",
+        "Çoban Yıldızı (Venüs)",
+        "Kutup Yıldızı (Polaris)",
+        "Sirius"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 1,
+      "explanation": "Kutup Yıldızı (Polaris), gökyüzünde sabitmiş gibi görünür ve tarih boyunca denizcilere ve yolculara kuzey yönünü bulmada rehberlik etmiştir."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "1929 yılında Edwin Hubble, galaksilerin yaydığı ışıkları inceleyerek onların Dünya'dan ve birbirinden sürekli uzaklaştığını keşfetmiştir. Üzerinde noktalar olan bir balonun şişirildikçe noktaların birbirinden uzaklaşmasına benzetilen bu keşif, hangi teorinin en büyük kanıtıdır?",
+      "answers": [
+        "Dünya'nın düz olduğu teorisi",
+        "Evrenin sabit olduğu teorisi",
+        "Büyük Patlama (Big Bang) ve evrenin genişlediği teorisi",
+        "Güneş'in merkezde olduğu teorisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 3,
+      "explanation": "Galaksilerin birbirinden uzaklaşması, evrenin tıpkı şişen bir balon gibi sürekli genişlediğini kanıtlamış ve evrenin başlangıçta tek bir noktadan (Büyük Patlama) başladığı teorisini güçlendirmiştir."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Bir gök cisminin 'Yıldız' mı yoksa 'Gezegen' mi olduğunu ayırt etmek isteyen bir öğrenci, aşağıdaki özelliklerden hangisine bakmalıdır?",
+      "answers": [
+        "Büyüklüğüne",
+        "Kendi ısı ve ışığını üretip üretmediğine (Yıldızlar üretir, gezegenler yansıtır)",
+        "Rengine",
+        "Dünya'ya olan uzaklığına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Yıldızlar (örneğin Güneş) merkezlerindeki nükleer tepkimelerle kendi ışığını üretirken, gezegenler (örneğin Dünya, Mars) sadece yıldızdan gelen ışığı ayna gibi yansıtırlar."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "Güneş için aşağıda verilen özelliklerden hangisi kesinlikle yanlıştır?",
+      "answers": [
+        "Samanyolu galaksisinde yer alır.",
+        "Kendi ekseni etrafında döner.",
+        "Evrendeki en büyük ve en sıcak yıldızdır.",
+        "Orta büyüklükte bir yıldızdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Güneş, evrendeki veya galaksimizdeki en büyük yıldız değildir. Hem kütle hem de sıcaklık olarak 'orta büyüklükte' sıradan bir yıldızdır."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "'Evren' ve 'Uzay' kavramları genellikle birbirinin yerine kullanılsa da bilimsel olarak farklıdır. Bu iki kavram arasındaki fark hangi seçenekte doğru açıklanmıştır?",
+      "answers": [
+        "Uzay, Dünya'yı da kapsayan her şeydir; Evren ise sadece yıldızlardır.",
+        "Evren, Dünya dahil var olan tüm gök cisimlerini ve aralarındaki boşluğu kapsar; Uzay ise Dünya'nın atmosferi dışında kalan sonsuz boşluktur.",
+        "Uzay sadece Güneş sistemidir, Evren ise diğer galaksilerdir.",
+        "İkisi tamamen aynı anlama gelir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 3,
+      "explanation": "Evren her şeyin (Dünya dahil) bütünüdür. Uzay dediğimiz alan ise, Dünya'nın bittiği (atmosferin dışındaki) noktadan itibaren başlayan sonsuzluktur."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "Samanyolu Galaksisi'ne yapı ve şekil olarak en çok benzeyen, bize en yakın komşu sarmal dev galaksinin adı nedir?",
+      "answers": [
+        "Sombrero",
+        "Andromeda",
+        "Macellan Bulutları",
+        "Orion"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Uzay Çağı",
+      "difficulty": 2,
+      "explanation": "Andromeda galaksisi, Samanyolu'na en yakın olan dev sarmal galaksidir ve açık, karanlık bir gecede çıplak gözle silüeti görülebilen en uzak gök cismidir."
+    }
+  ]
+}

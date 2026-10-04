@@ -1,0 +1,425 @@
+{
+  "unit": "Life in the World & Culture",
+  "questions": [
+    {
+      "id": "Q_6_6_001",
+      "questionText": "Sushi is a very popular traditional food. It originally comes from ________.",
+      "answers": [
+        "Japan",
+        "Italy",
+        "Mexico",
+        "Turkey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Sushi, Japon mutfağına ait geleneksel bir yemektir."
+    },
+    {
+      "id": "Q_6_6_002",
+      "questionText": "It is freezing and snowy outside today. You should definitely wear your ________.",
+      "answers": [
+        "coat and gloves",
+        "t-shirt and shorts",
+        "sunglasses",
+        "swimsuit"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Hava dondurucu ve karlı ('freezing and snowy') olduğunda mont ve eldiven ('coat and gloves') giyilmelidir."
+    },
+    {
+      "id": "Q_6_6_003",
+      "questionText": "The Eiffel Tower is a very famous landmark. Many tourists visit it every year in ________.",
+      "answers": [
+        "France",
+        "England",
+        "Germany",
+        "Egypt"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Dünyaca ünlü Eyfel Kulesi (The Eiffel Tower) Fransa'nın başkenti Paris'te yer alır."
+    },
+    {
+      "id": "Q_6_6_004",
+      "questionText": "People who live in Rome speak ________.",
+      "answers": [
+        "Italian",
+        "Spanish",
+        "French",
+        "English"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Roma, İtalya'nın başkentidir ve orada yaşayan halk İtalyanca (Italian) konuşur."
+    },
+    {
+      "id": "Q_6_6_005",
+      "questionText": "How do you feel on sunny and warm days? I usually feel ________.",
+      "answers": [
+        "energetic and happy",
+        "moody and sad",
+        "anxious and tired",
+        "scared"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Güneşli ve sıcak günler genellikle insanlara enerji verir ve mutlu hissettirir."
+    },
+    {
+      "id": "Q_6_6_006",
+      "questionText": "If Carlos is from Spain, what is his nationality?",
+      "answers": [
+        "Spanish",
+        "Spain",
+        "Italian",
+        "Mexican"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "İspanya'dan olan bir kişinin milliyeti İspanyol'dur ('Spanish')."
+    },
+    {
+      "id": "Q_6_6_007",
+      "questionText": "Oliver: What is the temperature today?\nNoah: It is 25 ________ Celsius.",
+      "answers": [
+        "degrees",
+        "days",
+        "weather",
+        "miles"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Sıcaklık belirtirken 'derece' anlamında 'degrees' kelimesi kullanılır."
+    },
+    {
+      "id": "Q_6_6_008",
+      "questionText": "I feel very ________ on rainy and dark days. I just want to sleep and I don't want to talk to anyone.",
+      "answers": [
+        "moody",
+        "happy",
+        "excited",
+        "energetic"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Yağmurlu ve karanlık günlerde uyumak isteyen ve kimseyle konuşmak istemeyen biri karamsar/huysuz ('moody') hissediyordur."
+    },
+    {
+      "id": "Q_6_6_009",
+      "questionText": "Croissants are a type of delicious pastry and they are very popular in ________ culture.",
+      "answers": [
+        "French",
+        "Japanese",
+        "Turkish",
+        "Indian"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Kruvasan, Fransız kültürüne (French culture) ait ünlü bir hamur işidir."
+    },
+    {
+      "id": "Q_6_6_010",
+      "questionText": "Which of the following words is a continent?",
+      "answers": [
+        "Asia",
+        "London",
+        "Germany",
+        "Tokyo"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Seçenekler arasında Asya (Asia) bir kıtadır. Diğerleri ülke veya şehirdir."
+    },
+    {
+      "id": "Q_6_6_011",
+      "questionText": "It is raining heavily outside. Don't forget to take your ________ before you leave the house.",
+      "answers": [
+        "umbrella",
+        "sunglasses",
+        "shorts",
+        "camera"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Dışarıda şiddetli yağmur yağıyorsa evden çıkmadan önce şemsiye ('umbrella') alınmalıdır."
+    },
+    {
+      "id": "Q_6_6_012",
+      "questionText": "The Great Wall is an amazing historical structure located in ________.",
+      "answers": [
+        "China",
+        "Italy",
+        "Egypt",
+        "Brazil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Çin Seddi (The Great Wall) Çin'de (China) bulunur."
+    },
+    {
+      "id": "Q_6_6_013",
+      "questionText": "When lightning flashes and thunder roars loudly in the sky, the weather is ________.",
+      "answers": [
+        "stormy",
+        "sunny",
+        "foggy",
+        "warm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Şimşeklerin çaktığı ve gök gürültüsünün olduğu hava durumu fırtınalıdır ('stormy')."
+    },
+    {
+      "id": "Q_6_6_014",
+      "questionText": "You can eat the best pizza and pasta in ________ because it is their traditional food.",
+      "answers": [
+        "Italy",
+        "England",
+        "Russia",
+        "Japan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Pizza ve makarna İtalyan kültürünün geleneksel yemekleridir."
+    },
+    {
+      "id": "Q_6_6_015",
+      "questionText": "Children love flying kites in the park when the weather is ________.",
+      "answers": [
+        "windy",
+        "snowy",
+        "raining",
+        "freezing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Uçurtma uçurabilmek için havanın rüzgarlı ('windy') olması gerekir."
+    },
+    {
+      "id": "Q_6_6_016",
+      "questionText": "A person who travels to different countries for holiday and sightseeing is called a ________.",
+      "answers": [
+        "tourist",
+        "doctor",
+        "farmer",
+        "teacher"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Tatil ve gezi amacıyla başka ülkelere seyahat eden kişiye turist ('tourist') denir."
+    },
+    {
+      "id": "Q_6_6_017",
+      "questionText": "The weather is over 40 degrees and the sun is shining brightly. It is ________.",
+      "answers": [
+        "boiling hot",
+        "freezing",
+        "chilly",
+        "cool"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Sıcaklığın 40 derecenin üzerinde olması havanın kaynatıcı derecede sıcak ('boiling hot') olduğunu gösterir."
+    },
+    {
+      "id": "Q_6_6_018",
+      "questionText": "Tacos and fajitas are very spicy and famous traditional dishes in ________.",
+      "answers": [
+        "Mexico",
+        "France",
+        "China",
+        "Germany"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Tako ve fajita, Meksika (Mexico) mutfağının ünlü yemekleridir."
+    },
+    {
+      "id": "Q_6_6_019",
+      "questionText": "Kangaroos and koalas are interesting native animals that live in ________.",
+      "answers": [
+        "Australia",
+        "Canada",
+        "Spain",
+        "Turkey"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Kanguru ve koalalar Avustralya'ya özgü hayvanlardır."
+    },
+    {
+      "id": "Q_6_6_020",
+      "questionText": "In autumn, leaves fall from trees and the weather is usually ________.",
+      "answers": [
+        "cool and windy",
+        "hot and dry",
+        "freezing and snowy",
+        "boiling hot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Sonbahar (autumn) mevsiminde hava genellikle serin ve rüzgarlıdır ('cool and windy')."
+    },
+    {
+      "id": "Q_6_6_021",
+      "questionText": "Which famous ancient structure is located in Egypt?",
+      "answers": [
+        "The Pyramids",
+        "The Colosseum",
+        "The Eiffel Tower",
+        "The Big Ben"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Piramitler (The Pyramids) Mısır'da (Egypt) bulunur."
+    },
+    {
+      "id": "Q_6_6_022",
+      "questionText": "London Eye is a giant Ferris wheel and a very popular tourist attraction in ________.",
+      "answers": [
+        "England",
+        "Italy",
+        "Spain",
+        "Japan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "London Eye (Londra'nın Gözü), İngiltere'de (England) bulunan devasa bir dönme dolaptır."
+    },
+    {
+      "id": "Q_6_6_023",
+      "questionText": "Some people feel ________ when they hear loud thunder because it is scary.",
+      "answers": [
+        "anxious",
+        "happy",
+        "cheerful",
+        "energetic"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Korkutucu bir gök gürültüsü duyulduğunda insanlar genellikle endişeli veya korkmuş ('anxious') hissederler."
+    },
+    {
+      "id": "Q_6_6_024",
+      "questionText": "The Taj Mahal is a beautiful and historical white marble building located in ________.",
+      "answers": [
+        "India",
+        "China",
+        "Russia",
+        "Brazil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Tac Mahal (The Taj Mahal), Hindistan'da (India) yer alan eşsiz bir tarihi yapıdır."
+    },
+    {
+      "id": "Q_6_6_025",
+      "questionText": "Which English word means 'belonging to the customs of a particular country or society'?",
+      "answers": [
+        "Traditional",
+        "Modern",
+        "Weather",
+        "Emotion"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 3,
+      "explanation": "Bir ülkenin veya toplumun gelenek ve göreneklerine ait olan şeylere 'Geleneksel' (Traditional) denir."
+    },
+    {
+      "id": "Q_6_6_026",
+      "questionText": "If the temperature is minus 15 degrees Celsius (-15 °C), it means the weather is ________.",
+      "answers": [
+        "freezing",
+        "warm",
+        "sunny",
+        "mild"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Sıcaklık sıfırın altında 15 derece (-15 °C) ise hava dondurucudur ('freezing')."
+    },
+    {
+      "id": "Q_6_6_027",
+      "questionText": "When people greet each other in Japan, they usually ________ instead of shaking hands.",
+      "answers": [
+        "bow",
+        "hug",
+        "kiss",
+        "run"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Japon kültüründe insanlar el sıkışmak yerine birbirlerini başlarıyla öne eğilerek ('bow') selamlarlar."
+    },
+    {
+      "id": "Q_6_6_028",
+      "questionText": "Which continent is located to the south of Europe?",
+      "answers": [
+        "Africa",
+        "Antarctica",
+        "North America",
+        "Australia"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 3,
+      "explanation": "Dünya haritasında Avrupa'nın güneyinde Afrika (Africa) kıtası yer alır."
+    },
+    {
+      "id": "Q_6_6_029",
+      "questionText": "It is very ________ today. You can't see the road clearly while driving.",
+      "answers": [
+        "foggy",
+        "sunny",
+        "dry",
+        "warm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 1,
+      "explanation": "Sürüş sırasında yolu net görmemizi engelleyen hava koşulu sisli ('foggy') havadır."
+    },
+    {
+      "id": "Q_6_6_030",
+      "questionText": "Match the country with its famous cultural symbol: ________ - Flamenco Dance.",
+      "answers": [
+        "Spain",
+        "Japan",
+        "Germany",
+        "Egypt"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the World & Culture",
+      "difficulty": 2,
+      "explanation": "Flamenko dansı İspanya'ya (Spain) ait ünlü bir kültürel semboldür."
+    }
+  ]
+}

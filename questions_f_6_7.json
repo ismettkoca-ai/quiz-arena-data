@@ -1,0 +1,425 @@
+{
+  "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+  "questions": [
+    {
+      "id": "Q_6_7_001",
+      "questionText": "İnsanların bugünkü ihtiyaçlarını karşılarken, gelecek nesillerin de kendi ihtiyaçlarını karşılayabilmesi için doğal kaynakları tüketmeden ve doğaya zarar vermeden yaşamasına ne ad verilir?",
+      "answers": [
+        "Küresel Isınma",
+        "Sürdürülebilir Yaşam",
+        "Tüketim Çılgınlığı",
+        "Sera Etkisi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Sürdürülebilirlik, doğanın dengesini bozmadan ve kaynakları israf etmeden, bugünü yaşarken yarını (gelecek nesilleri) de düşünerek yaşamaktır."
+    },
+    {
+      "id": "Q_6_7_002",
+      "questionText": "Aşağıdakilerden hangisi sürdürülebilir bir yaşam için birey olarak yapabileceğimiz olumlu (doğru) davranışlardan biridir?",
+      "answers": [
+        "Suyu kullanırken musluğu sürekli açık bırakmak",
+        "Kullan at (tek kullanımlık) plastik ürünleri sıkça tercih etmek",
+        "Kısa mesafeli yerlere arabayla gitmek yerine yürümek veya bisiklete binmek",
+        "Gündüz vakti perdeleri kapatıp evde lamba yakmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Yürümek veya bisiklet kullanmak, atmosfere zehirli egzoz gazı salınımını engeller ve fosil yakıt tasarrufu sağlayarak doğayı korur."
+    },
+    {
+      "id": "Q_6_7_003",
+      "questionText": "Canlıların (insan, bitki, hayvan) hem birbirleriyle hem de cansız çevreleriyle (su, toprak, hava) kurdukları karşılıklı ilişkiye ne ad verilir?",
+      "answers": [
+        "Geri Dönüşüm",
+        "Etkileşim",
+        "Yalıtım",
+        "Büzülme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Doğada hiçbir canlı tek başına yaşayamaz. Bitkinin topraktan su alması, hayvanın bitkiyi yemesi ve toprağa karışması büyük bir 'Etkileşim' (ekosistem) ağıdır."
+    },
+    {
+      "id": "Q_6_7_004",
+      "questionText": "Dünya'daki enerji ihtiyacının büyük bir kısmı kömür, petrol ve doğal gaz gibi fosil yakıtlardan karşılanmaktadır. Bu yakıtların aşırı kullanımının doğadaki en olumsuz (zararlı) etkileşimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Havadaki oksijen miktarını artırması",
+        "Ormanların daha gür büyümesini sağlaması",
+        "Zehirli gazlar çıkararak hava kirliliğine ve Küresel Isınmaya (Sera Etkisine) neden olması",
+        "Suların temizlenmesini sağlaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Fosil yakıtlar yandıklarında doğaya büyük miktarda karbondioksit gibi kirli gazlar bırakır. Bu gazlar Dünya'nın ateşini yükselterek küresel ısınmayı tetikler."
+    },
+    {
+      "id": "Q_6_7_005",
+      "questionText": "Atmosfere salınan zehirli (sera) gazlarının, Güneş'ten gelen ısının uzaya kaçmasını engelleyerek Dünya'yı bir sera gibi aşırı ısıtması olayına ne ad verilir?",
+      "answers": [
+        "Asit Yağmuru",
+        "Ozon Delinmesi",
+        "Geri Dönüşüm",
+        "Küresel Isınma (Sera Etkisi)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Tıpkı cam bir seranın içindeki havayı sıcak tutması gibi, kirli gazlar da Dünya'yı sararak sıcaklığın uzaya çıkmasını engeller ve gezegeni aşırı ısıtır."
+    },
+    {
+      "id": "Q_6_7_006",
+      "questionText": "Aşağıdakilerden hangisi küresel ısınmanın doğa üzerindeki yıkıcı etkilerinden biri *değildir*?",
+      "answers": [
+        "Kutuplardaki dev buzulların erimesi",
+        "Deniz ve okyanus seviyelerinin yükselerek kıyıları sular altında bırakması",
+        "İklimlerin normale dönüp her mevsimin zamanında yaşanması",
+        "Şiddetli kuraklıkların ve ani sellerin (iklim değişikliklerinin) artması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Küresel ısınma iklim dengesini tamamen bozar. Mevsimler kayar, yazlar aşırı kurak ve sıcak, kışlar ise belirsiz ve fırtınalı geçmeye başlar."
+    },
+    {
+      "id": "Q_6_7_007",
+      "questionText": "Fabrika bacalarından ve araba egzozlarından çıkan zehirli gazların (kükürt ve azot), bulutlardaki su buharıyla birleşerek yeryüzüne zehirli damlalar halinde düşmesine ne ad verilir?",
+      "answers": [
+        "Kar yağışı",
+        "Dolu",
+        "Asit Yağmuru",
+        "Çiy"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Zehirli gazlar gökyüzünde aside dönüşür. Asit yağmurları toprağı yakar, ormanları kurutur, göllerdeki balıkları zehirler ve tarihi eserleri eritir."
+    },
+    {
+      "id": "Q_6_7_008",
+      "questionText": "Atık maddelerin (cam, kağıt, metal, plastik) çeşitli işlemlerden geçirilerek eritilmesi veya parçalanmasıyla yeniden kullanılabilir 'ham maddeye' dönüştürülmesine ne denir?",
+      "answers": [
+        "Yeniden Kullanım",
+        "Geri Dönüşüm",
+        "Tüketim",
+        "Sıfır Atık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Atıkların fabrikalarda işlenerek yeni bir üretim malzemesine (hammaddeye) dönüştürülmesi ve doğaya çöp olmaktan kurtarılması olayına Geri Dönüşüm denir."
+    },
+    {
+      "id": "Q_6_7_009",
+      "questionText": "Geri dönüşüm ile 'Yeniden Kullanım' kavramları sıkça karıştırılır. Aşağıdakilerden hangisi geri dönüşüm değil, bir 'Yeniden Kullanım' örneğidir?",
+      "answers": [
+        "Kullanılmış kağıtların fabrikada hamur haline getirilip yeni peçete yapılması",
+        "Kırık cam şişelerin fırınlarda eritilip yeni kavanoz üretilmesi",
+        "Boşalan büyük zeytin tenekesinin yıkanıp içine toprak konularak saksı yapılması",
+        "Hurda arabaların eritilip inşaat demiri yapılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Yeniden kullanımda madde fabrikaya gidip erime veya parçalanma işlemi görmez. Eşyayı olduğu gibi farklı bir amaçla tekrar kullanmak (tenekeden saksı yapmak) yeniden kullanımdır."
+    },
+    {
+      "id": "Q_6_7_010",
+      "questionText": "İnsanların ulaşım, ısınma, elektrik tüketimi veya alışveriş alışkanlıkları nedeniyle doğaya salınmasına sebep oldukları 'Karbondioksit (zehirli gaz)' miktarının ölçüsüne ne ad verilir?",
+      "answers": [
+        "Su Ayak İzi",
+        "Ekolojik Denge",
+        "Karbon Ayak İzi",
+        "Sıfır Atık"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Karbon Ayak İzi, bir bireyin yaşamı boyunca doğaya bıraktığı kirlilik izidir. Kendi arabamızı çok kullanmak bu izi büyütürken, ağaç dikmek veya bisiklet sürmek küçültür."
+    },
+    {
+      "id": "Q_6_7_011",
+      "questionText": "Kişisel 'Karbon Ayak İzimizi' küçültmek (doğaya daha az zarar vermek) için aşağıdaki eylemlerden hangisinden kaçınmalıyız?",
+      "answers": [
+        "Enerji tasarruflu A Sınıfı cihazlar kullanmaktan",
+        "Gereksiz tüketim yapmaktan ve kullan-at plastikleri aşırı kullanmaktan",
+        "Toplu taşıma (otobüs/metro) kullanmaktan",
+        "Atıklarımızı cam, kağıt ve plastik olarak ayrıştırmaktan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Tek kullanımlık plastikler ve gereksiz alışverişler, o ürünlerin üretimi için fabrikaların daha çok çalışmasına ve doğaya daha çok karbon salmasına (izin büyümesine) neden olur."
+    },
+    {
+      "id": "Q_6_7_012",
+      "questionText": "Mutfakta lavaboya dökülen 1 litre atık kızartma yağının, yeraltı sularına karışarak tam 1 milyon litre temiz suyu içilemez hale getirdiği bilinmektedir. Evdeki atık yağlar ne yapılmalıdır?",
+      "answers": [
+        "Sıcak su ile lavabodan akıtılmalıdır.",
+        "Toprağa dökülmelidir.",
+        "Çöpe atılmalıdır.",
+        "Biriktirilip 'Atık Yağ Toplama' merkezlerine veya kutularına verilmelidir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Atık yağlar su yüzeyini kaplayarak sudaki oksijeni keser ve canlıları öldürür. Bu yağlar toplanarak 'biyodizel' yakıta (çevreci bir araba yakıtına) dönüştürülebilir."
+    },
+    {
+      "id": "Q_6_7_013",
+      "questionText": "Evdeki organik atıkların (meyve-sebze kabukları, dökülen yapraklar, çay posaları vb.) bir alanda çürütülerek bitkiler için doğal, vitaminli bir toprağa (gübreye) dönüştürülmesi işlemine ne ad verilir?",
+      "answers": [
+        "Kompost (Organik Gübre)",
+        "Sera Etkisi",
+        "Karbon İzi",
+        "Ozonlanma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Organik atıkların mikroorganizmalar tarafından parçalanıp toprağı besleyen doğal gübreye dönüştürülmesine 'Kompost' denir. Bu işlem hem çöpü azaltır hem toprağı besler."
+    },
+    {
+      "id": "Q_6_7_014",
+      "questionText": "Türkiye'de kaynakların daha verimli kullanılması, israfın önlenmesi ve atıkların kaynağında ayrıştırılarak çöp miktarının en aza indirilmesi amacıyla yürütülen çevreci hareketin adı nedir?",
+      "answers": [
+        "Sıfır Atık Projesi",
+        "Uzay Araştırmaları Projesi",
+        "Küresel Isınma Projesi",
+        "Tüketim Projesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Sıfır Atık (Zero Waste) projesi, çöplerin (kağıt, plastik, cam, metal) daha evdeyken veya okuldayken ayrı kutulara atılmasını ve çöpe giden madde miktarını sıfırlamayı hedefler."
+    },
+    {
+      "id": "Q_6_7_015",
+      "questionText": "Ormanların (ağaçların) yok edilmesi Dünya ekosistemi için çok büyük bir tehdittir. Ormanların kesilmesi aşağıdaki felaketlerden en çok hangisini doğrudan artırır?",
+      "answers": [
+        "Havadaki oksijen miktarını",
+        "Bölgedeki deprem sayısını",
+        "Havadaki karbondioksit (kirli gaz) oranını",
+        "Güneş'in sıcaklığını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Ağaçlar havadaki kirli karbondioksiti emip oksijene çeviren fabrikalardır. Ağaçlar kesilirse bu kirli gaz havada kalır ve küresel ısınma hızlanır."
+    },
+    {
+      "id": "Q_6_7_016",
+      "questionText": "Pillerin içinde cıva, kurşun ve kadmiyum gibi çok zehirli ağır metaller bulunur. Atık pillerin toprağa veya normal çöpe atılmasının en tehlikeli sonucu nedir?",
+      "answers": [
+        "Toprağı zenginleştirmesi",
+        "Bu zehirlerin toprağa ve yeraltı sularına karışarak besin zinciri yoluyla bitkilere, hayvanlara ve insanlara geçmesi (Zehirlenme)",
+        "Pillerin patlayıp yangın çıkarması",
+        "Toprağın rengini değiştirmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Bir küçük kalem pil bile metreküplerce toprağı zehirleyebilir. Yağmur sularıyla eriyen bu zehir suya karışır ve o suyu içen tüm canlıları zehirler."
+    },
+    {
+      "id": "Q_6_7_017",
+      "questionText": "Plastik atıkların doğaya bırakıldığında çözünerek tamamen kaybolması (yok olması) ortalama ne kadar zaman alır?",
+      "answers": [
+        "1-2 ay",
+        "1-2 yıl",
+        "Yüzlerce hatta binlerce yıl",
+        "Hemen çözünürler"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Plastikler petrol türevidir ve doğal bir malzeme olmadığı için doğadaki bakteriler onları parçalayamaz. Bu yüzden bir pet şişenin doğada yok olması 400 ile 1000 yıl arası sürer."
+    },
+    {
+      "id": "Q_6_7_018",
+      "questionText": "Aşağıdaki enerji kaynaklarından hangisi çevreye zehirli gazlar salmayan, doğayı kirletmeyen ve hiçbir zaman bitmeyecek olan 'Yenilenebilir Enerji Kaynakları'ndan biridir?",
+      "answers": [
+        "Doğal gaz",
+        "Kömür",
+        "Petrol",
+        "Rüzgar Enerjisi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Güneş, rüzgar ve su (hidroelektrik) enerjisi doğada sürekli var olan, karbon salınımı yapmayan tertemiz (sürdürülebilir) enerji kaynaklarıdır."
+    },
+    {
+      "id": "Q_6_7_019",
+      "questionText": "Bir öğrenci, kullanılmış kağıtları çöpe atmak yerine geri dönüşüm kutusuna atmaktadır. Bu öğrencinin davranışı doğadaki hangi kaynağı doğrudan korumaya yöneliktir?",
+      "answers": [
+        "Balıkları ve denizleri",
+        "Ağaçları (Ormanları)",
+        "Petrol kuyularını",
+        "Kuş türlerini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 1,
+      "explanation": "Kağıtlar, ağaç kütüklerinin fabrikalarda işlenmesiyle üretilir. Kağıtları geri dönüştürerek, yeni kağıt yapmak için kesilecek milyonlarca ağacı ipten almış (kurtarmış) oluruz."
+    },
+    {
+      "id": "Q_6_7_020",
+      "questionText": "Geri dönüşüm sembolü olan ve birbiri ardına dönen 'Üç Yeşil Ok' işaretinin anlamı nedir?",
+      "answers": [
+        "Bu ürünün yenilebileceğini gösterir.",
+        "Bu ürünün doğada hemen kaybolacağını gösterir.",
+        "Bu ürünün geri dönüştürülebilir malzemeden yapıldığını ve tekrar üretim döngüsüne katılabileceğini gösterir.",
+        "Bu ürünün tehlikeli olduğunu gösterir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Üç ok sonsuz bir döngüyü temsil eder: Toplama, Üretim ve Yeni Ürün olarak geri dönüş. Bu sembol, ürünün doğaya çöp olmak yerine dönüştürülebileceğini belirtir."
+    },
+    {
+      "id": "Q_6_7_021",
+      "questionText": "Atık (Çöp) yönetiminde ve sürdürülebilirlikte bir 'Hiyerarşi' (Öncelik sıralaması) vardır. Çöplerle başa çıkmanın en birinci (en sağlıklı) kuralı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Geri Dönüştürmek",
+        "Çöpleri toprağa gömmek",
+        "Çöpleri yakarak enerji elde etmek",
+        "Önlemek ve Azaltmak (İhtiyacımız olmayanı en başından satın almamak)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Atık yönetiminin altın kuralı önce atık çıkmasını 'Önlemek'tir. Eğer gereksiz tüketim yapmaz ve atığı kaynağında azaltırsak geri dönüştürecek çöp derdimiz de kalmaz."
+    },
+    {
+      "id": "Q_6_7_022",
+      "questionText": "Kozmetik ürünlerdeki boncukların veya denize atılan plastiklerin dalgalarla parçalanması sonucu oluşan, gözle görülmeyecek kadar küçük plastiklere 'Mikroplastik' denir. Mikroplastiklerin ekosistemdeki en büyük tehlikesi nedir?",
+      "answers": [
+        "Deniz suyunun tuzluluğunu artırması",
+        "Balıkların bunları plankton (yosun) sanıp yemesi ve bu plastiklerin besin zinciri yoluyla insan vücuduna kadar ulaşması",
+        "Gemi motorlarını bozması",
+        "Suların buharlaşmasını engellemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Mikroplastikler sulardaki en sinsi zehirdir. Canlılar bunları fark etmeden yutar. O balıkları yiyen daha büyük balıklara ve en son deniz ürünlerini tüketen insanlara kadar ulaşarak kanserojen etki yaparlar."
+    },
+    {
+      "id": "Q_6_7_023",
+      "questionText": "Geceleri sokak aydınlatmalarının yanlış yöne (gökyüzüne) bakması veya gereğinden fazla ışık kullanılması sonucu gökyüzündeki yıldızları göremememize neden olan kirlilik türü hangisidir?",
+      "answers": [
+        "Hava Kirliliği",
+        "Ses Kirliliği",
+        "Işık Kirliliği",
+        "Toprak Kirliliği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Yanlış yöne ve gereğinden fazla ışık kullanılması 'Işık Kirliliği'dir. Bu durum yıldızları gizler, ayrıca göçmen kuşların ve Caretta Caretta yavrularının yönlerini şaşırıp ölmelerine sebep olur."
+    },
+    {
+      "id": "Q_6_7_024",
+      "questionText": "Bir ülkenin geri dönüşüm tesislerini aktif olarak kullanması ve kağıt, metal, cam gibi atıkları dönüştürmesi o ülkeye hangi katkıyı *sağlamaz*?",
+      "answers": [
+        "Doğal kaynaklarının (ağaçların ve madenlerin) korunmasını",
+        "Büyük oranda enerji tasarrufu yapılmasını",
+        "Ekonomisinin güçlenmesini",
+        "Yeni çöplük alanlarına duyulan ihtiyacın sürekli artmasını"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Geri dönüşüm sayesinde çöpe giden atık miktarı devasa oranda azalır. Bu nedenle yeni çöplük alanları kurma ihtiyacı artmaz, aksine azalır veya biter."
+    },
+    {
+      "id": "Q_6_7_025",
+      "questionText": "Tarım arazilerinde çiftçilerin tarlalarına daha çok ürün almak için fazla miktarda suni (kimyasal) gübre ve böcek ilacı atmasının çevre üzerindeki en tehlikeli etkisi nedir?",
+      "answers": [
+        "Bitkilerin daha yeşil ve uzun olması",
+        "Kimyasalların toprağı zehirlemesi, yeraltı sularına karışarak nehirleri kirletmesi ve toprağın doğal verimini öldürmesi",
+        "Yağmur sularını artırması",
+        "Hava kirliliğini tamamen önlemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Kimyasal gübreler ve tarım ilaçları (pestisitler) topraktaki faydalı bakterileri ve solucanları öldürür. Yağmurla göllere taşınan bu zehirler su ekosistemlerini de yok eder."
+    },
+    {
+      "id": "Q_6_7_026",
+      "questionText": "Evlerin dış duvarlarına ve çatısına köpük (strafor) vb. malzemeler kaplanarak yapılan 'Isı Yalıtımı'nın (Mantolamanın), sürdürülebilir yaşama ve doğaya en büyük katkısı nedir?",
+      "answers": [
+        "Binayı hırsızlardan koruması",
+        "Evin rengini güzelleştirmesi",
+        "Evin kışın sıcak, yazın serin kalmasını sağlayarak kömür ve doğal gaz (fosil yakıt) tüketimini büyük oranda azaltması ve havayı temiz tutması",
+        "Evin daha ağır olmasını sağlaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Yalıtım, enerjinin israf olmasını engeller. Daha az yakıt yaktığımızda hem paramız cebimizde kalır hem de bacalardan çıkan kirli duman (karbon salınımı) azalır."
+    },
+    {
+      "id": "Q_6_7_027",
+      "questionText": "Bilinçli bir çevre dostu (sürdürülebilir yaşam savunucusu), market alışverişine giderken kasadan plastik (naylon) poşet almak yerine yanında 'bez çanta' veya file taşır. Bu davranışın temel bilimsel nedeni nedir?",
+      "answers": [
+        "Bez çantanın daha hafif olması",
+        "Plastik poşetlerin paralı olması",
+        "Plastik poşetlerin çok ağır olması",
+        "Tek kullanımlık plastik poşetlerin doğada yüzlerce yıl parçalanmayıp çevreye ve canlılara kalıcı zarar vermesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 2,
+      "explanation": "Bez çanta yıkanıp binlerce kez kullanılabilen (sürdürülebilir) bir çözümdür. 10 saniye kullandığımız bir naylon poşet ise doğada 400 yıl boyunca zehir saçar."
+    },
+    {
+      "id": "Q_6_7_028",
+      "questionText": "Güneş enerjisi panellerinin ve rüzgar türbinlerinin yaygınlaştığı bir şehirde aşağıdaki durumlardan hangisinin gözlemlenmesi *beklenmez*?",
+      "answers": [
+        "Hava kalitesinin artması (temiz hava)",
+        "Fosil yakıtlara (kömüre) olan ihtiyacın azalması",
+        "Karbon ayak izinin ve sera gazı salınımının artması",
+        "Enerji üretiminde dışa bağımlılığın azalması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Güneş ve rüzgar temiz enerjilerdir, karbon (zehir) salınımı yapmazlar. Bu nedenle böyle bir şehirde karbon ayak izi ve sera gazı artmaz, aksine büyük oranda düşer."
+    },
+    {
+      "id": "Q_6_7_029",
+      "questionText": "Doğada suyun sürekli bir döngü halinde olduğu (buharlaşıp yağmur olarak geri döndüğü) bilinmektedir. Buna rağmen bilim insanları neden sürekli 'Su Tasarrufu' yapılması konusunda uyarılarda bulunmaktadır?",
+      "answers": [
+        "Suların uzaya kaçması yüzünden",
+        "Suyun tamamen donması yüzünden",
+        "Dünyadaki suyun büyük bir kısmı tuzlu su (denizler) ve buzullar olduğu için, ulaşılabilir 'Temiz (Tatlı) İçme Suyu' miktarının çok az ve tükenme tehlikesinde olması yüzünden",
+        "Su döngüsünün artık durmuş olması yüzünden"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Dünyanın 3/4'ü sularla kaplı olsa da, bunun sadece %3'ü tatlı sudur ve içebildiğimiz miktar sadece %1 civarındadır. İklim değişikliği ve kirlilik bu çok sınırlı olan tatlı su kaynaklarını bitirmektedir."
+    },
+    {
+      "id": "Q_6_7_030",
+      "questionText": "Analiz Sorusu: Bir bölgedeki yılanların tarım ilaçları nedeniyle sayısının hızla azalması (yok olması) sonucunda, o bölgede farelerin (yılanların avlarının) hızla çoğalıp tüm tarım ürünlerini yediği gözlemlenmiştir. Bu olay doğa ile ilgili bize neyi kanıtlar?",
+      "answers": [
+        "Yılanların zararlı hayvanlar olduğunu",
+        "Ekosistemdeki (doğadaki) her canlının birbirine kopmaz bağlarla (besin zinciriyle) bağlı olduğunu ve bir türün yok olmasının tüm dengeyi altüst edeceğini",
+        "Farelerin daha güçlü canlılar olduğunu",
+        "Tarım ilaçlarının bitkilere fayda sağladığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Etkileşim",
+      "difficulty": 3,
+      "explanation": "Doğada hiçbir canlı gereksiz değildir. Biyoçeşitliliğe (besin zincirine) yapılan en ufak bir insan müdahalesi kelebek etkisi yaratarak tüm sistemin çökmesine neden olur."
+    }
+  ]
+}

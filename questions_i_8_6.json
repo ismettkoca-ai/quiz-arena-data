@@ -1,0 +1,425 @@
+{
+  "unit": "Adventures",
+  "questions": [
+    {
+      "id": "Q_8_6_001",
+      "questionText": "If you want to try ..............., you jump out of a plane with a parachute.",
+      "answers": [
+        "skydiving",
+        "caving",
+        "scuba diving",
+        "rafting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Uçaktan paraşütle atlama sporu 'skydiving' (gökyüzü dalışı/paraşütle atlama) olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_6_002",
+      "questionText": "To protect your head during extreme sports, you should always wear a ...............",
+      "answers": [
+        "paddle",
+        "helmet",
+        "rope",
+        "life jacket"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Ekstrem sporlarda kafayı korumak için takılan ekipman 'helmet' (kask) kelimesidir."
+    },
+    {
+      "id": "Q_8_6_003",
+      "questionText": "Aşağıdaki sporlardan hangisi bir 'water sport' (su sporu) değildir?",
+      "answers": [
+        "Scuba diving",
+        "Canoeing",
+        "Paragliding",
+        "Rafting"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Scuba diving (tüplü dalış), Canoeing (kano) ve Rafting su sporlarıdır. 'Paragliding' (yamaç paraşütü) ise bir hava sporudur."
+    },
+    {
+      "id": "Q_8_6_004",
+      "questionText": "My brother loves taking risks and doing dangerous sports. He is an adrenaline ...............",
+      "answers": [
+        "seeker",
+        "tester",
+        "maker",
+        "breaker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Risk almayı ve tehlikeli sporları seven kişilere 'adrenaline seeker' veya 'adrenaline junkie' (adrenalin tutkunu/arayanı) denir."
+    },
+    {
+      "id": "Q_8_6_005",
+      "questionText": "When you go rafting on a fast river, you must wear a ............... to stay safe in the water.",
+      "answers": [
+        "helmet and life jacket",
+        "parachute and wing",
+        "rope and torch",
+        "goggles and boots"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Rafting yaparken suda güvende kalmak için kask (helmet) ve can yeleği (life jacket) giyilmesi zorunludur."
+    },
+    {
+      "id": "Q_8_6_006",
+      "questionText": "I think bungee jumping is ............... than cycling because it is more dangerous.",
+      "answers": [
+        "easy",
+        "boring",
+        "more challenging",
+        "safer"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Bungee jumping daha tehlikeli (more dangerous) olduğu için bisiklet sürmekten daha zorlu/meydan okuyucu (more challenging) olmalıdır."
+    },
+    {
+      "id": "Q_8_6_007",
+      "questionText": "Which matching is WRONG?",
+      "answers": [
+        "Caving - Exploring dark caves",
+        "Heli-skiing - Skiing down a mountain after jumping from a helicopter",
+        "Scuba diving - Flying in the sky with a parachute",
+        "Bungee jumping - Jumping from a high place with an elastic rope"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "Scuba diving tüplü dalış demektir, su altında yapılır. 'Flying in the sky' (gökyüzünde uçmak) ifadesi paragliding (yamaç paraşütü) veya skydiving için geçerlidir."
+    },
+    {
+      "id": "Q_8_6_008",
+      "questionText": "A: Which one do you prefer, paragliding or kayaking?\nB: I prefer kayaking because I am afraid of ...............",
+      "answers": [
+        "water",
+        "heights",
+        "speed",
+        "cold"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Adventures",
+      "difficulty": 1,
+      "explanation": "B kişisi kano sporunu (kayaking) yamaç paraşütüne (paragliding) tercih ediyor. Yamaç paraşütünden korkma sebebi yüksekten korkmasıdır (afraid of heights)."
+    },
+    {
+      "id": "Q_8_6_009",
+      "questionText": "Complete the sentence:\nI would rather ............... scuba diving than ............... hiking.",
+      "answers": [
+        "do / go",
+        "to do / to go",
+        "doing / going",
+        "do / going"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "'Would rather' yapısından sonra fiiller her zaman yalın halde (V1) kullanılır ve iki seçenek arasına 'than' gelir: would rather DO ... than GO ..."
+    },
+    {
+      "id": "Q_8_6_010",
+      "questionText": "A: What do we need for caving?\nB: We need a helmet, strong boots and a ............... to see in the dark.",
+      "answers": [
+        "paddle",
+        "parachute",
+        "torch",
+        "life jacket"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Mağaracılık (caving) yaparken karanlıkta görebilmek için el fenerine (torch / flashlight) ihtiyaç vardır."
+    },
+    {
+      "id": "Q_8_6_011",
+      "questionText": "Tom: In my opinion, motor racing is fascinating.\nSue: I disagree with you. I think it is ...............",
+      "answers": [
+        "amusing",
+        "entertaining",
+        "ridiculous",
+        "awesome"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Sue, Tom ile aynı fikirde değil (I disagree with you). Tom büyüleyici (fascinating) bulurken, Sue'nun olumsuz bir sıfat kullanması gerekir. 'Ridiculous' (saçma) doğru cevaptır."
+    },
+    {
+      "id": "Q_8_6_012",
+      "questionText": "Which sentence has a GRAMMAR mistake?",
+      "answers": [
+        "I prefer bungee jumping to caving.",
+        "Skydiving is more dangerous than canoeing.",
+        "She prefers to playing tennis.",
+        "He would rather go rafting than do yoga."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "C şıkkında hata vardır. 'Prefer' fiilinden sonra eylem geliyorsa ya '-ing' alır (prefers playing) ya da araya 'to' alıp yalın gelir (prefers to play). 'prefers to playing' yanlıştır."
+    },
+    {
+      "id": "Q_8_6_013",
+      "questionText": "I. No, I haven't. What is it?\nII. Have you ever tried heli-skiing?\nIII. It is skiing down a mountain after jumping from a helicopter.\nIV. Wow! That sounds extremely dangerous.\n\nKarışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralanışı hangisidir?",
+      "answers": [
+        "II - I - III - IV",
+        "II - III - I - IV",
+        "I - III - IV - II",
+        "IV - II - I - III"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Doğru sıralama: Soru sorulur (II), olumsuz cevap verilip ne olduğu sorulur (I), tanımı yapılır (III) ve tepki gösterilir (IV)."
+    },
+    {
+      "id": "Q_8_6_014",
+      "questionText": "If you want to go scuba diving, you need ............... to breathe under the water.",
+      "answers": [
+        "a paddle",
+        "a parachute",
+        "an oxygen cylinder",
+        "a torch"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Tüplü dalış (scuba diving) yaparken su altında nefes alabilmek (breathe under the water) için oksijen tüpüne (oxygen cylinder / tube) ihtiyaç vardır."
+    },
+    {
+      "id": "Q_8_6_015",
+      "questionText": "Mike: ...............?\nJack: Because I love nature and I enjoy watching the beautiful scenery from the sky.",
+      "answers": [
+        "Why do you prefer paragliding",
+        "When did you try scuba diving",
+        "Who did you go camping with",
+        "Where can I do bungee jumping"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Jack, gökyüzünden (from the sky) güzel manzarayı izlemekten keyif aldığını söylüyor. Bu nedenle soru, 'Neden yamaç paraşütünü tercih ediyorsun?' (Why do you prefer paragliding?) olmalıdır."
+    },
+    {
+      "id": "Q_8_6_016",
+      "questionText": "A: What is the ............... of extreme sports?\nB: People want to push their limits and feel the adrenaline.",
+      "answers": [
+        "equipment",
+        "danger",
+        "location",
+        "purpose"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "B kişisi ekstrem sporların yapılma amacını (sınırlarını zorlamak ve adrenalin hissetmek) açıklamaktadır. Amaç/Gaye kelimesinin İngilizcesi 'purpose' veya 'aim'dir."
+    },
+    {
+      "id": "Q_8_6_017",
+      "questionText": "Choose the odd one out. (Farklı olanı bulunuz.)",
+      "answers": [
+        "Entertaining",
+        "Fascinating",
+        "Amusing",
+        "Disappointing"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Entertaining (Eğlenceli), Fascinating (Büyüleyici) ve Amusing (Zevkli/Eğlenceli) olumlu sıfatlardır. 'Disappointing' (Hayal kırıklığına uğratıcı) ise olumsuz bir sıfattır."
+    },
+    {
+      "id": "Q_8_6_018",
+      "questionText": "Lisa: I think caving is safer than skydiving.\nMark: ............... Skydiving is definitely more dangerous.",
+      "answers": [
+        "I totally disagree.",
+        "You are absolutely right.",
+        "I don't think so.",
+        "That's a bad idea."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Lisa mağaracılığın paraşütle atlamadan daha güvenli (safer) olduğunu düşünüyor. Mark da 'Paraşütle atlama kesinlikle daha tehlikeli' diyerek ona katılıyor. Katılma ifadesi 'You are absolutely right' (Kesinlikle haklısın) olmalıdır."
+    },
+    {
+      "id": "Q_8_6_019",
+      "questionText": "I prefer taking risks, so I always choose extreme sports. I think they are more ............... than indoor sports.",
+      "answers": [
+        "boring",
+        "challenging",
+        "easy",
+        "safe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Adventures",
+      "difficulty": 2,
+      "explanation": "Risk almayı seven biri, ekstrem sporların salon sporlarından daha 'zorlu/meydan okuyucu' (challenging) olduğunu düşünecek ve bundan keyif alacaktır."
+    },
+    {
+      "id": "Q_8_6_020",
+      "questionText": "Which sentence has the same meaning as 'I prefer rafting to canoeing'?",
+      "answers": [
+        "I would rather go canoeing than go rafting.",
+        "I think canoeing is better than rafting.",
+        "I would rather go rafting than go canoeing.",
+        "I never go rafting."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "'Rafting'i kanoya tercih ederim' cümlesi 'I would rather go rafting than go canoeing' (Kano yapmaktansa rafting yapmayı tercih ederim) cümlesiyle aynı anlama gelir."
+    },
+    {
+      "id": "Q_8_6_021",
+      "questionText": "A: Have you ever been to Fethiye, Babadağ?\nB: Yes, I have. I tried ............... there. Flying over the Blue Lagoon was an unforgettable experience.",
+      "answers": [
+        "paragliding",
+        "scuba diving",
+        "caving",
+        "rafting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Ölüdeniz (Blue Lagoon) üzerinde 'uçmak' (flying over) ve Babadağ'da yapılabilen en popüler ekstrem spor yamaç paraşütüdür (paragliding)."
+    },
+    {
+      "id": "Q_8_6_022",
+      "questionText": "Read the text: 'Mountain biking is my favorite sport. It is dangerous, but I love the adrenaline. You need a special bike, a helmet, and knee guards to protect yourself. I usually go to the mountains with my friends on weekends.'\n\nWhat CANNOT we understand from the text?",
+      "answers": [
+        "What equipment he needs for the sport.",
+        "When he does the sport.",
+        "Who he does the sport with.",
+        "How much the equipment costs."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Metinde ekipmanların neler olduğu (helmet, knee guards), ne zaman yapıldığı (on weekends) ve kiminle yapıldığı (with friends) anlatılıyor. Ancak ekipmanların fiyatı/maliyeti (How much it costs) hakkında bir bilgi yoktur."
+    },
+    {
+      "id": "Q_8_6_023",
+      "questionText": "To steer (yönlendirmek) a canoe or a raft in the water, you need to use a ...............",
+      "answers": [
+        "parachute",
+        "rope",
+        "paddle",
+        "helmet"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Suda kano veya botu yönlendirmek için kullanılan kürek 'paddle' olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_6_024",
+      "questionText": "David: I want to try bungee jumping, but I am not sure.\nSam: ............... I tried it last year and it was terrifying. I will never do it again.",
+      "answers": [
+        "You should definitely try it.",
+        "It is a fascinating experience.",
+        "I don't recommend it.",
+        "I think you will love it."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Sam geçen yıl denediğini ve çok korkutucu (terrifying) olduğunu, bir daha asla yapmayacağını söylüyor. Bu durumda ona bunu 'tavsiye etmemesi' (I don't recommend it) gerekir."
+    },
+    {
+      "id": "Q_8_6_025",
+      "questionText": "Which comparison is grammatically CORRECT?",
+      "answers": [
+        "Rafting is more easy than caving.",
+        "Skydiving is dangerouser than canoeing.",
+        "Bungee jumping is more exciting than cycling.",
+        "Scuba diving is popularer than heli-skiing."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Uzun sıfatlar karşılaştırılırken başa 'more' gelir (more exciting). 'Easy' easier olmalı, 'dangerous' more dangerous olmalı, 'popular' more popular olmalıdır. C şıkkı gramer olarak doğrudur."
+    },
+    {
+      "id": "Q_8_6_026",
+      "questionText": "I like exploring underwater life and seeing colorful fishes, so my favorite sport is ...............",
+      "answers": [
+        "skydiving",
+        "scuba diving",
+        "caving",
+        "base jumping"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Su altı yaşamını (underwater life) ve renkli balıkları (colorful fishes) görmeyi seven birinin favori sporu tüplü dalıştır (scuba diving)."
+    },
+    {
+      "id": "Q_8_6_027",
+      "questionText": "According to a survey, 45% of teens prefer water sports, 35% prefer air sports, and 20% prefer extreme winter sports.\nWhich of the following is CORRECT according to the survey?",
+      "answers": [
+        "Most teenagers prefer doing air sports.",
+        "Teens prefer winter sports to water sports.",
+        "Water sports are more popular than air sports among teens.",
+        "Nobody is interested in extreme winter sports."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Su sporları (%45), hava sporlarından (%35) daha yüksek bir orana sahiptir. Bu yüzden su sporları hava sporlarından daha popülerdir (more popular than)."
+    },
+    {
+      "id": "Q_8_6_028",
+      "questionText": "A: Do you prefer ............... or ...............?\nB: I prefer doing water sports. I think they are more entertaining.",
+      "answers": [
+        "skydiving / paragliding",
+        "rafting / scuba diving",
+        "canoeing / caving",
+        "caving / trekking"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "B kişisi 'Su sporlarını tercih ederim' (I prefer doing water sports) dediğine göre, sorulan iki spordan biri su sporu, diğeri ise farklı bir tür olmalıdır. 'Canoeing (su sporu) / Caving (doğa/mağara sporu)' mantıklı bir seçenektir."
+    },
+    {
+      "id": "Q_8_6_029",
+      "questionText": "If you want to survive during a dangerous sport, you should pay attention to ............... rules.",
+      "answers": [
+        "safety",
+        "danger",
+        "speed",
+        "expensive"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Tehlikeli bir spor sırasında hayatta kalmak (survive) ve zarar görmemek için güvenlik kurallarına (safety rules) dikkat etmeniz gerekir."
+    },
+    {
+      "id": "Q_8_6_030",
+      "questionText": "Read the information: 'Base jumping is one of the most dangerous extreme sports in the world. People jump from very high buildings, bridges or cliffs with a parachute. You have very little time to open your parachute. It requires a lot of courage and experience.'\n\nWhy is base jumping extremely dangerous?",
+      "answers": [
+        "Because you don't use a parachute.",
+        "Because you jump from airplanes.",
+        "Because you don't have much time to open your parachute.",
+        "Because it is very expensive to buy the equipment."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Adventures",
+      "difficulty": 3,
+      "explanation": "Metne göre Base Jumping'in çok tehlikeli olmasının sebebi, paraşütü açmak için çok az zamanınızın olmasıdır (You have very little time to open your parachute)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "İstatistiksel Araştırma Süreci",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "Bir gruptaki verileri toplayıp sayısal sonuçlar çıkarmak için sorulan sorulara araştırma sorusu denir. Buna göre aşağıdakilerden hangisi 'iki veri grubunu karşılaştırmayı' gerektiren bir araştırma sorusudur?",
+      "answers": [
+        "Sınıfımızdaki öğrencilerin en sevdiği renkler nelerdir?",
+        "Okulumuzdaki öğretmenlerin yaş ortalaması kaçtır?",
+        "Sınıfımızdaki kız ve erkek öğrencilerin en çok tercih ettiği meyveler nelerdir?",
+        "Okul müdürümüzün arabasının markası nedir?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Kız ve erkek öğrenciler olmak üzere iki farklı grubun tercihlerinin karşılaştırılmasını istediği için iki veri grubu gerektiren bir araştırma sorusudur."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "Bir veri grubundaki tüm değerlerin toplamının, veri sayısına bölünmesiyle elde edilen değere ne ad verilir?",
+      "answers": [
+        "Açıklık",
+        "Aritmetik Ortalama",
+        "Ortanca (Medyan)",
+        "Tepe Değer (Mod)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Verilerin toplamının veri sayısına bölümü ile bulunan değere 'aritmetik ortalama' denir."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Bir veri grubundaki en büyük değer ile en küçük değer arasındaki farka ne ad verilir?",
+      "answers": [
+        "Aritmetik Ortalama",
+        "Sıklık",
+        "Grup Farkı",
+        "Açıklık"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Veri grubundaki en büyük değerden en küçük değerin çıkarılmasıyla elde edilen sonuca 'açıklık' (veya veri genişliği) denir."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "10, 15, 20, 25 sayılarının aritmetik ortalaması kaçtır?",
+      "answers": [
+        "15",
+        "17,5",
+        "20",
+        "22,5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Sayıların toplamı: 10 + 15 + 20 + 25 = 70. Veri sayısı 4'tür. Ortalama = 70 / 4 = 17,5 olur."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "12, 5, 18, 21, 9 veri grubunun açıklığı kaçtır?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "En büyük değer 21, en küçük değer 5'tir. Açıklık = 21 - 5 = 16'dır."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "İki farklı veri grubunu aynı grafik üzerinde karşılaştırmak ve yorumlamak için aşağıdaki grafik türlerinden hangisinin kullanılması en uygundur?",
+      "answers": [
+        "Tekli Sütun Grafiği",
+        "İkili Sütun Grafiği",
+        "Daire Grafiği",
+        "Çizgi Grafiği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Kız-erkek, 2022-2023 yılları gibi iki farklı veri grubunu aynı kategorilerde karşılaştırmak için yan yana çizilen 'ikili sütun grafiği' kullanılır."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "5, 8, 12, x sayılarının aritmetik ortalaması 10 olduğuna göre x kaçtır?",
+      "answers": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "4 sayının ortalaması 10 ise toplamları 4 · 10 = 40 olmalıdır. 5 + 8 + 12 = 25. x = 40 - 25 = 15'tir."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Yaş ortalaması 20 olan 5 kişilik bir gruba 32 yaşında yeni biri katılırsa, grubun yeni yaş ortalaması kaç olur?",
+      "answers": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "İlk 5 kişinin yaşları toplamı: 5 · 20 = 100. Yeni kişi katılınca toplam yaş = 100 + 32 = 132. Yeni kişi sayısı 6 olur. Yeni ortalama = 132 / 6 = 22."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "Aritmetik ortalaması 40 olan 4 sayıdan 10 sayısı çıkarılırsa kalan sayıların yeni aritmetik ortalaması kaç olur?",
+      "answers": [
+        "30",
+        "40",
+        "45",
+        "50"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "4 sayının toplamı: 4 · 40 = 160. 10 çıkarılırsa yeni toplam: 160 - 10 = 150. Kalan sayı adedi 3 olur. Yeni ortalama = 150 / 3 = 50'dir."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "En büyük değeri 45, açıklığı 17 olan bir veri grubunun en küçük değeri kaçtır?",
+      "answers": [
+        "28",
+        "32",
+        "45",
+        "62"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Açıklık = En büyük değer - En küçük değer. 17 = 45 - x denkleminden x = 45 - 17 = 28 bulunur."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "Aritmetik ortalaması 15 olan 6 sayıya hangi sayı eklenirse grubun aritmetik ortalaması DEĞİŞMEZ?",
+      "answers": [
+        "0",
+        "6",
+        "15",
+        "21"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Bir veri grubuna grubun aritmetik ortalamasıyla aynı değerde bir sayı eklenirse (veya çıkarılırsa) aritmetik ortalama değişmez. Bu yüzden 15 eklenmelidir."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "Bir sporcunun son 5 maçta attığı sayılar 12, 14, 12, 18, 24 şeklindedir. Bu sayıların açıklığı kaçtır?",
+      "answers": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "En fazla 24 sayı, en az 12 sayı atmıştır. Açıklık = 24 - 12 = 12'dir."
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "8, 15, 22, 10 verilerinden oluşan bir gruba 30 sayısı eklenirse veri grubunun açıklığı nasıl değişir?",
+      "answers": [
+        "Değişmez",
+        "8 artar",
+        "14 artar",
+        "22 artar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Eski açıklık: 22 - 8 = 14'tür. 30 eklendiğinde yeni en büyük değer 30 olur. Yeni açıklık: 30 - 8 = 22'dir. 22 - 14 = 8 birim artar."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "Bir mağazada çalışan iki satış temsilcisinin bir haftalık satış performansları incelenmektedir. İki çalışanın satış ortalamaları eşittir. Bu iki çalışandan hangisinin satışlarında 'daha istikrarlı ve tutarlı' olduğuna karar vermek için istatistiksel olarak hangi değere bakılmalıdır?",
+      "answers": [
+        "Satışların toplamına",
+        "Ortalamalarına",
+        "Açıklık değerine",
+        "En düşük satış yaptığı güne"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Aritmetik ortalamaları eşit olan iki gruptan hangisinin daha istikrarlı (dengeli) olduğunu bulmak için açıklığa bakılır. Açıklığı küçük olan grup daha istikrarlıdır."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "A takımının son 5 maçtaki gol sayıları: 2, 2, 2, 3, 1 (Ortalama: 2, Açıklık: 2). B takımının son 5 maçtaki gol sayıları: 0, 0, 1, 4, 5 (Ortalama: 2, Açıklık: 5). Hangi takım daha istikrarlı bir performans sergilemiştir?",
+      "answers": [
+        "A takımı daha istikrarlıdır.",
+        "B takımı daha istikrarlıdır.",
+        "İkisi de eşit istikrara sahiptir.",
+        "Ortalamalar eşit olduğu için istikrar hesaplanamaz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "A takımının açıklığı (2), B takımının açıklığından (5) daha küçüktür. Açıklık küçüldükçe veriler ortalamaya daha yakındır, bu da daha istikrarlı olduklarını gösterir."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Aritmetik ortalaması 10 olan 4 sayıya, 14 ve 24 sayıları eklenirse yeni grubun aritmetik ortalaması kaç olur?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "4 sayının toplamı: 4 · 10 = 40. Yeni eklenen sayılarla yeni toplam: 40 + 14 + 24 = 78. Toplam sayı adedi: 4 + 2 = 6. Yeni ortalama: 78 / 6 = 13."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "10 öğrencinin matematik sınavı not ortalaması 75'tir. Öğretmen her öğrenciye 5 puan performans notu eklerse yeni sınıf ortalaması kaç olur?",
+      "answers": [
+        "75",
+        "80",
+        "85",
+        "125"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Bir veri grubundaki her bir veriye aynı sayı eklenirse aritmetik ortalama da o sayı kadar artar. 75 + 5 = 80 olur."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "Kategorik veri (sözel veri), sayısal bir ölçüm yerine sınıflandırma veya özellik belirten verilerdir. Buna göre aşağıdakilerden hangisini araştıran bir anket 'kategorik veri' elde etmeyi sağlar?",
+      "answers": [
+        "Öğrencilerin boy uzunlukları",
+        "Öğrencilerin aylık okuduğu kitap sayıları",
+        "Öğrencilerin kiloları",
+        "Öğrencilerin göz renkleri"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Boy, kilo ve kitap sayısı sayısal (nicel) değerlerdir. Göz rengi (mavi, kahverengi, yeşil vb.) ise sınıflandırma bildiren kategorik (nitel) bir veridir."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "Veri grubu: 5, 5, 8, 12, 20. Bu gruptan 20 sayısı çıkarılırsa aritmetik ortalama ve açıklık değerleri nasıl değişir?",
+      "answers": [
+        "Ortalama artar, açıklık azalır.",
+        "Ortalama azalır, açıklık azalır.",
+        "Ortalama azalır, açıklık artar.",
+        "İkisi de değişmez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "İlk durumda toplam 50, ortalama 10, açıklık 15'tir. 20 çıkarsa kalan toplam 30, sayı 4 olur. Yeni ortalama 30 / 4 = 7,5'tir (azaldı). Yeni açıklık 12 - 5 = 7'dir (azaldı)."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "answers": [
+        "Aritmetik ortalama veri grubundaki en büyük sayıdan büyük olamaz.",
+        "Açıklık negatif bir sayı olamaz.",
+        "Bir veri grubundaki tüm değerler aynıysa açıklık sıfırdır.",
+        "Veri grubuna ortalamadan daha büyük bir sayı eklenirse ortalama azalır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Gruba mevcut ortalamadan daha büyük bir sayı eklenirse, grubun toplam değeri ve ortalaması artar, azalmaz."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Bir ikili sütun grafiğinde kırmızı sütunlar kız öğrencileri, mavi sütunlar erkek öğrencileri göstermektedir. 'Komedi' türündeki film tercihinde kırmızı sütun 15'i, mavi sütun 10'u gösterdiğine göre komedi filmi seven toplam öğrenci sayısı kaçtır?",
+      "answers": [
+        "10",
+        "15",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Kızlardan 15 kişi, erkeklerden 10 kişi seçmiştir. Toplam = 15 + 10 = 25 kişidir."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Yaşları 12, 13, 14, 15 olan 4 kişilik bir gruba 16 yaşında biri daha katılıyor. Yeni grubun yaş açıklığı kaç olur?",
+      "answers": [
+        "3",
+        "4",
+        "12",
+        "16"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Yeni grupta en küçük yaş 12, en büyük yaş 16'dır. Açıklık = 16 - 12 = 4 olur."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "Bir şirketin A şubesinin aylık kârları (bin TL olarak): 10, 20, 30. B şubesinin kârları: 15, 20, 25. Şubelerin performansları için ne söylenebilir?",
+      "answers": [
+        "Ortalamaları eşit, A şubesi daha istikrarlıdır.",
+        "Ortalamaları eşit, B şubesi daha istikrarlıdır.",
+        "A şubesinin ortalaması daha yüksektir.",
+        "B şubesinin ortalaması daha yüksektir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "A'nın ortalaması: (10+20+30)/3 = 20, Açıklığı = 30-10 = 20. B'nin ortalaması: (15+20+25)/3 = 20, Açıklığı = 25-15 = 10. Ortalamalar eşit, B'nin açıklığı küçük olduğu için B daha istikrarlıdır."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "Açıklığı küçük olan veri grubu daha homojendir (değerler birbirine daha yakındır). Buna göre aşağıdaki veri gruplarından hangisi EN HOMOJENDİR?",
+      "answers": [
+        "2, 10, 18, 25",
+        "5, 12, 20, 35",
+        "14, 16, 17, 19",
+        "1, 5, 9, 30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Açıklıkları bulalım: A) 25-2=23, B) 35-5=30, C) 19-14=5, D) 30-1=29. Açıklığı en küçük olan C şıkkıdır, yani en homojen (birbirine en yakın) gruptur."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "3, 7, 10, 15, x veri grubunun açıklığı 15'tir. x bir doğal sayı olduğuna göre x'in alabileceği değerler toplamı kaçtır?",
+      "answers": [
+        "0",
+        "18",
+        "21",
+        "33"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Eğer x en büyük değerse: x - 3 = 15 => x = 18'dir. Eğer x en küçük değerse ve mevcut en büyük değer 15 ise: 15 - x = 15 => x = 0'dır. Alabileceği değerler toplamı: 18 + 0 = 18."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "Aritmetik ortalaması 30 olan bir gruba, gruptan daha küçük değerde yeni sayılar eklenirse aritmetik ortalama nasıl değişir?",
+      "answers": [
+        "Kesinlikle artar.",
+        "Kesinlikle azalır.",
+        "Değişmez.",
+        "Sıfır olur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Mevcut ortalamanın (30) altında yeni değerler eklemek, genel toplamın ortalamasını daima aşağı çeker (azaltır)."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "Aşağıdaki konulardan hangisi ikili sütun grafiği çizmek için UYGUN DEĞİLDİR?",
+      "answers": [
+        "İki farklı okulun 5. ve 6. sınıflarındaki öğrenci sayıları",
+        "Bir ailenin aylara göre gelir ve gider miktarları",
+        "Bir arabanın otoyolda saatteki sabit hızı",
+        "Kız ve erkek öğrencilerin okudukları kitap türleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "İkili sütun grafiği iki farklı kategorik veya sayısal veriyi karşılaştırmak için kullanılır. Sabit hız tek bir veridir ve karşılaştırma içermez."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "3 kişilik bir ailenin bugünkü yaş ortalaması 20'dir. 4 yıl sonra bu ailenin yaş ortalaması kaç olur?",
+      "answers": [
+        "20",
+        "24",
+        "32",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Herkesin yaşı 4 yıl artacağı için grubun tamamına (her bir veriye) 4 eklenmiş olur. Ortalama da tam olarak eklenen sayı kadar yani 4 artar: 20 + 4 = 24."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "Bir basketbolcunun ilk 4 maçta attığı sayılar 15, 18, 12 ve 20'dir. Bu basketbolcu 5. maçta kaç sayı atarsa 5 maçlık sayı ortalaması 17 olur?",
+      "answers": [
+        "15",
+        "17",
+        "20",
+        "25"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "5 maçın ortalaması 17 ise toplam atması gereken sayı: 5 · 17 = 85 olmalıdır. İlk 4 maçın toplamı: 15 + 18 + 12 + 20 = 65'tir. 5. maçta atması gereken sayı: 85 - 65 = 20'dir."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Ali'nin matematik sınavlarından aldığı ilk iki not 60 ve 80'dir. Ali'nin 3 sınavının ortalamasının en az 75 olması için 3. sınavdan en az kaç alması gerekir?",
+      "answers": [
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatistiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "3 sınavın ortalamasının 75 olması için toplam puan: 3 · 75 = 225 olmalıdır. İlk iki sınav toplamı: 60 + 80 = 140'tır. 3. sınav notu: 225 - 140 = 85 olmalıdır."
+    }
+  ]
+}

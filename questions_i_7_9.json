@@ -1,0 +1,425 @@
+{
+  "unit": "Environment",
+  "questions": [
+    {
+      "id": "Q_7_9_001",
+      "questionText": "To save energy at home, we should always ________ electrical devices when we don't use them.",
+      "answers": [
+        "unplug",
+        "turn on",
+        "leave",
+        "buy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Enerji tasarrufu yapmak için kullanılmayan elektrikli aletlerin fişini çekmek (unplug) gerekir."
+    },
+    {
+      "id": "Q_7_9_002",
+      "questionText": "Global warming causes the melting of ________, which leads to rising sea levels.",
+      "answers": [
+        "glaciers",
+        "forests",
+        "deserts",
+        "cities"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Küresel ısınma buzulların (glaciers) erimesine sebep olur."
+    },
+    {
+      "id": "Q_7_9_003",
+      "questionText": "We must use ________ bags instead of plastic bags for our shopping.",
+      "answers": [
+        "cloth / paper",
+        "nylon",
+        "chemical",
+        "poisonous"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Plastik poşetler doğaya zarar verdiği için çevre dostu olan bez veya kağıt (cloth / paper) çantalar kullanılmalıdır."
+    },
+    {
+      "id": "Q_7_9_004",
+      "questionText": "The factory wastes and toxic chemicals are poisoning the rivers. This causes ________.",
+      "answers": [
+        "water pollution",
+        "air pollution",
+        "noise pollution",
+        "light pollution"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Fabrika atıkları ve kimyasalların nehirlere karışması su kirliliğine (water pollution) yol açar."
+    },
+    {
+      "id": "Q_7_9_005",
+      "questionText": "Which of the following is a renewable and 'eco-friendly' energy source?",
+      "answers": [
+        "Solar energy",
+        "Coal",
+        "Fossil fuels",
+        "Gasoline"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Güneş enerjisi (Solar energy) yenilenebilir ve çevre dostu bir enerji kaynağıdır."
+    },
+    {
+      "id": "Q_7_9_006",
+      "questionText": "İngilizcede 'Environment' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Çevre",
+        "Kirlilik",
+        "Küresel ısınma",
+        "Geri dönüşüm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "'Environment' doğa ve yaşadığımız çevre anlamına gelir."
+    },
+    {
+      "id": "Q_7_9_007",
+      "questionText": "People shouldn't use harmful ________ on farms because they poison the soil and the food.",
+      "answers": [
+        "pesticides",
+        "seeds",
+        "water",
+        "tractors"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 3,
+      "explanation": "Tarlalarda toprağı ve besinleri zehirleyen zararlı kimyasallara tarım ilacı (pesticides) denir."
+    },
+    {
+      "id": "Q_7_9_008",
+      "questionText": "Teacher: What should we do to reduce air pollution in big cities?\nStudent: We should ________.",
+      "answers": [
+        "use public transportation",
+        "drive private cars more",
+        "cut down trees",
+        "build more factories"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Hava kirliliğini azaltmak için özel araçlar yerine toplu taşıma (public transportation) kullanılmalıdır."
+    },
+    {
+      "id": "Q_7_9_009",
+      "questionText": "The ________ layer protects the Earth from the harmful rays of the Sun.",
+      "answers": [
+        "ozone",
+        "oxygen",
+        "carbon",
+        "greenhouse"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Dünyamızı Güneş'in zararlı ışınlarından koruyan katman Ozon (ozone) tabakasıdır."
+    },
+    {
+      "id": "Q_7_9_010",
+      "questionText": "We must sort our rubbish like glass, paper, and plastic to ________ them.",
+      "answers": [
+        "recycle",
+        "burn",
+        "waste",
+        "destroy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Cam, kağıt ve plastik çöplerini ayırmamızın amacı onları geri dönüştürmektir (recycle)."
+    },
+    {
+      "id": "Q_7_9_011",
+      "questionText": "Aerosol sprays and exhaust gases from cars are the main causes of the ________ effect.",
+      "answers": [
+        "greenhouse",
+        "water",
+        "recycling",
+        "nature"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 3,
+      "explanation": "Aerosol spreyler ve egzoz gazları ısıyı atmosferde tutarak Sera etkisine (greenhouse effect) neden olur."
+    },
+    {
+      "id": "Q_7_9_012",
+      "questionText": "İngilizcede 'Deforestation' kelimesi hangi çevre sorununu ifade eder?",
+      "answers": [
+        "Ormanların yok edilmesi / Ağaç kesimi",
+        "Su kirliliği",
+        "Hava kirliliği",
+        "Ozon tabakasının delinmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Deforestation kelimesi, ormanlık alanların yokedilmesi ve ağaçların kesilmesi anlamına gelir."
+    },
+    {
+      "id": "Q_7_9_013",
+      "questionText": "We ________ waste water when we are taking a shower. We should take shorter showers.",
+      "answers": [
+        "shouldn't",
+        "should",
+        "must",
+        "can"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Suyu israf etmek (waste water) olumsuz bir eylem olduğu için yapılmamalıdır ('shouldn't')."
+    },
+    {
+      "id": "Q_7_9_014",
+      "questionText": "What does 'Eco-friendly' mean?",
+      "answers": [
+        "Not harmful to the environment",
+        "Very dangerous for animals",
+        "Wasting too much energy",
+        "Destroying the forests"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Eco-friendly, çevre dostu demektir, yani çevreye zarar vermeyen (not harmful to the environment) ürünler veya davranışlardır."
+    },
+    {
+      "id": "Q_7_9_015",
+      "questionText": "Batteries contain harmful chemicals. We ________ throw them into the normal rubbish bins.",
+      "answers": [
+        "mustn't",
+        "must",
+        "should",
+        "can"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Piller zehirli kimyasallar içerir, bu yüzden kesinlikle normal çöpe atılmamalıdır (mustn't)."
+    },
+    {
+      "id": "Q_7_9_016",
+      "questionText": "If the ice caps melt completely, it will cause huge ________ in coastal cities.",
+      "answers": [
+        "floods",
+        "droughts",
+        "earthquakes",
+        "forest fires"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 3,
+      "explanation": "Buzulların tamamen erimesi su seviyesini yükselterek kıyı şehirlerinde sellere (floods) sebep olur."
+    },
+    {
+      "id": "Q_7_9_017",
+      "questionText": "Many animal species are becoming ________ because people are destroying their habitats.",
+      "answers": [
+        "extinct",
+        "crowded",
+        "popular",
+        "healthy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Yaşam alanları yok edilen hayvan türlerinin nesli tükenir (become extinct)."
+    },
+    {
+      "id": "Q_7_9_018",
+      "questionText": "We should plant more ________ to clean the air and provide oxygen.",
+      "answers": [
+        "trees",
+        "factories",
+        "cars",
+        "buildings"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Havayı temizlemek ve oksijen sağlamak için daha fazla ağaç (trees) dikmeliyiz."
+    },
+    {
+      "id": "Q_7_9_019",
+      "questionText": "İngilizcede 'Pollution' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Kirlilik",
+        "Koruma",
+        "Tasarruf",
+        "Geri Dönüşüm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "'Pollution' çevreye verilen zarar ve kirlilik (su, hava, toprak kirliliği vb.) anlamına gelir."
+    },
+    {
+      "id": "Q_7_9_020",
+      "questionText": "Which action is GOOD for the environment?",
+      "answers": [
+        "Using solar and wind energy",
+        "Leaving the tap running",
+        "Using plastic bags",
+        "Cutting down trees"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Çevre için iyi olan şey temiz ve yenilenebilir enerji olan güneş ve rüzgar enerjisini (solar and wind energy) kullanmaktır."
+    },
+    {
+      "id": "Q_7_9_021",
+      "questionText": "Loud sounds from traffic and construction machines cause ________ pollution in cities.",
+      "answers": [
+        "noise",
+        "water",
+        "air",
+        "soil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Trafik ve inşaat makinelerinden çıkan yüksek sesler gürültü kirliliğine (noise pollution) neden olur."
+    },
+    {
+      "id": "Q_7_9_022",
+      "questionText": "We must ________ endangered animals before they disappear forever.",
+      "answers": [
+        "protect",
+        "hunt",
+        "kill",
+        "catch"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Nesli tükenmekte olan (endangered) hayvanları sonsuza dek yok olmadan önce korumalıyız (protect)."
+    },
+    {
+      "id": "Q_7_9_023",
+      "questionText": "If it doesn't rain for a long time, rivers dry up and a ________ happens.",
+      "answers": [
+        "drought",
+        "flood",
+        "storm",
+        "tsunami"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 3,
+      "explanation": "Uzun süre yağmur yağmaması ve nehirlerin kuruması durumunda kuraklık (drought) meydana gelir."
+    },
+    {
+      "id": "Q_7_9_024",
+      "questionText": "To decrease global warming, countries should reduce the use of ________ fuels like coal and oil.",
+      "answers": [
+        "fossil",
+        "renewable",
+        "solar",
+        "wind"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Kömür (coal) ve petrol (oil) gibi yakıtlar fosil (fossil) yakıtlardır ve küresel ısınmayı artırırlar."
+    },
+    {
+      "id": "Q_7_9_025",
+      "questionText": "İngilizcede 'Rubbish' veya 'Garbage' kelimelerinin Türkçe anlamı nedir?",
+      "answers": [
+        "Çöp",
+        "Toprak",
+        "Fidan",
+        "Yakıt"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "İngilizcede 'rubbish', 'garbage' veya 'litter' kelimeleri çöp anlamına gelir."
+    },
+    {
+      "id": "Q_7_9_026",
+      "questionText": "We ________ leave the TV on standby all night. It wastes a lot of electricity.",
+      "answers": [
+        "shouldn't",
+        "should",
+        "must",
+        "can"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Televizyonu bütün gece bekleme modunda açık bırakmak elektrik israfıdır, bu yüzden yapılmamalıdır (shouldn't)."
+    },
+    {
+      "id": "Q_7_9_027",
+      "questionText": "What is the main reason for 'Air Pollution'?",
+      "answers": [
+        "Exhaust gases and factory smoke",
+        "Planting young trees",
+        "Riding bicycles",
+        "Using solar panels"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Hava kirliliğinin (Air pollution) temel sebebi egzoz gazları ve fabrika dumanlarıdır."
+    },
+    {
+      "id": "Q_7_9_028",
+      "questionText": "Instead of throwing away empty glass bottles, you can ________ them to make beautiful vases.",
+      "answers": [
+        "reuse",
+        "burn",
+        "waste",
+        "break"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 2,
+      "explanation": "Boş cam şişeleri çöpe atmak yerine vazo yapmak için yeniden kullanabilirsiniz (reuse)."
+    },
+    {
+      "id": "Q_7_9_029",
+      "questionText": "Teacher: What does 'Threaten' mean when we talk about the environment?\nStudent: It means to ________.",
+      "answers": [
+        "put someone or something in danger",
+        "protect the natural habitats",
+        "plant trees in the forest",
+        "clean the oceans and rivers"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 3,
+      "explanation": "'Threaten' kelimesi tehdit etmek demektir. Çevre konusunda bir şeyi veya birini tehlikeye atmak anlamında kullanılır."
+    },
+    {
+      "id": "Q_7_9_030",
+      "questionText": "Everyone is responsible for the Earth. We ________ work together to save our planet.",
+      "answers": [
+        "must",
+        "mustn't",
+        "shouldn't",
+        "can't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Environment",
+      "difficulty": 1,
+      "explanation": "Gezegenimizi korumak için birlikte çalışmak bir zorunluluk ve güçlü bir tavsiyedir, bu yüzden 'must' kullanılmalıdır."
+    }
+  ]
+}

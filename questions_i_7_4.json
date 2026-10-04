@@ -1,0 +1,425 @@
+{
+  "unit": "Wild Animals",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Elephants use their long ________ to drink water and pick up food.",
+      "answers": [
+        "trunks",
+        "tusks",
+        "claws",
+        "wings"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Fillerin su içmek ve yemek almak için kullandıkları uzun uzuvları hortumdur ('trunk')."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Dinosaurs are ________ animals. They don't live on Earth anymore.",
+      "answers": [
+        "extinct",
+        "domestic",
+        "endangered",
+        "poisonous"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Artık dünyada yaşamayan, nesli tamamen tükenmiş hayvanlara 'extinct' denir."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "A lion is a ________ because it only eats meat, not plants.",
+      "answers": [
+        "carnivore",
+        "herbivore",
+        "omnivore",
+        "reptile"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Sadece etle beslenen hayvanlara etçil yani 'carnivore' denir."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "Animals like cows, sheep, and giraffes eat leaves and grass. They are ________.",
+      "answers": [
+        "herbivores",
+        "carnivores",
+        "reptiles",
+        "birds"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Sadece ot, yaprak ve bitki ile beslenen hayvanlara otçul yani 'herbivores' denir."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "Tigers are in danger. People shouldn't ________ them for their beautiful fur.",
+      "answers": [
+        "hunt",
+        "feed",
+        "protect",
+        "save"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Kaplanların tehlikede olma sebebi insanların onları kürkleri için avlamasıdır ('hunt')."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Eagles are strong birds. They catch their prey easily with their sharp ________.",
+      "answers": [
+        "claws",
+        "scales",
+        "fins",
+        "tusks"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Kartalların avlarını yakalamak için kullandıkları keskin uzuvları pençeleridir ('claws')."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "Reptiles like snakes and crocodiles are cold-blooded and they lay ________.",
+      "answers": [
+        "eggs",
+        "fur",
+        "feathers",
+        "milk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Yılan ve timsah gibi sürüngenler soğukkanlıdır ve yumurtlarlar ('lay eggs')."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "İngilizcede 'Endangered' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Nesli tükenmekte olan / Tehlikede",
+        "Evcil ve zararsız",
+        "Sadece suda yaşayan",
+        "Uçabilen canlılar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "'Endangered' tehlike altındaki, nesli tükenmekte olan türler için kullanılır."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Giraffes can reach the leaves on tall trees easily because they have long ________.",
+      "answers": [
+        "necks",
+        "tails",
+        "wings",
+        "tusks"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Zürafaların yüksek ağaçlardaki yapraklara ulaşmasını sağlayan uzun boyunlarıdır ('necks')."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "We must protect the forests because they are the natural ________ of many wild animals.",
+      "answers": [
+        "habitats",
+        "cages",
+        "zoos",
+        "circuses"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Ormanlar, vahşi hayvanların doğal yaşam alanları yani habitatlarıdır ('habitats')."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "A camel can survive in the ________ for a long time without drinking water.",
+      "answers": [
+        "desert",
+        "jungle",
+        "ocean",
+        "river"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Develer uzun süre su içmeden çölde ('desert') hayatta kalabilirler."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Which animal is a 'mammal'?",
+      "answers": [
+        "Whale",
+        "Crocodile",
+        "Eagle",
+        "Snake"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 3,
+      "explanation": "Balinalar (whale) suda yaşamasına rağmen memeli ('mammal') bir hayvandır."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "What does a female kangaroo use to carry her baby?",
+      "answers": [
+        "A pouch",
+        "A trunk",
+        "A shell",
+        "A wing"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Dişi kangurular yavrularını karınlarındaki kese ('pouch') içinde taşırlar."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "People cut down trees and destroy jungles. This is called ________.",
+      "answers": [
+        "deforestation",
+        "global warming",
+        "recycling",
+        "hunting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "İnsanların ağaçları kesip ormanları yok etmesi ormansızlaşma ('deforestation') olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "Tigers have beautiful black and orange ________ on their bodies.",
+      "answers": [
+        "stripes",
+        "spots",
+        "scales",
+        "feathers"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Kaplanların vücutlarında siyah ve turuncu renkte çizgiler ('stripes') vardır. (Leopardaki gibi yuvarlak beneklere 'spots' denir.)"
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "Student: What should we do to protect endangered animals?\nTeacher: We ________.",
+      "answers": [
+        "should stop illegal hunting",
+        "should destroy their habitats",
+        "should wear fur coats",
+        "should pollute the rivers"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Tehlike altındaki hayvanları korumak için yasa dışı avlanmayı durdurmalıyız ('should stop illegal hunting')."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "A cheetah is very famous for its speed. It is the ________ land animal in the world.",
+      "answers": [
+        "fastest",
+        "slowest",
+        "heaviest",
+        "tallest"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Çita, hızıyla bilinir ve dünyadaki en hızlı ('fastest') kara hayvanıdır."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Rhinos are hunted illegally because people want to sell their ________ for a lot of money.",
+      "answers": [
+        "horns",
+        "wings",
+        "feathers",
+        "scales"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Gergedanlar (rhinos), burunlarındaki boynuzları ('horns') yüzünden yasa dışı avlanırlar."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "Turtles have a hard ________ on their backs to protect themselves from predators.",
+      "answers": [
+        "shell",
+        "fur",
+        "tail",
+        "tooth"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Kaplumbağaların sırtında, kendilerini avcılardan korumak için sert bir kabuk ('shell') bulunur."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "İngilizcede 'Poisonous' kelimesinin Türkçe anlamı nedir?",
+      "answers": [
+        "Zehirli",
+        "Evcil",
+        "Otçul",
+        "Memeli"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "'Poisonous' kelimesi zehirli demektir (örneğin poisonous snakes - zehirli yılanlar)."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "What does a 'predator' do?",
+      "answers": [
+        "It hunts and eats other animals.",
+        "It only eats plants and leaves.",
+        "It always runs away and hides.",
+        "It lives in cages."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 3,
+      "explanation": "Avcı/yırtıcı ('predator') hayvanlar, diğer hayvanları avlar ve yerler."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "We shouldn't buy souvenirs made of animal ________, like ivory or fur.",
+      "answers": [
+        "body parts",
+        "cages",
+        "habitats",
+        "zoos"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Fildişi (ivory) veya kürk (fur) gibi hayvan vücut parçalarından ('body parts') yapılan hediyelikleri almamalıyız."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "An ostrich is a very large bird, but it ________.",
+      "answers": [
+        "can't fly",
+        "lives in the ocean",
+        "has sharp teeth",
+        "is a reptile"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Deve kuşu (ostrich) çok büyük bir kuş olmasına rağmen uçamaz ('can't fly')."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Male lions have a large ________ around their neck, which makes them look bigger and stronger.",
+      "answers": [
+        "mane",
+        "tail",
+        "trunk",
+        "horn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 3,
+      "explanation": "Erkek aslanların boyunlarında, onları daha iri ve güçlü gösteren bir yele ('mane') vardır."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "Which animal lives both on land and in water, and has a big mouth with sharp teeth?",
+      "answers": [
+        "Crocodile",
+        "Giraffe",
+        "Eagle",
+        "Elephant"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Hem karada hem suda yaşayan, büyük çenesi ve keskin dişleri olan hayvan timsahtır ('crocodile')."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Overhunting and habitat loss are the main reasons for ________.",
+      "answers": [
+        "extinction",
+        "recycling",
+        "planting",
+        "feeding"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 3,
+      "explanation": "Aşırı avlanma ve yaşam alanı kaybı, türlerin yok olmasının ('extinction') temel sebepleridir."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Fish use their ________ to swim in the water.",
+      "answers": [
+        "fins",
+        "wings",
+        "claws",
+        "horns"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 2,
+      "explanation": "Balıklar suda yüzmek için yüzgeçlerini ('fins') kullanırlar."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Polar bears live in the Arctic and they have thick, white ________ to stay warm in the snow.",
+      "answers": [
+        "fur",
+        "scales",
+        "feathers",
+        "shell"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Kutup ayılarının soğuktan korunmak için kalın ve beyaz bir kürkleri ('fur') vardır."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "We ________ keep wild animals in small cages as pets. They belong to nature.",
+      "answers": [
+        "shouldn't",
+        "should",
+        "can",
+        "must"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 1,
+      "explanation": "Vahşi hayvanları küçük kafeslerde evcil hayvan olarak tutmamalıyız. Cümle olumsuz bir tavsiye olan 'shouldn't' gerektirir."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "What does a 'prey' mean in nature?",
+      "answers": [
+        "An animal that is hunted and eaten by another animal.",
+        "An animal that hunts other animals.",
+        "A plant that grows in the desert.",
+        "A bird that cannot fly."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Wild Animals",
+      "difficulty": 3,
+      "explanation": "Av ('prey'), başka bir hayvan (avcı/predator) tarafından avlanıp yenilen hayvan demektir."
+    }
+  ]
+}

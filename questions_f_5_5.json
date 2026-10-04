@@ -1,0 +1,425 @@
+{
+  "unit": "Maddenin Doğası",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "Katı haldeki bir maddenin dışarıdan ısı alarak sıvı hale geçmesi olayına ne ad verilir?",
+      "answers": [
+        "Donma",
+        "Erime",
+        "Yoğuşma",
+        "Süblimleşme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Buzun suya, dondurmanın sıvıya dönüşmesi gibi katı maddelerin ısı alarak sıvılaşmasına Erime denir."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "Sıvı haldeki bir maddenin çevresine ısı vererek (soğuyarak) katı hale geçmesi olayına ne ad verilir?",
+      "answers": [
+        "Buharlaşma",
+        "Kırağılaşma",
+        "Donma",
+        "Erime"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Suyun buza dönüşmesi gibi sıvı bir maddenin ısı kaybederek katılaşmasına Donma adı verilir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Sıvı bir maddenin ısı alarak gaz (buhar) haline geçmesine ne ad verilir?",
+      "answers": [
+        "Buharlaşma",
+        "Yoğuşma",
+        "Süblimleşme",
+        "Erime"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Çaydanlıktaki suyun kaynayıp buhara dönüşmesi veya ıslak çamaşırların kuruması Buharlaşma olayıdır."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "Gaz halindeki bir maddenin çevresine ısı vererek (soğuyarak) sıvı hale geçmesine ne ad verilir?",
+      "answers": [
+        "Erime",
+        "Yoğuşma (Yoğunlaşma)",
+        "Kırağılaşma",
+        "Donma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Banyodaki aynanın buğulanması veya tencere kapağında su damlacıkları oluşması, gazın sıvıya döndüğü Yoğuşma olayıdır."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "Elbiselerin arasına güveleri kovmak için konulan 'Naftalin' adlı katı madde, sıvı hale hiç uğramadan doğrudan gaz haline geçer. Katıdan doğrudan gaza geçme olayına ne ad verilir?",
+      "answers": [
+        "Erime",
+        "Süblimleşme",
+        "Kırağılaşma",
+        "Yoğuşma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Katı bir maddenin ısı alarak sıvılaşmadan direkt uçup gaz haline geçmesine Süblimleşme denir (Kuru buz ve naftalin örneği gibi)."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "Çok soğuk kış sabahlarında havada yağmur veya kar yağmadığı halde, arabaların camlarında ve yaprakların üzerinde incecik buz kristalleri oluşur. Havadaki gazın sıvı olmadan doğrudan katıya dönüşmesi olayına ne denir?",
+      "answers": [
+        "Donma",
+        "Yoğuşma",
+        "Süblimleşme",
+        "Kırağılaşma"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Havadaki su buharının (gazın) aşırı soğukla karşılaşıp sıvılaşmadan aniden buz kristallerine (katıya) dönüşmesine Kırağılaşma denir."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "Aşağıdaki hal değişimlerinden hangisi gerçekleşirken madde dışarıdan 'Isı Alır' (Isınır)?",
+      "answers": [
+        "Donma",
+        "Yoğuşma",
+        "Kırağılaşma",
+        "Erime"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Erime, Buharlaşma ve Süblimleşme olaylarında madde dışarıdan ısı almak (ısınmak) zorundadır."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "Aşağıdaki hal değişimlerinden hangisi gerçekleşirken madde çevresine 'Isı Verir' (Soğur)?",
+      "answers": [
+        "Buharlaşma",
+        "Donma",
+        "Erime",
+        "Süblimleşme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Donma, Yoğuşma ve Kırağılaşma olaylarında madde içindeki ısıyı dışarıya verir ve kendisi soğur."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Isı ve Sıcaklık kavramları günlük hayatta sıkça karıştırılır. Aşağıdakilerden hangisi 'Isı'nın özelliklerinden biridir?",
+      "answers": [
+        "Termometre ile ölçülür.",
+        "Maddeler arasında alınıp verilebilen bir 'Enerji' türüdür.",
+        "Birimi Derece Selsius'tur (°C).",
+        "Maddeler arasında akış (transfer) göstermez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Isı bir enerjidir ve kalorimetre kabıyla ölçülür. Birimi Joule veya Kalori'dir. Sıcaklık ise enerjinin bir göstergesidir."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Sıcaklığı ölçmek için kullandığımız aracın adı ve sıcaklığın birimi aşağıdakilerden hangisinde doğru verilmiştir?",
+      "answers": [
+        "Kalorimetre - Joule",
+        "Dinamometre - Newton",
+        "Termometre - Derece Selsius (°C)",
+        "Barometre - Kalori"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Sıcaklık, termometre ile ölçülür ve günlük hayatta Derece Selsius (°C) birimiyle ifade edilir."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "Televizyondaki hava durumu spikeri, 'Yarın Ankara'da havanın ısısı 25 derece olacak' demiştir. Bu cümlede yapılan bilimsel hata nedir?",
+      "answers": [
+        "Havanın derecesi olmaz.",
+        "Isı bir enerji olduğu için dereceyle ölçülmez; spiker 'havanın sıcaklığı' demeliydi.",
+        "Isı sadece kışın ölçülür.",
+        "25 derece çok soğuktur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Derece (°C) sıcaklığın birimidir, ısının değil. Isının birimi Joule veya Kalori'dir. Doğru ifade 'Havanın sıcaklığı 25 °C olacak' şeklindedir."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "Farklı sıcaklıktaki iki madde birbirine temas ettirildiğinde aralarında bir 'Isı Alışverişi' (ısı akışı) başlar. Isı akışının yönü her zaman nasıldır?",
+      "answers": [
+        "Soğuk maddeden sıcak maddeye doğrudur.",
+        "Kütlesi az olandan çok olana doğrudur.",
+        "Sıcaklığı yüksek (sıcak) maddeden, sıcaklığı düşük (soğuk) maddeye doğrudur.",
+        "Sıvı maddeden katı maddeye doğrudur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Isı her zaman sıcak olan maddeden soğuk olan maddeye doğru akar (Buzu tuttuğumuzda elimizin buza ısı vermesi gibi)."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "80 °C sıcaklığındaki çay ile 20 °C sıcaklığındaki su yan yana konulmuştur. Aralarındaki ısı alışverişi (ısı akışı) ne zamana kadar devam eder?",
+      "answers": [
+        "Çay tamamen soğuyana kadar",
+        "Su tamamen kaynayana kadar",
+        "İki maddenin sıcaklıkları birbirine eşitlenene (Denge sıcaklığına ulaşana) kadar",
+        "Isı alışverişi hiç durmaz"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Isı alışverişinin tek şartı sıcaklık farkıdır. İki maddenin sıcaklığı eşitlendiğinde (örneğin ikisi de 40°C olduğunda) ısı akışı durur."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "Isı alan bir maddenin hacminin (kapladığı alanın) büyümesine (genişlemesine) ne ad verilir?",
+      "answers": [
+        "Büzülme",
+        "Yoğuşma",
+        "Genleşme",
+        "Süblimleşme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Maddeler ısındıkça tanecikleri birbirinden uzaklaşır ve madde şişer, büyür. Bu hacim artışına Genleşme denir."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "Isı veren (soğuyan) bir maddenin hacminin küçülmesine (kısalmasına/daralmasına) ne ad verilir?",
+      "answers": [
+        "Büzülme",
+        "Genleşme",
+        "Erime",
+        "Buharlaşma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Soğuyan maddelerin tanecikleri birbirine yaklaşır ve maddenin hacmi (boyu veya genişliği) küçülür. Buna Büzülme denir."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Yaz aylarında elektrik tellerinin sarkması, tren raylarının uzaması ve sıcak havada bırakılan bir balonun şişmesi hangi olayın sonucudur?",
+      "answers": [
+        "Büzülme",
+        "Yoğuşma",
+        "Erime",
+        "Genleşme"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Teller, raylar ve balonun içindeki gaz yazın sıcak havadan ısı alarak hacmini büyütür (uzar veya şişer). Bu bir Genleşme olayıdır."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "Sıkışmış ve bir türlü açılmayan metal kavanoz kapağını kolayca açmak için kavanoz ters çevrilip sadece kapağı sıcak suya batırılır. Bu işlemin temel amacı nedir?",
+      "answers": [
+        "Kavanozu temizlemek",
+        "Sıcak suyun kapağı eritmesini sağlamak",
+        "Sıcaklık sayesinde metal kapağı 'genleştirerek' (büyüterek) gevşemesini sağlamak",
+        "Kavanozu büzmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Sıcak suya giren metal kapak ısı alır ve genleşir (genişler). Cam kavanoz ise o kadar genleşmediği için kapak kolayca çevrilip açılır."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "Termometrenin kırmızı haznesindeki sıvının (cıva veya alkolün) sıcak havada yükselmesi, soğuk havada ise aşağı doğru inmesi maddelerin hangi özelliğinden kaynaklanır?",
+      "answers": [
+        "Erime ve Donma",
+        "Süblimleşme ve Kırağılaşma",
+        "Genleşme ve Büzülme",
+        "Buharlaşma ve Yoğuşma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Isınan sıvı genleşir ve cam borunun içinde yukarı doğru şişerek çıkar. Soğuduğunda ise büzülür ve aşağıya iner. Termometrenin çalışma prensibi budur."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Buharlaşma ve Kaynama sıkça karıştırılır. Aşağıdakilerden hangisi Buharlaşmanın bir özelliğidir?",
+      "answers": [
+        "Sadece belli bir sıcaklıkta gerçekleşir.",
+        "Sıvının her yerinde (altında, üstünde) fokurdayarak gerçekleşir.",
+        "Her sıcaklıkta gerçekleşebilir ve sadece sıvının yüzeyinde olur.",
+        "Gerçekleşirken etrafa ısı verir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Buharlaşma her sıcaklıkta olur (kışın bile ıslak çamaşırlar kurur) ve sadece sıvının üst yüzeyinde gerçekleşir. Kaynama ise belli bir sıcaklıkta (su için 100°C) ve her yerde (fokurdayarak) olur."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Elimize kolonya döktüğümüzde veya banyodan ıslak olarak çıktığımızda üşüdüğümüzü (serinlediğimizi) hissederiz. Bunun bilimsel sebebi nedir?",
+      "answers": [
+        "Kolonyanın ve suyun çok soğuk maddeler olması",
+        "Sıvıların buharlaşırken vücudumuzdan 'ısı alması' (vücudumuzu soğutması)",
+        "Kolonyanın yoğuşması",
+        "Suyun büzülmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Buharlaşma ısı alarak gerçekleşir. Kolonya tenimizden buharlaşıp gaz haline geçerken ihtiyaç duyduğu ısıyı elimizden (tenimizden) çeker ve bizi serinletir."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "Buzdolabından yeni çıkarılan soğuk bir cam şişenin dış yüzeyinde bir süre sonra su damlacıkları oluşur (şişe terler). Şişenin dışındaki bu sular nereden gelmiştir?",
+      "answers": [
+        "Şişenin içindeki su dışarı sızmıştır.",
+        "Cam şişe terlemiştir.",
+        "Havadaki su buharının (gazın), soğuk şişeye çarpıp 'yoğuşarak' sıvıya dönüşmesinden",
+        "Buzdolabının içine su döküldüğünden"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Şişenin sızdırması imkansızdır. Havada görünmeyen su buharı vardır. Bu gaz, soğuk bir yüzeye (şişeye) çarpınca ısısını kaybeder ve yoğuşarak tekrar sıvıya (suya) döner."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "Kış aylarında kar yağarken hava sıcaklığı sıfırın altında olmasına rağmen havanın biraz ısındığını, 'ılımanlaştığını' (ayazın kırıldığını) hissederiz. Kar yağarken havanın ısınmasının nedeni nedir?",
+      "answers": [
+        "Bulutların Güneş'e yaklaşması",
+        "Gaz halindeki su buharının kar tanelerine (katıya) dönüşürken içine hapsettiği ısıyı dışarıya (havaya) vermesi",
+        "Karın sıcak bir madde olması",
+        "Kışın Güneş'in daha çok ısıtması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Donma ve kırağılaşma olaylarında madde dışarıya (çevreye) ısı verir. Kar oluşurken hava su buharından ısı alır ve böylece hava bir miktar ısınır."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "Buzun suya dönüşmesi olayında (Erime) buz, çevreye nasıl bir etkide bulunur?",
+      "answers": [
+        "Çevreden ısı alır (çevreyi soğutur).",
+        "Çevreye ısı verir (çevreyi ısıtır).",
+        "Çevreyle ısı alışverişi yapmaz.",
+        "Sadece genleşir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Buz erimek için enerjiye (ısıya) ihtiyaç duyar. Bu ısıyı havadan veya dokunduğu yerden alır, bu yüzden eriyen buzun etrafı her zaman soğur (buzdolabı mantığı)."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "Saf bir madde hal değiştirirken (örneğin 0 °C'deki buz erirken veya 100 °C'deki su kaynarken) maddenin 'sıcaklığı' nasıl değişir?",
+      "answers": [
+        "Sürekli artar",
+        "Sürekli azalır",
+        "Hal değişimi bitene kadar sıcaklık 'sabit' kalır (değişmez)",
+        "Önce artar sonra azalır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Saf maddelerin en önemli özelliğidir. Hal değiştirirken verilen tüm ısı maddenin yapısını kırmaya harcanır, bu yüzden buz tamamen eriyene kadar sıcaklık 0°C'de kalır."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "Kışın gözlük takan kişilerin, sıcak bir odaya (veya otobüse) girdiklerinde gözlük camlarının buğulanmasının nedeni nedir?",
+      "answers": [
+        "Odadaki ısının camı eritmesi",
+        "Gözlüğün büzülmesi",
+        "Odadaki sıcak su buharının (gazın), soğuk gözlük camına çarpıp sıvıya dönüşmesi (Yoğuşma)",
+        "Nefes almanın yasak olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Buğulanma olayı mükemmel bir Yoğuşma örneğidir. Sıcak havadaki gaz halindeki su, soğuk cama çarpınca sıvı damlacıklarına dönüşür."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "Kaynayan bir tencereden çıkan buhar, soğuk bir fayansa veya mutfak camına çarptığında damla damla su haline gelerek aşağı doğru akar. Bu olaya verilen isim nedir?",
+      "answers": [
+        "Erime",
+        "Buharlaşma",
+        "Yoğuşma",
+        "Donma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 1,
+      "explanation": "Gazın tekrar sıvı hale (suya) dönmesi olayı olan Yoğuşma, yağmurun oluşumu ile mutfaktaki su damlalarının oluşumunun ortak sebebidir."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Aşağıdaki olaylardan hangisi maddenin ısınarak 'Genleşmesi' sonucunda meydana gelen zararlı veya tehlikeli bir durumdur?",
+      "answers": [
+        "Sıkışmış kavanoz kapağının açılması",
+        "Termometrede cıvanın yükselmesi",
+        "Çok sıcak çay konulan soğuk cam bardağın aniden çatlayıp kırılması",
+        "Balonun şişmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Cam bardağın iç kısmı sıcak çayla aniden genleşirken dış kısmı soğuk kaldığı için cam bu baskıya dayanamaz ve çatlar. Bu, genleşmenin olumsuz bir sonucudur."
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Birbirine sıkıca geçmiş (sıkışmış) iç içe duran iki su bardağını kırmadan ayırmak için sıcaklık ve genleşme kurallarına göre nasıl bir işlem yapılmalıdır?",
+      "answers": [
+        "İçteki bardağa sıcak su, dıştaki bardağa da sıcak su dökülmelidir.",
+        "İçteki bardağa buz (soğuk su) konulup, dıştaki bardağın altı sıcak suya oturtulmalıdır.",
+        "İkisi de buzluğa konulmalıdır.",
+        "İçteki bardağa sıcak su dökülmelidir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "İçteki bardağa buz konursa iç bardak büzülür (küçülür). Dış bardağa sıcak su değerse dış bardak genleşir (büyür). Böylece aralarındaki boşluk artar ve kolayca ayrılırlar."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "Tren rayları döşenirken veya köprüler yapılırken demir blokların arasına mutlaka bir miktar 'boşluk' bırakılır. Bu boşluğun bırakılma amacı nedir?",
+      "answers": [
+        "Demirden tasarruf etmek",
+        "Yağmur sularının oradan akmasını sağlamak",
+        "Yazın sıcakta demirler 'genleştiğinde' uzayıp birbirini iterek rayları eğmesini (bozmasını) engellemek",
+        "Tekerleklerin ses çıkarmasını sağlamak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 2,
+      "explanation": "Isınan metaller genleşir (uzar). Eğer aralarında boşluk olmazsa yazın uzayan raylar birbirini iterek eğilir ve tren kazalarına neden olur."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "Doğada su döngüsünün gerçekleşmesi ve yağmurların yağabilmesi için sırasıyla hangi iki hal değişimi olayının art arda gerçekleşmesi gerekir?",
+      "answers": [
+        "Donma ve Erime",
+        "Süblimleşme ve Kırağılaşma",
+        "Buharlaşma ve Yoğuşma",
+        "Erime ve Donma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Maddenin Doğası",
+      "difficulty": 3,
+      "explanation": "Okyanus ve göllerdeki su önce Güneş'in etkisiyle gaz haline geçer (Buharlaşma). Sonra gökyüzünde soğuk havayla karşılaşıp tekrar suya dönüşerek yağmur olarak yağar (Yoğuşma)."
+    }
+  ]
+}

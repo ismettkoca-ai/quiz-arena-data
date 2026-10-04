@@ -1,0 +1,425 @@
+{
+  "unit": "Family Life",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Anne ve babanın İngilizce karşılıkları sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Mother and Father (Mum and Dad)",
+        "Brother and Sister",
+        "Aunt and Uncle",
+        "Grandfather and Grandmother"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Anne 'mother/mum', baba 'father/dad' demektir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "Erkek kardeş ve kız kardeş kelimelerinin İngilizce karşılıkları hangileridir?",
+      "answers": [
+        "Brother and Sister",
+        "Uncle and Aunt",
+        "Cousin and Nephew",
+        "Grandpa and Grandma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Erkek kardeş 'brother', kız kardeş 'sister'dır."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Annenizin veya babanızın erkek kardeşine ne denir?",
+      "answers": [
+        "Uncle",
+        "Aunt",
+        "Cousin",
+        "Grandfather"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Amca veya dayı İngilizce'de 'uncle' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Teyzeniz, halanız veya yengeniz için kullanılan İngilizce kelime hangisidir?",
+      "answers": [
+        "Aunt",
+        "Uncle",
+        "Sister",
+        "Cousin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Teyze, hala ve yenge 'aunt' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "Amcanızın, dayınızın veya teyzenizin çocuğu yani sizin kuzeniniz olan akrabanızın İngilizce karşılığı nedir?",
+      "answers": [
+        "Cousin",
+        "Brother",
+        "Sister",
+        "Nephew"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Kuzen 'cousin' kelimesidir."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "'This is my father. ......... name is Ahmet.' cümlesinde boş bırakılan yere hangi iyelik sıfatı (possessive adjective) gelmelidir?",
+      "answers": [
+        "His",
+        "Her",
+        "My",
+        "Your"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Baba erkek olduğu için 'his' (onun) iyelik sıfatı kullanılır."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "'This is my mother. ......... name is Ayşe.' boşluğa hangi iyelik sıfatı gelmelidir?",
+      "answers": [
+        "Her",
+        "His",
+        "Their",
+        "Our"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Anne kadın olduğu için 'her' (onun) kullanılır."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "Büyük anne ve büyük baba kelimelerinin İngilizce karşılıkları hangileridir?",
+      "answers": [
+        "Grandmother and Grandfather (Granny and Grandpa)",
+        "Mother and Father",
+        "Aunt and Uncle",
+        "Sister and Brother"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Büyükanne grandmother, büyükbaba grandfather'dır."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "Bir aile üyesinin yaşını sormak için hangi soru kalıbı kullanılır?",
+      "answers": [
+        "How old is your sister?",
+        "Where is your father?",
+        "What is your job?",
+        "Who is he?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Yaş sormak için 'How old is...?' kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "'He is tall and slim.' diyen biri bir aile üyesinin hangi özelliğini tarif etmektedir?",
+      "answers": [
+        "Dış görünüşünü (Physical appearance)",
+        "Kişilik özelliklerini",
+        "Mesleğini",
+        "Yaşını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Tall' (uzun) ve 'slim' (zayıf) fiziksel görünüş tarifidir."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "'My mother is a doctor.' cümlesi annenin hangi özelliğini belirtir?",
+      "answers": [
+        "Mesleğini (Job / Occupation)",
+        "Yaşını",
+        "Boyunu",
+        "Hobilerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Doctor' bir meslek adıdır."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "Aşağıdaki meslek ve tanım eşleştirmelerinden hangisi DOĞRUDUR?",
+      "answers": [
+        "Teacher - Okulda ders anlatır, öğrencilere rehberlik eder.",
+        "Engineer - Hastaları tedavi eder.",
+        "Chef - Okulda ders çalışır.",
+        "Pilot - Otobüs sürer."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Öğretmen (teacher) ders anlatır."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "'What does your father do?' sorusu neyi sorar?",
+      "answers": [
+        "Babanın mesleğini sorar.",
+        "Babanın yaşını sorar.",
+        "Babanın nerede yaşadığını sorar.",
+        "Babanın boyunu sorar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'What do you do?' veya 'What does he do?' meslek sormak için kullanılır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Kişilik özellikleriyle ilgili olarak 'friendly' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Dost canlısı / Arkadaş canlısı",
+        "Kötü kalpli",
+        "Tembel",
+        "Yalnız"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Friendly' dost canlısı ve samimi demektir."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Aşağıdaki sıfatlardan hangisi 'yardımsever' anlamına gelir?",
+      "answers": [
+        "Helpful",
+        "Lazy",
+        "Rude",
+        "Selfish"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Helpful' yardımsever demektir."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "'My grandfather is old, but he is very energetic.' cümlesinde büyükbaba için ne söylenmektedir?",
+      "answers": [
+        "Yaşlı olmasına rağmen oldukça enerjik olduğu belirtilmektedir.",
+        "Çok genç ve yorgun olduğu söylenmektedir.",
+        "Hiç hareket edemediği belirtilmektedir.",
+        "Çocuk olduğu söylenmektedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Old' yaşlı, 'energetic' ise enerjik demektir."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Aşağıdaki aile üyesi ve cinsiyet eşleştirmelerinden hangisi yanlıştır?",
+      "answers": [
+        "Uncle - Kadın akraba",
+        "Brother - Erkek kardeş",
+        "Sister - Kız kardeş",
+        "Father - Erkek ebeveyn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Uncle amca/dayı demektir, erkek akrabadır; kadın değildir."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "'Who is this?' sorusuna verilecek yanıt aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "This is my sister, Elif.",
+        "I am ten years old.",
+        "I like apples.",
+        "It is five o'clock."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Who is this?' kim olduğunu sorar; aile bireyleriyle yanıtlanır."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "Aşağıdaki mesleklerden hangisi hastanede çalışır ve insanları tedavi eder?",
+      "answers": [
+        "Doctor / Nurse",
+        "Farmer",
+        "Driver",
+        "Architect"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Doktor ve hemşire hastanede görev yapar."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "'My uncle is a mechanic. He works at a .........'",
+      "answers": [
+        "garage / car repair shop",
+        "school",
+        "hospital",
+        "farm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Tamirci (mechanic) garajda veya oto tamirhanesinde çalışır."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Kişilik özelliklerinden 'stubborn' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "İnatçı",
+        "Çalışkan",
+        "Kibar",
+        "Sakin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Stubborn' inatçı demektir."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "'How many people are there in your family?' sorusunun Türkçe anlamı nedir?",
+      "answers": [
+        "Ailenizde kaç kişi var?",
+        "Aileniz nerede yaşıyor?",
+        "Babanızın mesleği nedir?",
+        "Kaç yaşındasınız?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Ailedeki kişi sayısını sormak için bu soru kalıbı kullanılır."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Aşağıdaki sıfat çiftlerinden hangisi birbirinin zıttıdır (antonyms)?",
+      "answers": [
+        "Tall - Short",
+        "Friendly - Kind",
+        "Slim - Thin",
+        "Old - Aged"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Tall (uzun) ve short (kısa) zıt anlamlı sıfatlardır."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "'My father is an engineer. He designs buildings and bridges.' diyen birinin babası ne iş yapmaktadır?",
+      "answers": [
+        "Mühendis",
+        "Öğretmen",
+        "Çiftçi",
+        "Şoför"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Engineer mühendis demektir ve bina/köprü tasarlar."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Aşağıdakilerden hangisi geniş aile (extended family) üyeleri arasında doğrudan yer alır?",
+      "answers": [
+        "Grandparents, uncles, aunts and cousins",
+        "Only mother and father",
+        "Only brother and sister",
+        "Pets"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Geniş aile anne-baba ve çocukların yanı sıra büyükanne, dede, amca ve kuzenleri de kapsar."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Ayşe ailesini tanıtırken şunları söyler: 'My mother is a nurse. She works at a hospital. My father is a farmer. He works on a farm. I have got a brother. His name is Can.' Ayşe'nin verdiği bilgilere göre babasının çalışma alanı nerededir?",
+      "answers": [
+        "On a farm (Çiftlikte)",
+        "At a school",
+        "At a garage",
+        "In an office"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 3,
+      "explanation": "Metinde babasının çiftçi olduğu ve çiftlikte çalıştığı ('He works on a farm') belirtilmiştir."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Kişilik olarak 'generous' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Cömert",
+        "Cimri",
+        "Bencil",
+        "Tembel"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Generous' cömert demektir."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "'Who is your mother's mother?' sorusunun yanıtı kimdir?",
+      "answers": [
+        "Grandmother (Anneanne / Büyükanne)",
+        "Aunt",
+        "Sister",
+        "Cousin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Annenizin annesi anneanneniz yani büyükan_nenizdir (grandmother)."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Aşağıdaki mesleklerden hangisi tarlada ekin eker, ürün yetiştirir?",
+      "answers": [
+        "Farmer (Çiftçi)",
+        "Driver",
+        "Cook",
+        "Dentist"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Çiftçi (farmer) tarımla uğraşır."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "'My sister is hair is blonde and curly.' cümlesinde kız kardeşin saçının hangi özellikleri verilmiştir?",
+      "answers": [
+        "Sarışın ve kıvırcık",
+        "Siyah ve düz",
+        "Kahverengi ve kısa",
+        "Kızıl ve uzun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Blonde' sarışın, 'curly' ise kıvırcık demektir."
+    }
+  ]
+}

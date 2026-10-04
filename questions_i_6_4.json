@@ -1,0 +1,425 @@
+{
+  "unit": "Family Life",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "Right now, my mother is ________ in the kitchen.",
+      "answers": [
+        "cooking",
+        "cooks",
+        "cook",
+        "cooked"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Cümle 'Right now' (Şu anda) ile başladığı için Şimdiki Zaman (Present Continuous Tense) kullanılmalıdır. Bu yüzden fiil '-ing' takısı alır."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "'My uncle's son is my ________.' boşluğa hangi aile bireyi gelmelidir?",
+      "answers": [
+        "brother",
+        "cousin",
+        "nephew",
+        "grandfather"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Amcanın (uncle) veya dayının oğlu/kızı bizim kuzenimizdir (cousin)."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Shh! Be quiet. The baby ________ in the bedroom.",
+      "answers": [
+        "sleeps",
+        "slept",
+        "is sleeping",
+        "sleep"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Shh! Be quiet' (Şşş! Sessiz ol) ifadesi eylemin konuşma anında gerçekleştiğini gösterir. Bu yüzden 'is sleeping' kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "Aşağıdakilerden hangisi 'Büyükbaba / Dede' kelimesinin İngilizce karşılığıdır?",
+      "answers": [
+        "Uncle",
+        "Father",
+        "Grandfather",
+        "Brother"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Büyükbaba kelimesinin İngilizce karşılığı 'Grandfather'dır."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "We ________ watching TV at the moment. We are doing our homework.",
+      "answers": [
+        "aren't",
+        "don't",
+        "isn't",
+        "doesn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'We' (Biz) öznesi şimdiki zamanda 'are' yardımcı fiilini alır. Olumsuz cümlede bu 'aren't' olur."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "İngilizcedeki 'Aunt' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kız kardeş",
+        "Teyze / Hala",
+        "Büyükanne",
+        "Kuzen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "İngilizcede 'aunt' kelimesi teyze, hala veya yenge anlamlarına gelir."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "________ your father washing the car in the garden?",
+      "answers": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Şimdiki zaman (washing) soru cümlesinde 'your father' (He) öznesi için 'Is' yardımcı fiili başa gelir."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Tom: Where is mom?\nLily: She is in the bathroom. She ________ her hair.",
+      "answers": [
+        "is washing",
+        "washes",
+        "washing",
+        "wash"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Annenin şu an nerede olduğu ve ne yaptığı sorulduğu için 'is washing' (yıkıyor) kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "İngilizcede 'Parents' kelimesi kimleri ifade etmek için kullanılır?",
+      "answers": [
+        "Anne ve baba",
+        "Büyükanne ve büyükbaba",
+        "Akrabalar",
+        "Çocuklar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Parents' kelimesi ebeveynler, yani anne ve baba anlamına gelir."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "Look! The children ________ games in the garden.",
+      "answers": [
+        "is playing",
+        "are playing",
+        "play",
+        "playing"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Children' (çocuklar) çoğul bir öznedir (They). Bu yüzden şimdiki zamanda 'are playing' kullanılır."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "'My father's brother is my ________.' cümlesini tamamlayan kelime hangisidir?",
+      "answers": [
+        "uncle",
+        "aunt",
+        "cousin",
+        "nephew"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Babanın erkek kardeşi amcadır. Amca İngilizcede 'uncle' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "'Annem şu an kitap okuyor.' cümlesinin İngilizce karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "My mother reads a book every day.",
+        "My mother is reading a book right now.",
+        "My mother read a book yesterday.",
+        "My mother isn't reading a book."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Eylem şu an gerçekleştiği için şimdiki zaman kullanılmalıdır: 'My mother is reading a book right now.'"
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "My brother is riding his bike ________.",
+      "answers": [
+        "every day",
+        "yesterday",
+        "at the moment",
+        "tomorrow"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Cümle 'is riding' ile şimdiki zamanda kurulmuştur. Bu yüzden 'şu anda' anlamına gelen 'at the moment' zaman zarfı gelmelidir."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "My mother's sister is my ________.",
+      "answers": [
+        "uncle",
+        "cousin",
+        "aunt",
+        "grandmother"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Annenin kız kardeşi teyzedir. Teyze İngilizcede 'aunt' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "Jack: What are you doing?\nSue: I ________ my room.",
+      "answers": [
+        "clean",
+        "am cleaning",
+        "is cleaning",
+        "are cleaning"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Soru 'What are you doing?' (Ne yapıyorsun?) olduğu için 'I' öznesine uygun olan 'am cleaning' ile yanıt verilmelidir."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Aşağıdaki kelimelerden hangisi bir aile bireyini (family member) ifade ETMEZ?",
+      "answers": [
+        "Grandmother",
+        "Cousin",
+        "Brother",
+        "Teacher"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Teacher' öğretmen demektir ve bir aile bireyini ifade etmez."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "They are ________ dinner together in the dining room right now.",
+      "answers": [
+        "having",
+        "have",
+        "has",
+        "had"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Şimdiki zamanda eylem bildiren fiile '-ing' eklenir. Akşam yemeği yemek 'have dinner'dır, ek alınca 'having' olur."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "İngilizcede 'Grandparents' kelimesi kimler için ortak olarak kullanılır?",
+      "answers": [
+        "Kız ve erkek kardeşler",
+        "Amca ve teyze",
+        "Büyükanne ve büyükbaba",
+        "Anne ve baba"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Grandparents' kelimesi büyük ebeveynleri, yani büyükanne ve büyükbabayı birlikte ifade etmek için kullanılır."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "Listen! Somebody ________ the guitar in the living room.",
+      "answers": [
+        "plays",
+        "playing",
+        "is playing",
+        "are playing"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Listen!' (Dinle!) uyarısı, eylemin o an yapılmakta olduğunu belirtir. 'Somebody' (birisi) tekil kabul edildiğinden 'is playing' kullanılır."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Bir ailenin 'erkek çocuğu' İngilizcede nasıl adlandırılır?",
+      "answers": [
+        "Son",
+        "Daughter",
+        "Wife",
+        "Aunt"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Erkek evlat/çocuk İngilizcede 'Son' kelimesiyle ifade edilir."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Mark: Is your sister studying in her room?\nAnna: No, she ________.",
+      "answers": [
+        "aren't",
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "'Is' yardımcı fiili ile başlayan soruya olumsuz, kısa yanıt verilirken özneden sonra 'isn't' kullanılır."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Aşağıdakilerden hangisi 'Kız kardeş' anlamına gelen İngilizce kelimedir?",
+      "answers": [
+        "Brother",
+        "Sister",
+        "Mother",
+        "Uncle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Kız kardeş İngilizcede 'Sister' olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "I can't come to the park right now because I ________ my homework.",
+      "answers": [
+        "am doing",
+        "do",
+        "doing",
+        "did"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Parka gelememe sebebi o an yapılan bir eylemdir. 'I' öznesi için şimdiki zamanda 'am doing' kullanılır."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "My father is my mother's ________.",
+      "answers": [
+        "brother",
+        "uncle",
+        "husband",
+        "son"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Babam, annemin eşidir/kocasıdır. Koca kelimesinin İngilizce karşılığı 'husband'dır."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "Teacher: ________ are the kids laughing?\nStudent: Because they are watching a funny cartoon.",
+      "answers": [
+        "Where",
+        "Why",
+        "Who",
+        "What"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 2,
+      "explanation": "Cevap 'Because' (Çünkü) ile başladığı için sebebini soran 'Why' (Neden) soru kelimesi kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "My grandpa is sitting in his armchair and ________.",
+      "answers": [
+        "rest",
+        "rests",
+        "is rest",
+        "resting"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Family Life",
+      "difficulty": 3,
+      "explanation": "'Is sitting' (oturuyor) ve 'resting' (dinleniyor) fiilleri 'and' bağlacıyla bağlanmıştır. Yardımcı fiil (is) ortak olduğu için ikinci fiile sadece '-ing' eklenir."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "My uncle's daughter is my ________.",
+      "answers": [
+        "sister",
+        "aunt",
+        "cousin",
+        "niece"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Amcanın (veya dayının) kızı bizim kuzenimiz (cousin) olur."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "The dog is ________ fast in the garden at the moment.",
+      "answers": [
+        "runing",
+        "running",
+        "runs",
+        "run"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 3,
+      "explanation": "'Run' fiili '-ing' takısı alırken son harfi türeyerek çift yazılır (running). Bu bir yazım (spelling) kuralıdır."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "İngilizcede 'Daughter' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kız kardeş",
+        "Kız çocuk (Evlat)",
+        "Teyze",
+        "Erkek çocuk"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "'Daughter' kelimesi kız çocuk/kız evlat anlamına gelir."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Ali: What is your brother doing in his room?\nCan: He ________ to music with his headphones.",
+      "answers": [
+        "listen",
+        "listens",
+        "is listening",
+        "are listening"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Family Life",
+      "difficulty": 1,
+      "explanation": "Kardeşin şu an odasında ne yaptığı sorulmaktadır. 'He' öznesi şimdiki zamanda 'is listening' yapısını alır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Television",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "I prefer watching ________ because I love learning about real facts, nature, and history.",
+      "answers": [
+        "documentaries",
+        "soap operas",
+        "cartoons",
+        "commercials"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Gerçekleri, doğayı ve tarihi öğrenmek isteyen biri belgesel ('documentaries') izlemeyi tercih eder."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Tom: Do you want to watch the new comedy movie?\nSue: No, I think comedy movies are ________. They don't make me laugh.",
+      "answers": [
+        "boring",
+        "exciting",
+        "amusing",
+        "interesting"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Komedi filmlerine gülmeyen ve onları izlemek istemeyen birisi onları sıkıcı ('boring') buluyordur."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "In a ________, the host invites famous guests, asks them questions, and chats with them.",
+      "answers": [
+        "talk show",
+        "reality show",
+        "weather forecast",
+        "sports program"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Sunucunun ünlü konukları davet edip onlarla sohbet ettiği televizyon programlarına 'talk show' denir."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "My little brother loves watching ________. His favorite character is SpongeBob.",
+      "answers": [
+        "cartoons",
+        "news",
+        "quiz shows",
+        "documentaries"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Sünger Bob gibi animasyon karakterleri çizgi filmlere ('cartoons') aittir."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "Read the sentence: 'I prefer watching action movies ________ watching romantic comedies.'",
+      "answers": [
+        "to",
+        "than",
+        "from",
+        "with"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "İngilizcede 'prefer' (tercih etmek) fiili ile iki şeyi kıyaslarken araya 'to' edatı getirilir."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "If you want to know what is happening in the world today, you should watch the ________.",
+      "answers": [
+        "news",
+        "soap opera",
+        "sitcom",
+        "commercial"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Dünyada olup bitenleri (günlük olayları) öğrenmek için haberler ('news') izlenmelidir."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "İngilizcede 'Commercial' kelimesinin televizyon yayıncılığındaki Türkçe anlamı nedir?",
+      "answers": [
+        "Reklam",
+        "Belgesel",
+        "Haber bülteni",
+        "Dizi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Televizyon programları arasında yayınlanan ürün tanıtımlarına reklam ('commercial') denir."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "My mother watches a ________ every weekday afternoon. It is about the dramatic daily lives of families.",
+      "answers": [
+        "soap opera",
+        "quiz show",
+        "talk show",
+        "weather forecast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Ailelerin dramatik günlük hayatlarını anlatan, hafta içi her gün yayınlanan pembe dizilere 'soap opera' denir."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "Where is the ________? I want to change the channel.",
+      "answers": [
+        "remote control",
+        "screen",
+        "director",
+        "couch"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Kanal değiştirmek için uzaktan kumandaya ('remote control') ihtiyaç vardır."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "A person who watches television a lot and doesn't do any physical activity is called a ________.",
+      "answers": [
+        "couch potato",
+        "director",
+        "viewer",
+        "guest"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Sürekli televizyon izleyen ve hareket etmeyen, tembel kişilere 'couch potato' (kanepe patatesi) denir."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "In a ________, contestants answer general culture questions to win a prize or money.",
+      "answers": [
+        "quiz show",
+        "sitcom",
+        "documentary",
+        "reality show"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Yarışmacıların (contestants) para kazanmak için sorular cevapladığı programlar bilgi yarışmalarıdır ('quiz show')."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "I don't like science fiction movies. I think they are ________. They don't mean anything to me.",
+      "answers": [
+        "nonsense",
+        "educational",
+        "amusing",
+        "informative"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Bir filme 'benim için hiçbir anlam ifade etmiyor' diyen biri, o filmi anlamsız, saçma ('nonsense') buluyordur."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "If you are planning to go on a picnic tomorrow, you should definitely watch the ________ tonight.",
+      "answers": [
+        "weather forecast",
+        "sports program",
+        "cookery program",
+        "soap opera"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Yarın pikniğe gidecek biri havanın durumunu öğrenmek için hava durumunu ('weather forecast') izlemelidir."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Which adjective has a POSITIVE meaning?",
+      "answers": [
+        "Amusing",
+        "Boring",
+        "Nonsense",
+        "Frightening"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "'Amusing' (eğlenceli) olumlu bir sıfattır. Diğerleri sıkıcı, saçma ve korkutucu anlamlarıyla olumsuzdur."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "A ________ is a funny television series about the same characters in different funny situations.",
+      "answers": [
+        "sitcom",
+        "documentary",
+        "news",
+        "weather forecast"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Aynı karakterlerin farklı komik durumlara düştüğü durum komedisi dizilerine 'sitcom' (situational comedy) denir."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "My father prefers ________ to ________.",
+      "answers": [
+        "reading / watching TV",
+        "read / watch TV",
+        "reading / watch TV",
+        "read / watching TV"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 3,
+      "explanation": "'Prefer' fiilinden sonra gelen her iki fiil de mutlaka '-ing' takısı almalıdır (prefer doing to doing)."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "Reality shows are very popular, but I think they are not ________. You can't learn anything useful from them.",
+      "answers": [
+        "educational",
+        "boring",
+        "nonsense",
+        "silly"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Kendilerinden faydalı hiçbir şey öğrenilemeyen programlar eğitici ('educational') değildir."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "İngilizcede 'Director' kelimesinin televizyon veya sinema terimi olarak Türkçe karşılığı nedir?",
+      "answers": [
+        "Yönetmen",
+        "İzleyici",
+        "Oyuncu",
+        "Sunucu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Film veya programı yöneten kişiye yönetmen ('director') denir."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Lisa: I love watching ________. I learn how to make new cakes and delicious meals.",
+      "answers": [
+        "cookery programs",
+        "sports programs",
+        "news",
+        "talk shows"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Yeni kekler ve yemekler yapmayı öğreten programlar yemek programlarıdır ('cookery programs')."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Sam: What is on TV tonight?\nDavid: There is a great match. Let's watch the ________.",
+      "answers": [
+        "sports program",
+        "documentary",
+        "weather forecast",
+        "cartoon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Maç izlenecekse açık olan kanal / program spor programıdır ('sports program')."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "I never watch horror movies alone at night because I find them very ________.",
+      "answers": [
+        "frightening",
+        "amusing",
+        "educational",
+        "funny"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "Gece tek başına korku filmi izlemeyen biri, bu filmleri korkutucu ('frightening') buluyordur."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "Which sentence means 'O, belgeselleri dizilere tercih eder.' in English?",
+      "answers": [
+        "He prefers documentaries to series.",
+        "He prefers series to documentaries.",
+        "He prefers watching series.",
+        "He doesn't prefer documentaries."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Tercih edilen şey 'to' edatından önce yazılır. Belgeseli tercih ediyorsa: 'prefers documentaries to series'."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Some television programs have age ratings like '+7' or '+13'. This helps ________ to choose the right programs for their children.",
+      "answers": [
+        "parents",
+        "directors",
+        "actors",
+        "guests"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Yaş sınırları (+7, +13), anne-babaların ('parents') çocukları için doğru programı seçmesine yardımcı olur."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "We usually check the TV ________ to see what time our favorite program starts.",
+      "answers": [
+        "guide",
+        "remote",
+        "screen",
+        "button"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Programların saatlerini öğrenmek için TV yayın akışına / rehberine ('TV guide') bakılır."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "In a reality show, you usually watch ________.",
+      "answers": [
+        "real people in real situations",
+        "animated characters talking",
+        "wild animals in the jungle",
+        "news about the economy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 3,
+      "explanation": "Reality show programları genellikle gerçek insanların gerçek yaşam durumlarındaki hallerini gösterir."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Choose the correct option: 'I prefer ________ pop music ________ classical music.'",
+      "answers": [
+        "listening to / to",
+        "listen / to",
+        "listening to / than",
+        "listen to / than"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 3,
+      "explanation": "'Prefer' kullanımında fiil '-ing' alır (listening to) ve iki şey 'to' edatı ile birleştirilir."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "Which program type is best for a student who has a science project about space and planets?",
+      "answers": [
+        "Documentary",
+        "Soap opera",
+        "Sitcom",
+        "Talk show"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Uzay ve gezegenler hakkında fen projesi olan bir öğrenci için en faydalı program belgeseldir ('documentary')."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Jane doesn't want to watch the debate program. She thinks people talk too much and it is ________.",
+      "answers": [
+        "boring",
+        "exciting",
+        "amusing",
+        "fascinating"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 1,
+      "explanation": "İnsanların çok konuştuğu bir tartışma programını izlemek istemeyen biri orayı sıkıcı ('boring') bulur."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "The people who watch television programs at home are called ________.",
+      "answers": [
+        "viewers / audience",
+        "directors",
+        "contestants",
+        "actors"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 2,
+      "explanation": "Evde televizyon izleyen kişilere izleyici ('viewer / audience') denir."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "What does a 'host' do on a television program?",
+      "answers": [
+        "He or she presents the program and introduces the guests.",
+        "He or she writes the script for the actors.",
+        "He or she operates the cameras.",
+        "He or she sings songs for the commercials."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Television",
+      "difficulty": 3,
+      "explanation": "'Host' (Sunucu), programı sunan ve konukları tanıtan kişidir."
+    }
+  ]
+}

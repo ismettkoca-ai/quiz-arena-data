@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 1",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Okunuşu 'On iki milyon üç yüz dört bin on beş' olan doğal sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "12 304 015",
+        "12 340 150",
+        "12 034 015",
+        "12 304 150"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Milyonlar bölüğünde 12, binler bölüğünde 304 ve birler bölüğünde 015 olmalıdır. Sayı: 12 304 015 şeklinde yazılır."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "45 678 123 doğal sayısındaki 6 rakamının basamak değeri kaçtır?",
+      "answers": [
+        "6 000",
+        "60 000",
+        "600 000",
+        "6 000 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "6 rakamı yüz binler basamağında yer almaktadır. Basamak değeri 6 · 100.000 = 600.000'dir."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "Aşağıdaki doğal sayılardan hangisinin binler bölüğündeki rakamların toplamı 14'tür?",
+      "answers": [
+        "12 345 678",
+        "45 806 123",
+        "7 185 000",
+        "90 545 200"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "90 545 200 seçeneğindeki sayının binler bölüğü 545'tir. Rakamları toplamı 5 + 4 + 5 = 14'tür."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "135 489 sayısının en yakın on binliğe yuvarlanmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "135 000",
+        "130 000",
+        "140 000",
+        "150 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "On binler basamağında 3 vardır. Bir sağındaki rakam 5 olduğu için on binler basamağı bir artırılır ve sağındaki tüm rakamlar sıfır yapılır: 140 000."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "7, 11, 15, 19, ... şeklinde sabit bir farkla ilerleyen sayı örüntüsünün 7. adımı kaçtır?",
+      "answers": [
+        "27",
+        "29",
+        "31",
+        "35"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Sayılar 4'er 4'er artmaktadır. 5. adım: 23, 6. adım: 27, 7. adım: 31 olur."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "72 405 198 sayısının on milyonlar basamağı ile yüz binler basamağındaki rakamların yerleri değiştirilirse oluşan yeni sayı aşağıdakilerden hangisi olur?",
+      "answers": [
+        "42 705 198",
+        "74 205 198",
+        "42 405 198",
+        "27 405 198"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "On milyonlar basamağında 7, yüz binler basamağında 4 vardır. Yer değiştirdiklerinde sayı 42 705 198 olur."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "205 040 008 sayısının okunuşu aşağıdakilerden hangisidir?",
+      "answers": [
+        "İki yüz beş milyon kırk bin sekiz",
+        "İki yüz elli milyon dört bin sekiz",
+        "İki yüz beş milyon dört yüz bin sekiz",
+        "Yirmi beş milyon kırk bin sekiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Milyonlar bölüğü 205, binler bölüğü 040 (kırk), birler bölüğü 008 (sekiz) olduğu için okunuş 'İki yüz beş milyon kırk bin sekiz'dir."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "Rakamları birbirinden farklı, 8 basamaklı en küçük doğal sayının yüz binler basamağındaki rakam kaçtır?",
+      "answers": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Rakamları farklı 8 basamaklı en küçük sayı 10 234 567'dir. Bu sayının yüz binler basamağında 2 rakamı bulunmaktadır."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "38 452 sayısını en yakın binliğe yuvarladığımızda elde edilen sayı kaçtır?",
+      "answers": [
+        "38 000",
+        "38 500",
+        "39 000",
+        "40 000"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Binler basamağında 8 vardır. Sağındaki rakam 4 olduğu için (5'ten küçük) binler basamağı değişmez, sağındakiler sıfır olur: 38 000."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "12, 17, 22, 27, A, B, 42 örüntüsü sabit bir kurala göre ilerlemektedir. Buna göre A + B toplamı kaçtır?",
+      "answers": [
+        "69",
+        "70",
+        "71",
+        "72"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Örüntü 5'er 5'er artmaktadır. 27'den sonra A = 27 + 5 = 32 gelir. B = 32 + 5 = 37 gelir. Toplamları = 32 + 37 = 69'dur."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "Aşağıdaki eşitsizliklerden hangisi DOĞRUDUR?",
+      "answers": [
+        "7 845 000 > 7 854 000",
+        "12 040 500 < 12 004 500",
+        "9 999 999 > 10 000 000",
+        "45 102 300 < 45 120 300"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "45 102 300 < 45 120 300 seçeneğinde 45 milyon bölükleri aynıdır. Binler bölüğüne bakıldığında 102 bin, 120 binden küçüktür. Dolayısıyla eşitsizlik doğrudur."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "80 808 080 sayısında bulunan 8 rakamlarının basamak değerleri toplamı kaçtır?",
+      "answers": [
+        "8 080 808",
+        "80 808 080",
+        "32",
+        "80 000 000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Bir sayının içindeki herhangi bir rakamın tüm basamak değerlerinin toplamı, o rakamların bulunduğu basamakları koruyup diğerlerini sıfır yaptığınızdaki sayıya (sayının kendisine) eşittir."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "Bir öğrenci 2450 sayısını en yakın yüzlüğe, 1340 sayısını en yakın onluğa yuvarlayıp topluyor. Öğrencinin bulduğu sonuç kaçtır?",
+      "answers": [
+        "3790",
+        "3800",
+        "3840",
+        "3900"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "2450 en yakın yüzlüğe yuvarlandığında 2500 olur. 1340 en yakın onluğa yuvarlandığında yine 1340 olarak kalır. 2500 + 1340 = 3840'tır."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "Milyonlar bölüğü 15, birler bölüğü 8, binler bölüğü 0 olan doğal sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "15 800 000",
+        "15 000 800",
+        "15 000 008",
+        "15 080 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Milyonlar bölüğü 15, binler bölüğü 000, birler bölüğü 008 şeklinde yan yana yazıldığında sayı 15 000 008 olur."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "5, 8, 1, 0, 4 rakamları birer kez kullanılarak yazılabilecek 5 basamaklı en büyük çift sayı kaçtır?",
+      "answers": [
+        "85410",
+        "85401",
+        "85104",
+        "85140"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Sayı büyükten küçüğe dizildiğinde 85410 olur. Son rakamı 0 olduğu için zaten çifttir. Bu nedenle yazılabilecek en büyük çift sayı 85410'dur."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "7 basamaklı bir doğal sayının basamaklarındaki rakamların toplamı en fazla kaç olabilir?",
+      "answers": [
+        "63",
+        "70",
+        "90",
+        "99"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "En büyük rakam 9'dur. 7 basamağın hepsine 9 yazıldığında (9 999 999) rakamlar toplamı 7 · 9 = 63 olur."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Kuralı 'Bir önceki sayının 2 katının 3 eksiği' olan bir örüntünün ilk adımı 5 ise 4. adımı kaçtır?",
+      "answers": [
+        "11",
+        "19",
+        "25",
+        "35"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "1. adım = 5. 2. adım = 5·2 - 3 = 7. 3. adım = 7·2 - 3 = 11. 4. adım = 11·2 - 3 = 19'dur."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "6 405 120 sayısındaki 4 rakamının basamak değeri ile 5 rakamının basamak değeri arasındaki fark kaçtır?",
+      "answers": [
+        "1",
+        "395 000",
+        "405 000",
+        "495 000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "4 rakamının basamak değeri 400.000'dir. 5 rakamının basamak değeri 5.000'dir. Fark: 400.000 - 5.000 = 395.000 olur."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "320 045 780 doğal sayısında on milyonlar basamağı ile yüzler basamağındaki rakamların toplamı kaçtır?",
+      "answers": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "On milyonlar basamağındaki rakam 2'dir. Yüzler basamağındaki rakam 7'dir. 2 + 7 = 9'dur."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Kumbarasında 45 TL olan Elif, her hafta kumbarasına 15 TL atmaktadır. 6 hafta sonra Elif'in kumbarasında kaç TL birikir?",
+      "answers": [
+        "90",
+        "105",
+        "120",
+        "135"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "6 haftada biriken miktar: 6 · 15 = 90 TL'dir. Başlangıçta 45 TL vardı. 90 + 45 = 135 TL olur."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "4A3 21B altı basamaklı sayısında A + B = 10'dur. Bu sayının basamak değerleri toplamı EN FAZLA kaç olabilir?",
+      "answers": [
+        "493 211",
+        "413 219",
+        "453 215",
+        "403 210"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Sayının en büyük olması için üst basamaklara en büyük rakam verilmelidir. A on binler basamağındadır, bu yüzden A'ya en büyük değer olan 9, B'ye ise 1 verilir. Sayı 493 211 olur."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Ahmet, okuduğu kitabın sayfalarını 1'den başlayarak numaralandırıyor. 1'den 50'ye kadar sayfaları numaralandırdığında toplam kaç adet rakam kullanmış olur?",
+      "answers": [
+        "50",
+        "91",
+        "99",
+        "100"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "1'den 9'a kadar 9 sayfa için 9 rakam kullanılır. 10'dan 50'ye kadar (50 - 10 + 1 = 41) 41 sayfa vardır ve her biri 2 rakamlıdır. 41 · 2 = 82 rakam. Toplam: 9 + 82 = 91 rakam."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "LGS tarzı beceri temelli soru: Bir stadyumun seyirci kapasitesi en yakın binliğe yuvarlandığında 45 000 olmaktadır. Buna göre bu stadyumun kapasitesi GERÇEKTE en fazla kaç kişi olabilir?",
+      "answers": [
+        "44 999",
+        "45 499",
+        "45 500",
+        "45 999"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "En yakın binliğe yuvarlandığında 45 000 olan en büyük sayı 45 499'dur. Çünkü yüzler basamağı 4 olduğu için aşağı (kendi binliğine) yuvarlanır."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "3'ten başlayarak 4'er 4'er artan bir sayı örüntüsünün 10. terimi ile 5. terimi arasındaki fark kaçtır?",
+      "answers": [
+        "16",
+        "20",
+        "24",
+        "39"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Her adımda 4 arttığına göre, 10. terim ile 5. terim arasında 5 adım fark vardır. 5 · 4 = 20 fark olur."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Bir otoparkın giriş ücreti 20 TL'dir. İçeride kalınan her saat için 10 TL ek ücret alınmaktadır. 4 saat otoparkta kalan bir araç kaç TL öder?",
+      "answers": [
+        "40",
+        "50",
+        "60",
+        "80"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Saat ücreti: 4 · 10 = 40 TL. Giriş ücreti ile birlikte toplam: 20 + 40 = 60 TL."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Aşağıdaki doğal sayılardan hangisi okunuşunda 'sıfır' kelimesi geçmemesine rağmen rakamla yazıldığında sıfır rakamını içerir?",
+      "answers": [
+        "Beş bin kırk",
+        "İki milyon yüz beş",
+        "On bin yüz",
+        "Yüz yirmi bin yedi yüz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "'İki milyon yüz beş' yazıldığında 2 000 105 olur. İçinde sıfır vardır ancak okunuşunda sıfır kelimesi geçmez. Diğerlerinde de geçmez ancak B şıkkında açıkça çok sayıda 0 gizlidir."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "6 789 sayısındaki rakamların yerleri değiştirilerek yazılabilecek en büyük dört basamaklı sayı ile en küçük dört basamaklı sayının farkı kaçtır?",
+      "answers": [
+        "2100",
+        "2997",
+        "3087",
+        "3100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Yazılabilecek en büyük sayı 9876, en küçük sayı 6789'dur. Farkları: 9876 - 6789 = 3087'dir."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "5 x 100 000 + 4 x 10 000 + 3 x 100 + 2 x 1 şeklinde çözümlenen sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "540 302",
+        "54 302",
+        "504 320",
+        "540 320"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Yüz binler=5, On binler=4, Binler=0, Yüzler=3, Onlar=0, Birler=2. Sayı: 540 302."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Bir kitabın sayfaları 1'den başlanarak numaralandırılıyor. Toplam 15 sayfa olduğuna göre kaç kez '1' rakamı kullanılmıştır?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "1, 10, 11, 12, 13, 14, 15 sayılarında 1 rakamı vardır. 11 sayısında 2 adet vardır. Toplam: 1+1+2+1+1+1+1 = 8 adet 1 rakamı kullanılmıştır."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "6 basamaklı 4A5 2B8 sayısı rakamları farklı bir doğal sayıdır. Buna göre A + B toplamı en fazla kaç olabilir?",
+      "answers": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Sayıda 4, 5, 2, 8 rakamları kullanılmıştır. Kullanılmayan en büyük rakamlar 9 ve 7'dir. A ve B yerine 9 ve 7 yazılırsa toplamları 16 olur."
+    }
+  ]
+}

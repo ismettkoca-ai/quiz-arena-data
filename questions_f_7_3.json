@@ -1,0 +1,425 @@
+{
+  "unit": "Vücudumuzdaki Sistemler",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "Büyük yapılı besin içeriklerinin, hücre zarı gözeneklerinden geçebilecek kadar küçük parçalara ayrılması işlemine ne ad verilir?",
+      "answers": [
+        "Boşaltım",
+        "Dolaşım",
+        "Sindirim",
+        "Solunum"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Sindirim, yediğimiz besinlerin vücudumuzdaki hücreler tarafından kullanılabilmesi için küçük yapıtaşlarına parçalanması sürecidir."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "Besinlerin çiğneme veya kas hareketleriyle kimyasal yapıları değişmeden sadece boyut olarak küçültülmesine ne ad verilir?",
+      "answers": [
+        "Kimyasal Sindirim",
+        "Fiziksel (Mekanik) Sindirim",
+        "Emilim",
+        "Süzülme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Besinlerin dişler, mide kasları veya safra sıvısı yardımıyla kimyası bozulmadan küçük parçalara ayrılmasına fiziksel (mekanik) sindirim denir."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "Besinlerin enzimler ve su yardımıyla hücre zarından geçebilecek en küçük yapıtaşlarına kadar parçalanması olayına ne ad verilir?",
+      "answers": [
+        "Mekanik Sindirim",
+        "Emilim",
+        "Fiziksel Sindirim",
+        "Kimyasal Sindirim"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Enzim adı verilen özel salgılar kullanılarak besinlerin kimyasal bağlarının koparılması işlemine kimyasal sindirim adı verilir."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "Karbonhidratların, proteinlerin ve yağların kimyasal sindiriminin sırasıyla başladığı organlar hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Ağız - Mide - İnce Bağırsak",
+        "Mide - İnce Bağırsak - Ağız",
+        "Ağız - İnce Bağırsak - Mide",
+        "İnce Bağırsak - Ağız - Kalın Bağırsak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Karbonhidratların sindirimi tükürükle ağızda, proteinlerin mide özsuyu ile midede, yağların ise pankreas özsuyu ile ince bağırsakta başlar."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Karaciğer tarafından üretilip ince bağırsağa gönderilen ve büyük yağ damlalarını küçük yağ damlacıklarına dönüştürerek yağların fiziksel sindirimini sağlayan salgıya ne ad verilir?",
+      "answers": [
+        "Mide Özsuyu",
+        "Tükürük",
+        "Safra Sıvısı",
+        "Pankreas Özsuyu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Safra sıvısı bir enzim değildir. Karaciğerde üretilir, safra kesesinde depolanır ve yağların fiziksel (mekanik) sindirimini gerçekleştirerek enzimlerin işini kolaylaştırır."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "Tüm besin gruplarının (karbonhidrat, protein ve yağ) kimyasal sindiriminin tamamlandığı ve kana karışmak üzere emildiği sindirim sistemi organı hangisidir?",
+      "answers": [
+        "Mide",
+        "Kalın Bağırsak",
+        "İnce Bağırsak",
+        "Yemek Borusu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "İnce bağırsak, pankreas özsuyundaki enzimler sayesinde tüm besinlerin sindirimini bitirir ve villuslar aracılığıyla besinleri kana geçirir (emilim)."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "İnce bağırsağın iç yüzeyinde bulunan, girintili çıkıntılı parmak şeklindeki uzantılara ne ad verilir ve bunların temel görevi nedir?",
+      "answers": [
+        "Villus (Tümür) - Besinlerin emilerek kana geçmesini sağlamak",
+        "Alveol - Gaz değişimini sağlamak",
+        "Nefron - Kanı süzmek",
+        "Safra - Yağları parçalamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Villuslar, ince bağırsağın iç yüzey alanını inanılmaz derecede genişleterek, sindirilmiş besinlerin kılcal kan damarlarına hızlıca emilmesini sağlarlar."
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "Besinlerin sindirim kanalındaki yolculuğu sırasıyla hangi organlardan geçer?",
+      "answers": [
+        "Ağız -> Yemek Borusu -> Yutak -> Mide -> İnce Bağırsak -> Kalın Bağırsak -> Anüs",
+        "Ağız -> Yutak -> Yemek Borusu -> Mide -> İnce Bağırsak -> Kalın Bağırsak -> Anüs",
+        "Ağız -> Mide -> Yutak -> İnce Bağırsak -> Yemek Borusu -> Anüs",
+        "Yutak -> Ağız -> Mide -> Yemek Borusu -> Kalın Bağırsak -> İnce Bağırsak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Besinler ağızdan yutağa, oradan yemek borusu aracılığıyla mideye, mideden ince bağırsağa, posası kalın bağırsağa ve en son atık olarak anüse ilerler."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "İnsan kalbi yapısal olarak kaç odacıktan oluşur ve temiz/kirli kan dağılımı nasıldır?",
+      "answers": [
+        "2 Odacıklı - Sadece temiz kan taşır.",
+        "3 Odacıklı - Kalpte temiz ve kirli kan birbirine karışır.",
+        "4 Odacıklı - Sağ tarafında kirli kan, sol tarafında temiz kan bulunur.",
+        "4 Odacıklı - Sağ tarafında temiz kan, sol tarafında kirli kan bulunur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Kalp üstte 2 kulakçık, altta 2 karıncık olmak üzere toplam 4 odacıktan oluşur. Kalbin sağ yarısında oksijence fakir (kirli), sol yarısında oksijence zengin (temiz) kan bulunur."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Kalp kası (miyokard) kalbin farklı odacıklarında farklı kalınlıktadır. Kalpte kas tabakasının en kalın ve güçlü olduğu bölüm hangisidir?",
+      "answers": [
+        "Sağ Kulakçık",
+        "Sol Kulakçık",
+        "Sağ Karıncık",
+        "Sol Karıncık"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 3,
+      "explanation": "Sol karıncık, temiz kanı tüm vücuda (en uç noktalara kadar) pompalamak zorunda olduğu için kas tabakası en kalın ve güçlü olan odacıktır."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "Küçük kan dolaşımının başladığı ve bittiği kalp odacıkları hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Sol karıncıkta başlar, sağ kulakçıkta biter.",
+        "Sağ karıncıkta başlar, sol kulakçıkta biter.",
+        "Sağ kulakçıkta başlar, sol karıncıkta biter.",
+        "Sol kulakçıkta başlar, sağ karıncıkta biter."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 3,
+      "explanation": "Küçük dolaşım, kirli kanın sağ karıncıktan akciğerlere gidip temizlenerek kalbin sol kulakçığına geri dönmesi olayıdır."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "Kalpteki oksijence zengin temiz kanın, Aort atardamarı ile tüm vücuda pompalanıp, hücrelerde kirlendikten sonra alt ve üst ana toplardamarlarla kalbe dönmesine ne ad verilir?",
+      "answers": [
+        "Küçük Kan Dolaşımı",
+        "Solunum Sistemi",
+        "Büyük Kan Dolaşımı",
+        "Boşaltım Sistemi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Kanın temizlenmek için değil, hücrelere oksijen ve besin dağıtıp atıkları toplamak için tüm vücudu dolaştığı bu sisteme büyük kan dolaşımı denir."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "Kanı kalpten vücut organlarına taşıyan, genellikle temiz kan bulunduran ve kan basıncının en yüksek olduğu damar türü hangisidir?",
+      "answers": [
+        "Kılcal damarlar",
+        "Toplardamarlar",
+        "Atardamarlar",
+        "Lenf damarları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Atardamarlar kanı kalpten uzaklaştırır (atar). Akciğer atardamarı hariç hepsi temiz kan taşır ve kalbin pompalama gücünden dolayı çeperleri kalın, basınçları yüksektir."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "Vücudumuzdaki hücrelere oksijen taşıyan ve karbondioksiti akciğerlere geri getiren, kana kırmızı rengini veren kan hücresi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Alyuvar (Eritrosit)",
+        "Akyuvar (Lökosit)",
+        "Kan Pulcukları (Trombosit)",
+        "Plazma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Alyuvarlar, yapısındaki hemoglobin proteini sayesinde oksijen ve karbondioksit taşıma görevini üstlenen kırmızı kan hücreleridir."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "Vücudumuzda herhangi bir yaralanma veya kanama durumunda bir araya gelerek kanın pıhtılaşmasını sağlayan ve kan kaybını durduran hücreler hangileridir?",
+      "answers": [
+        "Alyuvarlar",
+        "Kan Plazması",
+        "Akyuvarlar",
+        "Kan Pulcukları"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Kan pulcukları (trombositler), damar hasar gördüğünde o bölgede tıkaç oluşturarak pıhtılaşmayı sağlayan ve kanamayı durduran yapılardır."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "Vücudumuza dışarıdan mikrop veya virüs girdiğinde savaşçı gibi savunma yapan, hastalık durumunda sayıları hızla artan renksiz kan hücreleri hangileridir?",
+      "answers": [
+        "Alyuvarlar",
+        "Akyuvarlar",
+        "Kan Pulcukları",
+        "Villuslar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Akyuvarlar (beyaz kan hücreleri), vücudun bağışıklık ve savunma askerleridir. Mikropları içine alarak parçalar veya antikor üreterek onları yok ederler."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Kan nakli sırasında 'Genel Alıcı' ve 'Genel Verici' olarak bilinen, günümüzde ise sadece tıbbi zorunluluklarda kısıtlı uygulanan kurala göre; kimseye kan veremeyen ancak herkesten alabilen kan grubu (Genel Alıcı) hangisidir?",
+      "answers": [
+        "A",
+        "B",
+        "O (Sıfır)",
+        "AB"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "AB kan grubunun plazmasında antikor bulunmadığı için teorik olarak tüm gruplardan kan alabilir (Genel alıcı). O (Sıfır) grubu ise alyuvarlarında antijen taşımadığı için herkese kan verebilir (Genel verici)."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "Havadaki oksijeni kana, kandaki karbondioksiti ise dış ortama aktararak hücrelerin enerji üretmesi için gereken gaz alışverişini sağlayan sisteme ne ad verilir?",
+      "answers": [
+        "Sindirim Sistemi",
+        "Solunum Sistemi",
+        "Dolaşım Sistemi",
+        "Boşaltım Sistemi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Solunum sistemi, vücut için gerekli olan oksijeni havadan alıp kandaki atık gaz olan karbondioksiti dışarı atar."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Solunum sisteminde havanın akciğerlere gidene kadar izlediği yol sırasıyla hangisidir?",
+      "answers": [
+        "Burun -> Yutak -> Soluk Borusu -> Gırtlak -> Akciğer",
+        "Burun -> Yutak -> Gırtlak -> Soluk Borusu -> Akciğer",
+        "Ağız -> Soluk Borusu -> Yutak -> Gırtlak -> Akciğer",
+        "Burun -> Gırtlak -> Yutak -> Soluk Borusu -> Akciğer"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Hava burundan alınır, yutağı geçer, ses tellerinin bulunduğu gırtlaktan soluk borusuna aktarılır ve oradan akciğerlere (bronşlara) dağılır."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "Soluk borusunun her zaman açık kalmasını ve havanın kesintisiz geçmesini sağlayan yapısı nasıldır?",
+      "answers": [
+        "Tamamen kemikten oluşur.",
+        "Üst üste dizilmiş 'C' şeklindeki kıkırdak halkalardan oluşur.",
+        "Sadece düz kaslardan oluşur.",
+        "Kıkırdak dokusu hiç yoktur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Soluk borusunun duvarlarında bulunan 'C' şeklindeki kıkırdak halkalar, borunun esnek olmasını ve hava basıncıyla kapanmamasını sağlar."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "Akciğerlerin içinde bulunan, etrafı kılcal damarlarla çevrili olan ve havadaki oksijenin kana, kandaki karbondioksitin ise havaya geçtiği üzüm salkımı şeklindeki hava keseciklerine ne denir?",
+      "answers": [
+        "Villus",
+        "Bronşçuk",
+        "Alveol",
+        "Nefron"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Alveoller, solunum sisteminin en uç noktasıdır. Çok ince zarları sayesinde kılcal damarlarla hızlı gaz alışverişi (oksijen-karbondioksit değişimi) yaparlar."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "Bir kişi derin bir nefes (soluk) aldığında vücudunda fiziksel olarak hangi değişim yaşanmaz?",
+      "answers": [
+        "Göğüs boşluğunun hacmi genişler.",
+        "Kaburga kasları kasılarak göğüs kafesi yukarı kalkar.",
+        "Diyafram kası gevşeyerek kubbeleşir (yukarı doğru şişer).",
+        "Akciğerlerin hacmi büyür ve hava ile dolar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 3,
+      "explanation": "Soluk alma sırasında diyafram kasılır ve 'düzleşir' (aşağı doğru iner) ki göğüs boşluğu genişlesin. Gevşeyip kubbeleşmesi soluk verme sırasında olur."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Hücrelerdeki yaşamsal faaliyetler sonucu oluşan zehirli maddelerin, fazla su ve tuzun kanın içinden süzülerek vücut dışına atılmasını sağlayan sisteme ne ad verilir?",
+      "answers": [
+        "Dolaşım Sistemi",
+        "Sindirim Sistemi",
+        "Boşaltım Sistemi",
+        "Solunum Sistemi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Boşaltım sistemi, kanı atık maddelerden (üre, ürik asit vb.) temizleyerek vücudun iç dengesini (homeostasi) korur."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "Boşaltım sisteminin temel organı olan, kanı süzerek idrarı oluşturan bel hizasındaki fasulye şekilli organlar hangisidir?",
+      "answers": [
+        "Karaciğer",
+        "Akciğer",
+        "Mide",
+        "Böbrekler"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Böbrekler, vücudun filtreleridir. Kan böbreklere gelir, süzülür, yararlı maddeler geri emilir ve kalan atıklardan idrar oluşturulur."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "Böbreklerin içinde bulunan, kanın süzülme işlemini gerçekleştiren ve sayıları her böbrekte milyonlarca olan mikroskobik süzme birimlerine ne ad verilir?",
+      "answers": [
+        "Alveol",
+        "Nefron",
+        "Villus",
+        "Üreter"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Nefronlar böbreğin işlevsel üniteleridir. Kan, nefronlardaki çok ince kılcal damar yumaklarından geçerken atıklardan süzülerek temizlenir."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Böbreklerde oluşan idrarın damla damla aşağı inerek İdrar Kesesine (Mesane) taşınmasını sağlayan ince kaslı boruya ne ad verilir?",
+      "answers": [
+        "Üretra (İdrar Kanalı)",
+        "Aort",
+        "Üreter (İdrar Borusu)",
+        "Soluk Borusu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 2,
+      "explanation": "Böbrekten çıkan idrar 'Üreter' ile keseye taşınır. Kesede biriken idrarın vücuttan dışarı atıldığı açıklığa ise 'Üretra' denir."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Vücudumuzda böbreklerin yanı sıra boşaltıma yardımcı olan başka organlar da vardır. Aşağıdaki organlardan hangisi, kandaki fazla su ve tuzu 'terleme' yoluyla dışarı atarak boşaltıma yardımcı olur?",
+      "answers": [
+        "Akciğer",
+        "Kalın Bağırsak",
+        "Karaciğer",
+        "Deri"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Deri, üzerindeki gözenekler sayesinde terleme yaparak vücuttaki fazla ısıyı, suyu ve bir miktar tuzu dışarı atar."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "Proteinlerin sindirimi sonucu hücrelerde son derece zehirli bir madde olan 'Amonyak' oluşur. Amonyağı daha az zehirli olan 'Üre'ye çevirerek böbreklere gönderen ve boşaltıma yardımcı olan organımız hangisidir?",
+      "answers": [
+        "Karaciğer",
+        "Pankreas",
+        "Mide",
+        "Kalın Bağırsak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 3,
+      "explanation": "Karaciğer vücudun biyokimya fabrikasıdır. Çok zehirli olan amonyağı, kanla taşınabilecek kadar az zehirli olan üreye dönüştürerek boşaltım yükünü hafifletir."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Sağlıklı bir kişinin organlarının (böbrek, kalp, karaciğer vb.), ölümünden sonra veya hayattayken yasal ve tıbbi yollarla ihtiyacı olan hastalara nakledilmek üzere verilmesine ne denir?",
+      "answers": [
+        "Kan Nakli",
+        "Organ Bağışı",
+        "Diyaliz",
+        "Aşılama"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 1,
+      "explanation": "Organ bağışı, tedavisi sadece nakille mümkün olan hastaların hayata dönmesini sağlayan en büyük insani ve tıbbi dayanışmadır."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "Sabah kahvaltısında peynir (protein) yiyen bir öğrencinin sindirim, dolaşım ve boşaltım sistemleri bu besinle ilgili ortak çalışır. Bu sürecin doğru sıralaması aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peynir ağızda kimyasal sindirime uğrar -> İnce bağırsakta biter -> Kana geçer -> Akciğerden atılır.",
+        "Midede kimyasal sindirim başlar -> İnce bağırsakta villuslarla kana emilir -> Hücrede kullanılıp amonyak çıkar -> Karaciğerde üreye çevrilir -> Böbreklerde kandan süzülüp idrarla atılır.",
+        "Midede fiziksel sindirim biter -> Kalın bağırsakta kana emilir -> Nefronlarda depolanır.",
+        "Ağızda fiziksel başlar -> Midede biter -> Karaciğerde enerjiye dönüşür -> Deriden atılır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Vücudumuzdaki Sistemler",
+      "difficulty": 3,
+      "explanation": "Sistemler arası koordinasyon: Protein midede sindirilmeye başlar, ince bağırsakta bitip kana geçer. Hücrede yakıldığında atık çıkar (amonyak). Karaciğer üreye çevirir ve kan böbreğe giderek bu üreyi idrar olarak atar."
+    }
+  ]
+}

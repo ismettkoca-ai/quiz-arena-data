@@ -1,0 +1,425 @@
+{
+  "unit": "Madde ve Endüstri",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "Günümüzde kullandığımız periyodik sistemi, elementleri artan atom numaralarına (proton sayılarına) göre sıralayarak oluşturan bilim insanı kimdir?",
+      "answers": [
+        "Dmitri Mendeleyev",
+        "Henry Moseley",
+        "John Newlands",
+        "Johann Döbereiner"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Mendeleyev elementleri kütle numaralarına göre sıralarken hatalar yapmış; Henry Moseley ise elementleri artan atom numaralarına göre sıralayarak günümüzdeki periyodik tabloyu oluşturmuştur."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "Periyodik sistemde bulunan dikey sütunlara ve yatay sıralara sırasıyla ne ad verilir?",
+      "answers": [
+        "Periyot - Grup",
+        "Grup - Periyot",
+        "Sınıf - Blok",
+        "Aile - Yörünge"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Periyodik tabloda yukarıdan aşağıya inen dikey sütunlara grup, soldan sağa doğru uzanan yatay sıralara ise periyot denir."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "Periyodik sistemde aynı grupta (aynı dikey sütunda) bulunan elementlerin en belirgin ortak özelliği aşağıdakilerden hangisidir?",
+      "answers": [
+        "Aynı fiziksel hallerde bulunmaları",
+        "Atom numaralarının ardışık olması",
+        "Sertliklerinin tamamen aynı olması",
+        "Kimyasal özelliklerinin birbirine benzer olması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Aynı grupta bulunan elementlerin son yörüngelerindeki elektron sayıları genellikle aynıdır, bu nedenle benzer kimyasal özellikler gösterirler."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "Yüzeyleri parlak görünümlü olan, tel ve levha haline getirilebilen, ısıyı ve elektriği çok iyi ileten element sınıfına ne ad verilir?",
+      "answers": [
+        "Ametaller",
+        "Soygazlar",
+        "Metaller",
+        "Yarı Metaller"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Metaller periyodik tablonun solunda ve ortasında yer alan, iletkenlikleri yüksek, işlenebilir (şekil verilebilir) elementlerdir."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "Oda koşullarında tek atomlu gaz halinde bulunan, kararlı yapılarından dolayı kimyasal tepkimeye girme isteği olmayan (bağ yapmayan) elementlere ne ad verilir?",
+      "answers": [
+        "Halojenler",
+        "Alkali Metaller",
+        "Ametaller",
+        "Soygazlar (Asalgazlar)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Soygazlar, periyodik sistemin en sağında (8A grubunda) bulunan, elektron alma veya verme ihtiyacı hissetmeyen en kararlı element grubudur."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "Maddenin sadece dış görünüşünde (şekil, boyut, hal) meydana gelen ve maddenin iç yapısını (kimliğini) değiştirmeyen olaylara ne ad verilir?",
+      "answers": [
+        "Fiziksel Değişim",
+        "Kimyasal Değişim",
+        "Kimyasal Tepkime",
+        "Nötralleşme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Kesme, koparma, erime, donma gibi sadece maddenin görünümünü değiştiren olaylar fiziksel değişimdir; maddenin özü aynı kalır."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "Aşağıdaki olaylardan hangisi maddenin kimliğini değiştirerek yeni bir madde oluşmasına yol açan 'Kimyasal Değişim'e örnektir?",
+      "answers": [
+        "Buzun güneşte erimesi",
+        "Camın kırılarak tuz buzu olması",
+        "Demirin nemli ortamda paslanması",
+        "Şekerin çayın içinde çözünmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Paslanma (oksitlenme), yanma, çürüme, mayalanma ve sindirim gibi olaylar maddenin kimyasal yapısını geri dönülmez şekilde değiştirir."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "Bütün hal değişim olayları (erime, buharlaşma, donma, yoğuşma vb.) hangi tür değişime girer?",
+      "answers": [
+        "Fiziksel Değişim",
+        "Kimyasal Değişim",
+        "Biyolojik Değişim",
+        "Nükleer Değişim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Hal değişimlerinde tanecikler arası boşluklar değişir ancak molekülün kendi yapısı ve kimliği bozulmaz. Örneğin buz da, su da, buhar da aynı H2O molekülüdür."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "Bir kapta gerçekleşen kimyasal tepkimede tepkimeye giren maddelerin (reaktiflerin) toplam kütlesi ile tepkime sonucu oluşan maddelerin (ürünlerin) toplam kütlesi her zaman birbirine eşittir. Bu evrensel kurala ne ad verilir?",
+      "answers": [
+        "Paskal Prensibi",
+        "Kütlenin Korunumu Kanunu",
+        "Enerjinin Korunumu",
+        "Sabit Oranlar Kanunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Kimyasal tepkimelerde yoktan madde var olmaz, var olan madde de yok olmaz. Buna Lavoisier'nin ortaya koyduğu kütlenin korunumu kanunu denir."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Kimyasal tepkimelerde atomların durumu ile ilgili aşağıda verilen bilgilerden hangisi kesinlikle doğrudur?",
+      "answers": [
+        "Atomların türü değişebilir.",
+        "Toplam atom sayısı değişebilir.",
+        "Mevcut kimyasal bağlar kırılır ve yeni kimyasal bağlar oluşur.",
+        "Tepkime sonunda yepyeni atomlar yaratılır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Kimyasal tepkimelerde atom cinsi ve sayısı ASLA değişmez. Sadece aralarındaki bağlar kırılıp atomlar yeniden düzenlenerek yeni bağlar (yeni moleküller) oluştururlar."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "Kapalı bir kapta 12 gram Karbon (C) ile 32 gram Oksijen (O2) gazı artansız bir şekilde tepkimeye girerek Karbondioksit (CO2) gazı oluşturmaktadır. Kütlenin korunumu kanununa göre oluşan CO2 gazı kaç gramdır?",
+      "answers": [
+        "20 gram",
+        "32 gram",
+        "44 gram",
+        "50 gram"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Giren maddelerin kütleleri toplamı ürünlerin kütleleri toplamına eşittir. 12 + 32 = 44 gram ürün oluşur."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "Suda çözündüklerinde ortama Hidrojen iyonu (H+) veren, tatları genellikle ekşi olan ve mavi turnusol kağıdının rengini kırmızıya çeviren maddelere ne ad verilir?",
+      "answers": [
+        "Baz",
+        "Asit",
+        "Tuz",
+        "Saf Su"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Limon, sirke ve akü sıvısı gibi maddeler asittir. Tatları ekşidir ve ayraç olarak kullanılan mavi turnusol kağıdını kırmızıya dönüştürürler."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "Suda çözündüklerinde ortama Hidroksit iyonu (OH-) veren, tatları acı olan, ele kayganlık hissi veren ve kırmızı turnusol kağıdını maviye çeviren maddelere ne ad verilir?",
+      "answers": [
+        "Asit",
+        "Tuz",
+        "Baz",
+        "Yarı Metal"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Sabun, deterjan, çamaşır suyu ve diş macunu gibi genellikle temizlik maddesi olarak kullanılan acı tatlı ve kaygan maddeler bazik özellik taşır."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "Maddelerin asitlik veya bazlık derecelerini ölçmek için kullanılan pH ölçeği 0 ile 14 arasında değer alır. Buna göre pH değeri 7 olan, 0-7 arası olan ve 7-14 arası olan maddeler sırasıyla hangi sınıftadır?",
+      "answers": [
+        "Nötr - Baz - Asit",
+        "Asit - Nötr - Baz",
+        "Nötr - Asit - Baz",
+        "Baz - Asit - Nötr"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "pH ölçeğinde 7 nötr (saf su, tuz) demektir. 7'nin altı (0-7) asidik, 7'nin üstü (7-14) bazik bölgeleri ifade eder."
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Aşağıdakilerden hangisi kuvvetli bir asit olan sülfürik asidin veya hidroklorik asidin olumsuz etkilerinden (zararlarından) biridir?",
+      "answers": [
+        "Cam ve porselenleri aşındırması",
+        "Mermer ve metalleri aşındırması (tepkimeye girmesi)",
+        "Sadece plastik kapları eritmesi",
+        "Ele kayganlık hissi verip deriyi temizlemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Asitler metallerle ve mermer yüzeylerle tepkimeye girerek onları aşındırır ve delerler. Bu yüzden asitler metal veya mermer kaplarda değil, cam/plastik kaplarda saklanır."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "Bazı güçlü temizlik ürünleri (çamaşır suyu, tuz ruhu) kesinlikle birbirine karıştırılmamalıdır. Bunun temel kimyasal nedeni nedir?",
+      "answers": [
+        "Karıştırıldıklarında zehirli (toksik) gazlar açığa çıkarıp solunum yollarını tahriş etmeleri veya ölüme sebep olmaları",
+        "Temizlik güçlerinin azalması",
+        "Renklerinin bozulması",
+        "Çok fazla köpürerek suyu israf etmeleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Tuz ruhu (asit) ile çamaşır suyu (baz) karıştırıldığında tehlikeli bir kimyasal tepkime gerçekleşir ve ölümcül olan klor gazı açığa çıkar."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Fosil yakıtların tüketimiyle atmosfere salınan Kükürt dioksit (SO2) ve Azot dioksit (NO2) gibi gazların, bulutlardaki su buharıyla birleşerek sülfürik asit ve nitrik aside dönüşüp yeryüzüne düşmesi olayına ne ad verilir?",
+      "answers": [
+        "Sera Etkisi",
+        "Asit Yağmurları",
+        "Ozon Deliği",
+        "Buharlaşma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Sanayi ve egzoz gazlarının havadaki nemle birleşmesiyle oluşan asit yağmurları; bitkilere, tarihi eserlere ve göllerdeki canlılara büyük zarar verir."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Asit ve bazların sulu çözeltilerinin birbiriyle kimyasal tepkimeye girerek, asitlik ve bazlık özelliklerini kaybedip 'Tuz' ve 'Su' oluşturduğu tepkime türüne ne ad verilir?",
+      "answers": [
+        "Yanma Tepkimesi",
+        "Fiziksel Çözünme",
+        "Nötralleşme Tepkimesi",
+        "Bozunma Tepkimesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Asitteki H+ ile bazdaki OH- iyonlarının birleşerek suyu (H2O) oluşturmasına ve pH'ın 7'ye (nötr) yaklaşmasına nötralleşme tepkimesi denir."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "1 gram saf maddenin sıcaklığını 1°C artırmak için maddeye verilmesi gereken ısı miktarına ne ad verilir?",
+      "answers": [
+        "Erime Isısı",
+        "Öz Isı",
+        "Sıcaklık",
+        "Termal Enerji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Öz ısı, her saf madde için farklı olan (ayırt edici) bir özelliktir ve c sembolü ile gösterilir. Maddenin ne kadar çabuk ısınıp soğuyacağının göstergesidir."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "Öz ısısı büyük olan maddeler ile öz ısısı küçük olan maddelerin ısınma ve soğuma hızları karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Öz ısısı küçük olan maddeler geç ısınır, geç soğur.",
+        "Öz ısısı büyük olan maddeler çabuk ısınır, çabuk soğur.",
+        "Öz ısısı küçük olan maddeler çabuk ısınır, çabuk soğur.",
+        "Her iki madde de aynı hızda ısınır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Demir gibi öz ısısı küçük olan maddeler çok çabuk ısınır ve ateşi çekince hızla soğur. Su gibi öz ısısı büyük olanlar ise çok geç ısınır ve çok geç soğurlar."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "Eşit kütleli Zeytinyağı (öz ısısı: 1,96 J/g°C) ve Su (öz ısısı: 4,18 J/g°C) aynı sıcaklıktayken, özdeş ısıtıcılarla 5 dakika boyunca ısıtılıyor. Süre sonunda hangi sıvının sıcaklık artışı daha fazla olur?",
+      "answers": [
+        "Su",
+        "Zeytinyağı",
+        "İkisi de aynı sıcaklığa ulaşır",
+        "Suların kaynama noktasına ulaşır"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 3,
+      "explanation": "Eşit kütle ve eşit ısıda, öz ısısı 'küçük' olan maddenin sıcaklığı çok daha fazla artar. Bu yüzden zeytinyağı daha sıcak olur."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "Aynı sıcaklıktaki 100 gram saf su ile 500 gram saf suya, özdeş ısıtıcılarla eşit süre ısı enerjisi veriliyor. Bu deneyin sonucunda kaplardaki suların son sıcaklıkları hakkında ne söylenebilir?",
+      "answers": [
+        "500 gram suyun sıcaklığı daha çok artar.",
+        "İki kaptaki suyun sıcaklığı da aynı olur.",
+        "100 gram suyun sıcaklığı daha fazla artar.",
+        "Kütle farkı sıcaklığı etkilemez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Madde miktarı (kütle) azaldıkça, aynı miktarda ısıyla sağlanan sıcaklık artışı daha yüksek olur. 100 gram su daha çabuk ve daha fazla ısınır."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "Erime sıcaklığında bulunan 1 gram katı maddenin tamamen sıvı hale geçmesi için çevresinden alması gereken ısı miktarına ne ad verilir?",
+      "answers": [
+        "Erime Noktası",
+        "Buharlaşma Isısı",
+        "Öz Isı",
+        "Erime Isısı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Saf katı maddenin sıvı hale geçmesi için alması gereken ve madde miktarına bağlı olan bu ısıya 'erime ısısı' (Le) denir."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "Saf bir sıvı sürekli ısıtılarak kaynama noktasına ulaştırılıyor ve sıvı buharlaşmaya devam ediyor. Kaynama süreci bitene kadar termometrede okunan sıcaklık değerinde nasıl bir değişim gözlenir?",
+      "answers": [
+        "Sırekli artar.",
+        "Önce azalır sonra artar.",
+        "Hal değişimi tamamlanana kadar sıcaklık sabit kalır.",
+        "Sürekli azalır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Saf maddeler hal değiştirirken (erirken, kaynarken vb.) aldıkları ısıyı molekül bağlarını kırmak için harcarlar. Bu yüzden hal değişimi bitene kadar sıcaklık sabittir."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "Kış aylarında kar yağarken havanın biraz yumuşaması (ısınması) veya don olacağı zaman seralara içi su dolu dev variller konulması, aşağıdaki hangi fiziksel kuralın sonucudur?",
+      "answers": [
+        "Maddeler erirken dışarıya ısı verir.",
+        "Maddeler donarken veya yoğuşurken çevrelerine ısı enerjisi verirler.",
+        "Maddeler buharlaşırken dışarıya ısı verirler.",
+        "Suyun öz ısısının düşük olması."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 3,
+      "explanation": "Buharın kara (katıya) dönüşmesi veya suyun donması olaylarında madde içindeki potansiyel enerjiyi (ısıyı) çevreye yayar, bu da ortamı bir miktar ısıtır."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Yazın kesilmiş bir karpuzun bir süre güneşte bırakıldığında soğuması, elimize kolonya döktüğümüzde serinlik hissetmemiz veya testi içindeki suyun soğuk kalması hangi olayla açıklanır?",
+      "answers": [
+        "Sıvı maddeler buharlaşırken çevrelerinden (temas ettikleri yüzeyden) ısı alırlar, bu da ortamın soğumasına neden olur.",
+        "Sıvılar güneş ışığını tamamen yansıtır.",
+        "Maddeler erirken ısı verir.",
+        "Açık hava basıncı yüzeyi soğutur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Madde ve Endüstri",
+      "difficulty": 3,
+      "explanation": "Buharlaşma ısı alan (endotermik) bir olaydır. Kolonya veya karpuzdaki su buharlaşırken kendi yüzeyinden (elimizden/karpuzdan) ısı çeker ve serinleme sağlar."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "Petrokimya, ilaç, boya, plastik, kozmetik ve tarım gübreleri gibi pek çok ürünün üretimini sağlayan ve diğer endüstri dallarına hammadde üreten sanayi koluna ne ad verilir?",
+      "answers": [
+        "Tekstil Endüstrisi",
+        "Otomotiv Endüstrisi",
+        "Kimya Endüstrisi",
+        "Gıda Endüstrisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 1,
+      "explanation": "Kimya endüstrisi; petrol türevleri, plastikler, temizlik maddeleri ve ilaçlar başta olmak üzere hayatın her alanındaki malzemelerin laboratuvar ve fabrika sürecidir."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "Türkiye'de kimya endüstrisi oldukça gelişmiş olmasına rağmen sektörün yaşadığı en büyük problem (dışa bağımlılık) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Üretecek fabrikanın hiç olmaması",
+        "Plastik ve boya üretiminde kullanılan hammaddenin (özellikle petrol ve türevlerinin) büyük oranda ithal ediliyor olması",
+        "Çalışan mühendis bulunamaması",
+        "Sadece gıda üretimine yönelinmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Ülkemiz kimya sanayisinde işleme tesislerine sahip olsa da, petrol ve doğalgaz gibi temel kimyasal hammaddelerde büyük ölçüde dışa (ithalata) bağımlıdır."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "Bir kimyasal tepkimenin kütle-zaman grafiği incelendiğinde; K ve L maddelerinin kütlesinin zamanla azaldığı (sıfıra yaklaştığı), M ve N maddelerinin kütlesinin ise sıfırdan başlayarak arttığı görülmektedir. Bu tepkimenin denklemi aşağıdakilerden hangisidir?",
+      "answers": [
+        "K + M -> L + N",
+        "M + N -> K + L",
+        "K + L -> M + N",
+        "K -> L + M + N"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Madde ve Endüstri",
+      "difficulty": 2,
+      "explanation": "Grafikte kütlesi azalan maddeler tepkimeye girenler (harcananlar), kütlesi artan maddeler ise yeni oluşan ürünlerdir. Girenler (K ve L) -> Ürünler (M ve N)."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "Periyodik tabloda elementler sınıflandırılırken bazen istisnai durumlar görülür. 1A grubunda bulunmasına rağmen metal olmayan (ametal olan) ve atom numarası 1 olan element aşağıdakilerden hangisidir?",
+      "answers": [
+        "Lityum (Li)",
+        "Hidrojen (H)",
+        "Helyum (He)",
+        "Sodyum (Na)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Madde ve Endüstri",
+      "difficulty": 3,
+      "explanation": "Hidrojen, periyodik tablonun en sol üstünde, alkali metallerin (1A) tepesinde bulunmasına rağmen kimyasal olarak bir ametaldir ve en büyük istisnadır."
+    }
+  ]
+}

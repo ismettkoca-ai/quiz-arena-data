@@ -1,0 +1,425 @@
+{
+  "unit": "Hz. Muhammed'in Örnekliği",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "Kur'an-ı Kerim'de, inananların her konuda örnek alması ve izinden gitmesi gereken en mükemmel model olarak peygamberimiz gösterilir. Peygamberimizin bu 'En Güzel Örnek' olma vasfına (özelliğine) ne ad verilir?",
+      "answers": [
+        "Hatemü'l-Enbiya",
+        "Üsve-i Hasene",
+        "Rahmeten lil-Alemin",
+        "Muhammedü'l-Emin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Üsve-i Hasene (En Güzel Örnek), peygamberimizin dürüstlüğü, adaleti, merhameti ve ibadetiyle tüm insanlığa kusursuz bir rol model olması demektir."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "Peygamberimize henüz peygamberlik verilmeden (vahiy inmeden) önce bile, Mekke halkı ona dürüstlüğü ve kimsenin hakkını yememesi nedeniyle özel bir lakap takmıştı. Bu lakap nedir?",
+      "answers": [
+        "Ebu'l-Kasım",
+        "Muhammedü'l-Emin (Güvenilir Muhammed)",
+        "Resulullah",
+        "Halilullah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Ticaretindeki dürüstlüğü, yalan söylememesi ve emanetleri titizlikle koruması sayesinde Mekkeliler ona 'El-Emin' (Güvenilir) adını vermişti."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "Mekkeliler Kabe'yi tamir ettikten sonra, kutsal sayılan 'Hacerü'l-Esved' taşını yerine kimin koyacağı konusunda büyük bir kavgaya tutuşmuşlardı. Hakem olarak Hz. Muhammed'in geldiğini görünce 'İşte güvenilir kişi geldi, onun kararına razıyız' dediler. Bu olay peygamberimizin en çok hangi özelliğiyle ilgilidir?",
+      "answers": [
+        "Merhametli ve affedici olmasıyla",
+        "İstişareye (danışmaya) önem vermesiyle",
+        "Güvenilir (Emin) ve adaletli bir hakem olmasıyla",
+        "Çok cesur bir savaşçı olmasıyla"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Hacerü'l-Esved hakemliği, peygamberimizin toplumdaki sarsılmaz güvenilirliğinin ve sorunları adaletle çözme yeteneğinin en büyük kanıtıdır."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "Peygamberimiz, kendisini öldürmek isteyen müşriklerin baskısı yüzünden Mekke'den Medine'ye hicret (göç) edeceği gece, müşriklerin kendisine emanet ettiği eşyaları sahiplerine geri vermesi için Hz. Ali'yi kendi yatağında bırakmıştır. Bu olay onun hangi özelliğini gösterir?",
+      "answers": [
+        "Savaşı çok sevdiğini",
+        "Emanete asla hıyanet etmeyen, düşmanına bile dürüst (güvenilir) davranan biri olduğunu",
+        "Mal ve mülke çok değer verdiğini",
+        "İstişare yaptığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Kendisini öldürmeye gelen düşmanlarının bile mallarını (emanetlerini) onlara iade etme çabası, onun 'Emin' sıfatının zirvesidir."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "Mekke feth edildiğinde, peygamberimiz kendisine yıllarca eziyet eden, arkadaşlarını şehit eden ve onu yurdundan kovan düşmanlarını karşısına dizmiş ancak onları bağışlayarak hepsini serbest bırakmıştır. Bu büyük olay onun hangi yönünü vurgular?",
+      "answers": [
+        "Affediciliğini ve eşsiz merhametini",
+        "Güçsüzlüğünü ve korktuğunu",
+        "Adaletsiz davrandığını",
+        "Kibirli olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Eline intikam alma fırsatı ve gücü geçtiği halde en azılı düşmanlarını bile affetmesi, onun şefkat ve merhamet elçisi olduğunu gösterir."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "Peygamberimiz, İslam'ı anlatmak için gittiği Taif şehrinde taşlanmış, ayakları kan içinde kalmıştır. Melekler 'İstersen bu şehri onların başına yıkalım' dediğinde o, 'Hayır, belki onların soyundan Allah'a inanan nesiller gelir, Allah'ım kavmimi bağışla' diye dua etmiştir. Bu olay onun hangi özelliğine örnektir?",
+      "answers": [
+        "Cesaretine",
+        "Kararlılığına",
+        "Merhametine ve beddua etmekten kaçınmasına",
+        "İnsanlara değer vermemesine"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Taif olayı, kendisine zulmeden insanlara bile beddua etmeyen, onların iyiliğini isteyen bir peygamberin merhamet destanıdır."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "Bir işin nasıl yapılacağı veya bir sorunun nasıl çözüleceği konusunda sadece kendi fikrini uygulamayıp, o konuyu bilen kişilere (uzmanlara) danışmaya ve ortak karar almaya İslam'da ne ad verilir?",
+      "answers": [
+        "Tevekkül",
+        "İstihare",
+        "İnfak",
+        "İstişare (Danışma)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "İstişare, peygamberimizin en çok uyguladığı liderlik özelliklerinden biridir. Kendi fikrinde ısrar etmez, ortak akla başvururdu."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "Mekkeliler Medine'ye saldırmak için gelirken, Selman-ı Farisi adındaki sahabi 'Şehrin etrafına derin çukurlar kazıp savunma yapalım' fikrini sunmuştur. Peygamberimiz bu fikri beğenmiş ve savaş bu taktikle kazanılmıştır. Bu olay peygamberimizin hangi özelliğine örnektir?",
+      "answers": [
+        "Sadece Arapları dinlediğine",
+        "İstişareye önem verdiğine ve farklı fikirlere açık olduğuna",
+        "Savaştan korktuğuna",
+        "Kararsız biri olduğuna"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Hendek Savaşı'ndaki bu olay, peygamberin kendi görüşünü dayatmayıp istişare (danışma) sonucunda ortaya çıkan iyi bir fikri hemen benimsediğini gösterir."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "Uhud Savaşı öncesinde peygamberimiz şehirde kalıp savunma yapmayı istemişti. Ancak genç sahabeler meydan savaşı istediklerini söyleyince peygamberimiz çoğunluğun fikrine uymuş ve orduyu şehir dışına çıkarmıştır. Bu olay bize peygamberimizin neye önem verdiğini gösterir?",
+      "answers": [
+        "İstişareye (Ortak karara saygı duymaya)",
+        "Sadece yaşlıları dinlemeye",
+        "Savaş ganimetine",
+        "Sürekli savunmada kalmaya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 3,
+      "explanation": "Peygamberin, kendi fikrine ters düşse bile istişare (ortak akıl/çoğunluk) sonucunda çıkan karara uyması, şura (danışma) prensibine verdiği önemin kanıtıdır."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Müşrikler, İslam'ı anlatmaktan vazgeçmesi için peygamberimize Mekke'nin krallığını, en güzel kadınlarını ve en büyük zenginliğini teklif etmişlerdir. Peygamberimiz ise 'Güneşi sağ elime, ayı sol elime verseler yine de bu davadan vazgeçmem' demiştir. Bu söz onun en çok hangi yönünü vurgular?",
+      "answers": [
+        "Zenginliği sevmediğini",
+        "İnatçı olduğunu",
+        "Davasındaki kararlılığını (azmini) ve davasından asla taviz vermeyeceğini",
+        "Astronomiyle ilgilendiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Hiçbir dünya nimeti veya tehdit karşısında geri adım atmaması, onun üstün kararlılık ve davasına bağlılık örneğidir."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "Hicret yolculuğu sırasında müşrikler peygamberimizi ve Hz. Ebubekir'i Sevr Mağarası'nda sıkıştırmış, mağaranın kapısına kadar gelmişlerdir. Hz. Ebubekir endişelenince peygamberimiz gayet sakin bir şekilde 'Üzülme/Korkma, Allah bizimle beraberdir' demiştir. Bu olay peygamberimizin hangi iki özelliğini gösterir?",
+      "answers": [
+        "Cesareti ve Allah'a olan tam tevekkülü",
+        "Korkusu ve çaresizliği",
+        "Savaşçılığı ve merhameti",
+        "İstişaresi ve sabrı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Ölümle burun buruna geldiği en tehlikeli anlarda bile paniğe kapılmaması onun cesaretini, Allah'a sığınması ise tevekkülünü gösterir."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "Hz. Ali, savaşlardaki en tehlikeli anları anlatırken 'Bedir'de savaş çok şiddetlendiğinde biz peygambere sığınırdık, çünkü o düşmana en yakın duranımız (en önde savaşanımız) idi' demiştir. Bu söz peygamberimizin hangi özelliğini kanıtlar?",
+      "answers": [
+        "Ordunun arkasında durduğunu",
+        "Savaşı çabuk bitirmek istediğini",
+        "Büyük bir cesaret ve kahramanlık sahibi olduğunu",
+        "Sadece komutanlık yaptığını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Ordunun en ön safında çarpışması, tehlikeden kaçmaması onun eşsiz cesaretinin ve kahramanlığının en büyük göstergesidir."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "Peygamberimiz bir meclise girdiğinde başköşeye geçmez, boş bulduğu yere otururdu. Ayaklarını kimseye karşı uzatmaz, biriyle konuşurken sadece yüzünü çevirmez, tüm vücuduyla o kişiye dönerdi. Onun bu tavırları hangi özelliğine girer?",
+      "answers": [
+        "Güvenilir oluşuna",
+        "İnsanlara değer vermesine ve mütevazı (alçakgönüllü) oluşuna",
+        "Cesaretine",
+        "Kararlılığına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Sıradan bir insan gibi boş yere oturması (tevazu) ve insanları tüm vücuduyla dinlemesi, karşısındakine verdiği değerin (nezaketin) göstergesidir."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "Mescid-i Nebi'yi süpüren, siyahi ve yaşlı bir kadın vardı. Kadın vefat ettiğinde sahabeler peygamberimizi gece rahatsız etmemek için ona haber vermeden kadını defnettiler. Durumu öğrenen peygamberimiz çok üzülmüş ve gidip o kadının mezarı başında dua etmiştir. Bu olay neyi öğretir?",
+      "answers": [
+        "Peygamberimizin mezarlıkları sevdiğini",
+        "Peygamberimizin; makamı, rengi ve cinsiyeti ne olursa olsun her insana (emeğe) çok büyük değer verdiğini",
+        "Kadınların sadece temizlik yapması gerektiğini",
+        "Sadece zenginlere değer verdiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Toplumda düşük statüde görülen yaşlı ve siyahi bir temizlikçinin vefatına gösterdiği bu vefa, onun insana sadece 'insan' olduğu için değer verdiğini kanıtlar."
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Peygamberimiz, namaz kıldırırken arka saflardan ağlayan bir çocuk (bebek) sesi duyduğunda, annesi üzülmesin ve telaşlanmasın diye namazı normalden çok daha kısa tutardı (hızlandırırdı). Bu davranış peygamberimizin hangi özelliğini yansıtır?",
+      "answers": [
+        "Namaz kılmaktan çabuk sıkıldığını",
+        "Merhametini, çocuklara ve annelere (insanlara) verdiği değeri",
+        "Çocukların camiye gelmesini istemediğini",
+        "Sesi az duyduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Bir annenin bebeğinin ağlamasından duyacağı endişeyi hissedebilmek (empati kurmak), peygamberimizin eşsiz merhametini ve insana verdiği değeri gösterir."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "Zengin ve soylu bir kadının hırsızlık yapması üzerine onun affedilmesi için aracı gönderilince peygamberimiz çok kızmış ve 'Kızım Fatıma dahi hırsızlık yapsa, onun da cezasını verirdim' demiştir. Bu olay peygamberimizin hangi kavramdan asla taviz vermediğini gösterir?",
+      "answers": [
+        "İstişare",
+        "Adalet (Kanun önünde eşitlik)",
+        "Kararlılık",
+        "Merhamet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Adaletin sağlanmasında kişinin zenginliği, soyluluğu veya akrabalık bağının hiçbir önemi yoktur; hak ve adalet herkes için eşittir."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Peygamberimiz, bir cenaze (ölü) geçerken hemen ayağa kalkmış, yanındakiler 'Ey Allah'ın elçisi, bu ölen bir Yahudi cenazesidir' dediklerinde, 'O da bir can (insan) değil mi?' cevabını vermiştir. Bu olay onun hangi özelliğini gösterir?",
+      "answers": [
+        "Peygamberimizin yorulduğu için ayağa kalktığını",
+        "Sadece Müslümanlara değer verdiğini",
+        "Irkı ve inancı ne olursa olsun 'insan' olana duyduğu derin saygıyı ve değeri",
+        "Cenaze geçerken ses çıkarılması gerektiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "İslam ahlakına göre insan, yaratılmış bir can olduğu için değerlidir. Peygamberimiz farklı dinden birinin cenazesine saygı göstererek bunu ispatlamıştır."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Hz. Aişe'ye 'Peygamberin ahlakı nasıldı?' diye sorulduğunda Hz. Aişe'nin verdiği efsanevi cevap aşağıdakilerden hangisidir?",
+      "answers": [
+        "Siz Kur'an okumuyor musunuz? Onun ahlakı Kur'an'dı.",
+        "O çok cesur bir komutandı.",
+        "O sadece ibadet ederdi.",
+        "Onun ahlakı ticaretti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz Kur'an-ı Kerim'deki emir ve yasakların vücut bulmuş, yaşayan halidir. Onun yaşantısı doğrudan Kur'an ahlakının bir aynasıdır."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "Peygamberimiz 'Zorlaştırmayın kolaylaştırın, nefret ettirmeyin sevdirin' buyurmuştur. Bu hadis, onun dini insanlara anlatırken (tebliğ ederken) hangi yöntemi uyguladığını gösterir?",
+      "answers": [
+        "Korkutma ve tehdit",
+        "Hoşgörü, sevgi ve insan fıtratına uygun bir kolaylaştırıcılık",
+        "Zorlama ve baskı",
+        "Dini kuralları tamamen kaldırma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Peygamberimiz insanları dinden uzaklaştıracak katı ve kaba tutumlardan kaçınmış, daima affedici, müjdeleyici ve dini sevdirici bir dil kullanmıştır."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "Kureyş Suresi, peygamberimizin mensubu olduğu Kureyş kabilesine Allah'ın verdiği nimetleri hatırlatır. Bu surede Kureyşlilerin yaz ve kış aylarında güven içinde yaptıkları hangi faaliyete dikkat çekilir?",
+      "answers": [
+        "Tarım ve çiftçilik",
+        "Ticaret yolculukları (Kervanları)",
+        "Balıkçılık",
+        "Heykel yapımı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Kureyş Suresi'nde Mekkelilerin (Kureyşlilerin) kışın Yemen'e, yazın ise Şam'a güven içinde yaptıkları ticari yolculuk nimetinden bahsedilir."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "Kureyş Suresi'nin temel mesajı (öğüdü) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kureyş kabilesinin dünyadaki en üstün kabile olduğu",
+        "Mekkelilerin ticaret yapmaktan vazgeçmesi gerektiği",
+        "Allah'ın Kureyş'e verdiği 'Açlıktan doyurma ve korkudan emin kılma' nimetlerine şükrederek, sadece bu Beyt'in (Kabe'nin) Rabbine ibadet etmeleri gerektiği",
+        "Savaşa hazırlık yapmaları gerektiği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 3,
+      "explanation": "Sure, Kureyş'in sahip olduğu ekonomik zenginlik ve güvenliğin Allah'ın bir lütfu olduğunu, bu yüzden putlara değil Kabe'nin asıl sahibi olan tek Allah'a ibadet etmelerini emreder."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "Kureyş suresinin ilk ayetinde geçen ve 'Güvenmek, anlaşmak, alışmak ve ısındırmak' anlamlarına gelen kelime aşağıdakilerden hangisidir?",
+      "answers": [
+        "Beyt",
+        "İlaf",
+        "Havf",
+        "Cu'"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 3,
+      "explanation": "Surenin başındaki 'Li ilafi Kureyş' ifadesindeki İlaf kelimesi; ülfet etmek, alışmak, güven içinde (ticaret anlaşmalarıyla) yolculuk yapmak anlamlarına gelir."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "Veda Hutbesi'nde peygamberimiz: 'Ey insanlar! Rabbiniz birdir, babanız (Adem) da birdir. Arabın Arap olmayana, Arap olmayanın da Araba; beyazın siyaha, siyahın beyaza üstünlüğü yoktur. Üstünlük ancak takva iledir' buyurmuştur. Bu söz onun en çok hangi iki kavrama verdiği değeri gösterir?",
+      "answers": [
+        "Savaş ve ganimet",
+        "İnsan hakları, eşitlik ve ırkçılık karşıtlığı",
+        "Zenginlik ve şöhret",
+        "İstişare ve cesaret"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "İslam ahlakında ten rengi, ırk veya zenginlik bir üstünlük sebebi değildir. İnsana değer verilir ve herkes Allah katında (iyilik hariç) eşittir."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "Peygamberimiz bir gün, kuşu ölen Zeyd adındaki küçük bir çocuğun evine giderek ona taziyede bulunmuş (başsağlığı dilemiş) ve onu teselli etmiştir. Bu olay onun hangi özelliğine muazzam bir örnektir?",
+      "answers": [
+        "Sadece büyüklere değer verdiğine",
+        "Çocukların ruh dünyasına inen ince merhametine ve insana verdiği değere",
+        "Kuşları çok sevdiğine",
+        "İstişare ettiğine"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Bir çocuğun kuşu öldü diye onun yasına ortak olmak, peygamberimizin kalbindeki muazzam merhametin ve çocuklara verdiği birey değerinin kanıtıdır."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "Bedir Savaşı'nda esir düşen Mekkeli müşriklerden okuma yazma bilenler, on Müslümana okuma yazma öğretmeleri karşılığında serbest bırakılmışlardır. Bu uygulama peygamberimizin neye önem verdiğini gösterir?",
+      "answers": [
+        "Fidyeye ve paraya",
+        "Eğitime ve bilgiye (İlme)",
+        "Esirleri cezalandırmaya",
+        "İstişareye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 1,
+      "explanation": "Özgürlüğün bedelini 'Okuma-yazma öğretmek' olarak belirlemesi, İslam'ın ilme ve eğitime savaş zamanında bile verdiği eşsiz değeri gösterir."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Peygamberimiz; verdiği sözü her zaman tutmuş (Ahde vefa), kimseyi kandırmamış ve yaptığı anlaşmaları (Hudeybiye Antlaşması vb.) düşman bozmadığı sürece asla bozmamıştır. Bu durum onun hangi temel ahlaki ilkesidir?",
+      "answers": [
+        "Cesaret",
+        "Merhamet",
+        "Güvenilirlik ve Doğruluk (Sıdk-Emanet)",
+        "İstişare"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Sözünde durmak, ihanet etmemek ve anlaşmalara sadık kalmak doğrudan 'El-Emin' (Güvenilir) olma ve doğru sözlülük vasıflarıyla ilgilidir."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "Peygamberimiz bir yolculuk sırasında, dinlenen bir kuşun yuvasından yavrularını alan sahabeleri görünce çok kızmış ve 'Bu hayvanı yavruları için kim korkuttu? Yavrularını hemen yerine koyun!' diyerek onları uyarmıştır. Bu olay onun hangi özelliğidir?",
+      "answers": [
+        "Kuşlardan korkması",
+        "Sadece insanlara değil, doğaya ve hayvanlara karşı da merhametli oluşu",
+        "Yolculukları sevmemesi",
+        "Sahabelere sinirlenmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Hz. Muhammed (s.a.v) sadece insanların değil 'Alemlerin' (tüm canlıların) peygamberidir. Hayvanlara eziyeti yasaklaması onun eşsiz merhametini gösterir."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "İnsanlara verdiği değerin bir göstergesi olarak peygamberimiz, ashabıyla sohbet ederken kapıdan kim girerse girsin (ister fakir ister köle olsun) ona yer açar, ikramda bulunur ve onun halini hatırını sorardı. Bu durum İslam'ın hangi ahlaki kuralıdır?",
+      "answers": [
+        "İsraf",
+        "Tevazu, Nezaket ve İnsana Saygı",
+        "Kararlılık",
+        "Adalet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "İnsanları makam ve mevkisine göre ayırmadan herkese değer vererek yer açması, onun mütevazı kişiliğini ve nezaketini kanıtlar."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "Müşrikler 'Bizi atalarımızın dininden döndüremeyeceksin' dediklerinde peygamberimiz 'Ben hak dini anlatmakla emrolundum, son nefesime kadar da anlatacağım' diyerek yoluna devam etmiştir. Bu durum peygamberimizin tebliğ (davet) görevindeki hangi yönüdür?",
+      "answers": [
+        "Kararlılığı ve Azmi",
+        "Merhameti",
+        "İstişaresi",
+        "Hoşgörüsü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 2,
+      "explanation": "Davadan dönmeme, tehditlere veya alaylara aldırmadan doğru yolda ısrarla ve sabırla yürümeye devam etmek 'Kararlılık' ve 'Azim'dir."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "Bir öğrenci peygamberimizin 'İstişare' özelliğini günlük hayatına uyarlamak isterse, aşağıdaki davranışlardan hangisini yapması en doğru olur?",
+      "answers": [
+        "Sınava çalışırken hiç kimseye soru sormaması",
+        "Lise tercihleri döneminde sadece kendi bildiğini okuması",
+        "Geleceğiyle ilgili önemli bir karar alırken ailesinin, öğretmenlerinin ve o konuyu bilen uzmanların fikrini alarak (danışarak) ortak bir sonuca varması",
+        "Karar vermekten tamamen kaçıp işi şansa bırakması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hz. Muhammed'in Örnekliği",
+      "difficulty": 3,
+      "explanation": "İstişare, kendi fikrini dayatmak yerine 'bilenlere danışmak' ve o fikirleri değerlendirmektir. Öğrencinin uzman fikri alması peygamberin istişare ahlakının günümüze uygulanmasıdır."
+    }
+  ]
+}

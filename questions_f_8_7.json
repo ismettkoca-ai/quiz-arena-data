@@ -1,0 +1,425 @@
+{
+  "unit": "Elektrik Yükleri ve Elektrik Enerjisi",
+  "questions": [
+    {
+      "id": "Q_8_7_001",
+      "questionText": "Maddenin yapısında bulunan temel elektrik yükleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Protonlar eksi (-), elektronlar artı (+) yüklüdür.",
+        "Protonlar artı (+), elektronlar eksi (-) yüklüdür ve nötronlar yüksüzdür.",
+        "Nötronlar eksi (-), elektronlar artı (+) yüklüdür.",
+        "Tüm atom altı parçacıklar yüksüzdür."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Atomun çekirdeğinde artı yüklü protonlar ve yüksüz nötronlar bulunur; çekirdeğin etrafında ise eksi yüklü elektronlar yer alır."
+    },
+    {
+      "id": "Q_8_7_002",
+      "questionText": "Elektrik yüklü cisimlerin birbirine uyguladığı kuvvetle ilgili temel kural nedir?",
+      "answers": [
+        "Aynı cins yükler birbirini çeker, zıt cins yükler birbirini iter.",
+        "Aynı cins yükler birbirini iter, zıt cins yükler birbirini çeker.",
+        "Yüklü cisimler arasında hiçbir kuvvet oluşmaz.",
+        "Sadece artı yükler birbirini çeker."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Elektrostatikte aynı işaretli yükler (+ ile + veya - ile -) birbirini iterken, zıt işaretli yükler (+ ile -) birbirini çeker."
+    },
+    {
+      "id": "Q_8_7_003",
+      "questionText": "Nötr (yüksüz) iki cismin birbirine sürtülmesi sonucunda elektriklenmesi olayında hangi parçacıklar yer değiştirir?",
+      "answers": [
+        "Sadece protonlar",
+        "Sadece nötronlar",
+        "Sadece elektronlar",
+        "Hem protonlar hem elektronlar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Protonlar çekirdeğe bağlıdır ve hareket etmez. Sürtünme ile elektriklenmede sadece eksi (-) yüklü elektronlar cisimler arasında geçiş yapar."
+    },
+    {
+      "id": "Q_8_7_004",
+      "questionText": "Nötr bir ipek kumaşa sürülen nötr cam çubuğun elektrik yükü durumu nasıl gerçekleşir?",
+      "answers": [
+        "Cam çubuk eksi, ipek kumaş artı yüklenir.",
+        "Cam çubuk artı, ipek kumaş eksi yüklenir.",
+        "İkisi de nötr kalmaya devam eder.",
+        "İkisi de artı yüklenir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Cam çubuk ipeğe sürtüldüğünde elektron verir. Elektron kaybeden cam çubuk artı (+), elektron alan ipek kumaş ise eksi (-) yükle yüklenir."
+    },
+    {
+      "id": "Q_8_7_005",
+      "questionText": "Yüklü iki iletken cisim birbirine dokundurulduğunda aralarında yük alışverişi olur. Bu alışveriş hangi durum gerçekleştiğinde durur?",
+      "answers": [
+        "Cisimlerin toplam yükü sıfır olduğunda",
+        "Cisimlerin büyüklükleri eşitlendiğinde",
+        "Cisimlerin birim yüzey başına düşen yük miktarları (potansiyelleri) eşitlendiğinde",
+        "Cisimlerden biri tamamen nötr olduğunda"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 3,
+      "explanation": "Dokunma ile elektriklenmede yük alışverişi, cisimlerin kapasitelerine göre yük yoğunlukları (potansiyelleri) eşitlenene kadar devam eder."
+    },
+    {
+      "id": "Q_8_7_006",
+      "questionText": "Yüklü bir cismin, nötr iletken bir cisme temas ettirilmeden yaklaştırılmasıyla içindeki yüklerin kutuplaşmasına neden olan elektriklenme çeşidi hangisidir?",
+      "answers": [
+        "Sürtünme ile elektriklenme",
+        "Dokunma ile elektriklenme",
+        "Etki (tesir) ile elektriklenme",
+        "Topraklama"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Temas olmaksızın, uzaktan etkiyle yüklerin yer değiştirmesini sağlayan yönteme etki (tesir) ile elektriklenme denir."
+    },
+    {
+      "id": "Q_8_7_007",
+      "questionText": "Elektrik yüklü bir cismin iletken bir tel yardımıyla toprağa bağlanarak nötr hale getirilmesi işlemine ne ad verilir?",
+      "answers": [
+        "Kutuplaşma",
+        "Topraklama",
+        "İzolasyon",
+        "Yük paylaşımı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Topraklama, fazla yüklerin güvenli bir şekilde yeryüzüne aktarılmasını veya eksik yüklerin giderilerek cismin nötrlenmesini sağlar."
+    },
+    {
+      "id": "Q_8_7_008",
+      "questionText": "Negatif (-) yüklü bir cisim topraklandığında gerçekleşen yük geçişi hangi yönde olur?",
+      "answers": [
+        "Topraktan cisme doğru proton akar.",
+        "Cisimden toprağa doğru elektron akar.",
+        "Topraktan cisme doğru elektron akar.",
+        "Cisimden toprağa doğru proton akar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Eksi yüklü cisimde elektron fazlalığı vardır. Topraklandığında bu fazla elektronlar cisimden toprağa doğru hareket ederek cismi nötrler."
+    },
+    {
+      "id": "Q_8_7_009",
+      "questionText": "Bir cismin elektrikle yüklü olup olmadığını, yüklü ise hangi tür yük içerdiğini anlamamıza yarayan laboratuvar aracına ne ad verilir?",
+      "answers": [
+        "Ampermetre",
+        "Voltmetre",
+        "Elektroskop",
+        "Dinamometre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Metal topuz ve iletken yapraklardan oluşan elektroskop, cisimlerin yük durumunu yaprakların açılıp kapanmasıyla test eder."
+    },
+    {
+      "id": "Q_8_7_010",
+      "questionText": "Nötr bir elektroskobun topuzuna, pozitif (+) yüklü bir cisim dokundurulduğunda elektroskobun yaprakları için ne söylenebilir?",
+      "answers": [
+        "Kapalı kalmaya devam eder.",
+        "Önce açılıp sonra tamamen kapanır.",
+        "Aynı cins yükle yükleneceği için yapraklar açılır.",
+        "Negatif yükle yüklenerek kapanır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Artı yüklü cisim dokundurulduğunda elektroskoba artı yük geçer. Yapraklarda aynı cins yük birikeceği için birbirini iter ve yapraklar açılır."
+    },
+    {
+      "id": "Q_8_7_011",
+      "questionText": "Bulutlar ile yeryüzü arasında gerçekleşen büyük elektrik boşalmasına (deşarjına) ne ad verilir?",
+      "answers": [
+        "Şimşek",
+        "Yıldırım",
+        "Kasırga",
+        "Kırağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Bulut ile yer arasında elektrik yüklerinin ani ve şiddetli bir şekilde akması olayına yıldırım denir (Bulutlar arası olana şimşek denir)."
+    },
+    {
+      "id": "Q_8_7_012",
+      "questionText": "Elektrik devrelerinde iletken tel boyunca elektronların (negatif yüklerin) hareket etmesiyle oluşan enerji akışına ne ad verilir?",
+      "answers": [
+        "Elektrik Direnci",
+        "Elektrik Akımı",
+        "Potansiyel Fark",
+        "Elektromanyetik Alan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Elektrik akımı, iletken içerisindeki serbest elektronların bir uçtan diğer uca yönlü hareketidir. Birimi Amper'dir."
+    },
+    {
+      "id": "Q_8_7_013",
+      "questionText": "Bir elektrik devresinde akımın oluşmasını sağlayan, iki nokta arasındaki enerji veya yük miktarının gücünü belirleyen potansiyel farkın birimi ve ölçü aleti hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Amper - Ampermetre",
+        "Volt - Voltmetre",
+        "Ohm - Ohmmetre",
+        "Joule - Kalorimetre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Potansiyel farkın (gerilimin) birimi Volt'tur ve devreye paralel bağlanan Voltmetre ile ölçülür."
+    },
+    {
+      "id": "Q_8_7_014",
+      "questionText": "Maddelerin elektrik akımının geçişine karşı gösterdiği zorluğa ne ad verilir ve hangi birimle ifade edilir?",
+      "answers": [
+        "Akım - Amper",
+        "Gerilim - Volt",
+        "Direnç - Ohm",
+        "Güç - Watt"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Elektrik akımına karşı gösterilen zorluğa direnç denir, sembolü R'dir ve birimi Ohm'dur."
+    },
+    {
+      "id": "Q_8_7_015",
+      "questionText": "Aynı cins maddeden yapılmış iletken tellerden hangisinin elektrik akımına karşı gösterdiği direnç en azdır?",
+      "answers": [
+        "İnce ve uzun tel",
+        "Kalın ve kısa tel",
+        "İnce ve kısa tel",
+        "Kalın ve uzun tel"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "İletkenin boyu arttıkça direnç artar, kesit alanı (kalınlığı) arttıkça direnç azalır. Bu nedenle kalın ve kısa telin direnci en düşüktür."
+    },
+    {
+      "id": "Q_8_7_016",
+      "questionText": "Ohm Kanunu'na göre, bir elektrik devresinde gerilimin (V) akım şiddetine (I) oranı sabit bir değeri verir. Bu sabit değer neyi temsil eder?",
+      "answers": [
+        "Gücü",
+        "Direnci (R)",
+        "Enerjiyi",
+        "Yük miktarını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Ohm yasasına göre V = I . R bağıntısı vardır. Buradan R = V / I formülü elde edilir; yani gerilimin akıma oranı direnci verir."
+    },
+    {
+      "id": "Q_8_7_017",
+      "questionText": "Seri bağlı özdeş lambalardan oluşan bir elektrik devresinde lambalardan biri patlarsa (duyundan çıkarılırsa) diğer lambaların durum nasıl olur?",
+      > [
+        "Parlaklıkları artar.",
+        "Hepsi söner.",
+        "Işık vermeye devam eder.",
+        "Daha zayıf yanar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Seri bağlı devrelerde elektrik akımı tek bir kol üzerinden akar. Lamba patladığında devre açık devre olur ve akım kesileceği için tüm lambalar söner."
+    },
+    {
+      "id": "Q_8_7_018",
+      "questionText": "Paralel bağlı özdeş lambalardan oluşan bir devrede kollardan birindeki lamba patlarsa diğer koldaki lambalar nasıl etkilenir?",
+      "answers": [
+        "Hepsi söner.",
+        "Işık vermeye devam ederler ve parlaklıkları değişmez.",
+        "Parlaklıkları azalır.",
+        "Patlayan lambanın yerine diğerleri de patlar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Paralel bağlı kollarda her lamba bağımsız bir yola sahiptir. Bir koldaki lamba arızalandığında diğer kollardan akım geçmeye devam eder ve parlaklıkları etkilenmez."
+    },
+    {
+      "id": "Q_8_7_019",
+      "questionText": "Bir elektrik devresinde direnç sayısı artırıldığında eşdeğer direnç ve ana kol akımı nasıl değişir? (Seri bağlama için)",
+      "answers": [
+        "Eşdeğer direnç artar, ana kol akımı azalır.",
+        "Eşdeğer direnç azalır, ana kol akımı artar.",
+        "İkisi de artar.",
+        "İkisi de azalır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Seri bağlı devrelerde dirençler uç uca eklendiği için toplam (eşdeğer) direnç artar. Direncin arttığı devrede akım şiddeti azalır."
+    },
+    {
+      "id": "Q_8_7_020",
+      "questionText": "Evlerimizdeki odaların lambaları ve prizler birbirine nasıl bağlanmıştır?",
+      "answers": [
+        "Seri bağlıdır.",
+        "Paralel bağlıdır.",
+        "Karışık bağlıdır.",
+        "Tek bir ana kol üzerinden seri bağlanmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Ev tesisatında her cihaz ve lamba bağımsız çalışabilsin ve eşit gerilim alabilsin diye birbirine paralel bağlanmıştır."
+    },
+    {
+      "id": "Q_8_7_021",
+      "questionText": "Elektrik enerjisinin ısı, ışık veya hareket enerjisine dönüştüğü bilinmektedir. Aşağıdaki cihazlardan hangisinde elektrik enerjisi öncelikle 'ısı' enerjisine dönüştürülür?",
+      "answers": [
+        "Vantilatör",
+        "Elektrikli Ütü",
+        "Televizyon",
+        "Zil"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Ütü, fırın ve elektrikli soba gibi cihazlar rezistans teli barındırır ve elektrik akımının etkisiyle ısı enerjisi üretirler."
+    },
+    {
+      "id": "Q_8_7_022",
+      "questionText": "Elektrik enerjisinin birim zamanda harcanan miktarına ne ad denir?",
+      "answers": [
+        "Elektrik Akımı",
+        "Elektrik Gücü",
+        "Potansiyel Fark",
+        "Direnç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Elektrik gücü 'P' harfi ile gösterilir, birimi Watt'tır ve bir saniyede tüketilen elektrik enerjisi miktarını belirtir."
+    },
+    {
+      "id": "Q_8_7_023",
+      "questionText": "Evlerimize gelen elektrik faturalarında tüketilen enerji miktarı hangi birim üzerinden hesaplanarak faturalandırılır?",
+      "answers": [
+        "Kilowatt-saat (kWh)",
+        "Amper",
+        "Volt",
+        "Ohm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Elektrik enerjisi tüketimi, cihazın gücünün (kW) çalıştırıldığı süreyle (saat) çarpılmasıyla bulunan Kilowatt-saat (kWh) birimiyle faturalandırılır."
+    },
+    {
+      "id": "Q_8_7_024",
+      "questionText": "Gücü 1000 Watt (1 kW) olan bir elektrikli ısıtıcı 2 saat boyunca çalıştırılırsa tükettiği elektrik enerjisi kaç kWh olur?",
+      "answers": [
+        "0.5 kWh",
+        "1 kWh",
+        "2 kWh",
+        "2000 kWh"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Enerji = Güç (kW) x Zaman (saat). 1 kW x 2 saat = 2 kWh enerji tüketir."
+    },
+    {
+      "id": "Q_8_7_025",
+      "questionText": "Evlerde elektrik tesisatında aşırı akım geçmesi veya kısa devre oluşması durumunda evdeki cihazların yanmasını önlemek için devreye seri olarak bağlanan güvenlik elemanı nedir?",
+      "answers": [
+        "Anahtar",
+        "Sigorta",
+        "Direnç",
+        "Voltmetre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Sigorta, akım güvenli seviyenin üzerine çıktığında içindeki telin erimesiyle (veya otomatik olarak atmak suretiyle) devreyi keserek evi ve cihazları korur."
+    },
+    {
+      "id": "Q_8_7_026",
+      "questionText": "Bir elektrik devresinde akımın direnci az olan yolu seçerek yüklerin lambaya uğramadan doğrudan pilin kutuplarına dönmesine ne ad verilir?",
+      "answers": [
+        "Seri Bağlama",
+        "Kısa Devre",
+        "Paralel Bağlama",
+        "Topraklama"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 2,
+      "explanation": "Kısa devre durumunda direnç neredeyse sıfıra düşer ve akım dirençsiz yolu seçerek lambaların sönmesine, pilin aşırı ısınmasına yol açar."
+    },
+    {
+      "id": "Q_8_7_027",
+      "questionText": "Aşağıdakilerden hangisi elektrik enerjisini tasarruflu ve verimli kullanmak adına evde yapılması gereken doğru bir uygulamadır?",
+      "answers": [
+        "Odadan çıkarken lambaları açık bırakmak",
+        "Eski tip akkor ampuller yerine enerji tasarruflu LED ampuller tercih etmek",
+        "Beyaz eşyaları tam dolmadan çalıştırmak",
+        "Televizyonu kumandadan kapatıp fişte bırakmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "LED ampuller çok daha az elektrik enerjisiyle aynı aydınlatmayı sağlayarak enerji verimliliği ve tasarruf sağlar."
+    },
+    {
+      "id": "Q_8_7_028",
+      "questionText": "Bir elektrikli ev aletinin üzerinde 220 Volt ve 1100 Watt yazmaktadır. Bu cihazın çalışırken çektiği akım şiddeti kaç Amperdir?",
+      "answers": [
+        "2 Amper",
+        "5 Amper",
+        "10 Amper",
+        "22 Amper"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 3,
+      "explanation": "Elektrik gücü formülü P = V x I şeklindedir. 1100 = 220 x I ise I = 1100 / 220 = 5 Amperdir."
+    },
+    {
+      "id": "Q_8_7_029",
+      "questionText": "Özdeş dirençlerden oluşan bir devrede, dirençler önce birbirine seri, ardından özdeş pillerle paralel bağlanıyor. Hangi bağlantı türünde pillerin tükenme süresi (ömrü) daha uzun olur?",
+      "answers": [
+        "Seri bağlamada",
+        "Paralel bağlamada",
+        "İkisinde de pil ömrü eşittir",
+        "Direnç sayısı pil ömrünü etkilemez"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 3,
+      "explanation": "Paralel bağlı devrelerde ana kol akımı daha küçük olduğu için pillerden çekilen akım paylaşılır; bu nedenle piller seri devreye göre çok daha uzun süre (ömürlü) dayanır."
+    },
+    {
+      "id": "Q_8_7_030",
+      "questionText": "Elektrik enerjisi hayatımızı kolaylaştırırken dikkat edilmezse ölümcül kazalara yol açabilir. Buna göre elektrikle ilgili çalışma yapılırken veya arıza giderilirken uyulması gereken en temel güvenlik kuralı nedir?",
+      "answers": [
+        "Islak elle dokunmak",
+        "Çalışmaya başlamadan önce ana şalterden elektriği tamamen kesmek",
+        "Metal tornavida ile prizleri kurcalamak",
+        "Plastik eldiven yerine çıplak elle çalışmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektrik Yükleri ve Elektrik Enerjisi",
+      "difficulty": 1,
+      "explanation": "Elektrikli cihazlar üzerinde herhangi bir tamirat veya bakım yapılmadan önce mutlaka ana şalterden akımın kesilmesi hayati önem taşır."
+    }
+  ]
+}

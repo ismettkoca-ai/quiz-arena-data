@@ -1,0 +1,425 @@
+{
+  "unit": "Peygamber Olarak Hz. Muhammed",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Mekkeli müşrikler peygamberimize inanmak istemediklerinde, 'Bu nasıl peygamber? Bizim gibi yemek yiyor, pazarlarda dolaşıyor. Ona bir melek indirilmeli değil miydi?' demişlerdir. Müşriklerin anlayamadığı temel gerçek nedir?",
+      "answers": [
+        "Peygamberlerin meleklerden üstün olduğu",
+        "Peygamberlerin insanlara örnek olabilmesi için mutlaka 'insan' olması gerektiği",
+        "Peygamberlerin hiç yemek yemediği",
+        "Pazarda dolaşmanın günah olduğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Peygamberler insanlardan seçilir ki; acıkma, yorulma ve üzülme gibi insani durumlarda bize uygulanabilir, canlı ve gerçek bir 'örnek' olabilsinler[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Müslümanlar her gün okudukları Kelime-i Şehadet'te, Hz. Muhammed'in (s.a.v) peygamberliğinden (Resul) hemen önce onun hangi özelliğini özellikle vurgularlar?",
+      "answers": [
+        "Onun çok güçlü bir komutan olduğunu",
+        "Onun Allah'ın 'Kulu' (Abduhu) olduğunu",
+        "Onun Arapların lideri olduğunu",
+        "Onun ölümsüz olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Kelime-i Şehadet'te geçen 'Abduhu ve Resuluhu' ifadesi; onun önce Allah'ın kulu (insan), sonra ise elçisi (peygamber) olduğunu belirtir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "Kur'an-ı Kerim'de, inananların her konuda örnek alması, izinden gitmesi gereken tek ve en mükemmel model olarak peygamberimiz gösterilir. Peygamberimizin bu 'En Güzel Örnek' olma vasfına Kur'an'da ne ad verilir?",
+      "answers": [
+        "Hatemü'l-Enbiya",
+        "Üsve-i Hasene",
+        "Rahmeten lil-Alemin",
+        "Beşir ve Nezir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Üsve-i Hasene (En Güzel Örnek), peygamberimizin ahlakı, adaleti ve ibadetiyle tüm insanlığa rol model olması demektir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "İslam dininde Hz. Muhammed (s.a.v) için kullanılan 'Hatemü'l-Enbiya' unvanının anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peygamberlerin en zengini",
+        "İlk yaratılan peygamber",
+        "Peygamberlerin sonuncusu (Peygamberlik mührü)",
+        "Sadece Mekke'ye gönderilen peygamber"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Hatem (Mühür/Son) kelimesinden türeyen Hatemü'l-Enbiya, peygamberlik zincirinin Hz. Muhammed ile son bulduğunu, başka peygamber gelmeyeceğini ifade eder[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "Kur'an'da namaz kılmak, zekat vermek emredilmiş ancak bunların nasıl yapılacağı, namazın kaç rekat kılınacağı detaylı anlatılmamıştır. Bu detayları bize uygulayarak öğreten kişi peygamberimizdir. Peygamberimizin Kur'an'ı 'açıklama' görevine ne ad verilir?",
+      "answers": [
+        "Tebliğ",
+        "Tebyin",
+        "Teşri",
+        "Temsil"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Tebyin, 'beyan etmek, açıklamak' demektir. Peygamberimiz, Kur'an'daki kapalı (özet) ayetleri hem sözleriyle hem de yaşantısıyla insanlara açıklamıştır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Kur'an-ı Kerim'de Allah, peygamberimize hitaben 'Biz seni ancak alemlere ........... olarak gönderdik' (Enbiya Suresi) buyurmaktadır. Boşluğa gelmesi gereken, peygamberimizin şefkatini özetleyen kelime hangisidir?",
+      "answers": [
+        "Lider",
+        "Rahmet (Merhamet)",
+        "Uyarıcı",
+        "Hakim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Peygamberimiz sadece insanlara değil, hayvanlara, bitkilere, doğaya; kısacası tüm alemlere merhamet (rahmet) elçisi olarak gönderilmiştir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "Peygamberimiz, yeni doğan veya vefat eden çocukları için gözyaşı dökmüş, Taif'te taşlandığında üzülmüş, savaşlarda yaralanmış ve acı çekmiştir. Bu olayların tümü onun hangi yönünün kesin kanıtıdır?",
+      "answers": [
+        "Onun mucizeler gösterdiğinin",
+        "Onun bizim gibi etten kemikten yaratılmış bir insan (beşer) olduğunun",
+        "Onun savaşmayı çok sevdiğinin",
+        "Onun gökyüzünde yaşadığının"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Peygamberimizin ağlaması, acı çekmesi veya yaralanması, onun da sıradan bir insan (beşer) ve ölümlü bir varlık olduğunu gösterir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "Hz. Muhammed (s.a.v) vefat ettiğinde bazı sahabeler buna inanmak istememiş, çok büyük bir şok yaşamışlardır. Hz. Ebubekir ise 'Kim Muhammed'e tapıyorsa bilsin ki o ölmüştür, kim Allah'a tapıyorsa Allah diridir ve ölümsüzdür' diyerek toplumu sakinleştirmiştir. Hz. Ebubekir bu sözüyle neyi hatırlatmıştır?",
+      "answers": [
+        "Hz. Ebubekir'in yeni lider olduğunu",
+        "Peygamberin insanüstü, yarı tanrı bir varlık olmadığını, onun da her insan gibi ölümlü bir kul olduğunu",
+        "Savaşların artık bittiğini",
+        "Peygamberin yeniden dirileceğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "İslam, peygamberi ilahlaştırmayı reddeder. Peygamberler de ölümlü kullardır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Peygamberimizin temel görevlerinden biri de insanları ahiret azabına karşı uyarmak ve cennet nimetleriyle müjdelemektir. Kur'an'da peygamberimizin bu görevlerini ifade eden kavramlar hangileridir?",
+      "answers": [
+        "Fetanet ve İsmet",
+        "Beşir (Müjdeleyici) ve Nezir (Uyarıcı)",
+        "Tebliğ ve Tebyin",
+        "Sıdk ve Emanet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Peygamberimiz; iyi işler yapanları cennetle müjdeleyen (Beşir) ve kötülük yapanları cehenneme karşı uyaran (Nezir) bir elçidir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "Müşrikler peygamberimize gelip, 'Madem peygambersin bize yarın ne olacağını, gelecekte başımıza ne geleceğini söyle' demişlerdir. Peygamberimiz ise 'Ben sadece bana vahyedilene uyarım' diyerek onlara cevap vermiştir. Bu durum peygamberimiz hakkında neyi gösterir?",
+      "answers": [
+        "Onun gaybı (geleceği) Allah bildirmediği sürece kendiliğinden bilemeyeceğini",
+        "Geleceği çok iyi bildiği halde söylemek istemediğini",
+        "Falcılık yapmayı sevmediğini",
+        "Sadece zenginlerin geleceğini görebildiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Gayb (bilinmeyen sırlar ve gelecek) sadece Allah'ın elindedir. Peygamberler dahi, Allah onlara vahiy ile bildirmezse geleceği bilemezler[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "Hz. Muhammed'in (s.a.v) peygamberlik görevlerinden biri de Allah'tan aldığı ayetleri insanlara hiçbir ekleme veya çıkarma yapmadan eksiksiz şekilde bildirmesidir. Bu göreve ne ad verilir?",
+      "answers": [
+        "Tebyin",
+        "Teşri",
+        "Tebliğ",
+        "Temsil"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Tebliğ, 'ulaştırmak, bildirmek' demektir. Peygamberin vahyi olduğu gibi insanlara aktarmasıdır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Peygamberimiz evde eşlerine yardım eder, elbiselerini yamar, ayakkabılarını tamir eder ve çocuklarla oyun oynardı. 'Ben peygamberim, bana hizmet edin' demezdi. Bu durum onun insani özelliklerinden hangisiyle doğrudan ilgilidir?",
+      "answers": [
+        "Onun çok zengin olması",
+        "Onun mütevazı (alçakgönüllü) olması ve aile hayatına değer vermesi",
+        "Sürekli mucize göstermesi",
+        "Onun cesur bir komutan olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Allah'ın elçisi olmasına rağmen ev işleri yapması, onun kibirden tamamen uzak, son derece mütevazı bir insan olduğunu gösterir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "Mekke feth edildiğinde, peygamberimiz kendisine yıllarca zulmeden, eziyet eden, onu yurdundan çıkaran düşmanlarını karşısına dizmiş ancak onları bağışlayarak hepsini serbest bırakmıştır. Bu büyük olay onun en çok hangi yönünü vurgular?",
+      "answers": [
+        "İntikam almaktan zevk aldığını",
+        "Affediciliğini ve merhametini",
+        "Güçsüzlüğünü",
+        "Adaletsiz davrandığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Eline intikam alma fırsatı ve gücü geçtiği halde düşmanlarını affetmesi, onun büyüklüğünü ve eşsiz merhametini (rahmet elçisi olduğunu) kanıtlar[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "İslam dininde Kur'an-ı Kerim'den sonra gelen ikinci temel dini kaynak (rehber) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peygamberimizin Sünneti (Sözleri ve Yaşantısı)",
+        "İlmihal Kitapları",
+        "Tarih Kitapları",
+        "Suhuf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Müslümanların dini öğrenmek için başvurduğu birinci kaynak Kur'an, onu açıklayan ve pratiğe döken ikinci kaynak ise Hz. Muhammed'in Sünneti'dir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "Kur'an'da 'Andolsun ki Resulullah'ta sizin için, Allah'a ve ahiret gününe kavuşmayı umanlar için en güzel örnek (Üsve-i Hasene) vardır' buyrulur. Bu ayete göre Müslümanların hayat tarzı nasıl olmalıdır?",
+      "answers": [
+        "Sadece zenginlerin peşinden gitmek",
+        "Peygamberin ahlakını, dürüstlüğünü ve ibadetini kendi hayatlarına kopyalamak (örnek almak)",
+        "Sadece peygamberin kıyafetlerini giymek",
+        "Geçmiş çağlarda yaşamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Üsve-i Hasene (En güzel örnek), peygamberin sadece kılık kıyafetini değil; onun dürüstlüğünü, adaletini, sabrını ve merhametini rol model edinmektir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "Peygamberimiz; dürüst ticaret yapmış, sözünde durmuş, kimsenin hakkını yememiş ve şaka dahi olsa yalan söylememiştir. Peygamberimizin bu özellikleri onun öncelikle hangi lakapla (isimle) anılmasını sağlamıştır?",
+      "answers": [
+        "Muhammedü'l-Fatih",
+        "Muhammedü'l-Emin (Güvenilir Muhammed)",
+        "Hatemü'l-Enbiya",
+        "Ebu'l-Kasım"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Peygamberimiz, dürüstlüğü ve güvenilirliği sayesinde henüz peygamber olmadan önce bile toplum tarafından 'El-Emin' (Güvenilir) olarak isimlendirilmiştir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "İslam dinine göre peygamberimiz sadece Kur'an'ı bize getiren bir postacı değildir; aynı zamanda dini kurallar koyma ve haram-helal belirleme yetkisi de vardır. Peygamberin 'kural koyma' yetkisine ne ad verilir?",
+      "answers": [
+        "Teşri",
+        "Tebliğ",
+        "Tebyin",
+        "Temsil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Şeriat kökünden gelen 'Teşri', peygamberimizin Kur'an'a ters düşmemek şartıyla dinde hüküm ve kural koyma yetkisidir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Zengin ve soylu bir kadının hırsızlık yapması üzerine onu affetmesi istenince peygamberimiz, 'Kızım Fatıma dahi hırsızlık yapsa cezasını verirdim' demiştir. Bu olay peygamberimizin hangi özelliğinin sarsılmaz olduğunu gösterir?",
+      "answers": [
+        "Adaletinin ve kanun önünde eşitlik anlayışının",
+        "Akrabalarına düşman olduğunun",
+        "Kadınlara karşı katı olduğunun",
+        "Hırsızlığı sevdiğinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Adaletin sağlanmasında statü veya akrabalık bağının hiçbir önemi yoktur; hak ve adalet İslam'da herkes için eşittir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "Peygamberimiz, bir cenaze (ölü) geçerken hemen ayağa kalkmış, yanındakiler 'Ey Allah'ın elçisi, bu ölen bir Yahudi cenazesidir' dediklerinde, 'O da bir can (insan) değil mi?' cevabını vermiştir. Bu olay neyi öğretir?",
+      "answers": [
+        "Peygamberimizin yorulduğu için ayağa kalktığını",
+        "İslam'ın, ırkı ve dini ne olursa olsun 'insan' olana duyduğu derin saygıyı",
+        "Sadece Müslüman cenazelerine saygı duyulması gerektiğini",
+        "Cenaze geçerken ses çıkarılması gerektiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "İslam ahlakına göre insan, sadece insan olduğu (Allah'ın yarattığı bir can olduğu) için değerlidir ve saygıya layıktır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "Hz. Muhammed'in hayatı okunduğunda onun, Hira Mağarası'na yalnız başına çekildiği dönemden sonra toplumun sorunlarına karışan, ordular yöneten ve hakemlik yapan aktif birine dönüştüğü görülür. Bu değişim İslam'la ilgili neyi gösterir?",
+      "answers": [
+        "İslam'ın toplumdan kaçıp dağlarda yaşamayı yasakladığını",
+        "Müslümanın dağlarda değil, toplumun içinde (sosyal hayatta) yaşayarak onlara örnek olması gerektiğini",
+        "Peygamberin yalnızlığı çok sevdiğini",
+        "Şehir hayatının günah olduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "İslam dini dünyadan el etek çekip mağarada yaşamayı emretmez. Tam tersine, toplumun içine girip ahlakı orada inşa etmeyi emreder[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "Hz. Muhammed (s.a.v) namaz kıldırırken ağlayan bir bebek sesi duyduğunda, annesi üzülmesin ve telaşlanmasın diye namazı normalden çok daha kısa tutardı. Bu davranış peygamberimizin hangi özelliğini yansıtır?",
+      "answers": [
+        "Namaz kılmaktan çabuk sıkıldığını",
+        "İnce düşüncesini, merhametini ve empati yeteneğini",
+        "Çocukların camiye gelmesini istemediğini",
+        "Sesi az duyduğunu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Bir annenin bebeğinin ağlamasından duyacağı endişeyi hissedebilmek, peygamberimizin eşsiz merhametini ve nezaketini gösterir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "Kur'an'da yer alan, 'Eğer sen onlara kaba ve katı kalpli davransaydın, onlar senin etrafından dağılıp giderlerdi' ayeti, peygamberimizin tebliğ yaparken kullandığı hangi yönteme dikkat çeker?",
+      "answers": [
+        "Zorlama ve tehdit",
+        "Sevgi, yumuşak huy ve hoşgörü",
+        "Rüşvet",
+        "Sihir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "İslam kılıçla veya zorbalıkla değil; peygamberimizin güler yüzü, kaba olmayan yumuşak sözleri ve üstün ahlakı sayesinde yayılmıştır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "Peygamberimiz 'Ben, ancak güzel ahlakı tamamlamak için gönderildim' demiştir. Buna göre bir Müslümanın dindarlığı sadece kıldığı namazla değil, en çok ne ile ölçülür?",
+      "answers": [
+        "Ne kadar çok para kazandığıyla",
+        "Ne kadar çok ibadet ettiğinin fotoğrafını çekmesiyle",
+        "İnsanlara, hayvanlara ve doğaya karşı sergilediği ahlaki davranışlarla",
+        "Ne kadar uzun boylu olduğuyla"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "İbadetler insanı güzel ahlaka ulaştırmak için bir araçtır. Dinin özü güzel ahlaktır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Bir iş veya plan yapılacağı zaman peygamberimiz sahabeleri toplar, 'Bu konuda ne düşünüyorsunuz?' diye sorardı. Peygamberimizin ortak akla başvurduğu bu sisteme ne ad verilir?",
+      "answers": [
+        "İstişare (Şura)",
+        "İstihare",
+        "İnfak",
+        "Tevekkül"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Danışmak, bir işin uzmanlarına fikir sormak ve ortak karara varmak (İstişare), peygamberimizin en belirgin liderlik özelliğidir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "Peygamberimiz 'Ben de sizin gibi bir insanım. Sadece bana vahiy olunuyor' diyerek kendisinin melek veya mitolojik bir varlık sanılmasının önüne geçmiştir. Onun sadece Allah'ın kulu olması, İslam'ın hangi inanç esasına koruma sağlar?",
+      "answers": [
+        "Ahiret inancına",
+        "Tevhid (Allah'ın birliği ve tekliği) inancına",
+        "Kader inancına",
+        "Melek inancına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Onun 'Kul' (insan) olduğunun vurgulanması, Tevhid inancını korur[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Hz. Muhammed'in peygamber olmadan önce, gençlik yıllarında Mekke'deki yoksulların ve kimsesizlerin hakkını korumak için katıldığı sivil toplum hareketinin (Erdemliler İttifakı) Arapça adı nedir?",
+      "answers": [
+        "Darü'n-Nedve",
+        "Hilfü'l-Fudûl",
+        "Ashab-ı Suffa",
+        "Mescid-i Haram"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Genç Muhammed'in haksızlıkları engellemek için katıldığı Hilfü'l-Fudûl, onun her zaman doğrudan ve mazlumdan yana olduğunun kanıtıdır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Peygamberimiz hem devleti yöneten bir lider, hem ordu komutanı, hem peygamber, hem hakim, hem de bir aile babasıydı. Onun bu kadar çok rolü aynı anda kusursuzca yürütebilmesi onun hangi özelliğini gösterir?",
+      "answers": [
+        "Onun çok boş vakti olduğunu",
+        "Fetanet sahibi ve hayatın her alanında çok yönlü mükemmel bir rol model olduğunu",
+        "Sürekli uyuduğunu",
+        "Sorumluluktan kaçtığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 2,
+      "explanation": "Hayatın her alanında bulunması, onun tüm insanlığa eksiksiz bir örnek (Üsve-i Hasene) olmasını sağlamıştır[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Hz. Ali, peygamberimizi anlatırken 'İnsanların en cömerdi, en doğru sözlüsü, en yumuşak huylusu ve en iyi arkadaşı idi...' demiştir. Bu tanım peygamberimizin hangi yönünü açıklar?",
+      "answers": [
+        "Fiziksel gücünü",
+        "Yüce ve etkileyici ahlakını (Karakterini)",
+        "Mucizelerini",
+        "Zenginliğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "İnsanların onu tanıdıkça ona derinden bağlanması, onun büyüleyici ve kusursuz ahlakından kaynaklanıyordu[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "Kur'an'daki, 'Sen, sevdiğini doğru yola iletemezsin; ancak Allah, dilediğini doğru yola iletir' ayeti, peygamberin bile hangi güce sahip olmadığını vurgular?",
+      "answers": [
+        "İnsanlara Kur'an okuma gücüne",
+        "İnsanların kalbini değiştirip onlara zorla hidayet verme gücüne",
+        "Kılıç kullanma gücüne",
+        "Mekke'den çıkma gücüne"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 3,
+      "explanation": "Peygamberin görevi sadece anlatmak ve uyarmaktır. İnsanların kalbine inancı yerleştirmek ancak Allah'ın elindedir[cite: 11]."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "Peygamberimiz bir meclise girdiğinde başköşeye geçmez, boş bulduğu yere otururdu. Ayaklarını kimseye karşı uzatmaz, biriyle konuşurken yüzünü tam olarak o kişiye dönerdi. Onun bu tavırları İslam ahlakındaki hangi kavrama girer?",
+      "answers": [
+        "Nezaket, Edep ve Tevazu",
+        "İsraf ve Cimrilik",
+        "Riya ve Gösteriş",
+        "Cesaret ve Kahramanlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Peygamber Olarak Hz. Muhammed",
+      "difficulty": 1,
+      "explanation": "Sıradan bir insan gibi boş yere oturması alçakgönüllülüğünü, insanları tüm vücuduyla dinlemesi ise onlara verdiği değeri gösterir[cite: 11]."
+    }
+  ]
+}

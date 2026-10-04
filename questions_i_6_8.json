@@ -1,0 +1,425 @@
+{
+  "unit": "Life in the Universe & Future",
+  "questions": [
+    {
+      "id": "Q_6_8_001",
+      "questionText": "What is the name of the planet we live on?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Üzerinde yaşadığımız gezegen Dünya'dır ve İngilizce karşılığı 'Earth' kelimesidir."
+    },
+    {
+      "id": "Q_6_8_002",
+      "questionText": "I think people ________ to other planets for their holidays in 2070.",
+      "answers": [
+        "will travel",
+        "travels",
+        "travelled",
+        "is travelling"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "2070 yılı gibi geleceğe dair bir tahmin (I think) yapıldığı için 'will' yardımcı fiili kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_8_003",
+      "questionText": "Scientists use a powerful ________ to look at the stars and planets clearly.",
+      "answers": [
+        "telescope",
+        "microscope",
+        "television",
+        "camera"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Yıldızları ve gezegenleri incelemek için bilim insanları teleskop ('telescope') kullanır."
+    },
+    {
+      "id": "Q_6_8_004",
+      "questionText": "A person who travels into space is called an ________.",
+      "answers": [
+        "astronaut",
+        "engineer",
+        "architect",
+        "alien"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Uzaya seyahat eden kişiye astronot ('astronaut') denir."
+    },
+    {
+      "id": "Q_6_8_005",
+      "questionText": "Oliver: Do you think we will find water on Mars?\nNoah: Yes, ________.",
+      "answers": [
+        "I think so",
+        "I don't hope",
+        "we won't",
+        "I didn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Gelecek tahminine olumlu katıldığını belirtmek için 'Sanırım öyle / Öyle düşünüyorum' anlamına gelen 'I think so' kullanılır."
+    },
+    {
+      "id": "Q_6_8_006",
+      "questionText": "I guess students ________ go to school in the future. They will learn everything online at home.",
+      "answers": [
+        "won't",
+        "will",
+        "don't",
+        "didn't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Öğrencilerin her şeyi evden öğreneceği söylendiği için, gelecekte okula gitmeyecekleri ('won't go') tahmin edilmektedir."
+    },
+    {
+      "id": "Q_6_8_007",
+      "questionText": "The Earth, Mars, and Jupiter are all planets in our ________.",
+      "answers": [
+        "solar system",
+        "continent",
+        "country",
+        "town"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Dünya, Mars ve Jüpiter bizim güneş sistemimiz ('solar system') içinde yer alan gezegenlerdir."
+    },
+    {
+      "id": "Q_6_8_008",
+      "questionText": "A creature from another planet is usually called an ________ in science fiction movies.",
+      "answers": [
+        "alien",
+        "human",
+        "animal",
+        "robot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Başka gezegenden gelen yaratıklara uzaylı ('alien') denir."
+    },
+    {
+      "id": "Q_6_8_009",
+      "questionText": "Astronauts travel to space and the moon in a special vehicle called a ________.",
+      "answers": [
+        "spaceship",
+        "submarine",
+        "train",
+        "bicycle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Astronotların uzaya gitmek için kullandıkları özel araca uzay gemisi ('spaceship') denir."
+    },
+    {
+      "id": "Q_6_8_010",
+      "questionText": "Which planet is known as the 'Red Planet'?",
+      "answers": [
+        "Mars",
+        "Saturn",
+        "Venus",
+        "Neptune"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Kızıl Gezegen ('Red Planet') olarak bilinen gezegen Mars'tır."
+    },
+    {
+      "id": "Q_6_8_011",
+      "questionText": "What does 'Universe' mean in Turkish?",
+      "answers": [
+        "Evren / Kainat",
+        "Gezegen",
+        "Yıldız",
+        "Gök taşı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "'Universe' kelimesi evren veya kainat anlamına gelir."
+    },
+    {
+      "id": "Q_6_8_012",
+      "questionText": "It is the largest planet in our solar system. Which planet is it?",
+      "answers": [
+        "Jupiter",
+        "Mercury",
+        "Earth",
+        "Uranus"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Güneş sistemindeki en büyük gezegen ('largest planet') Jüpiter'dir."
+    },
+    {
+      "id": "Q_6_8_013",
+      "questionText": "The Sun is not a planet. It is a huge, bright ________.",
+      "answers": [
+        "star",
+        "moon",
+        "meteor",
+        "alien"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Güneş bir gezegen değil, büyük ve parlak bir yıldızdır ('star')."
+    },
+    {
+      "id": "Q_6_8_014",
+      "questionText": "The Earth completes its ________ around the Sun in 365 days.",
+      "answers": [
+        "orbit",
+        "game",
+        "sleep",
+        "song"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 3,
+      "explanation": "Dünya'nın Güneş etrafında döndüğü yola yörünge ('orbit') denir."
+    },
+    {
+      "id": "Q_6_8_015",
+      "questionText": "I hope scientists ________ a new planet that has clean water and oxygen soon.",
+      "answers": [
+        "will discover",
+        "discover",
+        "discovered",
+        "are discovering"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "'I hope' (Umarım) ifadesi geleceğe dair bir beklenti belirtir, bu yüzden 'will' kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_8_016",
+      "questionText": "In the future, people will have smart ________. These machines will cook dinner and clean the house.",
+      "answers": [
+        "robots",
+        "televisions",
+        "books",
+        "cars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Yemek yapacak ve evi temizleyecek akıllı makineler robotlardır ('robots')."
+    },
+    {
+      "id": "Q_6_8_017",
+      "questionText": "Which verb means 'to find something for the first time'?",
+      "answers": [
+        "Discover",
+        "Destroy",
+        "Forget",
+        "Lose"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Bir şeyi ilk kez bulmak 'keşfetmek' yani 'discover' fiilidir."
+    },
+    {
+      "id": "Q_6_8_018",
+      "questionText": "Tom: Will cars fly in 2050?\nSue: No, they ________.",
+      "answers": [
+        "won't",
+        "will",
+        "don't",
+        "aren't"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "'Will' ile sorulan soruya olumsuz, kısa yanıt verirken 'No, they won't' kullanılır."
+    },
+    {
+      "id": "Q_6_8_019",
+      "questionText": "Which planet is the closest one to the Sun?",
+      "answers": [
+        "Mercury",
+        "Neptune",
+        "Earth",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Güneş'e en yakın gezegen ('closest one to the Sun') Merkür'dür (Mercury)."
+    },
+    {
+      "id": "Q_6_8_020",
+      "questionText": "People won't use roads because they will drive ________ in the sky.",
+      "answers": [
+        "flying cars",
+        "trains",
+        "bicycles",
+        "submarines"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Gökyüzünde kullanılacak ve yollara ihtiyacı ortadan kaldıracak araçlar uçan arabalardır ('flying cars')."
+    },
+    {
+      "id": "Q_6_8_021",
+      "questionText": "I guess there ________ any traffic jams because we will use air transportation.",
+      "answers": [
+        "won't be",
+        "will be",
+        "are",
+        "is"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Hava ulaşımı kullanılacağı için trafik sıkışıklığının 'olmayacağı' tahmin ediliyor. Bu yüzden 'won't be' kullanılmalıdır."
+    },
+    {
+      "id": "Q_6_8_022",
+      "questionText": "This planet is very famous for its beautiful rings made of ice and rock.",
+      "answers": [
+        "Saturn",
+        "Mars",
+        "Venus",
+        "Earth"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Buz ve kayalardan oluşan güzel halkalarıyla ('rings') ünlü gezegen Satürn'dür."
+    },
+    {
+      "id": "Q_6_8_023",
+      "questionText": "________ people live in underwater cities in the next century?",
+      "answers": [
+        "Will",
+        "Do",
+        "Are",
+        "Have"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Gelecek yüzyıl ('in the next century') hakkındaki tahmin soruları 'Will' yardımcı fiili ile başlar."
+    },
+    {
+      "id": "Q_6_8_024",
+      "questionText": "The Moon is the Earth's natural ________.",
+      "answers": [
+        "satellite",
+        "star",
+        "planet",
+        "sun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Ay, Dünya'nın doğal uydusudur ('satellite')."
+    },
+    {
+      "id": "Q_6_8_025",
+      "questionText": "According to some scientists, people won't cook meals. They will take food ________.",
+      "answers": [
+        "pills",
+        "drinks",
+        "clothes",
+        "cars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Bilim kurgu tahminlerinde insanların yemek pişirmek yerine yemek hapları ('food pills') kullanacağı söylenir."
+    },
+    {
+      "id": "Q_6_8_026",
+      "questionText": "What does 'Prediction' mean in Turkish?",
+      "answers": [
+        "Tahmin",
+        "Gerçek",
+        "Gezegen",
+        "Deney"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "'Prediction' kelimesi geleceğe dair yapılan tahmin veya öngörü anlamına gelir."
+    },
+    {
+      "id": "Q_6_8_027",
+      "questionText": "Which one is NOT a planet?",
+      "answers": [
+        "The Sun",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Jüpiter, Uranüs ve Neptün gezegendir. Güneş ('The Sun') ise bir yıldızdır."
+    },
+    {
+      "id": "Q_6_8_028",
+      "questionText": "I am sure our team ________ win the match tomorrow because they are playing very well.",
+      "answers": [
+        "will",
+        "won't",
+        "does",
+        "did"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "'I am sure' (Eminim) ve 'tomorrow' (yarın) ifadeleri kesinlik taşıyan olumlu bir gelecek tahminidir ('will')."
+    },
+    {
+      "id": "Q_6_8_029",
+      "questionText": "Is there life on other planets? Scientists are searching for ________ in space.",
+      "answers": [
+        "evidence / proof",
+        "games",
+        "clothes",
+        "traffic"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 3,
+      "explanation": "Bilim insanları başka gezegenlerde yaşam olup olmadığına dair uzayda kanıt / delil ('evidence / proof') aramaktadırlar."
+    },
+    {
+      "id": "Q_6_8_030",
+      "questionText": "I hope the Earth ________ a better place in the future.",
+      "answers": [
+        "will be",
+        "is",
+        "was",
+        "won't be"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Geleceğe yönelik olumlu bir dilekte ('I hope') bulunulduğu için 'daha iyi bir yer olacak' ('will be') kalıbı kullanılır."
+    }
+  ]
+}

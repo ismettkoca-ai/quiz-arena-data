@@ -1,0 +1,425 @@
+{
+  "unit": "Zekat ve Sadaka",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "Sözlükte 'temizlenme, artma, çoğalma ve bereket' anlamlarına gelen; İslam'da zengin sayılan Müslümanların mallarının belli bir miktarını yılda bir kez ihtiyaç sahiplerine vermesi ibadetine ne ad verilir?",
+      "answers": [
+        "Fidye",
+        "Zekat",
+        "Sadaka",
+        "Fitre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Zekat, İslam'ın 5 şartından biridir. Malı kirden ve cimrilikten temizlediği, manevi olarak da bereketlendirip artırdığı için bu ismi almıştır."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "İslam dinine göre bir Müslümanın zekat verebilecek kadar zengin sayılabilmesi için dinin belirlediği alt sınıra (ölçüye) ne ad verilir?",
+      "answers": [
+        "Nisap",
+        "Öşür",
+        "Kefaret",
+        "İnfak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Nisap miktarı, kişinin temel ihtiyaçları ve borçları dışında 85 gram altın veya buna eşdeğer paraya/mala sahip olmasıdır."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "Zekat vermekle yükümlü olmak için gereken şartlardan biri olan 'Asli İhtiyaçlar' (Temel İhtiyaçlar) kavramı neleri kapsar?",
+      "answers": [
+        "Sadece yiyecek masraflarını",
+        "Ticaret için dükkanda bekletilen malları",
+        "Oturulan ev, ev eşyaları, binek araç, giysiler ve temel gıda masraflarını",
+        "Kasadaki altınları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "İnsanın yaşamak için muhtaç olduğu ev, araba, eşya gibi temel gereksinimler zekat hesabına katılmaz; bunlar üzerinden zekat verilmez."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "İslam hukukuna göre altın, nakit para, menkul kıymetler ve ticaret mallarının zekat oranı yüzde kaçtır?",
+      "answers": [
+        "Yüzde 10 (1/10)",
+        "Yüzde 2.5 (1/40)",
+        "Yüzde 20 (1/5)",
+        "Yüzde 5 (1/20)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Altın, gümüş, kağıt para ve dükkandaki ticaret mallarının kırkta biri (1/40 yani %2.5 oranında) zekat olarak verilir."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "Toprak ürünlerinden alınan zekata özel bir isim verilir. Masraf yapılmadan, doğal yollarla (yağmurla) sulanan tarlalardan elde edilen ürünün 1/10'u oranında verilen bu zekatın adı nedir?",
+      "answers": [
+        "Cizye",
+        "Haraç",
+        "Fitre",
+        "Öşür"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Arapçada 'onda bir' anlamına gelen Öşür, tarım ürünlerinden (buğday, arpa vb.) hasat zamanı beklemeden verilen zekattır."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "Hayvanların zekatında türlere göre farklı oranlar vardır. Küçükbaş hayvanlarda (koyun, keçi) zekat sınırı ve verilecek miktar nedir?",
+      "answers": [
+        "30 koyuna 1 kuzu",
+        "40 koyuna 1 koyun",
+        "5 koyuna 1 koyun",
+        "10 koyuna 1 keçi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Küçükbaş hayvan yetiştiriciliğinde nisap sınırı 40'tır. 40 ile 120 arası küçükbaş hayvana sahip olan kişi 1 adet koyun veya keçi zekat verir."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "Büyükbaş hayvanlarda (sığır, manda vb.) zekat yükümlülüğünün başlaması için nisap sınırı (en az sayı) kaçtır?",
+      "answers": [
+        "30",
+        "40",
+        "5",
+        "10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Büyükbaş hayvanların nisap sınırı 30'dur. En az 30 sığırı olan biri, 2 yaşına basmış 1 danayı zekat olarak verir."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "Müslümanların Allah rızasını kazanmak amacıyla, miktarı ve zamanı sınırı olmadan, gönüllü olarak yaptıkları her türlü maddi ve manevi iyiliğe ne ad verilir?",
+      "answers": [
+        "Zekat",
+        "Fidye",
+        "Sadaka",
+        "Kefaret"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Sadaka çok geniş bir kavramdır; zekat gibi zenginlik şartı, miktar veya zaman sınırlaması yoktur. Fakir biri bile gülümseyerek sadaka verebilir."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "Ramazan ayında oruç tutan Müslümanların, bayram namazından önce yoksullara vermekle yükümlü (vacip) olduğu, miktarı bir kişinin bir günlük yiyecek masrafı kadar olan sadakaya ne denir?",
+      "answers": [
+        "Fıtır Sadakası (Fitre)",
+        "Öşür",
+        "Sadaka-i Cariye",
+        "Nisap"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Ramazana ulaşmanın ve bayrama kavuşmanın bir şükrü olarak ailedeki kişi sayısınca verilen bu vacip ibadete halk arasında Fitre denir."
+    },
+    {
+      "id": "Q_8_2_010",
+      "questionText": "Kişi vefat ettikten (öldükten) sonra da amel defterinin kapanmamasını sağlayan; okul, hastane, çeşme, köprü yaptırmak veya faydalı bir kitap yazmak gibi kesintisiz iyiliklere ne ad verilir?",
+      "answers": [
+        "Nafile İbadet",
+        "Sadaka-i Cariye",
+        "Öşür",
+        "Fitre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "'Akan, devam eden sadaka' anlamına gelir. Toplum o eserden faydalandığı sürece, yaptıran kişi mezarında dahi olsa ona sevap yazılır."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "Zekat kimlere verilir sorusunun cevabı Kur'an'da Tevbe Suresi 60. ayette net olarak belirtilmiştir. Aşağıdakilerden hangisi zekat verilebilecek gruplar arasında yer *almaz*?",
+      "answers": [
+        "Yolda kalmış olan yolcular",
+        "Kişinin bakmakla yükümlü olduğu anne, baba ve çocukları",
+        "Borçlular",
+        "Fakirler ve miskinler (hiçbir geliri olmayanlar)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Kişi kendi üst soyuna (anne, baba, dede, nine) ve alt soyuna (çocuk, torun) ile eşine zekat veremez; çünkü zaten onlara bakmak (geçimlerini sağlamak) zorundadır."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "Zekat veya sadaka verirken uyulması gereken 'yakından uzağa' kuralı neyi ifade eder?",
+      "answers": [
+        "Önce başka ülkelere yardım göndermeyi",
+        "Yardıma önce ihtiyaç sahibi akrabalardan, sonra komşulardan ve daha sonra çevredeki diğer insanlardan başlanması gerektiğini",
+        "Sadece uzak akrabalara yardım edilmesini",
+        "Yardımın posta yoluyla yapılmasını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "İslam'da sosyal dayanışma merkezden dışa doğru (dalga dalga) yayılır. Öncelik her zaman kişinin kendi yakın çevresindeki yoksullardadır."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "Müslümanın Allah'ın kendisine verdiği rızkı, O'nun rızasını kazanmak için başkalarıyla paylaşmasına ve Allah yolunda harcamasına kavram olarak ne ad verilir?",
+      "answers": [
+        "İmsak",
+        "İsraf",
+        "İnfak",
+        "Tevekkül"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "İnfak, 'tüketmek, harcamak' demektir. Malı ve serveti sırf kendi zevki için değil, Allah emrettiği için yoksullarla paylaşarak harcamaktır."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "Peygamberimiz 'Sağ elin verdiğini sol el görmemelidir' buyurmuştur. Bu hadis, yardımlaşmada hangi ahlaki kuralın en büyük kanıtıdır?",
+      "answers": [
+        "Yardımların mutlaka gece yapılması gerektiğinin",
+        "Sadece sağ elle sadaka verilmesi gerektiğinin",
+        "Gösterişten (Riya) kaçınarak, alan kişinin onurunu kırmadan gizlice yardım etmenin",
+        "Yardımın sadece cami içinde yapılmasının"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "İslam, yardımı yapmaktan çok yardımın yapılış biçimini (nezaketi) önemser. Gösteriş için veya başa kakarak yapılan yardımın sevabı yoktur."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "Kur'an'da 'Sevdiğiniz şeylerden Allah yolunda harcamadıkça gerçek iyiliğe (birr) eremezsiniz' (Al-i İmran) buyrulur. Bu ayet infak kültürü hakkında bize ne öğretir?",
+      "answers": [
+        "Sadece giyilmeyen, eskimiş kıyafetlerin verilmesi gerektiğini",
+        "Sadece gıda verilmesi gerektiğini",
+        "Verilen malın çürük, bozuk veya atılacak türden değil; kaliteli, temiz ve kişinin kendi kullanmayı seveceği türden olması gerektiğini",
+        "Yardımın her gün yapılması gerektiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Fakire çürük meyveyi, yırtık elbiseyi layık görmek ibadet değil saygısızlıktır. İnfak, malın iyisinden verilince değer kazanır."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "Tarihte Medyen ve Eyke halkına peygamber olarak gönderilen, üstün hitabet (konuşma) yeteneği nedeniyle 'Hatîbü'l-Enbiyâ' (Peygamberlerin Hatibi) olarak anılan elçi kimdir?",
+      "answers": [
+        "Hz. Yusuf",
+        "Hz. Şuayb",
+        "Hz. Musa",
+        "Hz. Nuh"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Hz. Şuayb, dili çok iyi kullanan, halkını son derece etkili, tatlı ve mantıklı sözlerle doğru yola çağıran bir peygamberdi."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Hz. Şuayb'ın gönderildiği Medyen halkının şirke (putperestliğe) düşmelerinin yanı sıra işledikleri en büyük günahları (ahlaksızlıkları) neydi?",
+      "answers": [
+        "Sihirbazlık yapmak",
+        "Savaşlardan kaçmak",
+        "Ticarette ölçü ve tartıda hile yapmak, haksız kazanç sağlamak ve insanların mallarını eksiltmek",
+        "Çocuklara zarar vermek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Medyenliler ticari ahlakı tamamen yitirmişti. Terazide hile yaparak zenginleşiyor ve insanların emeklerini sömürüyorlardı."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Hz. Şuayb kavmine, 'Ey kavmim! Ölçüyü ve tartıyı adaletle tam yapın. İnsanların eşyalarını (mallarını ve haklarını) eksiltmeyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın' diye seslenmiştir. Bu durum İslam'ın hangi iki değerinin birbirinden ayrılamayacağını gösterir?",
+      "answers": [
+        "İnanç ile Ticari Ahlakın (Dürüstlük)",
+        "Namaz ile Orucun",
+        "Sağlık ile Zenginliğin",
+        "Eğitim ile Teknolojinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "Hz. Şuayb kıssası bize, sadece Allah'a inanmanın yetmediğini, bu inancın pazardaki teraziye (dürüstlüğe ve kul hakkına) mutlaka yansıması gerektiğini öğretir."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "Medyen halkı Hz. Şuayb'ın bu adalet çağrılarıyla alay etmiş, 'Senin namazın mı bize mallarımızı dilediğimiz gibi kullanmamayı emrediyor?' demiştir. Sonuç olarak ısrarla haksızlık yapan bu kavmin akıbeti ne olmuştur?",
+      "answers": [
+        "Büyük bir zenginliğe ulaşmışlardır.",
+        "Başka ülkelere göç etmişlerdir.",
+        "Korkunç bir ses (uğultu) ve şiddetli bir depremle helak olmuşlardır.",
+        "Hz. Şuayb'ı hapse atmışlardır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Uyarıları dikkate almayıp kul hakkı yemeye devam eden Medyen halkı, ilahi bir ceza olan şiddetli bir deprem/ses dalgasıyla yok olmuştur."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "Kur'an-ı Kerim'in 107. suresidir. Yetimi itip kakan, yoksulu doyurmayan, ibadetlerinde gösteriş yapan ve ufacık yardımlara bile engel olan bencil karakterleri kınar. Bu surenin adı nedir?",
+      "answers": [
+        "Kevser Suresi",
+        "Maun Suresi",
+        "Fil Suresi",
+        "Asr Suresi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 1,
+      "explanation": "Maun Suresi, dinin özünün merhamet ve yardımlaşma olduğunu, yetime ve yoksula arkasını dönenlerin dininin sahte olduğunu anlatır."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "Maun kelimesinin sözlük anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Savaş ve Mücadele",
+        "Yardım, ufak tefek iyilikler veya zekat",
+        "Sonsuz Zenginlik",
+        "Büyük Günah"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Maun, insanların birbirlerine ödünç verdiği küçük ev eşyaları veya yapılan en ufak yardımlar, zekat anlamlarına gelir."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "Maun Suresi'nde 'Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar (gaflet içindedirler). Onlar gösteriş yaparlar...' ayetleri geçer. Burada eleştirilen temel ahlaki hastalık (karakter sorunu) nedir?",
+      "answers": [
+        "Tembellik",
+        "Korkaklık",
+        "Riya (İbadeti Allah için değil, insanlar görsün diye yapmak)",
+        "İsraf"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Riya (gösteriş), ibadetin ruhunu öldürür. Dindar görünmek için namaz kılıp gerçekte yardımlaşmaya engel olan ikiyüzlü tavır Maun Suresi'nde lanetlenir."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "Zekatın sosyal hayattaki en büyük ekonomik ve psikolojik faydası aşağıdakilerden hangisidir?",
+      "answers": [
+        "Zenginlerin daha da zengin olmasını sağlamak",
+        "Fakirlerin çalışmasını engellemek",
+        "Zengin ile fakir arasındaki kıskançlık (haset) ve düşmanlığı bitirerek gelir dağılımında adaleti ve kardeşliği sağlamak",
+        "Devletin vergilerini artırmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Zekat, zenginle fakir arasında adeta manevi bir köprü kurar. Fakirin içindeki hasedi yok eder, zenginin de mala olan esaretini (cimriliğini) kırar."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "Peygamberimiz 'Veren el, alan elden üstündür' buyurmuştur. Bu hadis, Müslümanlara zekat ve sadaka konusunda dolaylı olarak neyi tavsiye etmektedir?",
+      "answers": [
+        "Müslümanların sürekli başkalarından yardım beklemesi gerektiğini",
+        "Müslümanların çok çalışarak, üretip zenginleşerek başkalarına muhtaç olmadan 'yardım edecek konuma (veren el)' gelmesini",
+        "Sadece zenginlerin değerli olduğunu",
+        "İstemekten (dilenmekten) çekinmemeyi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "İslam miskinliği ve dilenmeyi reddeder. Gerçek erdem çalışıp üretmek ve kazandığıyla fakire destek olan aktif, güçlü (veren) bir birey olmaktır."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "Osmanlı döneminde mahalle bakkallarına giden durumu iyi kişilerin, 'Lütfen şu defterden rastgele birkaç kişinin hesabını silin' diyerek borçları ödedikleri ve bunu kimin ödediğinin bilinmediği yardımlaşma geleneği hangi defter üzerinden yapılırdı?",
+      "answers": [
+        "Vergi Defteri",
+        "Avarız Defteri",
+        "Zimem (Veresiye) Defteri",
+        "Kayıt Defteri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Zimem defterlerindeki borçların gizlice silinmesi, sağ elin verdiğini sol elin görmemesinin (riyadan kaçışın) tarihimizdeki en muazzam sosyal örneğidir."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Zekat hesaplanırken mala sahip olunan sürenin üzerinden tam 'bir kameri yıl' (yaklaşık 354 gün) geçmesi şartı aranır. Bu şarta fıkıhta ne ad verilir?",
+      "answers": [
+        "Nisap",
+        "Havalanü'l-Havli (Yıllanma)",
+        "Temlik",
+        "İnfak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "Malın zekatının farz olması için, o zenginliğin gelip geçici olmadığı kesinleşmelidir. Bu yüzden servetin üzerinden eksilmeden tam 1 yıl (Havl) geçmesi beklenir."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "Zengin bir kişinin hem bankada 500 bin TL nakit parası hem de ödenmesi gereken (vadesi gelmiş) 600 bin TL borcu vardır. Bu kişinin zekat yükümlülüğü için aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Hemen 500 bin TL'nin zekatını vermelidir.",
+        "Önce borçlu olduğu miktar hesaplanır, borcu elindeki parayı aştığı (artı bakiyede olmadığı) için bu kişiye zekat düşmez (farz olmaz).",
+        "Sadece Ramazan ayında verirse farz olur.",
+        "Yarısıyla borcunu, yarısıyla zekatını ödemelidir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "İslam fıkhında borç en öncelikli kul hakkıdır. Kişinin elindeki servetten önce borcu düşülür. Kalan miktar nisap sınırını geçmiyorsa kişi zengin sayılmaz."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "Peygamberimiz 'Yarım hurma ile de olsa (sadaka vererek) kendinizi ateşten koruyun' buyurmuştur. Bu hadis sadaka ibadetiyle ilgili neyi vurgular?",
+      "answers": [
+        "Sadece hurma verilmesi gerektiğini",
+        "Sadakanın miktarının küçük bile olsa (samimiyetle verildiğinde) Allah katında çok değerli olduğunu ve insanı cehennemden koruyabileceğini",
+        "Yarım hurmanın fakirleri doyuracağını",
+        "Sadakanın sadece meyve ile yapılacağını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 2,
+      "explanation": "Sadakada önemli olan miktar (çokluk) değil, samimiyet (ihlas) ve paylaşma niyetidir. Milyonların gösterişle verilmesi yerine samimi bir küçük ikram daha makbuldür."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "Maun Suresi'nde belirtilen 'Yetimi itip kakmak ve yoksulu doyurmaya teşvik etmemek', dindeki hangi inancın eksikliğine veya yalanlanmasına bağlanmıştır?",
+      "answers": [
+        "Melek inancına",
+        "Hesap ve Ceza (Ahiret) gününe inanmamaya",
+        "Kader inancına",
+        "Kitap inancına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "Surenin başında 'Gördün mü o hesap ve ceza gününü yalanlayanı?' denilerek, ahirette hesap vereceğine (Allah'ın huzuruna çıkacağına) gerçekten inanmayanların bencilleştiği ve merhametsizleştiği vurgulanır."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "Analiz Sorusu: Kur'an-ı Kerim'de 'Ta ki servet, içinizden sadece zenginler arasında dolaşan bir güç (devlet) olmasın' (Haşr Suresi) ayeti yer alır. Zekat ibadetinin bu ayetteki ekonomik hedefle bağlantısı nedir?",
+      "answers": [
+        "Paranın sadece bankalarda tutulmasını sağlamak",
+        "Zenginlerin daha rahat yatırım yapmasını sağlamak",
+        "Sermayenin (paranın) toplumda tek bir zümrenin elinde birikip diğerlerini ezmesini engellemek ve paranın tabana yayılarak piyasayı canlandırmasını sağlamak",
+        "Fakirlerin ticaretten uzak durmasını sağlamak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Zekat ve Sadaka",
+      "difficulty": 3,
+      "explanation": "Zekat, biriken kapitalin (paranın) paslanmasını engeller. Zenginden alınan zekat yoksulun eline geçtiğinde harcamaya (tüketime) dönüşür, piyasa canlanır ve paranın tekelleşmesi kırılır."
+    }
+  ]
+}

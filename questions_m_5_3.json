@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Nicelikler",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Bir kenar uzunluğu 7 cm olan karenin çevre uzunluğu kaç santimetredir?",
+      "answers": [
+        "14",
+        "21",
+        "28",
+        "49"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Karenin 4 eşit kenarı vardır. Çevresi: 4 · 7 = 28 cm'dir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "Uzun kenarı 8 cm, kısa kenarı 5 cm olan bir dikdörtgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "13",
+        "26",
+        "40",
+        "80"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Dikdörtgenin alanı, kısa kenarı ile uzun kenarının çarpımına eşittir: 8 · 5 = 40 cm²."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Aşağıdaki uzunluk ölçü birimi dönüşümlerinden hangisi DOĞRUDUR?",
+      "answers": [
+        "1 metre = 10 santimetre",
+        "1 kilometre = 100 metre",
+        "1 santimetre = 10 milimetre",
+        "1 metre = 1000 santimetre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Doğru dönüşüm 1 cm = 10 mm şeklindedir. 1 m = 100 cm, 1 km = 1000 m olmalıdır."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Bir kenar uzunluğu 6 cm olan eşkenar üçgenin çevre uzunluğu kaç santimetredir?",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Eşkenar üçgenin üç kenarı da birbirine eşittir. Çevre = 3 · 6 = 18 cm'dir."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "Kısa kenarı 4 m, uzun kenarı 9 m olan dikdörtgen şeklindeki bir bahçenin çevresi kaç metredir?",
+      "answers": [
+        "13",
+        "26",
+        "36",
+        "52"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Dikdörtgenin çevresi = 2 · (Kısa Kenar + Uzun Kenar) = 2 · (4 + 9) = 2 · 13 = 26 m'dir."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "Bir kenar uzunluğu 9 metre olan kare şeklindeki bir odanın zemininin alanı kaç metrekaredir?",
+      "answers": [
+        "18",
+        "36",
+        "81",
+        "90"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Karenin alanı, bir kenarının kendisi ile çarpılmasıyla bulunur: 9 · 9 = 81 m²."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "5 kilometre kaç metredir?",
+      "answers": [
+        "50",
+        "500",
+        "5000",
+        "50 000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "1 kilometre 1000 metredir. Bu nedenle 5 kilometre = 5 · 1000 = 5000 metredir."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "Bir kenar uzunluğu 5 cm olan düzgün beşgenin çevre uzunluğu kaç santimetredir?",
+      "answers": [
+        "10",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Düzgün beşgenin 5 eşit kenarı vardır. Çevre = 5 · 5 = 25 cm'dir."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "80 milimetre (mm) kaç santimetredir (cm)?",
+      "answers": [
+        "8",
+        "800",
+        "8000",
+        "0,8"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "10 milimetre 1 santimetreye eşittir. Bu yüzden 80 mm = 80 / 10 = 8 cm'dir."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "Çevresi 36 cm olan bir karenin bir kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Karenin 4 eşit kenarı olduğundan, çevresi 4'e bölünerek bir kenarı bulunur: 36 / 4 = 9 cm."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "Alanı 48 cm² olan bir dikdörtgenin uzun kenarı 8 cm'dir. Bu dikdörtgenin kısa kenarı kaç santimetredir?",
+      "answers": [
+        "4",
+        "6",
+        "12",
+        "40"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Alan = Uzun Kenar · Kısa Kenar. 48 = 8 · Kısa Kenar olduğundan, Kısa Kenar = 48 / 8 = 6 cm'dir."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "Çevresi 30 cm olan bir dikdörtgenin uzun kenarı 10 cm'dir. Bu dikdörtgenin kısa kenarı kaç santimetredir?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Çevrenin yarısı (Uzun Kenar + Kısa Kenar) = 30 / 2 = 15 cm'dir. Uzun kenar 10 cm ise kısa kenar = 15 - 10 = 5 cm olur."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "Bir kenar uzunluğu 5 cm olan iki eş kare yan yana getirilerek bir dikdörtgen oluşturuluyor. Oluşan bu yeni şeklin çevresi kaç santimetredir?",
+      "answers": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "İki kare yan yana gelince ortadaki kenarlar içeride kalır. Şeklin etrafında toplam 6 tane kare kenarı oluşur. 6 · 5 = 30 cm."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Çevresi 24 cm olan bir karenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "16",
+        "24",
+        "36",
+        "48"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Önce karenin bir kenarını buluruz: 24 / 4 = 6 cm. Daha sonra alanını hesaplarız: 6 · 6 = 36 cm²."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Alanı 36 cm² olan karenin çevresi kaç santimetredir?",
+      "answers": [
+        "18",
+        "24",
+        "36",
+        "72"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Alanı 36 cm² ise bir kenarı 6 cm'dir (6 · 6 = 36). Çevresi ise 4 · 6 = 24 cm'dir."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "2 metre 45 santimetre (2 m 45 cm) toplam kaç santimetredir?",
+      "answers": [
+        "245",
+        "2045",
+        "2450",
+        "24,5"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "1 m = 100 cm'dir. 2 m = 200 cm. 200 cm + 45 cm = 245 cm."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Kenar uzunlukları 5 cm, 7 cm ve 9 cm olan çeşitkenar bir üçgenin çevresi kaç santimetredir?",
+      "answers": [
+        "21",
+        "25",
+        "35",
+        "63"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 1,
+      "explanation": "Üçgenin çevresi üç kenarının toplamına eşittir: 5 + 7 + 9 = 21 cm."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "3 kilometre 50 metre uzunluğundaki bir yol toplam kaç metredir?",
+      "answers": [
+        "350",
+        "3050",
+        "3500",
+        "30050"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "1 kilometre = 1000 metredir. 3 km = 3000 metre. 3000 + 50 = 3050 metre."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "Uzunluğu 48 cm olan bir tel bükülerek bir eşkenar üçgen yapılıyor. Bu eşkenar üçgenin bir kenar uzunluğu kaç santimetre olur?",
+      "answers": [
+        "12",
+        "16",
+        "24",
+        "32"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Tel, üçgenin çevresini oluşturur. Eşkenar üçgenin 3 eşit kenarı vardır. 48 / 3 = 16 cm."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "Kısa kenarı 6 m, uzun kenarı 8 m olan bir sınıfın zeminine metrekaresi 50 TL olan parke döşenecektir. Bu iş için ne kadar ödeme yapılmalıdır?",
+      "answers": [
+        "1400",
+        "2000",
+        "2400",
+        "4800"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 2,
+      "explanation": "Önce sınıfın alanı bulunur: 6 · 8 = 48 m². Metrekaresi 50 TL olduğundan, Toplam Maliyet = 48 · 50 = 2400 TL'dir."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Genişliği 5 m, yüksekliği 3 m olan dikdörtgen şeklindeki bir duvarda, alanı 2 m² olan bir pencere vardır. Pencere dışındaki duvar boyanacağına göre, boyanacak alan kaç metrekaredir?",
+      "answers": [
+        "10",
+        "13",
+        "15",
+        "17"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Duvarın toplam alanı = 5 · 3 = 15 m²'dir. Pencerenin alanı = 2 m². Boyanacak alan = 15 - 2 = 13 m²."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "Kısa kenarı 30 m, uzun kenarı 40 m olan dikdörtgen şeklindeki bir parkın etrafında 3 tur koşan bir kişi toplam kaç metre koşmuş olur?",
+      "answers": [
+        "140",
+        "210",
+        "360",
+        "420"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Parkın bir turu çevresine eşittir: 2 · (30 + 40) = 140 m. 3 tur koşarsa: 140 · 3 = 420 m koşar."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Kısa kenarı 6 cm, uzun kenarı 10 cm olan dikdörtgen şeklindeki bir kağıdın köşesinden, kenar uzunlukları 2 cm ve 3 cm olan küçük bir dikdörtgen kesilip çıkarılıyor. Kalan kağıdın alanı kaç santimetrekaredir?",
+      "answers": [
+        "50",
+        "54",
+        "60",
+        "66"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Başlangıçtaki alan = 6 · 10 = 60 cm²'dir. Kesilen kısmın alanı = 2 · 3 = 6 cm²'dir. Kalan alan = 60 - 6 = 54 cm²."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Çevre uzunluğu 20 cm olan ve kenar uzunlukları santimetre cinsinden birer tam sayı olan bir dikdörtgenin alanı en fazla kaç santimetrekare olabilir?",
+      "answers": [
+        "21",
+        "24",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Çevrenin yarısı (kısa + uzun kenar) = 10 cm'dir. Toplamları 10 olan iki sayının çarpımının en büyük olması için sayıların birbirine en yakın seçilmesi gerekir: 5 ve 5. (Kare de özel bir dikdörtgendir). Alan = 5 · 5 = 25 cm²."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Kenar uzunlukları 15 m ve 20 m olan dikdörtgen şeklindeki bir bahçenin etrafına 2 sıra dikenli tel çekilecektir. Telin metresi 10 TL olduğuna göre bu işin tel maliyeti kaç TL olur?",
+      "answers": [
+        "700",
+        "1050",
+        "1400",
+        "2800"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Bahçenin çevresi = 2 · (15 + 20) = 70 m'dir. 2 sıra tel çekileceği için: 70 · 2 = 140 m tel gerekir. Maliyet = 140 · 10 = 1400 TL."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Alanı 36 cm² olan ve kenar uzunlukları santimetre cinsinden tam sayı olan bir dikdörtgenin çevre uzunluğu EN AZ kaç santimetre olur?",
+      "answers": [
+        "24",
+        "26",
+        "30",
+        "74"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Çarpımları 36 olan sayı çiftleri: (1,36), (2,18), (3,12), (4,9), (6,6). Çevrenin en küçük olması için kenarların birbirine yakın olması gerekir (6 ve 6). Çevre = 2 · (6 + 6) = 24 cm."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Bir kenarı 8 cm olan üç adet eş kare yan yana birleştirilerek uzun bir dikdörtgen elde ediliyor. Bu yeni dikdörtgenin çevresi kaç santimetredir?",
+      "answers": [
+        "48",
+        "64",
+        "72",
+        "96"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Üç kare yan yana gelince yeni dikdörtgenin uzun kenarı 3 · 8 = 24 cm, kısa kenarı 8 cm olur. Çevre = 2 · (24 + 8) = 2 · 32 = 64 cm."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "Bir adımının uzunluğu 50 cm olan Ali, evden okula giderken düz bir yolda 120 adım atıyor. Buna göre Ali'nin evi ile okulu arası kaç metredir?",
+      "answers": [
+        "6",
+        "60",
+        "600",
+        "6000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Toplam yol = 120 · 50 = 6000 cm'dir. Metreye çevirmek için 100'e böleriz: 6000 / 100 = 60 metre."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Bir dikdörtgenin kısa ve uzun kenarları 2 katına çıkarıldığında çevre uzunluğu nasıl değişir?",
+      "answers": [
+        "Değişmez",
+        "2 katına çıkar",
+        "4 katına çıkar",
+        "Yarısına düşer"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Kenar uzunlukları aynı oranda artırıldığında, çevre uzunluğu da kenarların artış oranı kadar (2 katı) artar."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "Zemin boyutları 2 metre ve 3 metre olan dikdörtgen şeklindeki bir banyonun tabanına, bir kenarı 20 cm olan kare fayanslar döşenecektir. Bu iş için hiç boşluk kalmayacak şekilde en az kaç adet fayans gereklidir?",
+      "answers": [
+        "15",
+        "30",
+        "150",
+        "300"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler",
+      "difficulty": 3,
+      "explanation": "Banyonun kenarları santimetreye çevrilir: 2 m = 200 cm, 3 m = 300 cm. Enine kaç fayans sığar: 200 / 20 = 10 adet. Boyuna kaç fayans sığar: 300 / 20 = 15 adet. Toplam fayans = 10 · 15 = 150 adettir."
+    }
+  ]
+}

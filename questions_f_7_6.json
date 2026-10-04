@@ -1,0 +1,425 @@
+{
+  "unit": "Elektriklenme",
+  "questions": [
+    {
+      "id": "Q_7_6_001",
+      "questionText": "Maddelerin yapısında bulunan ve elektriklenmeyi sağlayan temel elektrik yükleri hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Sadece pozitif (+) yükler",
+        "Sadece negatif (-) yükler",
+        "Pozitif (+) ve negatif (-) yükler",
+        "Nötr yükler"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Maddelerin yapısında (atomda) elektriksel olayları gerçekleştiren iki tür yük vardır: Pozitif (+) yüklü protonlar ve negatif (-) yüklü elektronlar."
+    },
+    {
+      "id": "Q_7_6_002",
+      "questionText": "Bir cismin yapısındaki pozitif (+) yük miktarı ile negatif (-) yük miktarının birbirine eşit olması durumunda o cisme ne ad verilir?",
+      "answers": [
+        "Pozitif yüklü cisim",
+        "Nötr (Yansız) cisim",
+        "Negatif yüklü cisim",
+        "İletken cisim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Nötr cisimlerde hiç yük yoktur denemez; sadece artı ve eksi yüklerin sayısı birbirine tam eşittir, bu yüzden dışarıya elektriksel bir etki göstermezler."
+    },
+    {
+      "id": "Q_7_6_003",
+      "questionText": "Maddelerin elektriklenmesi (yük dengesinin bozulması) sırasında atomdan atoma geçiş yaparak hareket eden parçacık aşağıdakilerden hangisidir?",
+      "answers": [
+        "Proton (+ yük)",
+        "Nötron",
+        "Çekirdek",
+        "Elektron (- yük)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Pozitif yüklü protonlar atomun çekirdeğine sıkıca bağlıdır ve asla hareket etmezler. Elektriklenme olaylarında sadece negatif (-) yüklü elektronlar cisimler arasında alınıp verilir."
+    },
+    {
+      "id": "Q_7_6_004",
+      "questionText": "Elektrik yüklü cisimlerin birbirine uyguladığı kuvvetle ilgili aşağıdaki kurallardan hangisi doğrudur?",
+      "answers": [
+        "Aynı cins yükler birbirini çeker.",
+        "Zıt cins yükler birbirini iter.",
+        "Aynı cins yükler birbirini iter, zıt cins yükler birbirini çeker.",
+        "Yüklü cisimler birbirine kuvvet uygulamaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Doğadaki temel elektrik kuralı şudur: Aynı işaretli yükler (+ ile + veya - ile -) birbirini iterken, zıt işaretli yükler (+ ile -) birbirini çeker."
+    },
+    {
+      "id": "Q_7_6_005",
+      "questionText": "Yün kumaşa sürtülen ebonit (plastik) bir çubuğun elektrik yükü durumu nasıl olur?",
+      "answers": [
+        "Yün kumaştan elektron alarak negatif (-) yükle yüklenir.",
+        "Yün kumaşa elektron vererek pozitif (+) yükle yüklenir.",
+        "İkisi de nötr kalır.",
+        "İkisi de pozitif (+) yüklenir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Ebonit çubuk yüne sürtüldüğünde yünden elektron koparır. Ebonit çubuk eksi (-) yük fazlalığına sahip olduğu için negatif yüklenirken, yün kumaş elektron kaybettiği için pozitif (+) yüklenir."
+    },
+    {
+      "id": "Q_7_6_006",
+      "questionText": "İpek kumaşa sürtülen cam bir çubuğun elektrik yükü durumu nasıl gerçekleşir?",
+      "answers": [
+        "İpek kumaştan elektron alarak negatif (-) yüklenir.",
+        "İpek kumaşa elektron vererek pozitif (+) yükle yüklenir.",
+        "İpek kumaş nötr, cam çubuk eksi yüklenir.",
+        "Cam çubuk proton alarak artı yüklenir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Cam çubuk ipek kumaşa sürtüldüğünde elektronlarını ipeğe verir. Elektron kaybeden cam çubuk pozitif (+), elektron alan ipek kumaş ise negatif (-) yüklenir."
+    },
+    {
+      "id": "Q_7_6_007",
+      "questionText": "Sürtünme ile elektriklenen iki cisim (örneğin cam ve ipek) işlem sonunda sahip oldukları son yüklerin cinsi açısından nasıl bir durumda olurlar?",
+      "answers": [
+        "İkisi de pozitif yüklü olur.",
+        "İkisi de negatif yüklü olur.",
+        "Biri pozitif (+), diğeri her zaman eşit miktarda negatif (-) yüklü olur.",
+        "İkisi de nötr olur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Sürtünme ile elektriklenmede toplam yük korunur. Biri ne kadar elektron veriyorsa (kaç + oluyorsa), diğeri o kadar elektron alır (aynı sayıda - olur). Yani daima zıt ve eşit miktarda yüklenirler."
+    },
+    {
+      "id": "Q_7_6_008",
+      "questionText": "Yüklü iki iletken cismin birbirine temas ettirilerek (dokundurularak) toplam yükü kapasitelerine göre paylaşmalarına ne ad verilir?",
+      "answers": [
+        "Etki ile elektriklenme",
+        "Sürtünme ile elektriklenme",
+        "Dokunma ile elektriklenme",
+        "Topraklama"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Cisimlerin birbirine değdirilmesiyle aralarında yük geçişi olmasına ve toplam yükü paylaşmalarına dokunma ile elektriklenme denir."
+    },
+    {
+      "id": "Q_7_6_009",
+      "questionText": "Dokunma ile elektriklenen iki cismin işlem bittikten sonra (birbirlerinden ayrıldıklarında) son yük durumları nasıl olur?",
+      "answers": [
+        "Her zaman zıt yüklü olurlar.",
+        "Biri nötr diğeri yüklü olur.",
+        "Mutlaka ikisi de aynı cins (ikisi de +, ikisi de - veya ikisi de nötr) yüklü olurlar.",
+        "Birinin yükü diğerinin iki katı olmak zorundadır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Dokunma ile elektriklenmede cisimler kardeş gibi toplam yükü paylaşırlar. Bu yüzden işlem sonunda işaretleri daima aynıdır; biri (+) iken diğeri (-) olamaz."
+    },
+    {
+      "id": "Q_7_6_010",
+      "questionText": "Yüklü bir cismin, nötr iletken bir cisme temas ettirilmeden sadece yaklaştırılarak nötr cismin içindeki yüklerin yerini (kutuplarını) değiştirmesine ne ad verilir?",
+      "answers": [
+        "Topraklama",
+        "Sürtünme ile elektriklenme",
+        "Dokunma ile elektriklenme",
+        "Etki (Tesir) ile elektriklenme"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Yüklü cisim yaklaştırıldığında, nötr cismin içindeki zıt yükleri kendine çeker, aynı yükleri en uzağa iter. Hiç temas olmadan gerçekleşen bu kutuplaşmaya etki ile elektriklenme denir."
+    },
+    {
+      "id": "Q_7_6_011",
+      "questionText": "Pozitif (+) yüklü bir cam çubuk, nötr ve iletken bir metal küreye yaklaştırılıp bekletiliyor. Metal kürenin cam çubuğa yakın tarafı ve uzak tarafı sırasıyla hangi yükle yüklenmiş gibi davranır?",
+      "answers": [
+        "Yakın taraf (+), Uzak taraf (-)",
+        "Yakın taraf (-), Uzak taraf (+)",
+        "Yakın taraf (-), Uzak taraf (-)",
+        "İki taraf da nötr kalır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "(+) yüklü cam çubuk, metalin içindeki (-) yüklü elektronları kendine doğru (yakın tarafa) çeker. Elektronların terk ettiği uzak taraf ise (+) yük fazlalığıyla baş başa kalır."
+    },
+    {
+      "id": "Q_7_6_012",
+      "questionText": "Elektrik yüklü bir cismin, bir iletken tel yardımıyla Dünya'ya (toprağa) bağlanarak nötr (yüksüz) hale getirilmesi işlemine ne ad verilir?",
+      "answers": [
+        "Kutuplaşma",
+        "Yük paylaşımı",
+        "Topraklama",
+        "İzolasyon"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Topraklama, elektrik yüklü bir cismin yeryüzü (toprak) ile iletken bağlantı kurarak üzerindeki fazla yükü atması veya topraktan yük alarak nötrlenmesidir."
+    },
+    {
+      "id": "Q_7_6_013",
+      "questionText": "Negatif (-) yüklü bir cisim topraklanırken elektron akışının yönü nasıl gerçekleşir?",
+      "answers": [
+        "Topraktan cisme doğru elektron akar.",
+        "Cisimden toprağa doğru proton akar.",
+        "Cisimden toprağa doğru elektron akar.",
+        "Topraktan cisme proton akar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Negatif yüklü cisimde elektron (-) fazlalığı vardır. Topraklama yapıldığında bu fazla elektronlar iletken telden toprağa doğru akarak cismi nötrler."
+    },
+    {
+      "id": "Q_7_6_014",
+      "questionText": "Pozitif (+) yüklü bir cisim topraklanırken cismi nötr hale getirmek için yük akışı hangi yönde ve hangi parçacıkla gerçekleşir?",
+      "answers": [
+        "Cisimden toprağa proton geçer.",
+        "Cisimden toprağa elektron geçer.",
+        "Topraktan cisme proton geçer.",
+        "Topraktan cisme doğru elektron akar."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Pozitif yüklü cisimde elektron eksikliği vardır. Protonlar asla hareket etmeyeceği için, cismin nötrlenmesi amacıyla topraktan cisme doğru elektron (-) akışı olur."
+    },
+    {
+      "id": "Q_7_6_015",
+      "questionText": "Bir cismin elektrikle yüklü olup olmadığını, yüklü ise hangi cins (+ veya -) yükle yüklü olduğunu anlamamızı sağlayan ölçüm aletine ne ad verilir?",
+      "answers": [
+        "Ampermetre",
+        "Voltmetre",
+        "Elektroskop",
+        "Dinamometre"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Elektroskop, ucunda metal bir topuz ve içinde çok hafif iki iletken metal yaprak bulunan, cisimlerin yük durumunu gösteren alettir."
+    },
+    {
+      "id": "Q_7_6_016",
+      "questionText": "Nötr haldeki bir elektroskobun yapraklarının durumu nasıldır?",
+      "answers": [
+        "Tamamen açıktır.",
+        "Sürekli hareket halindedir.",
+        "Biri açık diğeri kapalıdır.",
+        "Tamamen kapalıdır (sönüktür)."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Elektroskop nötr olduğunda yapraklarda itici bir net yük bulunmaz, bu nedenle yapraklar yer çekiminin etkisiyle aşağı doğru tamamen kapalı durur."
+    },
+    {
+      "id": "Q_7_6_017",
+      "questionText": "Nötr bir elektroskobun topuzuna, pozitif (+) yüklü bir cam çubuk yaklaştırıldığında yapraklarda nasıl bir değişim gözlenir?",
+      "answers": [
+        "Yapraklar açılır.",
+        "Yapraklar kapalı kalmaya devam eder.",
+        "Önce açılır, sonra kapanır.",
+        "Elektroskop patlar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Yaklaştırılan (+) yüklü çubuk, elektroskoptaki elektronları topuza çeker. Aşağıda kalan yapraklar sadece (+) yüklü kalır. Aynı yükler birbirini iteceği için yapraklar açılır."
+    },
+    {
+      "id": "Q_7_6_018",
+      "questionText": "Pozitif (+) yüklü bir elektroskobun topuzuna, yine pozitif (+) yüklü başka bir cisim yaklaştırılırsa elektroskobun yapraklarında nasıl bir durum gözlenir?",
+      "answers": [
+        "Tamamen kapanır.",
+        "Hiçbir değişiklik olmaz.",
+        "Biraz daha açılır (Açı artar).",
+        "Önce kapanır, sonra açılır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Elektroskop zaten (+) yüklüdür ve yaprakları açıktır. (+) yüklü cisim yaklaştırıldığında yapraklarda kalan son elektronları da topuza çeker. Yaprakların (+) yük yoğunluğu daha da artacağı için yapraklar biraz daha açılır."
+    },
+    {
+      "id": "Q_7_6_019",
+      "questionText": "Bulutlar arasında, yeryüzü ile temas olmadan gerçekleşen devasa ve gürültülü elektrik boşalmasına (kıvılcıma) ne ad verilir?",
+      "answers": [
+        "Yıldırım",
+        "Şimşek",
+        "Gökkuşağı",
+        "Kasırga"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "İki bulut kütlesi (veya bulutun içindeki farklı bölgeler) arasındaki elektriksel yük boşalmasına şimşek denir. Şimşek yeryüzüne inmez."
+    },
+    {
+      "id": "Q_7_6_020",
+      "questionText": "Elektrik yüklü bir bulut ile yeryüzü arasında gerçekleşen, toprağa doğru inen çok güçlü ve tehlikeli elektrik atlamasına ne ad verilir?",
+      "answers": [
+        "Şimşek",
+        "Deprem",
+        "Yıldırım",
+        "Tsunami"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Buluttaki fazla yükün (genellikle eksi yüklerin) yeryüzüne (veya yerden buluta) akarak topraklanması olayına yıldırım denir."
+    },
+    {
+      "id": "Q_7_6_021",
+      "questionText": "Yüksek binaları ve kuleleri yıldırım düşmesine karşı korumak için çatılarına takılan, sivri uçlu iletken metal çubuk ve topraklama hattından oluşan sisteme ne ad verilir?",
+      "answers": [
+        "Paratoner (Yıldırımsavar)",
+        "Elektroskop",
+        "Jeneratör",
+        "Uydu anteni"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Elektriklenme",
+      "difficulty": 1,
+      "explanation": "Paratoner, buluttan gelen devasa elektriği sivri ucuyla yakalayıp kalın bir kabloyla güvenli bir şekilde toprağa aktararak binayı yangından korur."
+    },
+    {
+      "id": "Q_7_6_022",
+      "questionText": "Kışın yün kazağımızı veya naylon gömleğimizi karanlıkta hızla çıkardığımızda küçük çıtırtı sesleri duyar ve kıvılcımlar görürüz. Bu olayın fiziksel nedeni nedir?",
+      "answers": [
+        "Kumaşların ısınarak yanması",
+        "Kazağın sürtünme ile elektriklenmesi ve anlık yük boşalmaları yaşanması",
+        "Havadaki nemin kazağa çarpması",
+        "Vücut ısımızın ışığa dönüşmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Çıkarırken sürtünen kumaş elektrik yükü kazanır. Vücudumuz veya diğer kumaş katmanı ile zıt yüklendiğinde, yükler havada sıçrayarak küçük çıtırtılara ve kıvılcımlara sebep olur."
+    },
+    {
+      "id": "Q_7_6_023",
+      "questionText": "Otomobil fabrikalarında araçlar boyanırken boya tabancası boya damlacıklarını pozitif (+) yükle yükler. Aracın kaportası ise negatif (-) yükle yüklenir veya topraklanır. Bu uygulamanın temel amacı nedir?",
+      "answers": [
+        "Aracın motor gücünü artırmak",
+        "Boyanın çabuk kurumasını sağlamak",
+        "Aynı yüklü boya damlalarının havada birbirini iterek pürüzsüz yayılmasını ve zıt yüklü kaportaya kusursuz bir şekilde yapışmasını sağlamak",
+        "Boyanın rengini koyulaştırmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Elektrostatik boyamada zıt yüklerin birbirini çekmesi prensibi kullanılır. Kaporta (-), boya (+) olduğu için boya metale mıknatıs gibi yapışır, boya israfı önlenir."
+    },
+    {
+      "id": "Q_7_6_024",
+      "questionText": "Petrol, benzin veya LPG taşıyan tankerlerin arkasından yere doğru sarkan metal bir zincir bulunur. Bu zincirin kullanım amacı nedir?",
+      "answers": [
+        "Aracın çok hızlanmasını frenleyerek engellemek",
+        "Sürtünme sonucu tankerde biriken elektrik yükünü topraklayarak (yere aktararak) olası bir kıvılcım ve patlamayı önlemek",
+        "Arkasından gelen araçları uyarmak",
+        "Rüzgar yönünü hesaplamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Araç hareket halindeyken hava ile sürtünür ve elektrik yükü depolar. Metal zincir bu fazla yükü topraklayarak patlayıcı benzinin alev almasını engeller."
+    },
+    {
+      "id": "Q_7_6_025",
+      "questionText": "Fotokopi makinelerinde yazdırılacak metnin karanlık kısımlarının tambur (silindir) üzerinde pozitif (+) yüklenmesi, ardından negatif (-) yüklü toner tozlarının bu silindire püskürtülmesi ile görüntü elde edilir. Fotokopi makineleri maddenin hangi özelliğinden faydalanır?",
+      "answers": [
+        "Işığın kırılması",
+        "Durgun elektrik (Elektrostatik) ve zıt yüklerin birbirini çekmesi",
+        "Isı iletimi",
+        "Manyetik itme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Fotokopi makinesi ve lazer yazıcılar tamamen elektrostatik (durgun elektriklenme) kurallarıyla çalışır; (-) yüklü mürekkep tozu, kağıttaki (+) yüklü bölümlere yapışarak yazıyı oluşturur."
+    },
+    {
+      "id": "Q_7_6_026",
+      "questionText": "Evdeki plastik bir tarağı saçımıza hızla sürttükten sonra küçük kağıt parçalarına yaklaştırdığımızda tarağın kağıtları havaya kaldırdığını (çektiğini) görürüz. Tarağın kağıtları çekmesinin bilimsel açıklaması nedir?",
+      "answers": [
+        "Tarağın mıknatısa dönüşmesi",
+        "Yüklü tarağın, nötr kağıt parçalarını 'etki ile elektriklenme' yoluyla kutuplaştırıp kendine çekmesi",
+        "Kağıdın aniden pozitif yük üretmesi",
+        "Hava akımının kağıtları havalandırması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Sürtünmeyle yüklenen tarak, nötr olan kağıdı etkiler (kutuplaştırır). Tarağa zıt olan yükler kağıdın ucuna birikir ve yüklü cisim nötr cismi kendine doğru çeker."
+    },
+    {
+      "id": "Q_7_6_027",
+      "questionText": "Hastane ameliyathanelerinin zeminleri sürtünme ile elektriklenmeyi önleyen antistatik iletken malzemelerle kaplanır. Doktor ve hemşirelerin terlikleri de bu malzemeden yapılır. Bu durumun en büyük nedeni nedir?",
+      "answers": [
+        "Doktorların kayıp düşmesini engellemek",
+        "Zeminin daha kolay temizlenmesini sağlamak",
+        "Ameliyathanede kullanılan yanıcı oksijen ve anestezi gazlarının, vücuttaki durgun elektrik kıvılcımlarıyla patlamasını önlemek",
+        "Daha ucuza mal etmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Sürtünmeden doğan ufacık bir kıvılcım bile ameliyathanedeki yoğun oksijen ortamında ölümcül patlamalara sebep olabilir. Antistatik zemin, vücudu sürekli topraklayarak bu yük birikimini engeller."
+    },
+    {
+      "id": "Q_7_6_028",
+      "questionText": "Yüklü bir cisim topraklanıp nötr hale geldikten sonra topraklama kablosu kesilirse cismin son yük durumu ne olur?",
+      "answers": [
+        "Tekrar eski yüküne geri döner.",
+        "Pozitif yüklenir.",
+        "Negatif yüklenir.",
+        "Nötr kalmaya devam eder."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Topraklama bittikten sonra telin kesilmesi cisimde yeni bir elektriklenme yaratmaz. Cisim nötr olmuştur ve sürtünme/dokunma yaşanmadıkça nötr kalır."
+    },
+    {
+      "id": "Q_7_6_029",
+      "questionText": "Büyük fabrikaların bacalarından çıkan zararlı tozların ve küllerin doğaya salınmasını engellemek için bacalara takılan sistemlerde elektrostatik filtrelere başvurulur. Bu filtrelerin çalışma mantığı nedir?",
+      "answers": [
+        "Tozları yakarak yok etmek",
+        "Toz partiküllerine elektrik yükü verip, ardından zıt yüklü levhalarla bu tozları mıknatıs gibi çekerek bacada tutmak",
+        "Bacayı rüzgardan korumak",
+        "Tozları daha yükseğe püskürtmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Elektriklenme",
+      "difficulty": 3,
+      "explanation": "Elektrostatik baca filtreleri, dumanın içindeki zehirli katı partikülleri yüksek voltajla yükler ve zıt yüklü plakalarla kendilerine çekip hapsederek çevreyi korurlar."
+    },
+    {
+      "id": "Q_7_6_030",
+      "questionText": "Açık bir alanda (örneğin arazide veya düz tarlada) yürürken gök gürültülü ve şimşekli bir fırtınaya yakalandığınızda yıldırım çarpmasından korunmak için yapılması gereken en doğru hareket hangisidir?",
+      "answers": [
+        "Hemen en yakınındaki uzun bir ağacın altına saklanmak",
+        "Arazideki en yüksek tepeye koşmak",
+        "Eldeki şemsiyeyi veya sivri uçlu metalleri havaya kaldırmak",
+        "Açık alanda sivri bir hedef olmamak için ayakları birleştirip yere doğru küçülerek (çömelerek) oturmak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Elektriklenme",
+      "difficulty": 2,
+      "explanation": "Yıldırım daima en kısa yoldan (en sivri, en yüksek noktadan) toprağa inmek ister. Ağaç altı en tehlikeli yerdir. Düz alanda hedef küçülterek yere çömelmek en güvenli yöntemdir."
+    }
+  ]
+}

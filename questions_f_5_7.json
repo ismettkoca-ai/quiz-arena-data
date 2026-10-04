@@ -1,0 +1,425 @@
+{
+  "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+  "questions": [
+    {
+      "id": "Q_5_7_001",
+      "questionText": "Kullanım ömrünü tamamlamış, atık halindeki maddelerin (kağıt, cam, plastik) çeşitli işlemlerden geçirilerek yeni bir hammaddeye dönüştürülmesine ne ad verilir?",
+      "answers": [
+        "Sıfır Atık",
+        "Geri Dönüşüm",
+        "Küresel Isınma",
+        "Yeniden Kullanım"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Atık maddelerin çöpe gitmek yerine fabrikalarda eritilip veya parçalanıp yeni bir ürüne (hammaddeye) dönüştürülmesine 'Geri Dönüşüm' denir."
+    },
+    {
+      "id": "Q_5_7_002",
+      "questionText": "Aşağıdaki atık türlerinden hangisi geri dönüşüm kutularına atılabilecek (geri dönüştürülebilir) bir madde değildir?",
+      "answers": [
+        "Cam şişe",
+        "Karton kutu",
+        "Yemek ve meyve artıkları",
+        "Plastik su şişesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Cam, plastik, kağıt ve metaller geri dönüştürülebilir. Yemek artıkları (organik atıklar) geri dönüşüm fabrikasında işlenmez, ancak gübre (kompost) yapılabilir."
+    },
+    {
+      "id": "Q_5_7_003",
+      "questionText": "Bugünkü ihtiyaçlarımızı karşılarken, gelecek nesillerin (çocuklarımızın) kaynaklarını tüketmemeye ve doğayı korumaya dayalı yaşam tarzına ne ad verilir?",
+      "answers": [
+        "Tüketim Çılgınlığı",
+        "Sürdürülebilir Yaşam",
+        "Sera Etkisi",
+        "Ekolojik Kirlilik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Sürdürülebilirlik, doğanın dengesini bozmadan, kaynakları israf etmeden, bugünü yaşarken yarını da düşünerek (sürdürerek) yaşamaktır."
+    },
+    {
+      "id": "Q_5_7_004",
+      "questionText": "Aşağıdakilerden hangisi evimizde enerji ve su tasarrufu sağlamak (sürdürülebilir yaşama katkıda bulunmak) için yapabileceğimiz doğru bir davranıştır?",
+      "answers": [
+        "Dişlerimizi fırçalarken suyu sürekli açık bırakmak",
+        "Aydınlık (gündüz) saatlerinde lambaları söndürmek",
+        "Kullanılmayan televizyonu kumandadan değil, prizde takılı bırakmak",
+        "Bulaşıkları makinede değil, elde sürekli akan suyla yıkamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Gereksiz yanan ışıkları kapatmak, suyu boşa akıtmamak ve fişleri prizden çekmek evde yapabileceğimiz en basit tasarruf yöntemleridir."
+    },
+    {
+      "id": "Q_5_7_005",
+      "questionText": "Dünya'nın enerji ihtiyacını karşılarken doğaya zehirli gazlar salan ve günün birinde tükenecek (bitecek) olan yakıtlara ne ad verilir?",
+      "answers": [
+        "Yenilenebilir Enerji Kaynakları",
+        "Güneş Enerjisi",
+        "Fosil Yakıtlar (Kömür, Petrol, Doğalgaz)",
+        "Rüzgar Enerjisi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Kömür ve petrol gibi fosil yakıtlar milyonlarca yılda oluşur, yandığında havayı kirletir (karbon salar) ve rezervleri sınırlıdır (tükenebilir)."
+    },
+    {
+      "id": "Q_5_7_006",
+      "questionText": "Aşağıdakilerden hangisi doğayı kirletmeyen, çevre dostu ve hiçbir zaman tükenmeyecek olan 'Yenilenebilir Enerji Kaynakları'ndan biridir?",
+      "answers": [
+        "Petrol",
+        "Rüzgar Enerjisi",
+        "Doğalgaz",
+        "Kömür"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Güneş, Rüzgar ve Su (Hidroelektrik) enerjisi doğada sürekli var olan, havayı kirletmeyen yenilenebilir (temiz) enerji kaynaklarıdır."
+    },
+    {
+      "id": "Q_5_7_007",
+      "questionText": "Ormanların (ağaçların) yok edilmesi, Dünya'nın sağlığı için çok büyük bir tehlikedir. Ağaçların yok edilmesi aşağıdaki sorunlardan en çok hangisine sebep olur?",
+      "answers": [
+        "Oksijen miktarının artmasına",
+        "Havadaki karbondioksit (kirli gaz) oranının artmasına ve canlı türlerinin yok olmasına",
+        "Yenilenebilir enerjinin artmasına",
+        "Depremlerin çoğalmasına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Ağaçlar fotosentez yaparak havadaki zehirli gazı (karbondioksiti) emer ve oksijen üretir. Ağaçlar kesilirse hava kirlenir ve ormanda yaşayan hayvanlar yok olur."
+    },
+    {
+      "id": "Q_5_7_008",
+      "questionText": "Kullanılmış kağıtların ve defterlerin çöpe atılmayıp geri dönüşüme gönderilmesi, doğrudan doğadaki hangi varlığın kurtarılmasını (korunmasını) sağlar?",
+      "answers": [
+        "Balıkların",
+        "Ağaçların (Ormanların)",
+        "Kuşların",
+        "Madenlerin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Kağıt, ağaç kütüklerinden üretilir. Kullanılmış kağıtları geri dönüştürerek, yeni kağıt yapmak için kesilecek milyonlarca ağacı kurtarmış oluruz."
+    },
+    {
+      "id": "Q_5_7_009",
+      "questionText": "Atık pillerin normal çöp kutusu veya toprağa atılmasının çevreye verdiği en büyük zarar nedir?",
+      "answers": [
+        "Toprağı zenginleştirmesi",
+        "İçindeki zehirli ağır metallerin toprağa ve yeraltı sularına karışarak zehirlemesi",
+        "Güneş ışığını engellemesi",
+        "Küresel ısınmayı durdurması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Pillerin içinde cıva, kurşun gibi çok zehirli kimyasallar vardır. Toprağa karışan bu zehir, yağmurla sulara ve oradan da bitki/hayvanlara geçer."
+    },
+    {
+      "id": "Q_5_7_010",
+      "questionText": "Plastik atıkların (şişeler, poşetler) doğada çözünmesi (kaybolması) ne kadar zaman alır?",
+      "answers": [
+        "1-2 gün",
+        "Birkaç ay",
+        "Yüzlerce hatta binlerce yıl",
+        "Hiç zarar vermeden anında kaybolurlar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Plastikler petrol türevidir. Doğadaki bakteriler plastiği sindiremez, bu yüzden bir pet şişenin doğada tamamen yok olması 400 ile 1000 yıl sürer."
+    },
+    {
+      "id": "Q_5_7_011",
+      "questionText": "Güneş'ten gelen ışınların, Dünya'daki egzoz ve fabrika gazları (karbondioksit) tarafından tutulmasıyla uzaya yansıyamayıp Dünya'yı gereğinden fazla ısıtması olayına ne ad verilir?",
+      "answers": [
+        "Geri Dönüşüm",
+        "Sera Etkisi (Küresel Isınma)",
+        "Ozon Tabakası İncelmesi",
+        "Asit Yağmuru"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Tıpkı cam bir sera gibi, kirli gazlar Dünya'nın etrafını sarar ve ısının uzaya çıkmasını engeller. Bu durum Dünya'nın ateşinin çıkmasına (Küresel Isınmaya) neden olur."
+    },
+    {
+      "id": "Q_5_7_012",
+      "questionText": "Küresel ısınmanın durdurulamaması (Sera etkisinin artması) durumunda Dünya'yı bekleyen en büyük tehlike aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kutuplardaki buzulların erimesi, deniz seviyelerinin yükselmesi ve iklimlerin değişmesi",
+        "Dünya'nın çok soğuyarak tamamen buz tutması",
+        "Güneş'in sönmesi",
+        "Gece ve gündüzün oluşmaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Küresel ısınma iklimleri bozar; kutuplardaki buzullar erir, denizler taşar, bazı yerler sular altında kalırken bazı yerlerde şiddetli kuraklık başlar."
+    },
+    {
+      "id": "Q_5_7_013",
+      "questionText": "Lavabolara dökülen 1 litre atık kızartma yağının, 1 milyon litre temiz suyu kirlettiği bilinmektedir. Evdeki atık yağlar ne yapılmalıdır?",
+      "answers": [
+        "Lavabodan dökülüp üzerine sıcak su açılmalıdır.",
+        "Toprağa gömülmelidir.",
+        "Bir şişede biriktirilip 'Atık Yağ Toplama' merkezlerine verilmelidir.",
+        "Normal çöp tenekesine atılmalıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Atık yağlar su yüzeyini kaplayarak sudaki oksijeni keser ve balıkların ölmesine neden olur. Bu yağlar toplanarak 'biyodizel' yakıta dönüştürülebilir."
+    },
+    {
+      "id": "Q_5_7_014",
+      "questionText": "Tasarruf yapmak sadece paramızı değil, aynı zamanda doğayı da korur. Aşağıdakilerden hangisi enerji tasarrufu sağlayan, çevre dostu bir davranıştır?",
+      "answers": [
+        "A Sınıfı (A+++) enerji tasarruflu beyaz eşyalar ve LED ampuller kullanmak",
+        "Kışın pencereleri açık bırakıp kaloriferi en yüksek derecede yakmak",
+        "Gündüzleri tüm perdeleri kapatıp içeride lamba yakmak",
+        "Elektrikli aletleri sürekli açık bırakmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "A sınıfı cihazlar ve LED ampuller aynı işi çok daha az elektrik harcayarak yapar. Elektrik tasarrufu demek, kömür santrallerinin daha az çalışıp havayı daha az kirletmesi demektir."
+    },
+    {
+      "id": "Q_5_7_015",
+      "questionText": "Evin bahçesindeki kurumuş yaprakların, meyve ve sebze kabuklarının bir çukurda biriktirilerek çürütülmesiyle doğal bir 'gübre' elde edilir. Bu geri dönüşüm işlemine ne ad verilir?",
+      "answers": [
+        "Kompost (Organik Gübre)",
+        "Plastik Dönüşümü",
+        "Sıfır Atık",
+        "Tasarruf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Organik atıkların (bitki artıkları, yumurta kabuğu vb.) çürütülerek toprağı besleyen doğal gübreye dönüştürülmesine 'Kompost' denir."
+    },
+    {
+      "id": "Q_5_7_016",
+      "questionText": "'Geri Dönüşüm' ile 'Yeniden Kullanım' birbirinden farklı şeylerdir. Aşağıdakilerden hangisi geri dönüşüm değil, bir 'Yeniden Kullanım' (Reuse) örneğidir?",
+      "answers": [
+        "Atık kağıtların fabrikada hamura çevrilip yeni peçete yapılması",
+        "Kırık camların eritilerek yeni kavanoz yapılması",
+        "Boşalan büyük salça kutusunun yıkanıp saksı veya kalemlik olarak tekrar kullanılması",
+        "Hurda demirlerin eritilip çivi yapılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Yeniden kullanımda madde fabrikaya gidip işlem (erime/parçalanma) görmez. Eşyayı olduğu gibi farklı bir amaçla kullanmaya devam etmek (şişeyi saksı yapmak) yeniden kullanımdır."
+    },
+    {
+      "id": "Q_5_7_017",
+      "questionText": "Türkiye'de israfın önlenmesi, kaynakların daha verimli kullanılması ve atık miktarının en aza indirilmesi amacıyla başlatılan ünlü çevre projesinin adı nedir?",
+      "answers": [
+        "Sıfır Atık (Zero Waste) Projesi",
+        "Hızlı Tüketim Projesi",
+        "Sera Etkisi Projesi",
+        "Uzay Araştırmaları Projesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Sıfır Atık projesi, atıkların kaynağında ayrıştırılmasını (kağıdı ayrı, plastiği ayrı atmayı) ve çöp miktarını 'sıfıra' indirmeyi hedefleyen çok önemli bir sürdürülebilirlik hareketidir."
+    },
+    {
+      "id": "Q_5_7_018",
+      "questionText": "Geri dönüşüm sembolü olan birbiri ardına dönen üç yeşil okun anlamı nedir?",
+      "answers": [
+        "Bu ürünün yenilebileceğini gösterir.",
+        "Bu ürünün zehirli olduğunu gösterir.",
+        "Bu ürünün geri dönüştürülebilir malzemeden yapıldığını ve tekrar döngüye katılabileceğini gösterir.",
+        "Bu ürünün çok pahalı olduğunu gösterir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Üç ok döngüyü temsil eder: Toplama, Üretim ve Yeni Ürün. Bu sembol, ürünün doğaya zarar vermeden geri dönüştürülebileceğini belirtir."
+    },
+    {
+      "id": "Q_5_7_019",
+      "questionText": "Fabrika bacalarından ve arabalardan çıkan zehirli gazların (kükürt, azot) gökyüzündeki su buharıyla birleşerek asit damlalarına dönüşmesi ve yeryüzüne düşmesi olayına ne denir?",
+      "answers": [
+        "Kar yağışı",
+        "Dolu",
+        "Asit Yağmuru",
+        "Küresel ısınma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Zehirli gazlar bulutlarda aside dönüşür. Asit yağmurları toprağı yakar, ormanları kurutur ve tarihi heykelleri eriterek büyük zarar verir."
+    },
+    {
+      "id": "Q_5_7_020",
+      "questionText": "İnsanların ulaşım, ısınma veya tüketim alışkanlıkları nedeniyle doğaya salınmasına sebep oldukları karbondioksit miktarının bütününe ne ad verilir?",
+      "answers": [
+        "Su Ayak İzi",
+        "Karbon Ayak İzi",
+        "Ekolojik Ayak",
+        "Geri Dönüşüm İzi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Karbon Ayak İzi, bir bireyin yaşarken doğaya ne kadar kirli gaz saldığının ölçüsüdür. Kendi arabamızı sürmek karbon ayak izini büyütürken, bisiklet sürmek küçültür."
+    },
+    {
+      "id": "Q_5_7_021",
+      "questionText": "Karbon ayak izimizi 'küçültmek' (doğaya verdiğimiz zararı azaltmak) için aşağıdakilerden hangisini yapmalıyız?",
+      "answers": [
+        "Gideceğimiz yere özel arabamız yerine toplu taşıma, bisiklet kullanarak veya yürüyerek gitmek",
+        "Sürekli tek kullanımlık plastik bardaklar kullanmak",
+        "Evimizi fosil yakıtlarla (kömürle) aşırı ısıtmak",
+        "Ormanlık alanları kesip bina yapmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Toplu taşıma (otobüs, metro) veya bisiklet kullanmak, atmosfere salınan egzoz gazı miktarını ciddi oranda düşürerek karbon ayak izimizi küçültür."
+    },
+    {
+      "id": "Q_5_7_022",
+      "questionText": "Sokak aydınlatmalarının gereğinden fazla kullanılması veya gökyüzüne doğru yönlendirilmesi sonucu, gece gökyüzündeki yıldızları göremememize neden olan kirliliğe ne ad verilir?",
+      "answers": [
+        "Hava Kirliliği",
+        "Ses Kirliliği",
+        "Işık Kirliliği",
+        "Toprak Kirliliği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Yanlış yöne ve gereğinden fazla ışık kullanılması 'Işık Kirliliği'dir. Bu durum sadece yıldızları gizlemekle kalmaz, göçmen kuşların ve Caretta Carettaların yönünü kaybetmesine sebep olur."
+    },
+    {
+      "id": "Q_5_7_023",
+      "questionText": "Kozmetik ürünlerde (şampuan vb.) veya plastik atıkların denizlerde parçalanmasıyla ortaya çıkan gözle görülmeyecek kadar küçük plastik parçalarının balıkların midesine girmesine ne ad verilir?",
+      "answers": [
+        "Mikroplastik Kirliliği",
+        "Sera Etkisi",
+        "Ozon Delinmesi",
+        "Asit Yağmuru"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Mikroplastikler sulardaki en sinsi tehlikedir. Balıklar bunları yosun sanıp yer ve o balıkları yiyen insanların vücuduna kadar bu plastikler geçer (Besin zinciri zehirlenmesi)."
+    },
+    {
+      "id": "Q_5_7_024",
+      "questionText": "Atık (Çöp) yönetiminde bir 'Hiyerarşi' (Öncelik sıralaması) vardır. Çöplerle başa çıkmanın en birinci (en sağlıklı) kuralı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Geri Dönüştürmek",
+        "Yakarak enerji elde etmek",
+        "Önlemek ve Azaltmak (İhtiyacımız olmayanı satın almamak)",
+        "Çöpe gömmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Atık yönetiminin altın kuralı önce atık çıkmasını 'Önlemek'tir. Eğer gereksiz tüketim yapmaz (azaltırsak) geri dönüştürecek çöp derdimiz de kalmaz."
+    },
+    {
+      "id": "Q_5_7_025",
+      "questionText": "Geri dönüşüm sayesinde bir ülke aşağıdakilerden hangisini sağlamış olur?",
+      "answers": [
+        "Çevre kirliliğinin artmasını",
+        "Ekonomik zarar etmesini",
+        "Doğal kaynakların (ağaç, maden) korunmasını ve enerji tasarrufu sağlayarak ekonomisinin güçlenmesini",
+        "Çöplerin her yere yayılmasını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Sıfırdan alüminyum kutu üretmek çok fazla enerji ve maden ister. Kullanılmış kutuyu eritip yeniden yapmak %90 enerji tasarrufu ve ekonomik kazanç sağlar."
+    },
+    {
+      "id": "Q_5_7_026",
+      "questionText": "Sera gazlarının artmasını engellemek için ülkelerin kömür santrallerini kapatıp, Rüzgar türbinleri ve Güneş panelleri kurmalarına ne isim verilir?",
+      "answers": [
+        "Yenilenebilir (Temiz) Enerjiye Geçiş",
+        "Fosil Yakıt Üretimi",
+        "Sıfır Atık",
+        "Ormansızlaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Doğaya karbon (zehir) salmayan ve asla bitmeyen enerji sistemlerine Yenilenebilir Enerji denir. Bu sistemler sürdürülebilir yaşamın kalbidir."
+    },
+    {
+      "id": "Q_5_7_027",
+      "questionText": "Çiftçilerin tarlalarına daha çok ürün almak için fazla miktarda suni (kimyasal) gübre ve böcek ilacı atmasının uzun vadedeki zararı nedir?",
+      "answers": [
+        "Bitkilerin daha sağlıklı olması",
+        "Toprağı zehirlemesi, yeraltı sularını kirletmesi ve toprağın verimini (canlılığını) öldürmesi",
+        "Yağmuru artırması",
+        "Hava kirliliğini önlemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Kimyasal gübreler ve tarım ilaçları topraktaki faydalı bakterileri öldürür, toprağı çoraklaştırır ve yağmur sularıyla göllere karışarak balıkları zehirler."
+    },
+    {
+      "id": "Q_5_7_028",
+      "questionText": "Fabrika bacalarına filtre takılması ve evlerde ısınmak için kömür yerine doğalgaz tercih edilmesi öncelikle hangi kirliliği azaltmak içindir?",
+      "answers": [
+        "Toprak kirliliği",
+        "Ses kirliliği",
+        "Hava kirliliği",
+        "Su kirliliği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Filtreler, kömür dumanındaki zehirli külleri ve gazları (karbon monoksit) hapsederek gökyüzüne ulaşmasını engeller. Bu da direkt hava kirliliğini azaltır."
+    },
+    {
+      "id": "Q_5_7_029",
+      "questionText": "Bilinçli bir tüketici, market alışverişine giderken plastik (naylon) poşet kullanmak yerine bez çanta veya file kullanır. Bu davranışın temel nedeni nedir?",
+      "answers": [
+        "Bez çantanın daha şık görünmesi",
+        "Plastik poşetlerin paralı olması",
+        "Tek kullanımlık plastik poşetlerin doğada yüzlerce yıl yok olmaması ve çevreyi zehirlemesi",
+        "Plastik poşetlerin çok ağır olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Tek kullanımlık plastikler gezegenimizin en büyük belalarından biridir. Bez çanta ise yıkanıp binlerce kez kullanılabilen (sürdürülebilir) bir çözümdür."
+    },
+    {
+      "id": "Q_5_7_030",
+      "questionText": "Sürdürülebilirlik sadece doğayı korumak değil, aynı zamanda ekonomik ve sosyal adaleti de sağlamaktır. Buna göre aşağıdakilerden hangisi 'sürdürülebilir' bir geleceğin göstergesi olamaz?",
+      "answers": [
+        "Ağaç kesmek yerine kullanılmış kağıtları dönüştürmek",
+        "Suyu, barajlar hiç kurumayacakmış gibi bolca harcamak",
+        "Fabrikaların atık sularını arıtma tesislerinden geçirerek nehre vermek",
+        "Çatıları güneş panelleriyle donatarak kendi elektriğini üretmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Sürdürülebilirliğin ana felsefesi 'Tasarruf'tur. Suyu veya herhangi bir kaynağı limitsizce harcamak, gelecek nesillerin hakkını çalmak (sürdürülemez olmak) demektir."
+    }
+  ]
+}

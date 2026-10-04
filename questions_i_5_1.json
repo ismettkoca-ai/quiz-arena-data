@@ -1,0 +1,426 @@
+{
+  "unit": "School Life",
+  "questions": [
+    {
+      "id": "Q_5_1_001",
+      "questionText": "Aşağıdaki eşleşmelerden hangisi DOĞRUDUR?",
+      "answers": [
+        "Math - Resim",
+        "Science - Fen Bilimleri",
+        "Music - Beden Eğitimi",
+        "Art - Müzik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'Science' kelimesi Türkçe'de Fen Bilimleri dersini ifade eder."
+    },
+    {
+      "id": "Q_5_1_002",
+      "questionText": "Görselde veya soruda bahsedilen 'P.E.' dersinin açılımı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Physical Education",
+        "Plastic Arts",
+        "Primary English",
+        "Public Exam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "P.E. kısaltması 'Physical Education' (Beden Eğitimi) anlamına gelir."
+    },
+    {
+      "id": "Q_5_1_003",
+      "questionText": "Haftanın günleri sıralamasında 'Wednesday' gününden hemen sonra hangi gün gelir?",
+      "answers": [
+        "Tuesday",
+        "Thursday",
+        "Friday",
+        "Monday"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Pazartesi (Monday), Salı (Tuesday), Çarşamba (Wednesday), Perşembe (Thursday) şeklinde sıralanır. Çarşamba'dan sonra Perşembe (Thursday) gelir."
+    },
+    {
+      "id": "Q_5_1_004",
+      "questionText": "Aşağıdaki derslerden hangisinde öğrenciler boyama yapar, resim çizer ve heykel inceler?",
+      "answers": [
+        "Math",
+        "Art",
+        "History",
+        "Geography"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'Art' (Görsel Sanatlar / Resim) dersinde boyama ve çizim yapılır."
+    },
+    {
+      "id": "Q_5_1_005",
+      "questionText": "'What is your favorite class?' sorusuna aşağıdaki cevaplardan hangisi verilemez?",
+      "answers": [
+        "I like English.",
+        "My favorite lesson is Music.",
+        "I have math on Mondays.",
+        "Science is my favorite."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "'What is your favorite class?' sorusu en sevilen dersi sorar. 'I have math on Mondays' cümlesi ise ders programını (günü) belirtir."
+    },
+    {
+      "id": "Q_5_1_006",
+      "questionText": "Okul eşyalarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "answers": [
+        "Eraser - Silgi",
+        "Ruler - Cetvel",
+        "Notebook - Defter",
+        "Sharpener - Kalemlik"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'Sharpener' kalem tıraş demektir. Kalemlik ise 'pencil case' olarak ifade edilir."
+    },
+    {
+      "id": "Q_5_1_007",
+      "questionText": "Okulda yabancı dilleri konuşmayı, dinlemeyi ve yeni kelimeler öğrenmeyi içeren ders hangisidir?",
+      "answers": [
+        "Social Studies",
+        "English",
+        "Science",
+        "Math"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Yabancı dil öğrenilen ders 'English' (İngilizce) dersidir."
+    },
+    {
+      "id": "Q_5_1_008",
+      "questionText": "Aşağıdaki ülke ve millet (nationality) eşleşmelerinden hangisi YANLIŞTIR?",
+      "answers": [
+        "Britain - British",
+        "Japan - Japanian",
+        "France - French",
+        "Germany - German"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Japonya'nın millet karşılığı 'Japanian' değil, 'Japanese'dir."
+    },
+    {
+      "id": "Q_5_1_009",
+      "questionText": "'Where are you from?' sorusuna verilebilecek en uygun yanıt hangisidir?",
+      "answers": [
+        "I am ten years old.",
+        "I am from Spain.",
+        "I speak English.",
+        "My name is Ali."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'Where are you from?' sorusu nereli olduğunu sorar, yanıt 'I am from...' şeklinde başlar."
+    },
+    {
+      "id": "Q_5_1_010",
+      "questionText": "Haritada veya sözlükte farklı ülkelerin dillerini öğrenmek hangi dersin konusudur?",
+      "answers": [
+        "Geography / Language",
+        "Physical Education",
+        "Music",
+        "Information Technology"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Ülkeler ve diller (Languages) ünitesi dil ve coğrafya bağlantılıdır."
+    },
+    {
+      "id": "Q_5_1_011",
+      "questionText": "Okul binası içinde kitapların ödünç alındığı ve ders çalışıldığı yer neresidir?",
+      "answers": [
+        "Canteen",
+        "Library",
+        "Gym",
+        "Playground"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Kitapların bulunduğu ve okuma yapılan oda 'library' (kütüphane)dir."
+    },
+    {
+      "id": "Q_5_1_012",
+      "questionText": "Hafta sonu günleri (weekend days) hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Monday and Tuesday",
+        "Saturday and Sunday",
+        "Wednesday and Thursday",
+        "Friday and Saturday"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Hafta sonu (weekend) günleri Cumartesi (Saturday) ve Pazar (Sunday) günleridir."
+    },
+    {
+      "id": "Q_5_1_013",
+      "questionText": "Aşağıdaki ders programı (timetable) ifadelerinden hangisinde gün yazımında hata yapılmıştır?",
+      "answers": [
+        "monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "İngilizce'de gün isimleri her zaman büyük harfle başlar ('Monday' olmalıdır)."
+    },
+    {
+      "id": "Q_5_1_014",
+      "questionText": "'How many languages do you speak?' sorusunun Türkçe anlamı nedir?",
+      "answers": [
+        "Kaç yaşındasın?",
+        "Kaç dil konuşabiliyorsun?",
+        "Hangi okuldasın?",
+        "Nereden geliyorsun?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'How many languages do you speak?' cümlesi kaç dil konuşabildiğini sorar."
+    },
+    {
+      "id": "Q_5_1_015",
+      "questionText": "Matematik işlemlerinin, sayıların ve problemlerin çözüldüğü ders hangisidir?",
+      "answers": [
+        "Math",
+        "History",
+        "Art",
+        "Music"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Sayılar ve işlemler 'Math' (Matematik) dersidir."
+    },
+    {
+      "id": "Q_5_1_016",
+      "questionText": "'Timetable' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Sözlük",
+        "Ders programı (Zaman çizelgesi)",
+        "Kalemlik",
+        "Okul çantası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "'Timetable' haftalık ders programı demektir."
+    },
+    {
+      "id": "Q_5_1_017",
+      "questionText": "Aşağıdaki dillerden hangisi İspanya'da konuşulmaktadır?",
+      "answers": [
+        "Spanish",
+        "German",
+        "Italian",
+        "French"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "İspanya (Spain) ülkesinde konuşulan dil 'Spanish' (İspanyolca)dır."
+    },
+    {
+      "id": "Q_5_1_018",
+      "questionText": "Okulda futbol, basketbol oynamak ve spor yapmak için kullanılan alan hangisidir?",
+      "answers": [
+        "Art room",
+        "Gym / Playground",
+        "Staffroom",
+        "Classroom"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Spor salonu 'gym' veya oyun alanı 'playground' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_1_019",
+      "questionText": "'I can speak two languages: Turkish and English.' diyen bir öğrenci için aşağıdakilerden hangisi söylenebilir?",
+      3,
+      "answers": [
+        "İki dil konuşabildiğini belirtmektedir.",
+        "Hiç dil bilmemektedir.",
+        "Sadece matematik sevmektedir.",
+        "Öğretmen olduğunu söylemektedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Cümle iki dil (Türkçe ve İngilizce) konuşabildiğini ifade eder."
+    },
+    {
+      "id": "Q_5_1_020",
+      "questionText": "Aşağıdaki ifadelerden hangisi ders programı sorarken kullanılır?",
+      "answers": [
+        "What lessons do you have on Monday?",
+        "Where are you from?",
+        "How old are you?",
+        "What is your name?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Pazartesi günü hangi derslerin olduğunu sormak için 'What lessons do you have on Monday?' denir."
+    },
+    {
+      "id": "Q_5_1_021",
+      "questionText": "Okulda öğretmenlerin dinlendiği ve hazırlık yaptığı odanın İngilizce adı nedir?",
+      "answers": [
+        "Staffroom (Teachers' room)",
+        "Classroom",
+        "Library",
+        "Canteen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Öğretmenler odası 'staffroom' veya 'teachers' room'dur."
+    },
+    {
+      "id": "Q_5_1_022",
+      "questionText": "Tarih, geçmişteki olaylar, savaşlar ve eski medeniyetlerin incelendiği ders hangisidir?",
+      "answers": [
+        "History",
+        "Geography",
+        "Science",
+        "ICT"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Geçmişi inceleyen ders 'History' (Tarih) dersidir."
+    },
+    {
+      "id": "Q_5_1_023",
+      "questionText": "Aşağıdaki ülke ve millet eşleştirmelerinden hangisi YANLIŞTIR?",
+      "answers": [
+        "Italy - Italian",
+        "Russia - Russisch",
+        "Britain - British",
+        "Spain - Spanish"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Rusya millet karşılığı İngilizce'de 'Russian'dır. 'Russisch' Almanca'dır."
+    },
+    {
+      "id": "Q_5_1_024",
+      "questionText": "'We have science on Tuesdays and Thursdays.' cümlesine göre bu dersin haftada kaç gün işlendiği anlaşılır?",
+      "answers": [
+        "1 gün",
+        "2 gün",
+        "3 gün",
+        "5 gün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Salı (Tuesdays) ve Perşembe (Thursdays) olmak üzere haftada 2 gündür."
+    },
+    {
+      "id": "Q_5_1_025",
+      "questionText": "Okulda atıştırmalık almak, sandviç yemek ve su içmek için gidilen yer neresidir?",
+      "answers": [
+        "Canteen (Kantin)",
+        "Library",
+        "Gym",
+        "Lab"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Okul kantini 'canteen' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_1_026",
+      "questionText": "Ayşe yeni bir okulun haftasını incelemektedir. Salı günleri 3 saat English, 2 saat Math ve 1 saat Art dersi vardır. Ayşe'nin Salı günü en çok hangi tür dersler ağırlıklıktadır?",
+      "answers": [
+        "Yabancı dil ağırlıklı dersler (English)",
+        "Spor ağırlıklı dersler",
+        "Müzik ağırlıklı dersler",
+        "Fen laboratuvarı dersleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 3,
+      "explanation": "3 saat English en yüksek saat payına sahiptir."
+    },
+    {
+      "id": "Q_5_1_027",
+      "questionText": "Bilgisayarların kullanıldığı, kodlama ve dijital becerilerin öğrenildiği dersin kısaltması nedir?",
+      "answers": [
+        "ICT (Information and Communication Technology)",
+        "P.E.",
+        "RE",
+        "Art"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Bilişim Teknolojileri dersi ICT olarak kısaltılır."
+    },
+    {
+      "id": "Q_5_1_028",
+      "questionText": "Aşağıdaki soru-cevap eşleştirmelerinden hangisi UYUMSUZDUR?",
+      "answers": [
+        "What is your name? -> My name is John.",
+        "How old are you? -> I am from London.",
+        "Where are you from? -> I am from France.",
+        "What is your favorite class? -> Science."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "'How old are you?' sorusu yaş sorar, 'I am from London' memleket söyler, bu yüzden uyumsuzdur."
+    },
+    {
+      "id": "Q_5_1_029",
+      "questionText": "Haftanın günleri arasında Cuma (Friday) gününden hemen önce gelen gün hangisidir?",
+      "answers": [
+        "Thursday",
+        "Saturday",
+        "Wednesday",
+        "Monday"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 1,
+      "explanation": "Perşembe (Thursday) Cuma'dan hemen önceki gündür."
+    },
+    {
+      "id": "Q_5_1_030",
+      "questionText": "'Can you speak French?' sorusuna olumlu ve kibar bir yanıt vermek isteyen bir kişi ne der?",
+      "answers": [
+        "Yes, a little.",
+        "No, I am from Turkey.",
+        "I have math on Mondays.",
+        "My favorite class is Art."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "School Life",
+      "difficulty": 2,
+      "explanation": "Fransızca konuşup konuşamadığını soran soruya 'Yes, a little' (Evet, biraz) yanıtı verilebilir."
+    }
+  ]
+}

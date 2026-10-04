@@ -1,0 +1,425 @@
+{
+  "unit": "Gökyüzündeki Komşularımız ve Biz",
+  "questions": [
+    {
+      "id": "Q_5_1_001",
+      "questionText": "Güneş Sistemi'nde kendi ışığını ve ısısını üreterek etrafını aydınlatan devasa gök cismi hangisidir?",
+      "answers": [
+        "Ay",
+        "Dünya",
+        "Güneş",
+        "Mars"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Güneş orta büyüklükte bir yıldızdır ve yapısındaki gazların tepkimesi sonucu kendi ışığını ve ısısını üretir."
+    },
+    {
+      "id": "Q_5_1_002",
+      "questionText": "Geceleri gökyüzünde parlak gördüğümüz, Dünya'mızın tek doğal uydusu aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ay",
+        "Venüs",
+        "Merkür",
+        "Jüpiter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Ay, Dünya'nın etrafında dolanan tek doğal uydusudur ve gezegenimize en yakın gök cismidir."
+    },
+    {
+      "id": "Q_5_1_003",
+      "questionText": "Dünya, kendi etrafındaki bir tam dönüşünü yaklaşık 24 saatte tamamlar. Bu dönüşün sonucunda aşağıdakilerden hangisi oluşur?",
+      "answers": [
+        "Mevsimler",
+        "Gece ve gündüz",
+        "Yıl",
+        "Güneş tutulması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Dünya kendi etrafında dönerken Güneş'e dönük olan yüzü gündüzü, karanlıkta kalan yüzü ise geceyi yaşar."
+    },
+    {
+      "id": "Q_5_1_004",
+      "questionText": "Gökbilimciler uzayı, yıldızları ve gezegenleri daha yakından inceleyebilmek için hangi optik aracı icat etmişlerdir?",
+      "answers": [
+        "Mikroskop",
+        "Periskop",
+        "Teleskop",
+        "Stetoskop"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Teleskop, içindeki mercek ve aynalar sayesinde çok uzaktaki gök cisimlerini yakınlaştırarak görmemizi sağlayan araçtır."
+    },
+    {
+      "id": "Q_5_1_005",
+      "questionText": "Güneş, Dünya ve Ay'ı büyüklüklerine göre büyükten küçüğe doğru sıralamak istersek doğru sıralama nasıl olur?",
+      "answers": [
+        "Güneş > Dünya > Ay",
+        "Dünya > Güneş > Ay",
+        "Güneş > Ay > Dünya",
+        "Ay > Dünya > Güneş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Güneş bir basketbol topu, Dünya bir nohut tanesi ise Ay ancak bir mercimek tanesi kadar olur. En büyüğü Güneş'tir."
+    },
+    {
+      "id": "Q_5_1_006",
+      "questionText": "Güneş'in yapısında en çok bulunan ve onun devasa bir enerji (ısı/ışık) kaynağı olmasını sağlayan iki temel gaz hangileridir?",
+      "answers": [
+        "Oksijen ve Karbondioksit",
+        "Hidrojen ve Helyum",
+        "Azot ve Metan",
+        "Oksijen ve Hidrojen"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Güneş'in yaklaşık %71'i Hidrojen, %27'si Helyum gazıdır. Hidrojenin Helyuma dönüşmesiyle o büyük enerji açığa çıkar."
+    },
+    {
+      "id": "Q_5_1_007",
+      "questionText": "Teleskobu gökyüzünü incelemek için kullanan ve Güneş'in üzerindeki lekelerin (Güneş lekeleri) hareket ettiğini görerek 'Güneş kendi etrafında dönüyor' diyen bilim insanı kimdir?",
+      "answers": [
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Nicolaus Copernicus"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 3,
+      "explanation": "Galileo, kendi yaptığı teleskopla Güneş lekelerinin her gün aynı yöne kaydığını fark etmiş ve Güneş'in kendi ekseninde döndüğünü kanıtlamıştır."
+    },
+    {
+      "id": "Q_5_1_008",
+      "questionText": "Aynı gün içinde sabah saatlerinde gölgemiz çok uzunken, öğle saatlerinde oldukça kısalır. Gölge boyundaki bu değişimin temel nedeni nedir?",
+      "answers": [
+        "Ay'ın Dünya etrafında dolanması",
+        "Dünya'nın Güneş etrafında dolanması",
+        "Dünya'nın kendi ekseni etrafında dönmesi",
+        "Mevsimlerin değişmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Dünya kendi etrafında döndükçe Güneş ışınlarının yeryüzüne geliş açısı gün içinde sürekli değişir, bu da gölge boyunu etkiler."
+    },
+    {
+      "id": "Q_5_1_009",
+      "questionText": "Astronotların yıllar önce Ay'a ayak bastıklarında bıraktıkları ayak izleri bugün bile silinmeden aynen durmaktadır. Bunun asıl nedeni nedir?",
+      "answers": [
+        "Ay'ın yüzeyinin çok sert bir betondan oluşması",
+        "Ay'da atmosferin yok denecek kadar az olması sebebiyle rüzgar ve yağmur gibi hava olaylarının görülmemesi",
+        "Ay'ın hiç dönmemesi",
+        "Uzaylıların ayak izlerini koruması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Ay'ın atmosferi (havası) olmadığı için rüzgar, fırtına veya yağmur yağmaz. Bu yüzden yüzeyindeki tozlar ve izler hiç uçuşmaz."
+    },
+    {
+      "id": "Q_5_1_010",
+      "questionText": "Ay yüzeyinde derin çukurlar (kraterler) bulunur. Dünya'ya da sürekli meteorlar gelmesine rağmen yüzeyinde bu kadar çok krater yoktur. Ay'da çok fazla krater olmasının nedeni nedir?",
+      "answers": [
+        "Dünya'nın Ay'dan daha sert olması",
+        "Ay'ın atmosferi olmadığı için gelen meteorların sürtünmeden yanıp parçalanmadan direkt yüzeye çarpması",
+        "Ay'ın Güneş'e daha yakın olması",
+        "Meteorların Dünya'yı sevmemesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 3,
+      "explanation": "Dünya'nın kalın atmosferi (havası) gelen meteorları sürtünmeyle yakıp kül eder (yıldız kayması). Ay'da hava olmadığı için taşlar olduğu gibi çarpar."
+    },
+    {
+      "id": "Q_5_1_011",
+      "questionText": "Güneş, Dünya'dan yaklaşık 1 Milyon 300 Bin kat daha büyük olmasına rağmen, gökyüzüne baktığımızda Güneş ile Ay'ı neredeyse aynı büyüklükteymiş gibi görürüz. Bunun sebebi nedir?",
+      "answers": [
+        "Ay'ın Güneş'ten daha sıcak olması",
+        "Güneş'in Dünya'ya, Ay'dan çok daha uzak olması (Uzaktaki cisimlerin küçük görünmesi)",
+        "Güneş'in ışığının gözümüzü alması",
+        "Aslında ikisinin de aynı boyutta olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Perspektif (uzaklık) kuralı gereği cisimler uzaklaştıkça küçük görünür. Güneş Ay'dan devasa boyutta büyüktür ancak bize Ay'dan 400 kat daha uzaktır."
+    },
+    {
+      "id": "Q_5_1_012",
+      "questionText": "Güneş ve Ay tutulmaları doğa olaylarıdır. Bir 'Güneş Tutulması' yaşanabilmesi için uzaydaki dizilimin (sıralamanın) nasıl olması gerekir?",
+      "answers": [
+        "Güneş - Ay - Dünya",
+        "Ay - Dünya - Güneş",
+        "Dünya - Güneş - Ay",
+        "Güneş - Dünya - Ay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Güneş tutulmasında Ay, Güneş ile Dünya arasına girer. Böylece Güneş'ten gelen ışıklar Ay'a çarpar ve Dünya'nın bir kısmına Ay'ın gölgesi düşer."
+    },
+    {
+      "id": "Q_5_1_013",
+      "questionText": "Bir 'Ay Tutulması' yaşanması için hangi gök cisminin ortada yer alması ve Ay'ın üzerine kendi gölgesini düşürmesi gerekir?",
+      "answers": [
+        "Güneş",
+        "Dünya",
+        "Mars",
+        "Venüs"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Ay tutulmasında dizilim 'Güneş - Dünya - Ay' şeklindedir. Ortadaki Dünya'nın dev gölgesi Ay'ın üzerine düşer ve onu karanlıkta bırakır."
+    },
+    {
+      "id": "Q_5_1_014",
+      "questionText": "Ay, kendi ışığını üretmediği halde geceleri gökyüzünde parlak bir lamba gibi görünür. Bunun temel nedeni nedir?",
+      "answers": [
+        "İçinde yanan büyük ateşler olması",
+        "Güneş'ten aldığı ışığı bir ayna gibi Dünya'ya yansıtması",
+        "Dünya'dan giden ışıklarla aydınlanması",
+        "Yıldızların onu aydınlatması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Gezegenler ve uydular ışık kaynağı değildir. Ay da tıpkı dev bir ayna gibi, Güneş'in vurduğu ışıkları bize doğru yansıttığı için parlak görünür."
+    },
+    {
+      "id": "Q_5_1_015",
+      "questionText": "Dünya'dan baktığımızda Ay'ın hep aynı yüzünü görürüz, arka tarafını (karanlık yüzünü) asla göremeyiz. Bu gizemli durumun nedeni nedir?",
+      "answers": [
+        "Ay'ın arka yüzünün tamamen siyah olması",
+        "Ay'ın kendi etrafındaki dönüş süresi ile Dünya etrafındaki dolanma süresinin birbirine eşit (27.3 gün) olması",
+        "Ay'ın hiç dönmemesi",
+        "Dünya'nın Ay'dan daha yavaş dönmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 3,
+      "explanation": "Ay, kendi ekseninde ve Dünya etrafında aynı hızda döner (Senkronize dönüş). Bu yüzden biz Dünya'dan bakarken Ay sürekli aynı yüzünü bize dönmüş olur."
+    },
+    {
+      "id": "Q_5_1_016",
+      "questionText": "Ay'ın Dünya etrafında dolanırken Güneş'ten aldığı ışığın açısına göre Dünya'dan farklı şekillerde (bazen yarım, bazen tam) görünmesine ne ad verilir?",
+      "answers": [
+        "Ay'ın Yörüngesi",
+        "Ay'ın Kraterleri",
+        "Ay'ın Evreleri",
+        "Ay Tutulması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Ay, Dünya çevresinde dolandıkça Güneş'i gören kısmı değişir. Dünya'dan bakıldığında bu aydınlık kısmın her gece farklı görünmesine 'Evre' denir."
+    },
+    {
+      "id": "Q_5_1_017",
+      "questionText": "Ay'ın Güneş ile Dünya arasına girdiği, karanlık yüzünün Dünya'ya dönük olduğu ve bu yüzden Dünya'dan bakıldığında Ay'ın hiç görülemediği (karanlık olduğu) evre hangisidir?",
+      "answers": [
+        "Dolunay",
+        "Yeni Ay",
+        "İlk Dördün",
+        "Son Dördün"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Yeni Ay evresinde Ay, Dünya ile Güneş arasındadır. Güneş ışınları Ay'ın arka tarafını aydınlattığı için bize dönük olan yüzü tamamen karanlık kalır."
+    },
+    {
+      "id": "Q_5_1_018",
+      "questionText": "Ay'ın Dünya'ya bakan yüzünün Güneş tarafından tamamen aydınlatıldığı ve gökyüzünde parlak, kocaman yuvarlak bir tepsi gibi göründüğü evre hangisidir?",
+      "answers": [
+        "Dolunay",
+        "Hilal",
+        "İlk Dördün",
+        "Yeni Ay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Dolunay evresinde Dünya, Güneş ile Ay arasındadır. Güneş'in ışığı Ay'ın bize dönük olan tam yüzeyine vurur ve onu yuvarlak gösterir."
+    },
+    {
+      "id": "Q_5_1_019",
+      "questionText": "Ay'ın sağ yarısının aydınlık, sol yarısının karanlık olduğu; gökyüzünde düzgün bir 'D' harfi şeklinde göründüğü ana evreye ne ad verilir?",
+      "answers": [
+        "Şişkin Ay",
+        "Yeni Ay",
+        "İlk Dördün",
+        "Son Dördün"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Yeni Ay'dan yaklaşık bir hafta sonra Ay'ın Dünya'dan bakıldığında sağ yarısının aydınlanıp 'D' şeklinde göründüğü evre İlk Dördün'dür."
+    },
+    {
+      "id": "Q_5_1_020",
+      "questionText": "Dolunay evresinden yaklaşık bir hafta sonra Ay'ın sol yarısının aydınlık olduğu, gökyüzünde ters 'D' harfi şeklinde göründüğü evre hangisidir?",
+      "answers": [
+        "Son Dördün",
+        "İlk Dördün",
+        "Hilal",
+        "Şişkin Ay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Dolunaydan sonra Ay küçülmeye başlar. Sol yarısının aydınlık kaldığı (ters D) son ana evreye Son Dördün adı verilir."
+    },
+    {
+      "id": "Q_5_1_021",
+      "questionText": "Dünya'nın kendi etrafında dönmesi 'Gün'ü, Dünya'nın Güneş etrafında dolanması 'Yıl'ı oluşturur. Ay'ın Dünya etrafındaki bir tam turunu tamamlaması ise hangi zaman dilimini (takvimi) oluşturur?",
+      "answers": [
+        "Hafta",
+        "Saat",
+        "Mevsim",
+        "Ay (Ortalama 29-30 gün)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Ay'ın Dünya etrafındaki bir tam turu (evrelerin baştan sona tamamlanması) yaklaşık 29.5 gün sürer ve bu süre takvimimizdeki '1 Ay'lık dilimi oluşturur."
+    },
+    {
+      "id": "Q_5_1_022",
+      "questionText": "Aşağıdakilerden hangisi Dünya'nın Güneş etrafında dolanmasının doğrudan bir sonucudur?",
+      "answers": [
+        "Gece ve Gündüzün birbirini takip etmesi",
+        "Mevsimlerin oluşması ve 1 yılın tamamlanması",
+        "Günlük sıcaklık farklarının oluşması",
+        "Ay'ın gökyüzünde parlaması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Dünya'nın Güneş etrafında dönmesi ve eksenindeki eğiklik sayesinde mevsimler (yaz, kış vb.) meydana gelir ve 365 gün (1 yıl) tamamlanır."
+    },
+    {
+      "id": "Q_5_1_023",
+      "questionText": "Güneş gözlemi yaparken sağlığımız için uymamız gereken en önemli kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Güneş'e çıplak gözle veya sıradan güneş gözlüğüyle bile asla doğrudan bakmamak (özel filtreli tutulma gözlüğü kullanmak)",
+        "Güneş'e gözümüzü kısarak bakmak",
+        "Teleskop veya dürbünle Güneş'e daha yakından bakmak",
+        "Güneş'e sadece kış aylarında bakmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Güneş çok güçlü ışık ve radyasyon yayar. Özel koruyucu filtreler olmadan çıplak gözle, dürbünle veya teleskopla güneşe bakmak kalıcı körlüğe sebep olabilir."
+    },
+    {
+      "id": "Q_5_1_024",
+      "questionText": "Yıldızlar ve Gezegenler arasındaki farklar düşünüldüğünde, aşağıdaki özelliklerden hangisi yalnızca Yıldızlara (örneğin Güneş'e) aittir?",
+      "answers": [
+        "Küre (yuvarlak) şeklinde olmaları",
+        "Kendi ışık ve ısılarını üreten birer enerji kaynağı olmaları",
+        "Belirli bir yörüngede dolanmaları",
+        "Sadece geceleri ortaya çıkmaları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Gezegenler soğumuş ve ışık üretemeyen gök cisimleridir. Yıldızlar ise dev bir gaz topu gibi yanarak ısı ve ışık üreten devasa enerji kaynaklarıdır."
+    },
+    {
+      "id": "Q_5_1_025",
+      "questionText": "Ay yüzeyinde gece ile gündüz arasındaki sıcaklık farkı inanılmaz derecede yüksektir (Gündüz 100°C iken gece -150°C olabilir). Bu aşırı sıcaklık farkının asıl sebebi nedir?",
+      "answers": [
+        "Ay'ın Güneş'e sürekli yaklaşıp uzaklaşması",
+        "Ay'da ısıyı tutacak veya dengeleyecek bir 'Atmosfer' tabakasının bulunmaması",
+        "Ay'ın tamamen buzlarla kaplı olması",
+        "Ay'ın içinde yanardağlar olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 3,
+      "explanation": "Dünya'nın atmosferi bir yorgan gibi gece ısıyı tutar, gündüz aşırı ısınmayı engeller. Ay'da hava olmadığı için Güneş vurunca kavrulur, batınca donar."
+    },
+    {
+      "id": "Q_5_1_026",
+      "questionText": "Ay, ana evreler arasında geçerken ara evreler de yaşar. Ay'ın ters 'C' harfi şeklinde oldukça ince bir orak gibi göründüğü o güzel ara evresine ne ad verilir?",
+      "answers": [
+        "Dolunay",
+        "Şişkin Ay",
+        "Hilal",
+        "İlk Dördün"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Yeni Ay ile İlk Dördün arasında veya Son Dördün ile Yeni Ay arasında, Ay'ın sadece incecik kenarının aydınlandığı evreye 'Hilal' denir (Bayrağımızdaki gibi)."
+    },
+    {
+      "id": "Q_5_1_027",
+      "questionText": "Güneş çok büyük bir gaz topudur ve katı bir yeryüzü (toprağı) yoktur. Güneş'in merkezinde aşırı sıcak olan kısma ne ad verilir?",
+      "answers": [
+        "Taç Küre",
+        "Çekirdek",
+        "Renk Küre",
+        "Krater"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 2,
+      "explanation": "Güneş de Dünya gibi katmanlardan oluşur. Enerjinin (ısı ve ışığın) üretildiği, milyonlarca derece sıcaklığa sahip olan en iç katmana 'Çekirdek' denir."
+    },
+    {
+      "id": "Q_5_1_028",
+      "questionText": "Bir gözlemci, gökyüzünde Ay'ı 'Şişkin Ay' evresinde gördüğünü söylüyor. Bu gözlemci, Ay'ı hangi iki ana evre arasında görmüş olabilir?",
+      "answers": [
+        "Yeni Ay ile İlk Dördün",
+        "İlk Dördün ile Dolunay",
+        "Son Dördün ile Yeni Ay",
+        "Yeni Ay ile Dolunay (Aynı anda)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 3,
+      "explanation": "Şişkin Ay; yarısından fazlasının aydınlık ama tam yuvarlak olmadığı evredir. Ay büyürken İlk Dördün (Yarım) ile Dolunay (Tam) arasındaki geçişte şişkin görünür."
+    },
+    {
+      "id": "Q_5_1_029",
+      "questionText": "Günümüzde televizyon yayınlarını izlemek, cep telefonuyla iletişim kurmak veya hava durumunu tahmin etmek için uzaya gönderdiğimiz teknolojik araçlara ne ad verilir?",
+      "answers": [
+        "Yapay Uydu",
+        "Gök Taşı",
+        "Doğal Uydu",
+        "Teleskop"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Ay bir doğal uydudur. İnsanların haberleşme, gözlem veya araştırma yapmak amacıyla kendi üretip Dünya yörüngesine yerleştirdikleri cihazlara ise 'Yapay Uydu' denir."
+    },
+    {
+      "id": "Q_5_1_030",
+      "questionText": "Ay'ın yüzeyi nasıldır ve şekli en çok neye benzer?",
+      "answers": [
+        "Dümdüz, pürüzsüz bir ayna gibidir.",
+        "Tozla kaplıdır, dağlar, vadiler ve meteor çarpmasıyla oluşan dev çukurlar (kraterler) vardır. Şekli ise küreye (topa) benzer.",
+        "Küp şeklindedir ve tamamen okyanuslardan oluşur.",
+        "Sıvı lavlarla kaplı bir alev topudur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Gökyüzündeki Komşularımız ve Biz",
+      "difficulty": 1,
+      "explanation": "Ay'ın şekli Dünya ve Güneş gibi bir küredir. Yüzeyi ise pürüzsüz değildir; tozlu, dağlık ve çok sayıda krater barındıran taşlık bir yapıdadır."
+    }
+  ]
+}

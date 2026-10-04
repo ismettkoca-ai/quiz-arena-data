@@ -1,0 +1,425 @@
+{
+  "unit": "Life in the Universe & Future",
+  "questions": [
+    {
+      "id": "Q_5_8_001",
+      "questionText": "Güneş sistemindeki gezegenlerin İngilizce karşılığı olan 'Planets' arasında üzerinde yaşadığımız mavi gezegenin adı nedir?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Üzerinde yaşadığımız gezegen İngilizce'de 'Earth' olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_8_002",
+      "questionText": "'Red Planet' (Kızıl Gezegen) olarak bilinen ve uzay araştırmalarının odak noktasındaki gezegen hangisidir?",
+      "answers": [
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Neptune"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Mars kızıl gezegen olarak bilinir."
+    },
+    {
+      "id": "Q_5_8_003",
+      "questionText": "Gelecekte yaşanacak durumlarla ilgili tahmin yaparken veya karar bildirirken kullanılan yardımcı fiil hangisidir?",
+      "answers": [
+        "Will / Won't",
+        "Do / Don't",
+        "Is / Are",
+        "Was / Were"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Gelecek zaman bildiren ve tahmin yaparken kullanılan yapı 'will'dir."
+    },
+    {
+      "id": "Q_5_8_004",
+      "questionText": "Uzayı, yıldızları ve uzak galaksileri yakından incelemek için kullanılan optik araca ne denir?",
+      "answers": [
+        "Telescope",
+        "Microscope",
+        "Camera",
+        "Television"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Uzay gözlemleri teleskopla yapılır."
+    },
+    {
+      "id": "Q_5_8_005",
+      "questionText": "Astronotların uzaya seyahat etmek için bindikleri taşıtların İngilizce adı nedir?",
+      "answers": [
+        "Spaceship / Spacecraft (Uzay gemisi)",
+        "Submarine",
+        "Train",
+        "Bicycle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Uzay araçlarına spaceship denir."
+    },
+    {
+      "id": "Q_5_8_006",
+      "questionText": "Uzaya giderek araştırmalar yapan bilim insanı ve yolculara ne ad verilir?",
+      "answers": [
+        "Astronaut",
+        "Engineer",
+        "Doctor",
+        "Farmer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Uzay yolcuları astronotlardır."
+    },
+    {
+      "id": "Q_5_8_007",
+      "questionText": "'In 2100, people will live in flying cars.' cümlesinde gelecekle ilgili hangi öngörüde bulunulmaktadır?",
+      "answers": [
+        "2100 yılında insanların uçan arabalarda yaşayacağı",
+        "İnsanların uçmayı öğreneceği",
+        "Arabaların tamamen yok olacağı",
+        "2100'de arabaların suya batacağı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Cümle uçan arabalarla ilgili gelecek tahmini içerir."
+    },
+    {
+      "id": "Q_5_8_008",
+      "questionText": "Güneş sistemindeki en büyük gezegen hangisidir?",
+      "answers": [
+        "Jupiter",
+        "Mars",
+        "Earth",
+        "Mercury"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Jüpiter (Jupiter) güneş sistemindeki en büyük gezegendir."
+    },
+    {
+      "id": "Q_5_8_009",
+      "questionText": "Etrafındaki muhteşem halkalarıyla (rings) bilinen gaz devi gezegen hangisidir?",
+      "answers": [
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Earth"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Halkalarıyla ünlü gezegen Satürn'dür."
+    },
+    {
+      "id": "Q_5_8_010",
+      "questionText": "'Do you think there will be life on other planets?' sorusuna olumlu yanıt vermek isteyen biri ne der?",
+      "answers": [
+        "Yes, I think so.",
+        "No, I don't like planets.",
+        "I am from Turkey.",
+        "It is rainy today."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Olumlu tahminlerde 'Yes, I think so' kullanılır."
+    },
+    {
+      "id": "Q_5_8_011",
+      "questionText": "Güneş sistemimizin merkezinde yer alan ve dünyamıza ısı/ışık veren yıldızın adı nedir?",
+      "answers": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Comet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Güneş bir yıldızdır ve sistemimizin merkezindedir."
+    },
+    {
+      "id": "Q_5_8_012",
+      "questionText": "Dünya'nın doğal uydusu olan gök cismine İngilizce'de ne denir?",
+      "answers": [
+        "Moon",
+        "Sun",
+        "Star",
+        "Galaxy"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Ay, İngilizce'de 'Moon'dur."
+    },
+    {
+      "id": "Q_5_8_013",
+      "questionText": "Gelecekte ev işlerini yapması beklenen elektronik yardımcıların İngilizce karşılığı nedir?",
+      "answers": [
+        "Robots",
+        "Cars",
+        "Telescopes",
+        "Books"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Robotlar 'robots' kelimesidir."
+    },
+    {
+      "id": "Q_5_8_014",
+      "questionText": "'People won't use paper money in the future; they will use digital money.' cümlesine göre gelecekte ne değişecektir?",
+      "answers": [
+        "Kağıt para yerine dijital para kullanılacaktır.",
+        "Alışveriş tamamen yasaklanacaktır.",
+        "İnsanlar para kullanmayı bırakacaktır.",
+        "Sadece altın kullanılacaktır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Cümle dijital paraya geçileceğini öngörmektedir."
+    },
+    {
+      "id": "Q_5_8_015",
+      "questionText": "Güneş'e en yakın olan gezegen hangisidir?",
+      "answers": [
+        "Mercury",
+        "Neptune",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Merkür Güneş'e en yakın gezegendir."
+    },
+    {
+      "id": "Q_5_8_016",
+      "questionText": "Uzayı ve gök cisimlerini inceleyen bilim dalına ne denir?",
+      "answers": [
+        "Astronomy",
+        "History",
+        "Geography",
+        "Biology"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Astronomi gökbilimdir."
+    },
+    {
+      "id": "Q_5_8_017",
+      "questionText": "'Space station' teriminin Türkçe karşılığı nedir?",
+      "answers": [
+        "Uzay istasyonu",
+        "Uzay gemisi",
+        "Uçan araba",
+        "Gözlemevi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Astronotların konaklayıp araştırma yaptığı yer uzay istasyonudur."
+    },
+    {
+      "id": "Q_5_8_018",
+      "questionText": "Gelecekte tatillerimizi nerede geçireceğimizle ilgili bilim kurgu tahminlerinden biri hangisidir?",
+      "answers": [
+        "Space hotels",
+        "Old caves",
+        "Underground rivers",
+        "Inside volcanoes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Uzay otelleri gelecekteki turizm tahminlerindendir."
+    },
+    {
+      "id": "Q_5_8_019",
+      "questionText": "'Planet' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Gezegen",
+        "Yıldız",
+        "Uydu",
+        "Kuyruklu yıldız"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "'Planet' gezegen demektir."
+    },
+    {
+      "id": "Q_5_8_020",
+      "questionText": "Güneş sistemindeki en uzak ve buzullarla kaplı olan mavi renkli gezegen hangisidir?",
+      "answers": [
+        "Neptune",
+        "Mercury",
+        "Venus",
+        "Mars"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Neptün en dıştaki buz devi gezegendir."
+    },
+    {
+      "id": "Q_5_8_021",
+      "questionText": "'Robots will do all the housework in 2050.' diyen biri gelecekte neyin değişeceğini öngörmektedir?",
+      "answers": [
+        "Ev işlerini robotların yapacağını",
+        "İnsanların evde hiç yaşamayacağını",
+        "Robotların yemek yemek zorunda kalacağını",
+        "Evlerin tamamen yok olacağını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Cümle ev işlerini robotların üstleneceğini belirtir."
+    },
+    {
+      "id": "Q_5_8_022",
+      "questionText": "Aşağıdaki gök cisimlerinden hangisi bir yıldızdır?",
+      "answers": [
+        "The Sun",
+        "The Earth",
+        "Mars",
+        "The Moon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Güneş orta büyüklükte bir yıldızdır."
+    },
+    {
+      "id": "Q_5_8_023",
+      "questionText": "Gelecekte okulların nasıl olacağı hakkında yaygın bir tahmin hangisidir?",
+      "answers": [
+        "Students will study online at virtual schools.",
+        "Students will ride horses to school.",
+        "Schools will never exist.",
+        "Students will write on stone tablets."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Sanal okullar gelecekteki eğitim modellemesi tahminlerindendir."
+    },
+    {
+      "id": "Q_5_8_024",
+      "questionText": "'Alien' kelimesinin Türkçe karşılığı nedir?",
+      "answers": [
+        "Uzaylı",
+        "Astronot",
+        "Gezegen",
+        "Yıldız"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "'Alien' uzaylı demektir."
+    },
+    {
+      "id": "Q_5_8_025",
+      "questionText": "UFO kısaltmasının açılımı nedir?",
+      "answers": [
+        "Unidentified Flying Object",
+        "United Foreign Office",
+        "Universal Flying Organ",
+        "Underground Fast Object"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "UFO, tanımlanamayan uçan cisim demektir."
+    },
+    {
+      "id": "Q_5_8_026",
+      "questionText": "Gelecek tahminleriyle ilgili proje ödevi hazırlayan Defne, 'In the future, cities will be under water, cars will fly, and we won't need schools because robots will teach us.' yazmıştır. Defne'nin kullandığı bu yapılar hangi ünitenin konusudur?",
+      "answers": [
+        "Life in the Universe & Future",
+        "School Life",
+        "Family Life",
+        "Personal Life"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 3,
+      "explanation": "Gelecek tahminleri ve uçan arabalar bu üniteye aittir."
+    },
+    {
+      "id": "Q_5_8_027",
+      "questionText": "Güneş sistemimizde toplam kaç tane resmi gezegen bulunmaktadır?",
+      "answers": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Güneş sisteminde 8 gezegen vardır."
+    },
+    {
+      "id": "Q_5_8_028",
+      "questionText": "Uydumuz olan Ay'a ilk ayak basan astronot kimdir?",
+      "answers": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Ali Kuşçu",
+        "Piri Reis"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Ay'a ilk basan astronot Neil Armstrong'dur."
+    },
+    {
+      "id": "Q_5_8_029",
+      "questionText": "Gelecekte yemek alışkanlıklarımızla ilgili yapılan bilim kurgu tahminlerinde ne öne sürülür?",
+      "answers": [
+        "People will eat pill-shaped space food.",
+        "People will stop eating forever.",
+        "People will eat only stones.",
+        "People will drink ocean water."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 2,
+      "explanation": "Hap şeklinde yemekler popüler gelecek öngörülerindendir."
+    },
+    {
+      "id": "Q_5_8_030",
+      "questionText": "'The future is in our hands.' sözünün Türkçe anlamı nedir?",
+      "answers": [
+        "Gelecek bizim ellerimizdedir.",
+        "Gelecek uzaydadır.",
+        "Gelecek robotlardadır.",
+        "Gelecek geçmiştedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Life in the Universe & Future",
+      "difficulty": 1,
+      "explanation": "Bu söz geleceğin bizim seçimlerimize bağlı olduğunu vurgular."
+    }
+  ]
+}

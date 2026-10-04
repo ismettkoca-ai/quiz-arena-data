@@ -1,0 +1,425 @@
+{
+  "unit": "Veriden Olasılığa",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "Bir olayın gerçekleşme olasılığının sadece matematiksel hesaplamalara (istatistiksel formüllere) dayanılarak bulunmasına ne ad verilir?",
+      "answers": [
+        "Deneysel Olasılık",
+        "Teorik Olasılık",
+        "Öznel Olasılık",
+        "İmkansız Olay"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Hiçbir deney yapmadan, sadece olası tüm durumları hesaba katarak matematiksel olarak hesaplanan olasılığa 'teorik olasılık' denir."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "Bir olayın gerçekleşme olasılığının, yapılan bir deneyin veya geçmişteki gözlemlerin sonuçlarına dayanılarak hesaplanmasına ne ad verilir?",
+      "answers": [
+        "Teorik Olasılık",
+        "Deneysel Olasılık",
+        "Kesin Olay",
+        "Matematiksel Olasılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Geçmişte yaşanmış olayların veya yapılan denemelerin sonuçlarına (verilere) dayanılarak bulunan olasılığa 'deneysel olasılık' denir."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "Hilesiz bir madeni paranın havaya atılması deneyinde 'tura' gelmesinin TEORİK olasılığı kaçtır?",
+      "answers": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Madeni paranın 2 yüzü vardır (Yazı ve Tura). Tura gelme ihtimali matematiksel (teorik) olarak her zaman 1/2'dir."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "Ali bir madeni parayı 10 kez havaya atıyor. Paranın 6 kez tura, 4 kez yazı geldiğini not ediyor. Bu deneye göre paranın tura gelmesinin DENEYSEL olasılığı kaçtır?",
+      "answers": [
+        "1/2",
+        "4/10",
+        "6/10",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Deneysel olasılık = (İstenen Olayın Gerçekleşme Sayısı) / (Toplam Deney Sayısı) formülüyle bulunur. 10 atışta 6 kez tura geldiği için deneysel olasılık 6/10'dur."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "Bir zar atma deneyinde zar 20 kez atılıyor ve 5 kez '3' sayısı geliyor. Buna göre zarın '3' gelmesinin deneysel olasılığı kaçtır?",
+      "answers": [
+        "1/6",
+        "1/5",
+        "1/4",
+        "1/3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "20 atışın 5'inde '3' gelmiştir. Deneysel olasılık = 5/20'dir. Bu kesir 5 ile sadeleştirildiğinde 1/4 elde edilir."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "Hilesiz bir zar atıldığında '3' gelmesinin TEORİK olasılığı kaçtır?",
+      "answers": [
+        "1/6",
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Zarın 6 yüzü vardır ve '3' rakamı sadece bir yüzde bulunur. Matematiksel olarak teorik olasılık her zaman 1/6'dır."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "Bir deneydeki deneme sayısı (atış, çekiliş vb.) arttıkça, deneysel olasılık değeri hangi olasılık değerine yaklaşır?",
+      "answers": [
+        "Sıfıra (İmkansız Olaya)",
+        "Bire (Kesin Olaya)",
+        "Teorik Olasılık Değerine",
+        "Rastgele bir değere"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Büyük sayılar kanununa göre, bir deney çok fazla sayıda tekrarlandığında elde edilen deneysel olasılık, o olayın teorik olasılığına yaklaşır."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "Bir basketbolcu antrenmanda kullandığı 50 serbest atışın 40'ını isabete çevirmiştir. Bu basketbolcunun maçta kullanacağı ilk serbest atışı isabete çevirme olasılığı (deneysel olasılığı) yüzde kaçtır?",
+      "answers": [
+        "%40",
+        "%50",
+        "%80",
+        "%100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Deneysel olasılık = 40/50'dir. Yüzdeye çevirmek için kesri 2 ile genişletiriz: 80/100, yani %80'dir."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "Bir fabrikada üretilen 200 ampulden 10 tanesinin bozuk olduğu tespit edilmiştir. Bu fabrikadan rastgele seçilecek bir ampulün SAĞLAM olma olasılığı (geçmiş verilere göre) kaçtır?",
+      "answers": [
+        "1/20",
+        "1/10",
+        "19/20",
+        "9/10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "200 ampulden 10'u bozuksa 190'ı sağlamdır. Sağlam olma deneysel olasılığı = 190 / 200'dür. Sıfırlar sadeleştiğinde 19/20 olur."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "Bir kaleci kendisine çekilen son 25 şutun 20'sini kurtarmıştır. Bu kalecinin kendisine çekilecek sıradaki şutu KURTARAMAMA (gol yeme) deneysel olasılığı kaçtır?",
+      "answers": [
+        "1/5",
+        "1/4",
+        "4/5",
+        "5/5"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "25 şutun 20'sini kurtardıysa 5'ini kurtaramamıştır (gol yemiştir). Kurtaramama deneysel olasılığı = 5/25'tir. 5 ile sadeleştirildiğinde 1/5 bulunur."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "Ayşe bir zarı 60 kez atıyor ve 15 kez 'çift sayı' geldiğini not ediyor. Çift sayı gelmesinin deneysel olasılığı ile teorik olasılığı arasındaki fark kaçtır?",
+      "answers": [
+        "1/4",
+        "1/6",
+        "1/2",
+        "1/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Deneysel olasılık = 15/60 = 1/4'tür. Zar atışında çift sayı gelmesinin teorik olasılığı = 3/6 = 1/2'dir. Fark: 1/2 - 1/4 = 2/4 - 1/4 = 1/4'tür."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "Bir madeni para atma deneyinde paranın yazı gelmesinin teorik olasılığı 1/2'dir. Ahmet bu parayı 100 kez attığında 45 kez tura, 55 kez yazı gelmiştir. Ahmet deneyi 1000 kez yapsaydı, yazı gelme olasılığı hakkında ne söylenebilirdi?",
+      "answers": [
+        "Kesinlikle tura sayısından daha az olurdu.",
+        "Teorik olasılıktan (1/2'den) daha da uzaklaşırdı.",
+        "Deneysel olasılık, 1/2'ye (teorik olasılığa) çok daha yakın bir değer olurdu.",
+        "Deneysel olasılık her zaman 1/2 olarak sabit kalırdı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Deney sayısı ne kadar artarsa (100'den 1000'e), elde edilen deneysel olasılık değeri teorik olasılığa (1/2'ye) o kadar yaklaşır."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Aşağıdaki durumlardan hangisinde deneysel olasılık KULLANILAMAZ?",
+      "answers": [
+        "Bir madeni paranın 50 kez atılması sonucunda tura gelme ihtimalinin hesaplanması",
+        "Bir futbolcunun penaltı atışlarındaki isabet oranının bulunması",
+        "Hava durumu tahminleri yapılarak yarın yağmur yağma ihtimalinin söylenmesi",
+        "İçinde ne olduğu tam bilinen ve her topun eşit şansa sahip olduğu şeffaf kutudan top çekilmesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Kutunun içi tam biliniyorsa ve her nesne eşit seçilme şansına sahipse burada matematiksel bir hesap olan 'teorik olasılık' kullanılır. Diğer şıklar gözlem ve deneye (geçmiş verilere) dayanır."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "Bir okçu hedefe 40 ok atmış ve 28 kez hedefi tam 12'den (merkezden) vurmuştur. Bu okçunun merkezden vurma olayının deneysel olasılığı yüzde kaçtır?",
+      "answers": [
+        "%50",
+        "%60",
+        "%70",
+        "%80"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Deneysel olasılık = 28 / 40'tır. Kesri 4 ile sadeleştirelim: 7 / 10. Yüzdeye çevirmek için 10 ile genişletelim: 70 / 100 = %70."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Bir madeni para art arda atıldığında tura gelmesinin deneysel olasılığı %60 olarak hesaplanmıştır. Eğer para 100 kez atılmış olsaydı kaç kez tura gelmiş olması beklenirdi?",
+      "answers": [
+        "40",
+        "50",
+        "60",
+        "100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Deneysel olasılık %60 ise, 100 atışlık bir deneyde tura gelme sayısının 60 olması beklenir."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "Hilesiz bir zarı 30 kez atan Can, zarın 10 kez '2' geldiğini görmüştür. '2' gelmesinin deneysel olasılığının, teorik olasılığına eşit olması için Can'ın deneyinde zar KAÇ KEZ '2' gelmeliydi?",
+      "answers": [
+        "5",
+        "6",
+        "10",
+        "15"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Zarın 2 gelmesinin teorik olasılığı 1/6'dır. 30 atışta teorik olarak (30 · 1/6) = 5 kez '2' gelmesi gerekirdi."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "Bir okuldaki öğrencilerin %15'i solaktır. Okuldan rastgele seçilecek bir öğrencinin solak olmama ihtimali (deneysel olasılığı) yüzde kaçtır?",
+      "answers": [
+        "%15",
+        "%75",
+        "%85",
+        "%100"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Tüm öğrencilerin tamamı %100'dür. Solak olanlar %15 ise, solak olmayanlar: %100 - %15 = %85'tir."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "Bir tekstil atölyesinde dikilen her 50 tişörtten 2 tanesinde dikiş hatası olduğu gözlemlenmiştir. Atölye bir ayda 5000 tişört üretirse, geçmiş verilere dayalı deneysel olasılığa göre kaç tişörtün hatalı çıkması beklenir?",
+      "answers": [
+        "100",
+        "200",
+        "400",
+        "500"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Hatalı çıkma deneysel olasılığı: 2 / 50'dir. 5000 tişört üretildiğinde beklenen hatalı sayısı: 5000 · (2 / 50). 5000'i 50'ye bölersek 100, 2 ile çarparsak 200 bulunur."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "Dört eş bölmeye ayrılmış ve farklı renklere boyanmış bir çark 100 kez çevrilmiştir. Çarkın 20 kez mavi, 30 kez sarı, 10 kez yeşil ve 40 kez kırmızıda durduğu not edilmiştir. Bu deneyde mavi renkte durmasının teorik olasılığı ile deneysel olasılığı arasındaki fark kaçtır?",
+      "answers": [
+        "1/10",
+        "1/20",
+        "1/5",
+        "1/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Teorik olasılık: 4 eş bölmeden 1'i mavi olduğu için 1/4'tür. Deneysel olasılık: 100 atışın 20'si mavi olduğu için 20/100 = 1/5'tir. Fark: 1/4 - 1/5. Paydaları 20'de eşitlersek: 5/20 - 4/20 = 1/20."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "Bir kavşakta bekleyen 50 arabanın 25'i beyaz, 15'i siyah ve 10'u gridir. O kavşaktan geçecek 51. arabanın siyah olma olasılığı (geçmiş gözlemlere dayanan deneysel olasılığa göre) yüzde kaçtır?",
+      "answers": [
+        "%15",
+        "%20",
+        "%30",
+        "%50"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Siyah araç deneysel olasılığı = 15/50'dir. Kesri yüzdeye çevirmek için 2 ile genişletiriz: (15·2) / (50·2) = 30/100, yani %30'dur."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "Zeynep, 'A' veya 'B' cevap seçenekleri olan bir anketi doldurmaktadır. Soruları okumadan rastgele cevaplayan Zeynep'in ilk 4 soruya art arda 'A' cevabı verme olasılığı TEORİK olarak hesaplanabilir mi?",
+      "answers": [
+        "Hesaplanamaz, sadece deney yapılarak bulunur.",
+        "Evet hesaplanabilir, çünkü A veya B seçme şansı her soruda matematiksel olarak 1/2'dir.",
+        "Hayır, kişisel tercihlere bağlıdır.",
+        "Sadece ilk soru için hesaplanabilir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Rastgele (eşit şansa sahip) seçim yapılan tüm durumlarda geçmiş verilere ihtiyaç duyulmadan matematiksel kurallara göre teorik olasılık hesaplanabilir."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "Bir hava durumu uygulamasında 'Eylül ayında İstanbul'a yağmur yağma olasılığı geçmişteki 10 yılın verilerine göre %40'tır' yazmaktadır. Bu olasılık türü aşağıdakilerden hangisine örnektir?",
+      "answers": [
+        "Teorik Olasılık",
+        "Deneysel Olasılık",
+        "Kesin Olay",
+        "İmkansız Olay"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Geçmişteki 10 yılın kayıtlı verilerine (gözlem/deney) dayanılarak yapılan olasılık hesapları deneysel olasılığa girer."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "Bir zar atma deneyinde bir zar 5 kez havaya atılıyor ve hepsinde '6' geliyor. 6. atışta yine '6' gelme TEORİK olasılığı kaçtır?",
+      "answers": [
+        "0 (İmkansız)",
+        "1/6",
+        "5/6",
+        "1 (Kesin)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Madeni para ve zar gibi olaylarda her atış birbirinden bağımsızdır ve önceki atışlar sonraki atışın teorik olasılığını etkilemez. '6' gelme teorik olasılığı daima 1/6'dır."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Kaan hedefe dart atarken 80 atışın 16'sını merkeze isabet ettirmiştir. Kaan 100 atış yapmış olsaydı deneysel olarak kaçını isabet ettirmesi beklenirdi?",
+      "answers": [
+        "16",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Deneysel olasılık = 16 / 80. Sadeleştirirsek 1/5 olur. 100 atış yapsaydı: 100 · (1/5) = 20 tanesini isabet ettirmesi beklenirdi."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Bir restoranda bir günde satılan 200 adet yemeğin 50 tanesi etli, 70 tanesi tavuklu, 80 tanesi sebzelidir. Ertesi gün restorana gelen ilk müşterinin tavuklu yemek sipariş etme olasılığı (deneysel olasılığa göre) kaçtır?",
+      "answers": [
+        "1/4",
+        "7/20",
+        "2/5",
+        "1/2"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Tavuklu yemek satış sayısı 70, toplam satılan yemek sayısı 200'dür. Deneysel olasılık = 70 / 200. Sıfırlar sadeleştiğinde 7/20 olur."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "Teorik olasılık ile deneysel olasılık arasındaki farkın kapanması (birbirine daha yakın sonuçlar vermesi) için ne yapılmalıdır?",
+      "answers": [
+        "Deney sayısı (atış, çekiliş vb.) azaltılmalıdır.",
+        "Deneydeki değişkenler (zar, para) tamamen değiştirilmelidir.",
+        "Deney sayısı (atış, çekiliş vb.) artırılmalıdır.",
+        "Deney sadece bir kez yapılmalıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 1,
+      "explanation": "Matematikte 'Büyük Sayılar Kanunu' olarak bilinen kurala göre, bir deneyin tekrar sayısı ne kadar artırılırsa, deneysel olasılık teorik olasılığa o kadar yaklaşır."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "Hatalı üretilmiş (hileli) bir madeni paranın tura gelme deneysel olasılığı 3/4 olarak ölçülmüştür. Bu para 1000 kez atıldığında, beklenen yazı gelme sayısı kaçtır?",
+      "answers": [
+        "250",
+        "500",
+        "750",
+        "1000"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Tura gelme olasılığı 3/4 ise yazı gelme olasılığı 1 - 3/4 = 1/4'tür. 1000 atışta yazı gelme sayısı: 1000 · (1/4) = 250 kez beklenir."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "Bir deneye ait veriler: 1. Zar atıldığında 6 gelme (Teorik). 2. Maçta gol atma (Deneysel). 3. Havaya atılan paranın dik durması (İmkansız). Buna göre, hangi olasılık türleri kesin olarak sadece matematiksel formüllerle belirlenir?",
+      "answers": [
+        "Sadece Deneysel Olasılık",
+        "Sadece Teorik Olasılık",
+        "Hem Deneysel Hem Teorik Olasılık",
+        "Hiçbiri belirlenemez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Sadece formüller, matematiksel sayılar ve eşit şansa sahip durumlarla hesaplanan olasılık türü Teorik Olasılıktır."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "Bir hastanede 1 yıl boyunca doğan 1000 bebekten 510'u erkek, 490'ı kız doğmuştur. Bu verilere dayanarak, hastanede doğacak sıradaki bebeğin erkek olma deneysel olasılığı kaçtır?",
+      "answers": [
+        "1/2",
+        "49/100",
+        "51/100",
+        "100/51"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veriden Olasılığa",
+      "difficulty": 2,
+      "explanation": "Verilere göre erkek doğma deneysel olasılığı 510 / 1000'dir. Sıfırları sadeleştirdiğimizde 51 / 100 bulunur."
+    },
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Hilesiz bir zar ve bir madeni para aynı anda 120 kez havaya atılıyor. Zarın çift sayı VE paranın tura gelmesi olayının TEORİK olasılığı kaçtır ve teorik olarak kaç kez bu olayın gerçekleşmesi beklenir?",
+      "answers": [
+        "Olasılık 1/2, Beklenen: 60",
+        "Olasılık 1/4, Beklenen: 30",
+        "Olasılık 1/6, Beklenen: 20",
+        "Olasılık 3/4, Beklenen: 90"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veriden Olasılığa",
+      "difficulty": 3,
+      "explanation": "Zarın çift gelme olasılığı 3/6 = 1/2'dir. Paranın tura gelme olasılığı 1/2'dir. İkisinin aynı anda gerçekleşme (veya) teorik olasılığı çarpımlarıdır: (1/2) · (1/2) = 1/4'tür. 120 atışta beklenen gerçekleşme sayısı: 120 · (1/4) = 30'dur."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Allah İnancı",
+  "questions": [
+    {
+      "id": "Q_5_1_001",
+      "questionText": "Zeynep, okul dönüşü yağmurun yağmasını ve mevsimlerin düzenli bir şekilde birbirini takip etmesini izlerken hayranlık duymuştur. Bu kusursuz düzen aşağıdakilerden hangisinin en net göstergesidir?",
+      "answers": [
+        "Doğa olaylarının tesadüfen gerçekleştiğinin",
+        "Evrende her şeyi yaratan ve düzenleyen bir gücün olduğunun",
+        "Mevsimlerin sadece Güneş'in hareketlerine bağlı olduğunun",
+        "Dünyanın kendi kendine bu düzeni sağladığının"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Evrendeki kusursuz işleyiş ve düzen, tesadüfle açıklanamaz; her şeyi bilen ve düzenleyen yüce bir yaratıcının varlığını gösterir."
+    },
+    {
+      "id": "Q_5_1_002",
+      "questionText": "Öğretmeni Ali'ye, 'Eğer bir gemide iki kaptan olsaydı, geminin rotası ne olurdu?' diye sormuştur. Ali, 'Kaptanlar anlaşamaz ve gemi batardı' cevabını vermiştir. Öğretmenin bu örneği hangi inancı açıklamak için verilmiştir?",
+      "answers": [
+        "Allah'ın her şeyi işitmesini",
+        "Allah'ın her şeyi bilmesini",
+        "Allah'ın bir ve tek olmasını (Tevhid)",
+        "Allah'ın çok merhametli olmasını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Evrende birden fazla yaratıcı olsaydı düzen bozulurdu. Bu örnek, Allah'ın bir ve tek olduğunu (Tevhid) anlatır."
+    },
+    {
+      "id": "Q_5_1_003",
+      "questionText": "Elif, sınava çok çalışmış ve girmeden önce ellerini açıp, 'Allah'ım, ben çabamı gösterdim, emeğimi boşa çıkarma' diyerek dua etmiştir. Elif'in bu davranışı aşağıdakilerden hangisine örnektir?",
+      "answers": [
+        "Sadece dua ederek başarıyı beklemeye",
+        "Tevekkül inancına uygun davranmaya",
+        "Kaderini kendi başına değiştirmeye",
+        "Çalışmadan karşılık ummaya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "İnsanın elinden gelen tüm gayreti gösterdikten sonra sonucunu Allah'a bırakıp O'na güvenmesine tevekkül denir."
+    },
+    {
+      "id": "Q_5_1_004",
+      "questionText": "İnsanın içinden geçirdiği sessiz yakarışları ve kalbinden geçen duaları bile Allah anında bilir. Bu durum Allah'ın hangi iki sıfatı ile doğrudan ilişkilidir?",
+      "answers": [
+        "Kudret ve Tekvin",
+        "İlim ve Semi",
+        "Basar ve Hayat",
+        "Kelam ve İrade"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "İçinden geçenleri bilmesi İlim (bilme), fısıltıları duyması ise Semi (işitme) sıfatının sonucudur."
+    },
+    {
+      "id": "Q_5_1_005",
+      "questionText": "Kur'an'da yer alan 'O, doğurmamış ve doğmamıştır. Hiçbir şey O'na denk ve benzer değildir.' ayetleri hangi surenin Türkçe anlamıdır?",
+      "answers": [
+        "Fatiha Suresi",
+        "Kevser Suresi",
+        "İhlas Suresi",
+        "Nas Suresi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Allah'ın birliğini, eşi ve benzeri olmadığını anlatan sure İhlas Suresi'dir."
+    },
+    {
+      "id": "Q_5_1_006",
+      "questionText": "Bir öğrenci mikroskopla hücreyi incelerken canlıların harika yaratıldığını fark etmiştir. Bu gözlem, Allah'ın 'eşsiz yaratıcı' olması anlamına gelen hangi ismine işaret eder?",
+      "answers": [
+        "el-Hâlık",
+        "es-Semi",
+        "el-Alîm",
+        "el-Basîr"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Allah'ın her şeyi eşsiz, benzersiz ve yoktan var edecek şekilde yaratmasına 'el-Hâlık' (Yaratıcı) denir."
+    },
+    {
+      "id": "Q_5_1_007",
+      "questionText": "Günlük hayatımızda yemeğe başlarken çektiğimiz 'Besmele'de geçen 'Rahman' ve 'Rahim' isimlerinin temel mesajı nedir?",
+      "answers": [
+        "Allah'ın her şeyi gördüğü",
+        "Allah'ın çok merhametli ve şefkatli olduğu",
+        "Allah'ın gücünün her şeye yettiği",
+        "Allah'ın her şeyi işittiği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Rahman ve Rahim isimleri, Allah'ın yarattığı tüm varlıklara karşı sonsuz bir şefkat ve merhamet sahibi olduğunu ifade eder."
+    },
+    {
+      "id": "Q_5_1_008",
+      "questionText": "Dua etmek, insanın Allah ile iletişim kurmasıdır. Aşağıdakilerden hangisi İslam'a göre duanın özelliklerinden biri olamaz?",
+      "answers": [
+        "İçten ve samimi bir şekilde yapılmalıdır.",
+        "Sadece zor zamanlarda başvurulmalıdır.",
+        "İstekler sadece Allah'tan beklenmelidir.",
+        "Hem kendimiz hem de başkaları için edilebilir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Dua sadece zor zamanlarda değil, mutlu anlarda da şükür amacıyla her zaman yapılmalıdır."
+    },
+    {
+      "id": "Q_5_1_009",
+      "questionText": "İhlas suresinde geçen 'Samed' kelimesinin anlamı aşağıdakilerden hangisinde doğru verilmiştir?",
+      "answers": [
+        "O'nun her şeyi bilmesi ve işitmesidir.",
+        "Her şeyin O'na muhtaç olması, O'nun hiçbir şeye muhtaç olmamasıdır.",
+        "O'nun affedici ve bağışlayıcı olmasıdır.",
+        "Kıyamet gününün tek sahibi olmasıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "Samed; Allah'ın hiçbir şeye ihtiyacı olmadığı, ancak tüm varlıkların O'na muhtaç olduğu anlamına gelir."
+    },
+    {
+      "id": "Q_5_1_010",
+      "questionText": "Haksızlığa uğrayan Kerem, durumu kimseye ispatlayamamış ama 'Kimse görmese de Allah her şeyi görüyor' diyerek rahatlamıştır. Kerem'in bu inancı Allah'ın hangi sıfatıyla ilgilidir?",
+      "answers": [
+        "Tekvin (Yaratma)",
+        "İrade (Dileme)",
+        "Basar (Görme)",
+        "Kelam (Konuşma)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Allah'ın karanlıkta veya aydınlıkta, açıkta veya gizlide olan her şeyi eksiksiz olarak görmesine 'Basar' denir."
+    },
+    {
+      "id": "Q_5_1_011",
+      "questionText": "Nasıl ki muazzam bir cami harika bir mimarın varlığını gösteriyorsa, Güneş'in bizi ısıtması ve gezegenlerin yörüngeleri de bize aşağıdakilerden hangisini kanıtlar?",
+      "answers": [
+        "Uzayın sonsuz bir boşluk olduğunu",
+        "İnsanın doğaya tam olarak hakim olduğunu",
+        "Evrenin eşsiz bir sanatkarı (Allah'ı) olduğunu",
+        "Düzenin zamanla kendi kendine geliştiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Sanat eseri sanatkarsız olamaz, evrendeki bu muazzam sanat da eşsiz sanatkar olan Allah'ın varlığını kanıtlar."
+    },
+    {
+      "id": "Q_5_1_012",
+      "questionText": "İslam inancına göre Hz. İbrahim, güneşi ve yıldızları gözlemlemiş, onların zamanla kaybolup gitmesinden yola çıkarak 'Ben batanları sevmem' demiş ve evreni yaratan tek bir güç olması gerektiğini bulmuştur. Hz. İbrahim neye ulaşmıştır?",
+      "answers": [
+        "Astroloji bilimini kurmaya",
+        "Gezegenlerin yönlerini bulmaya",
+        "Tevhid (Allah'ın birliği) inancına",
+        "Fizik kurallarını keşfetmeye"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "Hz. İbrahim, değişen varlıkların ilah olamayacağını düşünerek, aklıyla her şeyi yaratan tek bir Allah'ın (Tevhid) varlığını bulmuştur."
+    },
+    {
+      "id": "Q_5_1_013",
+      "questionText": "Aşağıdakilerden hangisi Allah'ın 'Kudret' (Güç yetirme) sıfatının evrendeki yansımalarından biri olarak gösterilemez?",
+      "answers": [
+        "Gezegenlerin yörüngeden çıkmadan dönmesi",
+        "Kupkuru topraktan bitkilerin çıkması",
+        "İnsanların kendi iradeleriyle hata yapması",
+        "Okyanuslardaki milyonlarca canlının yaşaması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "İnsanların hata yapması onların kendi özgür iradelerinden kaynaklanır. Diğerleri Allah'ın sonsuz gücünün (Kudret) eseridir."
+    },
+    {
+      "id": "Q_5_1_014",
+      "questionText": "Hasan Amca tarlasını en iyi şekilde sürer, tohumunu eker, suyunu verir ve 'Rabbim sen bereketli kıl' diyerek dua eder. Hasan Amca'nın bu tutumu İslam'da hangi kavramla ifade edilir?",
+      "answers": [
+        "Şükür",
+        "Tevekkül",
+        "İhlas",
+        "Tevhid"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Kişinin elinden gelen tüm maddi çabayı gösterdikten sonra sonucu Allah'tan beklemesine tevekkül denir."
+    },
+    {
+      "id": "Q_5_1_015",
+      "questionText": "Ayşe okulda çok kalabalık ve gürültülü bir koridorda içinden sessizce Allah'a dua etmiştir. Allah'ın bu duayı kabul etmesi, O'nun en çok hangi sıfatlarıyla ilgilidir?",
+      "answers": [
+        "Semi ve İlim",
+        "Basar ve Hayat",
+        "Tekvin ve Kudret",
+        "Kelam ve İrade"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Allah'ın sessiz fısıltıları bile işitmesi (Semi) ve içimizden geçenleri eksiksiz bilmesi (İlim) sıfatlarıyla ilgilidir."
+    },
+    {
+      "id": "Q_5_1_016",
+      "questionText": "Ali, kantinde bulduğu parayı kimse görmese de 'Allah beni görüyor' diyerek sahibine ulaştırır. Ali'yi bu dürüst davranışa iten, Allah'ın hangi sıfatına olan inancıdır?",
+      "answers": [
+        "İrade",
+        "Kudret",
+        "Basar",
+        "Kelam"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Allah'ın her şeyi, en gizli olanı bile eksiksiz görmesi 'Basar' sıfatıdır."
+    },
+    {
+      "id": "Q_5_1_017",
+      "questionText": "Hz. İbrahim, putların tapılacak şeyler olmadığını göstermek için onları kırmış ve baltayı en büyük putun boynuna asmıştır. Hz. İbrahim bu eylemiyle insanlara neyi kanıtlamak istemiştir?",
+      "answers": [
+        "Putların çok değerli madenlerden yapıldığını",
+        "Baltanın ne kadar keskin olduğunu",
+        "Putların kendilerini bile korumaktan aciz olduğunu",
+        "En büyük putun diğerlerine ceza verdiğini"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "Kendini bile koruyamayan cansız heykellerin (putların) evreni yaratıp yönetemeyeceğini akıl yoluyla kanıtlamak istemiştir."
+    },
+    {
+      "id": "Q_5_1_018",
+      "questionText": "'O doğurmamış ve doğmamıştır.' ayeti (İhlas Suresi), Allah hakkında geçmişte yaşamış bazı toplumların taşıdığı hangi yanlış inancı kesin bir dille reddeder?",
+      "answers": [
+        "Allah'ın her şeyi bildiği inancını",
+        "Allah'ın bir çocuğu veya ailesi olduğu inancını",
+        "Allah'ın merhametli olduğu inancını",
+        "Allah'ın evreni yarattığı inancını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Bu ayet, Allah'a eş, çocuk veya anne-baba isnat eden (Yunan mitolojisi vb. gibi) tüm yanlış inançları reddeder."
+    },
+    {
+      "id": "Q_5_1_019",
+      "questionText": "Sokaktaki susuz kedilere su veren çocuğa dedesi 'Allah merhamet edenleri sever' der. İslam'da Allah'ın sınırsız merhametini ifade eden iki temel isim hangisidir?",
+      "answers": [
+        "Rahman ve Rahim",
+        "Alim ve Semi",
+        "Halık ve Basar",
+        "Kadir ve Samed"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Rahman (dünyada herkese merhamet eden) ve Rahim (ahirette inananlara merhamet eden) isimleri Allah'ın şefkatini belirtir."
+    },
+    {
+      "id": "Q_5_1_020",
+      "questionText": "İnsanlar köprüler, devasa binalar veya arabalar yaparlar ama tüm malzemeleri doğadan hazır alırlar. Allah ise her şeyi 'yoktan var eder'. Bu durum Allah'ın hangi isminin özelliğidir?",
+      "answers": [
+        "el-Basîr",
+        "el-Hâlık",
+        "es-Semi",
+        "el-Alîm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Allah'ın hiçbir malzeme ve örneğe ihtiyaç duymadan bir şeyi yoktan var etmesine el-Hâlık (Yaratıcı) denir."
+    },
+    {
+      "id": "Q_5_1_021",
+      "questionText": "Müslümanlar her namazda Fatiha Suresi'ni okurken 'Yalnız sana ibadet eder ve yalnız senden yardım dileriz' derler. Bu cümle İslam'daki hangi inancın en net özetidir?",
+      "answers": [
+        "Meleklere imanın",
+        "Kader inancının",
+        "Tevhid (Birlik) inancının",
+        "Ahiret inancının"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Sadece Allah'a kulluk edip yalnızca O'ndan yardım beklemek, Allah'ın bir ve tek (Tevhid) olduğunun kabulüdür."
+    },
+    {
+      "id": "Q_5_1_022",
+      "questionText": "Dünyanın Güneş'e olan uzaklığı tam olması gerektiği gibidir; biraz yakın olsa yanar, biraz uzak olsa donardık. Bu durum aşağıdakilerden hangisinin kanıtıdır?",
+      "answers": [
+        "Güneş'in Dünya'dan çok daha küçük olduğunun",
+        "Evrende tesadüf olmadığı, her şeyin hassas bir ölçüyle yaratıldığının",
+        "Mevsimlerin sadece rüzgarlarla değiştiğinin",
+        "Dünyanın evrendeki tek gezegen olduğunun"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Evrendeki bu hassas denge ve ölçü, kusursuz bir yaratıcının evreni bir plana göre tasarladığını gösterir."
+    },
+    {
+      "id": "Q_5_1_023",
+      "questionText": "Zalim bir kral olan Nemrut, Hz. İbrahim'i inancından vazgeçiremeyince onu devasa bir ateşe atmıştır. Fakat Allah'ın emriyle ateş onu yakmamış, serin olmuştur. Bu tarihi olay neyi gösterir?",
+      "answers": [
+        "Ateşin aslında yakıcı bir madde olmadığını",
+        "Hz. İbrahim'in ateşten hızlı koştuğunu",
+        "Allah'ın kudretinin doğa kanunlarının da üstünde olduğunu",
+        "Odunların yeterince kuru olmadığını"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "Doğa kanunlarını (ateşin yakmasını) yaratan Allah'tır ve O dilediğinde sonsuz gücüyle (Kudret) bu kanunları değiştirebilir."
+    },
+    {
+      "id": "Q_5_1_024",
+      "questionText": "Kardeşi hasta olan Zeynep, 'Allah'ım dünyadaki tüm hastalara ve kardeşime şifa ver' diye dua eder. Zeynep'in duasının İslam ahlakına uygun olmasının temel nedeni nedir?",
+      "answers": [
+        "Kısa ve öz bir dua olması",
+        "Sadece hastayken dua etmesi",
+        "Bencilce davranmayıp başkalarını da düşünerek dua etmesi",
+        "Sessiz bir şekilde dua etmesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "İslam'da duanın en güzel hallerinden biri (diğerkamlık), Müslümanın sadece kendisi için değil, diğer insanlar için de iyilik istemesidir."
+    },
+    {
+      "id": "Q_5_1_025",
+      "questionText": "'Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.' Bu ayetten (Bakara, 201) yola çıkarak dua ile ilgili hangi sonuç çıkarılamaz?",
+      "answers": [
+        "Sadece dünya hayatındaki zenginlikler için dua edilmelidir.",
+        "Hem bu dünya hem de ölümden sonrası için iyilik istenmelidir.",
+        "Allah'tan bizi kötülüklerden koruması istenmelidir.",
+        "Dua ederken sadece Allah'a sığınılmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Allah İnancı",
+      "difficulty": 3,
+      "explanation": "İslam'da dua sadece dünya menfaati için değil, ahiret mutluluğu (iki cihan saadeti) için dengeli bir şekilde yapılır."
+    },
+    {
+      "id": "Q_5_1_026",
+      "questionText": "Sonbaharda yaprakların dökülmesi, arıların bal yapması ve göçmen kuşların yönlerini bulması. Tüm bu olaylar Allah'ın hangi özelliği ile açıklanır?",
+      "answers": [
+        "Her şeyi tesadüflere bırakması",
+        "Sadece insanlara yardım etmesi",
+        "Evreni belli bir düzen ve yasaya göre yaratması",
+        "Doğaya hiç müdahale etmemesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Hayvanların içgüdüleri ve doğadaki döngüler, Allah'ın evrene koyduğu kusursuz düzenin ve yasaların bir parçasıdır."
+    },
+    {
+      "id": "Q_5_1_027",
+      "questionText": "Bir öğrenci, 'Neden rüzgara, Güneş'e veya ağaçlara değil de sadece Allah'a dua ediyoruz?' diye sorar. Öğretmeni 'Çünkü O, hiçbir şeye muhtaç değildir ama her şey O'na muhtaçtır' der. Öğretmen Allah'ın hangi ismini vurgulamıştır?",
+      "answers": [
+        "el-Alîm",
+        "es-Samed",
+        "el-Basîr",
+        "er-Rahman"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Güneş de ağaçlar da var olmak için Allah'a muhtaçtır. İhtiyaçları gideren ve hiçbir şeye muhtaç olmayan tek varlık 'Samed' olan Allah'tır."
+    },
+    {
+      "id": "Q_5_1_028",
+      "questionText": "Hz. Muhammed (s.a.v) bir hadisinde 'Dua ibadetin özüdür' buyurmuştur. Buna göre duanın insan hayatındaki en önemli işlevi nedir?",
+      "answers": [
+        "İnsanın çalışmadan istediklerine ulaşmasını sağlamak",
+        "Kişinin Allah ile bağını güçlendirip O'na olan güvenini artırmak",
+        "Sadece maddi sıkıntılardan kurtulmak",
+        "Başkalarına karşı üstünlük kurmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Dua, bir sihir değnek değildir. İnsanın yaratıcısıyla samimi bir bağ kurmasını ve acizliğini anlayıp O'na güvenmesini sağlar."
+    },
+    {
+      "id": "Q_5_1_029",
+      "questionText": "Bahar geldiğinde kupkuru ağaçların yeniden çiçek açması ve yeşermesi, Allah'ın ölüleri diriltmeye de gücünün yeteceğini gösterir. Bu örnek Allah'ın hangi sıfatıyla doğrudan bağlantılıdır?",
+      "answers": [
+        "Semi (İşitme)",
+        "Kelam (Konuşma)",
+        "Kudret (Güç yetirme)",
+        "Basar (Görme)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 2,
+      "explanation": "Kuru bir ağaca yeniden hayat vermek sonsuz bir güç gerektirir. Bu, Allah'ın her şeye gücünün yetmesi (Kudret) sıfatıdır."
+    },
+    {
+      "id": "Q_5_1_030",
+      "questionText": "Tarih boyunca gönderilen tüm peygamberlerin insanlara ulaştırmaya çalıştığı en temel ortak mesaj nedir?",
+      "answers": [
+        "Nasıl tarım yapılacağı",
+        "Hangi elbiselerin giyileceği",
+        "Sadece bir olan Allah'a (Tevhid) inanılıp kulluk edileceği",
+        "Savaş sanatlarının nasıl geliştirileceği"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Allah İnancı",
+      "difficulty": 1,
+      "explanation": "Hz. Adem'den Hz. Muhammed'e kadar tüm peygamberlerin temel amacı, insanları şirke düşmekten kurtarıp Tevhid (Bir olan Allah) inancına çağırmaktır."
+    }
+  ]
+}
