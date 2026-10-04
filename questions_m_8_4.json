@@ -187,16 +187,15 @@
       "id": "Q_8_4_014",
       "questionText": "Aritmetik ortalaması 10 ve açıklığı 12 olan 4 tane pozitif tam sayının en büyük elemanı en çok kaç olabilir?",
       "answers": [
-        "20",
-        "22",
-        "25",
-        "28"
+        "17",
+        "18",
+        "19",
+        "20"
       ],
-      "correctAnswerIndex": 1,
-      "explanation": "Toplamları = 4 x 10 = 40'tır. En büyük elemanın en çok olması için diğer elemanların en küçük seçilmesi gerekir. En küçük pozitif tam sayı 1 alınırsa, açıklık 12 olduğundan en büyük sayı 1 + 12 = 13 olur... *Düzeltme: Açıklık en büyük ile en küçük farkıdır. En küçük 1 ise en büyük 13'tür. Ancak toplam 40 olmalı. Sayılar a, b, c, d olsun. b ve c en küçük 1 alınırsa a = 1, d = 13 olur. Toplamları 1+1+13 = 15 olur, 40 olması için üçüncü sayı 25 olmalı ama açıklık 12 idi, en büyük 13 olmalıydı çelişir.* \n\n*Yeniden düzenleme:* Sayıların toplamı 40'tır. En küçük sayı 1 ise en büyük sayı 1 + 12 = 13 olamaz çünkü açıklık 12'dir. En küçük sayı x ise en büyük sayı x + 12'dir. Diğer iki sayı da x alınırsa: x + x + x + (x+12) = 40 => 4x = 28 => x = 7'dir. En küçük sayı 7, en büyük sayı 7 + 12 = 19 olur. Eğer diğer sayılar 1 alınırsa: 1 + 1 + y + (y+12) = 40 => 2y = 26 => y = 13 olur, en büyük sayı 13 + 12 = 25 olur. Kontrol edelim: Sayılar 1, 1, 13, 25. Açıklık = 25 - 1 = 12 (yanlış, 24 olur). Doğrusu: En küçük a, en büyük a+12. Diğerleri b ve c. Toplamları 40. En büyük değer 22 olabilir (1, 5, 10, 22 için açıklık 21 olur. Doğru hesap: En büyük eleman 22 seçilirse en küçük 10 olur, açıklık 12'dir. Toplamları 1+7+10+22 = 40, ortalama 10, açıklık 12. En büyük eleman en çok 22'dir.)",
-      "correctAnswerIndex": 1,
+      "correctAnswerIndex": 2,
       "category": "Veri Analizi",
-      "difficulty": 3
+      "difficulty": 3,
+      "explanation": "Sayıların toplamı 4 x 10 = 40'tır. Sayılar küçükten büyüğe a, b, c, d olsun. Açıklık 12 ise d = a + 12'dir. Denklemde yerine koyarsak: a + b + c + (a + 12) = 40 => 2a + b + c = 28 olur. d'nin en büyük olması için a'nın alabileceği en büyük değeri bulmalıyız. b ve c en küçük a olabileceğinden, 4a ≤ 28 => a en çok 7 olabilir. a = 7 ise en büyük sayı d = 7 + 12 = 19 olur. (Sayı dizisi: 7, 7, 7, 19)"
     },
     {
       "id": "Q_8_4_015",
@@ -421,4 +420,6 @@
       "category": "Veri Analizi",
       "difficulty": 3,
       "explanation": "Sıcaklık değişiminin (dalgalanmanın) en az olması, verilerin birbirine çok yakın (homojen) olduğu anlamına gelir. Bu da en yüksek sıcaklık ile en düşük sıcaklık arasındaki farkın, yani 'açıklığın' en küçük olduğunu gösterir."
-    }
+     }
+  ]
+}
