@@ -1,0 +1,427 @@
+{
+  "unit": "Yaşayan Demokrasimiz",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "Tarihte demokrasinin ilk örneklerinin görüldüğü, vatandaşların doğrudan meclislerde oy kullanarak karar aldığı antik şehir devleti neresidir?",
+      "answers": [
+        "Roma",
+        "Atina (Antik Yunan)",
+        "Babil",
+        "Sparta"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Doğrudan demokrasinin ilk örnekleri Antik Yunan'da Atina şehir devletinde görülmüştür."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "Türkiye Cumhuriyeti'nde devletin temel niteliklerini belirleyen, yasaların üzerinde yer alan en üstün yasal metin nedir?",
+      "answers": [
+        "Belediye yönetmeliği",
+        "Anayasa",
+        "Genelge",
+        "Tüzük"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Ülkenin temel yasası ve en üstün kanunu Anayasa'dır."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Demokratik devletlerde güçler ayrılığı ilkesine göre devletin üç temel organı hangileridir?",
+      "answers": [
+        "Yasama - Yürütme - Yargı",
+        "Muhtarlık - Belediye - Valilik",
+        "Okul - Aile - Toplum",
+        "Padişah - Vezir - Ordu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Kuvvetler ayrılığı ilkesine göre erkler; Yasama (Meclis), Yürütme (Hükümet/Cumhurbaşkanı) ve Yargı (Mahkemeler) şeklindedir."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "Yasama yetkisi (kanun teklif etme ve çıkarma) Türkiye Cumhuriyeti'nde hangi kuruma aittir?",
+      "answers": [
+        "Türkiye Büyük Millet Meclisi (TBMM)",
+        "Anayasa Mahkemesi",
+        "Cumhurbaşkanlığı",
+        "Emniyet Genel Müdürlüğü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Kanun yapma yetkisi milleti temsil eden TBMM'ye aittir."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "Yargı yetkisi (bağımsız ve tarafsız mahkemeler) kime veya hangi kuruma verilmiştir?",
+      "answers": [
+        "Bakanlar kuruluna",
+        "Bağımsız ve tarafsız Türk mahkemelerine",
+        "Belediye başkanlarına",
+        "TBMM'ye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Anayasaya göre yargı yetkisi bağımsız mahkemelerce kullanılır."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "Aşağıdakilerden hangisi çocukların sahip olduğu temel haklardan biri DEĞİLDİR?",
+      "answers": [
+        "Eğitim alma hakkı",
+        "Sağlıklı yaşama ve barınma hakkı",
+        "Şirket yönetme ve vergi toplama hakkı",
+        "İfade ve düşünceyi açıklama hakkı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Şirket yönetmek ve vergi toplamak yetişkin vatandaşların ve kurumların sorumluluğudur."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "Demokratik seçimlerde oyların 'gizli' verilip 'açık' sayılmasının temel amacı nedir?",
+      "answers": [
+        "Seçimlerin baskıdan uzak, adil ve güvenli olmasını sağlamak",
+        "Kimlerin oy verdiğini herkese duyurmak",
+        "Seçimi zorlaştırmak",
+        "Oyların sayımını engellemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Gizli oy açık sayım ilkesi vatandaşın baskı altında kalmadan özgürce iradesini yansıtması içindir."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Ülkemizde yerel yönetimler (belediyeler ve muhtarlıklar) hangi yolla iş başına gelir?",
+      3,
+      "answers": [
+        "Kura çekilerek",
+        "Halkın katıldığı yerel seçimlerle",
+        "Merkezi hükümetin atamasıyla",
+        "Soyaçekimle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Belediye başkanları ve muhtarlar yerel seçimlerde halk tarafından seçilir."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "Aşağıdakilerden hangisi sivil toplum kuruluşlarının (STK) özelliklerinden biri DEĞİLDİR?",
+      "answers": [
+        "Gönüllülük esasına göre çalışırlar.",
+        "Elde ettikleri kârı ortaklarına dağıtarak zenginleşmeyi hedeflerler.",
+        "Toplumsal sorunlara çözüm üretirler.",
+        "Resmi kurumlarla iş birliği yapabilirler."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "STK'lar kâr amacı güden ticari işletmeler değildir; toplumsal fayda sağlarlar."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "Türkiye'de çocuk haklarının korunması ve savunulması alanında uluslararası düzeyde iş birliği yapan BM kuruluşu hangisidir?",
+      "answers": [
+        "UNICEF",
+        "NATO",
+        "OPEC",
+        "IMF"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "UNICEF çocuk hakları ve eğitimi konusunda dünya genelinde faaliyet gösterir."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "Demokrasilerde azınlıkta kalan grupların haklarının güvence altına alınması hangi kavramla doğrudan ilişkilidir?",
+      "answers": [
+        "Hukukun üstünlüğü ve adalet",
+        "Çoğunluğun baskısı",
+        "Tek tipçilik",
+        "Monarşi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Gerçek demokrasi sadece çoğunluğun yönetmesi değil, azınlık haklarının da adaletle korunmasıdır."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "Aşağıdakilerden hangisi bir vatandaşın sahip olduğu temel hak ve ödevlerden biridir?",
+      "answers": [
+        "Seçme ve seçilme hakkı, vergi ödemek, askerlik yapmak",
+        "Sadece kendi kurallarını koymak",
+        "Kanunlara uymamak",
+        "Vergi vermekten kaçınmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Seçme-seçilme hak iken, vergi ödemek ve askerlik yapmak anayasal ödevlerdir."
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "Tarihte ilk yazılı anayasa niteliğindeki ilk belge olarak bilinen ve kralların yetkilerini kısıtlayan İngiliz belgesi hangisidir?",
+      "answers": [
+        "Magna Carta (Büyük Şart)",
+        "Kadeş Antlaşması",
+        "Fransız Bildirgesi",
+        "Sevr Antlaşması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "1215 yılında imzalanan Magna Carta ile İngiltere kralının yetkileri ilk kez sınırlandırılmıştır."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "Türkiye Cumhuriyeti Anayasası'na göre devletin şekli nedir?",
+      "answers": [
+        "Krallık",
+        "Cumhuriyettir",
+        "Oligarşi",
+        "İmparatorluk"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Anayasa'nın 1. maddesine göre Türkiye Devleti bir Cumhuriyettir."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "Demokratik bir toplumda medyanın (basının) varlığı ve özgürlüğü neden büyük önem taşır?",
+      "answers": [
+        "Halkı tarafsız bilgilendirmek ve yöneticileri denetlemek (kamuoyu oluşturmak) için",
+        "Halkı yanlış yönlendirmek için",
+        "Sadece eğlence programı yapmak için",
+        "Reklam gelirlerini artırmak için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Özgür basın dördüncü güç olarak halk adına denetim yapar."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Aşağıdakilerden hangisi sivil toplum kuruluşlarına (STK) örnek olarak gösterilebilir?",
+      "answers": [
+        "TEMA Vakfı, LÖSEV, Kızılay",
+        "İl Emniyet Müdürlüğü",
+        "Sağlık Bakanlığı",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "TEMA, LÖSEV ve Kızılay gönüllü sivil toplum kuruluşlarıdır."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "Bir kişinin haksızlığa uğradığında veya tüketici olarak mağdur olduğunda haklarını yasal yollarla aramasına ne denir?",
+      "answers": [
+        "Hak arama hürriyeti",
+        "Kanunsuzluk",
+        "Kendi adaletini sağlama",
+        "Boykot"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Hukuk devletinde vatandaşlar haklarını mahkemeler ve yasal kurumlar aracılığıyla arar (hak arama hürriyeti)."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "Türkiye'de yürütme yetkisi ve görevi kim tarafından yerine getirilir?",
+      "answers": [
+        "Cumhurbaşkanı",
+        "Yargıtay Başkanı",
+        "Meclis Başkanı",
+        "Muhtarlar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Anayasaya göre yürütme yetkisi Cumhurbaşkanına aittir."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "Çocuk haklarının dünya genelinde güvence altına alınması amacıyla Birleşmiş Milletler tarafından kabul edilen sözleşme yılı hangisidir?",
+      "answers": [
+        "1989",
+        "1923",
+        "1945",
+        "2000"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme 1989 yılında kabul edilmiştir."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Demokratik bir yönetimde seçimlerin belirli aralıklarla (düzenli olarak) tekrarlanmasının temel sebebi nedir?",
+      2,
+      "answers": [
+        "Halkın yöneticileri denetlemesi ve gerektiğinde değiştirebilmesi",
+        "Devletin masraf yapması",
+        "Seçimlerin sıkıcı olması",
+        "Yöneticilerin ömür boyu kalması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Düzenli seçimler halkın iradesinin yönetime yansımasını ve denetimi sağlar."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Aşağıdakilerden hangisi düşünce ve ifade özgürlüğü kapsamında değerlendirilemez?",
+      "answers": [
+        "Fikirlerimizi barışçıl yollarla gazete veya sosyal medyada yazmak",
+        "Başkalarına hakaret etmek ve iftira atmak",
+        "Bir konuda eleştiri yapmak",
+        "Resim sergisi açarak duygu aktarmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Özgürlük başkalarının haklarına zarar vermez; hakaret ve iftira suçtur."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Osmanlı Devleti'nde halkın yönetime ilk kez katıldığı, meşrutiyetin ilan edilmesiyle kurulan ilk parlamentonun adı nedir?",
+      "answers": [
+        "Meclis-i Mebusan",
+        "Divan-ı Hümayun",
+        "TBMM",
+        "Senato"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "1876 yılında Kanunî Esasi ile açılan ilk meclis Meclis-i Mebusan'dır."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "Aşağıdakilerden hangisi okulumuzda demokrasiyi yaşatmak için yapılan uygulamalardan biridir?",
+      "answers": [
+        "Sınıf başkanlığı seçimi yapmak ve kulüplerde görev almak",
+        "Kurallara hiç uymamak",
+        "Sadece öğretmen kararlarıyla yaşamak",
+        "Seçimleri yasaklamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Okul meclisleri ve sınıf seçimleri okul içi demokrasidir."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "Demokratik bir ülkede yasaların herkese eşit uygulanması hangi temel kavramla açıklanır?",
+      "answers": [
+        "Kanun önünde eşitlik (Hukuk devleti)",
+        "Ayrıcalıklı sınıf",
+        "Kişiye özel kural",
+        "Baskı rejimi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Hukuk devletinde herkes yasalar karşısında eşittir."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "Atatürk'ün 'Egemenlik kayıtsız şartsız milletindir' ilkesi devletin hangi yönetim biçiminin temelini oluşturur?",
+      "answers": [
+        "Cumhuriyet ve demokrasinin",
+        "Monarşinin",
+        "Otokrasinin",
+        "Saltanatın"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Milli egemenlik cumhuriyet rejiminin özüdür."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "Bir mahallede çocuk parkının yerine benzin istasyonu yapılacağını öğrenen mahalle sakinleri dilekçe yazarak belediyeye başvurmuş, seslerini duyurmak için basın açıklaması yapmıştır. Bu vatandaşların yaptığı bu eylem onların hangi özelliğe sahip olduğunu gösterir?",
+      "answers": [
+        "Aktif ve bilinçli birer demokratik vatandaş olduklarını",
+        "Kanun dışı hareket ettiklerini",
+        "Yerel yönetimlere karşı olduklarını",
+        "Haklarını bilmediklerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Yasal yollarla hak arama ve çevreye sahip çıkma etkin vatandaşlık bilincidir."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti Anayasası'nın değiştirilemeyecek ve değiştirilmesi teklif dahi edilemeyecek maddelerinden biridir?",
+      "answers": [
+        "Türkiye devletinin şeklinin Cumhuriyet olması",
+        "Başkentin neresi olduğu (Ankara)",
+        "Milli marşı (İstiklal Marşı)",
+        "Hepsi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Anayasanın ilk 3 maddesi (devletin şekli, nitelikleri, başkenti, bayrağı, marşı ve dili) değiştirilemez."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "Çocuk hakları sözleşmesine göre çocukların çalıştırılamayacağı ve sömürülemeyeceği kuralı neyi amaçlar?",
+      "answers": [
+        "Çocukların fiziksel ve zihinsel gelişimini korumayı ve eğitim almalarını sağlamayı",
+        "Çocukların çalışıp para kazanmasını",
+        "Ekonomiyi küçültmeyi",
+        "Eğitimi gereksiz kılmayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Çocuk işçiliğinin önlenmesi çocukların korunması içindir."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "Türkiye'de çıkarılan bir kanunun anayasaya aykırı olup olmadığını karara bağlayan yüksek mahkeme hangisidir?",
+      "answers": [
+        "Anayasa Mahkemesi",
+        "Yargıtay",
+        "Danıştay",
+        "Sayıştay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Anayasaya uygunluk denetimini Anayasa Mahkemesi yapar."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Demokratik bir toplumda uzlaşı kültürünün gelişmesi için bireylerin hangi tutumu benimsemesi gerekir?",
+      "answers": [
+        "Farklı fikirlere saygı duymak ve diyalog kurmak",
+        "Kendi fikrini tartışmasız dayatmak",
+        "Sorunları görmezden gelmek",
+        "Tartışmalardan kaçıp küsmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Uzlaşı ve diyalog demokratik kültürün temel taşlarıdır."
+    }
+  ]
+}

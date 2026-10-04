@@ -1,0 +1,425 @@
+{
+  "unit": "İstatiksel Araştırma Süreci",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "Verilerin zaman içindeki (örneğin gün, ay, yıl) artış veya azalış durumunu, değişim eğilimini göstermek için kullanılması en uygun olan grafik türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sütun Grafiği",
+        "Çizgi Grafiği",
+        "Daire Grafiği",
+        "Sıklık Tablosu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Sıcaklık, borsa, dolar kuru gibi zamanla değişen verilerin yükseliş ve düşüşlerini en iyi gösteren grafik 'çizgi grafiği'dir."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "Bir bütünün parçalarını, her bir parçanın bütüne olan oranını (yüzdesini veya açısını) göstermek için en uygun grafik türü hangisidir?",
+      "answers": [
+        "Daire Grafiği",
+        "Çizgi Grafiği",
+        "Sütun Grafiği",
+        "Ağaç Şeması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Seçim sonuçları, bütçe dağılımı gibi bir bütünün içindeki paylaşımları göstermek için 360 derecelik 'daire grafiği' kullanılır."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "Farklı kategorilerdeki verilerin miktarlarını birbiriyle karşılaştırmak (örneğin illere göre nüfus, markalara göre satış) için en uygun grafik türü hangisidir?",
+      "answers": [
+        "Çizgi Grafiği",
+        "Histogram",
+        "Daire Grafiği",
+        "Sütun Grafiği"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Farklı grupların veya nesnelerin miktarlarını yan yana koyarak karşılaştırmak için en uygun yöntem 'sütun grafiği'dir."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "Bir veri grubundaki değerler küçükten büyüğe sıralandığında tam ortada bulunan değere ne ad verilir?",
+      "answers": [
+        "Aritmetik Ortalama",
+        "Ortanca (Medyan)",
+        "Tepe Değer (Mod)",
+        "Açıklık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Sıralanmış veri dizisinin tam ortasında yer alan ve diziyi iki eşit yarıya bölen sayısal değere ortanca (medyan) denir."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Bir veri grubunda en çok tekrar eden (sıklığı en fazla olan) değere ne ad verilir?",
+      "answers": [
+        "Açıklık",
+        "Ortanca",
+        "Tepe Değer (Mod)",
+        "Ortalama"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Veri grubunda frekansı (tekrar sayısı) en yüksek olan değere 'tepe değer' veya 'mod' denir."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "12, 15, 12, 18, 20, 12, 16 veri grubunun tepe değeri (mod) kaçtır?",
+      "answers": [
+        "12",
+        "15",
+        "16",
+        "20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Grupta en çok tekrar eden sayı (3 kez ile) 12'dir."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "8, 14, 5, 20, 11 veri grubunun ortancası (medyanı) kaçtır?",
+      "answers": [
+        "5",
+        "11",
+        "12",
+        "14"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Ortancayı bulmak için önce sayılar sıralanır: 5, 8, 11, 14, 20. Tam ortadaki sayı 11'dir."
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "10, 20, 30, 40 veri grubunun ortancası (medyanı) kaçtır?",
+      "answers": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Veri sayısı çift (4 adet) olduğu için tam ortada sayı yoktur. Ortadaki iki sayının (20 ve 30) ortalaması alınır: (20 + 30) / 2 = 25."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "Bir veri grubunda çok büyük veya çok küçük (aşırı) bir değer (uç değer) bulunduğunda, grubun merkezini belirlemek için hangi ölçüyü kullanmak daha güvenilirdir?",
+      "answers": [
+        "Aritmetik Ortalama",
+        "Ortanca (Medyan)",
+        "Açıklık",
+        "Veri Genişliği"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Aritmetik ortalama aşırı uç değerlerden çok çabuk etkilenir. Bu yüzden uç değerlerin olduğu gruplarda ortanca (medyan) kullanmak, grubun merkezini daha gerçekçi yansıtır."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Bir daire grafiğinde %25'lik bir oranı göstermek için kullanılacak daire diliminin merkez açısı kaç derecedir?",
+      "answers": [
+        "25°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "%25, bütünün 1/4'ü (çeyreği) demektir. Tamamı 360° olan dairenin 1/4'ü: 360 / 4 = 90° olur."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "Daire grafiğinde merkez açısı 120° olan bir dilim, bütünün kaçta kaçını ifade eder?",
+      "answers": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "120° / 360° oranı sadeleştirildiğinde 1/3 elde edilir."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "Bir okuldaki 720 öğrencinin sınıflara göre dağılımı daire grafiğinde gösterilecektir. 5. sınıflarda 180 öğrenci olduğuna göre, 5. sınıfları gösteren dilimin merkez açısı kaç derecedir?",
+      "answers": [
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "180 öğrenci, 720 öğrencinin 1/4'üdür (180/720). Bu nedenle 360°'nin 1/4'ü olan 90° ile gösterilir."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "Aritmetik ortalaması 45 olan 4 sayıya 50 sayısı da eklenirse yeni ortalama kaç olur?",
+      "answers": [
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "4 sayının toplamı: 4 · 45 = 180. 50 eklendiğinde yeni toplam: 180 + 50 = 230. Sayı adedi 5 olur. 230 / 5 = 46."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "4, 6, x, 10, 12 veri grubunun ortancası ile aritmetik ortalaması birbirine eşittir. Veriler küçükten büyüğe sıralı olarak verildiğine göre x kaçtır?",
+      "answers": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Sıralı 5 veri var. Ortanca x'tir. Ortalama da x olmalıdır. Toplam = (32 + x) / 5 = x. Buradan 32 + x = 5x => 4x = 32 => x = 8 bulunur."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "Aşağıdaki veri gruplarından hangisinin TEPE DEĞERİ (Modu) yoktur?",
+      "answers": [
+        "2, 2, 4, 5",
+        "1, 3, 3, 3",
+        "7, 8, 9, 10",
+        "5, 5, 6, 6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Bir veri grubunda tüm değerler eşit sayıda tekrar ediyorsa (örneğin hepsi 1 kez yazılmışsa) o grubun tepe değeri yoktur."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "Bir şirketin 5 aylık kâr durumu çizgi grafiği ile gösterilecektir. Aylar yatay eksende, kâr miktarları dikey eksende yer alacaktır. Dikey eksendeki sayıların 0 yerine 10.000'den başlaması ve zikzak ile kesilmesi grafiği okuyan kişide nasıl bir algı yaratır?",
+      "answers": [
+        "Grafik daha anlaşılır ve net olur.",
+        "Aylar arasındaki küçük farklar abartılı (çok büyükmüş gibi) görünür.",
+        "Kâr oranının sıfır olduğu düşünülür.",
+        "Grafik okuyan kişinin algısı değişmez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Eksenin sıfırdan başlamayıp kesilmesi, sütunlar/çizgiler arasındaki küçük miktar farklarının görsel olarak çok dramatik algılanmasına yol açar (yanıltıcı grafik)."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Bir otoparktaki 120 aracın 40'ı beyaz, 30'u siyah, 50'si gridir. Bu veriler daire grafiğine aktarıldığında gri araçları gösteren merkez açı kaç derece olur?",
+      "answers": [
+        "90°",
+        "120°",
+        "150°",
+        "200°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Tamamı 120 araç, 360° ile gösterilir (Yani 1 araç = 3°). 50 gri araç = 50 · 3 = 150° ile gösterilir."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "Maaşı 18.000 TL olan bir işçinin aylık giderleri daire grafiğinde gösterilmiştir. Mutfak masrafını gösteren dilimin açısı 100° olduğuna göre işçi mutfağa kaç TL harcamaktadır?",
+      "answers": [
+        "4000",
+        "4500",
+        "5000",
+        "6000"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "360°'si 18.000 TL ise, 1°'si 50 TL'dir (18.000 / 360). 100° olan dilim: 100 · 50 = 5.000 TL'dir."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Bir anket çalışmasında sorulan 'Haftada kaç saat spor yapıyorsunuz?' sorusuna verilen cevaplar: 2, 4, 3, 2, 5, 20. Bu veri grubunun ortancası ile aritmetik ortalaması arasındaki fark kaçtır?",
+      "answers": [
+        "1,5",
+        "2",
+        "2,5",
+        "3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Verileri sıralayalım: 2, 2, 3, 4, 5, 20. Ortanca: (3 + 4) / 2 = 3,5'tir. Ortalama: (2+2+3+4+5+20)/6 = 36/6 = 6'dır. Fark: 6 - 3,5 = 2,5'tir."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "Ardışık 5 çift tam sayının aritmetik ortalaması 20'dir. Bu sayıların en küçüğü kaçtır?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Ardışık sayıların aritmetik ortalaması tam ortadaki sayıya (ortancaya) eşittir. Ortadaki 3. sayı 20'dir. Sayılar: 16, 18, 20, 22, 24 şeklindedir. En küçüğü 16'dır."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "Daire grafiği oluşturulurken her bir verinin merkez açısını hesaplamak için aşağıdakilerden hangisi kullanılır?",
+      "answers": [
+        "Verinin kendisi ile 360'ın çarpılması",
+        "Tüm verilerin toplamının 360'a bölünmesi",
+        "Verinin tüm toplama oranının 360 ile çarpılması",
+        "Verinin karesinin alınması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Merkez açı, verinin bütüne olan oranı (yüzdesi veya kesri) ile dairenin tam açısı olan 360°'nin çarpılmasıyla (doğru orantı) bulunur."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "Bir oteldeki turistlerin 15'i Alman, 20'si Rus, 25'i İngilizdir. İngiliz turistleri daire grafiğinde gösterecek olan merkez açı, Alman turistlerin merkez açısından kaç derece fazladır?",
+      "answers": [
+        "30°",
+        "40°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Toplam turist: 15 + 20 + 25 = 60 kişi. 60 kişi 360° ise, 1 kişi 6°'dir. İngiliz (25) ile Alman (15) arasındaki fark 10 kişidir. Açı farkı = 10 · 6° = 60°'dir."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Bir veri grubunda birden fazla tepe değer (mod) olabilir mi?",
+      "answers": [
+        "Hayır, bir grubun sadece bir tepe değeri olur.",
+        "Evet, en çok tekrar eden sayı birden fazlaysa grubun birden fazla tepe değeri olabilir.",
+        "Evet ama sayıların hepsi tepe değer olmak zorundadır.",
+        "Sadece veri sayısı çiftse mümkündür."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 1,
+      "explanation": "Örneğin; 2, 2, 5, 5, 8 grubunda 2 ve 5 sayıları aynı sayıda (2'şer kez) ve en çok tekrar ettikleri için iki tepe değer vardır."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "Bir fidanın 4 aylık boy uzama miktarları çizgi grafiğinde gösterilmiştir: 1. Ay 5 cm, 2. Ay 8 cm, 3. Ay 12 cm, 4. Ay 15 cm. Fidanın boyundaki en fazla artış hangi aylar arasında yaşanmıştır?",
+      "answers": [
+        "1. ve 2. aylar arasında",
+        "2. ve 3. aylar arasında",
+        "3. ve 4. aylar arasında",
+        "Sabit hızla uzamıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Artış miktarları: 1-2 arası = 3 cm. 2-3 arası = 4 cm. 3-4 arası = 3 cm. En fazla artış 4 cm ile 2. ve 3. aylar arasındadır (Çizgi grafiğinde eğimin en dik olduğu yer)."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "Aritmetik ortalaması 30 olan üç sayıya, kendileriyle aritmetik ortalaması 10 olan iki sayı ekleniyor. Oluşan 5 sayılık yeni grubun aritmetik ortalaması kaç olur?",
+      "answers": [
+        "20",
+        "22",
+        "25",
+        "40"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "İlk 3 sayının toplamı = 3 · 30 = 90. Eklenen 2 sayının toplamı = 2 · 10 = 20. Genel toplam = 90 + 20 = 110. Yeni ortalama = 110 / 5 = 22."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Hangi durumda bir veri grubunun tepe değeri (mod), ortanca (medyan) ve aritmetik ortalaması BİRBİRİNE EŞİT çıkar?",
+      "answers": [
+        "Verilerin hepsi birbirinden farklı olduğunda",
+        "Veri grubundaki sayılar tamamen aynı olduğunda",
+        "Açıklık değeri çok yüksek olduğunda",
+        "Asla eşit çıkmazlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 2,
+      "explanation": "Örneğin; 5, 5, 5, 5, 5 grubunda. Mod = 5, Medyan = 5, Ortalama = 5'tir."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Bir meyve bahçesinde üretilen elma, armut ve kiraz miktarları daire grafiğinde gösterilmiştir. Kiraz 90°, Armut 120° ile gösterilmiştir. Üretilen elma miktarı 150 ton olduğuna göre, bahçede toplam kaç ton meyve üretilmiştir?",
+      "answers": [
+        "200",
+        "240",
+        "300",
+        "360"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Elmanın merkez açısı: 360 - (90 + 120) = 150°'dir. 150°'lik açı 150 ton ile gösteriliyorsa (1 derece = 1 ton demektir), tamamı 360° olduğu için toplam 360 tondur."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "Bir şirketteki 9 personelin maaşları (bin TL) şöyledir: 17, 17, 18, 18, 18, 19, 19, 20, 100. Şirket müdürü, çalışanların maaşlarının yüksek olduğunu savunurken sizce personelin ortalama refahını BİLEREK YANLIŞ GÖSTERMEK için hangi istatistiksel veriyi kullanmıştır?",
+      "answers": [
+        "Açıklık",
+        "Tepe Değer (Mod)",
+        "Ortanca (Medyan)",
+        "Aritmetik Ortalama"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Şirketteki patron (100 bin TL) gibi bir uç değer olduğunda aritmetik ortalama aşırı yüksek çıkar (27 bin TL). Oysa çalışanların çoğu 17-19 bandındadır (Medyan=18). Müdür, bilerek ortalamayı (uç değerin etkisini) kullanarak durumu abartmıştır."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Bir öğrencinin girdiği 5 deneme sınavındaki netleri şöyledir: 70, 75, 80, x, 90. Bu verilerin medyanı (ortancası) 75 olduğuna göre, x tam sayısı en fazla kaç olabilir?",
+      "answers": [
+        "70",
+        "74",
+        "75",
+        "80"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Veriler sıralandığında 3. sayı 75 olmalıdır. Mevcut durum: 70, 75, 80, 90. Eğer x sayısı 75'ten büyük olsaydı (örn: 76), sıralama 70, 75, 76, 80, 90 olur ve medyan 76 çıkardı. Medyanın 75 kalması için x'in 75 veya daha küçük olması gerekir. En fazla 75 olabilir."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "Ağırlıkları ardışık çift tam sayılar olan 3 kardeşin ağırlıkları ortalaması 40 kg'dır. Kardeşlerin ağırlıklarının tepe değeri (modu) kaçtır?",
+      "answers": [
+        "38",
+        "40",
+        "42",
+        "Yoktur"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İstatiksel Araştırma Süreci",
+      "difficulty": 3,
+      "explanation": "Kardeşlerin ağırlıkları 38, 40 ve 42'dir (Ardışık çift sayılar). Hepsi birer kez tekrar ettiği için bu veri grubunun tepe değeri (modu) yoktur."
+    }
+  ]
+}

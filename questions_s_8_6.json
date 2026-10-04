@@ -1,0 +1,425 @@
+{
+  "unit": "Atatürk Dönemi Türk Dış Politikası",
+  "questions": [
+    {
+      "id": "Q_8_6_001",
+      "questionText": "Atatürk'ün dış politikasının temel sloganı olan ve barışçıl bir çizgide olduğumuzu gösteren ilke aşağıdakilerden hangisidir?",
+      "answers": [
+        "Yurtta sulh, cihanda sulh",
+        "Hakimiyet milletindir",
+        "Hayatta en hakiki mürşit ilimdir",
+        "Köylü milletin efendisidir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "'Yurtta sulh, cihanda sulh' (Yurtta barış, dünyada barış) ilkesi Atatürk'ün dış politikasının barışçıl, akılcı ve gerçekçi temelini oluşturur."
+    },
+    {
+      "id": "Q_8_6_002",
+      "questionText": "Türkiye, uluslararası barışa verdiği önemi göstererek hangi yıl Milletler Cemiyeti'ne (Cemiyet-i Akvam) üye olmuştur?",
+      "answers": [
+        "1923",
+        "1932",
+        "1936",
+        "1939"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "Türkiye, İspanya'nın teklifi ve Yunanistan'ın desteğiyle 1932 yılında Milletler Cemiyeti'ne davet edilmiş ve üye olmuştur."
+    },
+    {
+      "id": "Q_8_6_003",
+      "questionText": "Lozan Barış Antlaşması'nda Türkiye aleyhine çözülen ve daha sonra İngiltere ile imzalanan 1926 Ankara Antlaşması ile Irak sınırımıza dahil edilen (Ancak kaybedilen) önemli petrol bölgesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Musul",
+        "Kerkük",
+        "Musul ve Kerkük",
+        "Batum"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "1926 Ankara Antlaşması ile Misak-ı Millî'den ödün verilerek Musul ve Kerkük İngiltere mandasındaki Irak'a bırakılmıştır."
+    },
+    {
+      "id": "Q_8_6_004",
+      "questionText": "Boğazların egemenliğini Türkiye'ye tam olarak veren ve komisyonu kaldıran 1936 tarihli uluslararası sözleşme hangisidir?",
+      "answers": [
+        "Montrö Boğazlar Sözleşmesi",
+        "Lozan Barış Antlaşması",
+        "Balkan Paktı",
+        "Sadabad Paktı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "1936 yılında imzalanan Montrö Boğazlar Sözleşmesi ile Boğazlar Komisyonu kaldırılmış ve Boğazların yönetimi tamamen Türkiye'ye verilmiştir."
+    },
+    {
+      "id": "Q_8_6_005",
+      "questionText": "Türkiye'nin batı sınırını korumak ve güvenliğini sağlamak amacıyla 1934 yılında Yunanistan, Yugoslavya ve Romanya ile imzaladığı pakt hangisidir?",
+      "answers": [
+        "Sadabad Paktı",
+        "Balkan Paktı",
+        "NATO",
+        "Bağdat Paktı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "Balkan Paktı, İtalya ve Almanya'nın yayılmacı politikalarına karşı Türkiye'nin batı sınırlarını güvence altına almak için 1934'te imzalanmıştır."
+    },
+    {
+      "id": "Q_8_6_006",
+      "questionText": "Türkiye'nin doğu sınırlarını ve komşuluk ilişkilerini güvence altına almak amacıyla 1937 yılında İran, Irak ve Afganistan ile imzaladığı pakt hangisidir?",
+      "answers": [
+        "Balkan Paktı",
+        "Sadabad Paktı",
+        "Gümrü Antlaşması",
+        "Ankara Antlaşması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "Sadabad Paktı, Türkiye'nin doğu sınırlarının güvenliğini sağlamak için İran, Irak, Afganistan ve Türkiye arasında 1937'de imzalanmıştır."
+    },
+    {
+      "id": "Q_8_6_007",
+      "questionText": "Atatürk döneminde Türkiye ile Yunanistan arasında yaşanan 'Nüfus Mübadelesi' (Etabli) sorununun barışçıl yollarla çözülmesinde hangi liderin Türkiye'yi ziyareti büyük rol oynamıştır?",
+      "answers": [
+        "Venizelos",
+        "Mussolini",
+        "Hitler",
+        "Churchill"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Yunanistan Başbakanı Venizelos'un Ankara'yı ziyareti iki ülke arasındaki buzları eritmiş, 1930 Nüfus Mübadelesi Antlaşması imzalanmıştır."
+    },
+    {
+      "id": "Q_8_6_008",
+      "questionText": "Atatürk'ün dış politikasının temel özelliklerinden biri **değildir**?",
+      "answers": [
+        "Tam bağımsızlığı esas almak",
+        "Akılcı ve gerçekçi olmak",
+        "Yayılmacı ve saldırgan bir politika izlemek",
+        "Barışçıl çözümleri savunmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "Atatürk dış politikada asla yayılmacı (emperyalist) veya saldırgan olmamış, barışçıl ve savunmacı bir çizgi izlemiştir."
+    },
+    {
+      "id": "Q_8_6_009",
+      "questionText": "Fransa ile Türkiye arasında sorun olan ve Atatürk'ün 'Kırk asırlık Türk yurdu düşman elinde kalamaz' diyerek büyük önem verdiği, 1939 yılında anavatana katılan ilimiz hangisidir?",
+      "answers": [
+        "Musul",
+        "Kerkük",
+        "Hatay (Sancak)",
+        "Musul"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Hatay (Sancak) sorunu Atatürk'ün vefatından sonra 1939'da bağımsızlığını ilan edip ardından anavatana katılmasıyla çözülmüştür."
+    },
+    {
+      "id": "Q_8_6_010",
+      "questionText": "Yabancı okullar sorununda Türkiye Cumhuriyeti'nin en temel tavizsiz tutumu ne olmuştur?",
+      "answers": [
+        "Okulların tamamen kapatılması",
+        "Eğitim ve müfredatın Türk devletine ve milli kanunlara bağlanması, denetimin devlette olması",
+        "Okulların yönetimi Fransa'ya verilmesi",
+        "Yabancı dil öğretiminin yasaklanması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Türkiye, yabancı okulların iç işlerimize karışmasını engellemek için Tevhid-i Tedrisat Kanunu ile okulları milli eğitime bağlamış ve iç mesele olarak kabul etmiştir."
+    },
+    {
+      "id": "Q_8_6_011",
+      "questionText": "Osmanlı Devleti'nden kalan dış borçlar (Düyun-u Umumiye borçları) Atatürk döneminde hangi devletle imzalanan anlaşmayla çözüme kavuşturulmuştur?",
+      "answers": [
+        "Fransa",
+        "İngiltere",
+        "Sovyet Rusya",
+        "Yunanistan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Osmanlı borçlarının büyük kısmı Fransa ile olan müzakereler sonucunda taksitlendirilerek Türk Lirası cinsinden ödenmiştir."
+    },
+    {
+      "id": "Q_8_6_012",
+      "questionText": "Türkiye'nin Milletler Cemiyeti'ne üye olmasında hangi devletin tavrı ve desteği belirleyici olmuştur?",
+      "answers": [
+        "Yunanistan",
+        "İngiltere",
+        "Almanya",
+        "İtalya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Türk-Yunan dostluğunun nişanesi olarak Yunanistan Başbakanı Venizelos, Türkiye'nin Milletler Cemiyeti'ne katılması için öncülük etmiştir."
+    },
+    {
+      "id": "Q_8_6_013",
+      "questionText": "1926 yılında Türkiye ile Fransa arasında yaşanan ve Türk kaptan ile Fransız gemisinin çarpışmasıyla başlayan adalet krizi olarak bilinen olay hangisidir?",
+      "answers": [
+        "Bozkurt-Lotus Olayı",
+        "Nüfus Mübadelesi Krizi",
+        "Musul Sorunu",
+        "Yabancı Okullar Sorunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Bozkurt-Lotus Olayı'nda Türk adliyesinin yargılama yetkisi Mahmut Esat Bozkurt tarafından başarıyla savunulmuş, uluslararası alanda hukuk zaferi kazanılmıştır."
+    },
+    {
+      "id": "Q_8_6_014",
+      "questionText": "Atatürk döneminde dış politikada karşılaşılan sorunların çözümünde izlenen temel yöntem aşağıdakilerden hangisidir?",
+      "answers": [
+        "Savaş yoluyla toprakları genişletmek",
+        "Diplomasi, barışçıl müzakereler ve milletlerarası hukuk kurallarına uymak",
+        "Yabancı devletlerin himayesini kabul etmek",
+        "Sorunları görmezden gelmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 1,
+      "explanation": "Atatürk dönemi dış politikasında meseleler silahla değil, diplomatik yollarla, barışçıl müzakerelerle ve ulusal haklar gözetilerek çözülmüştür."
+    },
+    {
+      "id": "Q_8_6_015",
+      "questionText": "1930'lu yıllarda dünyada ve Avrupa'da Almanya ve İtalya'nın saldırgan politikalar izlemesi (yayılmacılık) Türkiye'yi hangi yönde adım atmaya yöneltmiştir?",
+      "answers": [
+        "Bölgesel barış ve güvenlik paktları kurmaya (Balkan Paktı ve Sadabad Paktı)",
+        "Yeni savaşlar başlatmaya",
+        "Silahlanmayı tamamen bırakmaya",
+        "Avrupa ile tüm ticareti kesmeye"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "İkinci Dünya Savaşı'nın yaklaşmakta olduğunu gören Türkiye, komşularıyla birlik olarak Balkan ve Sadabad paktlarını kurup sınırlarını güvenceye almıştır."
+    },
+    {
+      "id": "Q_8_6_016",
+      "questionText": "Lozan Antlaşması'nda çözülemeyen 'Yabancı Okullar Sorunu'nda Türkiye'nin dış devletlerin müdahalesini reddetmesinin temel gerekçesi nedir?",
+      "answers": [
+        "İç işlerimize yabancı devletlerin karışmasını önlemek ve tam bağımsızlık ilkesini korumak",
+        "Eğitimi tamamen kaldırmak",
+        "Okul binalarını yıkmak",
+        "Yabancı öğretmenleri idam etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Türkiye, yabancı okulların iç meselemiz olduğunu ve başka bir devletin bu konuda söz sahibi olamayacağını savunarak tam bağımsızlıktan taviz vermemiştir."
+    },
+    {
+      "id": "Q_8_6_017",
+      "questionText": "Hatay'ın anavatana katılması sürecinde Fransa ile yaşanan anlaşmazlıkta Milletler Cemiyeti'ne sunulan ve Türk çoğunluğunu kanıtlayan raporun adı nedir?",
+      "answers": [
+        "Sandler Raporu",
+        "Amiral Bristol Raporu",
+        "King-Crane Raporu",
+        "Mazhar Müfit Raporu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Hatay'da Türklerin çoğunlukta olduğunu tescil eden ve bölgenin bağımsızlığına zemin hazırlayan rapor İsveçli temsilci Sandler tarafından sunulmuştur (Sandler Raporu)."
+    },
+    {
+      "id": "Q_8_6_018",
+      "questionText": "Atatürk döneminde dış politikada tam bağımsızlık ilkesinin korunmasına en somut örnek olarak aşağıdakilerden hangisi gösterilebilir?",
+      "answers": [
+        "Kapitülasyonların kaldırılması ve yabancı okulların Türk kanunlarına tabi tutulması",
+        "Yabancı devletlerden borç alınması",
+        "Komşu ülkelerle askeri ittifaklar yapılması",
+        "Milletler Cemiyeti'ne üye olunması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Ekonomik ve hukuki bağımsızlığın simgesi olan kapitülasyonların kaldırılması ve iç işlerimize karışılmasına izin verilmemesi tam bağımsızlığın en somut kanıtıdır."
+    },
+    {
+      "id": "Q_8_6_019",
+      "questionText": "Türkiye'nin Montrö Boğazlar Sözleşmesi'ni imzalamasında dünyadaki hangi siyasi gelişme doğrudan etkili olmuştur?",
+      "answers": [
+        "İtalya'nın Habeşistan'ı işgali ve Almanya'nın Ren bölgesini silahlandırması (Avrupa'da savaş tehlikesinin artması)",
+        "Amerika'da ekonomik kriz çıkması",
+        "Asya'da yeni devletlerin kurulması",
+        "Rusya'da devrim olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "İtalya'nın Akdeniz'deki saldırgan tutumu ve Avrupa'da savaş rüzgarlarının esmesi, Türkiye'nin Boğazlar konusunda Milletler Cemiyeti'ne başvurarak sözleşmeyi lehimize yenilemesini sağlamıştır."
+    },
+    {
+      "id": "Q_8_6_020",
+      "questionText": "Yabancı okullar konusunda Türkiye'ye en çok nota veren ve sorun çıkaran devlet hangisi olmuştur?",
+      "answers": [
+        "Fransa",
+        "İngiltere",
+        "İtalya",
+        "Yunanistan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Türkiye'de en çok okulu bulunan Fransa, çıkarılan kanunlara ve Türkçe eğitim zorunluluğuna en çok karşı çıkan devlet olmuştur."
+    },
+    {
+      "id": "Q_8_6_021",
+      "questionText": "1932 yılında Milletler Cemiyeti'ne üye olan Türkiye hakkında İspanya delegesinin söylediği sözde hangi özellik vurgulanmıştır?",
+      "answers": [
+        "Türkiye'nin barışçı kimliği ve uluslararası itibarı",
+        "Askeri gücünün büyüklüğü",
+        "Ekonomik zenginliği",
+        "Yabancı devletlere bağımlı olduğu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "İspanya temsilcisi Türkiye'nin barış politikasına övgüler düzerek cemiyete davet edilmesini önermiştir."
+    },
+    {
+      "id": "Q_8_6_022",
+      "questionText": "Aşağıdakilerden hangisi Atatürk dönemi Türk dış politikasının dayandığı temel esaslardan biri **değildir**?",
+      "answers": [
+        "Akılcılık ve gerçekçilik",
+        "Milli güce dayanmak",
+        "Yayılmacı ve fetihçi zihniyet",
+        "Mütekabiliyet (karşılıklılık) ilkesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Atatürk dış politikasında asla yayılmacı (fetihçi) bir anlayış bulunmaz; aksine barışçı ve var olan milli sınırları koruma esastır."
+    },
+    {
+      "id": "Q_8_6_023",
+      "questionText": "Nüfus Mübadelesi (Etabli) sorununda İstanbul'daki Rumlar ile Batı Trakya'daki Türklerin durumu nasıl karara bağlanmıştır?",
+      "answers": [
+        "Yerleşik (etabli) sayılmalarına ve yerlerinde kalmalarına karar verilmiştir.",
+        "Tamamının sınır dışı edilmesine karar verilmiştir.",
+        "Mallarına el konulmuştur.",
+        "Avrupa'ya gönderilmişlerdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "1930 Antlaşması ile İstanbul Rumları ile Batı Trakya Türkleri yerleşik (etabli) kabul edilerek göçe tabi tutulmamış, sorun çözülmüştür."
+    },
+    {
+      "id": "Q_8_6_024",
+      "questionText": "Balkan Paktı'na katılmayan Balkan devletleri hangileridir?",
+      "answers": [
+        "Bulgaristan ve Arnavutluk",
+        "Yunanistan ve Romanya",
+        "İngiltere ve Fransa",
+        "İran ve Irak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Bulgaristan (önceki savaşlardan kalma toprak istekleri yüzünden) ve Arnavutluk Balkan Paktı'na katılmamıştır."
+    },
+    {
+      "id": "Q_8_6_025",
+      "questionText": "Sadabad Paktı'na üye olan devletler hangi coğrafi bölgenin güvenliğini sağlamayı amaçlamıştır?",
+      "answers": [
+        "Orta Doğu / Türkiye'nin güney ve doğu sınırları",
+        "Balkanlar",
+        "İskandinav ülkeleri",
+        "Kuzey Afrika"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Sadabad Paktı, Türkiye, İran, Irak ve Afganistan arasında imzalanarak Orta Doğu ve komşu sınırların güvenliğini amaçlamıştır."
+    },
+    {
+      "id": "Q_8_6_026",
+      "questionText": "Bozkurt-Lotus Olayı'nda Fransa ile Türkiye arasında yaşanan hukuki anlaşmazlığı hangi uluslararası mahkeme Türkiye lehine sonuçlandırmıştır?",
+      "answers": [
+        "Lahey Adalet Divanı (Uluslararası Adalet Divanı)",
+        "Milletler Cemiyeti Konseyi",
+        "Avrupa İnsan Hakları Mahkemesi",
+        "Berlin Mahkemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Lahey Adalet Divanı'nda Türkiye'yi başarıyla temsil eden Mahmut Esat Bozkurt, Türk adliyesinin haklılığını tescil ettirmiştir."
+    },
+    {
+      "id": "Q_8_6_027",
+      "questionText": "Atatürk döneminde dış politika oluşturulurken iç politika ile ilişkisi nasıl kurulmuştur?",
+      "answers": [
+        "İç politika dış politikayı belirlemiş, dış politika iç barışı ve ekonomik kalkınmayı koruma aracı olarak görülmüştür.",
+        "İç politika ile dış politika tamamen zıt olmuştur.",
+        "Dış politika iç politikayı baskı altında tutmuştur.",
+        "Sadece askeri harcamalara odaklanılmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Atatürk, dış politikada başarılı olmak için iç istikrarın şart olduğunu ve dış politikanın ülkenin kalkınmasına hizmet etmesi gerektiğini savunmuştur."
+    },
+    {
+      "id": "Q_8_6_028",
+      "questionText": "Aşağıdaki gelişmelerden hangisi kronolojik olarak **en önce** gerçekleşmiştir?",
+      "answers": [
+        "Türkiye'nin Milletler Cemiyeti'ne üye olması (1932)",
+        "Balkan Paktı'nın imzalanması (1934)",
+        "Montrö Boğazlar Sözleşmesi (1936)",
+        "Sadabad Paktı'nın imzalanması (1937)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Kronoloji sırasıyla: Milletler Cemiyeti'ne üyelik (1932) en baştadır."
+    },
+    {
+      "id": "Q_8_6_029",
+      "questionText": "Atatürk'ün dış politikasında 'gerçekçilik' ilkesi neyi ifade eder?",
+      "answers": [
+        "Ulaşılması imkânsız hayallerin peşinden koşmamak, ülkenin gücünü ve dünya şartlarını doğru analiz ederek hareket etmek",
+        "Yalnızca komşu ülkelerle savaşmak",
+        "Büyük devletlerin emirlerine uymak",
+        "Ekonomiyi tamamen dışa açmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 2,
+      "explanation": "Gerçekçilik (realizm), hayalperest politikalardan (örneğin Osmanlı'yı yeniden kurma hayali gibi) uzak durup mevcut güce ve şartlara göre politika izlemektir."
+    },
+    {
+      "id": "Q_8_6_030",
+      "questionText": "Atatürk dönemi dış politikasının en büyük başarısı ve mirası aşağıdakilerden hangisiyle özetlenebilir?",
+      "answers": [
+        "İkinci Dünya Savaşı'nın eşiğindeki dünyada barışı koruyarak Türkiye'nin sınırlarını, egemenliğini ve tam bağımsızlığını başarıyla muhafaza etmesi",
+        "Dünyanın en büyük imparatorluğunu yeniden kurması",
+        "Tüm Avrupa'yı fethetmesi",
+        "Silahlanma yarışında lider olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk Dönemi Türk Dış Politikası",
+      "difficulty": 3,
+      "explanation": "Atatürk'ün barışçıl ve akılcı dış politikası sayesinde Türkiye, II. Dünya Savaşı'nın kıyısındaki dünyada ülkeyi barış içinde tutmuş ve bağımsızlığını korumuştur."
+    }
+  ]
+}

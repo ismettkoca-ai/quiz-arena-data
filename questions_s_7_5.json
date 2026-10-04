@@ -1,0 +1,425 @@
+{
+  "unit": "Hayatımızdaki Ekonomi",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "Türkiye'de ekonomik faaliyetlerin bölgesel olarak çeşitlilik göstermesinde en önemli etken aşağıdakilerden hangisidir?",
+      "answers": [
+        "İklim, yeryüzü şekilleri ve coğrafi konum",
+        "Sadece nüfus miktarı",
+        "Ülkenin yüz ölçümü",
+        "Siyasi seçimler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Coğrafi koşullar, iklim ve yer şekilleri bir bölgedeki ekonomik faaliyetleri doğrudan belirler."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Türkiye'de kırsal kesimden büyük şehirlere göç eden kişilerin iş bulma süreçlerini kolaylaştırmak ve ülke ekonomisine katkı sağlamak için en etkili devlet politikası hangisidir?",
+      "answers": [
+        "Mesleki eğitim kursları açmak ve nitelikli insan gücünü artırmak",
+        "Büyük şehirleri kapatmak",
+        "Göçü tamamen yasaklamak",
+        "Fabrikaları köylere taşımayı asla düşünmemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Nitelikli insan gücü yetiştirmek ve mesleki eğitim vermek istihdamı artırır."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "Ülkemizde tarımsal üretimi artırmak ve çiftçilere finansal destek sağlamak amacıyla kurulan köklü devlet bankası aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ziraat Bankası",
+        "Merkez Bankası",
+        "İller Bankası",
+        "Dünya Bankası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Ziraat Bankası çiftçileri desteklemek için kurulmuş köklü bir kuruluştur."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "Bir ülkenin başka ülkelerden mal satın alması (dış alım) ekonomik literatürde hangi kavramla ifade edilir?",
+      "answers": [
+        "İthalat",
+        "İhracat",
+        "Enflasyon",
+        "Devalüasyon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Dışarıdan mal alımı ithalat (import), dışarıya mal satımı ihracattır."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "Aşağıdakilerden hangisi bilinçli bir tüketicinin alışveriş esnasında yapması gereken davranışlardan biridir?",
+      "answers": [
+        "Garanti belgesini onaylatmak ve fiş/fatura almak",
+        "Etiketsiz ve garantisiz ürünleri tercih etmek",
+        "İhtiyacı olmayan lüks ürünleri borçlanarak almak",
+        "Alışveriş listesi yapmamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Fiş, fatura ve garanti belgesi almak yasal hakların korunması için şarttır."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "Türkiye'de GAP (Güneydoğu Anadolu Projesi) tamamlandığında bölgede en çok hangi ekonomik alanda devrim niteliğinde bir gelişme yaşanmıştır?",
+      "answers": [
+        "Sulama sayesinde tarımsal çeşitlilik ve rekoltede büyük artış",
+        "Deniz balıkçılığında patlama",
+        "Tropikal meyve ihracatında liderlik",
+        "Kış turizminin merkezi olma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "GAP ile Güneydoğu Anadolu'da sulanan alanlar artmış, tarım ve ürün çeşitliliği gelişmiştir."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "Devletin ekonomik kalkınmayı sağlamak, yatırımları planlamak ve bölgeler arası gelişmişlik farkını kapatmak için hazırladığı ekonomik stratejilere ne ad verilir?",
+      "answers": [
+        "Kalkınma projeleri (Bölgesel kalkınma projeleri)",
+        "Özel eğlence planları",
+        "Tüketim projeleri",
+        "İthalat programları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "GAP, DOKAP, KOP gibi projeler bölgesel kalkınma projeleridir."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "Aşağıdakilerden hangisi dijital çağda ekonomik faaliyetlerin yürütülmesinde kullanılan yeni nesil yöntemlerden biridir?",
+      "answers": [
+        "E-ticaret ve internet bankacılığı",
+        "Sadece takas usulü ticaret",
+        "Posta güverciniyle sipariş",
+        "Elden nakit ödeme zorunluluğu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "İnternet üzerinden yapılan alışverişler e-ticareti oluşturur."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "Tüketici hakları konusunda sorun yaşayan bir vatandaşın başvurabileceği yasal hak arama mercii aşağıdakilerden hangisidir?",
+      "answers": [
+        "Tüketici Hakem Heyeti / Tüketici Mahkemeleri",
+        "Spor kulüpleri",
+        "Muhtarlık",
+        "Askeri karargah"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Tüketici uyuşmazlıkları Hakem Heyetleri ve mahkemelerce çözülür."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "Bir ülkenin ihraç ettiği ürünlerin (sattığı) çeşitliliğinin fazla olması ekonomisini nasıl etkiler?",
+      "answers": [
+        "Dışa bağımlılığı azaltır, ülke ekonomisini güçlendirir ve döviz girdisini artırır",
+        "Ekonomiyi tamamen çökertir",
+        "İşsizliği artırır",
+        "Ülkeyi borç batağına sürükler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "İhracatın çeşitlenmesi ve artması güçlü ekonominin göstergesidir."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "Aşağıdakilerden hangisi Türkiye'nin turizm gelirlerini artırmak için sahip olduğu doğal ve tarihi değerlerden biri DEĞİLDİR?",
+      "answers": [
+        "Antarktika buzulları",
+        "Kapadokya peri bacaları",
+        "Efes antik kenti",
+        "Pamukkale travertenleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Antarktika Türkiye'de değildir."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "Osmanlı döneminde esnaf ve zanaatkarların yetiştiği, mesleki ahlakın ve dayanışmanın öğretildiği kurum hangisidir?",
+      "answers": [
+        "Ahilik Teşkilatı",
+        "Borsa",
+        "Sendika",
+        "Holding"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Ahilik teşkili Türk-İslam tarihinde esnaf eğitiminin ve ahlakının merkezidir."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "Ülkemizde orman varlığının en fazla olduğu Karadeniz bölgesinde hangi sanayi kolünün gelişmesi beklenir?",
+      "answers": [
+        "Kereste, kağıt ve mobilya sanayi",
+        "Petrol arıtma sanayi",
+        "Hurma işleme sanayi",
+        "Halı dokuma sanayi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Orman zenginliği kereste ve kağıt sanayisini geliştirir."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Bir kişinin gelecekteki güvencesi veya yatırımı için gelirinin bir kısmını harcamayarak biriktirmesine ne ad verilir?",
+      "answers": [
+        "Tasarruf",
+        "İsraf",
+        "Borçlanma",
+        "Tüketim çılgınlığı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Geleceğe yönelik birikim yapmak tasarruftur."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "Aşağıdakilerden hangisi ekonomik yatırımlarda devletin öncülük etmesini gerektiren durumlardan biridir?",
+      "answers": [
+        "Özel sektöre mali olarak çok büyük gelen ve ülkenin kalkınması için şart olan büyük altyapı projeleri (barajlar, demiryolları)",
+        "Sadece küçük kafeterya açmak",
+        "Kıyafet üretimi yapmak",
+        "Gıda marketi zinciri kurmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Büyük altyapı projelerini devletçi ekonomi politikası veya kamu yatırımları üstlenir."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "Küresel ekonomide ülkeler arası ticaretin ve sermaye akışının serbestleşmesine ne ad verilir?",
+      "answers": [
+        "Küreselleşme",
+        "İzolasyon",
+        "Kapanmacılık",
+        "Yerlicilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Dünyanın ekonomik olarak bütünleşmesi küreselleşmedir."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "Aşağıdaki mesleklerden hangisi doğrudan 'hizmet sektörü' içinde yer alır?",
+      "answers": [
+        "Öğretmen / Doktor / Turizm Rehberi",
+        "Madenci",
+        "Çiftçi",
+        "Fabrika işçisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Eğitim, sağlık ve turizm hizmet sektörüdür."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "Tüketicilerin satın aldıkları gıda ve teknolojik ürünlerde araması gereken ulusal kalite standardı damgası hangisidir?",
+      "answers": [
+        "TSE ve CE işareti",
+        "Tarihi eser damgası",
+        "Kargo barkodu",
+        "Trafik levhası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "TSE ve CE standart uygunluk işaretleridir."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Bir ülkede ithalatın ihracattan fazla olması ekonomik olarak neyi gösterir?",
+      "answers": [
+        "Dış ticaret açığı verildiğini",
+        "Dış ticaret fazlası olduğunu",
+        "Ülkenin çok zenginleştiğini",
+        "Sanayinin çok geliştiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Alınan mal satılan maldan fazlaysa dış ticaret açığı oluşur."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Bilinçli bir girişimcinin yeni bir iş kurarken öncelikle yapması gereken araştırma nedir?",
+      "answers": [
+        "Pazar araştırması, fizibilite ve tüketici ihtiyacını belirlemek",
+        "Hiçbir plan yapmadan rastgele dükkan açmak",
+        "Sadece rakipleri suçlamak",
+        "Reklam masraflarını sıfırlamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Fizibilite ve pazar araştırması girişimciliğin ilk kuralıdır."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "Türkiye'de pamuklu dokuma ve tekstil sanayisinin en yoğun olduğu bölgeler hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Ege, Çukurova (Akdeniz) ve Güneydoğu Anadolu",
+        "İç Anadolu ve Doğu Karadeniz",
+        "Yalnızca Yıldız Dağları",
+        "Teke ve Taşeli platoları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Pamuk tarımına bağlı olarak Ege, Çukurova ve GAP çevresinde tekstil gelişmiştir."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "Aşağıdakilerden hangisi vergilerin vatandaşlara geri dönüş yollarından biri değildir?",
+      "answers": [
+        "Kişisel lüks tatil masraflarının devletçe karşılanması",
+        "Okul, hastane ve üniversite yapılması",
+        "Yolların, köprülerin ve tünellerin inşa edilmesi",
+        "Güvenlik ve adalet hizmetlerinin sunulması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Vergiler kişisel lüks harcamalar için değil, kamu hizmetleri için kullanılır."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Geleceğin meslekleri arasında gösterilen yapay zeka mühendisliği, veri analistliği ve yenilenebilir enerji uzmanlığı neyin göstergesidir?",
+      "answers": [
+        "Teknolojinin ve ekonominin değişen ihtiyaçlarına göre yeni mesleklerin doğtuğunun",
+        "Mesleklerin artık tamamen ortadan kalktığının",
+        "Sanayi devrinin bittiğinin",
+        "Tarımın yasaklandığının"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Ekonomi ve teknoloji geliştikçe iş kolları da evrilmektedir."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "E-ticaret sitelerinden alışveriş yaparken dolandırıcılığa (siber dolandırıcılık) karşı dikkat edilmesi gereken en önemli güvenlik sertifikası nedir?",
+      "answers": [
+        "SSL güvenlik sertifikası (https:// ile başlaması)",
+        "Sitedeki renklerin kırmızı olması",
+        "Ürünün çok ucuz olması",
+        "Yorumların hep aynı olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "SSL sertifikası güvenli veri transferi sağlar."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "Aşağıdakilerden hangisi enerji tasarrufu sağlamak ve aile bütçesine katkıda bulunmak için evde alınacak yanlış bir önlemdir?",
+      "answers": [
+        "Odadan çıkarken lambaları açık bırakmak",
+        "A sınıfı enerji tasarruflu cihazlar kullanmak",
+        "Gereksiz yere yanan ışıkları kapatmak",
+        "Doğalgaz peteklerinin önünü kapatmayacak şekilde mobilya yerleştirmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Lambaları açık bırakmak israftır."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Ziraat mühendisi olan Selim Bey, toprak analizi yaparak hangi tarlaya hangi gübrenin atılması gerektiğini bilimsel olarak hesaplamış, damla sulama sistemi kurarak hem sudan tasarruf etmiş hem de ürün verimini %50 artırmıştır. Selim Bey'in bu çalışması ekonomide hangi kavramla doğrudan ilişkilidir?",
+      "answers": [
+        "Bilimsel ve verimli tarım (Sürdürülebilir kalkınma)",
+        "Geleneksel ve ilkel tarım",
+        "Tarım alanlarını betona çevirme",
+        "İthalatı artırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 3,
+      "explanation": "Bilimsel yöntemlerle verimliliği artırmak sürdürülebilir tarımdır."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "Türkiye'nin bor madeni rezervlerinde dünya lideri olması ülke ekonomisine nasıl bir stratejik avantaj sağlar?",
+      "answers": [
+        "Teknoloji, cam ve nükleer sanayide kullanılan borun işlenerek yüksek katma değerle ihraç edilmesini sağlar",
+        "Ülkedeki tüm enerji sorununu tek başına çözer",
+        "Tarım ürünlerini tamamen ortadan kaldırır",
+        "Ekonomiye hiçbir katkısı yoktur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 3,
+      "explanation": "Bor madeni stratejik bir hammadde olup endüstride kritik öneme sahiptir."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Aşağıdakilerden hangisi turizm faaliyetlerinin çeşitlenmesine ve yılın 12 ayına yayılmasına örnek gösterilebilir?",
+      "answers": [
+        "Kış aylarında Palandöken'de kayak turizmi, diğer aylarda ise termal ve kültür turizmi yapılması",
+        "Sadece yaz aylarında denize girilmesi",
+        "Turizmin sadece tek bir şehre hapsedilmesi",
+        "Yabancı turistlerin ülkeye girişinin yasaklanması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Kış, termal ve kültür turizmi turizmi mevsime bağlılıktan kurtarır."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "Bir tüketici olarak ayıplı mal aldığımızda kanuni olarak değişim veya iade süresi (zamanaşımı süresi aksi belirtilmedikçe) genel olarak kaç yıldır?",
+      "answers": [
+        "2 yıl",
+        "1 hafta",
+        "10 yıl",
+        "20 yıl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 3,
+      "explanation": "Tüketici koruma kanununa göre ayıplı mallarda genel zamanaşımı 2 yıldır."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "Ülkemizde ekonomik istikrarı korumak, enflasyonla mücadele etmek ve paranın değerini savunmakla sorumlu resmi kurum hangisidir?",
+      "answers": [
+        "Türkiye Cumhuriyet Merkez Bankası (TCMB)",
+        "Belediyeler",
+        "Okullar",
+        "Kızılay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Para politikasını yürüten ve Türk lirasını koruyan kurum Merkez Bankasıdır."
+    }
+  ]
+}

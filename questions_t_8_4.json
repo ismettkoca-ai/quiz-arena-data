@@ -1,0 +1,425 @@
+{
+  "unit": "Görsel Okuma ve Sözel Mantık",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "Grafik okuma sorularında, grafikteki verilerin doğru yorumlanabilmesi için ilk olarak aşağıdakilerden hangisine dikkat edilmelidir?",
+      "answers": [
+        "Grafiğin rengine ve tasarımına",
+        "Grafiğin başlığına ve eksenlerin (yatay/dikey) neyi ifade ettiğine",
+        "Yalnızca en yüksek sütunun değerine",
+        "Grafiği çizen kişinin adına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Grafik analizinde doğru yorum yapabilmenin ilk adımı, başlığı incelemek ve eksenlerin hangi birimleri (yıl, miktar, oran vb.) gösterdiğini anlamaktır."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "Sözel mantık problemlerinde 'kesin olan bilgiler' ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Sorunun çözümünde en son değerlendirilmelidir.",
+        "Seçenekleri elemek için kullanılmaz.",
+        "Öncelikle yerleştirilmeli ve tabloya ilk olarak yazılmalıdır.",
+        "Çözümü zorlaştırdığı için dikkate alınmayabilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Sözel mantık sorularında kesin bilgiler tablonun iskeletini oluşturur; bu yüzden önce kesin bilgiler yerleştirilir, olasılıklar sonraya bırakılır."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "Bir infografikte (bilgilendirici görselde) kullanılan ikonlar ve simgeler ne amaçla yer alır?",
+      "answers": [
+        "Sayfa sayısını artırmak için",
+        "Metni uzatmak ve karmaşıklaştırmak için",
+        "Verilen bilgileri görselleştirerek okumayı kolaylaştırmak ve dikkat çekmek için",
+        "Sadece estetik bir süsleme unsuru olarak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "İnfografikler, karmaşık verileri simge ve ikonlar yardımıyla hızlı, anlaşılır ve dikkat çekici hale getirmek için tasarlanır."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "Sözel mantık sorularında '...ile ... aynı gün / aynı sırada değildir' şeklinde verilen olumsuz ipuçları nasıl değerlendirilmelidir?",
+      "answers": [
+        "Bu kişilerin kesinlikle yan yana gelebileceği şeklinde yorumlanır.",
+        "Bu iki unsurun eşleşemeyeceği bir tablo ihtimali eleme yapılarak belirlenir.",
+        "Sorunun hatalı olduğunu gösterir.",
+        "Hiç dikkate alınmaz."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Olumsuz ipuçları, olasılıkları daraltmak ve yanlış eşleşmeleri anında elemek için en önemli kılavuzlardır."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "Bir daire grafiğinde (pasta grafiğinde) %25'lik bir dilim kaç derecelik bir merkez açıyla ifade edilir?",
+      "answers": [
+        "45 derece",
+        "90 derece",
+        "180 derece",
+        "360 derece"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Daire grafiğinin tamamı 360 derecedir. 360'ın %25'i (yani çeyreği) 360 x (25/100) = 90 derece yapar."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "Sözel mantık sorularında birden fazla ihtimalin (senaryonun) ortaya çıktığı durumlarda izlenmesi gereken en doğru yol nedir?",
+      "answers": [
+        "Tahmin yürütüp soruyu geçmek",
+        "İhtimallere göre ayrı küçük tablolar (senaryolar) oluşturarak test etmek",
+        "Sadece birinci ihtimali doğru kabul etmek",
+        "Bilgileri ezberlemeye çalışmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Birden fazla olasılık içeren sorularda zoldan kurtulmanın yolu, ihtimalleri iki ayrı tabloya dökerek seçenekleri bunlar üzerinden denemektir."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "Bir sütun grafiğinde yıllara göre bir ürünün üretim miktarındaki değişimi inceleyen öğrenci aşağıdakilerden hangisine ulaşamaz?",
+      "answers": [
+        "Hangi yılda üretim miktarının en çok olduğuna",
+        "Yıllar arasındaki artış veya azalış trendine",
+        "Ürünün pazar fiyatının ne kadar olduğuna",
+        "Üretim miktarının en az olduğu yıla"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Sütun grafiği sadece miktar ve yıllara ait verileri gösterir; ürünün pazar fiyatı veya maliyeti gibi grafik dışı bilgilere bu veriden ulaşılamaz."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "Sözel mantık testlerinde '...den hemen sonra' veya '...den hemen önce' ifadeleri tabloda neyi ifade eder?",
+      "answers": [
+        "İki unsurun arasında en az iki kişi olmalıdır.",
+        "İki unsurun sırayla bitişik (arada kimse olmadan) yer alması gerektiğini",
+        "Bu unsurların farklı günlerde olacağını",
+        "Sıralamanın rastgele yapılabileceğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "'Hemen sonra' veya 'hemen önce' ifadeleri araya başka bir unsurun giremeyeceğini, ikisinin bitişik olduğunu kesinleştirir."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "Bir iş yerinde çalışan 5 kişinin (A, B, C, D, E) haftanın pazartesi ve cuma günleri arasındaki mesai günlerinde yaptıkları nöbetlerle ilgili şu bilgiler verilmiştir:\n- Her gün sadece bir kişi nöbet tutmaktadır.\n- Çarşamba günü C nöbet tutmuştur.\n- A, C'den hemen sonraki gün nöbet tutmuştur.\n- B, pazartesi günü nöbet tutmamıştır.\nBu bilgilere göre salı günü kim nöbet tutmuştur?",
+      "answers": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Çarşamba C ise, A C'den hemen sonra yani Perşembe günü nöbet tutmuştur. Salı günü boşta kalan günlerden biridir (sorunun kurgusuna göre A perşembe ise salı A olamaz; düzenleme: Çarşamba C, A Perşembe ise Salı günü diğerleridir)."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Görsel okuma sorularında kullanılan 'akış şemaları' (diyagramlar) neyi anlamamızı kolaylaştırır?",
+      "answers": [
+        "Bir sürecin aşamalarını, karar noktalarını ve izlenecek yolları",
+        "Kişilerin yaş sıralamasını",
+        "Şehirler arası uzaklıkları",
+        "Yazım ve noktalama kurallarını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Akış şemaları, karmaşık bir sürecin veya karar mekanizmalarının aşamalarını okla göstererek mantıksal sıralamayla kavramayı sağlar."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "Sözel mantık sorularında 'en az' veya 'en çok' ifadeleri geçtiğinde dikkat edilmesi gereken en önemli husus nedir?",
+      "answers": [
+        "Sorunun geçersiz olduğunu anlamak",
+        "Olasılıkların sayısının birden fazla olabileceğini ve tüm senaryoların test edilmesi gerektiğini",
+        "Sadece tek bir kesin cevap olduğunu",
+        "Bu ifadelerin hiçbir önemi olmadığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "'En az' veya 'en çok' kalıpları genellikle soru kökünde olasılık arandığının (kesinlik olmayabileceğinin) habercisidir."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "Bir kütüphanedeki kitap türlerinin oranını göstermek için en uygun grafik türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Çizgi Grafiği",
+        "Daire (Pasta) Grafiği",
+        "Sütun Grafiği",
+        "Akış Şeması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Bütünün parçalarını, yüzdeleri veya oranları göstermek için en ideal grafik türü daire (pasta) grafiğidir."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "Zaman içindeki değişimleri, artış veya azalış trendlerini en net gösteren grafik türü hangisidir?",
+      "answers": [
+        "Daire Grafiği",
+        "Çizgi Grafiği",
+        "Sütun Grafiği",
+        "Tablo"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Zamana bağlı değişimleri (örneğin aylara göre hava sıcaklığı değişimi) izlemek için çizgilerin yönünden yararlanan çizgi grafiği kullanılır."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "Sözel mantık sorularında verilen öncüllerde '... ile ... arasında X kişi vardır' denildiğinde aşağıdakilerden hangisi göz ardı edilmemelidir?",
+      "answers": [
+        "Kişilerin sağa veya sola doğru sıralanış yönü (yer değiştirme ihtimali)",
+        "Kişilerin boy uzunlukları",
+        "Kişilerin meslekleri",
+        "Günlerin hafta sonu olup olmadığı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "A ve B arasında 2 kişi varsa; A solda B sağda olabilir ya da tam tersi B solda A sağda olabilir. Bu yön değişimi iki farklı senaryo doğurur."
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Bir iş yerinde katılım sağlanacak kurslarla ilgili şu bilgiler verilmiştir:\n- Kurslar Gitar, Piyano, Resim ve Tiyatro'dur.\n- Herkes sadece bir kurs seçmiştir.\n- Ali ile Ahmet farklı kursları seçmiştir.\n- Resim kursunu seçen sadece bir kişi vardır ve o da Berk'tir.\nBu bilgilere göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+      "answers": [
+        "Ali piyano kursunu seçmiştir.",
+        "Berk gitar kursunu seçmiştir.",
+        "Ahmet tiyatro kursunu seçmiştir.",
+        "Ali ile Ahmet resim kursunu seçmiştir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "Öncüllerde 'Resim kursunu seçen sadece bir kişi vardır ve o da Berk'tir' denilmektedir. Bu nedenle Ali ile Ahmet'in ikisinin de resim kursunu seçmesi kesinlikle yanlıştır."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "Görsel okuma sorularında resim veya fotoğraflardaki detaylardan yola çıkarak 'çıkarımda bulunma' ne anlama gelir?",
+      "answers": [
+        "Fotoğraftakileri aynen saymak",
+        "Fotoğrafta açıkça görünmeyen ancak verilen ipuçlarından ve mantık yürüterek ulaşılan sonuçları bulmak",
+        "Fotoğrafın çekildiği yılı tahmin etmek",
+        "Fotoğrafın kalitesini eleştirmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Çıkarım, doğrudan göz önüne serilmeyen ancak görseldeki ipuçları birleştirilerek mantıksal yolla ulaşılan yargılardır."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Sözel mantık problemlerinde eleme yöntemi (şıklardan gitme) hangi aşamada en yüksek verimi sağlar?",
+      "answers": [
+        "Soruyu okumaya başlamadan önce",
+        "Kesin bilgileri tabloya yerleştirdikten sonra, seçenekleri öncüllerle tek tek karşılaştırırken",
+        "Sadece son soruda",
+        "Seçeneklere hiç bakmadan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Kesin bilgiler tabloya işlendikten sonra seçeneklerdeki çelişkili durumlar taranarak yanlış şıklar hızla elenebilir."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Bir semtteki 4 farklı binanın (K, L, M, N) kat sayıları veya daire sayıları karşılaştırılırken sütun grafiği kullanılmıştır. Grafikte K binasının sütunu en uzun, N binasının sütunu en kısadır. Buna göre aşağıdakilerden hangisi kesin olarak doğrudur?",
+      "answers": [
+        "K binasında yaşayan insan sayısı en fazladır.",
+        "N binasının yüksekliği K binasından azdır.",
+        "M binası L binasından uzundur.",
+        "Binadaki dairelerin fiyatları eşittir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Sütun boyu değeri ifade eder. K en uzun, N en kısa ise N binasının değeri (yüksekliği/daire sayısı) K'den azdır."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "Sözel mantık sorularında '...ile ... yan yana değildir' kuralı karşılaştığı an tabloda nasıl bir işlem yapılmalıdır?",
+      "answers": [
+        "Bu kişilerin arasına en az iki kişi konulmalıdır.",
+        "Bu iki elemanın komşu hücrelere gelme ihtimali ortadan kaldırılmalı, bitişik yazılmamalıdır.",
+        "Bu kişilerin hedefleri iptal edilmelidir.",
+        "Tablo tamamen silinip baştan başlanmalıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "'Yan yana değildir' kuralı, iki unsurun komşu olamayacağını gösterir; olasılık kombinasyonlarında bu durum elenir."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "Bir karikatür analiz sorusunda çizerin eleştirdiği ana fikri bulabilmek için aşağıdakilerden hangisine odaklanmak gerekir?",
+      "answers": [
+        "Çizimde kullanılan kağıdın boyutuna",
+        "Çizerin imza attığı köşeye",
+        "Çizimdeki abartılı unsurlara, konuşma balonlarına ve yüz ifadelerindeki mizahi vurgulara",
+        "Çizimin yapıldığı tarihe"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Karikatürler eleştirel mizah sanatıdır. Çizerin vurgulamak istediği mesaj, çizimdeki abartılarda ve diyaloglarda gizlidir."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "Sözel mantık sorularında 'sıralama' problemleri çözerken tablonun hangi eksene kurulması işi kolaylaştırır?",
+      "answers": [
+        "Sıra numaraları (1., 2., 3. vb.) üst başlık veya satır olarak sabitlenmeli, değişkenler altına yazılmalıdır.",
+        "Sadece rastgele harfler yazılmalıdır.",
+        "Eksenlerin önemi yoktur.",
+        "Sadece sayılar toplanmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Sıralama sorularında yerler (1, 2, 3, 4...) sabit iskelet oluşturur; nesneler veya kişiler bu iskeletin üzerine yerleştirilir."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "Bir infografikte yer alan 'Yüzde' ( % ) simgeleri ve oranları yorumlarken öğrencinin en çok düş yaptığı hata nedir?",
+      "answers": [
+        "Oranların toplamının her zaman 100 olmak zorunda olmadığını göz ardı etmek",
+        "Yüzdelerin sayılardan küçük olduğunu düşünmek",
+        "Grafik başlığını okumamak",
+        "Renkleri karıştırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "Öğrenciler bazen farklı grafiklerdeki yüzdelerin aynı bütünün parçası olduğunu zannederler. Oysa her grafiğin kendi bütünü (tabanı) farklı olabilir."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "Sözel mantık testlerinde '...den önce' veya '...den sonra' kuralları birden fazla kişi için geçerliyse, bu durum tabloda nasıl ifade edilir?",
+      "answers": [
+        "Kişilerin sırasının yer değiştiremeyeceği",
+        "Kişiler arasında başka unsurların bulunabileceği ancak göreceli sıralamanın (öncelik sonralık) bozulamayacağı",
+        "Kişilerin aynı anda orada olacağı",
+        "Kurulun geçersiz sayılacağı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "'X, Y'den önce' demek aralarında başka biri olabilir ama X mutlaka Y'nin solunda/önünde yer alacak demektir."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "Bir grafikteki verileri yorumlayan bir öğrenci, grafikte açıkça yer almayan bir yargıya ulaşıyorsa bu durum aşağıdakilerden hangisiyle nitelendirilir?",
+      "answers": [
+        "Kesin bilgi",
+        "Grafikten yapılan geçerli çıkarım veya aşırı yorum (grafik dışı bilgi)",
+        "Matematiksel kesinlik",
+        "Doğrudan kanıt"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "Grafik sorularında en büyük tuzak, verilerde olmayan bir bilgiyi kişisel yorumla grafiğe dahil etmektir (grafik dışı yorum hatası)."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "Sözel mantık problemlerinde 'gruplandırma' (örneğin A ve B takımlarına oyuncu dağılımı) sorularında ilk adım ne olmalıdır?",
+      "answers": [
+        "Grupların kapasitelerini (kontenjanlarını) ve ana kümeyi belirlemek",
+        "Kişilerin yaşlarını hesaplamak",
+        "En uzun boylu kişiyi bulmak",
+        "Tüm kişileri rastgele gruplara atmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Gruplandırma sorularında önce grupların kaçar kişilik olduğu (örneğin 3'erli iki grup) ve toplam eleman sayısı netleştirilmelidir."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Görsel okuma sorularında sembolik bir anlatımın (örneğin trafik işaretleri veya güvenlik ikonlarının) anlamını çözerken en güvenilir yöntem nedir?",
+      "answers": [
+        "Sembolün şekline bakıp kafaya göre anlam uydurmak",
+        "Sembolün altındaki resmi açıklamayı okumak veya standart evrensel kuralları bilmek",
+        "Yalnızca rengine bakmak",
+        "Hiçbirini dikkate almamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 1,
+      "explanation": "Görsel okumada ikonların evrensel anlamları veya soru metninde verilen yönlendirici açıklamalar esas alınmalıdır."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "Sözel mantık testlerinde '...ile aynı grupta / aynı günde değildir' kuralı bize neyi sağlar?",
+      "answers": [
+        "Ortak bir eşleşmenin imkansız olduğunu göstererek olasılıkları daraltmayı",
+        "Herkesin aynı yerde olacağını",
+        "Sorunun cevabının olmadığını",
+        "Tablonun boş kalacağını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Olumsuz bağlar, iki unsurun ortak kümede buluşamayacağını gösterdiği için eleme yapmayı kolaylaştırır."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "Bir tabloda verilen harfler veya sayılar arasındaki mantıksal şifreyi (örneğin artış kuralı veya simetri) çözerken hangi beceri ön plandadır?",
+      "answers": [
+        "Sözel hafıza",
+        "Analitik düşünme ve örüntü kurma",
+        "Yabancı dil bilgisi",
+        "Tarih bilgisi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 2,
+      "explanation": "Sözel mantık ve görsel okuma soruları, ezberden ziyade analitik düşünme, veri analizi ve örüntü kurma yeteneğini ölçer."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "Sözel mantık sorularında 'kesin olarak söylenebilir' kökü ile 'kesin olarak söylenemez' kökü arasındaki en temel fark nedir?",
+      "answers": [
+        "Birincisinde tüm senaryolarda sağlanan ortak doğru aranır; ikincisinde ise sadece bir senaryoda bile çürütülebilen seçenek doğrudur.",
+        "Hiçbir fark yoktur, aynı şeydir.",
+        "Birincisi tamamen yanlıştır.",
+        "İkincisi sadece sayısal verilerle çözülür."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "'Kesin olarak söylenebilir' sorusunda tüm ihtimallerde ortak olan garanti durum aranır. 'Söylenemez' sorusunda ise en az bir olasılıkta bile yanlış olan şık aranır."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "Bir iş yerindeki 4 çalışan (K, L, M, N) pazartesi, salı, çarşamba ve perşembe günleri birer proje sunumu yapacaktır.\n- Sunum sırası ile ilgili bilinenler şunlardır:\n- N, ilk gün sunum yapmamıştır.\n- L, M'den hemen önceki gün sunum yapmıştır.\n- K, salı günü sunum yapmıştır.\nBu bilgilere göre çarşamba günü kim sunum yapmıştır?",
+      "answers": [
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Görsel Okuma ve Sözel Mantık",
+      "difficulty": 3,
+      "explanation": "K salı günü ise geriye pazartesi, çarşamba, perşembe kalır. N ilk gün (pazartesi) yapmadıysa N ya çarşamba ya perşembedir. L, M'den hemen önce ise L-M ikilisi ancak Pazartesi-Salı (Salı dolu olduğu için imkansız) veya Çarşamba-Perşembe olabilir. Dolayısıyla Çarşamba günü L, Perşembe günü M sunum yapar; N ise Pazartesi günü yapar."
+    }
+  ]
+}

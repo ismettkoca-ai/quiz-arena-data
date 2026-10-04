@@ -1,0 +1,425 @@
+{
+  "unit": "Geleneklerimiz",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "'Gelenek' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Anane / Görenek",
+        "Gelecek",
+        "Yenilik",
+        "Tarih"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Bir toplumda eskiden kalmış ve kuşaktan kuşağa aktarılan alışkanlıklara gelenek, görenek veya anane denir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "'Misafir' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Konuk",
+        "Dost",
+        "Akraba",
+        "Komşu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Misafir kelimesinin eş anlamlısı konuk kelimesidir."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Geleneklerimize göre bayramlarda büyüklerimize saygı göstermek için ne yaparız? Bu eylemi anlatan deyim hangisidir?",
+      "answers": [
+        "El öpmek",
+        "Göz boyamak",
+        "Kulak asmak",
+        "Etekleri zil çalmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Bayramlarda büyüklerimize saygımızı ve hürmetimizi 'el öpmek' deyimiyle anlattığımız gelenekle gösteririz."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Milli ve dini bayram adları büyük harfle başlar. Hangi seçenekte yazım YANLIŞI vardır?",
+      "answers": [
+        "Bu yıl kurban bayramı çok kalabalıktı.",
+        "Ramazan Bayramı'nda memlekete gideceğiz.",
+        "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlandı.",
+        "Zafer Bayramı törenleri sabah başladı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Bayram adları büyük yazılmalıdır. 'Kurban Bayramı' şeklinde yazılması gerekirdi."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "'Misafirperver' kelimesinin yapısı hakkında hangisi söylenebilir?",
+      "answers": [
+        "İki kelimeden oluşan birleşik yapılı bir kelimedir.",
+        "Hiç ek almamış basit bir kelimedir.",
+        "Sadece yapım eki almış türemiş bir kelimedir.",
+        "Çekim eki alarak çoğul olmuş bir kelimedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 3,
+      "explanation": "Misafir (konuk) ve perver (seven/koruyan) kelimelerinin birleşmesiyle oluşmuş birleşik bir kelimedir."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "Aşağıdakilerden hangisi geleneksel bir karşılama sözü olup YAZIMI DOĞRUDUR?",
+      "answers": [
+        "Hoş geldin",
+        "Hoşgeldin",
+        "Hoşgel din",
+        "Hoşgeldiniz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "'Hoş geldin' ve 'Hoşça kal' gibi kalıplaşmış sözler ayrı yazılır."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "'Büyüklerimizi ziyaret etmek için köye doğru yola çıktık.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Örneklendirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Köye doğru yola çıkmalarının amacı 'büyüklerini ziyaret etmek'tir. (Amacıyla yola çıktık)."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "'Cömert' (eliaçık) kelimesinin zıt anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Cimri / Pinti",
+        "Yardımsever",
+        "Saygılı",
+        "Misafirperver"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Eline ve parasına sıkı olan, harcama yapmayı sevmeyen kişiye cimri denir ve cömert kelimesinin zıttıdır."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "Hangi cümlede 'tatlı' kelimesi mecaz (gerçek dışı) anlamda kullanılmıştır?",
+      "answers": [
+        "Misafirlerle çok tatlı bir sohbet ettik.",
+        "Bayramda misafirlere tatlı ikram ettik.",
+        "Bu elma gerçekten çok tatlıymış.",
+        "Kahveye bir kaşık tatlı şeker attı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "'Tatlı sohbet' ifadesinde tatlı kelimesi şekerli anlamında değil, 'hoş, güzel' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "Kişilere saygı bildiren sözler (Bey, Hanım vb.) büyük harfle başlar ve gelen ekler kesme işaretiyle ayrılır. Hangi yazım DOĞRUDUR?",
+      "answers": [
+        "Ahmet Bey'in evine bayram ziyaretine gittik.",
+        "Ayşe hanım bize yöresel yemekler yaptı.",
+        "Mehmet beyin anlattığı hikayeleri dinledik.",
+        "Fatma Hanımın ellerinden öptük."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Saygı bildiren Bey ve Hanım kelimeleri büyük harfle başlar ve gelen çekim ekleri kesme işaretiyle ayrılır (Ahmet Bey'in)."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "'Akraba' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hısım",
+        "Komşu",
+        "Dost",
+        "Arkadaş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Kan bağıyla veya evlilik yoluyla birbirine bağlı kimselere akraba veya hısım denir."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "'Çok değerli bularak el üstünde tutmak' anlamına gelen geleneksel deyimimiz hangisidir?",
+      "answers": [
+        "Baş tacı etmek",
+        "Gözden düşmek",
+        "Kulak ardı etmek",
+        "Yüz çevirmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Özellikle misafirlere veya büyüklere çok değer verip onları saygıyla ağırlamak 'baş tacı etmek' deyimiyle ifade edilir."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "Özel gün ve kutlamalarda hediyeleşmek kültürümüzün bir parçasıdır. 'Hediye' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Armağan",
+        "Paket",
+        "Tören",
+        "İkram"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Hediye kelimesinin eş anlamlısı armağandır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "'Baharın gelişini kutlamak için Nevruz bayramı şenlikleri düzenlendi.' Bu cümlenin anlam özelliği nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Şenlik düzenlemelerinin amacı 'baharın gelişini kutlamak'tır. Dolayısıyla amaç-sonuç cümlesidir."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Özel isimlere getirilen '-ler, -lar' çoğul ekleri kesme işaretiyle AYRILMAZ. Buna göre hangi yazım DOĞRUDUR?",
+      "answers": [
+        "Akşam Ahmetlere iftara gideceğiz.",
+        "Bayramda Ayşe'leri ziyaret ettik.",
+        "Türk'lerin misafirperverliği dünyaca bilinir.",
+        "Avrupa'lı turistler geleneklerimizi sevdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 3,
+      "explanation": "Özel adlara getirilen yapım ekleri ve çoğul ekleri (-ler, -lar, -lı) kesme işareti ile ayrılmaz. (Ahmetler, Türklerin, Avrupalı)."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "'Kültürel' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kültür",
+        "Kül",
+        "Kült",
+        "Kültürel"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Kelimenin anlamlı en küçük parçası ve asıl yapısı 'kültür' ismidir."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı bulunmaktadır?",
+      "answers": [
+        "Elini öpersen dedem sana harçlık verir.",
+        "Bayram olduğu için yeni kıyafetler aldık.",
+        "Komşularımıza tatlı ikram etmek amacıyla tabak hazırladık.",
+        "Çocuklar bayram sabahı çok neşeliydi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Harçlık vermesinin koşulu (şartı) dedesinin 'elini öpmesi'dir (-sa/-se şart eki)."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "Bayramlarda ikram edilen baklavanın taze olması önemlidir. 'Taze' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Bayat",
+        "Tatlı",
+        "Sıcak",
+        "Eski"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Yiyeceklerin yeni yapılmamış, zamanı geçmiş halini anlatan kelime 'bayat'tır. Tazenin zıddıdır."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "'Sıcak bir karşılama' ifadesindeki altı çizili sözcük yerine hangisi getirilirse anlam DEĞİŞMEZ?",
+      "answers": [
+        "Samimi / İçten",
+        "Gürültülü",
+        "Soğuk",
+        "Resmi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Mecaz anlamda kullanılan 'sıcak' kelimesi, samimi, içten ve dostça anlamına gelir."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'sesteş (eş sesli)' bir kelimedir?",
+      "answers": [
+        "Dolu",
+        "Kültür",
+        "Saygı",
+        "Tatlı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "'Dolu' kelimesi hem boş karşıtı (dolu bardak) hem de bir yağış türü (dolu yağdı) olarak sesteştir."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "'Tören' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Merasim",
+        "Eğlence",
+        "Gelenek",
+        "Ziyafet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Özel günlerde kutlama amacıyla yapılan etkinliklere tören veya merasim denir."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "'Ağız' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Örn: Ağız - ı)",
+      "answers": [
+        "Ünlü Düşmesi (Ağzı)",
+        "Ünsüz Yumuşaması (Ağızı)",
+        "Ünlü Daralması (Ağzu)",
+        "Ünsüz Benzeşmesi (Ağzsı)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Organ adlarında (ağız, burun, karın) ünlü ile başlayan ek geldiğinde ikinci hecedeki ünlü düşer (Ağız-ı -> Ağzı)."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Hangi cümlede öznel (kişiden kişiye değişen) bir yargı vardır?",
+      "answers": [
+        "Dünyadaki en güzel yemekler bizim yöremize aittir.",
+        "Keloğlan ve Hacivat-Karagöz geleneksel masal ve oyun karakterlerimizdir.",
+        "Ramazan Bayramı üç gün, Kurban Bayramı dört gün sürer.",
+        "Türkiye'nin başkenti Ankara'dır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "'En güzel yemekler' ifadesi kişinin kendi damak zevkini ve fikrini belirttiği için özneldir."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Büyükleri ziyaret ettiğimizde 'hatır sormak' deyimi hangi anlama gelir?",
+      "answers": [
+        "Birinin durumunu, sağlığını ve nasıl olduğunu sormak",
+        "Birinden para veya hediye istemek",
+        "Birine kırılmak ve küsmek",
+        "Geçmişteki kötü olayları hatırlatmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Hatır sormak, kişinin halini, vaktini, sağlığını ve iyi olup olmadığını sormak demektir."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "'İkram' kelimesinin anlamına en yakın sözcük aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sunma / Ağırlama",
+        "Alma",
+        "İsteme",
+        "Saklama"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Misafire yiyecek, içecek gibi şeyler sunmaya, onu ağırlamaya ikram denir."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Aşağıdaki altı çizili kelimelerin hangisinde 'ünsüz yumuşaması' vardır?",
+      "answers": [
+        "Bayram harçlığını dolaba sakladı.",
+        "Kardeşim sevinçle odaya koştu.",
+        "Büyüklerimin ellerini saygıyla öptüm.",
+        "Kültürel değerlerimizi korumalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 3,
+      "explanation": "'Dolap' kelimesi ünlü ile başlayan '-a' yönelme ekini alınca sonundaki 'p' sesi yumuşayarak 'b' harfine dönüşmüştür (dolaba)."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Eskiden bayramlar şimdikine göre daha coşkulu kutlanırdı.",
+        "Misafirler için sarmalar ve börekler hazırlandı.",
+        "Köyümüzde düğünler üç gün üç gece sürer.",
+        "Geleneksel çocuk oyunlarını yaşatmamız gerekiyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Eski bayramların kutlanış coşkusu ile şimdiki zamanın coşkusu 'daha' kelimesiyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "Aşağıdaki kelimelerden hangisinin yazımı DOĞRUDUR?",
+      "answers": [
+        "Miras",
+        "Miraz",
+        "Müraz",
+        "Mıras"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 1,
+      "explanation": "Kültürel veya maddi kalıt anlamına gelen kelimenin doğru yazımı 'Miras' şeklindedir."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Yazım kurallarına göre kurum, kuruluş ve kurul adlarına gelen ekler kesme işaretiyle AYRILMAZ. Hangi cümlede buna UYULMAMIŞTIR?",
+      "answers": [
+        "Türk Dil Kurumu'nun yeni sözlüğünü aldım.",
+        "Türkiye Büyük Millet Meclisinde tören yapıldı.",
+        "Türk Tarih Kurumuna bir mektup yazdık.",
+        "Kızılayın çadırlarında misafir edildik."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 3,
+      "explanation": "Kurum kuruluş adlarına gelen ekler kesme ile ayrılmaz. 'Türk Dil Kurumunun' şeklinde bitişik yazılmalıydı."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "'Yöresel' kelimesi hangi ekleri alarak türemiştir?",
+      "answers": [
+        "Yöre (kök) + -sel (yapım eki)",
+        "Yö (kök) + -resel (yapım eki)",
+        "Yön (kök) + -esel (yapım eki)",
+        "Yöresel (kök halindedir)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geleneklerimiz",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'yöre' ismidir. Buna '-sel' isimden isim yapan yapım eki getirilerek o yöreye ait olan (yöresel) anlamı kazandırılmıştır."
+    }
+  ]
+}

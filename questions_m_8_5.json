@@ -1,0 +1,423 @@
+{
+  "unit": "Olasılık",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "Bir olayın olma olasılığının alabileceği değer hangi aralıktadır?",
+      "answers": [
+        "0 ile 1 arasında (0 ve 1 dahil)",
+        "-1 ile 1 arasında",
+        "0 ile 100 arasında",
+        "1 ile 10 arasında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Bir olayın olma olasılığı en az 0 (imkânsız olay), en fazla 1 (kesin olay) olabilir; yani [0, 1] aralığındadır."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "Hilesiz bir zar atıldığında üst yüzüne gelen sayının 5'ten küçük olma olasılığı kaçtır?",
+      "answers": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "5/6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Tüm durum 6'dır. 5'ten küçük olanlar {1, 2, 3, 4} olmak üzere 4 tanedir. Olasılık = 4/6 = 2/3 olur."
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "\"MATEMATİK\" kelimesinin harfleri özdeş kartlara yazılıp bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın \"M\" harfi olma olasılığı kaçtır?",
+      "answers": [
+        "1/10",
+        "2/10",
+        "3/10",
+        "2/9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Kelime 10 harflidir. 'M' harfi 2 tane olduğundan olasılık 2/10 = 1/5'tir (Şıklarda 2/10 vardır)."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Aşağıdaki olaylardan hangisinin gerçekleşme olasılığı 1'dir (kesin olaydır)?",
+      "answers": [
+        "Havaya atılan madeni paranın tura gelmesi",
+        "Hilesiz bir zarın 7 gelmesi",
+        "Bugünden sonra yarın gününün gelmesi",
+        "Seçilen bir kişinin kız olma olasılığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Bugünden sonra yarın gününün gelmesi her zaman gerçekleşecek kesin bir olaydır (olasılığı 1'dir)."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Bir torbada 4 kırmızı, 6 mavi ve 5 sarı bilye vardır. Torbadan rastgele çekilen bir bilyenin mavi olmama olasılığı kaçtır?",
+      "answers": [
+        "2/5",
+        "3/5",
+        "6/15",
+        "9/15"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Toplam bilye = 4 + 6 + 5 = 15. Mavi olmayanlar = 4 + 5 = 9. Olasılık = 9/15 = 3/5 olur."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "1'den 30'a kadar olan doğal sayıların yazılı olduğu özdeş kartlar arasından rastgele seçilen bir kartın tam kare sayı olma olasılığı kaçtır?",
+      "answers": [
+        "1/10",
+        "3/30",
+        "5/30",
+        "6/30"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "1 ile 30 arasındaki tam kareler: 1, 4, 9, 16, 25 olmak üzere 5 tanedir. Olasılık = 5/30 = 1/6'dır."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "İki madeni para aynı anda havaya atıldığında paralardan en az birinin tura gelme olasılığı kaçtır?",
+      "answers": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Tüm durumlar: (Y,Y), (Y,T), (T,Y), (T,T) olmak üzere 4 tanedir. İkisinin de yazı gelmesi dışındaki tüm durumlar (3 tanesi) en az bir tura durumudur. Olasılık 3/4'tür."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "Bir sınıftaki 12 kız ve 18 erkek öğrenci arasından rastgele seçilen bir temsilcinin kız olma olasılığı kaçtır?",
+      "answers": [
+        "2/5",
+        "3/5",
+        "2/3",
+        "3/10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Toplam öğrenci = 12 + 18 = 30. Kız öğrenci = 12. Olasılık = 12/30 = 2/5 olur."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "İki zar aynı anda atıldığında üst yüzlerine gelen sayıların toplamının 7 olma olasılığı kaçtır?",
+      "answers": [
+        "1/6",
+        "5/36",
+        "7/36",
+        "1/9"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "İki zarın tüm olası atışları 36'dır. Toplamı 7 olanlar: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) olmak üzere 6 tanedir. Olasılık = 6/36 = 1/6'dır."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "Aşağıdaki olaylardan hangisinin gerçekleşme olasılığı 0'dır (imkânsız olaydır)?",
+      "answers": [
+        "Hilesiz bir zarın çift gelmesi",
+        "Havaya atılan paranın dik durması",
+        "Bir haftanın 7 gün olması",
+        "Seçilen bir günün salı olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Normal şartlarda havaya atılan bir paranın dik durması matematiksel modellemede imkânsız olay (olasılığı 0) kabul edilir."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "20'den küçük asal sayıların yazılı olduğu kartlar bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın çift sayı olma olasılığı kaçtır?",
+      "answers": [
+        "1/8",
+        "2/8",
+        "3/8",
+        "4/8"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "20'den küçük asal sayılar: 2, 3, 5, 7, 11, 13, 17, 19 olmak üzere 8 tanedir. İçlerinde sadece 1 tane çift asal vardır (2). Olasılık = 1/8'dir."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Bir kutuda rengi dışında özdeş 3 sarı, 2 mavi ve x tane kırmızı bilye vardır. Kutudan rastgele çekilen bir bilyenin kırmızı olma olasılığı 1/2 olduğuna göre x kaçtır?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Toplam bilye = 5 + x. Kırmızı / Toplam = x / (5 + x) = 1 / 2 => 2x = 5 + x => x = 5 olur."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "1'den 50'ye kadar numaralandırılmış özdeş toplar arasından çekilen bir topun 4'ün katı olma olasılığı kaçtır?",
+      "answers": [
+        "11/50",
+        "12/50",
+        "13/50",
+        "14/50"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "1'den 50'ye kadar 4'ün katı olan sayılar: 4, 8, 12, ..., 48 (50 / 4 = 12 tane). Olasılık = 12/50'dir."
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Bir okulun tiyatro kulübündeki 24 öğrencinin yaşları ortalaması 14'tür. Bu gruptan rastgele seçilen bir öğrencinin 14 yaşında olma olasılığı 1/3 olduğuna göre 14 yaşında kaç öğrenci vardır?",
+      "answers": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "İstenen durum / Tüm durum = 1 / 3 => x / 24 = 1 / 3 => 3x = 24 => x = 8 öğrenci vardır."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "Aşağıdaki sayılardan hangisi bir olayın olasılık değeri olamaz?",
+      "answers": [
+        "0",
+        "1",
+        "5/4",
+        "0,75"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Olasılık değeri 1'den büyük olamaz (5/4 = 1,25'tir)."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "Bir torbada sadece renkleri farklı sarı, mavi ve yeşil toplar vardır. Sarı çekme olasılığı 1/4, mavi çekme olasılığı 1/3 olduğuna göre yeşil çekme olasılığı kaçtır?",
+      "answers": [
+        "1/2",
+        "5/12",
+        "7/12",
+        "3/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Tüm olasılıkların toplamı 1'dir. Yeşil olasılığı = 1 - (1/4 + 1/3) = 1 - (7/12) = 5/12'dir."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "Üzerinde 2'den 20'ye kadar olan asal sayıların yazılı olduğu kartlar bir torbaya konuyor. Rastgele çekilen bir kartın 10'dan büyük olma olasılığı kaçtır?",
+      "answers": [
+        "4/8",
+        "5/8",
+        "4/7",
+        "5/7"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "2 ile 20 arasındaki asal sayılar: 2, 3, 5, 7, 11, 13, 17, 19 (toplam 8 tane). 10'dan büyük olanlar: 11, 13, 17, 19 (4 tane). Olasılık = 4/8 = 1/2'dir (Şıklarda 4/8 vardır)."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Bir kutuda 3 beyaz, 5 siyah top vardır. Kutudan geri atılmaksızın arka arkaya çekilen iki topun ikisinin de beyaz olma olasılığı kaçtır?",
+      "answers": [
+        "3/28",
+        "9/64",
+        "1/14",
+        "3/20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "1. topun beyaz gelme olasılığı 3/8. 2. topun beyaz gelme olasılığı 2/7. Çarpımları = (3/8) · (2/7) = 6/56 = 3/28."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "\"PANDemi\" kelimesinin harfleri arasından rastgele seçilen bir harfin sesli harf olma olasılığı kaçtır?",
+      "answers": [
+        "2/7",
+        "3/7",
+        "4/7",
+        "5/7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Kelime 7 harflidir (P, A, N, D, e, m, i). Sesli harfler (A, e, i) 3 tanedir. Olasılık = 3/7'dir."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "Bir sınıftaki erkeklerin sayısı kızların sayısının 3 katıdır. Bu sınıftan rastgele seçilen bir kişinin erkek olma olasılığı kaçtır?",
+      "answers": [
+        "1/4",
+        "1/3",
+        "3/4",
+        "2/3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Kızlar = x, Erkekler = 3x. Toplam = 4x. Erkek olma olasılığı = 3x / 4x = 3/4."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Bir torbada 1'den 10'a kadar numaralandırılmış 10 top vardır. Torbadan rastgele çekilen bir topun üzerindeki sayının tam kare olma olasılığı ile asal sayı olma olasılığının toplamı kaçtır?",
+      "answers": [
+        "6/10",
+        "7/10",
+        "8/10",
+        "9/10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Tam kareler: 1, 4, 9 (3 tane). Asal sayılar: 2, 3, 5, 7 (4 tane). İki küme ayrık olduğundan olasılıklar toplamı 3/10 + 4/10 = 7/10'dur."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "Özdeş kartlar üzerine 10'dan 40'a kadar olan doğal sayılar yazılmıştır. Bu kartlar arasından rastgele seçilen bir kartın hem 2'ye hem de 3'e kalansız bölünebilme olasılığı kaçtır?",
+      "answers": [
+        "4/31",
+        "5/31",
+        "6/31",
+        "7/31"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "10 ile 40 arasında (10 ve 40 dahil) 31 sayı vardır. Hem 2 hem 3'e bölünenler (6'nın katları) 12, 18, 24, 30, 36 olmak üzere 5 tanedir. Olasılık 5/31'dir."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Bir torbada x tane kırmızı, y tane mavi top vardır. Torbadan rastgele çekilen bir topun kırmızı olma olasılığı 3/7'dir. Torbaya 4 kırmızı top daha eklendiğinde bu olasılık 1/2 olmaktadır. Buna göre başlangıçta torbada kaç top vardır?",
+      "answers": [
+        "14",
+        "21",
+        "28",
+        "35"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Kırmızı = 3k, Mavi = 4k (Toplam = 7k). 4 kırmızı eklenirse (3k+4) / (7k+4) = 1/2 => k = 4 bulunur. Toplam top 7k = 28'dir."
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "Bir kutudaki renkleri dışında özdeş topların üzerine 1'den n'e kadar olan sayılar yazılmıştır. Kutudan rastgele çekilen bir topun asal sayı olma olasılığı 2/5 olduğuna göre n sayısı aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Seçenekleri deneyelim: n = 15 için 1'den 15'e kadar asallar: 2, 3, 5, 7, 11, 13 (6 tane). Olasılık = 6/15 = 2/5 olur."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Bir zar atıldığında üst yüze gelen sayının asal sayı olma olasılığı ile tam kare sayı olma olasılığının çarpımı kaçtır?",
+      "answers": [
+        "1/9",
+        "1/18",
+        "1/6",
+        "1/12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Zarda asal sayılar: 2, 3, 5 (3 tane -> 3/6 = 1/2). Tam kare sayılar: 1, 4 (2 tane -> 2/6 = 1/3). Çarpımları = (1/2) · (1/3) = 1/18."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "A, B ve C olayları bir örnek uzayın tüm ayrık sonuçlarıdır. P(A) = 1/3 ve P(B) = 1/4 olduğuna göre P(C) kaçtır?",
+      "answers": [
+        "5/12",
+        "7/12",
+        "1/2",
+        "3/4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Tüm ayrık olayların olasılıkları toplamı 1'dir. P(C) = 1 - (1/3 + 1/4) = 1 - 7/12 = 5/12 olur."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Bir torbada 5 sarı, 4 mavi top vardır. Torbadan geri atılmaksızın art arda çekilen iki topun renklerinin aynı olma olasılığı kaçtır?",
+      "answers": [
+        "4/9",
+        "5/9",
+        "19/36",
+        "17/36"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "İkisinin sarı gelmesi (5/9 · 4/8 = 20/72) veya ikisinin mavi gelmesi (4/9 · 3/8 = 12/72). Toplam = 32/72 = 4/9 olur."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "Bir sınıftaki öğrencilerin %60'ı futbol oynamaktadır. Sınıftan rastgele seçilen bir öğrencinin futbol oynamama olasılığı kaçtır?",
+      "answers": [
+        "0,2",
+        "0,3",
+        "0,4",
+        "0,6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Olasılık",
+      "difficulty": 1,
+      "explanation": "Futbol oynamama olasılığı = 100% - 60% = 40% = 0,4'tür."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Üzerinde 1'den 100'e kadar olan tam sayıların yazıldığı kartlardan biri rastgele seçiliyor. Seçilen kartın hem 2'ye hem de 5'e kalansız bölünebilen bir sayı olma olasılığı kaçtır?",
+      "answers": [
+        "1/5",
+        "1/10",
+        "3/20",
+        "1/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 2,
+      "explanation": "Hem 2 hem 5'e bölünenler 10'un katlarıdır: 10, 20, 30, ..., 100 (10 tane). Olasılık = 10/100 = 1/10'dur."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "Bir torbada renkleri dışında özdeş 4 kırmızı, 6 mavi ve 2 sarı bilye vardır. Torbadan rastgele çekilecek bir bilyenin kırmızı, mavi veya sarı renkli olma olasılıklarının birbirine eşit (eş olasılıklı) olabilmesi için torbaya en az kaç bilye daha eklenmelidir?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Olasılık",
+      "difficulty": 3,
+      "explanation": "Tüm renklerin çekilme olasılıklarının eşit (eş olasılıklı) olabilmesi için torbadaki her renkten eşit sayıda bilye olmalıdır. En az bilye ekleyerek eşitlemek için bilye sayılarını en çok olan mavi bilye sayısına (6'ya) tamamlamalıyız. Bunun için torbaya 2 kırmızı (6-4) ve 4 sarı (6-2) olmak üzere toplam 2 + 4 = 6 bilye eklenmelidir."
+    }

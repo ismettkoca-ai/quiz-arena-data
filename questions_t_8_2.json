@@ -1,0 +1,425 @@
+{
+  "unit": "Cümlede Anlam",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "Aşağıdaki cümlelerin hangisinde neden-sonuç (gerekçe) ilişkisi vardır?",
+      "answers": [
+        "Başarılı olmak için her gün düzenli olarak test çözüyor.",
+        "Hava muhalefeti nedeniyle uçak seferleri aniden iptal edildi.",
+        "Yeni çıkardığı kitabını imzalamak için kente geldi.",
+        "Sağlığına dikkat ederse kısa sürede eski gücüne kavuşacak."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Hava muhalefeti nedeniyle uçak seferleri aniden iptal edildi. Seçeneğinde seferlerin iptal edilmesinin sebebi (gerekçesi) 'hava muhalefeti'dir. 'Nedeniyle' edatı neden-sonuç ilişkisi kurmuştur."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi söz konusudur?",
+      "answers": [
+        "Aşırı yağışlar yüzünden köyün yolu trafiğe kapandı.",
+        "Yorgunluk hissettiği için erken saatlerde uyumaya gitti.",
+        "Sınavda hedeflediği puanı almak için gece gündüz demeden çalışıyor.",
+        "Hava sıcaklığı mevsim normallerinin üzerinde seyrediyor."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Sınavda hedeflediği puanı almak için gece gündüz demeden çalışıyor. Seçeneğinde çalışmasının *amacı* 'sınavda hedeflediği puanı almak'tır. '-mek için' kalıbı amaç-sonuç ilişkisi kurar."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde koşul (şart) anlamı vardır?",
+      "answers": [
+        "Akşamki yemeğe geleceğini söylemişti ama gelmedi.",
+        "Ödevlerini zamanında bitirirsen akşam dışarı çıkmana izin verebilirim.",
+        "Hava ne kadar soğuk olursa olsun mutlaka yürüyüş yaparım.",
+        "Bütün bu yaşananları hak edecek ne yaptı ki?"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Ödevlerini zamanında bitirirsen akşam dışarı çıkmana izin verebilirim. Seçeneğinde dışarı çıkma eylemi, ödevlerin bitirilmesi *şartına* bağlanmıştır ('-se/-sa' eki koşul anlamı katmıştır)."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "Aşağıdaki cümlelerin hangisi kanıtlanabilirlik açısından diğerlerinden farklıdır (Öznel bir yargı içerir)?",
+      "answers": [
+        "Yazar, son romanında akıcı ve sürükleyici bir dil kullanmış.",
+        "Ankara, Türkiye'nin coğrafi olarak merkezinde yer alan bir şehridir.",
+        "Deneme türündeki eserler genellikle kısa ve öz yazılır.",
+        "Kitapta toplam yirmi dört farklı hikaye yer almaktadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Yazar, son romanında akıcı ve sürükleyici bir dil kullanmış. Seçeneğindeki 'akıcı ve sürükleyici bir dil' ifadesi kişiden kişiye değişebilen göreceli bir durumdır, bu yüzden özneldir. Diğerleri kanıtlanabilir nesnel yargılardır."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'tanımlama' yapılmıştır?",
+      "answers": [
+        "Şiir, inceden inceye hissedilen duyguların estetik bir dille mısralara dökülmesidir.",
+        "Edebiyatımızın en verimli dönemini geçtiğimiz on yılda yaşadık.",
+        "Bu usta yazarın kitapları yediden yetmişe herkes tarafından okunuyor.",
+        "Şair, bu şiirinde yalnızlık temasını son derece etkili bir şekilde işlemiş."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Şiir, inceden inceye hissedilen duyguların estetik bir dille mısralara dökülmesidir. Seçeneğinde 'Şiir nedir?' sorusunun cevabı verilmiş ve şiirin tanımı yapılmıştır."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'varsayım' (olmamış bir şeyi olmuş gibi kabul etme) anlamı vardır?",
+      "answers": [
+        "Keşke bu projeyi hazırlarken bana da danışsaydın.",
+        "Diyelim ki sınavı birincilikle kazandın, bundan sonraki hedefin ne olacak?",
+        "Eminim bu soruyu sınıfta sadece sen doğru çözebilmişsindir.",
+        "Yarınki toplantıya katılacağını sanmıyorum çünkü hasta olduğunu söyledi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "'Diyelim ki', 'Farz edelim ki' gibi kalıplar henüz gerçekleşmemiş bir durumu gerçekleşmiş kabul etmeyi (varsayımı) ifade eder."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'pişmanlık' anlamı söz konusudur?",
+      "answers": [
+        "Böyle güzel bir tatil fırsatını kaçırdığıma çok üzülüyorum.",
+        "Keşke ona karşı o kırıcı ve sert sözleri sarf etmeseydim.",
+        "Yıllar önce bu şehirden taşınmasaydık her şey çok farklı olurdu.",
+        "Her şeyi zamanında yapsaydım şimdi bu kadar acele etmezdim."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Keşke ona karşı o kırıcı ve sert sözleri sarf etmeseydim. Seçeneğinde geçmişte yapılan hatalı bir davranıştan ötürü duyulan pişmanlık 'keşke' sözcüğü ile doğrudan ifade edilmiştir."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'ön yargı' (peşin hüküm) söz konusudur?",
+      "answers": [
+        "Bu konuyu anladıktan sonra tüm testleri hatasız çözebilirsin.",
+        "Yazarın yayımlanan son kitabını henüz okuma fırsatım olmadı.",
+        "Eminim ki bu zorlu maçı bizim takım yine kaybedecek.",
+        "Toplantıya vaktinde yetişebilmek için hızlıca taksiye bindi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Henüz oynanmamış bir maç hakkında kesin bir olumsuzluk hükmünün peşinen verilmesi ön yargı bildirmektedir."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'tasarı' (gelecekte yapılması planlanan bir iş) anlamı vardır?",
+      "answers": [
+        "Yıllardır bu tarihi kasabayı ziyaret etmenin hayalini kuruyordum.",
+        "Önümüzdeki yaz tatilinde tüm Ege sahillerini karavanla gezmeyi planlıyoruz.",
+        "Geçen hafta aldığım yeni bilgisayarım maalesef arızalandı.",
+        "Çocukluğumun en güzel yılları bu sessiz mahallede geçmişti."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "'Önümüzdeki yaz tatilinde tüm Ege sahillerini karavanla gezmeyi planlıyoruz.' cümlesinde gelecekte yapılması tasarlanan (planlanan) bir eylemden bahsedilmektedir."
+    }
+    {
+      "id": "Q_8_2_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Şair, bu şiirinde sonbahar mevsiminin hüznünü başarılı bir şekilde yansıtmış.",
+        "Bu yıl çıkan soru bankası, geçen yıla göre öğrencileri çok daha fazla zorlayacak.",
+        "Toplantı salonundaki masaların üzeri renkli çiçeklerle süslenmişti.",
+        "Okulun kütüphanesinde her yaştan öğrenci için faydalı eserler bulunuyor."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Bu yıl çıkan soru bankası, geçen yıla göre öğrencileri çok daha fazla zorlayacak. Seçeneğinde bu yılki soru bankası ile geçen yılki soru bankası zorluk derecesi bakımından karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'öneri' (tavsiye) söz konusudur?",
+      "answers": [
+        "Sınav kaygısını yenmek için her akşam yatmadan önce kitap okumalısın.",
+        "Dün akşamki konsere sen de gitseydin ne kadar çok eğlenirdin.",
+        "Yaz tatilinde memlekete gitmek yerine sahil kasabasında dinlendi.",
+        "Bu kadar ağır bir sorumluluğu tek başına üstlenmemeliydi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Kaygıyı yenmek için yapılması gereken bir davranış tavsiye (öneri) olarak sunulmuştur."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'beklenti' (gerçekleşmesi umulan durum) anlamı vardır?",
+      "answers": [
+        "Yıllar sonra köyümüze döndüğümde her şeyin değiştiğini gördüm.",
+        "Yazdığı bu romanın edebiyat dünyasında büyük bir ses getireceğini umuyorum.",
+        "Maçın son dakikalarında attığı golle takımını galibiyete taşıdı.",
+        "Erken saatlerde yola çıkmasına rağmen yine de trafiğe takıldı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Kitabın ses getireceğine dair bir inanç, bir beklenti dile getirilmiştir."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'dolaylı anlatım' (başkasının sözünü kendi cümlemizle değiştirerek aktarma) vardır?",
+      "answers": [
+        "Sanatçı, röportajında 'Gençler mutlaka bol bol klasik eser okusun.' dedi.",
+        "Usta yazar, yeni kitabında insanın iç dünyasını ele aldığını belirtti.",
+        "Öğretmenimiz derse girerken 'Defterlerinizi masanın üzerine çıkarın.' talimatını verdi.",
+        "Şair, şiirle ilgili olarak 'Şiir, emeksiz asla yazılmaz.' ifadesini kullandı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Usta yazar, yeni kitabında insanın iç dünyasını ele aldığını belirtti. Yazarın sözü tırnak içinde doğrudan verilmemiş, yazarın belirttiği şekliyle cümle içinde dolaylı olarak aktarılmıştır."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'abartma' (mübalağa) sanatına başvurulmuştur?",
+      "answers": [
+        "Ağlamaktan gözlerimde yaş, içimde derman kalmadı, adeta bir sel oldum.",
+        "Bahçedeki sarı yapraklar sonbahar rüzgarıyla etrafa uçuşuyordu.",
+        "Sabah uyanır uyanmaz kahvesini yudumlayıp balkona çıktı.",
+        "Yıllardır görmediği dostunu karşısında görünce sevinçle sarıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 1,
+      "explanation": "Ağlamaktan gözlerimde yaş, içimde derman kalmadı, adeta bir sel oldum. Seçeneğinde ağlamaktan sel olmak durumu olduğundan çok daha büyük gösterilerek abartılmıştır."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "'Sanat, hayatın birebir kopyası değil, onun süzgecinden geçirilmiş estetik bir yansımasıdır.' cümlesine anlamca en yakın cümle aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sanatçı, gerçekleri olduğu gibi yansıtarak topluma ayna tutmalıdır.",
+        "Sanat eseri, gerçek yaşamın ta kendisini doğrudan gözler önüne serer.",
+        "Sanatçı, gördüklerini kendi iç dünyasında yorumlayarak ve biçimlendirerek eserine aktarır.",
+        "Gerçek hayatta yaşanmayan hiçbir olay sanat eserine konu olamaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Orijinal cümlede sanatın doğrudan kopya olmadığı, süzgeçten (sanatçının yorumundan) geçerek yansıdığı vurgulanmıştır. Sanatçı, gördüklerini kendi iç dünyasında yorumlayarak ve biçimlendirerek eserine aktarır. Seçeneği bunu tam olarak karşılar."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'yakınma' (şikayetçi olma) anlamı vardır?",
+      "answers": [
+        "Keşke bu projeyi teslim etmeden önce bir kez daha kontrol etseydim.",
+        "Toplantıya katılan herkes bu konudaki fikirlerini açıkça dile getirdi.",
+        "Günlerdir telefonum bozuk olduğu için kimseyle iletişim kuramıyorum.",
+        "Ne kadar çalışırsan çalış, emeğinin karşılığını mutlaka alırsın."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Günlerdir telefonum bozuk olduğu için kimseyle iletişim kuramıyorum. Seçeneğinde telefonunun bozuk olmasından ötürü yaşadığı sıkıntıyı ve durumdan duyduğu şikayeti (yakınmayı) dile getirmektedir."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'eleştiri' (tenkit) anlamı söz konusudur?",
+      "answers": [
+        "Yazar, son romanında klişe karakterlere yer vererek okuyucuyu şaşırtmaktan kaçınmış.",
+        "Bu antik kent, her yıl binlerce yerli ve yabancı turistin akınına uğruyor.",
+        "Şairin ilk şiir kitabı önümüzdeki hafta raflardaki yerini alacak.",
+        "Çocukluğunun geçtiği bu dar sokaklarda saatlerce yürümeyi özlemişti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Yazar, son romanında klişe karakterlere yer vererek okuyucuyu şaşırtmaktan kaçınmış. Seçeneğinde yazarın eserinde sıradan, ezbere (klişe) karakterler seçmesi yönündeki olumsuz eleştirisi (tenkiti) dile getirilmiştir."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'gerçekleşmemiş beklenti' söz konusudur?",
+      "answers": [
+        "Bu sınavdan kesinlikle yüksek bir puan almayı umuyorum.",
+        "Yıllardır beklediğimiz müjdeli haber sonunda bugün bize ulaştı.",
+        "Sınavda çok başarılı olacağını düşünüyordum ama maalesef istediği sonucu alamadı.",
+        "Yarınki gezi için hazırlıklarını şimdiden tamamlamıştı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Sınavda çok başarılı olacağını düşünüyordum ama maalesef istediği sonucu alamadı. Seçeneğinde başarılı olacağına dair bir beklenti kurulmuş ancak sonuçta bu beklentinin gerçekleşmediği ifade edilmiştir."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'olasılık' (tahmin) anlamı vardır?",
+      "answers": [
+        "Bu saatten sonra yola çıkan otobüs muhtemelen gece yarısı şehre varır.",
+        "Ödevlerini bitirmeden asla dışarı çıkmana izin vermem.",
+        "Yarın sabah saat dokuzda okulun bahçesinde buluşalım.",
+        "Dünyanın en yüksek dağı Everest Dağı'dır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Bu saatten sonra yola çıkan otobüs muhtemelen gece yarısı şehre varır. Seçeneğindeki 'muhtemelen' sözcüğü kesinlik bildirmez, varış süresine dair bir olasılık (tahmin) anlamı katar."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "Aşağıdaki cümlelerin hangisinde anlamca bir 'çelişki' (tutarsızlık) söz konusudur?",
+      "answers": [
+        "Bu kitabı okumak bana hayatım boyunca çok şey kazandırdı.",
+        "Hava sıcaklığı sıfırın altında seyrederken dışarıda dondurma yiyordu.",
+        "Toplantıya geç kalmamak için sabah erkenden evden çıktı.",
+        "Yıllardır bu sanat dalıyla uğraştığı için artık oldukça deneyimli."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Hava sıcaklığı sıfırın altında seyrederken dışarıda dondurma yiyordu. Seçeneğinde havanın dondurucu derecede soğuk olmasıyla dışarıda dondurma yeme eylemi anlamca birbiriyle çelişmektedir (tutarsızdır)."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "'Deneme, yazarın iç sesini okuyucuyla paylaştığı, iddialardan uzak samimi bir türdür.' cümlesinden kesin olarak çıkarılabilecek yargı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Deneme yazmak diğer edebi türlere göre çok daha zahmetlidir.",
+        "Denemelerde yazar kanıtlanabilir nesnel bilgilere yer vermek zorundadır.",
+        "Deneme yazarı, okuyucuya bir şey kanıtlama çabasında olmadan içten bir üslup kullanır.",
+        "Her yazar mutlaka kariyerinin başında deneme türünde eserler vermelidir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Cümledeki 'iddialardan uzak' ifadesi kanıtlama çabasında olunmadığını, 'iç sesini paylaşması ve samimi' olması ise içten bir üslubu ifade eder."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'doğrudan anlatım' (başkasının sözünü olduğu gibi, hiç değiştirmeden aktarma) yapılmıştır?",
+      "answers": [
+        "Usta yazar, gazetecilere kitap yazmanın sabır gerektirdiğini söyledi.",
+        "Müdür bey, öğrencilere derslerine mutlaka düzenli çalışmaları gerektiğini hatırlattı.",
+        "Atatürk 'Hayatta en hakiki mürşit ilimdir.' diyerek bilimin önemini vurgulamıştır.",
+        "Rehber öğretmenimiz, gelecek hafta meslek tanıtım semineri yapılacağını duyurdu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Atatürk 'Hayatta en hakiki mürşit ilimdir.' diyerek bilimin önemini vurgulamıştır. Seçeneğinde Atatürk'ün sözü hiç değiştirilmeden, orijinal haliyle tırnak içinde doğrudan aktarılmıştır."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'hayıflanma' (bir fırsatın kaçırılmasından veya yapılamayan bir işten duyulan üzüntü) anlamı vardır?",
+      "answers": [
+        "Keşke zamanında derslerime daha çok çalışsaydım da bu duruma düşmeseydim.",
+        "Gençlik yıllarımda bu eşsiz coğrafyayı daha detaylı keşfetmediğime yanarım.",
+        "Böyle güzel bir teklifi kabul etmediği için sonunda çok pişman oldu.",
+        "Neden her seferinde aynı hatayı tekrarladığını bir türlü anlamıyorum."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Gençlik yıllarımda bu eşsiz coğrafyayı daha detaylı keşfetmediğime yanarım. Seçeneğinde geçmişte yapılamayan veya kaçırılan bir fırsatın arkasından duyulan genel üzüntü, yani hayıflanma dile getirilmiştir."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir 'ön yargı' (olumlu veya olumsuz peşin hüküm) yoktur?",
+      "answers": [
+        "Ne kadar uğraşırsa uğraşsın bu zor sınavı asla geçemez.",
+        "Eminim bu restoranda yediğimiz yemeklerin tadını asla unutamayacağız.",
+        "Yeni açılan bu sinema salonunun kısa sürede kapanacağını biliyordum.",
+        "Sanatçı, bu akşamki konserinde sevilen şarkılarını seslendirecek."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Sanatçı, bu akşamki konserinde sevilen şarkılarını seslendirecek. Seçeneğinde sanatçının konserde şarkı seslendireceği bilgisi nesnel/olağan bir planı bildirir; diğer seçeneklerde ise kesinlik içeren peşin hükümler (ön yargılar) vardır."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'önyargılı yaklaşımı değiştirmeye yönelik bir durum' (ön yargının kırılması) söz konusudur?",
+      "answers": [
+        "Önceleri bu yazarın kitaplarının sıkıcı olduğunu düşünürdüm ancak son kitabını okuyunca fikrim tamamen değişti.",
+        "Herkes onun bu zorlu görevi başarıyla tamamlayacağından son derece emindi.",
+        "Toplantıya katılmayı başta istememişti ama ısrarlar üzerine kabul etti.",
+        "Şirketteki tüm çalışanlar yöneticinin kararına karşı çıktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Önceleri bu yazarın kitaplarının sıkıcı olduğunu düşünürdüm ancak son kitabını okuyunca fikrim tamamen değişti. Seçeneğinde yazar hakkındaki eski olumsuz düşüncenin (ön yargının) sonradan gerçekleşen bir olayla kırıldığı açıkça belirtilmiştir."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'üslup' (anlatım biçimi, dil ve ifade özellikleri) ile ilgili bir değerlendirme yapılmıştır?",
+      "answers": [
+        "Yazar, bu romanında köyden kente göç eden bir ailenin trajedisini ele almış.",
+        "Eserde akıcı, sade ve okuyucuyu yormayan yalın bir dil tercih edilmiş.",
+        "Kitap, 1980'li yılların çalkantılı siyasi dönemini tüm gerçekliğiyle gözler önüne seriyor.",
+        "Yazar, karakterleri kurgularken kendi hayatından izler taşımış."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "Üslup 'nasıl anlatıldığı' (dil, sözcük seçimi, akıcılık) ile ilgilidir. Eserde akıcı, sade ve okuyucuyu yormayan yalın bir dil tercih edilmiş. Seçeneğinde dilin sade ve akıcı olması üslup özelliğidir; diğerleri içerikle ilgilidir."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'içerik' (konu) ile ilgili bir değerlendirme yapılmıştır?",
+      "answers": [
+        "Sanatçı, devrik cümlelere ve süslü sanatlı söyleyişlere sıklıkla yer vermiş.",
+        "Yazar, romanındaki olayları kasvetli ve bunaltıcı bir atmosferde kurgulamış.",
+        "Bu şiir kitabında aşk, gurbet ve yalnızlık temaları en ince ayrıntısına kadar işlenmiş.",
+        "Eserdeki cümleler kısa tutularak anlatımın duruluğu artırılmaya çalışılmış."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "İçerik 'eserde ne anlatıldığı' (konu ve temalar) demektir. Bu şiir kitabında aşk, gurbet ve yalnızlık temaları en ince ayrıntısına kadar işlenmiş. Seçeneğinde aşk, gurbet ve yalnızlık gibi konular (içerik) vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'öz eleştiri' (kişinin kendi kendini eleştirmesi, hatalarını kabul etmesi) söz konusudur?",
+      "answers": [
+        "Toplantıdaki herkes projemi çok beğendiğini söyleyip beni tebrik etti.",
+        "Zamanında insanlara karşı biraz daha sabırlı olsaydım bu sorunların hiçbirini yaşamazdım.",
+        "Arkadaşlarım bana ne kadar yardım etmek istedese de onları hep geri çevirdim.",
+        "Yıllardır bu sektörde çalışıyorum ama hâlâ eksiklerim olduğunu fark edemiyorum."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Zamanında insanlara karşı biraz daha sabırlı olsaydım bu sorunların hiçbirini yaşamazdım. Seçeneğinde kişinin geçmişteki davranışlarına yönelik kendi eksikliğini ve hatasını fark edip dile getirmesi öz eleştiridir."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karamsarlık' (ümitsizlik) hâkimdir?",
+      "answers": [
+        "Bütün kapılar yüzümüze kapansa da er ya da geç bu zorlukları aşacağız.",
+        "Geleceğe dair içimde hâlâ yeşeren minik bir umut kırıntısı var.",
+        "Ne kadar çabalarsak çabalayalım bu bozuk düzeni asla düzeltemeyeceğiz, her şey boş.",
+        "Yarın güneşin yeniden doğacağı inancıyla karanlık geceleri geride bırakıyoruz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 2,
+      "explanation": "Ne kadar çabalarsak çabalayalım bu bozuk düzeni asla düzeltemeyeceğiz, her şey boş. Seçeneğinde geleceğe dair inancın kalmadığı, her şeyin boş olduğu inancı yani tam bir karamsarlık (ümitsizlik) hakimdir."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "I. Yazarlar, çocuk kitapları yazarken onların hayal dünyasına hitap etmeyi asla unutmamalıdır.\nII. Çocuk edebiyatı, yetişkin edebiyatından çok daha fazla özen ve hassasiyet gerektirir.\nIII. Günümüzdeki çocuk kitaplarının birçoğu ne yazık ki bu hassasiyetten oldukça uzaktır.\n\nYukarıdaki numaralanmış cümlelerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "answers": [
+        "I. cümlede bir zorunluluk veya uyarı anlamı vardır.",
+        "II. cümlede iki farklı edebi alan karşılaştırılmıştır.",
+        "III. cümlede bir durumdan duyulan memnuniyet dile getirilmiştir.",
+        "Cümlelerin tamamında çocuk edebiyatına dair kişisel görüşler (öznel yargılar) hakimdir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlede Anlam",
+      "difficulty": 3,
+      "explanation": "III. cümlede çocuk kitaplarının bu hassasiyetten uzak olduğu belirtilerek bir eksiklikten şikayet/yakınma (memnuniyetsizlik) dile getirilmiştir; dolayısıyla 'memnuniyet' ifadesi yanlıştır."
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "unit": "Hayatımızdaki Ekonomi",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "Türkiye'de coğrafi konum ve iklim özellikleri dikkate alındığında, Akdeniz ve Ege kıyılarında yaygın olarak yapılan seracılık faaliyeti ekonominin hangi sektörüyle doğrudan ilgilidir?",
+      "answers": [
+        "Tarım (Birincil Sektör)",
+        "Sanayi",
+        "Hizmet",
+        "Teknoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Seracılık ve tarımsal faaliyetler birincil (tarım) sektörünün kapsamındadır."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Ülkemizde petrol, taşkömürü, linyit ve bor gibi yer altı zenginliklerinin çıkarılması ve işlenmesi hangi ekonomik faaliyete temel oluşturur?",
+      "answers": [
+        "Turizm",
+        "Madencilik ve Sanayi",
+        "Arıcılık",
+        "Balıkçılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Yer altı kaynaklarının çıkarılması madencilik, işlenmesi ise sanayi faaliyetidir."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "Bir malın tarladan ya da fabrikadan çıkıp tüketiciye ulaşıncaya kadar geçirdiği taşıma, depolama ve pazarlama aşamalarının tümüne ne ad verilir?",
+      "answers": [
+        "Üretim",
+        "Dağıtım",
+        "Tüketim",
+        "Tasarruf"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Ürünlerin pazara ve tüketiciye ulaştırılması süreci 'dağıtım' olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "Aşağıdakilerden hangisi tüketici olarak haklarımızı korumak ve bilinçli alışveriş yapmak için uymamız gereken kurallardan biri DEĞİLDİR?",
+      "answers": [
+        "Alışveriş sonrasında fiş veya fatura almak",
+        "Ürünlerin son kullanma tarihlerini kontrol etmek",
+        "Garanti belgesini onaylatmak",
+        "Etiketsiz ve belgesiz ürünleri hiçbir hak aramadan almak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Bilinçli tüketici belgesiz ve etiketsiz ürün almaz, hakkını arar."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "Devletin kamu hizmetlerini (okul, hastane, yol, güvenlik) yürütmek için vatandaşlardan kanunlara göre topladığı paraya ne ad verilir?",
+      "answers": [
+        "Bağış",
+        "Vergi",
+        "Kredi",
+        "Hibe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Vergi, devletin kamu giderlerini karşılamak için vatandaşlardan topladığı yasal ödemedir."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Türkiye'nin önemli bir turizm potansiyeline sahip olmasında aşağıdakilerden hangisinin etkisi en azdır?",
+      "answers": [
+        "Zengin tarihi ve kültürel miras kalıntıları",
+        "Dört mevsimin yaşanması ve kıyılarındaki plajlar",
+        "Çöl ikliminin yaygın olması",
+        "Üç tarafının denizlerle çevrili olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Türkiye'de çöl iklimi görülmez; bu ifade turizm açısından geçersizdir."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "Erzurum ve Kars yöresinde yaz aylarında gür çayırların bulunması hangi ekonomik faaliyetin bu bölgede gelişmesini sağlamıştır?",
+      "answers": [
+        "Muz ve zeytin tarımı",
+        "Büyükbaş çayır hayvancılığı (ve et/süt üretimi)",
+        "Tropikal meyve üretimi",
+        "Seracılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Yaz yağışlarıyla yeşeren çayırlar Doğu Anadolu'da (Erzurum-Kars) büyükbaş hayvancılığı geliştirmiştir."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "Bir yatırımcının elindeki sermayeyi yeni bir iş koluna yatırarak istihdam yaratması ve yenilikçi fikirler hayata geçirmesine ne denir?",
+      "answers": [
+        "İsraf",
+        "Girişimcilik",
+        "Tüketicilik",
+        "Monopol"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Risk alarak üretim ve iş alanı yaratan kişilere girişimci denir."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "Aşağıdakilerden hangisi meslek seçiminde bireyin dikkat etmesi gereken en önemli kişisel özelliklerdendir?",
+      "answers": [
+        "Kendi ilgi, yetenek ve becerilerini bilmek",
+        "Sadece arkadaşlarının tercih ettiği mesleği seçmek",
+        "Hiç çalışmadan para kazandıran işlere yönelmek",
+        "Zorluklardan kaçmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Başarılı bir meslek seçimi bireyin kendi ilgi ve yetenekleriyle doğrudan uyumlu olmalıdır."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "Ülkemizde nitelikli insan gücünü artırmak ve gençleri mesleki eğitime yönlendirmek amacıyla kurulan, kalifiye eleman yetiştiren okulların genel adı nedir?",
+      "answers": [
+        "Mesleki ve Teknik Anadolu Liseleri",
+        "Sadece teorik liseler",
+        "Askeri akademiler",
+        "Spor kulüpleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Nitelikli insan gücü ve üretim için mesleki ve teknik liseler kritik rol oynar."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Doğal kaynakların tükenmesini engellemek ve gelecek nesillere yaşanabilir bir çevre bırakmak için ekonomik hayatta neye önem verilmelidir?",
+      "answers": [
+        "Sürdürülebilir üretim ve tasarrufa",
+        "Kaynakları sınırsızca tüketmeye",
+        "İsrafı artırmaya",
+        "Fabrika atıklarını doğaya bırakmaya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Ekonomide sürdürülebilirlik ve tasarruf gelecek için şarttır."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "Aşağıdakilerden hangisi Atatürk döneminde ekonomik alanda atılan bağımsızlık adımlarından biridir?",
+      "answers": [
+        "İzmir İktisat Kongresi'nin toplanması",
+        "Yabancıların ülkeyi yönetmesi",
+        "Tarımın tamamen yasaklanması",
+        "Osmanlı borçlarının ödenmemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "1923 yılında toplanan İzmir İktisat Kongresi milli ekonomi politikasının temelini atmıştır."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "Hizmet sektöründe faaliyet gösteren bir işletme aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "Bir çelik boru fabrikası",
+        "Bir buğday tarlası",
+        "Bir sigorta acentesi veya otel",
+        "Bir kömür maden ocağı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Otelcilik, bankacılık ve sigortacılık hizmet sektörüdür."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "Bilinçli bir tüketicinin ayıplı (kusurlu) bir ürünle karşılaştığında kanunen sahip olduğu seçimlik haklardan biri DEĞİLDİR?",
+      "answers": [
+        "Ürünün ücretsiz onarılmasını istemek",
+        "Ürünü yenisiyle değiştirmek",
+        "Ürünü hiç ödeme yapmadan çalmak",
+        "Ücret iadesi talep etmek"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Tüketici kanununa göre onarım, değişim, ücret iadesi veya indirim istenebilir; hırsızlık hak değildir."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "Türkiye'de pamuk tarımının en çok geliştiği Güneydoğu Anadolu Bölgesi'nde hangi sanayi kolünün gelişmesi beklenir?",
+      "answers": [
+        "Tekstil ve dokuma sanayi",
+        "Çay paketleme sanayi",
+        "Gemi yapım tersaneleri",
+        "Otomotiv montaj sanayi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Pamuk hammaddesinin yetiştiği yerde tekstil ve pamuklu dokuma sanayi gelişir."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "Ülkemizin ekonomik kalkınmasında vergisini düzenli ödeyen vatandaşların rolü nedir?",
+      "answers": [
+        "Devletin yatırımlarını finanse ederek kamu hizmetlerinin sunulmasını sağlarlar.",
+        "Ekonomiyi batırırlar.",
+        "Devletin borçlanmasını artırırlar.",
+        "Hiçbir etkisi yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Vergiler okul, hastane, yol ve güvenlik gibi kamu hizmetlerinin finansman kaynağıdır."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "Aşağıdakilerden hangisi e-ticaret (internet üzerinden alışveriş) yaparken dikkat edilmesi gereken güvenliluk önlemlerinden biridir?",
+      3,
+      "answers": [
+        "SSL sertifikası olmayan ve güven vermeyen sahte sitelerden alışveriş yapmak",
+        "Ödeme yaparken sanal kart kullanmak ve güvenilir siteleri tercih etmek",
+        "Kredi kartı şifresini herkesle paylaşmak",
+        "Kapıda ödeme seçeneğini hiç kullanmamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Güvenli siteler ve sanal kartlar e-ticarette dolandırıcılığı önler."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Bir bölgede sanayi ve ticaretin gelişmesinde en önemli altyapı unsuru nedir?",
+      "answers": [
+        "Ulaşım ve demiryolu/karayolu ağlarının varlığı",
+        "Sürekli kar yağması",
+        "Deniz kıyısından çok uzak dağlar",
+        "Nüfusun sıfır olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Ulaşım imkanları ticaret ve sanayinin kalbidir."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "Aşağıdakilerden hangisi kaynakların verimli kullanılmasına (tasarrufa) örnek gösterilemez?",
+      "answers": [
+        "Boş kalan odalardaki lambaları kapatmak",
+        "Muslukları açık bırakarak diş fırçalamak",
+        "Geri dönüştürülebilir kağıtları toplamak",
+        "Gıda israfından kaçınmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Musluğu açık bırakmak su israfıdır, tasarruf değildir."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "Tarımsal üretimi artırmak ve kuraklık sorununu çözmek amacıyla GAP (Güneydoğu Anadolu Projesi) kapsamında inşa edilen en büyük sulama projeleri hangi nehirler üzerindedir?",
+      "answers": [
+        "Fırat ve Dicle",
+        "Kızılırmak ve Yeşilırmak",
+        "Sakarya ve Meriç",
+        "Aras ve Kura"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "GAP projesi Fırat ve Dicle nehirleri sularının sulama ve enerji amaçlı kullanılmasını hedefler."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "Bir esnafın veya şirketin yıl sonunda elde ettiği gelirlerden giderler çıkarıldıktan sonra kalan paraya ne denir?",
+      "answers": [
+        "Kâr (Net Kazanç)",
+        "Borç",
+        "Maliyet",
+        "Vergi borcu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Gelir eksi gider kârı verir."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "Aşağıdaki mesleklerden hangisi 'Sanayi ve Teknoloji' alanında doğrudan üretim yapar?",
+      "answers": [
+        "Yazılım Mühendisi / Makine Mühendisi",
+        "Manav",
+        "Turist rehberi",
+        "Hakim"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Mühendisler sanayi ve teknoloji üretiminin merkezindedir."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "İhracat (dış satım) kelimesinin ekonomik anlamı nedir?",
+      "answers": [
+        "Ülkemizde üretilen malların yabancı ülkelere satılması",
+        "Yabancı ülkelerden mal satın alınması",
+        "Malların iç piyasada tüketilmesidir",
+        "Ülke içine göç edilmesidir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Kendi ürettiğimiz ürünleri dış ülkelere satmak ihracattır."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "İthalat (dış alım) kavramı neyi ifade eder?",
+      "answers": [
+        "Yabancı ülkelerden mal satın alıp ülkemize getirmek",
+        "Ürettiğimiz malları dışarıya göndermek",
+        "Vergi muafiyeti sağlamak",
+        "Fabrika kapatmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Dışarıdan ürün almak ithalattır."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "TSE (Türk Standardları Enstitüsü) damgası bir ürün üzerinde bulunuyorsa bu tüketiciye neyi garanti eder?",
+      "answers": [
+        "Ürünün belli kalite ve güvenlik standartlarına uygun olarak üretildiğini",
+        "Ürünün dünyadaki en pahalı ürün olduğunu",
+        "Ürünün sadece ithal olduğunu",
+        "Ürünün garantisinin olmadığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "TSE damgası kalite ve standart uygunluğunu gösterir."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "Mert, yaz tatilinde çalışarak elde ettiği paranın bir kısmıyla okul eşyalarını almış, kalan kısmını ise gelecekteki üniversite eğitimi için bankada birikim hesabına yatırmıştır. Mert'in bu davranışı onun ekonomik olarak hangi özelliğe sahip olduğunu gösterir?",
+      "answers": [
+        "Geleceğini planlayan, tasarruf ve yatırım bilincine sahip bilinçli bir birey olduğunu",
+        "Parasını savurganca harcadığını",
+        "Ekonomik kriz yarattığını",
+        "Sadece günlük yaşadığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 3,
+      "explanation": "Mert birikim yaparak yatırım bilinci sergilemiştir."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "Aşağıdakilerden hangisi hayvancılık faaliyetlerinin gelişmesinde bitki örtüsünün (bozkır veya çayır) rolüne örnektir?",
+      "answers": [
+        "Erzurum-Kars'ta çayırların varlığına bağlı büyükbaş hayvancılık",
+        "İç Anadolu'da deniz balıkçılığı",
+        "Karadeniz'de deve yetiştiriciliği",
+        "Akdeniz'de kutup ayımsı hayvancılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Bitki örtüsü hayvancılık türünü doğrudan belirler."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "Mesleki eğitim veren okulların ülke ekonomisine sağladığı en büyük katkı nedir?",
+      "answers": [
+        "Piyasanın aradığı kalifiye (nitelikli) ve donanımlı eleman ihtiyacını karşılaması",
+        "İşsizliği artırması",
+        "Üretimi tamamen durdurması",
+        "Eğitimsiz insan sayısını çoğaltması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Sanayi ve hizmet sektörünün kalifiye eleman ihtiyacı bu okullardan karşılanır."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "Aşağıdakilerden hangisi bir ailenin bütçe açığı yaşamaması (borca girmemesi) için yapması gereken doğru bir tutumdur?",
+      "answers": [
+        "Gelirine göre harcama yapması ve zorunlu ihtiyaçlara öncelik vermesi",
+        "Gelirinden çok daha fazla harcama yapması",
+        "Kredi kartlarını limiti aşana kadar kullanması",
+        "Alışveriş listesi yapmadan rastgele harcaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Bütçe dengesi gelir-gider uyumuna ve öncelik sırasına bağlıdır."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "Tüketici hakları ile ilgili sorun yaşayan bir vatandaş resmi olarak hak aramak için hangi kuruma veya heyete dilekçe vermelidir?",
+      "answers": [
+        "Tüketici Hakem Heyeti veya Tüketici Mahkemesi",
+        "Spor kulüpleri",
+        "Muhtarlık",
+        "Karayolları müdürlüğü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Yasal tüketici uyuşmazlıkları hakem heyetleri ve mahkemelerce çözülür."
+    }
+  ]
+}

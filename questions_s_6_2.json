@@ -1,0 +1,426 @@
+{
+  "unit": "Evimiz Dünya",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "Dünya'nın şeklinin kutuplardan basık, ekvatordan şişkin kendine has geometrik adına ne denir?",
+      "answers": [
+        "Küre",
+        "Geoit",
+        "Elips",
+        "Silindir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünyanın kendine özgü basık şekline geoit denir."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "Dünyayı kuzey ve güney yarım küre olarak iki eşit parçaya böldüğü varsayılan hayali ana çizgiye ne ad verilir?",
+      "answers": [
+        "Ekvator",
+        "Meridyen",
+        "Greenwich",
+        "Dönence"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünyayı ortadan ikiye bölen en büyük paralelin adı Ekvator'dur."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "Aşağıdakilerden hangisi Dünya'nın üzerindeki konumumuzu belirlemek için kullanılan hayali yatay çemberlerden biridir?",
+      "answers": [
+        "Paraleller (Enlemler)",
+        "Meridyenler",
+        "Saat dilimleri",
+        "Kıtasal sınırlar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Doğu-batı doğrultusunda uzanan çemberlere paralel denir."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "Başlangıç meridyeni (Greenwich) hangi ülkenin sınırları içerisinde yer almaktadır?",
+      "answers": [
+        "Fransa",
+        "İngiltere",
+        "İtalya",
+        "İspanya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Başlangıç meridyeni İngiltere'nin başkenti Londra'daki Greenwich gözlemevinden geçer."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "Türkiye matematiksel konum olarak kuzey yarım kürede ve hangi meridyenler arasındadır?",
+      "answers": [
+        "26 - 45 Doğu meridyenleri",
+        "36 - 42 Kuzey paralelleri (Paralel aralığı)",
+        "0 - 30 Batı meridyenleri",
+        "10 - 20 Güney paralelleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Türkiye 36°-42° Kuzey paralelleri ile 26°-45° Doğu meridyenleri arasında yer alır."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "Dünyamız üzerinde toplam kaç tane paralel çemberi (derecesi) bulunmaktadır?",
+      "answers": [
+        "90",
+        "180",
+        "360",
+        "365"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Kuzeyde 90, güneyde 90 olmak üzere toplam 180 paralel çemberi vardır."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "Dünyamız üzerinde toplam kaç tane meridyen yayı bulunmaktadır?",
+      "answers": [
+        "90",
+        "180",
+        "360",
+        "720"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Doğuda 180, batıda 180 olmak üzere toplam 360 meridyen yayı vardır."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "Aşağıdakilerden hangisi Asya ile Avrupa kıtalarını birbirinden ayıran doğal ve beşeri unsurlardan biri DEĞİLDİR?",
+      "answers": [
+        "İstanbul ve Çanakkale Boğazları",
+        "Ural Dağları",
+        "Bering Boğazı",
+        "Kafkas Dağları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Bering Boğazı Asya ile Kuzey Amerika (Asya ile Alaska) arasındadır."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "Türkiye'nin Asya, Avrupa ve Afrika kıtalarının birbirine en çok yaklaştığı merkezde bulunması onun hangi konumunu açıklar?",
+      "answers": [
+        "Matematik (mutlak) konumunu",
+        "Özel (göreceli) konumunu",
+        "Yalnız iklim özelliklerini",
+        "Saat dilimini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Kıtalara göre geçiş güzergahında olmak özel (göreceli) konumdur."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "İki meridyen arası zaman farkı dünya genelinde her yerde kaç dakikadır?",
+      "answers": [
+        "1 dakika",
+        "4 dakika",
+        "60 dakika",
+        "15 dakika"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünya kendi ekseni etrafındaki dönüşünü 360 meridyende 24 saatte tamamlar; iki meridyen arası 4 dakikadır."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "Yeryüzündeki en büyük okyanus aşağıdakilerden hangisidir?",
+      "answers": [
+        "Atlantik (Atlas) Okyanusu",
+        "Hint Okyanusu",
+        "Pasifik (Büyük) Okyanus",
+        "Arktik Okyanusu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünyanın en büyük ve en derin okyanusu Pasifik (Büyük) Okyanus'tur."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "Kuzey Yarım Küre'de en uzun gündüz hangi tarihte yaşanır?",
+      "answers": [
+        "21 Haziran",
+        "21 Aralık",
+        "21 Mart",
+        "23 Eylül"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "21 Haziran'da (Yaz Gündönümü) Kuzey Yarım Küre'de gündüzler en uzun sürer."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Gece ile gündüzün tüm dünyada eşit uzunlukta olduğu (ekinoks) tarihler hangileridir?",
+      "answers": [
+        "21 Haziran - 21 Aralık",
+        "21 Mart - 23 Eylül",
+        "1 Ocak - 30 Ağustos",
+        "29 Ekim - 23 Nisan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "21 Mart ve 23 Eylül tarihlerinde gece ve gündüz süreleri eşitlenir (ekinoks)."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "Aşağıdakilerden hangisi Dünya'nın günlük hareketinin (kendi ekseni etrafında dönmesinin) sonuçlarından biridir?",
+      "answers": [
+        "Mevsimlerin oluşması",
+        "Gece ve gündüzün birbirini izlemesi",
+        "Yıl boyunca gölge boylarının değişmesi",
+        "Muson rüzgarlarının çıkması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Günlük hareket sonucunda gece ve gündüz birbirini takip eder."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Aşağıdakilerden hangisi Dünya'nın yıllık hareketinin ve eksen eğikliğinin sonucudur?",
+      "answers": [
+        "Günlük sıcaklık farkları",
+        "Mevsimlerin oluşması",
+        "Güneş'in doğudan doğması",
+        "Yerel saat farkları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Yıllık hareket ve 23 derece 27 dakika olan eksen eğikliği mevsimleri oluşturur."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "Türkiye hangi saat dilimleri arasında yer alır ve ulusal saat olarak hangi boylamı baz alır?",
+      "answers": [
+        "2. Saat dilimi / 30° Doğu",
+        "3. Saat dilimi / 45° Doğu",
+        "1. Saat dilimi / 15° Doğu",
+        "4. Saat dilimi / 60° Doğu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Türkiye yıl boyunca Iğdır'ın meridyeni olan 45° Doğu meridyenini (3. saat dilimi) ortak saat olarak kullanır."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "Dünya'nın en küçük kıtası aşağıdakilerden hangisidir?",
+      "answers": [
+        "Avrupa",
+        "Antarktika",
+        "Okyanusya (Avustralya)",
+        "Afrika"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Yüz ölçümü bakımından en küçük kıta Okyanusya (Avustralya) kıtasıdır."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "Ekvator'dan kutuplara doğru gidildikçe güneş ışınlarının geliş açısı nasıl değişir?",
+      "answers": [
+        "Açı büyür, hava ısınır.",
+        "Açı küçülür, hava soğur.",
+        "Hiçbir değişiklik olmaz.",
+        "Sürekli dik açıyla düşer."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Ekvatordan kutuplara gidildikçe eğikleşen açılar sıcaklığın düşmesine neden olur."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "Aşağıdaki ülkelerden hangisi Türkiye'nin komşularından biri DEĞİLDİR?",
+      "answers": [
+        "Bulgaristan",
+        "İran",
+        "Almanya",
+        "Suriye"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Almanya Orta Avrupa'da yer alır, Türkiye'nin kara komşusu değildir."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "Haritalarda yer alan detayları görebilmek için yapılan küçültme oranına ne ad verilir?",
+      "answers": [
+        "Ölçek",
+        "Lejant",
+        "Koordinat",
+        "İzohips"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Haritadaki küçültme oranı ölçektir."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "Meridyenler ile ilgili aşağıda verilen bilgilerden hangisi YANLIŞTIR?",
+      "answers": [
+        "Bütün meridyen yaylarının boyları birbirine eşittir.",
+        "Kutuplarda birleşirler.",
+        "İki meridyen arasındaki zaman farkı her yerde 4 dakikadır.",
+        "Ekvator'da aralarındaki mesafe 111 kilometredir ve hiç değişmez."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Meridyenler arası mesafe sadece Ekvator'da 111 km'dir; kutuplara doğru meridyenler yaklaştığı için aralarındaki mesafe daralır."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "Türkiye'nin kuzeyinde yer alan ve Karadeniz'i Akdeniz'e bağlayan boğazlar hangi iki kıtayı birbirine bağlar?",
+      "answers": [
+        "Asya - Avrupa",
+        "Afrika - Asya",
+        "Amerika - Avrupa",
+        "Avustralya - Asya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İstanbul ve Çanakkale boğazları Asya ile Avrupa kıtalarını birbirine bağlar."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "Bir yerin yerel saati Başlangıç Meridyeni'nden (Greenwich) ileride ise bu yer nerededir?",
+      "answers": [
+        "Batı yarım kürede",
+        "Doğu yarım kürede",
+        "Güney kutbunda",
+        "Ekvator üzerinde"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Dünya batıdan doğuya döndüğü için doğudaki yerlerin yerel saati her zaman ileridedir."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Aşağıdakilerden hangisi iklimin insan yaşamı üzerindeki etkilerinden biri DEĞİLDİR?",
+      3,
+      "answers": [
+        "Giyilen kıyafet türlerini belirlemesi",
+        "Evlerin yapı malzemesini etkilemesi",
+        "İnsanın göz rengini doğrudan değiştirmesi",
+        "Tarım ürünlerinin çeşidini belirlemesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İklim giyim, konut tipi ve tarımı etkiler ancak genetik özellikleri (göz rengi gibi) değiştirmez."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Aşağıdaki kıtaların hangisinde insan yaşamının olmadığı (sadece bilimsel araştırma istasyonlarının bulunduğu) bilinmektedir?",
+      "answers": [
+        "Avustralya",
+        "Antarktika",
+        "Afrika",
+        "Güney Amerika"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Antarktika kıtası tamamen buzullarla kaplıdır ve yerli insan nüfusu yoktur."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "Doğu ulusal sınırımızda yer alan Iğdır ilinde güneş batarken, batı sınırlarımızdaki Çanakkale ilinde güneşin batmasına daha zaman vardır. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Iğdır'ın yükseltisinin fazla olması",
+        "Iğdır ile Çanakkale arasında boylam (meridyen) farkının bulunması",
+        "Çanakkale'nin deniz kenarında olması",
+        "İklimlerinin farklı olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Doğu ile batı arasındaki yerel saat farkı meridyen (boylam) farkından kaynaklanır."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "Paralellerin boyları ile ilgili aşağıda verilen ifade hangisidir?",
+      "answers": [
+        "Her bir paralelin boyu birbirine eşittir.",
+        "Ekvatordan kutuplara doğru gidildikçe paralellerin boyları kısalır.",
+        "Kutuplardan ekvatora doğru gidildikçe paraleller kısalır.",
+        "Sadece başlangıç paraleli uzundur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Dünya küresel yapıda olduğu için ekvatordan kutuplara doğru paralellerin boyu küçülür."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "Türkiye'nin kuzeyinden esen rüzgarlar sıcaklığı düşürürken, güneyinden esen rüzgarlar sıcaklığı artırır. Bu durumun temel nedeni nedir?",
+      "answers": [
+        "Türkiye'nin Kuzey Yarım Küre'de yer alması",
+        "Üç tarafının denizlerle çevrili olması",
+        "Yükseltisinin batıdan doğuya artması",
+        "Dağların uzanış yönü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Kuzey yarım kürede yer aldığımız için kuzeyden gelenler kutuptan (soğuk), güneyden gelenler ekvatordan (sıcak) eser."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "Aşağıdakilerden hangisi haritalarda hata payının en az olduğu projeksiyon (çizim) yöntemidir?",
+      "answers": [
+        "Küresel modeller (Küre)",
+        "Düzlem haritalar",
+        "Silindirik haritalar",
+        "Kroki çizimleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Dünyanın gerçeğe en yakın modeli küre olduğu için hata payı en azdır."
+    },
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Yeryüzündeki tüm su kütlelerinin (okyanuslar ve denizler hariç) karalar üzerindeki dağılımı incelendiğinde, karaların en fazla yer aldığı yarım küre hangisidir?",
+      "answers": [
+        "Kuzey Yarım Küre",
+        "Güney Yarım Küre",
+        "Doğu Yarım Küre",
+        "Batı Yarım Küre"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Karalar ağırlıklı olarak Kuzey Yarım Küre'de yer alır (bu yüzden karalar yarım küresi de denir)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Yaşayan Demokrasimiz",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Tarihte demokratik hak ve özgürlüklerin genişlemesinde dönüm noktası olan, 1215 yılında kralın yetkilerini kısıtlayan İngiliz belgesi nedir?",
+      "answers": [
+        "Magna Carta",
+        "Fransız İhtilali Bildirgesi",
+        "Kadeş Antlaşması",
+        "Sened-i İttifak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Magna Carta kralın yetkilerini sınırlayan ilk belgedir."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Türkiye Cumhuriyeti'nde egemenliğin millete ait olduğunu tescil eden ve yeni Türk devletinin rejimini belirleyen en büyük adım nedir?",
+      "answers": [
+        "Cumhuriyetin ilanı (29 Ekim 1923)",
+        "Saltanatın kaldırılması",
+        "TBMM'nin açılması",
+        "Halifeliğin kaldırılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Cumhuriyetin ilanı ile devletin rejimi ve yönetim şekli netleşmiştir."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "Osmanlı Devleti'nde anayasal düzene geçişin ve ilk parlamenter sistemin başlangıcı olan gelişme hangisidir?",
+      "answers": [
+        "I. Meşrutiyet'in ilanı ve Kanun-ı Esasi",
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Cumhuriyetin ilanı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "1876'da Kanun-ı Esasi ile I. Meşrutiyet ilan edilmiş ve ilk anayasal düzene geçilmiştir."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "Atatürk döneminde çok partili hayata geçiş denemeleri kapsamında kurulan ilk muhalefet partisi hangisidir?",
+      "answers": [
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Serbest Cumhuriyet Fırkası",
+        "Cumhuriyet Halk Fırkası",
+        "Demokrat Parti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "1924 yılında kurulan ilk muhalefet partisi Terakkiperver Cumhuriyet Fırkası'dır."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "Türkiye'de çok partili siyasi hayata kalıcı olarak geçişin sağlandığı ve iktidar değişiminin ilk kez demokratik yolla gerçekleştiği genel seçim yılı hangisidir?",
+      "answers": [
+        "1950",
+        "1923",
+        "1930",
+        "1960"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "1950 seçimleri ile Demokrat Parti iktidara gelmiş ve çok partili siyasi hayat yerleşmiştir."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Demokratik bir hukuk devletinde 'kuvvetler ayrılığı' ilkesi gereğince yasama, yürütme ve yargı organlarının durumu nasıl olmalıdır?",
+      "answers": [
+        "Birbirinden bağımsız olmalı ve birbirini denetlemelidir",
+        "Hepsi tek bir kişinin elinde toplanmalıdır",
+        "Yargı hükümete bağlı olmalıdır",
+        "Meclis mahkemelerin yerine geçmelidir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Kuvvetler ayrılığı ilkesi erklerin bağımsız ve dengeli olmasını öngörür."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "Aşağıdakilerden hangisi Türk kadınına siyasi hakların (seçme ve seçilme hakkının) verilmesi sürecinde tanınan haklardan biri DEĞİLDİR?",
+      "answers": [
+        "Milletvekili seçme ve seçilme",
+        "Muhtar seçme ve seçilme",
+        "Belediye seçimlerine katılma",
+        "Askeri komutan olma"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Kadınlara 1930'da belediye, 1933'te muhtarlık, 1934'te milletvekili seçme ve seçilme hakkı verilmiştir."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "Türkiye Cumhuriyeti'nde kanun yapma ve değiştirme yetkisini elinde bulunduran erk (güç) hangisidir?",
+      "answers": [
+        "Yasama (TBMM)",
+        "Yürütme (Cumhurbaşkanı)",
+        "Yargı (Mahkemeler)",
+        "Yerel yönetimler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Yasama yetkisi Türk milleti adına TBMM'ye aittir."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Demokratik toplumlarda bireylerin hak arama yollarından biri olarak sivil toplum kuruluşlarında görev alması neyi ifade eder?",
+      "answers": [
+        "Aktif ve katılımcı vatandaşlık bilincini",
+        "Devlete karşı isyan etmeyi",
+        "Ticari kazanç sağlamayı",
+        "Zorunlu devlet görevini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "STK'larda çalışmak aktif vatandaşlığın ve demokrasinin göstergesidir."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "Aşağıdakilerden hangisi Türkiye'nin demokratikleşme sürecinde atılan adımlardan biri değildir?",
+      "answers": [
+        "Saltanatın kaldırılması",
+        "Cumhuriyetin ilanı",
+        "Tek parti baskısının anayasayla kalıcılaştırılması",
+        "Çok partili hayata geçiş denemeleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Türkiye'de amaç hiçbir zaman tek parti rejimini kalıcılaştırmak olmamıştır; her zaman çok partili sisteme geçilmeye çalışılmıştır."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "Osmanlı döneminde halkın yönetime katıldığı ilk meclis olan Meclis-i Mebusan hangi padişah döneminde açılmıştır?",
+      "answers": [
+        "II. Abdülhamid",
+        "Abdülaziz",
+        "II. Mahmut",
+        "Kanuni Sultan Süleyman"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "I. Meşrutiyet II. Abdülhamid döneminde ilan edilmiştir."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Demokrasilerde yöneticilerin hesap verebilir olması ve halk tarafından denetlenmesi hangi ilkeyle doğrudan ilgilidir?",
+      "answers": [
+        "Milli egemenlik ve şeffaflık",
+        "Monarşik yönetim",
+        "Otokrasi",
+        "Merkeziyetçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Halkın oyuyla gelen yöneticiler halka hesap vermekle yükümlüdür."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "Türkiye Cumhuriyeti'nde temel hak ve özgürlüklerin sınırlandırılması hangi duruma dayanmak zorundadır?",
+      "answers": [
+        "Anayasa'ya ve kanunlara, ölçülülük ilkesine",
+        "Yöneticilerin kişisel keyfine",
+        "Rastgele kararlara",
+        "Sadece muhtar kararlarına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Haklar ancak kanunla ve anayasal sınırlarla ölçülü olarak sınırlandırılabilir."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "Atatürk'ün çok partili hayatı denemesinin temel amacı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Farklı görüşlerin Mecliste temsil edilmesini ve iktidarın denetlenmesini sağlamak",
+        "Devleti kargaşaya sürüklemek",
+        "Meclisi kapatmak",
+        "Yabancı devletleri memnun etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Çok partili sistem demokrasinin derinleşmesi ve denetim için hedeflenmiştir."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "Aşağıdakilerden hangisi çocukların sosyal ve kültürel hakları arasında yer alır?",
+      "answers": [
+        "Dinlenme, oyun oynama ve kültürel etkinliklere katılım hakkı",
+        "Vergi mükellefi olma hakkı",
+        "Seçimlerde oy kullanma hakkı",
+        "Şirket açma hakkı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Oyun oynamak ve dinlenmek çocuk hakları sözleşmesinin sosyal haklarındadır."
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "Osmanlı Devleti'nde demokratikleşme yolunda ilk kez padişahın yetkilerini kendi isteğiyle sınırlandırdığı ve ayanlarla imzaladığı belge nedir?",
+      "answers": [
+        "Sened-i İttifak (1808)",
+        "Magna Carta",
+        "Tanzimat Fermanı",
+        "Kanun-ı Esasi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Padişahın yetkilerini ayanlarla imzaladığı ilk belge Sened-i İttifak'tır."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "Demokratik bir ülkede yasaların anayasaya uygunluğunu denetleyen yüksek mahkeme hangisidir?",
+      "answers": [
+        "Anayasa Mahkemesi",
+        "Yargıtay",
+        "Danıştay",
+        "Sayıştay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Anayasaya aykırılık denetimini Anayasa Mahkemesi yapar."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Aşağıdakilerden hangisi aktif bir vatandaşın yapması gereken sorumluluklardan biridir?",
+      "answers": [
+        "Seçimlerde oy kullanmak, kurallara uymak ve haklarını barışçıl yolla aramak",
+        "Seçim günleri oy vermekten kaçınmak",
+        "Kanunları hiçe saymak",
+        "Vergi vermemek için yollar aramak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Oy kullanmak ve yasalara uymak aktif vatandaşlık sorumluluğudur."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+      "answers": [
+        "1934",
+        "1923",
+        "1930",
+        "1946"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Türk kadınları 5 Aralık 1934'te anayasa değişikliğiyle milletvekili seçme ve seçilme hakkı kazanmıştır."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "Demokrasilerde çoğunluğun yönetme hakkı saklı kalmak kaydıyla azınlıkta kalanların haklarının korunması neyin göstergesidir?",
+      "answers": [
+        "Hukukun ve insan haklarının üstünlüğünün",
+        "Baskı rejiminin",
+        "Diktatörlüğün",
+        "Tek sesliliğin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Azınlık haklarına saygı hukuk devletinin ve demokrasinin kalitesini gösterir."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "Aşağıdakilerden hangisi sivil toplum kuruluşlarının (STK) en temel özelliklerinden biridir?",
+      "answers": [
+        "Gönüllülük esasına dayalı olarak kamu yararına çalışmalar yürütmeleri",
+        "Devlet kurumu olmaları",
+        "Ticari kâr dağıtmak amacıyla kurulmaları",
+        "Seçimle iktidara gelmeye çalışmaları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "STK'lar gönüllü kuruluşlardır ve kâr amacı gütmezler."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün 'Benim naciz vücudum elbet bir gün toprak olacaktır, ancak Türkiye Cumhuriyeti ilelebet payidar kalacaktır' sözü neyi vurgular?",
+      "answers": [
+        "Demokrasinin ve Cumhuriyet rejiminin kalıcılığını ve milletin iradesini",
+        "Saltanatın geri geleceğini",
+        "Kişilerin devletten üstün olduğunu",
+        "Savaşların kaçınılmaz olduğunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Bu söz cumhuriyetin ve demokrasinin sonsuza dek yaşayacağını ifade eder."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "Medya organlarının haber yaparken toplumu manipüle etmesi veya yanlı haber sunması karşısında bireylerin sahip olması gereken en önemli beceri nedir?",
+      "answers": [
+        "Medya okuryazarlığı ve eleştirel düşünce",
+        "Her habere körü körüne inanmak",
+        "Televizyonu çöpe atmak",
+        "Haber izlemeyi tamamen bırakmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Medya okuryazarlığı manipülasyona karşı en güçlü silahtır."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Aşağıdakilerden hangisi dilekçe hakkının kullanım alanlarından biri olamaz?",
+      "answers": [
+        "Kişisel bir suçu gizlemek için kurumlara yalan beyanda bulunmak",
+        "Belediyeden mahalledeki kaldırımın onarılmasını istemek",
+        "Bir kamu kurumundaki aksaklığı yetkililere bildirmek",
+        "Tüketici olarak şikayeti resmi mercilere iletmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Dilekçe hakkı suç gizlemek için kullanılamaz; yasal bir haktır."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "Türkiye'de çıkarılan ilk özel gazetelerden biri olan ve Türk basınına yön veren 'Tercüman-ı Ahval' gazetesini kimler çıkarrmıştır?",
+      "answers": [
+        "Agah Efendi ve İbrahim Şinasi",
+        "Namık Kemal ve Ziya Paşa",
+        "Mustafa Kemal Atatürk",
+        "İsmet İnönü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "İlk Türkçe özel gazete Tercüman-ı Ahval Agah Efendi ve İbrahim Şinasi tarafından çıkarılmıştır."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Osmanlı Devleti'nde I. Meşrutiyet'in ilanından sonra açılan ilk Meclis-i Mebusan'da farklı milletlerden ve dinlerden milletvekilleri yer almış, padişahın yetkileri anayasa ile kısıtlanmıştır. Bu bilgiler göz önüne alındığında Osmanlı'da hangi alanda köklü bir değişim yaşandığı söylenebilir?",
+      "answers": [
+        "Yönetim ve rejim anlayışında (Demokratikleşme adımları)",
+        "Sadece tarımsal üretimde",
+        "Askeri kıyafetlerde",
+        "Yabancı dil eğitiminde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Meclisin açılması ve anayasa yönetimi rejim ve yönetim anlayışında köklü değişimdir."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Demokratik toplumlarda uzlaşı (konsensüs) kültürünün hakim olması neyi sağlar?",
+      "answers": [
+        "Sorunların çatışma ile değil, diyalog ve ortak akılla çözülmesini",
+        "Güçlü olanın her zaman kazanmasını",
+        "Farklı fikirlerin tamamen yasaklanmasını",
+        "Kararların tek kişi tarafından verilmesini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Uzlaşı kültürü diyalogla barışçıl çözümler üretir."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Aşağıdakilerden hangisi demokrasinin vazgeçilmez unsurlarından biri değildir?",
+      "answers": [
+        "Tek parti diktatörlüğü",
+        "Hukukun üstünlüğü",
+        "Özgür seçimler",
+        "İnsan haklarına saygı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Tek parti diktatörlüğü demokrasiyle bağdaşmaz."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "Türkiye'de çok partili siyasi hayata geçiş denemelerinin ilk aşamalarında yaşanan bazı olaylar (örneğin Şeyh Sait İsyanı) hangi partinin kapatılmasına yol açmıştır?",
+      "answers": [
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Serbest Cumhuriyet Fırkası",
+        "Demokrat Parti",
+        "Adalet Partisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "İsyanların çıkmasında etkili olduğu gerekçesiyle Terakkiperver Cumhuriyet Fırkası kapatılmıştır."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "Atatürk ilkelerinden hangisi halkın yönetime doğrudan katılımını ve milli egemenliği doğrudan destekler?",
+      "answers": [
+        "Halkçılık ve Cumhuriyetçilik",
+        "Devletçilik",
+        "Laiklik",
+        "İnkılapçılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Halkçılık ve Cumhuriyetçilik ilkeleri milli iradeyi ve halkın yönetimini savunur."
+    }
+  ]
+}

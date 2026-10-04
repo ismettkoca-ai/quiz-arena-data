@@ -1,0 +1,425 @@
+{
+  "unit": "Teknoloji ve Sosyal Bilimler",
+  "questions": [
+    {
+      "id": "Q_7_6_001",
+      "questionText": "Tarih, coğrafi, psikoloji, sosyoloji ve felsefe gibi insanı ve toplumu inceleyen bilim dallarının ortak adı nedir?",
+      "answers": [
+        "Sosyal Bilimler",
+        "Fen Bilimleri",
+        "Pozitif Fizik",
+        "Astronomi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "İnsanı ve toplumu merkeze alan bilim dalları sosyal bilimlerdir."
+    },
+    {
+      "id": "Q_7_6_002",
+      "questionText": "Aşağıdakilerden hangisi Türk-İslam dünyasında optik, matematik ve fizik alanlarında çığır açan 'Kitabü'l-Menâzir' (Optik Kitabı) yazarı olan büyük bilginidir?",
+      "answers": [
+        "İbnü'l-Heysem",
+        "İbn-i Sina",
+        "Harezmi",
+        "Farabi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Karanlık oda deneyleri ve görme teorisiyle tanınan İbnü'l-Heysem'dir."
+    },
+    {
+      "id": "Q_7_6_003",
+      "questionText": "Bilimsel bir araştırmada elde edilen bilgilerin tarafsız, nesnel ve doğru bir şekilde sunulması için hangi kurala mutlaka uyulmalıdır?",
+      "answers": [
+        "Kaynakça göstermek ve intihalden (aşırmadan) kaçınmak",
+        "Bilgileri kendi hayal gücüne göre değiştirmek",
+        "Kaynakları tamamen gizlemek",
+        "Sadece popüler sitelerden kopyalamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Bilimsel etik gereği kaynakça göstermek zorunludur."
+    },
+    {
+      "id": "Q_7_6_004",
+      "questionText": "Tarih araştırmalarında olayların oluş sırasını (takvimsel sıralamayı) inceleyen bilim dalının adı nedir?",
+      "answers": [
+        "Kronoloji",
+        "Epigrafi",
+        "Numizmatik",
+        "Antropoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Zaman ve sıra bilimi kronolojidir."
+    },
+    {
+      "id": "Q_7_6_005",
+      "questionText": "Osmanlı döneminde ilk Türk matbaasını kurarak kitap basımını resmileştiren ve kültürel hayata katkı sunan kişi kimdir?",
+      "answers": [
+        "İbrahim Müteferrika",
+        "Piri Reis",
+        "Katip Çelebi",
+        "Evliya Çelebi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "İlk Türk matbaasını kuran İbrahim Müteferrika'dır."
+    },
+    {
+      "id": "Q_7_6_006",
+      "questionText": "İnternet ortamında paylaşılan her bilginin doğru olmayabileceğini, teyit edilmesi gerektiğini savunan bireyin sahip olduğu yetkinlik nedir?",
+      "answers": [
+        "Medya okuryazarlığı ve eleştirel düşünme",
+        "Dijital bağımlılık",
+        "Kör inanç",
+        "Teknoloji korkusu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Medya okuryazarlığı bilgiyi sorgulamayı sağlar."
+    },
+    {
+      "id": "Q_7_6_007",
+      "questionText": "Aşağıdakilerden hangisi patent belgesinin temel işlevidir?",
+      "answers": [
+        "Yeni bir buluşun (icadın) sahibine ait olduğunu tescillemek ve izinsiz üretimini önlemek",
+        "Buluşun herkes tarafından çalınmasını serbest bırakmak",
+        "Yazılı kitapların fiyatını artırmak",
+        "İnternet hızını düşürmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Patent icatların yasal mülkiyet koruma belgesidir."
+    },
+    {
+      "id": "Q_7_6_008",
+      "questionText": "Toplumdaki insan gruplarının kültürlerini, inançlarını ve yaşam biçimlerini yerinde inceleyen sosyal bilim dalı hangisidir?",
+      "answers": [
+        "Antropoloji (İnsan bilimi) ve Sosyoloji",
+        "Fizik",
+        "Biyoloji",
+        "Matematik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Kültürleri ve insanı inceleyen dal antropoloji ve sosyolojidir."
+    },
+    {
+      "id": "Q_7_6_009",
+      "questionText": "Bilimsel araştırma basamaklarının ilk aşaması aşağıdakilerden hangisidir?",
+      "answers": [
+        "Araştırma konusunu (problemi) belirlemek",
+        "Raporu yazıp bastırmak",
+        "Sonucu en baştan ezberlemek",
+        "Kaynakça hazırlamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Araştırmaya başlamak için önce problem veya konu seçilmelidir."
+    },
+    {
+      "id": "Q_7_6_010",
+      "questionText": "Günümüzde yapay zeka, büyük veri (big data) ve uzay teknolojilerinin gelişmesinde en büyük pay sahibi olan temel alan hangisidir?",
+      "answers": [
+        "Bilişim teknolojileri ve yazılım",
+        "Sadece tarım aletleri",
+        "El sanatları",
+        "Geleneksel dokumacılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Yapay zeka ve büyük veri bilişim teknolojileri kapsamındadır."
+    },
+    {
+      "id": "Q_7_6_011",
+      "questionText": "Bir eserin (kitap, müzik, yazılım) yasal koruma altında olduğunu belirten uluslararası sembol hangisidir?",
+      "answers": [
+        "(C) simgesi (Copyright / Telif)",
+        "(T) simgesi",
+        "(P) simgesi",
+        "(X) simgesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Copyright simgesi olan (C) telif hakkını gösterir."
+    },
+    {
+      "id": "Q_7_6_012",
+      "questionText": "Atatürk'ün Türk milletinin tarihini bilimsel ve doğru temellerde incelemek amacıyla 1931 yılında kurduğu kurum hangisidir?",
+      "answers": [
+        "Türk Tarih Kurumu (TTK)",
+        "Türk Dil Kurumu",
+        "MTA",
+        "Devlet Tiyatroları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Türk Tarih Kurumu Atatürk tarafından kurulmuştur."
+    },
+    {
+      "id": "Q_7_6_013",
+      "questionText": "Aşağıdakilerden hangisi dijital vatandaşlık kurallarına uygun bir davranıştır?",
+      "answers": [
+        "İnternet ortamında kişisel haklara saygı göstermek ve siber zorbalıktan kaçınmak",
+        "Başkalarının şifrelerini ele geçirmek",
+        "Sosyal medyada yalan haber yaymak",
+        "Telif hakkı olan dosyaları izinsiz ticari amaçla çoğaltmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Dijital vatandaşlık etiği siber zorbalıktan kaçınmayı ve saygıyı gerektirir."
+    },
+    {
+      "id": "Q_7_6_014",
+      "questionText": "Eski yazıtları ve kitabeleri okuyarak tarihe ışık tutan sosyal bilimlerin yardımcı dalı hangisidir?",
+      "answers": [
+        "Epigrafi (Kitabe bilimi)",
+        "Numizmatik",
+        "Heraldik",
+        "Kronoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Kitabeleri inceleyen bilim dalı epigafidir."
+    },
+    {
+      "id": "Q_7_6_015",
+      "questionText": "Yapay zeka algoritmalarının yanlış veya taraflı verilerle eğitilmesi sonucu ortaya çıkan hatalı sonuçlar hangi medya okuryazarlığı kavramıyla ele alınır?",
+      "answers": [
+        "Algoritmik yanlılık ve dezenformasyon",
+        "Mükemmel doğruluk",
+        "Sıfır hata politikası",
+        "Doğal denge"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Yanlı veriler algoritmik yanlılığa ve dezenformasyona yol açar."
+    },
+    {
+      "id": "Q_7_6_016",
+      "questionText": "Tarihte ilk defa haritacılıkta çığır açan, okyanusları ve kıtaları gösteren 'Kitab-ı Bahriye' ve dünya haritası ile tanınan Osmanlı denizcisi kimdir?",
+      "answers": [
+        "Piri Reis",
+        "Seydi Ali Reis",
+        "Barbaros Hayrettin",
+        "Turgut Reis"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Dünya haritasını çizen ünlü Türk denizci Piri Reis'tir."
+    },
+    {
+      "id": "Q_7_6_017",
+      "questionText": "Teknolojinin gelişmesiyle hayatımıza giren e-Devlet kapısı gibi uygulamalar vatandaşlara hangi kolaylığı sağlar?",
+      "answers": [
+        "Kamu hizmetlerine internet üzerinden hızlı ve güvenli bir şekilde tek noktadan ulaşmayı",
+        "Devlet dairelerinde kuyrukta günlerce beklemeyi",
+        "İşlemleri sadece kağıt üzerinden yürütmeyi",
+        "Resmi evrakları yok etmeyi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "e-Devlet kamu hizmetlerine dijital erişim sağlar."
+    },
+    {
+      "id": "Q_7_6_018",
+      "questionText": "Aşağıdakilerden hangisi bir araştırma ödevinde 'birinci elden kaynak' (ana kaynak) niteliği taşır?",
+      "answers": [
+        "Olayın yaşandığı döneme ait orijinal bir mektup, günlük veya kitabe",
+        "Olaydan 500 yıl sonra yazılmış bir roman",
+        "Olayı anlatan güncel bir ansiklopedi maddesi",
+        "Sosyal medyada yazılmış bir yorum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Olay tanığı veya o döneme ait orijinal belgeler birinci el kaynaklardır."
+    },
+    {
+      "id": "Q_7_6_019",
+      "questionText": "Teknolojik ürünlerin ömrünü tamamladığında doğaya atılmasıyla oluşan ve çevre kirliliğine yol açan tehlikeli atık türüne ne denir?",
+      "answers": [
+        "Elektronik atık (E-atık)",
+        "Organik gübre",
+        "Kağıt atık",
+        "Cam atık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Eski telefon, batarya ve bilgisayarlar elektronik atık (e-atık) sınıfındadır."
+    },
+    {
+      "id": "Q_7_6_020",
+      "questionText": "Türk dilinin zenginleşmesini sağlamak, bilimsel araştırmalar yapmak amacıyla Atatürk tarafından kurulan kurum hangisidir?",
+      "answers": [
+        "Türk Dil Kurumu (TDK)",
+        "Türk Tarih Kurumu",
+        "Devlet Su İşleri",
+        "MTA"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "TDK Türk dilini incelemek ve geliştirmek için kurulmuştur."
+    },
+    {
+      "id": "Q_7_6_021",
+      "questionText": "Sosyal bilimlerin insanlığa sağladığı en büyük katkı aşağıdakilerden hangisidir?",
+      "answers": [
+        "İnsanları, toplumu ve geçmişi anlamamızı sağlayarak geleceğe dair doğru kararlar almamıza yardımı",
+        "Sadece roket tasarlamak",
+        "Kimyasal deneyler üretmek",
+        "Hava durumunu tahmin etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Sosyal bilimler toplumsal bilinci ve tarihi hafızayı geliştirir."
+    },
+    {
+      "id": "Q_7_6_022",
+      "questionText": "Aşağıdakilerden hangisi kitle iletişim araçlarında yer alan haberlerin doğruluğunu sorgularken dikkat edilmesi gereken unsurlardan biri değildir?",
+      "answers": [
+        "Haberin başlığının çok süslü ve dikkat çekici olması (Tık tuzağı)",
+        "Haberi yazan yazarın veya kurumun güvenilirliği",
+        "Haberin başka resmi kaynaklarca doğrulanıp doğrulanmadığı",
+        "Haberde kullanılan verilerin tutarlılığı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Süslü ve abartılı başlıklar (tık tuzağı) tek başına doğruluk kanıtı olamaz, aksine şüphe uyandırmalıdır."
+    },
+    {
+      "id": "Q_7_6_023",
+      "questionText": "Aşağıdaki bilim dallarından hangisi doğrudan 'yer altı ve yer üstü su kaynaklarını' inceleyen hidroloji ile coğrafyanın alt dalı olarak ilişkilidir?",
+      "answers": [
+        "Hidrografya (Su Coğrafyası)",
+        "Numizmatik",
+        "Epigrafi",
+        "Kronoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Suları inceleyen coğrafya dalı hidrografyadır."
+    },
+    {
+      "id": "Q_7_6_024",
+      "questionText": "İnternet üzerinde kişisel şifrelerimizin çalınmasını önlemek için aşağıdakilerden hangisi uygulanmalıdır?",
+      "answers": [
+        "Büyük harf, küçük harf, rakam ve özel karakter içeren karmaşık şifreler seçmek",
+        "Şifreyi 123456 yapmak",
+        "Şifreyi internette herkesle paylaşmak",
+        "Hiç şifre kullanmamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Güçlü ve karmaşık şifreler siber güvenliği sağlar."
+    },
+    {
+      "id": "Q_7_6_025",
+      "questionText": "Tarih araştırmalarında 'tarafsızlık' (objektiflik) ilkesini korumak isteyen bir tarihçi nasıl hareket etmelidir?",
+      "answers": [
+        "Olayları kendi duygu ve önyargılarına göre değil, belgelere dayalı ve dönemin şartlarına göre değerlendirmelidir",
+        "Sadece kendi milletini övüp diğerlerini yok saymalıdır",
+        "Belgeleri beğenmediği kısımlarda değiştirmelidir",
+        "Geçmişi günümüzün kurallarına göre yargılamalıdır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Objektif tarihçilik belgelere sadık kalmayı ve dönemin şartlarını gözetmeyi gerektirir."
+    },
+    {
+      "id": "Q_7_6_026",
+      "questionText": "Deniz, hazırladığı bir sunumda yapay zeka ile üretilmiş sahte bir fotoğrafı gerçek tarihi bir olay gibi paylaşmıştır. Arkadaşları fotoğrafın sahte olduğunu fark edip uyarmıştır. Deniz'in bu süreçte en çok hangi konuda eksiklik yaşadığı söylenebilir?",
+      "answers": [
+        "Medya okuryazarlığı ve görsel doğrulama becerisinde",
+        "Matematik problem çözme yeteneğinde",
+        "Yabancı dil bilgisinde",
+        "Fizik deney becerisinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Sahte görsel ve haberleri ayırt edememek medya okuryazarlığı eksikliğidir."
+    },
+    {
+      "id": "Q_7_6_027",
+      "questionText": "Aşağıdakilerden hangisi Türk-İslam coğrafyasında coğrafi keşifler ve haritacılık alanında öncü olan ve 'Amiral' unvanıyla bilinen denizci/bilgindir?",
+      "answers": [
+        "Piri Reis",
+        "İbn-i Sina",
+        "Harezmi",
+        "Farabi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Piri Reis haritaları ve denizcilik bilgisiyle dünyaca tanınır."
+    },
+    {
+      "id": "Q_7_6_028",
+      "questionText": "Bilimsel araştırma basamaklarında toplanan ham verilerin anlamlı hale getirilmesi ve yorumlanması aşamasına ne ad verilir?",
+      "answers": [
+        "Analiz (Veri analizi ve değerlendirme)",
+        "Raporu çöpe atma",
+        "Konuyu unutma",
+        "Rastgele tahmin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Toplanan verilerin incelenip yorumlanması analiz aşamasıdır."
+    },
+    {
+      "id": "Q_7_6_029",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi doğru bir sosyal bilim dalı ve inceleme alanı eşleşmesidir?",
+      "answers": [
+        "Arkeoloji - Kazı yaparak kalıntıları inceleme",
+        "Coğrafi - Sayıları ve formülleri ezberleme",
+        "Tarih - Gelecekteki olayları kehanetle bulma",
+        "Sosyoloji - Yıldızların hareketini izleme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Arkeoloji kazı bilimidir, kalıntıları inceler."
+    },
+    {
+      "id": "Q_7_6_030",
+      "questionText": "Teknolojinin eğitim alanında kullanımı (örneğin akıllı tahtalar, e-okul, dijital kütüphaneler) öğrenciler için ne tür bir avantaj sağlar?",
+      "answers": [
+        "Bilgiye daha hızlı, interaktif ve zengin görsel materyallerle ulaşmayı",
+        "Okula gitmeyi tamamen gereksiz kılmayı",
+        "Kitapları tamamen hayatımızdan çıkarmayı",
+        "Ödev yapmayı imkansızlaştırmayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Teknolojinin eğitime entegrasyonu öğrenmeyi hızlandırır ve zenginleştirir."
+    }
+  ]
+}

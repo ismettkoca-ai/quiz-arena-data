@@ -1,0 +1,427 @@
+{
+  "unit": "Ortak Mirasımız",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "Orta Asya'da kurulan ilk Türk devletlerinin yaşam tarzı genellikle hangi ekonomik faaliyete dayanmaktaydı?",
+      "answers": [
+        "Intansif tarım",
+        "Bozkır hayvancılığı (At ve koyun yetiştiriciliği)",
+        "Geniş deniz ticareti",
+        "Endüstriyel üretim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Orta Asya'nın coğrafi koşulları nedeniyle ilk Türk devletleri temel olarak bozkır hayvancılığı ile geçinmiştir."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "İlk Türk devletlerinde hakanın yönetme yetkisini Gök Tanrı'dan aldığını inancına ne ad verilir?",
+      "answers": [
+        "Kurultay",
+        "Kut (İlahi güç)",
+        "Töre",
+        "Toy"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Türklerde iktidarın Tanrı tarafından verildiğine inanılan kutsal yetkiye kut denirdi."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Türklerin yerleşik hayata geçerek tarım, mimari ve şehirleşme alanında büyük ilerleme kaydettiği ilk devlet hangisidir?",
+      "answers": [
+        "Asya Hun Devleti",
+        "Köktürkler",
+        "Uygurlar",
+        "Avarlar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Uygurlar Maniheizm dininin etkisiyle yerleşik hayata geçen ilk Türk devletidir."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "Orhun Kitabeleri (Yazıtları) hangi Türk devletine aittir ve hangi alfabe ile yazılmıştır?",
+      "answers": [
+        "Uygurlar - Uygur alfabesi",
+        "Köktürkler - Göktürk alfabesi",
+        "Hunlar - Çin alfabesi",
+        "Kırgızlar - Arap alfabesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Orhun Yazıtları II. Köktürkler (Kutluk Devleti) dönemine aittir ve Göktürk alfabesiyle yazılmıştır."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "Doğu ile Batı arasında kültürel ve ticari köprü olan, Çin'den başlayıp Avrupa'ya kadar uzanan ünlü ticaret yolunun adı nedir?",
+      "answers": [
+        "Kral Yolu",
+        "İpek Yolu",
+        "Baharat Yolu",
+        "Kürk Yolu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Tarih boyunca devletlerin hakimiyet kurmak istediği en önemli ticaret yolu İpek Yolu'dur."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "İlk Türk-İslam devletlerinin kurulmasında ve İslamiyet'in Türkler arasında yayılmasında hangi tarihi savaş milat kabul edilir?",
+      "answers": [
+        "Pasinler Savaşı",
+        "Talas Savaşı",
+        "Malazgirt Savaşı",
+        "Dandanakan Savaşı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "751 yılındaki Talas Savaşı ile Türkler ile Müslümanlar yakınlaşmış ve İslamiyet'i benimsemeye başlamışlardır."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "Türklerin İslamiyet'i kabul ettikten sonra kurdukları **ilk** Türk-İslam devleti aşağıdakilerden hangisidir?",
+      "answers": [
+        "Karahanlılar",
+        "Gazneliler",
+        "Büyük Selçuklu Devleti",
+        "Osmanlı Devleti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Orta Asya'da kurulan Karahanlılar, İslamiyet'i resmi devlet dini olarak benimseyen ilk Türk-İslam devletidir."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "Karahanlılar döneminde yazılan, Türkçe'nin Arapçadan geri kalmadığını kanıtlamak amacıyla Kaşgarlı Mahmud tarafından kaleme alınan eser hangisidir?",
+      "answers": [
+        "Kutadgu Bilig",
+        "Divanü Lügati't-Türk",
+        "Atabetü'l-Hakayık",
+        "Divan-ı Hikmet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Divanü Lügati't-Türk ilk Türkçe ansiklopedik sözlüktür."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "Yusuf Has Hacib tarafından yazılan, 'mutluluk veren bilgi' anlamına gelen ve devlet yönetiminde izlenecek yolları anlatan eser hangisidir?",
+      "answers": [
+        "Kutadgu Bilig",
+        "Divanü Lügati't-Türk",
+        "Şehname",
+        "Risaletü'n-Nushiyye"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Kutadgu Bilig ilk Türk-İslam siyasetnamesi ve edebi eseridir."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "Anadolu'nun kapılarını Türklerin yerleşimine açan ve Bizans ordusunun yenilgiye uğratıldığı 1071 yılındaki savaşın adı nedir?",
+      "answers": [
+        "Pasinler Savaşı",
+        "Malazgirt Savaşı",
+        "Miryokefalon Savaşı",
+        "Kösedağ Savaşı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Sultan Alparslan komutasındaki Selçuklu ordusu Malazgirt'te zafer kazanarak Anadolu'yu Türk yurdu yapmıştır."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "Anadolu'da kurulan **ilk** Türk beylikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "answers": [
+        "Saltuklular",
+        "Dânişmendliler",
+        "Osmanoğulları",
+        "Artuklular"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Osmanoğulları bir Anadolu beyliğidir ancak ilk beylikler döneminden sonra kurulmuştur (Söğüt ve Domaniç civarında)."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "Anadolu'nun kesin olarak Türk yurdu haline gelmesini sağlayan ve Türklerin Türkistan'dan atılamayacağını gösteren savaş hangisidir?",
+      "answers": [
+        "Malazgirt Savaşı",
+        "Miryokefalon Savaşı",
+        "Pasinler Savaşı",
+        "Ankara Savaşı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "II. Kılıçarslan dönemindeki Miryokefalon Savaşı ile Anadolu'nun Türk yurdu olduğu tapullanmıştır."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "Türkiye Selçukluları döneminde ticaretin canlanması, tüccarların güvenle seyahat etmesi ve konaklaması için yapılan binalara ne ad verilir?",
+      "answers": [
+        "İmaret",
+        "Kervansaray (Han)",
+        "Medrese",
+        "Darüşşifa"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Kervansaraylar ticaret yolları üzerinde tüccarların ücretsiz konakladığı güvenli tesislerdir."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "Aşağıdakilerden hangisi Türkiye Selçukluları dönemine ait mimari eserlerden biri DEĞİLDİR?",
+      "answers": [
+        "Gök Medrese",
+        "İnce Minareli Medrese",
+        "Topkapı Sarayı",
+        "Kayseri Hunat Hatun Külliyesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Topkapı Sarayı Osmanlı dönemine aittir."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "Moğolların Kösedağ Savaşı'nda (1243) Anadolu Selçuklu Devleti'ni yenilgiye uğratması sonucu Anadolu'da hangi durum ortaya çıkmıştır?",
+      2,
+      "answers": [
+        "Anadolu siyasi birliği bozulmuş, ikinci beylikler dönemi başlamıştır.",
+        "Anadolu tamamen fethedilmiştir.",
+        "Moğollar Türkleşmiştir.",
+        "Ticaret yolları tamamen güvenli hale gelmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Kösedağ yenilgisi sonrası Anadolu'da merkezi otorite zayıflamış, beylikler bağımsızlığını ilan etmiştir."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "Moğol istilasından kaçarak Anadolu'ya gelen, fikirleriyle insanları sevgiye, hoşgörüye ve birliğe çağıran büyük tasavvuf filozofu kimdir?",
+      "answers": [
+        "Mevlana Celaleddin-i Rumi",
+        "Yunus Emre",
+        "Hacı Bektaş Veli",
+        "Ahmet Yesevi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Mevlana Celaleddin-i Rumi Konya'da yaşamış evrensel hoşgörü sembolüdür."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Osmanlı Devleti'nin kısa sürede büyümesinde aşağıdakilerden hangisinin etkisi en azdır?",
+      "answers": [
+        "Kurulduğu coğrafi konumun (uç beyliği olmasının) avantajı",
+        "Bizans'ın içerisindeki taht kavgaları ve zayıf durumu",
+        "Uyguladığı adaletli ve hoşgörülü yönetim (İskân ve istimalet)",
+        "Avrupa devletlerinin askeri yardımları"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Osmanlı'nın gelişiminde Avrupalıların yardımı söz konusu değildir; aksine Avrupalılarla mücadele edilmiştir."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "Osmanlı Devleti'nin Rumeli'ye geçtikten sonra kalıcı olmak ve Türk nüfusunu artırmak amacıyla uyguladığı yerleştirme politikasına ne denir?",
+      "answers": [
+        "İstimalet",
+        "İskân politikası",
+        "Devşirme",
+        "Tımar sistemi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Anadolu'dan getirilen göçebe Türkmenlerin Balkanlar'a yerleştirilmesi iskân politikasıdır."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "Osmanlı'da gayrimüslim halka karşı uygulanan hoşgörü ve uzlaşı politikasına ne ad verilir?",
+      "answers": [
+        "İstimalet politikası",
+        "Salgın yönetimi",
+        "İskân",
+        "Devşirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Fethettiği yerlerdeki halkın inanç ve yaşam tarzına karışmama politikasına istimalet denir."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "İstanbul'un Fethi (1453) ile Osmanlı Devleti hangi unvanı almış ve tarihi açıdan hangi dönemi kapatıp açmıştır?",
+      "answers": [
+        "Fatih unvanı / Orta Çağ kapanmış, Yeni Çağ başlamıştır.",
+        "Halife unvanı / İlk Çağ kapanmış, Orta Çağ başlamıştır.",
+        "İmparatorluk unvanı / Yakın Çağ kapanmıştır.",
+        "Sultan unvanı / Hiçbir devri etkilememiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "İstanbul'un Fethi ile Orta Çağ kapanmış, Yeni Çağ açılmış ve Fatih Sultan Mehmet unvanını almıştır."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "Aşağıdakilerden hangisi İpek Yolu'nun kontrolünün Osmanlı Devleti'ne geçmesinin ardından Avrupalı devletlerin aldığı ekonomik önlemlerden biridir?",
+      "answers": [
+        "Coğrafi Keşifleri başlatmaları",
+        "Osmanlı'ya vergi ödemeyi kabul etmeleri",
+        "Ticareti tamamen bırakmaları",
+        "Anadolu'ya göç etmeleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Osmanlı vergi ve yolları tutunca Avrupalılar yeni yollar bulmak için Coğrafi Keşifleri başlatmıştır."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "Orta Asya Türklerinde devlet meclisinin (hakanın yönetimde danıştığı kurulun) adı nedir?",
+      "answers": [
+        "Divan-ı Hümayun",
+        "Kurultay (Toy)",
+        "Meclis-i Mebusan",
+        "Senato"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "İlk Türk devletlerinde devlet işlerinin görüşüldüğü meclise Kurultay veya Toy denirdi."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "Aşağıdaki Türk-İslam bilginlerinden hangisi 'astronomi ve matematik' alanında yaptığı çalışmalarla ve rasathane (gözlemevi) kurmasıyla tanınır?",
+      "answers": [
+        "Farabi",
+        "Uluğ Bey",
+        "İbn-i Sina",
+        "İbn-i Haldun"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Semerkant'ta rasathane kuran Uluğ Bey ünlü bir Türk astronomidir."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "Türkiye Selçukluları döneminde hastaların tedavi edildiği ve tıp eğitimi verildiği kurumlara ne ad verilirdi?",
+      "answers": [
+        "Darüşşifa (Bimarhane)",
+        "Bedesten",
+        "İmaret",
+        "Sübyan Mektebi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Şifahane veya darüşşifa sağlık hizmeti veren kurumlardı."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "Osmanlı Devleti'nde esnaf ve zanaatkarların oluşturduğu, mesleki eğitim veren ve ahlaki kuralları denetleyen meslek örgütü hangisidir?",
+      "answers": [
+        "Divan",
+        "Ahi Teşkilatı (Lonca)",
+        "Medrese",
+        "Tımar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Ahilik ve Lonca teşkilatları esnafın eğitimini ve dayanışmasını sağlardı."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "Bir tarih araştırmacısı, Türklerin İslamiyet'i kabul ettikten sonra kendi öz kültürlerini kaybetmediklerini, aksine İslamiyet'in temel değerleriyle Türk töresini harmanlayarak yeni ve parlak bir medeniyet kurduklarını belirtmiştir. Aşağıdaki eserlerden hangisi bu duruma en somut kanıttır?",
+      "answers": [
+        "Kutadgu Bilig",
+        "Yalnızca Çince yazılmış metinler",
+        "Yunan mitolojisi kitapları",
+        "Roma hukuk kuralları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Kutadgu Bilig hem İslami hem de eski Türk devlet geleneklerini ve töresini yansıtan ilk eserdir."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "Kanuni Sultan Süleyman dönemi Osmanlı tarihinin hangi özelliği ile en çok anılır?",
+      2,
+      "answers": [
+        "En çok toprak kaybedilen dönem olması",
+        "Osmanlı'nın en parlak (zirve) dönemi (Muhteşem Yüzyıl)",
+        "İlk kez devletin kurulması",
+        "Sadece deniz savaşlarının yapılması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Kanuni dönemi Osmanlı İmparatorluğu'nun siyasi ve kültürel olarak en geniş sınırlara ulaştığı zirve dönemidir."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "Orta Asya'da Türklerin yazılı ilk belgeleri olan Orhun Yazıtlarında devlet ve millet anlayışını anlatan ünlü hükümdar kimdir?",
+      "answers": [
+        "Bumin Kağan",
+        "Bilge Kağan",
+        "Mete Han",
+        "Atilla"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Orhun Yazıtlarında Bilge Kağan'ın millete hitapları ve öğütleri yer alır."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "Anadolu'nun Türk yurdu olmasında dervişlerin, ahi liderlerinin ve erenlerin (Yunus Emre, Hacı Bektaş Veli gibi) halk üzerindeki birleştirici rolüne ne ad verilir?",
+      "answers": [
+        "Askeri fetih",
+        "Gönüllerin fethi (Kültürel ve manevi fetih)",
+        "Zorunlu göç",
+        "Siyasi baskı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Kılıçla yapılan fetihlerin kalıcı olması dervişlerin gerçekleştirdiği gönüllerin fethiyle sağlanmıştır."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "Ortak miras kavramı bağlamında, geçmişte farklı medeniyetlerin bıraktığı bilimsel ve teknolojik buluşlar (örneğin tekerlek, yazı, matbaa) için ne söylenebilir?",
+      "answers": [
+        "Sadece bulundukları devlete aittir, başkası kullanamaz.",
+        "Bütün insanlığın ortak birikimidir ve sonraki medeniyetler üzerine yeni şeyler eklemiştir.",
+        "Zamanla değerini yitirmiştir.",
+        "Sadece günümüzü ilgilendirir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Bilim ve teknoloji insanlığın ortak ürünüdür; medeniyetler birbirinin birikimini devralarak geliştirmiştir."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Atatürk'ün Ölümü Ve Sonrası",
+  "questions": [
+    {
+      "id": "Q_8_7_001",
+      "questionText": "Atatürk'ün sağlık durumu ilk kez hangi gelişme sırasında bozulmuş ve kendisine siroz teşhisi konulmuştur?",
+      "answers": [
+        "Hatay meselesi (1937-1938 yıllarında yorgunluk ve rahatsızlıklarının artmasıyla)",
+        "Sakarya Savaşı sırasında atından düşmesiyle",
+        "İzmir Suikastı sonrasında",
+        "Lozan Barış Konferansı sırasında"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk'ün sağlığı özellikle 1937'den itibaren Hatay sorunu için yaptığı yoğun seyahatler ve yorgunluklar sonucunda kötüleşmiş, kendisine siroz teşhisi konulmuştur."
+    },
+    {
+      "id": "Q_8_7_002",
+      "questionText": "Atatürk hayattayken mal varlığının bir kısmını hangi kurumlara bağışlamıştır?",
+      "answers": [
+        "Türk Tarih Kurumu ve Türk Dil Kurumu",
+        "Kızılay ve Yeşilay",
+        "Darüşşafaka",
+        "Meclis bütçesine"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk, hazırladığı vasiyetname ile servetinin büyük bölümünü Türk Tarih Kurumu ve Türk Dil Kurumu'na bağışlamıştır."
+    },
+    {
+      "id": "Q_8_7_003",
+      "questionText": "Atatürk hangi tarih ve hangi sarayda hayatını kaybetmiştir?",
+      "answers": [
+        "10 Kasım 1938 - Dolmabahçe Sarayı / İstanbul",
+        "29 Ekim 1938 - Çankaya Köşkü / Ankara",
+        "10 Kasım 1939 - Yıldız Sarayı / İstanbul",
+        "23 Nisan 1938 - Topkapı Sarayı / İstanbul"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, 10 Kasım 1938 sabahı saat 09:05'te İstanbul Dolmabahçe Sarayı'nda vefat etmiştir."
+    },
+    {
+      "id": "Q_8_7_004",
+      "questionText": "Atatürk'ün vefatının ardından Türkiye Cumhuriyeti'nin 2. Cumhurbaşkanı kim seçilmiştir?",
+      "answers": [
+        "Fevzi Çakmak",
+        "İsmet İnönü",
+        "Celâl Bayar",
+        "Kâzım Karabekir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk'ün vefatından bir gün sonra, 11 Kasım 1938'de yapılan meclis oylamasıyla İsmet İnönü Türkiye'nin ikinci cumhurbaşkanı seçilmiştir."
+    },
+    {
+      "id": "Q_8_7_005",
+      "questionText": "Atatürk'ün vefatı üzerine dünya basınının ve yabancı devlet adamlarının tepkisi genel olarak nasıl olmuştur?",
+      "answers": [
+        "Sadece Türkiye'de üzüntü yaratmış, dünyada yankı uyandırmamıştır.",
+        "Dünya genelinde büyük bir üzüntü yaratmış, tüm liderler onun dünya çapında eşsiz bir lider ve barış insanı olduğunu vurgulamıştır.",
+        "Yabancı devletler bu durumu kutlamıştır.",
+        "Sadece komşu ülkeler başsağlığı dilemiştir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk'ün ölümü dünya basını manşetlerinde yer bulmuş; Churchill, Roosevelt gibi dünya liderleri onun dehasına ve barışçıl kişiliğine övgüler düzmüştür."
+    },
+    {
+      "id": "Q_8_7_006",
+      "questionText": "Atatürk'ün naaşı geçici olarak hangi anıt mezara konulmuş, ardından 1953 yılında Anıtkabir'e nakledilmiştir?",
+      "answers": [
+        "Ankara Etnografya Müzesi",
+        "Dolmabahçe Sarayı",
+        "Anıtkabir (İlk günden beri oradaydı)",
+        "TBMM Bahçesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Atatürk'ün naaşı Ankara'ya trenle getirilmiş ve 15 yıl boyunca geçici kabir olan Ankara Etnografya Müzesi'nde muhafaza edilmiştir."
+    },
+    {
+      "id": "Q_8_7_007",
+      "questionText": "II. Dünya Savaşı'nın patlak vermesi yaklaşırken İsmet İnönü liderliğindeki Türkiye Cumhuriyeti'nin dış politikadaki en temel hedefi ve stratejisi ne olmuştur?",
+      "answers": [
+        "Savaşa aktif olarak katılıp yeni topraklar kazanmak",
+        "Milli sınırları ve ülkeyi savaşın yıkıcı etkilerinden koruyarak 'tarafsızlık' (denge) politikası izlemek",
+        "Almanya'nın yanında savaşa girmek",
+        "İngiltere'ye savaş ilan etmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "İsmet İnönü, Atatürk'ün 'Yurtta sulh, cihanda sulh' ilkesine bağlı kalarak II. Dünya Savaşı boyunca Türkiye'yi savaş dışında tutmayı başarmıştır."
+    },
+    {
+      "id": "Q_8_7_008",
+      "questionText": "Atatürk'ün Türk milletine vasiyetinde belirttiği, Türk gençliğine bıraktığı en büyük emanet ve değer aşağıdakilerden hangisidir?",
+      "answers": [
+        "Büyük maddi servetler",
+        "Türkiye Cumhuriyeti'nin ilelebet payidar kalması, bağımsızlık ve çağdaşlaşma ülküsü",
+        "Geniş askeri üsler",
+        "Yabancı ortaklıklar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk, gençliğe cumhuriyeti koruma ve kollama görevini vermiştir; onun en büyük eseri Türkiye Cumhuriyeti'dir."
+    },
+    {
+      "id": "Q_8_7_009",
+      "questionText": "Atatürk'ün naaşının Ankara'ya nakledilmesi ve Anıtkabir'e defnedilmesi hangi yıl gerçekleşmiştir?",
+      "answers": [
+        "1938",
+        "1945",
+        "1953",
+        "1960"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Anıtkabir'in inşası tamamlandıktan sonra, Atatürk'ün naaşı 10 Kasım 1953'te büyük bir devlet töreniyle Etnografya Müzesi'nden Anıtkabir'e taşınmıştır."
+    },
+    {
+      "id": "Q_8_7_010",
+      "questionText": "Atatürk'ün vefatının ardından yayımlanan 'CHP Genel Başkanı ve Cumhurbaşkanı' seçimleri sürecinde yaşanan 'Milli Şef' dönemi hangi devlet adamı ile özdeşleşmiştir?",
+      "answers": [
+        "İsmet İnönü",
+        "Celâl Bayar",
+        "Fevzi Çakmak",
+        "Refik Saydam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "İsmet İnönü'nün cumhurbaşkanlığı dönemi, savaş yıllarının zorunlu koşulları nedeniyle 'Milli Şef' dönemi olarak anılmıştır."
+    },
+    {
+      "id": "Q_8_7_011",
+      "questionText": "Hatay'ın bağımsızlığını kazanması ve ardından Türkiye'ye katılma kararını alması sürecinde Atatürk'ün gösterdiği kararlılık onun hangi özelliğini en net şekilde ortaya koyar?",
+      "answers": [
+        "Vatan sevgisini, milliyetçiliğini ve ulusal çıkarları koruduğunu",
+        "Ekonomik krizleri önemsemediğini",
+        "Yabancı devletlere boyun eğdiğini",
+        "Yalnızca askeri güce güvendiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Atatürk 'Kırk asırlık Türk yurdu düşman elinde kalamaz' diyerek Hatay meselesini şahsi milli dava haline getirmiş ve sağlığında bu uğurda büyük çaba sarf etmiştir."
+    },
+    {
+      "id": "Q_8_7_012",
+      "questionText": "Aşağıdakilerden hangisi Atatürk'ün ölümünden sonra onun düşüncelerini ve inkılaplarını yaşatmak amacıyla kurulan sistemin adıdır?",
+      "answers": [
+        "Atatürkçü Düşünce Sistemi",
+        "Saltanat rejimi",
+        "Otoriter rejim",
+        "Liberalizm"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk'ün fikirleri, ilkeleri ve eserleri Atatürkçü Düşünce Sistemi çatısı altında gelecek nesillere aktarılmıştır."
+    },
+    {
+      "id": "Q_8_7_013",
+      "questionText": "Atatürk'ün vefatı üzerine Amerikan basınından yayımlanan \"O, yüzyılımızın dikkate değer şahsiyetlerinden biri, savaşte kazandığı zaferleri barışta da tekrarlayan bir liderdir\" sözü onun hangi yönünü vurgular?",
+      "answers": [
+        "Sadece savaş kazanan bir komutan olmayıp aynı zamanda büyük bir devlet adamı ve barış mimarı olduğunu",
+        "Sadece ekonomik başarılarını",
+        "Yabancı dil becerisini",
+        "Padişah soyundan geldiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Bu tür yabancı basın övgüleri, Atatürk'ün hem dahi bir asker hem de vizyoner bir devlet adamı olduğunu uluslararası düzeyde kanıtlar."
+    },
+    {
+      "id": "Q_8_7_014",
+      "questionText": "II. Dünya Savaşı yıllarında Türkiye'de yaşanan ekonomik sıkıntıları hafifletmek ve karaborsacılığı önlemek amacıyla hükümetin çıkardığı kanun hangisidir?",
+      "answers": [
+        "Millî Koruma Kanunu",
+        "Kabotaj Kanunu",
+        "Teşvik-i Sanayi Kanunu",
+        "Tevhid-i Tedrisat Kanunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Savaş yıllarının getirdiği ekonomik darlık nedeniyle hükümet ekonomiyi denetlemek ve temel gıda maddelerini karneli dağıtmak için Milli Koruma Kanunu'nu çıkarılmıştır."
+    },
+    {
+      "id": "Q_8_7_015",
+      "questionText": "Türkiye'nin II. Dünya Savaşı'na girmemesinin Türkiye açısından en büyük olumlu sonucu ne olmuştur?",
+      "answers": [
+        "Milyonlarca insanın hayatını kaybetmesi önlenmiş, ülke yıkımdan korunmuştur.",
+        "Dünyanın en zengin ülkesi olmuştur.",
+        "Bütün komşu toprakları ele geçirilmiştir.",
+        "Sanayi devrimi tamamlanmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Türkiye savaş dışı kalarak büyük bir insan ve yıkım felaketinden kurtulmuş, toprak bütünlüğünü korumuştur."
+    },
+    {
+      "id": "Q_8_7_016",
+      "questionText": "Atatürk'ün vefatının ardından Türk milletinin gösterdiği yas ve üzüntü tablosu için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Milletin liderine olan sevgisinin, bağlılığının ve minnettarlığının en büyük göstergesidir.",
+        "Sadece resmi dairelerin zorunlu tuttuğu bir prosedürdür.",
+        "Halkın sevinç gösterisiyle karşılanmıştır.",
+        "Yabancıların baskısıyla yapılmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "10 Kasım 1938'de milyonlarca insan sokaklara dökülerek büyük bir milli yas tutmuş, Ata'sına olan minnetini göstermiştir."
+    },
+    {
+      "id": "Q_8_7_017",
+      "questionText": "Atatürk'ün 'Benim naçiz vücudum elbet bir gün toprak olacaktır, ancak Türkiye Cumhuriyeti ilelebet payidar kalacaktır' sözü onun hangi konudaki inancını en net şekilde yansıtır?",
+      "answers": [
+        "Devletin ve rejimin kalıcılığına olan inancını",
+        "Sağlığının çok iyi olduğunu",
+        "Askeri başarısızlıklarını",
+        "Saltanatın geri döneceğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Bu söz, kurduğu cumhuriyetin kişilere bağlı olmadığını, köklerinin sağlam ve kalıcı olduğunu ifade eder."
+    },
+    {
+      "id": "Q_8_7_018",
+      "questionText": "Atatürk'ün vefatı üzerine dünya devletlerinin liderlerinden gelen taziye mesajlarında özellikle hangi ortak tema öne çıkmıştır?",
+      "answers": [
+        "Türk milletinin başsağlığı dileği ve Atatürk'ün barışçı, vizyoner dünya lideri olduğu gerçeği",
+        "Türkiye'nin topraklarının paylaşılacağı beklentisi",
+        "Osmanlı'nın geri geleceği sevinci",
+        "Ekonomik yardımların kesileceği endişesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Tüm dünyadan gelen mesajlarda onun eşsiz bir reformcu, barış yanlısı ve mazlum milletlere örnek bir lider olduğu vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_7_019",
+      "questionText": "Fransa'nın manda yönetimi altındaki Suriye'den ayrılarak bağımsızlığını ilan eden ve daha sonra anavatana katılan Hatay meclisi hangi yıl karar almıştır?",
+      "answers": [
+        "1939",
+        "1923",
+        "1930",
+        "1945"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Hatay Millet Meclisi 29 Haziran 1939'da oy birliğiyle Anavatan Türkiye'ye katılma kararı almıştır."
+    },
+    {
+      "id": "Q_8_7_020",
+      "questionText": "Atatürk'ün ölümünden sonra İsmet İnönü döneminde (II. Dünya Savaşı yılları) Türkiye'de yaşanan ekonomik zorluklar arasında aşağıdakilerden hangisi yer **almaz**?",
+      "answers": [
+        "Temel gıda maddelerinde karne usulü",
+        "Ekonomik büyümenin zirve yapması",
+        "Fiyatların artması ve karaborsacılık",
+        "Seferberlik psikolojisiyle orduya büyük bütçe ayrılması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Savaş yılları nedeniyle ekonomi büyümemiş, aksine darlık ve sıkıntılar yaşanmış, ekmek dahil pek çok ürün karneye bağlanmıştır."
+    },
+    {
+      "id": "Q_8_7_021",
+      "questionText": "Atatürk'ün vasiyetnamesinde koruma altına alınmasını istediği ve gelirlerinin bir kısmının aktarılmasını vasiyet ettiği kişilerden biri kimdir?",
+      "answers": [
+        "Manevi çocukları (Afet, Sabiha, Rukiye, Ülkü vb.) ve kız kardeşi Makbule Hanım",
+        "Yabancı devlet başkanları",
+        "Meclisteki tüm milletvekilleri",
+        "Ordudaki tüm generaller"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Atatürk vasiyetinde kız kardeşi Makbule Hanım'a, manevi evlatlarına ve Çankaya'daki çalışanlarına maddi imkanlar ve evler bırakmıştır."
+    },
+    {
+      "id": "Q_8_7_022",
+      "questionText": "Atatürk'ün hayatı boyunca en çok önem verdiği ve 'En büyük eserim' dediği yapı nedir?",
+      "answers": [
+        "Türkiye Cumhuriyeti",
+        "Devlet demiryolları",
+        "Ankara şehri",
+        "Nutuk eseri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 1,
+      "explanation": "Atatürk \"Benim münحis anıtım ve en büyük eserim Türkiye Cumhuriyeti'dir\" diyerek bunu defalarca belirtmiştir."
+    },
+    {
+      "id": "Q_8_7_023",
+      "questionText": "Türkiye'nin II. Dünya Savaşı yıllarında tarafsızlığını korumak için izlediği denge siyaseti hangi iki büyük güç blokuna karşı yürütülmüştür?",
+      "answers": [
+        "Müttefik Devletler (İngiltere-Fransa-ABD-SSCB) ile Mihver Devletleri (Almanya-İtalya)",
+        "Yunanistan ve Bulgaristan",
+        "İran ve Irak",
+        "Japonya ve Çin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Türkiye, savaşın tarafları olan Müttefikler ile Mihver blokları arasında tarafsız kalabilmek için çok hassas bir denge politikası izlemiştir."
+    },
+    {
+      "id": "Q_8_7_024",
+      "questionText": "Atatürk'ün vefatının ardından yayımlanan taziye mesajlarında İngiltere Başbakanı Winston Churchill'in onun hakkında kullandığı ünlü ifade neyi belirtir?",
+      "answers": [
+        "Savaşta kazandığı zaferlerin yanı sıra barış döneminde yarattığı mucizevi reformları ve dünyadaki saygınlığını",
+        "Askeri disipline uymadığını",
+        "Yabancı dillere ilgisiz olduğunu",
+        "Monarşiyi özlediğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Churchill, Atatürk'ün hem birinci sınıf bir asker hem de çağının en büyük reformcularından biri olduğunu defalarca dile getirmiştir."
+    },
+    {
+      "id": "Q_8_7_025",
+      "questionText": "Atatürk'ün 'Nutuk' (Söyleh) adlı eserini hangi yılları kapsayacak şekilde kaleme almıştır?",
+      "answers": [
+        "1919 (Samsun'a çıkış) ile 1927 yılları arasını",
+        "1881 ile 1938 arasını",
+        "Sadece 1923 yılını",
+        "1920 ile 1922 arasını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Nutuk, 1919'da Mustafa Kemal'in Samsun'a çıkışıyla başlayıp 1927'ye kadar gerçekleşen olayları anlatan tarihi belgesel nitelikte bir sestir."
+    },
+    {
+      "id": "Q_8_7_026",
+      "questionText": "Atatürk'ün vefatından sonra Türk milletinin milli birlik ve beraberlik içinde hareket etmesi hangi gerçeğin kanıtıdır?",
+      "answers": [
+        "Atatürk'ün kurduğu temellerin ve devlet felsefesinin ne kadar sağlam ve köklü olduğunun",
+        "Ülkenin tamamen kaosa sürüklendiğinin",
+        "Halkın rejimi değiştirmek istediğinin",
+        "Ordunun yönetime el koyduğunun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Liderinin kaybına rağmen devlet mekanizmasının ve milletin anayasal düzene sadık kalması temellerin sağlamlığını gösterir."
+    },
+    {
+      "id": "Q_8_7_027",
+      "questionText": "Aşağıdakilerden hangisi Atatürkçü Düşünce Sistemi'nin niteliklerinden biri **değildir**?",
+      "answers": [
+        "Dogmatik (değiştirilemez katı kurallar) yapıda olması",
+        "Akla ve bilime dayanması",
+        "Milli bağımsızlığı ve egemenliği savunması",
+        "Çağdaşlaşmayı hedeflemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "Atatürkçü Düşünce Sistemi dogmatik değildir; akılcılık, bilimsellik ve çağın gereklerine göre yenilenme (inkılapçılık) esasına dayanır."
+    },
+    {
+      "id": "Q_8_7_028",
+      "questionText": "Atatürk'ün cenaze töreni sırasında yabancı devletlerin askeri birlikleriyle ve temsilcileriyle katılması neyin göstergesidir?",
+      "answers": [
+        "Türkiye Cumhuriyeti'nin ve Atatürk'ün uluslararası alanda kazandığı büyük itibarın ve sevginin",
+        "Dünyanın Türkiye'ye savaş açacağının",
+        "Törenin zorunlu bir protokol kuralı olduğunun",
+        "Yabancıların Türkiye'yi sömürmek istediğinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Dünyanın dört bir yanından devlet adamlarının ve askeri birliklerin cenazeye katılması onun küresel düzeydeki eşsiz saygınlığını gösterir."
+    },
+    {
+      "id": "Q_8_7_029",
+      "questionText": "Atatürk'ün ölümünden sonra Türk dış politikasında en temel kılavuz ilke hangisi olmaya devam etmiştir?",
+      "answers": [
+        "Yurtta sulh, cihanda sulh (Barışçı dış politika)",
+        "Dünyayı fethetme politikası",
+        "Sadece komşularla ticaret yapma",
+        "İngiltere'nin mandasına girme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 2,
+      "explanation": "İsmet İnönü döneminde de Atatürk'ün belirlediği 'Yurtta sulh, cihanda sulh' çizgisi dış politikanın temel rotası olmuştur."
+    },
+    {
+      "id": "Q_8_7_030",
+      "questionText": "Tarihsel süreç ve kazanımlar göz önüne alındığında, Atatürk'ün Türk milletine bıraktığı en kalıcı miras hangi seçenekte en kapsamlı şekilde özetlenmiştir?",
+      "answers": [
+        "Akla ve bilime dayalı, demokratik, laik, tam bağımsız ve çağdaş bir Türkiye Cumhuriyeti",
+        "Sadece geniş topraklar",
+        "Yalnızca askeri başarılar",
+        "Büyük bina ve fabrikalar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ün Ölümü Ve Sonrası",
+      "difficulty": 3,
+      "explanation": "Atatürk'ün en büyük mirası; akılcılıkla kurulmuş, laik, demokratik, tam bağımsız ve çağdaş bir ulus devlet olan Türkiye Cumhuriyeti'dir."
+    }
+  ]
+}

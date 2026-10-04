@@ -1,0 +1,425 @@
+{
+  "unit": "Kareköklü İfadeler",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "√144 + √81 işleminin sonucu kaçtır?",
+      "answers": [
+        "15",
+        "19",
+        "21",
+        "23"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "√144 = 12 ve √81 = 9'dur. 12 + 9 = 21 olur."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "√48 ifadesinin a√b şeklinde yazılışı aşağıdakilerden hangisidir?",
+      "answers": [
+        "2√12",
+        "4√3",
+        "3√4",
+        "8√2"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "√48 = √(16 · 3) = 4√3'tür."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "5√3 ifadesi kök içine alındığında hangi sayı elde edilir?",
+      "answers": [
+        "√15",
+        "√45",
+        "√75",
+        "√225"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "Katsayı içeri girerken karesi alınır: √(5² · 3) = √(25 · 3) = √75."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "√0,64 + √0,04 işleminin sonucu kaçtır?",
+      "answers": [
+        "0,7",
+        "0,9",
+        "1,0",
+        "1,2"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "√0,64 = 0,8 ve √0,04 = 0,2'dir. 0,8 + 0,2 = 1,0 olur."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "√2 · √18 işleminin sonucu kaçtır?",
+      "answers": [
+        "6",
+        "8",
+        "10",
+        "√20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "Köklü ifadeler çarpılırken içler birbiriyle çarpılır: √(2 · 18) = √36 = 6."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "√98 / √2 işleminin sonucu kaçtır?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "49"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 1,
+      "explanation": "Bölme işleminde ortak kök altında bölünebilir: √(98 / 2) = √49 = 7."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "√75 - √27 + √12 işleminin sonucu kaçtır?",
+      "answers": [
+        "2√3",
+        "4√3",
+        "6√3",
+        "8√3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "İfadeler dışarı çıkarılır: 5√3 - 3√3 + 2√3 = 4√3."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "√50 sayısı hangi iki ardışık tam sayı arasındadır?",
+      "answers": [
+        "5 ile 6",
+        "6 ile 7",
+        "7 ile 8",
+        "8 ile 9"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√50 sayısı √49 (7) ile √64 (8) arasındadır, yani 7 ile 8 arasındadır."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "Alanı 128 cm² olan karenin çevresi kaç santimetredir?",
+      "answers": [
+        "16√2",
+        "32√2",
+        "64√2",
+        "16"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Bir kenar uzunluğu √128 = √(64 · 2) = 8√2 cm'dir. Çevre = 4 · 8√2 = 32√2 cm olur."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "√3,24 ifadesinin değeri kaçtır?",
+      "answers": [
+        "1,2",
+        "1,6",
+        "1,8",
+        "2,2"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√(324 / 100) = 18 / 10 = 1,8'dir."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "2√3 · 3√5 işleminin sonucu nedir?",
+      "answers": [
+        "5√15",
+        "6√8",
+        "6√15",
+        "36√15"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Katsayılar kendi arasında, kök içleri kendi arasında çarpılır: (2 · 3) · √(3 · 5) = 6√15."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "√0,0025 sayısı dışarı nasıl çıkar?",
+      "answers": [
+        "0,5",
+        "0,05",
+        "0,005",
+        "0,025"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√(25 / 10000) = 5 / 100 = 0,05'tir."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "Kenar uzunlukları √20 cm ve √45 cm olan dikdörtgenin alanı kaç cm²dir?",
+      "answers": [
+        "15",
+        "30",
+        "60",
+        "√900"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Alan = √20 · √45 = √900 = 30 cm²dir."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "6 / √3 işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "√3",
+        "2√3",
+        "3√3",
+        "6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Paydayı kökten kurtarmak için ifade √3 ile genişletilir: (6√3) / 3 = 2√3."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "√x = 5 ve √y = 4 olduğuna göre x + y toplamı kaçtır?",
+      "answers": [
+        "9",
+        "20",
+        "41",
+        "81"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "x = 5² = 25 ve y = 4² = 16'dır. x + y = 25 + 16 = 41 olur."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Alanı 75 cm² olan karenin bir kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "5√3",
+        "3√5",
+        "25√3",
+        "15"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Kenar uzunluğu alanın kareköküdür: √75 = √(25 · 3) = 5√3 cm'dir."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "√108 ifadesi aşağıdakilerden hangisine eşittir?",
+      "answers": [
+        "4√3",
+        "6√3",
+        "9√3",
+        "12√2"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√108 = √(36 · 3) = 6√3'tür."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "√80 sayısı a√b şeklinde yazıldığında a + b toplamı en az kaç olur?",
+      "answers": [
+        "9",
+        "12",
+        "16",
+        "21"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "√80 = √(16 · 5) = 4√5 şeklinde yazılır. Buradan a = 4 ve b = 5 olup toplamları 4 + 5 = 9'dur."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "Aşağıdaki sayılardan hangisi bir irrasyonel sayıdır?",
+      "answers": [
+        "√0,25",
+        "√1,44",
+        "√12",
+        "√196"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√12 = 2√3 şeklinde kökten tamamen kurtarılamadığı için irrasyonel bir sayıdır. Diğerleri rasyoneldir."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "√7 sayısı hangi tam sayıya daha yakındır?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√7 sayısı √4 (2) ile √9 (3) arasındadır. √9'a daha yakın olduğu için 3 tam sayısına daha yakındır."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "(√45 + √20) / √5 işleminin sonucu kaçtır?",
+      "answers": [
+        "3",
+        "5",
+        "√5",
+        "25"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "√45 = 3√5 ve √20 = 2√5'tir. Pay = 5√5 olur. (5√5) / √5 = 5'tir."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "3√2 sayısının hangi sayı ile çarpımı bir doğal sayı olur?",
+      "answers": [
+        "√3",
+        "2√3",
+        "√8",
+        "3√3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "√8 = 2√2'dir. 3√2 · 2√2 = 6 · 2 = 12 (doğal sayı) olur."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "√128 - √32 + √8 işleminin sonucu kaçtır?",
+      "answers": [
+        "4√2",
+        "6√2",
+        "8√2",
+        "10√2"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "√128 = 8√2, √32 = 4√2, √8 = 2√2'dir. 8√2 - 4√2 + 2√2 = 6√2 olur."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "Çevresi 24√3 cm olan bir eşkenar üçgenin bir kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "6√3",
+        "8√3",
+        "12√3",
+        "24√3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Eşkenar üçgenin üç kenarı eşittir. Bir kenar = (24√3) / 3 = 8√3 cm'dir."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "√(13 + √(7 + √(3 + √1))) işleminin sonucu kaçtır?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "İçten dışa doğru çözülür: √1 = 1, 3+1=4 (√4=2), 7+2=9 (√9=3), 13+3=16 ve √16 = 4 olur."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "√0,81 + √0,49 - √0,16 işleminin sonucu kaçtır?",
+      "answers": [
+        "1,0",
+        "1,2",
+        "1,4",
+        "1,6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "0,9 + 0,7 - 0,4 = 1,6 - 0,4 = 1,2 olur."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "x pozitif bir tam sayı olmak üzere √(120 - x) ifadesi bir tam sayı ise x'in alabileceği en küçük değer kaçtır?",
+      "answers": [
+        "11",
+        "19",
+        "20",
+        "39"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "120'den küçük en büyük tam kare sayı 100'dür. 120 - x = 100 denkleminden x = 20 bulunur."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "Alanı 216 cm² olan dikdörtgen şeklindeki bahçenin bir kenar uzunluğu 6√6 cm olduğuna göre diğer kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "4√6",
+        "6√6",
+        "8√6",
+        "36"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "Diğer kenar = 216 / (6√6) = 36 / √6 = (36√6) / 6 = 6√6 cm'dir."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "Alanları oranı 9/16 olan iki karenin çevreleri oranı kaçtır?",
+      "answers": [
+        "3/4",
+        "9/16",
+        "3/8",
+        "4/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 2,
+      "explanation": "Alanları oranı 9/16 ise kenarları oranı bu ifadenin kareköküdür: √(9/16) = 3/4. Benzer şekilde çevreleri oranı da kenarları oranına eşittir (3/4)."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "Aşağıdaki sayı doğrusunda √75 sayısı hangi iki tam sayı arasında yer alır ve hangi sayıya daha yakındır?",
+      "answers": [
+        "8 ile 9 arasında, 9'a daha yakın",
+        "8 ile 9 arasında, 8'e daha yakın",
+        "7 ile 8 arasında, 8'e daha yakın",
+        "9 ile 10 arasında, 9'a daha yakın"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Kareköklü İfadeler",
+      "difficulty": 3,
+      "explanation": "√64 (8) ile √81 (9) arasındadır. √81'e (9'a) daha yakındır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Duygularımı Tanıyorum",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "'Sınavdan yüz aldığını öğrenince etekleri zil çaldı.' cümlesindeki altı çizili deyimin cümleye kattığı duygu nedir?",
+      "answers": [
+        "Çok sevinmek",
+        "Çok korkmak",
+        "Öfkelenmek",
+        "Şaşırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "'Etekleri zil çalmak' deyimi, büyük bir sevinç ve heyecan duymak anlamında kullanılır."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "'Özlem' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hasret",
+        "Keder",
+        "Sevinç",
+        "Nefret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Özlem kelimesinin eş anlamlısı hasret kelimesidir."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "'Sevgi' kelimesinin kökü ve türü aşağıdakilerden hangisinde doğru verilmiştir?",
+      "answers": [
+        "Sev - Fiil Kökü",
+        "Sevgi - İsim Kökü",
+        "Sev - İsim Kökü",
+        "Sevg - Fiil Kökü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'sevmek' eylemidir. Sonuna -mek/-mak alabildiği için fiil köküdür."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Sevinç, korku, heyecan ve şaşkınlık bildiren cümlelerin sonuna hangi noktalama işareti konur?",
+      "answers": [
+        "Ünlem İşareti (!)",
+        "Soru İşareti (?)",
+        "Nokta (.)",
+        "Virgül (,)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Duygu (heyecan, korku, sevinç) bildiren cümlelerin sonuna ünlem işareti konur."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'acı' kelimesi mecaz (gerçek dışı) anlamda kullanılmıştır?",
+      "answers": [
+        "Onun acı sözleri kalbimi çok kırdı.",
+        "Yemeğe çok fazla acı biber doğramış.",
+        "Bu ilacın tadı gerçekten çok acı.",
+        "Çorbaya biraz acı baharat ekledim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "'Acı söz' ifadesinde acı kelimesi tat alma duyumuzla ilgili değil, 'üzücü, kırıcı' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "'Neşe' kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Keder / Üzüntü",
+        "Sevinç",
+        "Heyecan",
+        "Mutluluk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Neşe (sevinç, mutluluk) kelimesinin zıt anlamlısı keder veya üzüntüdür."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "'Köpeği aniden karşısında görünce korkudan titremeye başladı.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "Titremesinin nedeni 'korkması'dır. Eylem gerçekleştiği için neden-sonuç (sebep-sonuç) cümlesidir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Hangi seçenekte yazım yanlışı YAPILMAMIŞTIR?",
+      "answers": [
+        "Bana yaptığı sürpriz beni çok ağlattı.",
+        "Bana yaptığı süpriz beni çok ağlattı.",
+        "Herkez onun ne kadar mutlu olduğunu gördü.",
+        "Yalnış anlaşıldığım için çok üzgünüm."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 3,
+      "explanation": "Beklenmedik olay veya hediye anlamına gelen kelimenin doğru yazımı 'sürpriz'dir. (Herkes ve yanlış kelimeleri de diğer şıklarda hatalı yazılmıştır)."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "'Kendini başkasının yerine koyarak onun duygularını anlamaya çalışmak' ifadesinin karşılığı nedir?",
+      "answers": [
+        "Empati",
+        "Saygı",
+        "Kıskançlık",
+        "Cesaret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Bir başkasının duygularını ve düşüncelerini anlayabilmek için kendini onun yerine koymaya empati denir."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "'Coşku' kelimesinde hangi ses olayı meydana gelmiştir?",
+      "answers": [
+        "Ünsüz Benzeşmesi (Sertleşmesi)",
+        "Ünlü Düşmesi",
+        "Ünsüz Yumuşaması",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 3,
+      "explanation": "'Coş-mak' fiiline gelen '-gu' eki, 'ş' sert ünsüzünün etkisiyle sertleşerek 'ku' şekline (coşku) dönüşmüştür."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Aşağıdaki altı çizili kelimelerden hangisi 'soyut' (beş duyu organıyla algılanamayan) bir kavramdır?",
+      "answers": [
+        "İçimdeki korku giderek büyüyordu.",
+        "Elimdeki soğuk suyu masaya bıraktım.",
+        "Rüzgarın sesi pencereden duyuluyordu.",
+        "Sıcak çorbayı içerken dilim yandı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Korku, sevgi, üzüntü gibi duygular beş duyu organımızla (görme, duyma vb.) algılanamadığı için soyut kavramlardır."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Sen gülersen benim de yüzüm güler.",
+        "Üzüldüğü için kimseyle konuşmuyor.",
+        "Mutlu olmak amacıyla tatile çıktı.",
+        "Bugün hava düne göre daha güzel."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "Konuşanın yüzünün gülmesinin şartı, karşısındakinin gülmesidir ('gülersen'). -sa/-se şart eki kullanılmıştır."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "'Endişe' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kaygı",
+        "Sevinç",
+        "Cesaret",
+        "Öfke"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Endişe kelimesinin eş anlamlısı kaygı veya tasadır."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'yapım eki' alarak yeni bir duygu kelimesi olmuştur?",
+      "answers": [
+        "Mutluluk",
+        "Duygular",
+        "Korkum",
+        "Sevinci"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 3,
+      "explanation": "'Mutlu' kelimesine gelen '-luk' yapım eki, kelimeden yeni bir isim (Mutluluk) türetmiştir. Diğerlerindeki ekler çekim ekidir."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "'Kırmak' kelimesi hangi cümlede 'incitmek, gücendirmek' (mecaz) anlamında kullanılmıştır?",
+      "answers": [
+        "Bana söylediği sözler beni çok kırdı.",
+        "Topu atarken yanlışlıkla camı kırdı.",
+        "Cevizleri kırmak için taş kullandı.",
+        "Buzdolabının kapağını hızla çekince kırdı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Bir insanın kalbini/duygularını kırmak onu incitmek, gücendirmek anlamındadır ve mecazdır."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "'Umut' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Umutsuzluk / Karamsarlık",
+        "Sevinç",
+        "Özlem",
+        "Cesaret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Umut (ümit) kelimesinin karşıt (zıt) anlamı umutsuzluk, karamsarlık veya yeistir."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Çok öfkelenen birini anlatmak için hangi deyim KULLANILMAZ?",
+      "answers": [
+        "Ağzı kulaklarına varmak",
+        "Küplere binmek",
+        "Ateş püskürmek",
+        "Tepesi atmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "'Ağzı kulaklarına varmak' çok sevinmek anlamında kullanılan bir deyimdir. Diğerleri öfkeyi belirtir."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "'Sabır' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Örn: Sabır - ı)",
+      "answers": [
+        "Ünlü Düşmesi (Sabrı)",
+        "Ünsüz Yumuşaması (Sabırı)",
+        "Ünsüz Türemesi (Sabbırı)",
+        "Ünlü Daralması (Sabru)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "'Sabır' kelimesi '-ı' eki aldığında ikinci hecedeki 'ı' ünlüsü düşer ve kelime 'sabrı' şeklinde yazılır. Buna ünlü düşmesi (hece düşmesi) denir."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "'Dostlarımı görmek için eski mahalleme gittim.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Örneklendirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "Mahalleye gitmesinin amacı 'dostlarını görmek'tir. Eylemin gerçekleşip gerçekleşmediği (görüp görmediği) kesin değildir, bu yüzden amaç-sonuçtur."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş seslidir (sesteş)?",
+      "answers": [
+        "Gül",
+        "Korku",
+        "Üzüntü",
+        "Merhamet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "'Gül' kelimesi hem tebessüm etmek (gülmek) hem de çiçek (gül) anlamında kullanıldığı için eş seslidir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Hangi cümlede 'şaşkınlık' duygusu ağır basmaktadır?",
+      "answers": [
+        "Aaa, sen ne zaman geldin buraya!",
+        "Bu sınavdan iyi not alacağıma eminim.",
+        "Kardeşim hastalandığı için çok üzgünüm.",
+        "Akşam dışarı çıkarsak üşütebilirsin."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "'Aaa, sen ne zaman geldin buraya!' cümlesinde beklenmedik bir durum karşısında duyulan şaşkınlık (hayret) vardır."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "'Gözyaşı' kelimesinin yapısı hakkında ne söylenebilir?",
+      "answers": [
+        "Birleşik yapılıdır.",
+        "Basit yapılıdır.",
+        "Türemiş yapılıdır.",
+        "Kök halindedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "'Göz' ve 'yaş' isimlerinin birleşmesiyle oluştuğu için birleşik kelimedir."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "'Yürek' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Kalp / Gönül",
+        "Akıl",
+        "Fikir",
+        "Göz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Yürek kelimesi kalp ve gönül anlamlarında kullanılır."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Hangi cümlede öznel (kişisel) bir yargı vardır?",
+      "answers": [
+        "Bence dünyadaki en güzel duygu merhamettir.",
+        "İnsanlar korktuklarında kalp atışları hızlanır.",
+        "Sevinç, olumlu duygulardan biridir.",
+        "Duygularımızı ifade etmek için yüz mimiklerimizi kullanırız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "'Bence dünyadaki en güzel duygu...' ifadesi kişinin kendi fikrini yansıttığı için özneldir."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Ahmet çok konuşkan biridir. 'Konuşkan' kelimesindeki '-kan' eki kelimenin neresine gelmiştir?",
+      "answers": [
+        "Fiil köküne gelmiş bir yapım ekidir.",
+        "İsim köküne gelmiş bir çekim ekidir.",
+        "Kelimenin başına gelmiş bir ektir.",
+        "Çoğul eki olarak kullanılmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü 'konuş-mak' (fiil) köküdür. '-kan' yapım eki alarak konuşma işini çok yapan anlamında yeni bir kelime türemiştir."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "'Sıkıntı' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Dert / Keder",
+        "Huzur",
+        "Heyecan",
+        "Sevinç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "Sıkıntı kelimesi dert, üzüntü, keder veya cefa anlamlarında kullanılır."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "'Eyvah ( ) Yemeği ocakta unuttum ( )' cümlesinde yay ayraçla belirtilen yerlere sırasıyla hangi noktalama işaretleri gelmelidir?",
+      "answers": [
+        "Virgül (,) - Ünlem işareti (!)",
+        "Nokta (.) - Soru işareti (?)",
+        "Ünlem işareti (!) - Nokta (.)",
+        "İki nokta (:) - Nokta (.)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "Ünlem bildiren kelimeden sonra virgül konulup cümlenin sonuna ünlem işareti konulabilir. (Eyvah, ... unuttum!)"
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Sen düne göre çok daha neşeli görünüyorsun.",
+        "Bugün çok mutlu bir haber aldım.",
+        "Arkadaşım sınavdan yüksek not alınca sevindi.",
+        "Filmdeki duygusal sahnede herkes ağladı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 1,
+      "explanation": "'Düne göre daha neşeli' ifadesinde bugünkü durumu ile dünkü durumu karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "'Cesaret' kelimesinin kök türü nedir?",
+      "answers": [
+        "İsim Kökü",
+        "Fiil Kökü",
+        "Birleşik Kök",
+        "Sesteş Kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 3,
+      "explanation": "Cesaret kelimesi mak/mek mastar ekini alamadığı için (cesaretmek olmaz) isim köküdür."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "Aşağıdaki kelimelerden hangisinin yazımı DOĞRUDUR?",
+      "answers": [
+        "Yalnızlık",
+        "Yanlızlık",
+        "Yalnışlık",
+        "Heycan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Duygularımı Tanıyorum",
+      "difficulty": 2,
+      "explanation": "'Yalın' (tek, sade) kökünden türediği için doğru yazım 'Yalnızlık' şeklindedir."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Eşlik ve Benzerlik",
+  "questions": [
+    {
+      "id": "Q_8_9_001",
+      "questionText": "Aşağıdaki ifadelerden hangisi eş şekiller için kesinlikle söylenir?",
+      "answers": [
+        "Alanları ve çevreleri eşittir, ancak şekilleri farklı olabilir.",
+        "Karşılıklı kenar uzunlukları ve karşılıklı açı ölçüleri eşittir.",
+        "Sadece çevreleri eşittir, alanları farklı olabilir.",
+        "Benzerlik oranları her zaman 2'dir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Eş şekillerin karşılıklı kenar uzunlukları ve karşılıklı açı ölçüleri birbirine tamamen eşittir."
+    },
+    {
+      "id": "Q_8_9_002",
+      "questionText": "İki üçgenin eş olması için aşağıdakilerden hangi kural geçerli değildir?",
+      "answers": [
+        "Kenar - Açı - Kenar (K.A.K.)",
+        "Açı - Açı - Açı (A.A.A.)",
+        "Kenar - Kenar - Kenar (K.K.K.)",
+        "Açı - Kenar - Açı (A.K.A.)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Açı - Açı - Açı (A.A.A.) kuralı üçgenlerin eş olduğunu değil, yalnızca benzer olduğunu garanti eder."
+    },
+    {
+      "id": "Q_8_9_003",
+      "questionText": "Benzer iki çokgenin benzerlik oranı 3/5'tir. Küçük çokgenin çevre uzunluğu 45 cm olduğuna göre büyük çokgenin çevre uzunluğu kaç santimetredir?",
+      "answers": [
+        "27",
+        "60",
+        "75",
+        "125"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Benzer çokgenlerin çevreleri oranı benzerlik oranına eşittir. 3 / 5 = 45 / x denkleminden 3x = 225 => x = 75 cm bulunur."
+    },
+    {
+      "id": "Q_8_9_004",
+      "questionText": "ABC üçgeni ile DEF üçgeni benzerdir (ABC ~ DEF). m(A) = 50° ve m(E) = 70° olduğuna göre m(C) kaç derecedir?",
+      "answers": [
+        "50°",
+        "60°",
+        "70°",
+        "120°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "ABC ~ DEF sıralamasına göre m(A) = m(D) = 50°, m(B) = m(E) = 70°'dir. B açısı 70° ise C açısı 180° - (50° + 70°) = 60° olur."
+    },
+    {
+      "id": "Q_8_9_005",
+      "questionText": "Alanları oranı 4/9 olan iki benzer üçgenin benzerlik oranı kaçtır?",
+      "answers": [
+        "2/3",
+        "4/9",
+        "16/81",
+        "3/2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Benzer şekillerin alanları oranı, benzerlik oranının karesine eşittir. Karesi 4/9 olan oran 2/3'tür."
+    },
+    {
+      "id": "Q_8_9_006",
+      "questionText": "Şekildeki ABC üçgeninde DE // BC'dir. AD = 4 cm, DB = 2 cm ve AE = 6 cm olduğuna göre EC uzunluğu kaç santimetredir?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Thales teoremi veya benzerlik oranından: AD / AB = AE / AC => 4 / 6 = 6 / (6 + x) => 4(6 + x) = 36 => 24 + 4x = 36 => 4x = 12 => x = 3 cm'dir."
+    },
+    {
+      "id": "Q_8_9_007",
+      "questionText": "Boyu 1,6 metre olan bir kişinin gölge boyu 2 metre, aynı anda ölçülen bir elektrik direğinin gölge boyu ise 10 metredir. Buna göre elektrik direğinin boyu kaç metredir?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Boylar ve gölgeler orantılıdır: 1,6 / x = 2 / 10 => 2x = 16 => x = 8 metredir."
+    },
+    {
+      "id": "Q_8_9_008",
+      "questionText": "ABC ve DEF üçgenleri için AB = DE, BC = EF ve m(B) = m(E) olduğu biliniyor. Bu üçgenler hangi kurala göre eşittir?",
+      "answers": [
+        "Açı - Kenar - Açı (A.K.A.)",
+        "Kenar - Kenar - Kenar (K.K.K.)",
+        "Kenar - Açı - Kenar (K.A.K.)",
+        "Açı - Açı - Açı (A.A.A.)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "İkişer kenar uzunlukları ve bu kenarlar arasındaki açıları eşit olan üçgenler Kenar - Açı - Kenar (K.A.K.) eşlik kuralına göre eşittir."
+    },
+    {
+      "id": "Q_8_9_009",
+      "questionText": "Benzerlik oranı 2 olan iki benzer karenin çevreleri oranı kaçtır?",
+      "answers": [
+        "1/4",
+        "1/2",
+        "2",
+        "4"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Benzer şekillerin çevreleri oranı, benzerlik oranına eşittir. Oran 2'dir."
+    },
+    {
+      "id": "Q_8_9_010",
+      "questionText": "ABC üçgeninde [AB] kenarının orta noktası D, [AC] kenarının orta noktası E'dir. DE = 7 cm olduğuna göre BC kenarının uzunluğu kaç santimetredir?",
+      "answers": [
+        "3,5",
+        "7",
+        "10,5",
+        "14"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Orta taban (DE), tabanın (BC) yarısına eşittir. BC = 2 · 7 = 14 cm'dir."
+    },
+    {
+      "id": "Q_8_9_011",
+      "questionText": "Çevreleri oranı 3/4 olan iki benzer üçgenin alanları oranı kaçtır?",
+      "answers": [
+        "3/4",
+        "9/16",
+        "27/64",
+        "4/3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Çevreler oranı aynı zamanda benzerlik oranına eşittir (3/4). Alanlar oranı, benzerlik oranının karesidir: (3/4)² = 9/16."
+    },
+    {
+      "id": "Q_8_9_012",
+      "questionText": "Kelebek benzerliğinde tabanlar oranı 2/3'tür. Küçük üçgenin yüksekliği 4 cm olduğuna göre büyük üçgenin yüksekliği kaç santimetredir?",
+      "answers": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Benzerlik oranı tabanlar oranına eşittir (2/3). Yükseklikler de bu orandadır: 4 / h = 2 / 3 => 2h = 12 => h = 6 cm."
+    },
+    {
+      "id": "Q_8_9_013",
+      "questionText": "Aşağıdaki çokgen çiftlerinden hangisi her zaman benzerdir?",
+      "answers": [
+        "İki dikdörtgen",
+        "İki ikizkenar üçgen",
+        "İki eşkenar üçgen",
+        "İki paralelkenar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Eşkenar üçgenlerin tüm iç açıları 60° olduğundan tüm eşkenar üçgenler birbirine benzerdir."
+    },
+    {
+      "id": "Q_8_9_014",
+      "questionText": "Yandaki şekilde ABC üçgeni ile DEF üçgeni benzerdir. AB = 6 cm, BC = 9 cm ve DE = 4 cm olduğuna göre EF uzunluğu kaç santimetredir?",
+      "answers": [
+        "5",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Benzerlik oranı AB / DE = 6 / 4 = 3/2'dir. BC / EF = 3/2 => 9 / EF = 3/2 => 3EF = 18 => EF = 6 cm'dir."
+    },
+    {
+      "id": "Q_8_9_015",
+      "questionText": "Kenar uzunlukları 8 cm, 12 cm ve 16 cm olan bir üçgenin kenarlarıyla benzer olan başka bir üçgenin en kısa kenarı 4 cm ise çevresi kaç santimetredir?",
+      "answers": [
+        "18",
+        "24",
+        "36",
+        "48"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Orijinal üçgenin çevresi 8 + 12 + 16 = 36 cm'dir. En kısa kenar 8'den 4'e (yarıya) indiği için benzerlik oranı 1/2'dir. Yeni üçgenin çevresi 36 · (1/2) = 18 cm olur."
+    },
+    {
+      "id": "Q_8_9_016",
+      "questionText": "Alanları sırasıyla 18 cm² ve 32 cm² olan iki benzer üçgenin benzerlik oranı kaçtır?",
+      "answers": [
+        "3/4",
+        "9/16",
+        "4/9",
+        "2/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "Alanlar oranı = 18 / 32 = 9 / 16'dır. Benzerlik oranı, alanlar oranının kareköküdür: √(9 / 16) = 3/4."
+    },
+    {
+      "id": "Q_8_9_017",
+      "questionText": "Şekilde d1 // d2 // d3 doğruları verilmiştir. Kesen doğrular üzerindeki parçalar sırasıyla 3 cm, 5 cm ve x cm, 10 cm olduğuna göre x kaçtır?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Thales teoremine göre oranlar eşittir: 3 / 5 = x / 10 => 5x = 30 => x = 6 cm'dir."
+    },
+    {
+      "id": "Q_8_9_018",
+      "questionText": "İki eş üçgenin karşılıklı açıları ve kenar uzunlukları için aşağıdakilerden hangisi yanlıştır?",
+      "answers": [
+        "Karşılıklı açıların ölçüleri eşittir.",
+        "Karşılıklı kenarların uzunlukları eşittir.",
+        "Çevreleri eşittir.",
+        "Alanları birbirinden farklı olabilir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Eş üçgenlerin tüm elemanları (açıları, kenarları, çevreleri ve alanları) birebir aynıdır. Alanlarının farklı olması imkânsızdır."
+    },
+    {
+      "id": "Q_8_9_019",
+      "questionText": "ABC üçgeninde AB = 10 cm, BC = 14 cm ve AC = 18 cm'dir. Bu üçgene benzer olan DEF üçgeninin en büyük kenarı 27 cm olduğuna göre DEF üçgeninin çevresi kaç santimetredir?",
+      "answers": [
+        "42",
+        "54",
+        "63",
+        "84"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "ABC üçgeninin çevresi = 10 + 14 + 18 = 42 cm'dir. En büyük kenar oranı 18 / 27 = 2/3'tür (veya 27 / 18 = 3/2 oran). Çevre = 42 · (3/2) = 63 cm'dir."
+    },
+    {
+      "id": "Q_8_9_020",
+      "questionText": "Bir haritada 1/50000 ölçek kullanılmıştır. Haritada aralarındaki uzaklık 4 cm olan iki şehir arasındaki gerçek uzaklık kaç kilometredir?",
+      "answers": [
+        "2 km",
+        "20 km",
+        "200 km",
+        "2000 km"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Gerçek uzaklık = 4 · 50000 = 200.000 cm'dir. Metreye çevir iki sıfır sil (2000 m), kilometreye çevir üç sıfır sil (2 km)."
+    },
+    {
+      "id": "Q_8_9_021",
+      "questionText": "Şekildeki ABC üçgeninde DE // BC'dir. AD = 3 cm, DB = 6 cm ve ADE üçgeninin alanı 12 cm² olduğuna göre ABC üçgeninin alanı kaç santimetrekaredir?",
+      "answers": [
+        "36",
+        "54",
+        "96",
+        "108"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "AD = 3 ve AB = 3 + 6 = 9 cm'dir. Benzerlik oranı (ADE / ABC) = 3 / 9 = 1/3'tür. Alanlar oranı bu oranın karesidir: (1/3)² = 1/9. ADE alanı 12 cm² ise ABC alanı = 12 · 9 = 108 cm²'dir."
+    },
+    {
+      "id": "Q_8_9_022",
+      "questionText": "Aşağıdaki durumlardan hangisinde iki üçgenin benzer olduğu kesin olarak söylenebilir?",
+      "answers": [
+        "Karşılıklı ikişer kenar uzunlukları orantılı olan üçgenler",
+        "Karşılıklı tüm açıları eşit olan üçgenler",
+        "Çevreleri eşit olan üçgenler",
+        "Alanları eşit olan üçgenler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Açı - Açı - Açı (A.A.A.) benzerlik kuralına göre karşılıklı tüm açıları eşit olan üçgenler kesinlikle benzerdir."
+    },
+    {
+      "id": "Q_8_9_023",
+      "questionText": "Bir dik üçgende dik kenarlar 3 cm ve 4 cm'dir. Bu üçgene benzer olan başka bir dik üçgenin hipotenüsü 20 cm olduğuna göre bu üçgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "48",
+        "96",
+        "120",
+        "150"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "İlk üçgen 3-4-5 üçgenidir, hipotenüsü 5 cm'dir. Yeni üçgenin hipotenüsü 20 cm olduğuna göre benzerlik oranı 20 / 5 = 4'tür. Alanlar oranı oranının karesidir (4² = 16). İlk alan = (3·4)/2 = 6 cm². Yeni alan = 6 · 16 = 96 cm²'dir."
+    },
+    {
+      "id": "Q_8_9_024",
+      "questionText": "Kenar uzunlukları 5 cm, 12 cm, 13 cm olan dik üçgen ile kenar uzunlukları 10 cm, 24 cm, 26 cm olan dik üçgen arasındaki benzerlik oranı kaçtır?",
+      "answers": [
+        "1/3",
+        "1/2",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 1,
+      "explanation": "Karşılıklı kenarlar oranlandığında: 5 / 10 = 12 / 24 = 13 / 26 = 1/2 olduğu görülür."
+    },
+    {
+      "id": "Q_8_9_025",
+      "questionText": "Bir ABCD paralelkenarında [AC] köşegeni çiziliyor. Oluşan ABC ve CDA üçgenleri için aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Benzerdirler ancak eş değildirler.",
+        "Eş üçgenlerdir.",
+        "Hiçbir ortak özellikleri yoktur.",
+        "Alanları birbirinden farklıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Paralelkenarın köşegeni, onu tamamen eş iki üçgene (ABC ≅ CDA) ayırır."
+    },
+    {
+      "id": "Q_8_9_026",
+      "questionText": "Çevresi 60 cm olan bir üçgenin kenar orta noktaları birleştirilerek yeni bir üçgen oluşturuluyor. Oluşan yeni üçgenin çevresi kaç santimetredir?",
+      "answers": [
+        "15",
+        "30",
+        "45",
+        "60"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Kenar orta noktalarını birleştiren orta tabanlar üçgenin kenarlarının yarı uzunluğundadır. Bu nedenle yeni üçgenin çevresi büyük üçgenin çevresinin yarısıdır: 60 / 2 = 30 cm."
+    },
+    {
+      "id": "Q_8_9_027",
+      "questionText": "Benzer iki çokgenin çevreleri oranı 5/8'dir. Büyük çokgenin alanı 320 cm² olduğuna göre küçük çokgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "100",
+        "125",
+        "200",
+        "250"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "Çevreler oranı (benzerlik oranı) 5/8'dir. Alanlar oranı bu oranın karesidir: (5/8)² = 25/64'tür. 25 / 64 = x / 320 denkleminden x = 125 cm² bulunur."
+    },
+    {
+      "id": "Q_8_9_028",
+      "questionText": "Şekildeki kelebek benzerliğinde üst kanattaki uzunluk 4 cm, alt kanattaki karşılık gelen uzunluk 12 cm'dir. Büyük kelebeğin kanat uzunluğu 18 cm olduğuna göre küçük kelebeğin karşılık gelen kenarı kaç cm'dir?",
+      "answers": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Benzerlik oranı 4 / 12 = 1/3'tür. Büyük kenar 18 cm ise x / 18 = 1/3 => 3x = 18 => x = 6 cm'dir."
+    },
+    {
+      "id": "Q_8_9_029",
+      "questionText": "Kenarları 4 cm ve 9 cm olan bir dikdörtgene benzer olan başka bir dikdörtgenin kısa kenarı 12 cm olduğuna göre uzun kenarı kaç santimetredir?",
+      "answers": [
+        "18",
+        "24",
+        "27",
+        "36"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 2,
+      "explanation": "Benzerlik oranı kısa kenarlar üzerinden 12 / 4 = 3 katıdır. Uzun kenar da 3 katına çıkar: 9 · 3 = 27 cm'dir."
+    },
+    {
+      "id": "Q_8_9_030",
+      "questionText": "Yüksekliği 3 metre olan bir duvara dayanan merdivenin tabanı duvardan 2 metre uzaktadır. Bu merdivenin boyu 1,5 katına çıkarıldığında merdivenin duvarda ulaştığı yeni yükseklik kaç metre olur?",
+      "answers": [
+        "3,5",
+        "4,0",
+        "4,5",
+        "5,0"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Eşlik ve Benzerlik",
+      "difficulty": 3,
+      "explanation": "Merdiven boyu ve oluşturduğu dik üçgen benzerlik kurallarına tabidir. Merdiven boyu (hipotenüs) 1,5 katına çıktığında, benzerlik oranından dolayı dikey yükseklik de 3 · 1,5 = 4,5 metreye çıkar."
+    }
+  ]
+}

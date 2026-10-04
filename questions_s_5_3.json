@@ -1,0 +1,425 @@
+{
+  "unit": "Ortak Mirasımız",
+  "questions": [
+    {
+      "id": "Q_5_3_001",
+      "questionText": "Geçmiş insan topluluklarının bıraktığı, tarihin aydınlatılmasına ve kültürün aktarılmasına yardımcı olan her türlü kalıntıya ne ad verilir?",
+      "answers": [
+        "Beşeri unsur",
+        "Tarihi eser ve kültürel miras",
+        "Doğal anıt",
+        "Modern yapı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Geçmişten günümüze kalan kalıntılara tarihi eser ve kültürel miras denir."
+    },
+    {
+      "id": "Q_5_3_002",
+      "questionText": "Anadolu'da kurulmuş olan ve başkenti Tuşpa (Van) olan, maden işçiliğinde ve su kanallarında gelişmiş uygarlık hangisidir?",
+      "answers": [
+        "Hititler",
+        "Frigler",
+        "Urartular",
+        "Lidyalılar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Başkenti Tuşpa olan ve kaya oyma sulama kanallarıyla bilinen uygarlık Urartulardır."
+    },
+    {
+      "id": "Q_5_3_003",
+      "questionText": "Parayı ilk defa bularak ticaret hayatında takas usulüne son veren Anadolu uygarlığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Lidyalılar",
+        "İyonlar",
+        "Frigler",
+        "Hititler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Parayı icat eden medeniyet Lidyalılardır (Kral Yolu ticaretinde gelişmişlerdir)."
+    },
+    {
+      "id": "Q_5_3_004",
+      "questionText": "Mezopotamya'da kurulmuş olan, yazıyı (çivi yazısını) ve tekerleği ilk kez icat eden uygarlık hangisidir?",
+      "answers": [
+        "Sümerler",
+        "Babilliler",
+        "Asurlular",
+        "Hititler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Yazıyı ve tekerleği bulan Mezopotamya uygarlığı Sümerlerdir."
+    },
+    {
+      "id": "Q_5_3_005",
+      "questionText": "Tarihin ilk yazılı antlaşması olan Kadeş Antlaşması hangi iki devlet arasında imzalanmıştır?",
+      "answers": [
+        "Lidyalılar - Persler",
+        "Hititler - Mısırlılar",
+        "Sümerler - Akadlar",
+        "Urartular - Frigler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Kadeş Antlaşması Hititler ile Mısırlılar arasında imzalanmıştır."
+    },
+    {
+      "id": "Q_5_3_006",
+      "questionText": "Friglerin tarımı ve toprağı korumak için koydukları en sert kanun kuralı neye yöneliktir?",
+      "answers": [
+        "Öküz öldürenin veya saban kıranın cezalandırılması",
+        "Para basımının yasaklanması",
+        "Deniz ticaretinin geliştirilmesi",
+        "Tapınak yapılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Friglerde tarım hayati önem taşıdığı için öküz öldürenin veya saban kıranın cezası ölüm müstehaktı."
+    },
+    {
+      "id": "Q_5_3_007",
+      "questionText": "Ege kıyılarında şehir devletleri (polis) şeklinde örgütlenen, özgür düşünce ortamı sayesinde bilim ve felsefede gelişen uygarlık hangisidir?",
+      "answers": [
+        "Urartular",
+        "İyonlar",
+        "Frigler",
+        "Hititler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "İyonlar özgür düşünce ortamı sayesinde Tales, Hipokrat gibi bilim insanları yetiştirmiştir."
+    },
+    {
+      "id": "Q_5_3_008",
+      "questionText": "Tarihi nesnelerin sergilendiği, korunduğu ve gelecek nesillere tanıtıldığı resmi kurumlara ne ad verilir?",
+      "answers": [
+        "Kütüphane",
+        "Müze",
+        "Arşiv",
+        "Okul"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Tarihi ve kültürel eserlerin sergilendiği yerler müzelerdir."
+    },
+    {
+      "id": "Q_5_3_009",
+      "questionText": "Aşağıdakilerden hangisi ülkemizde yer alan UNESCO Dünya Miras Listesi'ndeki eserlerden biri DEĞİLDİR?",
+      "answers": [
+        "Göbeklitepe",
+        "Kapadokya",
+        "Eyyubi Camii",
+        "Pamukkale (Hierapolis)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Göbeklitepe, Kapadokya ve Pamukkale UNESCO Dünya Miras Listesi'nde yer alır."
+    },
+    {
+      "id": "Q_5_3_010",
+      "questionText": "Hititlerin kralların aldığı kararları Tanrı'ya hesap vermek amacıyla kaydettikleri yıllıkların adı nedir?",
+      "answers": [
+        "Anallık (Anal)",
+        "Kitabe",
+        "Parşömen",
+        "Tablet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Hititler tanrıya hesap vermek için tarafsız bir şekilde olayları 'Anal' adı verilen yıllıklara yazmışlardır."
+    },
+    {
+      "id": "Q_5_3_011",
+      "questionText": "Mezopotamya'da 'Fırat' ve 'Dicle' nehirleri arasında kalan verimli topraklara ne ad verilmiştir?",
+      "answers": [
+        "Anadolu",
+        "Mezopotamya",
+        "Trakya",
+        "Likya"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "İki nehir arasındaki verimli bölge Mezopotamya olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_3_012",
+      "questionText": "Aşağıdakilerden hangisi somut olmayan kültürel mirasa (örnek gösterilemez/gösterilir)?",
+      "answers": [
+        "Halk oyunları ve türküler",
+        "Peribacaları",
+        "Divriği Ulu Camii",
+        "Efendiler Antik Kenti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Halk oyunları, gelenekler ve türküler elle tutulamayan somut olmayan kültürel mirastır."
+    },
+    {
+      "id": "Q_5_3_013",
+      "questionText": "Dünyanın en eski tapınak merkezi kabul edilen ve 'tarihin sıfır noktası' olarak bilinen yer neresidir?",
+      "answers": [
+        "Çatalhöyük",
+        "Göbeklitepe",
+        "Hattuşa",
+        "Efes"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Şanlıurfa'da bulunan Göbeklitepe tarihin bilinen en eski tapınak merkezidir."
+    },
+    {
+      "id": "Q_5_3_014",
+      "questionText": "Asurlular döneminde ticaret amacıyla Anadolu'ya gelip ticaret merkezleri (karum) kuran uygarlık hangi yazıyı Anadolu'ya taşımıştır?",
+      "answers": [
+        "Çivi yazısını",
+        "Latin alfabesini",
+        "Yunan alfabesini",
+        "Kiril alfabesini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Asurlu tüccarlar Kültepe (Kaniş) karumunda çivi yazısını Anadolu'ya getirerek tarihi devirleri başlatmıştır."
+    },
+    {
+      "id": "Q_5_3_015",
+      "questionText": "Kültürel mirasımıza zarar veren kişilere karşı vatandaş olarak ilk görevimiz ne olmalıdır?",
+      "answers": [
+        "Görmezden gelmek",
+        "Yetkili kurumlara bildirmek ve korumak",
+        "Biz de zarar vermek",
+        "Eserleri evimize taşımak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Tarihi eserleri korumak ve zarar verenleri yetkililere bildirmek vatandaşlık görevimizdir."
+    },
+    {
+      "id": "Q_5_3_016",
+      "questionText": "Friglerin kaya oymalarından yaptıkları, ünlü kraları Midas'a atfettikleri devasa anıtın adı nedir?",
+      "answers": [
+        "Midas Anıtı (Yazılıkaya)",
+        "Aslanlı Kapı",
+        "Truva Atı",
+        "Artemis Tapınağı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Eskişehir civarında bulunan Midas Anıtı Friglere aittir."
+    },
+    {
+      "id": "Q_5_3_017",
+      "questionText": "Aşağıdakilerden hangisi Anadolu'nun tarih boyunca ilk yerleşim yeri ve medeniyetler beşiği olmasının nedenlerinden biridir?",
+      "answers": [
+        "Çok soğuk iklim koşullarına sahip olması",
+        "Uygun iklim, su kaynakları ve ticaret yolları üzerinde bulunması",
+        "Denizlerden tamamen uzak olması",
+        "Dağlık ve geçit vermez yapısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Elverişli iklim ve yollar Anadolu'yu cazibe merkezi yapmıştır."
+    },
+    {
+      "id": "Q_5_3_018",
+      "questionText": "Babilliler döneminde yapılmış, dünyanın harikalarından biri kabul edilen ünlü eser hangisidir?",
+      "answers": [
+        "Babil'in Asma Bahçeleri",
+        "Mısır Piramitleri",
+        "Zeus Heykeli",
+        "Rodos Heykeli"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Babil'in Asma Bahçeleri Babillilere aittir."
+    },
+    {
+      "id": "Q_5_3_019",
+      "questionText": "Kültürel miras ögeleri arasında yer alan geleneksel el sanatlarından 'ebru sanatı' hangi kategoriye girer?",
+      "answers": [
+        "Somut kalıntılar",
+        "Somut olmayan kültürel miras",
+        "Sadece endüstriyel ürünler",
+        "Coğrafi formlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Ebru gibi geleneksel sanatlar somut olmayan kültürel mirastır."
+    },
+    {
+      "id": "Q_5_3_020",
+      "questionText": "Lidyalıların başkenti olan ve 'Bin Tepeler' olarak bilinen kral mezarlarının (tümülüslerin) bulunduğu antik kent hangisidir?",
+      "answers": [
+        "Sard (Sardes)",
+        "Efes",
+        "Milet",
+        "Gordion"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Lidyalıların başkenti Manisa yakınlarındaki Sard (Sardes) antik kentidir."
+    },
+    {
+      "id": "Q_5_3_021",
+      "questionText": "Tarihi eserlerin korunması amacıyla ülkemizde faaliyet gösteren bakanlık hangisidir?",
+      "answers": [
+        "Sağlık Bakanlığı",
+        "Kültür ve Turizm Bakanlığı",
+        "Milli Eğitim Bakanlığı",
+        "İçişleri Bakanlığı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Kültürel miras ve müzeler Kültür ve Turizm Bakanlığına bağlıdır."
+    },
+    {
+      "id": "Q_5_3_022",
+      "questionText": "Anadolu'da demir işçiliğinde usta olan, fibula adı çengelli iğneyi icat eden uygarlık hangisidir?",
+      "answers": [
+        "Frigler",
+        "Hititler",
+        "Sümerler",
+        "Asurlular"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Fibula (çengelli iğne) Friglere aittir."
+    },
+    {
+      "id": "Q_5_3_023",
+      "questionText": "Aşağıdakilerden hangisi ortak miras kavramını en iyi açıklar?",
+      "answers": [
+        "Sadece bir ülkeye ait olan eşyalar",
+        "Tüm insanlığın ortak geçmişine ait olan bilimsel, sanatsal ve tarihi değerler",
+        "Kişisel mülkler",
+        "Sadece yeni yapılan binalar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Ortak miras tüm insanlığa aittir."
+    },
+    {
+      "id": "Q_5_3_024",
+      "questionText": "Mezopotamya uygarlıklarından biri olan Sümerlerin tapınaklarına ne ad verilirdi?",
+      "answers": [
+        "Ziggurat",
+        "Piramit",
+        "Kümbet",
+        "İmaret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Sümerlerin gözlemevi, depo ve ibadethane olarak kullandıkları çok katlı tapınaklara ziggurat denirdi."
+    },
+    {
+      "id": "Q_5_3_025",
+      "questionText": "Aşağıdaki antik kentlerden hangisi İzmir sınırları içinde yer alan ve önemli bir İyon kenti olan yerdir?",
+      "answers": [
+        "Efes Antik Kenti",
+        "Hattuşa",
+        "Gordion",
+        "Çatalhöyük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Efes antik kenti İzmir Selçuk'ta yer alan ünlü bir İyon kentidir."
+    },
+    {
+      "id": "Q_5_3_026",
+      "questionText": "Bir grup öğrenci müze gezisinde milattan önce yazılmış kil tabletler üzerinde çivi yazısı incelemiştir. Bu öğrencilerin hangi uygarlığın kalıntılarını inceledikleri söylenebilir?",
+      "answers": [
+        "Sümerler veya Asurlular",
+        "Lidyalılar",
+        "Frigler",
+        "Urartular"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Çivi yazısı ve kil tabletler Mezopotamya uygarlıkları olan Sümerler ve Asurlulara aittir."
+    },
+    {
+      "id": "Q_5_3_027",
+      "questionText": "Tarihi eserlerin doğa olaylarından (yağmur, rüzgar) ve insan tahribatından korunması için ne yapılmalıdır?",
+      "answers": [
+        "Restore edilmeli ve koruma altına alınmalıdır",
+        "Kendi kaderine terk edilmelidir",
+        "Yerine yeni binalar dikilmelidir",
+        "Ziyaretçiler tamamen yasaklanmalıdır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Tarihi eserler restorasyon çalışmalarıyla korunur."
+    },
+    {
+      "id": "Q_5_3_028",
+      "questionText": "Hititlerde kralın eşine ne ad verilirdi ve devlet yönetiminde söz sahibi miydi?",
+      "answers": [
+        "Tavananna / Evet, yönetimde söz sahibiydi",
+        "Hatun / Hayır, ev işleriyle uğraşırdı",
+        "Sultan / Sadece sarayda otururdu",
+        "Firavun / Din lideriydi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Hititlerde kraliçeye Tavananna denirdi ve yönetimde oldukça etkiliydi."
+    },
+    {
+      "id": "Q_5_3_029",
+      "questionText": "Aşağıdakilerden hangisi dünyadaki ortak miras ögelerine örnek olarak gösterilemez?",
+      "answers": [
+        "Mısır Piramitleri",
+        "Eyfel Kulesi",
+        "Bir kişinin kişisel garajı",
+        "Tac Mahal"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Kişisel mülkler ortak miras kapsamında değerlendirilmez."
+    },
+    {
+      "id": "Q_5_3_030",
+      "questionText": "Kültürel mirasımızı korumanın toplumsal birlikteliğe katkısı nedir?",
+      "answers": [
+        "Geçmişimizle bağ kurmamızı ve ulusal aidiyet duygusunu güçlendirir",
+        "Toplumu birbirinden uzaklaştırır",
+        "Kültürel çatışmalara yol açar",
+        "Hiçbir katkısı yoktur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Kültürel miras ortak aidiyet ve millet olma bilincini güçlendirir."
+    }
+  ]
+}

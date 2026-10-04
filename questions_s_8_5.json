@@ -1,0 +1,425 @@
+{
+  "unit": "Demokratikleşme Çabaları",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "Türkiye Cumhuriyeti'nde demokratik hayatın ilk aşaması olan, farklı görüşlerin mecliste temsil edilmesini ve iktidarın denetlenmesini amaçlayan sistem hangisidir?",
+      "answers": [
+        "Tek partili rejim",
+        "Çok partili siyasi hayata geçiş denemeleri",
+        "Mutlak monarşi",
+        "Otokratik yönetim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Demokrasinin gereği olan çok partili siyasi hayata geçiş, Atatürk döneminde de denenmiş ancak çeşitli olaylar nedeniyle ertelenmiştir."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "Türkiye Cumhuriyeti'nin ilk muhalfelet partisi olan ve 1924 yılında Kâzım Karabekir, Rauf Orbay, Ali Fuat Cebesoy gibi Kurtuluş Savaşı kahramanları tarafından kurulan parti hangisidir?",
+      "answers": [
+        "Cumhuriyet Halk Fırkası",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Serbest Cumhuriyet Fırkası",
+        "Demokrat Parti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Terakkiperver Cumhuriyet Fırkası, Türkiye'nin ilk muhalefet partisidir ve liberal ekonomiyi savunmuştur."
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "1925 yılında Doğu Anadolu'da din ve şeriat elden gidiyor propagandasıyla çıkarılan, rejimi ve cumhuriyeti tehdit eden ilk büyük gerici ayaklanma hangisidir?",
+      "answers": [
+        "Şeyh Sait İsyanı",
+        "Menemen Olayı",
+        "31 Mart Vakası",
+        "Bozkurt-Lotus Olayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Şeyh Sait İsyanı, Cumhuriyet rejimine karşı çıkarılan ilk büyük gerici ve bölücü ayaklanmadır."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Terakkiperver Cumhuriyet Fırkası'nın kapatılmasına doğrudan gerekçe gösterilen gelişme aşağıdakilerden hangisidir?",
+      "answers": [
+        "Şeyh Sait İsyanı ile parti yöneticileri ve teşkilatları arasında bağ kurulması",
+        "Ekonomik kriz çıkması",
+        "Kadınlara hak verilmesine karşı çıkması",
+        "Padişahı geri getirmek istemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "İsyanın çıktığı bölgedeki parti şubelerinin isyana destek vermesi veya kışkırtması nedeniyle Terakkiperver Cumhuriyet Fırkası kapatılmıştır."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Şeyh Sait İsyanı'nı bastırmak ve ülkede huzuru sağlamak amacıyla çıkarılan kanun hangisidir?",
+      "answers": [
+        "Takrir-i Sükûn Kanunu",
+        "Tevhid-i Tedrisat Kanunu",
+        "Kabotaj Kanunu",
+        "Medeni Kanun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Takrir-i Sükûn (Huzur ve Sükunet) Kanunu, isyanı önlemek ve rejimi korumak için hükümete geniş yetkiler veren bir kanundur."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "Mustafa Kemal'e İzmir ziyareti sırasında düzenlenmek istenen, ancak bir ihbar sayesinde son anda engellenen suikast girişimi kimler tarafından ortaya çıkarılmıştır?",
+      "answers": [
+        "Giritli Şevki'nin valiliğe veya makamlara durumu bildirmesiyle",
+        "İngiliz casuslarının itirafıyla",
+        "Meclis oylamasıyla",
+        "Yunan ordusunun saldırısıyla"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "İzmir suikastı, motorcu Giritli Şevki'nin durumu yetkililere ihbar etmesiyle engellenmiştir."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "İzmir Suikastı girişiminden sonra yargılamaları yapan ve suçluları cezalandıran mahkemeler hangisidir?",
+      "answers": [
+        "İstiklal Mahkemeleri",
+        "Yargıtay",
+        "Anayasa Mahkemesi",
+        "Askeri Yüksek İdare Mahkemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Suikast girişiminde bulunan eski İttihatçılar ve bazı muhalif milletvekilleri İstiklal Mahkemelerinde yargılanmıştır."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "1930 yılında Mustafa Kemal'in isteğiyle Ali Fethi Okyar tarafından kurulan, ekonomik krizden çıkış yolları arayan ve çok partili hayatın ikinci denemesi olan parti hangisidir?",
+      "answers": [
+        "Serbest Cumhuriyet Fırkası",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Demokrat Parti",
+        "Milli Kalkınma Partisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Serbest Cumhuriyet Fırkası, 1929 Dünya Ekonomik Buhranı'na çözüm bulmak ve mecliste muhalefet denetimi sağlamak amacıyla kurulmuştur."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "Serbest Cumhuriyet Fırkası'nın kısa süre içinde halktan büyük bir ilgi görmesi ve iktidara karşı alternatif olması üzerine parti kurucusu Ali Fethi Okyar ne yapmıştır?",
+      "answers": [
+        "Rejim karşıtlarının partiye sızması ve ortamın gerilmesi üzerine kendi isteğiyle partiyi feshetmiştir (kapatmıştır).",
+        "İsyan çıkararak yönetimi ele geçirmeye çalışmıştır.",
+        "Padişahlığı ilan etmiştir.",
+        "Yabancı ülkelere kaçmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Ali Fethi Okyar, partinin cumhuriyet ve laiklik karşıtlarının odağı haline gelmesini görünce tehlikeyi sezip partisini kendi kapatmıştır."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "İzmir'in Menemen ilçesinde 23 Aralık 1930'da laik cumhuriyete karşı çıkarılan, Derviş Mehmet ve yanlılarının katıldığı isyan sırasında şehit edilen kahraman subayımız kimdir?",
+      "answers": [
+        "Asteğmen Mustafa Fehmi Kubilay",
+        "Yahya Kemal",
+        "Sütçü İmam",
+        "Hasan Tahsin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 1,
+      "explanation": "Menemen Olayı'nda gerici bir grup tarafından Asteğmen Kubilay şehit edilmiş, bu olay cumhuriyetin korunması için milattır."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "Terakkiperver Cumhuriyet Fırkası ile Serbest Cumhuriyet Fırkası'nın ortak özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "answers": [
+        "İkisi de iktidar partisinin izni veya teşvikiyle kurulmuş muhalefet partileridir.",
+        "İkisinin de programında ekonomik olarak liberalizm savunulmuştur.",
+        "İkisi de rejim karşıtlarının sığınma odağı haline gelip kapatılmıştır.",
+        "İkisi de monarşik rejimi savunmak için kurulmuştur."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Her iki parti de cumhuriyet rejimi içinde çok partili hayata geçiş denemeleridir; monarşiyi savunmamışlardır."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Atatürk döneminde çok partili hayata geçiş denemelerinin başarısızlıkla sonuçlanmasının ve ertelenmesinin temel sebebi nedir?",
+      "answers": [
+        "Türk toplumunun henüz demokrasi kültürüne tam hazır olmaması ve inkılap karşıtlarının bu partileri araç olarak kullanması",
+        "Halkın seçim istememesi",
+        "Padişahın sürekli baskı yapması",
+        "Mecliste hiç milletvekili kalmaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Yeni kurulan rejim henüz oturmadan radikal ve gerici çevrelerin çok partili ortamı rejim aleyhine kullanması denemelerin ertelenmesine yol açmıştır."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "Terakkiperver Cumhuriyet Fırkası programında yer alan 'Dini düşünce ve inançlara saygılıyız' maddesi hangi olaya zemin hazırlamıştır?",
+      "answers": [
+        "Rejim karşıtlarının ve din istismarcılarının partinin etrafında toplanarak Şeyh Sait İsyanı'na zemin hazırlamasına",
+        "Ekonominin aniden büyümesine",
+        "Kadın haklarının genişlemesine",
+        "Laikliğin tam anlamıyla pekişmesine"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Bu madde halifelik yanlıları ve inkılap karşıtları tarafından yanlış yorumlanmış ve isyancılara cesaret vermiştir."
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Serbest Cumhuriyet Fırkası kurulduktan kısa süre sonra özellikle hangi ekonomik politikayı eleştirerek halkın büyük desteğini toplamıştır?",
+      "answers": [
+        "Cumhuriyet Halk Fırkası'nın devletçi ekonomi politikalarını ve yüksek vergileri",
+        "Yabancı yatırımların tamamen yasaklanmasını",
+        "Tarımın bitirilmesini",
+        "Osmanlı borçlarının ödenmemesini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "1929 krizinin getirdiği sıkıntılar nedeniyle SCF, CHF'nin devletçi uygulamalarını ve ağır vergileri eleştirerek halktan büyük ilgi görmüştür."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "İzmir Suikastı sonrasında Mustafa Kemal'in söylediği \"Benim naçiz vücudum elbet bir gün toprak olacaktır, ancak Türkiye Cumhuriyeti ilelebet payidar kalacaktır\" sözü neyi vurgulamaktadır?",
+      "answers": [
+        "Kişilerin geçici olduğunu, asıl olanın cumhuriyet rejiminin ve devletin kalıcılığı olduğunu",
+        "Kendisinin ölümsüz olduğunu",
+        "Sadece askeri başarıları",
+        "Ekonomik kalkınmanın önemini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Bu söz, suikastın kendisine değil doğrudan Cumhuriyet rejimine yapıldığını ve rejimin korunmasındaki kararlılığı gösterir."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "Terakkiperver Cumhuriyet Fırkası'nın kapatılmasıyla birlikte Türkiye'de hangi alanda denetim ve muhalefet bir süre ortadan kalkmıştır?",
+      "answers": [
+        "Siyasi alanda tek partili döneme (CHF iktidarına) geri dönülmüştür.",
+        "Eğitim alanında ikilik çıkmıştır.",
+        "Ekonomi tamamen dışa bağımlı olmuştur.",
+        "Askeri teşkilat dağıtılmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "İlk muhalefet partisinin kapanmasıyla Türkiye yeniden tek partili siyasi hayata dönmüştür."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "Aşağıdakilerden hangisi Atatürk döneminde yaşanan rejim karşıtı (laikliğe ve cumhuriyete yönelik) olaylar arasında yer **almaz**?",
+      "answers": [
+        "Kabotaj Kanunu'nun çıkarılması",
+        "Şeyh Sait İsyanı",
+        "İzmir Suikastı Girişimi",
+        "Menemen Olayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Kabotaj Kanunu millî ekonomi ve denizcilikle ilgili bir inkılaptır; rejim karşıtı bir olay değildir."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Takrir-i Sükûn Kanunu'nun çıkarılması ve İstiklal Mahkemelerinin yeniden kurulması hangi olay sonrasında gerçekleşmiştir?",
+      "answers": [
+        "Şeyh Sait İsyanı",
+        "Menemen Olayı",
+        "İzmir Suikastı",
+        "Serbest Cumhuriyet Fırkası'nın kuruluşu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "1925 yılında Şeyh Sait isyanını bastırmak için Takrir-i Sükûn Kanunu çıkarılmış ve İstiklal Mahkemeleri görevlendirilmiştir."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "Atatürk döneminde kurulan muhalefet partilerinin (Terakkiperver ve Serbest Cumhuriyet Fırkası) kurucularının ortak özelliği aşağıdakilerden hangisidir?",
+      "answers": [
+        "Milli Mücadele'de önemli görevler üstlenmiş devlet adamları veya Atatürk'ün yakın silah arkadaşları olmaları",
+        "Tamamının yabancı uyruklu olması",
+        "Osmanlı padişahının akrabaları olmaları",
+        "Sadece ticaretle uğraşan kişiler olmaları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Kâzım Karabekir, Rauf Orbay, Ali Fuat Cebesoy (TCF) ve Ali Fethi Okyar (SCF) hep Milli Mücadele'nin önde gelen komutan ve devlet adamlarıdır."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "Menemen Olayı'nın ardından kurulan Divan-ı Harp (Askeri Mahkeme) tarafından yargılanan isyancılar hakkında ne tür kararlar alınmıştır?",
+      "answers": [
+        "Suçlu bulunanlar idam ve çeşitli hapis cezalarına çarptırılmıştır.",
+        "Hepsi serbest bırakılmıştır.",
+        "Yurt dışına sürgün edilmişlerdir.",
+        "Maddi para cezası verilmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Kubilay'ı şehit eden ve isyana karışan gerici grup askeri mahkemede yargılanarak cezalandırılmıştır."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Serbest Cumhuriyet Fırkası'nın kurulmasında Mustafa Kemal'in bizzat Ali Fethi Okyar'ı teşvik etmesinin temel amacı nedir?",
+      "answers": [
+        "Hükümetin denetlenmesini sağlamak, farklı fikirlerin meclise yansımasını öncülük etmek ve demokrasiyi yerleştirmek",
+        "Padişahlığı yeniden getirmek",
+        "Yabancı devletlerin baskısından kurtulmak",
+        "Ekonomide devleti tamamen ortadan kaldırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Mustafa Kemal, mecliste denetim mekanizmasının kurulmasını ve demokrasinin gelişmesini çok partili sistemle desteklemek istemiştir."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "Aşağıdaki olaylardan hangisinin ortaya çıkmasında dış güçlerin (özellikle İngiltere'nin Musul meselesi nedeniyle) kışkırtmaları etkili olmuştur?",
+      "answers": [
+        "Şeyh Sait İsyanı",
+        "Serbest Cumhuriyet Fırkası'nın kuruluşu",
+        "Harf İnkılabı",
+        "Soyadı Kanunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Musul sorununu Türkiye'nin aleyhine çözmek isteyen İngiltere, Doğu Anadolu'daki Şeyh Sait isyanının çıkmasında ve büyümesinde kışkırtıcı rol oynamıştır."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Atatürk döneminde gerçekleştirilen çok partili hayata geçiş denemelerinin başarısızlıkla sonuçlanması en çok hangi ilkenin hayata geçirilmesini sekteye uğratmıştır?",
+      "answers": [
+        "Cumhuriyetçilik (Demokrasi ve halkın yönetime katılımı)",
+        "Devletçilik",
+        "Laiklik",
+        "İnkılapçılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Çok partili hayatın kurulamaması cumhuriyetin demokratikleşme ayağını geçici olarak zayıflatmıştır."
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "Terakkiperver Cumhuriyet Fırkası'nın kapatılmasıyla birlikte meclisteki hangi denetim mekanizması ortadan kalkmıştır?",
+      "answers": [
+        "Hükümetin icraatlarını eleştiren muhalefet denetimi",
+        "Padişahın veto hakkı",
+        "Uluslararası antlaşmaların onayı",
+        "Askeri bütçenin belirlenmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "Muhalefet partisinin kapatılması mecliste tek sesliliğe yol açmış, iktidarın denetlenmesi zorlaşmıştır."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Aşağıdaki gelişmelerden hangisi kronolojik olarak **en önce** gerçekleşmiştir?",
+      "answers": [
+        "Terakkiperver Cumhuriyet Fırkası'nın kuruluşu",
+        "Şeyh Sait İsyanı",
+        "Serbest Cumhuriyet Fırkası'nın kuruluşu",
+        "Menemen Olayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Kronoloji: TCF'nin kuruluşu (Kasım 1924) -> Şeyh Sait İsyanı (Şubat 1925) -> SCF'nin kuruluşu (Ağustos 1930) -> Menemen Olayı (Aralık 1930). En önce TCF kurulmuştur."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "Serbest Cumhuriyet Fırkası'nın ekonomik programında yer alan 'Yabancı sermayenin ülkeye girişinin kolaylaştırılması ve vergilerin azaltılması' maddesi hangi ekonomik anlayışı benimser?",
+      "answers": [
+        "Liberalizm (Serbest piyasa ekonomisi)",
+        "Devletçilik",
+        "Komünizm",
+        "Feodalite"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 2,
+      "explanation": "SCF devleti ekonomik alanda sınırlandırmayı, özel sektörü ve yabancı sermayeyi desteklemeyi savunmuş (liberalizm)tir."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Atatürk'ün çok partili hayatı istemesindeki kararlılığa rağmen neden bu denemeler uzun ömürlü olamamıştır?",
+      "answers": [
+        "Toplumun eğitim ve demokrasi bilincinin henüz bu dönüşümü tamamen kaldıracak olgunluğa erişmemiş olması, inkılap karşıtlarının partileri sığınak olarak kullanması",
+        "Mustafa Kemal'in partileri yasaklamaktan zevk alması",
+        "Halkın partilerden nefret etmesi",
+        "Meclis binasının yanması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Toplumsal ve siyasi olgunlaşma süreci tamamlanmadan, eski rejim taraftarlarının yeni partileri rejim aleyhine kullanması denemeleri akamete uğratmıştır."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "İzmir Suikastı girişiminin ortaya çıkmasının ardından Mustafa Kemal'in 'Alçak girişim, şahsımdan ziyade mukaddes cumhuriyete ve onun temel taşlarına yöneliktir' açıklaması aşağıdakilerden hangisini kanıtlar?",
+      "answers": [
+        "Suikastın kişisel bir husumetten ziyade rejimi yıkmayı amaçlayan siyasi bir komplo olduğunu",
+        "Sadece ekonomik sıkıntıların giderilmesini amaçladığını",
+        "Yunan ordusuyla işbirliği yapıldığını",
+        "Padişahın tahta çağrıldığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Bu açıklama saldırının kişisel bir kinle değil, doğrudan genç cumhuriyet rejimine ve devrimlere karşı yapıldığını ortaya koymaktadır."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Aşağıdakilerden hangisi demokratikleşme çabaları sürecinde yaşanan olaylar ile sonuçları arasında **yanlış** bir eşleştirmedir?",
+      "answers": [
+        "Şeyh Sait İsyanı -> Terakkiperver Cumhuriyet Fırkası'nın kapatılması",
+        "Serbest Cumhuriyet Fırkası'nın kuruluşu -> Ekonomide devletçilik ilkesinin tamamen kaldırılması",
+        "Menemen Olayı -> Laik cumhuriyet karşıtı ayaklanmanın bastırılması",
+        "İzmir Suikastı -> İstiklal Mahkemelerinde yargılamaların yapılması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Serbest Cumhuriyet Fırkası'nın kurulması devletçilik ilkesini kaldırmamıştır; aksine parti liberalizmi savunmuş, devletçilik ilkesi yürürlükte kalmaya devam etmiştir."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "Atatürk döneminde çok partili hayata geçiş denemelerinin kısa sürmesine rağmen Türk siyasi tarihine sağladığı en büyük katkı nedir?",
+      "answers": [
+        "Demokrasi kültürünün tohumlarının atılması, alternatif görüşlerin tartışılması ve gelecekteki çok partili rejimler için tecrübe kazandırılması",
+        "Ülkenin ekonomik olarak batması",
+        "Monarşinin tekrar kurulması",
+        "Askeri darbelere zemin hazırlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Demokratikleşme Çabaları",
+      "difficulty": 3,
+      "explanation": "Bu denemeler her ne kadar kesintiye uğrasa da Türk siyasetinde çok sesliliğin, muhalefet kültürünün ve demokratik düşüncenin temellerini oluşturmuştur."
+    }
+  ]
+}

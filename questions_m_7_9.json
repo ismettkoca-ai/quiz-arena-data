@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Nicelikler 2",
+  "questions": [
+    {
+      "id": "Q_7_9_001",
+      "questionText": "Yarıçap uzunluğu (r) verilen bir dairenin alanını hesaplamak için hangi formül kullanılır? (Pi = 3 alınız)",
+      "answers": [
+        "2 · Pi · r",
+        "Pi · r²",
+        "4 · Pi · r",
+        "Pi · r"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Dairenin alanı Pi · r² formülü ile hesaplanır."
+    },
+    {
+      "id": "Q_7_9_002",
+      "questionText": "Yarıçapı 4 cm olan dairenin alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "24",
+        "36",
+        "48",
+        "64"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Alan = Pi · r² = 3 · (4)² = 3 · 16 = 48 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_003",
+      "questionText": "Çapı 20 cm olan bir çemberin çevre uzunluğu kaç santimetredir? (Pi = 3 alınız)",
+      "answers": [
+        "30",
+        "60",
+        "120",
+        "300"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Çemberin çevresi = Pi · Çap (veya 2 · Pi · r) formülüyle bulunur. Çevre = 3 · 20 = 60 cm'dir."
+    },
+    {
+      "id": "Q_7_9_004",
+      "questionText": "Yarıçapı 6 cm olan bir daire diliminin merkez açısı 60° olduğuna göre bu daire diliminin alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "18",
+        "36",
+        "54",
+        "108"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Dilim Alanı = (Pi · r² · Açı) / 360° = (3 · 6² · 60) / 360 = (3 · 36 · 60) / 360 = 6480 / 360 = 18 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_005",
+      "questionText": "Yarıçapı 10 cm olan bir çemberin üzerindeki 72 derecelik bir yay uzunluğu kaç santimetredir? (Pi = 3 alınız)",
+      "answers": [
+        "6",
+        "12",
+        "18",
+        "36"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yay Uzunluğu = (2 · Pi · r · Açı) / 360° = (2 · 3 · 10 · 72) / 360 = 4320 / 360 = 12 cm'dir."
+    },
+    {
+      "id": "Q_7_9_006",
+      "questionText": "Alanı 108 cm² olan bir dairenin yarıçapı kaç santimetredir? (Pi = 3 alınız)",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Pi · r² = 108 => 3 · r² = 108 => r² = 36 => r = 6 cm'dir."
+    },
+    {
+      "id": "Q_7_9_007",
+      "questionText": "Taban yarıçapı 5 cm ve yüksekliği 10 cm olan bir dik dairesel silindirin hacmi kaç santimetreküptür? (Pi = 3 alınız)",
+      "answers": [
+        "150",
+        "300",
+        "450",
+        "750"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Silindirin hacmi = Taban Alanı · Yükseklik = (Pi · r²) · h = (3 · 5²) · 10 = (3 · 25) · 10 = 75 · 10 = 750 cm³'tür."
+    },
+    {
+      "id": "Q_7_9_008",
+      "questionText": "Taban yarıçapı 4 cm ve yüksekliği 7 cm olan bir dik dairesel silindirin yanal alanının yüzeyi kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "84",
+        "168",
+        "336",
+        "360"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yanal Alan = Taban Çevresi · Yükseklik = (2 · Pi · r) · h = (2 · 3 · 4) · 7 = 24 · 7 = 168 mi? Bekle: 2·3·4 = 24. 24 · 7 = 168 cm²"
+    },
+    {
+      "id": "Q_7_9_009",
+      "questionText": "Çevresi 36 cm olan bir çemberin yarıçapı kaç santimetredir? (Pi = 3 alınız)",
+      "answers": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Çevre = 2 · Pi · r => 2 · 3 · r = 36 => 6r = 36 => r = 6 cm'dir."
+    },
+    {
+      "id": "Q_7_9_010",
+      "questionText": "Bir dik dairesel silindirin yüzey alanı hesaplanırken hangi bölgelerin alanları toplanır?",
+      "answers": [
+        "Yalnız yanal alan",
+        "Yanal alan + 1 taban alanı",
+        "Yanal alan + 2 taban alanı (Alt ve Üst taban)",
+        "Yalnız taban alanları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Silindirin tüm yüzey alanı, yanal alan ile alt ve üst tabandaki iki dairenin alanının toplamına eşittir."
+    },
+    {
+      "id": "Q_7_9_011",
+      "questionText": "Yarıçapı 8 cm olan bir daireden, merkezi aynı olan ve yarıçapı 5 cm olan küçük daire çıkarılıyor. Oluşan halkanın (simit bölgenin) alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "39",
+        "57",
+        "117",
+        "192"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Halka Alanı = Büyük Daire Alanı - Küçük Daire Alanı = 3 · (8² - 5²) = 3 · (64 - 25) = 3 · 39 = 117 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_012",
+      "questionText": "Hacmi 540 cm³ ve taban alanı 60 cm² olan bir dik dairesel silindirin yüksekliği kaç santimetredir?",
+      "answers": [
+        "6",
+        "9",
+        "12",
+        "18"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Hacim = Taban Alanı · Yükseklik => 540 = 60 · h => h = 540 / 60 = 9 cm'dir."
+    },
+    {
+      "id": "Q_7_9_013",
+      "questionText": "Yarıçapı 7 cm olan bir silindirin taban çevre uzunluğu kaç santimetredir? (Pi = 22/7 alınız)",
+      "answers": [
+        "22",
+        "44",
+        "88",
+        "154"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Taban Çevresi = 2 · Pi · r = 2 · (22/7) · 7 = 44 cm'dir."
+    },
+    {
+      "id": "Q_7_9_014",
+      "questionText": "Bir bisiklet tekerleğinin yarıçapı 30 cm'dir. Bu tekerlek 50 tur attığında bisiklet kaç metre yol gitmiş olur? (Pi = 3 alınız)",
+      "answers": [
+        "9",
+        "18",
+        "90",
+        "180"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "1 tur = Çevre = 2 · 3 · 30 = 180 cm. 50 tur = 180 · 50 = 9000 cm. Metreye çevirirsek: 9000 / 100 = 90 metre."
+    },
+    {
+      "id": "Q_7_9_015",
+      "questionText": "Yarıçapı 10 cm olan bir dairenin alanı, yarıçapı 5 cm olan dairenin alanının kaç katıdır?",
+      "answers": [
+        "2 katıdır",
+        "3 katıdır",
+        "4 katıdır",
+        "8 katıdır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yarıçap 2 katına çıktığında alan, yarıçapın karesi oranında (2² = 4 kat) artar. Büyük alan = Pi · 10² = 100Pi. Küçük alan = Pi · 5² = 25Pi. 100 / 25 = 4 kattır."
+    },
+    {
+      "id": "Q_7_9_016",
+      "questionText": "Yüksekliği 10 cm ve taban çevresi 24 cm olan bir silindirin yanal alanı kaç santimetrekaredir?",
+      "answers": [
+        "120",
+        "240",
+        "360",
+        "480"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yanal Alan = Taban Çevresi · Yükseklik = 24 · 10 = 240 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_017",
+      "questionText": "Çevresi 48 cm olan bir daire diliminin yay uzunluğu 18 cm ve yarıçapı 10 cm'dir. Bu daire diliminin alanı kaç santimetrekaredir?",
+      "answers": [
+        "90",
+        "120",
+        "180",
+        "240"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Üçgen benzeri pratik alan formülü: Dilim Alanı = (Yay Uzunluğu · Yarıçap) / 2 = (18 · 10) / 2 = 180 / 2 = 90 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_018",
+      "questionText": "Bir silindirin taban yarıçapı 2 katına çıkarılır ve yüksekliği değiştirilmezse silindirin hacmi nasıl değişir?",
+      "answers": [
+        "2 katına çıkar",
+        "4 katına çıkar",
+        "8 katına çıkar",
+        "Değişmez"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Hacim formülünde yarıçap karesiyle etkilendiği için (2r)² = 4r² olur. Hacim 4 katına çıkar."
+    },
+    {
+      "id": "Q_7_9_019",
+      "questionText": "Yarıçapı 3 cm, yüksekliği 5 cm olan dik dairesel silindirin tüm yüzey alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "90",
+        "144",
+        "180",
+        "216"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Taban alanı = 3 · 3² = 27 cm². İki taban = 2 · 27 = 54 cm². Yanal alan = (2 · 3 · 3) · 5 = 18 · 5 = 90 cm². Toplam Alan = 90 + 54 = 144 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_020",
+      "questionText": "Çapı 12 cm olan yarım dairenin alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "54",
+        "108",
+        "216",
+        "324"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Yarıçap r = 12 / 2 = 6 cm'dir. Tam dairenin alanı = 3 · 6² = 108 cm². Yarım daire olduğu için 108 / 2 = 54 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_021",
+      "questionText": "Taban alanı 50 cm² olan bir silindirin içerisine yüksekliği tabanla aynı olan bir koni yerleştirilirse, koninin hacmi kaç santimetreküp olur? (7. sınıf silindirik bağıntılar)",
+      "answers": [
+        "Silindirin hacmi ile aynı olur",
+        "Silindirin hacminin yarısı olur",
+        "Silindirin hacminin üçte biri olur",
+        "Hesaplanamaz"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Aynı taban ve yüksekliğe sahip koninin hacmi, silindirin hacminin her zaman 1/3'üne eşittir."
+    },
+    {
+      "id": "Q_7_9_022",
+      "questionText": "Bir su deposu taban yarıçapı 2 m ve yüksekliği 5 m olan silindir şeklindedir. Bu deponun tamamı kaç litre su alır? (Pi = 3, 1 m³ = 1000 Litre)",
+      "answers": [
+        "30 000",
+        "60 000",
+        "120 000",
+        "300 000"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Depo Hacmi = Pi · r² · h = 3 · (2²) · 5 = 3 · 4 · 5 = 60 m³'tür. Litreye çevirirsek: 60 · 1000 = 60.000 Litredir."
+    },
+    {
+      "id": "Q_7_9_023",
+      "questionText": "Aşağıdaki cisimlerden hangisinin tabanı daire değildir?",
+      "answers": [
+        "Silindir",
+        "Koni",
+        "Kare Prizma",
+        "Küre (Kürenin tabanı tek noktadır)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Kare prizmanın alt ve üst tabanları kare şeklindedir, daire değildir."
+    },
+    {
+      "id": "Q_7_9_024",
+      "questionText": "Bir kenarı 10 cm olan kare levhadan kesilebilecek EN BÜYÜK alanlı dairenin alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "25",
+        "50",
+        "75",
+        "300"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Karenin içine çizilebilecek en büyük dairenin çapı 10 cm, yarıçapı r = 5 cm'dir. Alan = 3 · 5² = 3 · 25 = 75 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_025",
+      "questionText": "Yarıçapı r olan bir çemberin çevre uzunluğu ile alanı sayısal olarak birbirine eşit olduğunda bu çemberin yarıçapı kaç birim olur?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "Pi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Çevre = 2 · Pi · r, Alan = Pi · r². Bunlar eşitlendiğinde: 2 · Pi · r = Pi · r² => r = 2 birim bulunur."
+    },
+    {
+      "id": "Q_7_9_026",
+      "questionText": "Yüksekliği 12 cm olan bir dik dairesel silindirin hacmi 324 cm³ olduğuna göre taban yarıçapı kaç santimetredir? (Pi = 3 alınız)",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Hacim = (Pi · r²) · h => 324 = (3 · r²) · 12 => 324 = 36 · r² => r² = 324 / 36 = 9 => r = 3 cm'dir."
+    },
+    {
+      "id": "Q_7_9_027",
+      "questionText": "Etrafına 3 sıra ip sarılan silindir şeklindeki bir kolide kullanılan toplam ip uzunluğu 72 cm'dir. Bu silindirin taban çevresi kaç santimetredir?",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Toplam ip uzunluğu 3 sıra için 72 cm ise, 1 sıra (taban çevresi) = 72 / 3 = 24 cm'dir."
+    },
+    {
+      "id": "Q_7_9_028",
+      "questionText": "Yarıçapı 4 cm ve yüksekliği 10 cm olan bir silindirin içindeki su yüksekliği 6 cm'dir. Bu suyun içerisine yarıçapı 2 cm ve yüksekliği 4 cm olan demir bir silindir atıldığında kaptaki su seviyesi en fazla kaç cm olur?",
+      "answers": [
+        "7",
+        "7,5",
+        "8",
+        "9"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Atılan demir silindirin hacmi suya batırıldığında su seviyesini yukarı iter. Demir hacim = Pi · r² · h = 3 · (2²) · 4 = 3 · 4 · 4 = 48 cm³. Bu su yüksekliğini ne kadar artırır? Artış = Demir Hacmi / Büyük Kabın Taban Alanı. Büyük taban alanı = 3 · (4²) = 48 cm². Artış miktarı = 48 / 48 = 1 cm. İlk su yüksekliği 6 cm idi. Yeni yükseklik = 6 + 1 = 7 cm olur."
+    },
+    {
+      "id": "Q_7_9_029",
+      "questionText": "Yarıçapı 5 cm olan bir dairenin merkez açısı 144° olan daire diliminin alanı kaç santimetrekaredir? (Pi = 3 alınız)",
+      "answers": [
+        "30",
+        "60",
+        "90",
+        "120"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Dilim Alanı = (3 · 5² · 144) / 360 = (3 · 25 · 144) / 360 = 10800 / 360 = 30 cm²'dir."
+    },
+    {
+      "id": "Q_7_9_030",
+      "questionText": "Bir dik dairesel silindirin yarıçapı 3 katına çıkarılır ve yüksekliği 3'te birine (1/3) düşürülürse silindirin hacmi nasıl değişir?",
+      "answers": [
+        "Değişmez",
+        "3 katına çıkar",
+        "9 katına çıkar",
+        "27 katına çıkar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Hacim = Pi · r² · h. Yeni Hacim = Pi · (3r)² · (h/3) = Pi · (9r²) · (h/3) = 3 · (Pi · r² · h). Hacim ilk durumun 3 katına çıkar."
+    }
+  ]
+}

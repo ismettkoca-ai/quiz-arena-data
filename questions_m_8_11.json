@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Cisimler",
+  "questions": [
+    {
+      "id": "Q_8_11_001",
+      "questionText": "Bir dikdörtgenler prizmasının ayrıt, köşe ve yüz sayısı sırasıyla aşağıdakilerden hangisidir?",
+      "answers": [
+        "12 ayrıt, 8 köşe, 6 yüz",
+        "8 ayrıt, 12 köşe, 6 yüz",
+        "12 ayrıt, 6 köşe, 8 yüz",
+        "6 ayrıt, 8 köşe, 12 yüz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Dikdörtgenler prizmasının 12 ayrıtı (kenarı), 8 köşesi ve 6 yüzü vardır."
+    },
+    {
+      "id": "Q_8_11_002",
+      "questionText": "Aşağıdaki geometrik cisimlerden hangisinin bütün yüzeyleri birbirine eştir?",
+      "answers": [
+        "Kare Dik Prizma",
+        "Dikdörtgenler Prizması",
+        "Küp",
+        "Üçgen Dik Prizma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Küpün 6 yüzünün tamamı birbirine eş olan karelerden oluşur."
+    },
+    {
+      "id": "Q_8_11_003",
+      "questionText": "Bir dik dairesel silindirin yanal yüzü açıldığında hangi düzlemsel şekil elde edilir?",
+      "answers": [
+        "Daire",
+        "Dikdörtgen",
+        "Üçgen",
+        "Yamuk"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Silindirin yanal yüzü açıldığında bir dikdörtgen (veya kare) ortaya çıkar."
+    },
+    {
+      "id": "Q_8_11_004",
+      "questionText": "Tabanı çokgensel bir bölge, yan yüzleri ise ortak bir tepe noktasında birleşen üçgensel bölgeler olan geometrik cisme ne ad verilir?",
+      "answers": [
+        "Prizma",
+        "Silindir",
+        "Koni",
+        "Piramit"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Tabanı herhangi bir çokgen olan ve yan yüzleri üçgenlerden oluşup bir tepe noktasında birleşen cisimler piramittir."
+    },
+    {
+      "id": "Q_8_11_005",
+      "questionText": "Taban yarıçapı 3 cm ve yüksekliği 10 cm olan bir dik dairesel silindirin hacmi kaç santimetreküptür? (π = 3 alınız)",
+      "answers": [
+        "90",
+        "180",
+        "270",
+        "540"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Silindirin hacmi = π · r² · h = 3 · 3² · 10 = 3 · 9 · 10 = 270 cm³'tür."
+    },
+    {
+      "id": "Q_8_11_006",
+      "questionText": "Bir ayrıtının uzunluğu 4 cm olan küpün hacmi kaç santimetreküptür?",
+      "answers": [
+        "16",
+        "48",
+        "64",
+        "96"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Küpün hacmi a³ formülü ile bulunur. 4³ = 4 · 4 · 4 = 64 cm³'tür."
+    },
+    {
+      "id": "Q_8_11_007",
+      "questionText": "Ayrıt uzunlukları 3 cm, 4 cm ve 5 cm olan dikdörtgenler prizmasının yüzey alanı kaç santimetrekaredir?",
+      "answers": [
+        "47",
+        "60",
+        "84",
+        "94"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Prizmanın yüzey alanı = 2(a·b + a·c + b·c) = 2(12 + 15 + 20) = 2(47) = 94 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_008",
+      "questionText": "Taban yarıçapı 4 cm ve yüksekliği 5 cm olan bir dik dairesel silindirin yanal alanı kaç santimetrekaredir? (π = 3 alınız)",
+      "answers": [
+        "60",
+        "120",
+        "180",
+        "240"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Silindirin yanal alanı = 2 · π · r · h formülüyle bulunur. 2 · 3 · 4 · 5 = 120 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_009",
+      "questionText": "Taban yarıçapı 6 cm ve yüksekliği 8 cm olan bir dik dairesel koninin ana doğru (a) uzunluğu kaç santimetredir?",
+      "answers": [
+        "10",
+        "12",
+        "14",
+        "100"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Konide yükseklik (h), yarıçap (r) ve ana doğru (a) dik üçgen oluşturur. Pisagor teoremine göre: a² = 6² + 8² = 100 => a = 10 cm'dir."
+    },
+    {
+      "id": "Q_8_11_010",
+      "questionText": "Kare dik piramidin taban ayrıtı 10 cm, cisim yüksekliği ise 12 cm'dir. Bu piramidin yan yüz yüksekliği kaç santimetredir?",
+      "answers": [
+        "13",
+        "15",
+        "17",
+        "26"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Piramidin içindeki dik üçgende dik kenarlar; tabanın yarısı (10 / 2 = 5) ve cisim yüksekliğidir (12). Yan yüz yüksekliği hipotenüstür: 5² + 12² = 13² => 13 cm'dir."
+    },
+    {
+      "id": "Q_8_11_011",
+      "questionText": "Dik dairesel koninin açınımında yer alan daire diliminin yay uzunluğu, aşağıdakilerden hangisine eşittir?",
+      "answers": [
+        "Koninin yüksekliğine",
+        "Ana doğrunun uzunluğuna",
+        "Taban dairesinin çevresine",
+        "Taban dairesinin alanına"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Koninin yanal yüzü (daire dilimi) kapandığında taban dairesini tam olarak sarar. Bu nedenle yay uzunluğu taban dairesinin çevresine eşittir."
+    },
+    {
+      "id": "Q_8_11_012",
+      "questionText": "Yarıçapı 3 cm ve ana doğrusu uzunluğu 12 cm olan bir koninin açınımında, yanal yüzeyi oluşturan daire diliminin merkez açısı kaç derecedir?",
+      "answers": [
+        "60°",
+        "90°",
+        "120°",
+        "150°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Koni açınımı formülü: r / a = Merkez Açı / 360°. 3 / 12 = Açı / 360° => 1 / 4 = Açı / 360° => Açı = 90°'dir."
+    },
+    {
+      "id": "Q_8_11_013",
+      "questionText": "Bir ayrıtının uzunluğu 5 cm olan küpün tüm yüzey alanı kaç santimetrekaredir?",
+      "answers": [
+        "25",
+        "100",
+        "125",
+        "150"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Küpün 6 eş yüzü vardır. Bir yüzün alanı = 5 · 5 = 25 cm²'dir. Toplam yüzey alanı = 6 · 25 = 150 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_014",
+      "questionText": "Taban ayrıtı 6 cm ve yüksekliği 10 cm olan kare dik prizmanın hacmi kaç santimetreküptür?",
+      "answers": [
+        "60",
+        "120",
+        "360",
+        "720"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Prizmaların hacmi = Taban Alanı · Yükseklik. Taban alanı (kare) = 6 · 6 = 36 cm². Hacim = 36 · 10 = 360 cm³'tür."
+    },
+    {
+      "id": "Q_8_11_015",
+      "questionText": "Bir üçgen dik prizmanın toplam ayrıt sayısı kaçtır?",
+      "answers": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Üçgen prizmanın alt tabanında 3, üst tabanında 3 ve yanlarda 3 olmak üzere toplam 9 ayrıtı vardır."
+    },
+    {
+      "id": "Q_8_11_016",
+      "questionText": "Hacmi 240 cm³ ve yüksekliği 5 cm olan bir dik dairesel silindirin taban yarıçapı kaç santimetredir? (π = 3 alınız)",
+      "answers": [
+        "4",
+        "5",
+        "8",
+        "16"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "V = π · r² · h => 240 = 3 · r² · 5 => 240 = 15 · r² => r² = 16 => r = 4 cm'dir."
+    },
+    {
+      "id": "Q_8_11_017",
+      "questionText": "Bir düzgün altıgen dik piramidin açınımında taban hariç kaç tane üçgensel bölge vardır?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 1,
+      "explanation": "Piramitlerin yanal yüz sayısı tabanındaki çokgenin kenar sayısına eşittir. Altıgen piramidin 6 adet üçgensel yan yüzü vardır."
+    },
+    {
+      "id": "Q_8_11_018",
+      "questionText": "Ana doğrusunun uzunluğu 15 cm ve yanal yüzünün merkez açısı 216° olan bir koninin taban yarıçapı kaç santimetredir?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "r / a = Merkez Açı / 360° formülünden: r / 15 = 216 / 360. Sadeleştirirsek r / 15 = 3 / 5 olur. 5r = 45 => r = 9 cm bulunur."
+    },
+    {
+      "id": "Q_8_11_019",
+      "questionText": "Bir dik dairesel silindirin yüksekliği sabit tutulup taban yarıçapı 2 katına çıkarılırsa hacmi nasıl değişir?",
+      "answers": [
+        "2 katına çıkar.",
+        "4 katına çıkar.",
+        "8 katına çıkar.",
+        "Değişmez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Silindirin hacmi (π · r² · h) yarıçapın karesi ile orantılıdır. Yarıçap 2 katına çıkarsa hacim 2² = 4 katına çıkar."
+    },
+    {
+      "id": "Q_8_11_020",
+      "questionText": "Taban ayrıtı 8 cm olan kare dik prizmanın yanal alanı 320 cm² olduğuna göre bu prizmanın yüksekliği kaç santimetredir?",
+      "answers": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Prizmalarda yanal alan = Taban Çevresi · Yükseklik. Taban çevresi = 4 · 8 = 32 cm. 32 · h = 320 => h = 10 cm'dir."
+    },
+    {
+      "id": "Q_8_11_021",
+      "questionText": "Yarıçapı 5 cm ve yüksekliği 20 cm olan silindir şeklindeki bir kutunun sadece yanal yüzeyi kağıtla kaplanacaktır. Bu iş için en az kaç santimetrekare kağıt gereklidir? (π = 3 alınız)",
+      "answers": [
+        "150",
+        "300",
+        "450",
+        "600"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Silindirin yanal alanı = 2 · π · r · h = 2 · 3 · 5 · 20 = 300 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_022",
+      "questionText": "Tüm ayrıt uzunluklarının toplamı 60 cm olan bir küpün hacmi kaç santimetreküptür?",
+      "answers": [
+        "25",
+        "64",
+        "125",
+        "216"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Küpün 12 eşit ayrıtı vardır. Bir ayrıtı a = 60 / 12 = 5 cm'dir. Hacim = 5³ = 125 cm³'tür."
+    },
+    {
+      "id": "Q_8_11_023",
+      "questionText": "Taban yarıçapı 4 cm ve yüksekliği 9 cm olan bir dik dairesel silindir ile taban yarıçapı 6 cm olan başka bir dik dairesel silindirin hacimleri eşittir. Buna göre ikinci silindirin yüksekliği kaç santimetredir?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "1. Silindir Hacmi = π · 4² · 9 = 144π. 2. Silindir Hacmi = π · 6² · h = 36π · h. Hacimler eşitse 36π · h = 144π => h = 4 cm'dir."
+    },
+    {
+      "id": "Q_8_11_024",
+      "questionText": "Taban ayrıtı 4 cm ve yüksekliği 10 cm olan düzgün altıgen dik prizmanın yanal alanı kaç santimetrekaredir?",
+      "answers": [
+        "120",
+        "160",
+        "200",
+        "240"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Yanal alan = Taban Çevresi · Yükseklik. Düzgün altıgenin çevresi = 6 · 4 = 24 cm. Yanal alan = 24 · 10 = 240 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_025",
+      "questionText": "Kare dik piramidin taban ayrıtı 12 cm ve yan yüz yüksekliği 10 cm'dir. Bu piramidin tüm yüzey alanı kaç santimetrekaredir?",
+      "answers": [
+        "240",
+        "360",
+        "384",
+        "480"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "Taban alanı = 12 · 12 = 144 cm². 4 adet üçgen yan yüzün alanı = 4 · [(12 · 10) / 2] = 240 cm². Toplam yüzey alanı = 144 + 240 = 384 cm²'dir."
+    },
+    {
+      "id": "Q_8_11_026",
+      "questionText": "Açınımında yanal yüzeyi tam bir yarım daire olan bir dik dairesel koninin ana doğrusu (a) 10 cm'dir. Bu koninin yüksekliği kaç santimetredir?",
+      "answers": [
+        "5",
+        "5√3",
+        "8",
+        "10"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "Yarım dairenin merkez açısı 180°'dir. r / 10 = 180 / 360 => r = 5 cm. Pisagor teoremine göre h² + 5² = 10² => h² + 25 = 100 => h² = 75 => h = 5√3 cm'dir."
+    },
+    {
+      "id": "Q_8_11_027",
+      "questionText": "Taban ayrıtları 10 cm ve 10 cm, yüksekliği 12 cm olan kare dik prizma şeklindeki bir kap yarıya kadar su ile doludur. Bu suyun tamamı, taban ayrıtı 5 cm olan boş bir kare dik prizmaya boşaltıldığında suyun yüksekliği kaç santimetre olur?",
+      "answers": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "Suyun hacmi = 10 · 10 · 6 = 600 cm³'tür (Kap yarıya kadar dolu olduğu için yükseklik 6 alınır). Yeni kapta 5 · 5 · h = 600 => 25h = 600 => h = 24 cm olur."
+    },
+    {
+      "id": "Q_8_11_028",
+      "questionText": "Taban yarıçapı 3 cm, yüksekliği 24 cm olan bir dik dairesel silindirin tabanındaki A noktasından başlayıp yanal yüzeyi üzerinden bir tam tur atarak en üstteki C noktasına giden bir karıncanın alacağı en kısa yol kaç santimetredir? (π = 3 alınız)",
+      "answers": [
+        "24",
+        "25",
+        "30",
+        "42"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 3,
+      "explanation": "Silindirin yanal yüzü açıldığında dikdörtgen oluşur. Taban çevresi (yatay yol) = 2 · 3 · 3 = 18 cm. Yükseklik (dikey yol) = 24 cm. En kısa yol bu dikdörtgenin köşegenidir. 18-24-30 (3-4-5'in 6 katı) özel üçgeninden en kısa yol 30 cm bulunur."
+    },
+    {
+      "id": "Q_8_11_029",
+      "questionText": "Yüksekliği 15 cm ve taban çapı 16 cm olan bir dik dairesel koninin hacmi kaç santimetreküptür? (π = 3 alınız)",
+      "answers": [
+        "480",
+        "960",
+        "1440",
+        "2880"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Çap 16 cm ise yarıçap r = 8 cm'dir. Koninin hacmi = (π · r² · h) / 3 = (3 · 64 · 15) / 3 = 64 · 15 = 960 cm³'tür."
+    },
+    {
+      "id": "Q_8_11_030",
+      "questionText": "Yüzey alanı 150 cm² olan bir küpün hacmi kaç santimetreküptür?",
+      "answers": [
+        "25",
+        "64",
+        "125",
+        "216"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Cisimler",
+      "difficulty": 2,
+      "explanation": "Küpün yüzey alanı 6 · a² = 150 => a² = 25 => a = 5 cm'dir. Hacim = a³ = 5³ = 125 cm³'tür."
+    }
+  ]
+}

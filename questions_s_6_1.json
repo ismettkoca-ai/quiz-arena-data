@@ -1,0 +1,425 @@
+{
+  "unit": "Birlikte Yaşamak",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "Bir toplumun sahip olduğu maddi ve manevi değerlerin bütününe ne ad verilir?",
+      "answers": [
+        "Ekonomi",
+        "Kültür",
+        "Politika",
+        "Teknoloji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Bir milletin yaşam tarzı, sanatı, dili, gelenekleri ve inançları kültürünü oluşturur."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "Aşağıdakilerden hangisi bir milletin 'somut (maddi) kültürel mirası'na örnek gösterilebilir?",
+      "answers": [
+        "Halk oyunları",
+        "Türküler",
+        "Tarihi camiler ve kaleler",
+        "Misafirperverlik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Gözle görülebilen, elle tutulabilen tarihi binalar ve yapılar somut kültürel mirastır."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "Herhangi bir olay veya kişi hakkında yeterli bilgi sahibi olmadan önceden edinilmiş olumlu veya olumsuz yargılara ne denir?",
+      "answers": [
+        "Empati",
+        "Önyargı (Prejudist)",
+        "Hoşgörü",
+        "Dayanışma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Peşin hüküm veya önyargı, toplumsal ilişkileri zedeleyen olumsuz bir tutumdur."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "Toplumda belirli bir grup hakkındaki inançların genelleştirilmesine ve tek tip kalıba sokulmasına ne ad verilir?",
+      "answers": [
+        "Kalıp yargı",
+        "Kültürel zenginlik",
+        "Toplumsal uyum",
+        "Demokrasi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Kalıp yargılar, bireyleri özellikleri dikkate alınmadan bir gruba ait özelliklerle etiketler."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "Kültürel değerlerin yabancı kültürlerin olumsuz etkisiyle bozulmasına ve özünü kaybetmesine ne denir?",
+      "answers": [
+        "Kültürel gelişim",
+        "Kültürel yozlaşma",
+        "Kültürel aktarım",
+        "Kültürel zenginlik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Öz kültürden uzaklaşma ve yabancı unsurların baskın gelmesi kültürel yozlaşmadır."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "Aşağıdakilerden hangisi milli kültürümüzü korumak ve yaşatmak için yapılması gereken doğru bir davranıştır?",
+      "answers": [
+        "Yabancı dillerin kelimelerini Türkçeden daha çok kullanmak",
+        "Gelenek ve göreneklerimize sahip çıkmak, bayramlarımızı kutlamak",
+        "Yalnızca diğer ülkelerin kültürlerini benimsemek",
+        "Tarihi değerlerimizi unutmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Milli kültürü yaşatmak geleneklere ve milli değerlere sahip çıkmakla mümkündür."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "Toplum içinde farklı kültürlerin bir arada barış, huzur ve uyum içinde yaşamasına ne ad verilir?",
+      "answers": [
+        "Kültürel asimilasyon",
+        "Kültürel çoğulculuk ve uyum",
+        "Çatışma",
+        "İzolasyon"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Farklılıkların zenginlik kabul edilerek uyum içinde yaşanması kültürel uyumdur."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "Bir başka ülkeye ya da bölgeye göç eden kişilerin gittikleri yerin kültürüne uyum sağlarken kendi kültürlerini de korumalarına ne denir?",
+      "answers": [
+        "Kültürel etkileşim",
+        "Asimilasyon",
+        "Kültürel yoksulluk",
+        "Tecrit"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Toplumların birbirini etkilemesi kültürel etkileşimi doğurur."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Aşağıdakilerden hangisi Türk misafirperverliğinin bir göstergesi olarak kabul edilir?",
+      "answers": [
+        "Misafire ikramda bulunmak ve ona değer vermek",
+        "Misafiri kapıdan çevirmek",
+        "Komşularla hiç konuşmamak",
+        "Yardım taleplerini reddetmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Misafirperverlik Türk kültürünün en köklü ve sıcak unsurlarından biridir."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "Önyargıların ve kalıp yargıların toplum üzerindeki en büyük olumsuz etkisi nedir?",
+      "answers": [
+        "Toplumsal bağları güçlendirmesi",
+        "İnsanlar arasındaki iletişimi koparması ve ayrımcılığa yol açması",
+        "Ekonomiyi kalkındırması",
+        "Kültürel zenginliği artırması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Önyargılar ayrımcılığa ve toplumsal kutuplaşmaya neden olur."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "Ülkemizde yaşayan farklı kültür ve yörelere ait halk oyunlarının (horon, halay, zeybek vb.) varlığı aşağıdakilerden hangisinin göstergesidir?",
+      "answers": [
+        "Kültürel çeşitliliğimizin ve zenginliğimizin",
+        "Kültürel yozlaşmanın",
+        "Kültürlerin tek tip olduğunun",
+        "Milli birliğin olmadığının"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Farklı halk oyunları ülkemizin zengin kültürel mozaik yapısını yansıtır."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "Karşımızdaki insanı eleştirmeden önce onun bakış açısını anlamaya çalışmak hangi toplumsal değeri güçlendirir?",
+      "answers": [
+        "Bencillik",
+        "Empati ve hoşgörü",
+        "Önyargı",
+        "Kıskançlık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Empati ve hoşgörü toplumsal huzurun anahtarıdır."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "Aşağıdakilerden hangisi somut olmayan (maddî olmayan) kültürel mirasımıza örnek gösterilemez?",
+      "answers": [
+        "Karagöz ve Hacivat gölge oyunu",
+        "Nasreddin Hoca fıkraları",
+        "Selimiye Camii",
+        "Geleneksel düğün adetleri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Selimiye Camii somut (mimari) bir kültürel mirastır."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "Toplumda 'kadınlar şu mesleği yapamaz' veya 'şu yörenin insanı böyledir' gibi genellemeler yapmak hangi kavramla ifade edilir?",
+      "answers": [
+        "Kalıp yargı",
+        "Bilimsel gerçek",
+        "Evrensel kural",
+        "Kanun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Bu tür peşin hükümlü genellemeler kalıp yargıdır."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "Kültürün nesilden nesile aktarılmasında en önemli araç aşağıdakilerden hangisidir?",
+      "answers": [
+        "Dil (Türkçe)",
+        "Yabancı diziler",
+        "Endüstriyel makineler",
+        "Binalar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Dil, kültürün taşıyıcısı ve aktarıcısındaki en temel unsurdur."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "Aşağıdakilerden hangisi kültürel yozlaşmaya sebep olan unsurlardan biridir?",
+      "answers": [
+        "Kendi diline sahip çıkmak",
+        "Yabancı dillerin ve özentili yaşam tarzlarının aşırı övülmesi",
+        "Tarihi eserleri korumak",
+        "Bayramları kutlamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Özentilik ve yabancı kültürlere körü körüne hayranlık yozlaşmayı tetikler."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "İnsanların kökeni, dini, dili ne olursa olsun insan haklarına dayalı olarak bir arada kardeşçe yaşaması aşağıdakilerden hangisiyle doğrudan ilgilidir?",
+      "answers": [
+        "Evrensel değerler ve insan sevgisi",
+        "Irkçılık",
+        "Bencillik",
+        "Toplumsal ayrışma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Evrensel değerler tüm insanlığın ortak paydasıdır."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "Milli kültürümüzü yansıtan el sanatlarından biri olan halı ve kilim dokumacılığında kullanılan motifler neyi anlatır?",
+      "answers": [
+        "Dokuyan kişinin duygularını, sevinçlerini ve yaşam öyküsünü",
+        "Rastgele atılmış çizgileri",
+        "Yabancı ülkelerin bayraklarını",
+        "Matematik formüllerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Halı motifleri Türk kültüründe duygu ve hikayelerin simgesidir."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "Toplumsal yardımlaşmayı ve dayanışmayı canlı tutan geleneksel bayramlarımızın en temel işlevi nedir?",
+      "answers": [
+        "Akraba ve komşu bağlarını, birlik ve beraberliği güçlendirmek",
+        "İnsanları birbirinden uzaklaştırmak",
+        "Ticareti durdurmak",
+        "Sadece tatil yapmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Bayramlar toplumsal bağları ve akrabalık ilişkilerini pekiştirir."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "Aşağıdaki durumlardan hangisi bir arada yaşama kültürüne zarar verir?",
+      "answers": [
+        "Farklı düşüncelere saygı duyulması",
+        "Ortak kurallara uyulması",
+        "Ötekileştirici ve dışlayıcı bir dil kullanılması",
+        "İş birliği yapılması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ötekileştirme toplumsal barışı bozar."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "Bir toplumda ortak değerlerin (bayrak, vatan sevgisi, dil) bulunması neyi sağlar?",
+      "answers": [
+        "Milli birliği ve beraberliği",
+        "Toplumsal çatışmayı",
+        "Kültürlerin yok olmasını",
+        "Bireylerin yalnızlaşmasını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ortak değerler milleti bir arada tutan çimentodur."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Geleneksel Türk mutfağının zenginliği (mantı, kebap, baklava vb.) aşağıdakilerden hangisinin bir parçasıdır?",
+      "answers": [
+        "Milli kültürümüzün",
+        "Teknolojik gelişmenin",
+        "Soyut kavramların",
+        "Yabancı mutfakların"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Yemek kültürü milli kültürün önemli bir ögesidir."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Farklı kültürlere sahip insanlarla karşılaştığımızda 'bizim gibi olmasalar da değerlidirler' düşüncesine sahip olmak hangi kavramla açıklanır?",
+      "answers": [
+        "Kültürel hoşgörü ve saygı",
+        "Önyargı",
+        "Asimilasyon",
+        "Kalıp yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Farklılıklara saygı duymak kültürel hoşgörüdür."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "Aşağıdakilerden hangisi milli kültürümüzü yabancı etkilerden korurken yapmamız gereken yanlış bir tutumdur?",
+      "answers": [
+        "Yabancı dillerden dilimize giren gereksiz kelimeler yerine Türkçe karşılıklarını kullanmak",
+        "Kendi geleneklerimizi küçümseyip yabancı gelenekleri üstün görmek",
+        "Türkülerimize ve halk oyunlarımıza sahip çıkmak",
+        "Tarihimizi doğru öğrenmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Kendi kültürünü küçümsemek kültürel öz güven eksikliğidir ve yozlaşmayı hızlandırır."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "Tarih boyunca Türk milletinin göçebe yaşam tarzından yerleşik hayata geçmesi kültüründe hangi alanda değişim yaratmıştır?",
+      "answers": [
+        "Mimari (kalıcı evler, camiler, hanlar yapılması)",
+        "Çadır kültürünün artması",
+        "Hayvancılığın tamamen bitmesi",
+        "Dilin tamamen değişmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Yerleşik hayata geçiş mimari eserlerin ve kalıcı yapıların doğmasını sağlamıştır."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "Sınıfına yeni gelen yabancı uyruklu bir öğrenciye bazı arkadaşları 'Nasıl olsa Türkçe bilmiyordur, bizimle oyun oynamaz' diyerek yaklaşmamıştır. Bu öğrencilerin sergilediği tutum aşağıdakilerden hangisiyle adlandırılır?",
+      "answers": [
+        "Empati",
+        "Ön yargı ve kalıp yargı",
+        "Kültürel zenginlik",
+        "Misafirperverlik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Tanımadan karar vermek ve dışlamak önyargı ve kalıp yargı örneğidir."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "Aşağıdakilerden hangisi halk kültürü ürünleri arasında yer almaz?",
+      "answers": [
+        "Masallar ve efsaneler",
+        "Fabrikada seri üretilen plastik oyuncaklar",
+        "Halk türküleri",
+        "Geleneksel el dokuması halılar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Seri üretim fabrika ürünleri halk kültürü unsuru değil, endüstriyel ürünlerdir."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Kültürel miras ögelerinin korunmasında yerel yönetimlerin (belediyelerin) en önemli sorumluluğu nedir?",
+      "answers": [
+        "Tarihi yapıları restore etmek ve yerel kültürel etkinlikler düzenlemek",
+        "Tarihi binaları yıkıp otopark yapmak",
+        "Geleneksel el sanatlarını yasaklamak",
+        "Yabancı festivallere öncelik vermek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Belediyeler yöresel kültürü ve tarihi dokuyu korumakla yükümlüdür."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "Bir milletin tarihin akışı içinde yarattığı maddi ve manevi değerlerin bütünü olan kültür, zamanla değişebilir mi?",
+      "answers": [
+        "Evet, kültür dinamiktir; zamanla yeni unsurlar eklenebilir veya bazıları unutulabilir.",
+        "Hayır, kültürler ilk günkü gibi taşlaşmıştır, asla değişmez.",
+        "Sadece yabancı kültürlerin baskısıyla tamamen yok olur.",
+        "Kültür sadece ekonomiyle ilgilidir, zamandan bağımsızdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Kültür canlı ve dinamik bir yapıya sahiptir, çağın şartlarına göre evrilebilir."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "Toplumda farklı düşünce, inanç ve yaşam tarzına sahip insanlarla uyum içinde yaşamanın en temel kuralı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Birbirinin haklarına saygı duymak ve ortak kurallara uymak",
+        "Herkesin kendisi gibi düşünmesini sağlamak",
+        "Farklılıkları yok saymak",
+        "İletişimi tamamen kesmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Demokratik bir toplumda birlikte yaşamanın temeli karşılıklı saygıdır."
+    }
+  ]
+}

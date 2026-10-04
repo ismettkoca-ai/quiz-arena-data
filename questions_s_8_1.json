@@ -1,0 +1,425 @@
+{
+  "unit": "Bir Kahraman Doğuyor",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "19. yüzyılda Osmanlı Devleti'ni dağılmaktan kurtarmak için tüm vatandaşları din, dil, ırk farkı gözetmeksizin kanun önünde eşit sayarak geniş katılımlı bir ulus oluşturmayı amaçlayan fikir akımı hangisidir?",
+      "answers": [
+        "İslamcılık",
+        "Osmanlıcılık",
+        "Türkçülük",
+        "Batıcılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Osmanlıcılık akımı, din ve ırk farkı gözetmeksizin Osmanlı sınırları içinde yaşayan herkesi Osmanlı vatandaşı sayarak devleti dağılmaktan korumayı amaçlamıştır."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "Mustafa Kemal'in doğduğu, farklı milletlerin ve dinlerin bir arada barış içinde yaşadığı, ticaret ve kültür merkezi olan Selanik şehrinin hangi özelliği onun batı ile etkileşimini en çok kolaylaştırmıştır?",
+      "answers": [
+        "Rumeli'de yer alması, Osmanlı'nın batıya açılan penceresi olması ve liman kenti konumunda bulunması",
+        "Askeri okulların merkezinde yer alması",
+        "Padişahın başkenti olması",
+        "Sanayi devriminin ilk başladığı yer olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Selanik, Ege denizi kıyısında bir liman kenti olması ve demiryoluyla Avrupa'ya bağlanması sayesinde batıdaki gazete, kitap ve fikir akımlarıyla kolayca etkileşime geçmiştir."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "Mustafa Kemal'in askeri lise (idadi) eğitimini aldığı, ulusal bilincinin uyanmasında ve Mehmed Emin Yurdakul, Namık Kemal gibi aydınlarla tanışmasında etkili olan şehir hangisidir?",
+      "answers": [
+        "İstanbul",
+        "Selanik",
+        "Manastır",
+        "Sofya"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Manastır Askeri İdadisi, Mustafa Kemal'in tarih bilincinin oluşmasında, yabancı dilini geliştirmesinde ve Türk milliyetçisi yazarları tanımasında çok önemli bir yere sahiptir."
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "Osmanlı Devleti'nde gayrimüslim vatandaşlara geniş haklar tanınarak devletin dağılmasını önlemeyi amaçlayan ilk demokratikleşme belgesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kanunuesasi",
+        "Tanzimat Fermanı",
+        "Senedi İttifak",
+        "Islahat Fermanı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "1839 yılında ilan edilen Tanzimat Fermanı ile can, mal ve namus güvenliği güvence altına alınmış, herkes kanun önünde eşit sayılmıştır."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Mustafa Kemal'in Harp Akademisinden mezun olduktan sonra kurmay yüzbaşı rütbesiyle atandığı ilk görev yeri neresidir?",
+      "answers": [
+        "Selanik 3. Ordu",
+        "Şam 5. Ordu",
+        "Sofya Askeri Ataşeliği",
+        "İstanbul Harp Okulu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Mustafa Kemal okuldan mezun olduktan sonra siyasi faaliyetleri ve özgürlük düşünceleri nedeniyle sürgün niteliğinde Şam'daki 5. Ordu'ya atanmıştır."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Mustafa Kemal'in katıldığı ilk askeri başarı olarak bilinen, gazeteci kılığında gizlice gidip yerli halkı örgütleyerek İtalyanlara karşı direniş gösterdiği savaş hangisidir?",
+      "answers": [
+        "Balkan Savaşı",
+        "Trablusgarp Savaşı",
+        "I. Dünya Savaşı",
+        "Çanakkale Savaşı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Trablusgarp Savaşı, Mustafa Kemal'in sömürgeciliğe karşı ilk askeri mücadelesi olup Derne ve Tobruk'ta yerli halkı teşkilatlandırdığı savaştır."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "Fransız İhtilali'nin Osmanlı Devleti üzerindeki en yıkıcı ve olumsuz etkisi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kapitülasyonların kaldırılması",
+        "Sanayi devriminin başlaması",
+        "Milliyetçilik akımının yayılması ve çok uluslu yapının isyanlarla parçalanması",
+        "Padişahlık rejiminin güç kazanması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Fransız İhtilali ile yayılan 'her millet kendi devletini kurmalıdır' düşüncesi (milliyetçilik), çok uluslu bir imparatorluk olan Osmanlı'da azınlık isyanlarına yol açmıştır."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "Mustafa Kemal'in çocukluk yıllarında Selanik'te hem geleneksel eğitim veren mahalle mekteplerinin hem de batı tarzı eğitim veren modern okulların aynı anda bulunması hangi durumu ortaya çıkarmıştır?",
+      "answers": [
+        "Eğitim ve öğretimde birlik (ikilik) yaşandığını",
+        "Eğitim sisteminin tamamen kusursuz olduğunu",
+        "Tüm okulların kapandığını",
+        "Sadece yabancı dille eğitim yapıldığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Osmanlı'nın son döneminde farklı eğitim kurumlarının bir arada bulunması toplumda kültür ve eğitim birliğinin bozulmasına (eğitimde ikiliğe) neden olmuştur."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "Osmanlı Devleti'nde padişahın yetkilerini kısıtlayan, meclisin açılmasını sağlayan ve Türk tarihinde ilk kez anayasal düzene geçilen dönem hangisidir?",
+      "answers": [
+        "Tanzimat Dönemi",
+        "Islahat Dönemi",
+        "I. Meşrutiyet Dönemi",
+        "Cumhuriyet Dönemi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "1876 yılında Kanunuesasi'nin ilan edilmesiyle I. Meşrutiyet dönemi başlamış ve Türk tarihinde ilk kez halk yönetime katılmıştır."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "Mustafa Kemal'in Şam'da görev yaptığı sırada arkadaşlarıyla birlikte kurduğu gizli teşkilatın adı nedir?",
+      "answers": [
+        "İttihat ve Terakki Cemiyeti",
+        "Vatan ve Hürriyet Cemiyeti",
+        "Müdafaa-i Hukuk Cemiyeti",
+        "Karakol Cemiyeti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "Mustafa Kemal, vatan sevgisi ve hürriyet fikirleriyle Şam'da gizli olarak 'Vatan ve Hürriyet Cemiyeti'ni kurmuştur."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "Osmanlı Devleti'nin son döneminde dünyadaki tüm Müslümanları halifenin etrafında birleştirerek devleti kurtarmayı amaçlayan fikir akımı hangisidir?",
+      "answers": [
+        "Osmanlıcılık",
+        "İslamcılık (Ümmetçilik)",
+        "Türkçülük",
+        "Batıcılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 1,
+      "explanation": "İslamcılık (ümmetçilik) akımı, Müslümanların halifelik çatısı altında birleşmesiyle devletin bütünlüğünü korumayı savunmuştur."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "Mustafa Kemal'in Sofya'da askeri ataşe (elçilik askeri uzmanı) olarak görev yaptığı dönemde yaptığı gözlemler onun hangi alandaki vizyonunu ve birikimini geliştirmiştir?",
+      "answers": [
+        "Diplomasi, siyaset ve dış ilişkiler",
+        "Denizcilik ve donanma teknolojisi",
+        "Tarım ve hayvancılık politikaları",
+        "Mimari ve şehir planlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Sofya'daki diplomatik görev süresince Bulgar meclisini takip etmesi, yabancı devlet adamlarıyla görüşmesi Mustafa Kemal'in dış politika ve diplomasi becerilerini geliştirmiştir."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "Meşrutiyet karşıtı çıkan 31 Mart Vakası'nı bastırmak için Selanik'ten yola çıkan 'Hareket Ordusu'nun kurmay başkanlığını yapan subay kimdir?",
+      "answers": [
+        "Enver Paşa",
+        "İsmet İnönü",
+        "Mustafa Kemal",
+        "Kazım Karabekir"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "31 Mart isyanını bastıran Hareket Ordusu'nun kurmay başkanı Kolağası Mustafa Kemal'dir; bu olay onun tarih sahnesinde adını duyurduğu ilk olaydır."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "19. yüzyılda Sanayi Devrimi'ni zamanında gerçekleştiremeyen Osmanlı Devleti'nin Avrupa devletlerinin 'açık pazarı' haline gelmesinin en temel sebebi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kapitülasyonlar ve yerli el sanatlarının fabrika üretimi karşısında rekabet edememesi",
+        "Tarım alanlarının tamamen kuraklaşması",
+        "Nüfusun çok az olması",
+        "Eğitim seviyesinin çok yüksek olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Avrupa'da fabrikalaşma başlarken Osmanlı'nın kapitülasyonlar yüzünden ucuz yabancı malların istilasına uğraması yerli üretimi çökertmiştir."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "Mustafa Kemal'in Manastır Askeri İdadisi'nde tarih sevgisini ve bilincini geliştiren, okul yıllarında okuduğu eserlerle milliyetçilik duygusunu pekiştirdiği Türk şair kimdir?",
+      "answers": [
+        "Tevfik Fikret",
+        "Namık Kemal",
+        "Ziya Gökalp",
+        "Mehmet Emin Yurdakul"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Mustafa Kemal, Manastır yıllarında vatan şairi olarak bilinen Namık Kemal'in eserlerinden ve tarih öğretmeni Mehmet Tevfik Bey'den derinlemesine etkilenmiştir."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "Balkan Savaşları sonucunda Osmanlı Devleti'nin Balkanlar'daki egemenliğini büyük ölçüde kaybetmesi, ülke içinde hangi fikir akımının daha fazla güç kazanmasına zemin hazırlamıştır?",
+      "answers": [
+        "Osmanlıcılık",
+        "Türkçülük",
+        "Ümmetçilik",
+        "Federalizm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Balkan milletlerinin Osmanlı'dan ayrılarak bağımsız olması, Osmanlıcılık fikrini çürütmüş ve Türkçülük akımının en güçlü fikir akımı olmasını sağlamıştır."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Mustafa Kemal'in gençlik yıllarında etkilendiği, 'toplumsal sözleşme', 'özgürlük' ve 'milli egemenlik' gibi kavramlarıyla Fransız İhtilali'ne fikir babalığı yapan yabancı düşünür kimdir?",
+      "answers": [
+        "Voltaire",
+        "Jean-Jacques Rousseau",
+        "Montesquieu",
+        "Descartes"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 3,
+      "explanation": "Mustafa Kemal özellikle Fransız ihtilali aydınlarından Jean-Jacques Rousseau'nun eserlerini okumuş, adalet ve milli egemenlik fikirlerinden etkilenmiştir."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "Osmanlı Devleti'nin dış borçlarını ödeyememesi üzerine alacaklı devletlerin kurduğu ve devletin malî bağımsızlığını elinden alan ekonomik kurumun adı nedir?",
+      "answers": [
+        "Osmanlı Bankası",
+        "Düyun-u Umumiye (Genel Borçlar İdaresi)",
+        "İtibarı Milli Bankası",
+        "Müdafaa-i Hukuk Örgütü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "1881 yılında kurulan Düyun-u Umumiye idaresi ile Osmanlı'nın vergi kaynaklarına el konulmuş, ekonomik bağımsızlık büyük darbe almıştır."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "Mustafa Kemal'in Harp Okulu ve Harp Akademisi yıllarında ülke sorunlarıyla ilgilenmesi, arkadaşlarına liderlik ederek el yazısı gazete çıkarması onun hangi kişilik özelliğinin göstergesidir?",
+      "answers": [
+        "İleri görüşlülüğü ve inkılapçılığı",
+        "Liderlik, teşkilatçılık ve vatanseverliği",
+        "Sadece askeri strateji uzmanlığı",
+        "Ekonomik dehası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Gençlik yıllarında gazete çıkarma girişimi, etrafındaki insanları organize etmesi ve sorunlara çözüm araması onun liderlik ve vatanseverlik özelliklerini ortaya koyar."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Trablusgarp Savaşı sonrasında imzalanan Uşi Antlaşması ile Osmanlı Devleti'nin Kuzey Afrika'daki son toprak parçasını kaybetmesi hangi gerçeği açıkça ortaya koymuştur?",
+      "answers": [
+        "Osmanlı'nın denizlerdeki gücünü artırdığını",
+        "Osmanlı Devleti'nin artık askeri ve siyasi olarak eski gücünden çok uzak olduğunu ve topraklarını koruyamadığını",
+        "Avrupa devletlerinin Osmanlı'yı desteklediğini",
+        "İtalya'nın Akdeniz'den çekildiğini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Uşi Antlaşması ile Trablusgarp ve Bingazi İtalya'ya bırakılmış, Osmanlı'nın Kuzey Afrika'daki varlığı resmen sona ermiştir."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "Aşağıdakilerden hangisi Mustafa Kemal'in fikir hayatının oluşmasında ve gelişiminde doğrudan etkili olan şehirlerden biri **değildir**?",
+      "answers": [
+        "Selanik",
+        "Manastır",
+        "İzmir",
+        "İstanbul"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Mustafa Kemal'in eğitim ve gençlik yıllarında Selanik, Manastır, İstanbul ve Sofya onun fikir dünyasını şekillendirmiştir; İzmir bu süreçte doğrudan eğitim aldığı şehirlerden biri değildir."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Osmanlı Devleti'nde gayrimüslimlere din, mezhep, mahkeme ve mülk edinme konularında Müslüman halktan daha geniş haklar tanıyan ferman hangisidir?",
+      "answers": [
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Kanunuesasi",
+        "Senedi İttifak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "1856 Islahat Fermanı, özellikle Avrupalı devletlerin baskısıyla hazırlanmış ve gayrimüslimlere Müslümanlardan daha ayrıcalıklı haklar vermiştir."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Mustafa Kemal'in çocukluk döneminde annesinin onun geleneksel mahalle mektebine gitmesini istemesi, babası Ali Rıza Efendi'nin ise modern eğitim veren Şemsi Efendi Mektebine kaydettirmesi neyin göstergesidir?",
+      "answers": [
+        "Ailenin eğitim konusunda tamamen aynı fikirde olduğunun",
+        "O dönemde toplumda eğitim anlayışında farklılıklar ve kararsızlıklar bulunduğunun",
+        "Şemsi Efendi Mektebinin askeri bir okul olduğunun",
+        "Mahalle mektebinin Avrupa tarzı eğitim verdiğinin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Anne ve babasının farklı okulları tercih etmesi, o dönem Osmanlı toplumunda eğitimdeki ikilemin ve arayışın aile içine yansıdığını gösterir."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Mustafa Kemal'in Trablusgarp Savaşı'nda İtalyanlara karşı yerli halkı örgütleyip direniş cephesi kurması hangi özelliğini açıkça kanıtlar?",
+      "answers": [
+        "Teşkilatçılık ve liderlik yeteneğini",
+        "Sadece diplomatik yeteneğini",
+        "Ekonomi uzmanı olduğunu",
+        "Padişaha bağlılığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Halkı etrafında toplayıp milis kuvvetleri oluşturması onun güçlü bir lider ve teşkilatçı olduğunu gösterir."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "Osmanlı Devleti'nde 1876 yılında ilan edilen Kanunuesasi ile açılan ilk Osmanlı Parlamentosunun (Meclis-i Mebusan) kısa süre sonra kapatılmasına sebep olan gelişme nedir?",
+      "answers": [
+        "93 Harbi'nin (1877-1878 Osmanlı-Rus Savaşı) başlaması ve padişahın meclisi feshetmesi",
+        "Halkın meclisi istememesi",
+        "Fransa'nın baskı yapması",
+        "Ekonominin düzelmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 3,
+      "explanation": "Padişah II. Abdülhamid, savaşın çıkışını ve meclisteki tartışmaları bahane ederek Kanunuesasi'nin verdiği yetkiyle meclisi kapatmış ve I. Meşrutiyet dönemine son vermiştir."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "Aşağıdakilerden hangisi Mustafa Kemal'in çocukluk ve gençlik yıllarında geçirdiği şehirler ile bu şehirlerde edindiği kazanımlar arasında **yanlış** eşleştirilmiştir?",
+      "answers": [
+        "Selanik -> Çocukluğunun geçmesi, batı kültürüne açılan kapı olması",
+        "Manastır -> Tarih bilincinin ve milliyetçilik fikirlerinin gelişmesi",
+        "İstanbul -> Harp Akademisi eğitimi ve ülke sorunlarıyla daha yakından ilgilenmesi",
+        "Sofya -> İlk askeri zaferlerini kazanıp komutanlık yetkisini kanıtlaması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 3,
+      "explanation": "Sofya askeri ataşelik görevinin yapıldığı diplomatik bir şehirdir; ilk askeri zaferler Sofya'da değil, Trablusgarp'ta kazanılmıştır."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "Mustafa Kemal'in askerlik mesleğini seçmesinde en büyük etken kimdir ve çocukluğunda hangi okulun sınavlarına gizlice hazırlanmıştır?",
+      "answers": [
+        "Babası Ali Rıza Efendi - Mülkiye Mektebi",
+        "Amcası - Darüşşafaka",
+        "Annesi Zübeyde Hanım - Askeri Rüştiye (Askeri Ortaokul)",
+        "Öğretmeni Mehmet Efendi - Medrese"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Mustafa Kemal, annesinin ısrarla asker olmasını istememesine rağmen askeri subayların kıyafetlerinden ve askerlik mesleğine olan hayranlığından ötürü gizlice Askeri Rüştiye sınavlarına girip kazanmıştır."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "19. yüzyılda Osmanlı Devleti'nin batılı devletler karşısında askeri ve teknolojik olarak geri kalmasının temel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bilimsel ve teknolojik gelişmelerin (Rönesans, Reform ve Sanayi İnkılabı) takip edilememiş olması",
+        "Nüfusunun çok az olması",
+        "Coğrafi keşiflerin Osmanlı topraklarından geçmesi",
+        "Askeri disiplinin hiçbir zaman olmaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Avrupa'da yaşanan bilimsel ve sanayi devrimlerine ayak uyduramayan Osmanlı, askeri ve ekonomik üstünlüğünü batılı devletlere kaptırmıştır."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Balkan Savaşları sonucunda Osmanlı Devleti'nin kaybettiği topraklar arasında aşağıdakilerden hangisi yer **almaz**?",
+      "answers": [
+        "Makedonya ve Batı Trakya",
+        "Arnavutluk",
+        "Anadolu",
+        "Ege Adaları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 2,
+      "explanation": "Anadolu Osmanlı'nın ana yurdudur; Balkan Savaşları'nda Makedonya, Batı Trakya, Arnavutluk ve Ege adaları kaybedilmiştir."
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "Mustafa Kemal'in fikir hayatının şekillenmesinde, hem yerli hem de yabancı aydınların eserlerini okumasının, farklı kültürleri tanımasının ve askeri dehasını geliştirmesinin en temel ortak sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "Akılcı, bilime önem veren, milliyetçi ve çağdaş bir liderlik vizyonuna sahip olması",
+        "Sadece saltanat yanlısı bir siyaset izlemesi",
+        "Yabancı devletlerin himayesini savunması",
+        "Eğitimden tamamen vazgeçmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Kahraman Doğuyor",
+      "difficulty": 3,
+      "explanation": "Elde ettiği tüm bu birikimler Mustafa Kemal'in akılcı, bilimi rehber edinen, milli egemenliği savunan çağdaş bir lider olarak yetişmesini sağlamıştır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Teknoloji ve Sosyal Bilimler",
+  "questions": [
+    {
+      "id": "Q_6_6_001",
+      "questionText": "İnsan toplumlarını, geçmişini, kültürünü, coğrafyasını ve ilişkilerini inceleyen bilim dallarının ortak adına ne denir?",
+      "answers": [
+        "Fen bilimleri",
+        "Sosyal bilimler",
+        "Astronomi",
+        "Matematik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Toplumu ve insanı inceleyen bilim dalları sosyal bilimler olarak adlandırılır."
+    },
+    {
+      "id": "Q_6_6_002",
+      "questionText": "Geçmişte yaşanmış insan topluluklarının olaylarını yer, zaman göstererek ve sebep-sonuç ilişkisi içinde inceleyen sosyal bilim dalı hangisidir?",
+      "answers": [
+        "Coğrafya",
+        "Tarih",
+        "Arkeoloji",
+        "Sosyoloji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Geçmişi inceleyen temel sosyal bilim dalı tarihtir."
+    },
+    {
+      "id": "Q_6_6_003",
+      "questionText": "Yeryüze şekillerini, iklimi, nüfusun dağılışını ve insan ile doğa arasındaki etkileşimi inceleyen bilim dalı hangisidir?",
+      "answers": [
+        "Tarih",
+        "Coğrafya",
+        "Felsefe",
+        "Psikoloji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Yeryüzünü ve beşeri unsurları inceleyen dal coğrafyadır."
+    },
+    {
+      "id": "Q_6_6_004",
+      "questionText": "Toprak altındaki eski kalıntıları, eserleri ve medeniyet izlerini kazı yaparak ortaya çıkaran bilim dalı hangisidir?",
+      "answers": [
+        "Arkeoloji",
+        "Kronoloji",
+        "Numizmatik",
+        "Epigrafi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Kazı bilimi olarak da bilinen arkeoloji tarihi kalıntıları gün ışığına çıkarır."
+    },
+    {
+      "id": "Q_6_6_005",
+      "questionText": "Paraları (eski sikkeleri) inceleyerek tarihe ışık tutan sosyal bilimlerin yardımcı dalına ne ad verilir?",
+      "answers": [
+        "Epigrafi",
+        "Numizmatik (Meskukat)",
+        "Heraldik",
+        "Antropoloji"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Eski paraları inceleyen bilim dalı numizmatiktir."
+    },
+    {
+      "id": "Q_6_6_006",
+      "questionText": "Tarihi olayların zamanını sıraya koyan, takvim ve zaman bilimi olan dal aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kronoloji",
+        "Coğrafya",
+        "Sosyoloji",
+        "Arkeoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Zaman bilimi kronolojidir."
+    },
+    {
+      "id": "Q_6_6_007",
+      "questionText": "Aşağıdakilerden hangisi Türk-İslam dünyasında coğrafya, astronomi ve haritacılık alanında eserler veren, dünyayı boylam ve enlem olarak inceleyen ünlü bilginidir?",
+      "answers": [
+        "El-Biruni",
+        "İbn-i Sina",
+        "Farabi",
+        "Mimar Sinan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "El-Biruni astronomi, coğrafya ve doğa bilimlerinde çığır açmış bir bilginimizdir."
+    },
+    {
+      "id": "Q_6_6_008",
+      "questionText": "Matbaanın icadı insanlık tarihinde bilgiye ulaşımı ve kültürel aktarımı nasıl etkilemiştir?",
+      "answers": [
+        "Kitaplar ucuzlamış, okuryazarlık oranı artmış ve bilgiler hızla yayılmıştır.",
+        "Bilgiye ulaşım tamamen imkansızlaşmıştır.",
+        "Kitap basımı yasaklanmıştır.",
+        "Sadece saraydakiler kitap okuyabilmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Matbaa kitapların seri basılmasını sağlayarak kültürel devrim yaratmıştır."
+    },
+    {
+      "id": "Q_6_6_009",
+      "questionText": "Bilimsel araştırma yaparken internetten elde edilen bilgilerin doğruluğunu teyit etmek için aşağıdakilerden hangisi yapılmalıdır?",
+      "answers": [
+        "Farklı ve güvenilir kaynaklarla (akademik siteler, ansiklopediler) karşılaştırılmalıdır.",
+        "Gördüğü ilk bilgiye direkt inanılmalıdır.",
+        "Bilgiler asla sorgulanmamalıdır.",
+        "Sosyal medyadaki paylaşımlar kanun kabul edilmelidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Bilgi doğrulama (teyit etme) bilimsel araştırmanın en temel kuralıdır."
+    },
+    {
+      "id": "Q_6_6_010",
+      "questionText": "Başka bir kişinin yazılı veya görsel eserini kaynak göstermeden kendi fikriymiş gibi kullanma suçuna ne ad verilir?",
+      "answers": [
+        "İntihal (Aşırma)",
+        "Patent",
+        "Telif",
+        "Atıf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Hırsızlığın akademik karşılığı intihaldir."
+    },
+    {
+      "id": "Q_6_6_011",
+      "questionText": "Eser sahiplerinin haklarını koruyan ve izinsiz çoğaltılmasını yasaklayan yasal sistemin adı nedir?",
+      "answers": [
+        "Telif Hakkı (Copyright)",
+        "Tapu sicili",
+        "Vergi levhası",
+        "İşletme ruhsatı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Telif hakkı eser sahibinin mülkiyetini korur."
+    },
+    {
+      "id": "Q_6_6_012",
+      "questionText": "Aşağıdakilerden hangisi teknolojik gelişmelerin sosyal hayatımıza sağladığı katkılardan biridir?",
+      "answers": [
+        "İletişimin hızlanması ve bilgiye dünyanın her yerinden anında erişilmesi",
+        "Yüz yüze ilişkilerin tamamen yok olması",
+        "İnsanların çalışmayı tamamen bırakması",
+        "Kitapların tamamen yasaklanması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Teknolojinin en büyük olumlu yönü iletişim ve bilgiye erişim kolaylığıdır."
+    },
+    {
+      "id": "Q_6_6_013",
+      "questionText": "Tarihte ilk defa alfabeyi bulan ve ticaret alanında gelişen medeniyet hangisidir?",
+      "answers": [
+        "Fenikeliler",
+        "Sümerler",
+        "Lidyalılar",
+        "Hititler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Fenikeliler günümüz alfabesinin temelini oluşturan ilk harf alfabesini bulmuşlardır."
+    },
+    {
+      "id": "Q_6_6_014",
+      "questionText": "Parşömen kağıdını icat eden ve Bergama antik kentinde devasa kütüphane kuran uygarlık hangisidir?",
+      "answers": [
+        "Bergama Krallığı",
+        "Urartular",
+        "Frigler",
+        "Sümerler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Mısır papirüs ihraç edince Bergamalılar keçi derisinden parşömen kağıdını bulmuştur."
+    },
+    {
+      "id": "Q_6_6_015",
+      "questionText": "İnternet ortamında kişisel bilgilerin ele geçirilmesi, şifrelerin çalınması gibi tehlikelere karşı alınan önlemler bütününü ne olarak tanımlarız?",
+      "answers": [
+        "Siber güvenlik (Dijital güvenlik)",
+        "Açık veri",
+        "Genel ağ",
+        "Sanal eğlence"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Dijital ortamlarda bilgileri korumak siber güvenliktir."
+    },
+    {
+      "id": "Q_6_6_016",
+      "questionText": "Aşağıdakilerden hangisi bir buluşun (icadın) kime ait olduğunu gösteren ve yasal koruma sağlayan belgedir?",
+      "answers": [
+        "Patent",
+        "Diploma",
+        "Nüfus cüzdanı",
+        "Fatura"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Yeni bir buluşun patent belgesi alınarak hakları korunur."
+    },
+    {
+      "id": "Q_6_6_017",
+      "questionText": "Toplum bilim (sosyoloji) bilimi insanları ve toplumsal olayları incelerken hangi yöntemleri kullanır?",
+      "answers": [
+        "Anket, mülakat, istatistik ve gözlem",
+        "Laboratuvar tüpleri ve kimyasal bileşenler",
+        "Teleskop ve yıldız haritaları",
+        "Kaya kazıları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Sosyoloji toplumu incelemek için anket ve gözlem gibi saha yöntemlerinden yararlanır."
+    },
+    {
+      "id": "Q_6_6_018",
+      "questionText": "Tarihte ilk kağıdı üreten ve günümüz kağıt üretim teknolojisinin temelini atan medeniyet hangisidir?",
+      "answers": [
+        "Çin Medeniyeti",
+        "Mısır Medeniyeti",
+        "Yunan Medeniyeti",
+        "Mezopotamya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Kağıdı ilk kez üreten medeniyet Çin'dir."
+    },
+    {
+      "id": "Q_6_6_019",
+      "questionText": "İbn-i Haldun'un toplumların gelişimini, devletlerin kuruluş ve çöküş süreçlerini incelediği ünlü eseri hangisidir?",
+      "answers": [
+        "Mukaddime",
+        "Kanun",
+        "Divan",
+        "Mesnevi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "İbn-i Haldun sosyolojinin öncüsü kabul edilen Mukaddime kitabının yazarıdır."
+    },
+    {
+      "id": "Q_6_6_020",
+      "questionText": "Teknolojinin aşırı ve kontrolsüz kullanımı sonucu ortaya çıkan 'teknoloji bağımlılığı' bireyde en çok hangi soruna yol açar?",
+      "answers": [
+        "Sosyal hayattan kopma, hareketsizlik ve akademik başarıda düşüş",
+        "Kitap okuma sevgisinin artması",
+        "Gözlerin güçlenmesi",
+        "Fiziksel zindelik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Bağımlılık sosyal izolasyona ve fiziksel hareketsizliğe neden olur."
+    },
+    {
+      "id": "Q_6_6_021",
+      "questionText": "Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nde tarih araştırmalarına önem vererek kurduğu kurum hangisidir?",
+      "answers": [
+        "Türk Tarih Kurumu (TTK)",
+        "Maden Tetkik Arama",
+        "Devlet Tiyatroları",
+        "Merkez Bankası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Atatürk Türk tarihini doğru kaynaklardan incelemek için Türk Tarih Kurumu'nu kurmuştur."
+    },
+    {
+      "id": "Q_6_6_022",
+      "questionText": "Aşağıdakilerden hangisi Türk Dil Kurumu'nun (TDK) kuruluş amaçlarından biridir?",
+      "answers": [
+        "Türk dilinin zenginleşmesini sağlamak, özleşmesini incelemek ve araştırmalar yapmak",
+        "Yabancı dilleri Türkiye'de resmi dil ilan etmek",
+        "Türkçeyi tamamen ortadan kaldırmak",
+        "Sadece matematik terimleri üretmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "TDK dilimizin bilimsel ve milli esaslara göre gelişmesini sağlar."
+    },
+    {
+      "id": "Q_6_6_023",
+      "questionText": "Birleşmiş Milletler'e bağlı olarak eğitim, bilim ve kültür alanında uluslararası iş birliği sağlayan kuruluş hangisidir?",
+      "answers": [
+        "UNESCO",
+        "NATO",
+        "WHO",
+        "UNICEF"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "UNESCO dünya kültür mirasını ve eğitimi koruyan kuruluştur."
+    },
+    {
+      "id": "Q_6_6_024",
+      "questionText": "Bilimsel bir araştırmanın sonunda elde edilen bulguların ve sonuçların düzenli bir şekilde yazılı hale getirilmesine ne denir?",
+      "answers": [
+        "Raporlama (Makale/Ödev yazımı)",
+        "Varsayım kurma",
+        "Anket yapma",
+        "Kazı yapma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Araştırmanın son adımı raporlamadır."
+    },
+    {
+      "id": "Q_6_6_025",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi 'sosyal bilim' dalı ile inceleme alanı açısından YANLIŞTIR?",
+      "answers": [
+        "Fizik - Toplumsal sınıfların tarihi",
+        "Tarih - Geçmişteki olaylar",
+        "Coğrafya - Yeryüzü ve beşeri özellikler",
+        "Arkeoloji - Eski kazı kalıntıları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Fizik bir sosyal bilim değil, fen bilimidir."
+    },
+    {
+      "id": "Q_6_6_026",
+      "questionText": "Kerem, sosyal bilgiler ödevinde internette bulduğu bir makaleden bazı paragrafları doğrudan kopyalamış ancak makalenin yazarının adını ve sitesini ödevinin sonuna eklemiştir. Kerem'in bu davranışı hakkında ne söylenebilir?",
+      "answers": [
+        "Etik kurallara uymuş, kaynakça göstererek intihal yapmaktan kaçınmıştır.",
+        "Ağır bir bilişim suçu işlemiştir.",
+        "Makaleyi tamamen çalmıştır.",
+        "Hiçbir kurala uymamıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Kaynak göstermek (atıf yapmak) bilimsel etiğe uygun davranıştır ve intiharı önler."
+    },
+    {
+      "id": "Q_6_6_027",
+      "questionText": "Tarih araştırmacılarının inceledikleri belgelerin birinci elden (ana kaynak) mi yoksa ikinci elden mi olduğuna dikkat etmesi neyi sağlar?",
+      "answers": [
+        "Araştırmanın güvenilirliğini ve objektifliğini artırır",
+        "Araştırmayı yavaşlatır",
+        "Belgeleri yok eder",
+        "Tarihi değiştirilemez kılar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Kaynakların doğruluk derecesini tartmak bilimsellik için şarttır."
+    },
+    {
+      "id": "Q_6_6_028",
+      "questionText": "Aşağıdakilerden hangisi dijital vatandaşlık sorumluluklarından biri DEĞİLDİR?",
+      "answers": [
+        "İnternette başkalarına hakaret etmek ve sahte haber yaymak",
+        "Kişisel hak ve gizliliğe saygı duymak",
+        "Telif haklarına ve yasalara uymak",
+        "Güvenli ve etik internet kullanımı sergilemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Hakaret ve sahte haber yaymak dijital vatandaşlık ilkelerine tamamen aykırıdır."
+    },
+    {
+      "id": "Q_6_6_029",
+      "questionText": "İnsanlığın ortak mirasının korunmasında küresel ölçekte en büyük sorumluluğu taşıyan uluslararası teşkilat hangisidir?",
+      "answers": [
+        "Birleşmiş Milletler (ve bağlı kuruluşları)",
+        "Sadece yerel mahkemeler",
+        "Ticaret odaları",
+        "Spor federasyonları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Ortak miras ve kültürel varlıklar BM ve UNESCO güvencesi altındadır."
+    },
+    {
+      "id": "Q_6_6_030",
+      "questionText": "Osmanlı Devleti'nde ilk Türk matbaasını kurarak kitap basımının yaygınlaşmasını sağlayan önemli Türk aydını kimdir?",
+      "answers": [
+        "İbrahim Müteferrika",
+        "Katip Çelebi",
+        "Evliya Çelebi",
+        "Yirmisekiz Mehmed Çelebi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Lale Devri'nde ilk Türk matbaasını kuran kişi İbrahim Müteferrika'dır."
+    }
+  ]
+}

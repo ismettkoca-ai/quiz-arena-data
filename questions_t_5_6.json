@@ -1,0 +1,435 @@
+{
+  "unit": "Sağlıklı Yaşıyorum",
+  "questions": [
+    {
+      "id": "Q_5_6_001",
+      "questionText": "'Sağlık' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sıhhat",
+        "Hastalık",
+        "Güç",
+        "Temizlik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Sağlık kelimesinin eş anlamlısı sıhhat kelimesidir (Sıhhatler olsun / Sağlıklı olasın)."
+    },
+    {
+      "id": "Q_5_6_002",
+      "questionText": "'Hastalık' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Sağlık / Afiyet",
+        "Sıhhat",
+        "Tedavi",
+        "İlaç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Hastalık durumunun zıttı sağlık (sağlıklı olma hali) kelimesidir."
+    },
+    {
+      "id": "Q_5_6_003",
+      "questionText": "'Beslenmek' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Besi (İsim Kökü)",
+        "Bes- (Fiil Kökü)",
+        "Beslen- (Fiil Kökü)",
+        "Besle- (Fiil Kökü)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü, canlıları beslemeye yarayan gıda anlamına gelen 'besi' (isim kökü) kelimesidir. (Besi -> Besilemek -> Beslemek -> Beslenmek)."
+    },
+    {
+      "id": "Q_5_6_004",
+      "questionText": "'Hava soğuk olduğu için kalın giyindi.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Kalın giyinmesinin nedeni (sebebi) 'havanın soğuk olması'dır. Eylem gerçekleştiği için neden-sonuçtur."
+    },
+    {
+      "id": "Q_5_6_005",
+      "questionText": "'Sağlıklı olmak amacıyla her sabah yürüyüş yapar.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Örneklendirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Yürüyüş yapmasının amacı 'sağlıklı olmak'tır. Henüz sonuçlanmamış bir hedeftir."
+    },
+    {
+      "id": "Q_5_6_006",
+      "questionText": "Çok sağlıklı ve dinç olan kişileri anlatmak için hangi deyim kullanılır?",
+      "answers": [
+        "Turp gibi olmak",
+        "Hasta düşmek",
+        "Etekleri zil çalmak",
+        "Küplere binmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Fiziksel olarak çok sağlıklı, güçlü ve sapasağlam olan kişiler için 'turp gibi' deyimi kullanılır."
+    },
+    {
+      "id": "Q_5_6_007",
+      "questionText": "'Taze' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Bayat",
+        "Çürük",
+        "Yeni",
+        "Doğal"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Taze kelimesinin (özellikle yiyeceklerde) karşıtı bayat kelimesidir."
+    },
+    {
+      "id": "Q_5_6_008",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'yapım eki' alarak türemiş bir kelimedir?",
+      "answers": [
+        "Doktorluk",
+        "İlaçlar",
+        "Hastaneye",
+        "Meyveyi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "'Doktor' ismine gelen '-luk' yapım eki, ona meslek anlamı kazandırarak (Doktorluk) yeni bir kelime türetmiştir. Diğerleri çekim ekidir."
+    },
+    {
+      "id": "Q_5_6_009",
+      "questionText": "Eş görevli kelimeleri ayırmak için virgül kullanılır. Hangi cümlede virgül bu görevde KULLANILMIŞTIR?",
+      "answers": [
+        "Pazardan elma, armut ve muz aldık.",
+        "Sağlıklı beslenirsen, hiç hasta olmazsın.",
+        "Doktor içeri girdi, hastasını muayene etti.",
+        "Hayır, bugün spora gitmeyeceğim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "İlk cümlede virgül, eş görevli olan meyve isimlerini (elma, armut) ayırmak için kullanılmıştır."
+    },
+    {
+      "id": "Q_5_6_010",
+      "questionText": "Hangi cümlede 'de/da' bağlacının yazımında YANLIŞLIK yapılmıştır?",
+      "answers": [
+        "Sebze yediğin gibi meyvede yemelisin.",
+        "Sağlıklı olmak için sporu da hayatına katmalısın.",
+        "Bugün parkta yürüyüş yaptık.",
+        "Suyu da bol bol içmeyi unutma."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "İlk cümlede 'meyve de yemelisin' şeklinde 'de' bağlacı ayrı yazılmalıydı. (Dahi/bile anlamındadır)."
+    },
+    {
+      "id": "Q_5_6_011",
+      "questionText": "'Fayda' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Yarar",
+        "Zarar",
+        "Güç",
+        "Gıda"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Fayda kelimesinin eş anlamlısı (anlamdaşı) yarar kelimesidir."
+    },
+    {
+      "id": "Q_5_6_012",
+      "questionText": "Hangi cümlede öznel (kişiden kişiye değişen) bir yargı vardır?",
+      "answers": [
+        "Bence en faydalı spor yüzmektir.",
+        "Su, insan vücudu için gereklidir.",
+        "Portakalda bol miktarda C vitamini bulunur.",
+        "Dişlerimizi günde en az iki kez fırçalamalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "'Bence en faydalı spor...' ifadesi kişinin kendi fikrini yansıttığı için özneldir."
+    },
+    {
+      "id": "Q_5_6_013",
+      "questionText": "'Doğal' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Yapay / Suni",
+        "Katkısız",
+        "Taze",
+        "Organik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Doğal (tabii) kelimesinin karşıtı, insan eliyle üretilmiş olan yapay (suni) kelimesidir."
+    },
+    {
+      "id": "Q_5_6_014",
+      "questionText": "'Temiz' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "O çok temiz kalpli bir insandır.",
+        "Yemek yemeden önce ellerimizi temiz suyla yıkamalıyız.",
+        "Temiz kıyafetlerini giyip okula gitti.",
+        "Evi bugün çok güzel ve temiz yaptık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "'Temiz kalpli' ifadesinde temiz kelimesi kirli karşıtı olarak değil, 'iyi niyetli, kötülük düşünmeyen' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_5_6_015",
+      "questionText": "'Ağır' kelimesi hangi cümlede 'sindirilmesi güç (yiyecek)' anlamında kullanılmıştır?",
+      "answers": [
+        "Akşam yemeğinde çok ağır yiyecekler yememeliyiz.",
+        "Çuval çok ağır olduğu için taşıyamadım.",
+        "Hastanın durumu günden güne ağırlaşıyor.",
+        "Bana çok ağır sözler söyledi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Yiyeceklerin ağır olması, yağlı ve sindirimi zor gıdalar anlamına gelmektedir."
+    },
+    {
+      "id": "Q_5_6_016",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı bulunmaktadır?",
+      "answers": [
+        "Günde iki litre su içersen böbreklerin sağlıklı olur.",
+        "Hastalandığı için doktora gitti.",
+        "Spor yapmak amacıyla spor salonuna yazıldı.",
+        "Meyve ve sebzeler bol vitamin içerir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Böbreklerin sağlıklı olmasının şartı 'su içmesi'dir. -sa/-se eki kullanılmıştır."
+    },
+    {
+      "id": "Q_5_6_017",
+      "questionText": "'Dişini fırçalamak' eyleminde, kelimeye gelen ek nedeniyle hangi ses olayı yaşanmıştır? (Diş-i-ni)",
+      "answers": [
+        "Kaynaştırma Harfi Kullanımı",
+        "Ünsüz Yumuşaması",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "Diş kelimesine iyelik eki (-i) ve belirtme eki (-i) gelirken araya 'n' kaynaştırma harfi (yardımcı ünsüz) girmiştir (Diş-i-n-i)."
+    },
+    {
+      "id": "Q_5_6_018",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yaş",
+        "Meyve",
+        "Sağlık",
+        "Temiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "'Yaş' kelimesi hem ömür/sene (kaç yaşındasın) hem de ıslak anlamında (yaş mendil) kullanıldığı için eş seslidir."
+    },
+    {
+      "id": "Q_5_6_019",
+      "questionText": "'Hekim' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Doktor",
+        "Hemşire",
+        "Hasta",
+        "Hastane"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Hekim kelimesinin eş anlamlısı (anlamdaşı) doktordur."
+    },
+    {
+      "id": "Q_5_6_020",
+      "questionText": "Sayılara getirilen ekler kesme işaretiyle ayrılır ve sayının okunuşuna göre yazılır. Hangi yazım DOĞRUDUR?",
+      "answers": [
+        "Günde 2'şer litre su içmeliyiz.",
+        "Günde 2'şar litre su içmeliyiz.",
+        "Günde 2 şer litre su içmeliyiz.",
+        "Günde 2şer litre su içmeliyiz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "(Not: Üleştirme sayıları rakamla değil yazıyla yazılır kuralı TDK'da vardır: 'ikişer' yazılmalıdır. Ancak rakamla yazıma dair şıklarda kesme işareti kullanımı test ediliyorsa; 2'şer yanlıştır. Doğru olanı yazıyla 'ikişer'dir. Soruyu iptal etmeyelim, düzeltelim: 'Saat 3'te ilacını almalısın.' şeklinde soralım.)\n\nSoru: Saat ve sayılara gelen ekler kesme işaretiyle ayrılır. Hangi yazım DOĞRUDUR?",
+      "answers": [
+        "İlacını saat 15.00'te almalısın.",
+        "İlacını saat 15.00'de almalısın.",
+        "İlacını saat 15.00 te almalısın.",
+        "İlacını saat 15.00da almalısın."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "15.00 (on beş sıfır sıfır) şeklinde okunduğu ve 'sıfır' kelimesi 'r' ile bittiği için ek 'de/da' yerine ünsüz sertleşmesi kuralıyla (15'te okunuşundan dolayı) veya 15.00'te (tam saatlerde sıfırlar okunmaz, on beşte diye okunur) -te eki alır."
+    },
+    {
+      "id": "Q_5_6_021",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Sebzeler meyvelere göre daha az şeker içerir.",
+        "Sağlıklı bir yaşam için düzenli kahvaltı yapmalıyız.",
+        "Diş doktoru her altı ayda bir kontrol önermektedir.",
+        "Spor yapmak kaslarımızı güçlendirir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Cümlede sebzeler ve meyveler içerdikleri şeker miktarı bakımından 'göre' ve 'daha' sözcükleri kullanılarak birbirleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_6_022",
+      "questionText": "'Besin' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Gıda",
+        "İçecek",
+        "İlaç",
+        "Meyve"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Besin kelimesinin eş anlamlısı gıda kelimesidir."
+    },
+    {
+      "id": "Q_5_6_023",
+      "questionText": "Cümledeki yazım yanlışını bulunuz: 'Sende bizimle her sabah koşuyormusun?'",
+      "answers": [
+        "Hem 'sen de' ayrı yazılmalı hem de 'koşuyor musun' ayrı yazılmalıdır.",
+        "Sadece 'sen de' ayrı yazılmalıdır.",
+        "Sadece 'koşuyor musun' ayrı yazılmalıdır.",
+        "Cümlede yazım yanlışı yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "Bağlaç olan 'de' (Sen de) ve soru eki olan 'mı/mi' (koşuyor musun) her zaman kendisinden önceki kelimeden ayrı yazılır."
+    },
+    {
+      "id": "Q_5_6_024",
+      "questionText": "Bir şeyi abartarak anlattığımız cümlelere abartma denir. Hangi cümlede abartma vardır?",
+      "answers": [
+        "O kadar açım ki bir fırın ekmek yiyebilirim.",
+        "Sabahları yarım saat yürüyüş yaparım.",
+        "Bu ilacın tadı çok kötü.",
+        "Bugün kendimi çok halsiz hissediyorum."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Bir insanın bir oturuşta 'bir fırın ekmek yemesi' imkansızdır, bu durumu olduğundan çok gösteren bir abartma (mübalağa) sanatıdır."
+    },
+    {
+      "id": "Q_5_6_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi yapısı bakımından 'basit' bir kelimedir (yapım eki almamıştır)?",
+      "answers": [
+        "Sular",
+        "Sağlıklı",
+        "Hastane",
+        "Gıdasız"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "'Su' kökü sadece çoğul eki (-lar) almıştır. Çekim ekleri kelimenin yapısını bozmaz, bu yüzden kelime basit yapılıdır."
+    },
+    {
+      "id": "Q_5_6_026",
+      "questionText": "'Yararlı' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Zararlı",
+        "Faydalı",
+        "Besleyici",
+        "Güçlü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Yararlı (faydalı) kelimesinin zıt (karşıt) anlamlısı zararlı kelimesidir."
+    },
+    {
+      "id": "Q_5_6_027",
+      "questionText": "Aşağıdaki altı çizili kelimelerin hangisinde 'ünsüz yumuşaması' YOKTUR?",
+      "answers": [
+        "Saçımı taradım.",
+        "İlacı içince kendime geldim. (İlaç-ı)",
+        "Tabağı tamamen bitirdim. (Tabak-ı)",
+        "Dolabı temizledik. (Dolap-ı)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "Saç kelimesi tek heceli olduğu için ünlü ile başlayan ek alsa da sonundaki 'ç' harfi yumuşamaz."
+    },
+    {
+      "id": "Q_5_6_028",
+      "questionText": "'Bilinçli' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bil- (Fiil Kökü)",
+        "Bilinç (İsim Kökü)",
+        "Bilin- (Fiil Kökü)",
+        "Bilinçli (İsim Kökü)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü, öğrenmek/farkında olmak anlamındaki 'bilmek' fiilidir. (Bil -> Bilinç -> Bilinçli)."
+    },
+    {
+      "id": "Q_5_6_029",
+      "questionText": "Tırnak işareti ( \" \" ) aşağıdaki cümlelerin hangisinde DOĞRU kullanılmıştır?",
+      "answers": [
+        "Doktor bana \"Günde üç litre su içmelisin.\" dedi.",
+        "Doktor bana günde üç litre su içmemi \"söyledi\".",
+        "\"Doktor\" bana günde üç litre su içmemi söyledi.",
+        "Doktor bana günde \"üç\" litre su içmelisin dedi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 1,
+      "explanation": "Başkasına ait aktarma sözlerin tamamı tırnak içine alınır. (Doktorun doğrudan kendi cümlesi tırnak içine alınmıştır)."
+    },
+    {
+      "id": "Q_5_6_030",
+      "questionText": "'Enerji' kelimesinin eş anlamlısı yerine geçebilecek sözcük hangisidir?",
+      "answers": [
+        "Güç / Kuvvet",
+        "Hastalık",
+        "Besin",
+        "İlaç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sağlıklı Yaşıyorum",
+      "difficulty": 2,
+      "explanation": "İnsanın içindeki canlılık, çalışma veya hareket etme isteği olan enerji kelimesi, cümle içinde güç veya kuvvet anlamlarında eş anlamlı olarak kullanılabilir."
+    }
+  ]
+}

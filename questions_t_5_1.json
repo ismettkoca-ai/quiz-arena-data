@@ -1,0 +1,425 @@
+{
+  "unit": "Oyun Dünyası",
+  "questions": [
+    {
+      "id": "Q_5_1_001",
+      "questionText": "Arkadaşlarımla saklambaç oynarken çok efor sarf ettik. Bu cümledeki 'sırrını saklamak' anlamındaki kelimenin kökü nedir?",
+      "answers": [
+        "Sak",
+        "Sakla",
+        "Saklambaç",
+        "Saklamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "'Saklambaç' kelimesinin kökü, bir şeyi gizlemek anlamına gelen 'sakla-' fiilidir."
+    },
+    {
+      "id": "Q_5_1_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'oyun' kelimesi mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Bana oyun oynadıklarını sonradan anladım.",
+        "Parkta yeni bir oyun kurduk.",
+        "Bilgisayar oyunu oynamayı çok sever.",
+        "Geleneksel oyunlarımızı unutmamalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "'Bana oyun oynadıklarını' ifadesindeki oyun, hile/tuzak anlamında kullanıldığı için mecazdır."
+    },
+    {
+      "id": "Q_5_1_003",
+      "questionText": "'Yakan top oynamak için okul bahçesinde toplandık.' cümlesindeki anlam ilişkisi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Bahçede toplanmalarının bir amacı (yakan top oynamak) vardır. 'İçin' yerine 'amacıyla' getirilebildiği için amaç-sonuç cümlesidir."
+    },
+    {
+      "id": "Q_5_1_004",
+      "questionText": "Aşağıdaki oyun adlarından hangisinin yazımı DOĞRUDUR?",
+      "answers": [
+        "Birdirbir",
+        "Kör ebe",
+        "Saklam baç",
+        "Beş taş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "Birdirbir, körebe ve beştaş gibi geleneksel oyun adları bitişik yazılır. Sadece 'Birdirbir' doğru yazılmıştır."
+    },
+    {
+      "id": "Q_5_1_005",
+      "questionText": "'Oyuncak' kelimesinin yapısı hakkında aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Türemiş yapılıdır, yapım eki almıştır.",
+        "Basit yapılıdır, ek almamıştır.",
+        "Birleşik yapılıdır, iki kelimeden oluşur.",
+        "Çekim eki almış basit bir kelimedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "'Oyun' köküne '-cak' yapım eki getirilerek yeni bir anlam kazanmış, yani türemiş bir kelime olmuştur."
+    },
+    {
+      "id": "Q_5_1_006",
+      "questionText": "Hangi cümlede öznel bir yargı (kişisel görüş) vardır?",
+      "answers": [
+        "Satranç en eğlenceli zeka oyunudur.",
+        "Futbol takımları on birer kişiden oluşur.",
+        "Masa tenisinde raket kullanılır.",
+        "Basketbol potasının yüksekliği standarttır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "'En eğlenceli' ifadesi kişiden kişiye değişeceği için öznel bir yargıdır."
+    },
+    {
+      "id": "Q_5_1_007",
+      "questionText": "'Oyunun kurallarını bozduğu için oyundan çıkarıldı.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Koşul - Sonuç",
+        "Örneklendirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Oyundan çıkarılmasının nedeni 'kuralları bozması'dır. Eylem gerçekleştiği için neden-sonuç cümlesidir."
+    },
+    {
+      "id": "Q_5_1_008",
+      "questionText": "'Eğlence' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "Neşe / Keyif",
+        "Hüzün",
+        "Keder",
+        "Gürültü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Eğlence kelimesi neşe, keyif ve hoşça vakit geçirme anlamlarına gelir."
+    },
+    {
+      "id": "Q_5_1_009",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'isim kökü'nden türemiştir?",
+      "answers": [
+        "Oyun",
+        "Gülümse",
+        "Koşu",
+        "Zıpla"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "'Oyun' kelimesi mak/mek mastar ekini alamaz (oyunmak olmaz), bu yüzden isim köküdür."
+    },
+    {
+      "id": "Q_5_1_010",
+      "questionText": "Noktalama işareti sorusu: 'Heyecanla bağırdı ( ) Ebe sensin ( )' cümlesinde boşluklara sırasıyla hangi işaretler gelmelidir?",
+      "answers": [
+        "İki nokta (:) - Ünlem işareti (!)",
+        "Nokta (.) - Soru işareti (?)",
+        "Virgül (,) - Nokta (.)",
+        "İki nokta (:) - Soru işareti (?)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Başkasına ait bir söz aktarılırken iki nokta kullanılır. Heyecan bildiren cümlelerin sonuna ise ünlem işareti konur."
+    },
+    {
+      "id": "Q_5_1_011",
+      "questionText": "'Kaybetmek' kelimesinin zıt (karşıt) anlamlısı nedir?",
+      "answers": [
+        "Kazanmak",
+        "Bulmak",
+        "Yenilmek",
+        "Saklamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Oyunlarda kaybetmenin zıt anlamlısı kazanmaktır."
+    },
+    {
+      "id": "Q_5_1_012",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Ödevlerini bitirirsen dışarıda seksek oynayabilirsin.",
+        "Yorulduğu için oyunu erken bıraktı.",
+        "Yeni bir zeka oyunu almak amacıyla mağazaya gitti.",
+        "Çocuklar bahçede neşeyle koşuyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Oyun oynayabilmesinin şartı ödevlerini bitirmesidir (-sa/-se eki ile sağlanmıştır)."
+    },
+    {
+      "id": "Q_5_1_013",
+      "questionText": "'Rakip' sözcüğünün eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hasım",
+        "Dost",
+        "Takım",
+        "Oyuncu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "Oyun ve yarışmalarda karşımızda mücadele eden kişiye rakip veya hasım denir."
+    },
+    {
+      "id": "Q_5_1_014",
+      "questionText": "Aşağıdaki altı çizili kelimelerin hangisinde 'ünlü düşmesi' meydana gelmiştir?",
+      "answers": [
+        "Oyunun kurallarını aklında tutmalısın.",
+        "Çocuklar parkta çok eğlendi.",
+        "Topu hızlıca kaleye fırlattı.",
+        "Bugün hava çok güzeldi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "'Akıl' kelimesi ünlüyle başlayan bir ek aldığında (akl-ı-n-da) 'ı' ünlüsü düşmüştür (aklında)."
+    },
+    {
+      "id": "Q_5_1_015",
+      "questionText": "Hangi cümlede 'oynamak' fiili 'rol yapmak' anlamında kullanılmıştır?",
+      "answers": [
+        "Tiyatroda kralı çok başarılı oynadı.",
+        "Bahçede saatlerce top oynadık.",
+        "Kardeşimle satranç oynayacağız.",
+        "Kedimiz yün yumağıyla oynuyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Tiyatroda bir karakteri canlandırmak 'rol yapmak' anlamındaki oynamaktır."
+    },
+    {
+      "id": "Q_5_1_016",
+      "questionText": "'Sıcak' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Bize çok sıcak davrandılar.",
+        "Sıcak çayı yudumlarken oyun izledik.",
+        "Hava bugün çok sıcak.",
+        "Sıcak kumlarda yürümek zor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Davranışın sıcak olması 'samimi, içten' anlamında kullanıldığı için mecazdır."
+    },
+    {
+      "id": "Q_5_1_017",
+      "questionText": "'Başarı' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Baş",
+        "Başar",
+        "Aş",
+        "Aşı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "Başarı kelimesinin kökü 'baş'tır (isim kökü). Başa çıkmak, başarmak anlamından türemiştir."
+    },
+    {
+      "id": "Q_5_1_018",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yüz",
+        "Kalem",
+        "Silgi",
+        "Masa"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Yüz kelimesi hem sayı, hem surat, hem de suda yüzmek anlamlarıyla sesteştir."
+    },
+    {
+      "id": "Q_5_1_019",
+      "questionText": "Hangi cümlede karşılaştırma yapılmıştır?",
+      "answers": [
+        "Ahmet satrançta benden daha iyidir.",
+        "Bugün çok yorulduk.",
+        "Dışarıda rüzgar esiyor.",
+        "Yeni aldığım kitabı okumaya başladım."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "'Benden daha iyidir' ifadesinde Ahmet ile konuşanın satranç yeteneği karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_1_020",
+      "questionText": "'Yarışmada birinci olmak için çok çalıştı.' Bu cümlenin anlam özelliği nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Çalışmasının amacı 'yarışmada birinci olmak'tır. Henüz sonuçlanmadığı için amaç-sonuç cümlesidir."
+    },
+    {
+      "id": "Q_5_1_021",
+      "questionText": "'Takım' sözcüğü hangi cümlede 'grup/ekip' anlamında kullanılmıştır?",
+      "answers": [
+        "Maça çıkmak için takım kurduk.",
+        "Babam yeni bir takım elbise aldı.",
+        "Kahve takımı misafirler için çıkarıldı.",
+        "Alet takımını tamirciye verdim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Maça çıkmak için kurulan takım, oyuncu grubu / ekip anlamındadır."
+    },
+    {
+      "id": "Q_5_1_022",
+      "questionText": "Aşağıdaki kelime çiftlerinden hangisi zıt anlamlı DEĞİLDİR?",
+      "answers": [
+        "Soru - Cevap",
+        "Galip - Mağlup",
+        "Hızlı - Yavaş",
+        "Siyah - Kara"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Siyah ve kara kelimeleri zıt anlamlı değil, eş anlamlı kelimelerdir."
+    },
+    {
+      "id": "Q_5_1_023",
+      "questionText": "Hangi cümlenin sonuna farklı bir noktalama işareti gelmelidir?",
+      "answers": [
+        "Bugün kiminle oynayacaksın",
+        "Oyun kurallarını okudum",
+        "Yarın parkta buluşalım",
+        "Çok güzel bir gündü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "İlk cümle bir soru cümlesi olduğu için sonuna soru işareti (?) gelmelidir. Diğerleri noktadır (.)."
+    },
+    {
+      "id": "Q_5_1_024",
+      "questionText": "'Oyuncağını' kelimesinde hangi ses olayı vardır?",
+      "answers": [
+        "Ünsüz yumuşaması",
+        "Ünsüz benzeşmesi",
+        "Ünlü düşmesi",
+        "Ünlü daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "'Oyuncak' kelimesi ünlüyle başlayan ek aldığında 'k' ünsüzü yumuşayarak 'ğ' harfine dönüşmüştür."
+    },
+    {
+      "id": "Q_5_1_025",
+      "questionText": "Cümledeki yazım yanlışını bulunuz: 'Bizde sizinle yakantop oynayabilir miyiz?'",
+      "answers": [
+        "'Bizde' kelimesindeki 'de' ayrı yazılmalıdır.",
+        "'miyiz' bitişik yazılmalıdır.",
+        "'sizinle' kelimesi ayrı yazılmalıdır.",
+        "Cümlede yazım yanlışı yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "Bağlaç olan 'de/da' ayrı yazılır. 'Biz de sizinle...' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_5_1_026",
+      "questionText": "'Cesaret' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Korkaklık",
+        "Yüreklilik",
+        "Sevinç",
+        "Hüzün"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Cesaret (yiğitlik) kelimesinin karşıtı korkaklıktır."
+    },
+    {
+      "id": "Q_5_1_027",
+      "questionText": "Aşağıdakilerden hangisi bir 'yapım eki' DEĞİLDİR?",
+      "answers": [
+        "-ler / -lar",
+        "-lık / -lik",
+        "-cı / -ci",
+        "-sız / -siz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 3,
+      "explanation": "-ler/-lar eki çoğul ekidir ve kelimenin anlamını değiştirmediği için çekim ekidir."
+    },
+    {
+      "id": "Q_5_1_028",
+      "questionText": "'Kara' kelimesi hangi cümlede farklı bir anlamda kullanılmıştır?",
+      "answers": [
+        "Gemimiz sonunda karaya yanaştı.",
+        "Kara kedi önümüzden geçti.",
+        "Kara gözleriyle bana bakıyordu.",
+        "Üzerinde kara bir kaban vardı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 2,
+      "explanation": "İlk cümlede 'kara' toprak parçası anlamındadır. Diğerlerinde ise renk (siyah) anlamındadır."
+    },
+    {
+      "id": "Q_5_1_029",
+      "questionText": "Eş görevli kelimeleri veya sıralı cümleleri ayırmak için hangi noktalama işareti kullanılır?",
+      "answers": [
+        "Virgül (,)",
+        "Nokta (.)",
+        "Ünlem (!)",
+        "Soru işareti (?)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Eş görevli sözcüklerin ve sıralı cümlelerin arasına virgül konur."
+    },
+    {
+      "id": "Q_5_1_030",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'somut' bir varlığı (beş duyu organımızla algılanabilen) ifade eder?",
+      "answers": [
+        "Top",
+        "Hayal",
+        "Sevgi",
+        "Korku"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Oyun Dünyası",
+      "difficulty": 1,
+      "explanation": "Top görülebilir ve dokunulabilir olduğu için somut bir kelimedir. Diğerleri soyuttur."
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "unit": "Bağımsızlık Yolu",
+  "questions": [
+    {
+      "id": "Q_6_2_001",
+      "questionText": "'Hürriyet' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Özgürlük",
+        "Esaret",
+        "Tutsaklık",
+        "Bağımlılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Hürriyet kelimesi, bir milletin veya bireyin kendi iradesiyle serbestçe yaşayabilmesi yani özgürlük anlamına gelir."
+    },
+    {
+      "id": "Q_6_2_002",
+      "questionText": "'Onlar, bu toprakları düşmana vermemek için canlarını feda ettiler.' cümlesinde 'Onlar' kelimesinin türü nedir?",
+      "answers": [
+        "Kişi (Şahıs) Zamiri",
+        "İşaret Zamiri",
+        "Belgisiz Zamir",
+        "Sıfat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "'Onlar' kelimesi cümlede kahraman askerlerin (insanların) adının yerini tuttuğu için kişi zamiridir."
+    },
+    {
+      "id": "Q_6_2_003",
+      "questionText": "'Kurtuluş Savaşı, milletimizin bağımsızlık mücadelesidir.' cümlesinde büyük harflerin kullanılma gerekçesi nedir?",
+      "answers": [
+        "Tarihi olay ve özel isim oldukları için",
+        "Cümlenin başında oldukları için",
+        "Vurgulanmak istendikleri için",
+        "Yabancı kökenli kelimeler oldukları için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Kurtuluş Savaşı belirli bir tarihi olayı temsil eden özel bir addır ve bu yüzden ilk harfleri büyük yazılır."
+    },
+    {
+      "id": "Q_6_2_004",
+      "questionText": "'Bayrak, gökyüzünde gururla dalgalanıyordu.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Gururlanmak insana ait bir duygudur. Bu özellik bayrağa verilerek kişileştirme (teşhis) sanatı yapılmıştır."
+    },
+    {
+      "id": "Q_6_2_005",
+      "questionText": "'Vatanı korumak amacıyla gece gündüz demeden çalıştılar.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Çalışmalarının amacı 'vatanı korumak'tır. Cümlede 'amacıyla' ifadesi yer almaktadır."
+    },
+    {
+      "id": "Q_6_2_006",
+      "questionText": "'Esaret' kelimesinin zıt (karşıt) anlamlısı nedir?",
+      "answers": [
+        "Özgürlük",
+        "Bağımsızlık",
+        "Tutsaklık",
+        "Mücadele"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Esaret (tutsaklık altında yaşama) kelimesinin zıttı özgürlüktür."
+    },
+    {
+      "id": "Q_6_2_007",
+      "questionText": "'Bağımsızlık' kelimesinin kök türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bağ isim kökünden türemiştir.",
+        "Bağırmak fiil kökünden türemiştir.",
+        "Bağlanmak fiilinden türemiştir.",
+        "Kökü fiil olan bir kelimedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 3,
+      "explanation": "Kelimenin en küçük anlamlı parçası 'bağ' isim köküdür. (Bağ -> Bağlı -> Bağımsız -> Bağımsızlık)."
+    },
+    {
+      "id": "Q_6_2_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'işaret zamiri' kullanılmıştır?",
+      "answers": [
+        "Şunu dolaptan dikkatlice çıkar.",
+        "Bu vatan bizimdir.",
+        "Şu bayrak dalgalanıyor.",
+        "O asker çok cesurdu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 3,
+      "explanation": "'Şunu' kelimesi bir nesnenin adının yerini işaret yoluyla tuttuğu için işaret zamiridir. Diğerlerinde sıfat görevindedir."
+    },
+    {
+      "id": "Q_6_2_009",
+      "questionText": "'Tarihî olay, çağ ve dönem adları büyük harfle başlar.' kuralına göre hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "kurtuluş savaşı çok çetin geçti.",
+        "Milli Mücadele dönemi kahramanlıklarla doludur.",
+        "Cilalı Taş Devri'nde yaşam başlamıştır.",
+        "İlk Çağ'da yazılı tarih başlamıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Kurtuluş Savaşı tarihi bir olaydır ve 'Kurtuluş Savaşı' şeklinde büyük harfle yazılmalıdır."
+    },
+    {
+      "id": "Q_6_2_010",
+      "questionText": "'Canını dişine takmak' deyimi hangi durumu ifade eder?",
+      "answers": [
+        "Büyük bir güçlük karşısında var gücüyle, büyük bir özveriyle çalışmak",
+        "Çok korkmak ve tehlikeden kaçmak",
+        "Çok sevinmek ve heyecanlanmak",
+        "Yorulup uyumak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Zorlu bir işi başarmak için en üst düzeyde gayret göstermek ve dişini sıkarak çalışmak 'canını dişine takmak' deyimiyle anlatılır."
+    },
+    {
+      "id": "Q_6_2_011",
+      "questionText": "Paragrafın giriş cümlesi olmaya en uygun cümle hangisidir?",
+      "answers": [
+        "Tarih boyunca hiçbir millet esaret altında yaşamayı kabul etmemiştir.",
+        "Ancak bu zafer kolay kazanılmadı.",
+        "Örneğin Çanakkale'de büyük bir direniş gösterildi.",
+        "Bu nedenle bayrağımızı her zaman korumalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Giriş cümlesi kendinden önce başka bir cümle söylenmiş izlenimi veren bağlaçlarla ('ancak', 'bu nedenle', 'örneğin') başlamaz. Bağımsız olmalıdır."
+    },
+    {
+      "id": "Q_6_2_012",
+      "questionText": "'Bayrağımız' kelimesinde hangi ses olayı vardır?",
+      "answers": [
+        "Ünsüz Yumuşaması (Bayrak -> Bayrağı)",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "'Bayrak' kelimesi ünlüyle başlayan bir ek aldığında sonundaki sert 'k' ünsüzü yumuşayarak 'ğ' harfine dönüşmüştür."
+    },
+    {
+      "id": "Q_6_2_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nesnel' bir yargı vardır?",
+      "answers": [
+        "Türkiye Büyük Millet Meclisi 23 Nisan 1920'de açılmıştır.",
+        "Kurtuluş Savaşı dönemi tarihimizin en heyecanlı dönemidir.",
+        "Atatürk, dünyanın en büyük lideridir.",
+        "İstiklal Marşı'mız çok etkileyici bir şiirdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "TBMM'nin açılış tarihi kanıtlanabilir, kişisel görüş içermeyen nesnel bir bilgidir."
+    },
+    {
+      "id": "Q_6_2_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Milletimiz bu savaşta eskiye göre daha kararlıydı.",
+        "Askerlerimiz cephede düşmana karşı savaştı.",
+        "Vatan sevgisi her şeyden önemlidir.",
+        "Düşman orduları yurdumuzu işgal etmişti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Milletin kararlılığı, şimdiki durum ile 'eskiye göre' ifadesiyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_6_2_015",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'belgisiz zamir'dir?",
+      "answers": [
+        "Kimse",
+        "Sen",
+        "Bu",
+        "Hangi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "'Kimse' kelimesi kişilerin yerini belirsiz bir şekilde tuttuğu için belgisiz zamirdir."
+    },
+    {
+      "id": "Q_6_2_016",
+      "questionText": "'Ateş' kelimesi hangi cümlede gerçek anlamda kullanılmıştır?",
+      "answers": [
+        "Sobadaki ateş odayı kısa sürede ısıttı.",
+        "İçindeki vatan ateşi hiç sönmüyordu.",
+        "Arkadaşına söylediği sözlerle ortalığı ateşe verdi.",
+        "Yüreğindeki ateşle düşmana karşı savaştı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Sobadaki ateş fiziksel bir ısı kaynağıdır ve gerçek anlamdadır. Diğerlerinde mecazdır."
+    },
+    {
+      "id": "Q_6_2_017",
+      "questionText": "'Yurtta sulh, cihanda sulh.' sözündeki 'sulh' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Barış",
+        "Savaş",
+        "Mücadele",
+        "Zafer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Sulh kelimesi barış anlamına gelir."
+    },
+    {
+      "id": "Q_6_2_018",
+      "questionText": "'Sen de bu vatanın evladısın.' cümlesindeki 'de' kelimesinin yazımıyla ilgili ne söylenebilir?",
+      "answers": [
+        "Dahi anlamı veren bağlaçtır ve ayrı yazılmıştır.",
+        "Bulunma hal ekidir ve bitişik yazılmıştır.",
+        "Yazımı yanlıştır, bitişik olmalıdır.",
+        "Cümlede bağlaç bulunmamaktadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Cümleye dahi/bile anlamı katan 'de/da' ayrı yazılır ve bir bağlaçtır."
+    },
+    {
+      "id": "Q_6_2_019",
+      "questionText": "'Şehitlik mertebesi' tamlamasının türü nedir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Tamlayanın (şehitlik) ek almadığı, tamlananın iyelik eki aldığı tamlamalar belirtisiz isim tamlamasıdır."
+    },
+    {
+      "id": "Q_6_2_020",
+      "questionText": "'Eğer birlik olursak, aşamayacağımız engel yoktur.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Koşul (Şart) - Sonuç",
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Engellerin aşılmasının koşulu 'birlik olmak'tır (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_2_021",
+      "questionText": "'Milli' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Ulusal",
+        "Yabancı",
+        "Mahalli",
+        "Bireysel"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Milli kelimesinin eş anlamlısı ulusal kelimesidir."
+    },
+    {
+      "id": "Q_6_2_022",
+      "questionText": "'Zengin' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Yoksul / Fakir",
+        "Varlıklı",
+        "Cömert",
+        "Cimri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Maddi durumu iyi olan (zengin) kişinin karşıtı yoksul veya fakirdir."
+    },
+    {
+      "id": "Q_6_2_023",
+      "questionText": "'Yüz' kelimesi hangi cümlede sesteşlik özelliğine örnek olabilecek farklı bir anlamda kullanılmıştır?",
+      "answers": [
+        "Havuzda yüzmeyi çok sevdiğini söyledi.",
+        "Kağıdın yüzüne birkaç cümle yazdı.",
+        "Sınavdan yüz alarak birinci oldu.",
+        "İnsanın yüzü güldüğünde etrafı aydınlanır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "İlk cümlede su üstünde kalmak/ilerlemek (yüzmek) anlamındadır. Diğerlerinde yüz organı veya rakamdır."
+    },
+    {
+      "id": "Q_6_2_024",
+      "questionText": "Metnin 'konu'su bulunurken hangi soru sorulur?",
+      "answers": [
+        "Metinde neyden bahsedilmektedir?",
+        "Yazarın ana mesajı nedir?",
+        "Metin hangi bölümde bitmiştir?",
+        "Yazarın adı nedir?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Bir metnin konusu, yazarın üzerinde durduğu, işlediği temel olgu veya durumu (neyden bahsedildiğini) bulmakla tespit edilir."
+    },
+    {
+      "id": "Q_6_2_025",
+      "questionText": "Paragrafta anlatılanları destekleyen, ana fikri açıklayan ve detay veren düşüncelere ne denir?",
+      "answers": [
+        "Yardımcı düşünce",
+        "Ana fikir",
+        "Giriş cümlesi",
+        "Özet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Ana fikri destekleyen, geliştiren ve ayrıntıları veren düşünceler yardımcı düşüncelerdir."
+    },
+    {
+      "id": "Q_6_2_026",
+      "questionText": "'Top patlayınca güm diye bir ses çıktı.' cümlesindeki yansıma sözcük hangisidir?",
+      "answers": [
+        "Güm",
+        "Patlayınca",
+        "Ses",
+        "Çıktı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "'Güm' kelimesi doğadaki bir patlama sesinin taklit edilmesiyle oluştuğu için yansıma sözcüktür."
+    },
+    {
+      "id": "Q_6_2_027",
+      "questionText": "'Dolap' kelimesine '-da' ekinin gelmesiyle 'dolapta' kelimesinin oluşması hangi ses olayını gösterir?",
+      "answers": [
+        "Ünsüz Benzeşmesi (Sertleşmesi)",
+        "Ünsüz Yumuşaması",
+        "Ünlü Düşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "Sert ünsüzle (p) biten kelimeye yumuşak ünsüzle başlayan ek geldiğinde ek sertleşerek '-ta' olur."
+    },
+    {
+      "id": "Q_6_2_028",
+      "questionText": "'Askerlerimizin' kelimesinde iyelik (aitlik) anlamı katan ek aşağıdakilerden hangisidir?",
+      "answers": [
+        "-imiz",
+        "-ler",
+        "-in",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 3,
+      "explanation": "Asker kelimesine çoğul eki (-ler), ardından 1. çoğul iyelik eki (-imiz) gelmiştir. İyelik eki '-imiz'dir."
+    },
+    {
+      "id": "Q_6_2_029",
+      "questionText": "'Yurt' kelimesine '-sever' ekinin getirilmesiyle oluşan 'yurtsever' kelimesi yapıca nasıl bir kelimedir?",
+      "answers": [
+        "Birleşik Kelime",
+        "Basit Kelime",
+        "Türemiş Kelime",
+        "Kök halinde kelime"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 2,
+      "explanation": "'Yurt' ve 'sever' kelimelerinin birleşip kaynaşmasıyla oluştuğu için birleşik yapılı bir kelimedir."
+    },
+    {
+    {
+      "id": "Q_6_2_030",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Bir 'ah' desem gök kubbe yerinden oynar.",
+        "Askerlerimiz düşmana karşı kahramanca savaştı.",
+        "Bayrak rüzgarda hafifçe dalgalanıyordu.",
+        "Şehitler tepesi her zaman yeşil kalacak."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bağımsızlık Yolu",
+      "difficulty": 1,
+      "explanation": "Bir ah çekmeyle gök kubbenin yerinden oynaması durumu olduğundan çok büyük gösteren bir abartmadır."
+    }
+  ]
+}

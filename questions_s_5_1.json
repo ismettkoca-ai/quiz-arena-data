@@ -1,0 +1,425 @@
+{
+  "unit": "Birlikte Yaşamak",
+  "questions": [
+    {
+      "id": "Q_5_1_001",
+      "questionText": "İçinde yer aldığımız, ortak bir amaç için bir araya gelmiş en az iki kişiden oluşan topluluklara ne ad verilir?",
+      "answers": [
+        "Kurum",
+        "Grup",
+        "Rol",
+        "Statü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ortak bir amaç doğrultusunda bir arada bulunan insan topluluklarına 'grup' denir."
+    },
+    {
+      "id": "Q_5_1_002",
+      "questionText": "İçinde bulunduğumuz gruplarda üstlendiğimiz görevler sonucunda sahip olduğumuz hak ve yükümlülüklere ne ad verilir?",
+      "answers": [
+        "Rol",
+        "Yetki",
+        "Yardımlaşma",
+        "Empati"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Bir grup içerisindeki üstlendiğimiz görevlere ve bunların getirdiği sorumluluklara 'rol' denir."
+    },
+    {
+      "id": "Q_5_1_003",
+      "questionText": "Aşağıdakilerden hangisi bir çocuğun aile içindeki rollerinden biri OLABİLİR?",
+      "answers": [
+        "Öğretmen",
+        "Evlat / Kardeş",
+        "Kaptan",
+        "Müşteri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Aile grubunda çocuk, evlat veya kardeş rolüne sahiptir."
+    },
+    {
+      "id": "Q_5_1_004",
+      "questionText": "Bir bireyin gün içerisinde farklı gruplarda farklı roller üstlenebilmesine ne ad verilir?",
+      "answers": [
+        "Rol karmaşası",
+        "Çoklu rol (Rol çeşitliliği)",
+        "Sabit rol",
+        "Tekil görev"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "İnsanlar okulda öğrenci, evde evlat, kulüpte üye gibi farklı roller üstlenirler; buna rol çeşitliliği denir."
+    },
+    {
+      "id": "Q_5_1_005",
+      "questionText": "Üstlendiğimiz rollerin gerektirdiği işleri zamanında ve eksiksiz yerine getirmeye ne denir?",
+      "answers": [
+        "Hak",
+        "Sorumluluk",
+        "Özgürlük",
+        "Yardım"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Rollerin bize yüklediği görevleri yerine getirme bilincine sorumluluk denir."
+    },
+    {
+      "id": "Q_5_1_006",
+      "questionText": "Aşağıdakilerden hangisi toplumsal birlikteliği ve dayanışmayı güçlendiren unsurlardan biri DEĞİLDİR?",
+      "answers": [
+        "Ortak değerler",
+        "Yardımlaşma",
+        "Önyargı ve ayrımcılık",
+        "Sevgi ve saygı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Önyargı ve ayrımcılık toplumsal bağı zayıflatır, birlikteliği bozar."
+    },
+    {
+      "id": "Q_5_1_007",
+      "questionText": "İnsanların farklı kültürlere, geleneklere ve yaşam tarzlarına sahip olmasına rağmen birbirlerinin haklarına saygı duyarak bir arada yaşamasına ne denir?",
+      "answers": [
+        "Asimilasyon",
+        "Birlikte yaşama kültürü",
+        "Bireyselleşme",
+        "Yalnızlaşma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Farklılıklarla birlikte barış içinde yaşama becerisine birlikte yaşama kültürü denir."
+    },
+    {
+      "id": "Q_5_1_008",
+      "questionText": "Bir kişinin kendini karşısındaki kişinin yerine koyarak onun duygularını ve düşüncelerini doğru anlamaya çalışmasına ne ad verilir?",
+      "answers": [
+        "Sempati",
+        "Empati",
+        "Önyargı",
+        "Eleştiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Kendini başkasının yerine koyarak duygularını anlamak empati kurmaktır."
+    },
+    {
+      "id": "Q_5_1_009",
+      "questionText": "Aşağıdakilerden hangisi okuldaki gruplardan biri değildir?",
+      "answers": [
+        "Sınıf arkadaşları",
+        "Tiyatro kulübü",
+        "Akran zorbalığı grubu",
+        "İzcilik kulübü"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Akran zorbalığı olumsuz bir davranıştır ve resmi/sağlıklı bir okul grubu değildir."
+    },
+    {
+      "id": "Q_5_1_010",
+      "questionText": "Toplumda doğal afetler veya yardıma muhtaç kişiler için kurulan dayanışma faaliyetlerinin temel amacı nedir?",
+      "answers": [
+        "Rekabeti artırmak",
+        "Toplumsal birlik ve beraberliği güçlendirmek",
+        "Kişisel kazanç sağlamak",
+        "Farklılıkları yok etmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Yardımlaşma ve dayanışma toplumsal bağları kuvvetlendirir."
+    },
+    {
+      "id": "Q_5_1_011",
+      "questionText": "Aşağıdakilerden hangisi çocuk olarak sahip olduğumuz temel haklardan biridir?",
+      "answers": [
+        "Vergi vermek",
+        "Eğitim alma hakkı",
+        "Askerlik yapmak",
+        "Oy kullanmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Çocuk Hakları Sözleşmesi'ne göre her çocuğun eğitim alma, yaşama ve barınma hakkı vardır."
+    },
+    {
+      "id": "Q_5_1_012",
+      "questionText": "Farklı kültürlerden gelen insanlarla iletişim kurarken aşağıdakilerden hangisinden kaçınmalıyız?",
+      "answers": [
+        "Saygılı olmak",
+        "Önyargılı davranmak",
+        "Dinlemeyi bilmek",
+        "Ortak noktalar aramak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Önyargılı davranmak sağlıklı iletişimi engeller ve birlikte yaşam kültürüne zarar verir."
+    },
+    {
+      "id": "Q_5_1_013",
+      "questionText": "Bir grupta alınan kararlara uymak ve ortak sorumlulukları paylaşmak hangi kavramla doğrudan ilgilidir?",
+      "answers": [
+        "Bireysellik",
+        "İş birliği",
+        "Bencillik",
+        "Rekabet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Ortak amaçlar için birlikte çalışmaya iş birliği denir."
+    },
+    {
+      "id": "Q_5_1_014",
+      "questionText": "Aşağıdakilerden hangisi gayriresmi (resmi olmayan) gruplara örnektir?",
+      "answers": [
+        "Okul futbol takımı",
+        "Mahalledeki oyun arkadaşları",
+        "Belediye meclisi",
+        "Sınıf yönetimi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Mahalledeki oyun grubu kendiliğinden oluşan resmi olmayan (gayriresmi) bir gruptur."
+    },
+    {
+      "id": "Q_5_1_015",
+      "questionText": "Toplumda huzur ve güven ortamının sağlanmasında en büyük pay sahibi olan değer aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bencillik",
+        "Saygı ve hoşgörü",
+        "Kıskançlık",
+        "Küskünlük"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Saygı ve hoşgörü insanların huzur içinde bir arada yaşamasını sağlar."
+    },
+    {
+      "id": "Q_5_1_016",
+      "questionText": "Bir vatandaşın sahip olduğu haklar ile sorumlulukları arasındaki ilişki için ne söylenebilir?",
+      "answers": [
+        "Haklar ve sorumluluklar bir bütündür, her hakkın bir sorumluluğu vardır.",
+        "Sadece haklar vardır, sorumluluklar zorunlu değildir.",
+        "Sorumluluklar hakları kısıtlamak için vardır.",
+        "Aralarında hiçbir bağ yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Haklar ve sorumluluklar dengelidir; örneğin eğitim hakkımız varsa çalışmak da sorumluluğumuzdur."
+    },
+    {
+      "id": "Q_5_1_017",
+      "questionText": "Aşağıdaki durumlardan hangisinde empati kurulmuş olur?",
+      "answers": [
+        "Düşen bir arkadaşına gülmek",
+        "Sınavı kötü geçen birine 'senin adına üzüldüm, nasıl yardımcı olabilirim?' demek",
+        "Kendi fikirlerini başkalarına zorla kabul ettirmek",
+        "Sorunları görmezden gelmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Karşısındakinin duygusunu hissedip destek olmak empati göstergesidir."
+    },
+    {
+      "id": "Q_5_1_018",
+      "questionText": "Kültürel zenginliklerimizin korunması ve gelecek nesillere aktarılması için en önemli unsur nedir?",
+      "answers": [
+        "Onları unutmak",
+        "Geçmişe sahip çıkıp birlikte yaşama kültürünü yaşatmak",
+        "Yabancı kültürleri taklit etmek",
+        "Gelenekleri tamamen değiştirmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Kültürel miras kültürel bağları güçlendirerek aktarılır."
+    },
+    {
+      "id": "Q_5_1_019",
+      "questionText": "Aşağıdakilerden hangisi yardımlaşma ve dayanışma vakıf/derneklerine örnek OLABİLİR?",
+      "answers": [
+        "Kızılay",
+        "Toptancı market",
+        "Özel şirketler",
+        "Fabrikalar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Kızılay toplumsal yardımlaşma ve dayanışma amacıyla kurulmuş köklü bir kuruluştur."
+    },
+    {
+      "id": "Q_5_1_020",
+      "questionText": "Birlikte yaşama kurallarına uymayan bireylere karşı toplumun gösterdiği en doğru yaklaşım ne olmalıdır?",
+      "answers": [
+        "Onları dışlamak",
+        "Kuralların önemini anlatıp yapıcı bir dille uyarmak",
+        "Şiddet uygulamak",
+        "Hiçbir şey yapmamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Yapıcı iletişim ve uyarı toplumsal uyumu artırır."
+    },
+    {
+      "id": "Q_5_1_021",
+      "questionText": "Bir ailede anne ve babanın çocuklarının bakımını üstlenmesi onların hangi özelliğini gösterir?",
+      "answers": [
+        "Haklarını",
+        "Rollerinin gerektirdiği sorumlulukları",
+        "Hobilerini",
+        "Eğlence anlayışlarını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ebeveyn rolü çocuklara karşı bakım ve koruma sorumluluğu getirir."
+    },
+    {
+      "id": "Q_5_1_022",
+      "questionText": "Toplumda farklı düşüncelere sahip insanların bir arada barış içinde yaşaması aşağıdakilerden hangisinin varlığına bağlıdır?",
+      "answers": [
+        "Hoşgörü ve demokrasinin",
+        "Tek tip insan modelinin",
+        "Baskı ve yasakların",
+        "Yalnızlaşmanın"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Farklılıklara hoşgörüle yaklaşmak toplumsal barışın temelidir."
+    },
+    {
+      "id": "Q_5_1_023",
+      "questionText": "Okulda grup çalışması yapılırken arkadaşlarıyla uyum içinde çalışmayan bir öğrenci hangi sosyal beceride eksiklik yaşıyor olabilir?",
+      "answers": [
+        "Matematik çözme",
+        "İş birliği ve takım çalışması",
+        "Hızlı koşma",
+        "Yabancı dil"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Grup içi uyum ve ortak çalışma iş birliği becerisiyle ilgilidir."
+    },
+    {
+      "id": "Q_5_1_024",
+      "questionText": "Aşağıdakilerden hangisi hak ve özgürlüklerimizin sınırını belirleyen temel kuraldır?",
+      "answers": [
+        "Başkalarının hak ve özgürlüklerinin başladığı yer",
+        "Kendi isteklerimiz",
+        "Güçlü olanın kuralları",
+        "Hiçbir sınır yoktur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Özgürlüğümüz başkalarının haklarının bittiği yerde başlar."
+    },
+    {
+      "id": "Q_5_1_025",
+      "questionText": "İnsanların oluşturduğu gruplarda düzeni ve adaleti sağlamak için neye ihtiyaç vardır?",
+      "answers": [
+        "Kurallara",
+        "Kargaşaya",
+        "Kuralsızlığa",
+        "Bencilliğe"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Grupların düzenli işleyişi kurallara bağlıdır."
+    },
+    {
+      "id": "Q_5_1_026",
+      "questionText": "Deprem bölgesine yardım kampanyası düzenleyen bir okulda öğrencilerin kimi battaniye, kimi gıda, kimi ise harçlıklarını bağışlamıştır. Bu durum aşağıdakilerden hangisinin göstergesidir?",
+      "answers": [
+        "Toplumda bencilliğin arttığının",
+        "Toplumsal dayanışma ve yardımlaşma bilincinin gelişmiş olduğunun",
+        "Öğrenciler arasında rekabet olduğunun",
+        "Yardımların zorunlu olduğunun"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Farklı katkılarla ortak bir amaç için birleşilmesi dayanışmanın göstergesidir."
+    },
+    {
+      "id": "Q_5_1_027",
+      "questionText": "Bir grup üyesinin kendi çıkarlarını grubun ortak amaçlarının önüne koyması grupta hangi soruna yol açar?",
+      "answers": [
+        "Grubun başarısını artırır",
+        "Grup içi uyumu ve güveni zedeler",
+        "Dayanışmayı güçlendirir",
+        "Hiçbir etki yaratmaz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Bencillik grup uyumunu bozar."
+    },
+    {
+      "id": "Q_5_1_028",
+      "questionText": "Aşağıdakilerden hangisi rollerimizle ilgili yanlış bir bilgidir?",
+      "answers": [
+        "Roller zamanla değişebilir.",
+        "Bazı roller doğuştan kazanılır (evlat olmak gibi).",
+        "Rollerimiz hayatımız boyunca hep aynı kalır, hiç değişmez.",
+        "Bazı roller ise sonradan kazanılır (öğrenci olmak gibi)."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Yaşımız ilerledikçe rollerimiz (çocukluktan yetişkinliğe, öğrencilikten meslek sahibi olmaya) değişir."
+    },
+    {
+      "id": "Q_5_1_029",
+      "questionText": "Farklı özelliklere sahip insanlara ön yargıyla yaklaşan bir bireyin en çok hangi tutumu geliştirmesi gerekir?",
+      "answers": [
+        "Daha fazla önyargı",
+        "Empati ve hoşgörü",
+        "İzolasyon",
+        "Taraftarlık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Önyargıları kıracak en önemli değer empati ve hoşgörüdür."
+    },
+    {
+      "id": "Q_5_1_030",
+      "questionText": "Toplumsal hayatın huzurlu ve güvenli olabilmesi için bireylerin hem haklarını bilmesi hem de neyi yerine getirmesi şarttır?",
+      "answers": [
+        "Sorumluluklarını",
+        "Sadece eğlencelerini",
+        "Şikayetlerini",
+        "Taleplerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Haklar kadar sorumlulukların da yerine getirilmesi huzurlu bir toplumun temelidir."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Anlatım Bozuklukları",
+  "questions": [
+    {
+      "id": "Q_8_9_001",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'gereksiz sözcük kullanımından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Hava sıcaklığının sıfırın altında eksi 5 dereceye düşeceği tahmin ediliyor.",
+        "Bu zorlu görevi başarıyla tamamlamak için günlerce gece gündüz çalıştık.",
+        "Yazar, son romanında toplumsal sorunları çok yalın bir dille ele almış.",
+        "Çocuklar bahçede neşeyle koşup oyunlar oynuyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 1,
+      "explanation": "'Sıfırın altında' ifadesi zaten eksi anlamını verdiği için 'eksi' sözcüğünün kullanılması gereksizdir."
+    },
+    {
+      "id": "Q_8_9_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış anlamda kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Bahçeye diktiğimiz fidanlar ilkbaharda tamamen yeşerdi.",
+        "Bu ilaç baş ağrınıza kısa sürede büyük fayda sağlar.",
+        "Aşırı tuzlu yemek, tansiyonumun aniden yükselmesine neden oldu.",
+        "Yazarın bu kitabı edebiyat dünyasında büyük bir yankı uyandırdı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 1,
+      "explanation": "İlaçlar fayda 'sağlamaz', fayda 'verir' veya yarar sağlar. 'Fayda sağlamak' sözcüğünün yanlış kullanımı vardır."
+    },
+    {
+      "id": "Q_8_9_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'anlamca çelişen sözcüklerin bir arada kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Kesinlikle bu zorlu maçı galibiyetle bitirebiliriz.",
+        "Toplantıya katılacağını sanmıyorum çünkü bugün şehir dışındaydı.",
+        "Eminim ki bu soruyu sınıfta sadece sen doğru çözebilmişsindir.",
+        "Yarın sabah erken saatlerde yola çıkmayı planlıyoruz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 1,
+      "explanation": "'Kesinlikle' sözcüğü kesinlik bildirirken, '-abiliriz' eki olasılık (ihtimal) bildirir; bu iki ifadenin bir arada kullanılması anlamca çelişki yaratmıştır."
+    },
+    {
+      "id": "Q_8_9_004",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış yerde kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "İzinsiz inşaata girmek can güvenliğiniz açısından tehlikelidir.",
+        "Yazar, romanında karakterleri çok başarılı bir şekilde kurgulamış.",
+        "Öğrenciler, sınav sonuçlarını büyük bir heyecanla bekliyordu.",
+        "Şirketimiz yeni projelerle adından söz ettirmeye devam ediyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Cümledeki anlam bozukluğu sözcüğün yanlış yerde olmasından kaynaklanır. İnşaat izinsiz değildir, inşaata girmek izinsizdir. Doğrusu: 'İnşaata izinsiz girmek...' olmalıdır."
+    },
+    {
+      "id": "Q_8_9_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'deyim yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Yaptığı hataları görünce adeta etekleri zil çaldı.",
+        "Anlattığı komik fıkralarla bütün salonu kahkahaya boğdu.",
+        "Sorunun çözümünü bulunca içine su serpildi, rahat bir nefes aldı.",
+        "Babasının uyarılarına kulak kabartıp söylenenleri dikkatle dinledi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Etekleri zil çalmak' çok sevinmek anlamına gelir. Hata yapınca üzülmek veya telaşlanmak gerekir; deyim anlamla uyuşmamaktadır."
+    },
+    {
+      "id": "Q_8_9_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'özne-yüklem uyumsuzluğundan' (kişi uyumsuzluğu) kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Sen ve kardeşin bu proje ödevini yarın teslim edeceksiniz.",
+        "Ben ve arkadaşım sınava çalışmak için kütüphaneye gittik.",
+        "Sen ve kardeşim bu zorlu yarışmaya katılacağız.",
+        "O ve ben her zaman birbirimize destek oluruz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Sen (2. kişi) ve kardeşim (3. kişi)' özneleri 'siz' kişisini verir; ancak yüklem 'katılacağız' (1. çoğul kişi - biz) yapılmıştır. Doğrusu 'katılacaksınız' olmalıdır."
+    },
+    {
+      "id": "Q_8_9_007",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'özne-yüklem uyumsuzluğundan' (tekillik-çoğulluk uyumsuzluğu) kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Öğrenciler bahçede neşeyle koşturuyorlar.",
+        "Kuşlar gökyüzünde özgürce uçuyordu.",
+        "Sanatçılar eserlerinde halkın yaşamını yansıtır.",
+        "Çocuklar odalarında sessizce ders çalışıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Özne insan dışı varlıklar dışındaki çoğul isimler olduğunda (Öğrenciler) yüklem tekil olmalıdır ('koşturuyor'). 'Koşturuyorlar' kullanımı yanlıştır."
+    },
+    {
+      "id": "Q_8_9_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'tamlama yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Özel ve devlet okullarına bu yıl yeni laboratuvarlar kuruldu.",
+        "Türkçe ve matematik derslerinden ek kaynaklar aldık.",
+        "Kültür ve sanat faaliyetleri kasabada büyük ilgi gördü.",
+        "Genç ve dinamik kadroyla yeni sezona hazırlanıyoruz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Özel ve devlet okulları' tamlamasında ortak tamlanan hatası vardır. 'Özel okullara ve devlet okullarına' şeklinde düzeltilmelidir."
+    },
+    {
+      "id": "Q_8_9_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Beni en çok sevindiren şey, sınavı geçmemti.",
+        "Yazarın son kitabını henüz okuma fırsatım olmadı.",
+        "Bu tarihi kasabayı gezmek insana huzur veriyor.",
+        "Toplantıya katılan herkes fikirlerini açıkça dile getirdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Geçmemti' sözcüğündeki ek kullanımı yanlıştır. Doğrusu ek-fiilin ve iyelik ekinin düzgün sıralandığı 'geçmemdi' (geçmek + iyelik + ek-fiil) olmalıdır."
+    },
+    {
+      "id": "Q_8_9_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nesne eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Sanatçıya her zaman büyük saygı duyar, eserlerini çok severdi.",
+        "Çocuklara sabırlı yaklaşmalı, her zaman destek olmalıyız.",
+        "Toplantıda konuyu uzun uzun tartıştık ama bir sonuca varamadık.",
+        "Arkadaşına her konuda güvenir, hiçbir zaman sır saklamazdı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "İkinci yüklem olan 'severdi' fiili 'Neyi severdi?' sorusuna yanıt arar; ancak cümlede nesne eksiktir. '...sanatçının eserlerini çok severdi' olmalıdır."
+    },
+    {
+      "id": "Q_8_9_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'dolaylı tümleç (yer tamlayıcısı) eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Bu şehre yıllar önce gelmiş, kısa sürede alışmıştı.",
+        "Öğretmenini çok seviyor, her dediğini dikkatle dinliyordu.",
+        "Toplantıya geç kalmış, arkadaşlarından özür dilemişti.",
+        "Kitaplarını masanın üzerine koyup odadan çıktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "İlk yüklem 'bu şehre' dolaylı tümlecini alırken, ikinci yüklem olan 'alışmıştı' fiili 'Neye alışmıştı?' sorusuna yanıt olarak 'bu şehre' dolaylı tümlecini ikinci yükleme bağlamadığından dolaylı tümleç eksikliği vardır."
+    },
+    {
+      "id": "Q_8_9_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'yüklem eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Sabah kahvaltısında ben peynir, kardeşim ise bal yiyordu.",
+        "Her gün düzenli olarak spor yapıyor, sağlıklı besleniyordu.",
+        "Kardeşim sütü, ben ise portakal suyunu çok severim.",
+        "Toplantıda ben söz aldım, arkadaşlarım beni dikkatle dinledi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Ben peynir' ile 'kardeşim bal yiyordu' sıralı cümlesinde birinci cümleye uygun yüklem getirilmemiştir. 'Ben peynir yiyor, kardeşim ise bal yiyordu' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_9_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'mantık ve sıralama yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Bırakın 10 kilometrelik yolu yürümeyi, maraton bile koşabilirdi.",
+        "Bu güzel hediyeniz için size çok teşekkür ederim.",
+        "Ödevlerini zamanında yapması gerektiğini defalarca söyledim.",
+        "Yarın sabah erken saatlerde toplantı yapılacaktır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "10 km yürümek maraton koşmaktan daha kolaydır; ancak cümlede 'bırakın yürümeyi, maraton koşabilirdi' denilerek mantık sırasına aykırı bir kullanım yapılmıştır."
+    },
+    {
+      "id": "Q_8_9_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'anlam belirsizliğinden' (noktalama eksikliğinden) kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "İhtiyar adama doğru yavaşça yaklaşıp bir şeyler söyledi.",
+        "Sanatçı, son albümünü dün akşam müzikseverlerle buluşturdu.",
+        "Okulun bahçesindeki öğrenciler tören için sıraya girdi.",
+        "Çocuk, elindeki bardak düşünce büyük bir korku yaşadı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'İhtiyar' sözcüğünden sonra virgül kullanılmadığı için cümlenin anlamı belirsizleşmiştir; adamın mı ihtiyar olduğu yoksa ihtiyar birinin mi adama yaklaştığı anlaşılmamaktadır."
+    },
+    {
+      "id": "Q_8_9_015",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'deyim yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Girdiği her ortamda pot kırarak insanların tepkisini çekiyordu.",
+        "Yıllardır bu projeye emek veriyor, ipe un sermeden çalışıyordu.",
+        "Küçük çocuk, annesinin arkasından ağzı kulaklarında kouşuyordu.",
+        "Aldığı güzel haberle birlikte etekleri zil çaldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Ağzı kulaklarında' olmak çok sevinmek demektir; ancak arkasından koşmak durumuyla uyuşmamaktadır veya deyim yanlış sözcükle kalıplaşmıştır."
+    },
+    {
+      "id": "Q_8_9_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'gereksiz sözcük kullanımından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Karşılıklı mektuplaşarak geçmiş günleri yad ettiler.",
+        "Toplantıda önemli kararlar alınıp uygulamaya konuldu.",
+        "Yazar, romanında sade ve anlaşılır bir dil kullanmış.",
+        "Öğrenciler sınav salonuna teker teker alındı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Mektuplaşmak zaten karşılıklı yapılan bir eylemdir; bu nedenle 'karşılıklı' sözcüğünün kullanılması gereksizdir."
+    },
+    {
+      "id": "Q_8_9_017",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış anlamda kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Bu ilacın çocukların ulaşamayacağı yerlerde saklanması gerekir.",
+        "Ekinlerin büyümesi için bolca gübreleme yapıldı.",
+        "Yıllardır görmediği dostunu karşısında görünce şaşkına döndü.",
+        "Maçın son dakikalarında attığı golle takımını öne geçirdi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Gübreleme ekinlerin 'büyümesi' için değil, toprakta 'verimin artması' veya bitkilerin beslenmesi içindir. Sözcük yanlış anlamda kullanılmıştır."
+    },
+    {
+      "id": "Q_8_9_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış yerde kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Yeni köye gelmiştim ki şiddetli bir yağmur başladı.",
+        "Yazarın bu eseri edebiyat dünyasında büyük ilgi gördü.",
+        "Öğrenciler, sınavda başarılı olmak için sabaha kadar çalıştı.",
+        "Çocuk, elindeki kalemi masaya bırakıp dışarı çıktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Köy yeni değildir, köye yeni gelinmiştir. Doğrusu 'Köye yeni gelmiştim ki...' olmalıdır."
+    },
+    {
+      "id": "Q_8_9_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'özne-yüklem uyumsuzluğundan' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Hiç kimse toplantıya geç kalmasın, herkes vaktinde gelsin.",
+        "Hiç kimse çalışmadığını söylüyor, sınıfta kalmaktan korkuyorlardı.",
+        "Öğrencilerin hiçbiri sınavda zorlanmadı, soruları kolayca çözdü.",
+        "Herkes üzerine düşen görevi eksiksiz olarak yerine getirdi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Hiç kimse' öznesi tektir ve olumsuzdur; bu nedenle ikinci yüklemin tekil olması gerekir ('korkuyordu'). 'Korkuyorlardı' kullanımı özne yüklem uyumsuzluğuna yol açmıştır."
+    },
+    {
+      "id": "Q_8_9_020",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nesne eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Kitap okumayı çok sever, her fırsatta yeni bir eser alırdı.",
+        "Çocukların gözlerindeki mutluluğu görünce çok duygulandı.",
+        "Sanatçı, toplumsal olayları eleştirirken asla taraflı davranmazdı.",
+        "Öğrencilere değer vermeli, her zaman destek olmalıyız."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "İkinci yüklem olan 'destek olmalıyız' fiili 'Kime?' sorusuna yanıt verir (dolaylı tümleç ister); ancak ilk yüklem olan 'değer vermeli' fiili 'Kime' (öğrencilere) alırken ikinci yüklem için eksiklik oluşmaz ancak 'Öğrencilere değer vermeli, onları her zaman desteklemeliyiz' şeklinde nesne/tümleç düzenlemesi gerekebilir. *Daha net bir nesne eksikliği örneği:* 'Arkadaşını çok sever, her konuda yardımcı olurdu.' (Kime yardımcı olurdu? Arkadaşına -> dolaylı tümleç eksikliği)."
+    },
+    {
+      "id": "Q_8_9_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiil eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Evimiz oldukça büyük ama bahçesi geniş değildi.",
+        "Hava çok soğuktu ancak yağış yoktu.",
+        "Bu kitap çok sürükleyici, anlatımı da son derece akıcıydı.",
+        "Öğretmenimiz çok sabırlı, öğrencileriyle yakından ilgilenirdi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Bu kitap çok sürükleyici' cümlesinde ek-fiil eksiktir; 'Bu kitap çok sürükleyiciydi, anlatımı da son derece akıcıydı' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_9_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'anlamca çelişen sözcüklerin kullanımından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Eminim ki bu akşamki maçı kesinlikle bizim takım kazanacaktır.",
+        "Sanırım bu konuyu onunla açık açık konuşmalısın.",
+        "Aşağı yukarı tam üç yıldır bu proj üzerinde çalışıyoruz.",
+        "Belki de bu teklifi kabul etmememiz en doğrusu olur."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "'Aşağı yukarı' ihtimal (yaklaşıklık) bildirirken, 'tam' sözcüğü kesinlik bildirir; bir arada kullanılmaları çelişki yaratmıştır."
+    },
+    {
+      "id": "Q_8_9_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'gereksiz sözcük kullanımından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Karşılıklı bakışarak saatlerce hiçbir şey konuşmadılar.",
+        "Yazar, eserinde kendi yaşam öyküsünü samimi bir dille anlatmış.",
+        "Toplantı salonundaki herkes kararı coşkuyla onayladı.",
+        "Çocuklar bahçede top oynarken neşeyle bağrışıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Bakışmak zaten karşılıklı yapılan bir eylemdir; 'karşılıklı' sözcüğü gereksizdir."
+    },
+    {
+      "id": "Q_8_9_024",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'tamlama yanlışlığından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Askeri ve sivil okullara bu yıl yeni kontenjanlar ayrıldı.",
+        "Türk edebiyatında şiir ve roman türleri çok gelişmiştir.",
+        "Sanat ve kültür etkinlikleri kasabada büyük ilgi gördü.",
+        "Mavi ve yeşil renkleri odanın duvarlarına çok yakıştırdı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Askeri ve sivil okullar' ifadesinde 'Askeri okul' sıfat tamlaması, 'sivil okul' ise farklı bir tamlamadır; 'Askeri okullara ve sivil okullara' şeklinde yazılmalıdır."
+    },
+    {
+      "id": "Q_8_9_025",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'çatı uyuşmazlığından' (etken-edilgen fiillerin uyumsuzluğundan) kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Soruları dikkatlice okuyup doğru yanıtlar bulundu.",
+        "Öğrenciler salonu toplayıp ders için hazırlık yaptılar.",
+        "Sanatçı, eserinde toplumsal sorunları başarıyla dile getirmiş.",
+        "Bütün sokaklar özenle temizlenip trafiğe açıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Okuyup' fiili etken çatılıyken, 'bulundu' fiili edilgen çatılıdır; aynı cümlede etken ve edilgen fiillerin özne uyumu gözetilmeden bağlanması çatı uyuşmazlığına neden olur."
+    },
+    {
+      "id": "Q_8_9_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'dolaylı tümleç eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Sanatçıya her zaman destek olmalı, projelerinde yalnız bırakmamalıyız.",
+        "Çocuklar bahçede oyun oynuyor, anneleri onları izliyordu.",
+        "Toplantıda önemli kararlar alınmış, sorunlar masaya yatırılmıştı.",
+        "Kitaplarını çantasına koyup odasından hızla ayrıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "İkinci yüklem 'yalnız bırakmamalıyız' fiili 'Kimi?' sorusuna yanıt arar (nesne ister); birinci yüklem ise 'Kime?' sorusuna (sanatçıya - dolaylı tümleç). 'Sanatçıya her zaman destek olmalı, onu projelerinde yalnız bırakmamalıyız' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_9_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'mantık hatasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Değil 10 kilometre, bu yolu yürümek bile imkansızdı.",
+        "Bu zorlu süreçte bana verdiğin destek için teşekkür ederim.",
+        "Yazar, kitabında çocukluk anılarını samimi bir dille aktarmış.",
+        "Öğrenciler sınav sonuçlarını heyecanla bekliyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "Daha zor olan iş önce söylenmelidir; 10 kilometre yürümek maraton koşmaktan daha kolaydır. Sıralama hatası mantık hatasına yol açmıştır."
+    },
+    {
+      "id": "Q_8_9_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sözcüğün yanlış yerde kullanılmasından' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Saçlarını izinsiz kesen kuaföre oldukça sinirlenmişti.",
+        "Yazarın son kitabı kısa sürede tüm raflarda tükendi.",
+        "Öğrenciler ödevlerini zamanında teslim etmek için çalıştı.",
+        "Çocuk, elindeki kalemi masaya bırakıp dışarı çıktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Kuaför mü izinsizdir yoksa saçlar mı izinsiz kesilmiştir? Doğrusu: 'Saçlarını kesen izinsiz kuaföre...' veya 'Kuaförde saçlarını izinsiz kestirdiğine...' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_9_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiil eksikliğinden' kaynaklanan bir anlatım bozukluğu vardır?",
+      "answers": [
+        "Bu konu oldukça karmaşık, öğrenciler tarafından pek anlaşılmıyordu.",
+        "Hava çok sıcak, sokaklarda ise kimsecikler yoktu.",
+        "Kitap çok heyecanlıydı, bir solukta bitirdim.",
+        "Öğretmenimiz çok sabırlıydı, her sorumuzu tek tek yanıtladı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 3,
+      "explanation": "'Bu konu oldukça karmaşık' cümlesinde ek-fiil eksiktir; 'Bu konu oldukça karmaşıktı...' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_9_030",
+      "questionText": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu **yoktur**?",
+      "answers": [
+        "Yazar, son romanında toplumsal sorunları çok yalın bir dille ele almış.",
+        "Hava sıcaklığının sıfırın altında eksi 5 dereceye düşeceği tahmin ediliyor.",
+        "Sen ve kardeşim bu zorlu yarışmaya yarın katılacağız.",
+        "Özel ve devlet okullarına bu yıl yeni yardımlar yapıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Anlatım Bozuklukları",
+      "difficulty": 2,
+      "explanation": "Yazar, son romanında toplumsal sorunları çok yalın bir dille ele almış. Seçeneğindeki cümlede herhangi bir anlatım bozukluğu yoktur, dilbilgisi ve anlam kurallarına tamamen uygundur. Diğer seçeneklerde sırasıyla gereksiz sözcük, kişi uyumsuzluğu ve tamlama yanlışlığı vardır."
+    }
+  ]
+}

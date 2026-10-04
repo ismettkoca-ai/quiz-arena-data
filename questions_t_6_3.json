@@ -1,0 +1,425 @@
+{
+  "unit": "Farklı Dünyalar",
+  "questions": [
+    {
+      "id": "Q_6_3_001",
+      "questionText": "'Farklı dünyaların insanıyız.' sözündeki 'dünya' kelimesi hangi anlamda kullanılmıştır?",
+      "answers": [
+        "Mecaz Anlam (Yaşam tarzı, kültür ve düşünce yapısı)",
+        "Gerçek Anlam (Üzerinde yaşadığımız gezegen)",
+        "Terim Anlam (Astronomi terimi)",
+        "Eş Anlam (Evren)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "'Farklı dünyaların insanıyız' ifadesindeki dünya, yaşam biçimi, kültür ve bakış açısı farkını simgeleyen mecaz bir anlam taşır."
+    },
+    {
+      "id": "Q_6_3_002",
+      "questionText": "'Hayal' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Düş",
+        "Gerçek",
+        "Masal",
+        "Hikaye"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Hayal kelimesinin eş anlamlısı düş kelimesidir."
+    },
+    {
+      "id": "Q_6_3_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişi (şahıs) zamiri' kullanılmıştır?",
+      "answers": [
+        "Onlar bu gizemli gezegeni keşfetmek için yola çıktılar.",
+        "Bu kitap, yeni dünyaların kapısını aralıyor.",
+        "Şu masal kahramanı gerçekten çok cesurdu.",
+        "Herkes farklı bir hayal kurar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "'Onlar' kelimesi insan isimlerinin yerini tuttuğu için kişi zamiridir."
+    },
+    {
+      "id": "Q_6_3_004",
+      "questionText": "'Yıldızlar, gece karanlığında adeta göz kırpıyordu.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Göz kırpmak insana ait bir özelliktir. Bu özelliğin yıldızlara verilmesiyle kişileştirme sanatı yapılmıştır."
+    },
+    {
+      "id": "Q_6_3_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'işaret zamiri' kullanılmıştır?",
+      "answers": [
+        "Bunu okuduğunda bambaşka bir dünyaya adım atacaksın.",
+        "Bu macera romanını elinizden düşüremeyeceksiniz.",
+        "Şu gezegen Güneş sistemine en uzak olanıdır.",
+        "O çocuk bilim kurgu filmlerini çok seviyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "'Bunu' kelimesi nesnenin yerini işaret yoluyla tuttuğu için işaret zamiridir. Diğerlerinde sıfat görevindedir."
+    },
+    {
+      "id": "Q_6_3_006",
+      "questionText": "'Hayal gücünü geliştirmek amacıyla her gün bilim kurgu kitapları okuyor.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Kitap okumasının amacı 'hayal gücünü geliştirmek'tir (amacıyla kelimesi yer almaktadır)."
+    },
+    {
+      "id": "Q_6_3_007",
+      "questionText": "'Gerçek' kelimesinin zıt (karşıt) anlamlısı nedir?",
+      "answers": [
+        "Düş / Hayal",
+        "Doğru",
+        "Yanlış",
+        "Yalan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Gerçek kelimesinin zıttı hayal veya düş kelimesidir."
+    },
+    {
+      "id": "Q_6_3_008",
+      "questionText": "'Bilinmeyen' kelimesi yapı bakımından nasıl bir sözcüktür?",
+      "answers": [
+        "Türemiş (Yapım eki almış)",
+        "Basit (Ek almamış)",
+        "Birleşik (İki kelimeden oluşan)",
+        "Kök halinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'bil-' fiilidir. Önce sıfat-fiil ekini (-en) alarak türemiş bir kelime olmuştur."
+    },
+    {
+      "id": "Q_6_3_009",
+      "questionText": "'Hayal dünyasında yaşamak' deyimi ne anlama gelir?",
+      "answers": [
+        "Gerçeklerden uzak, düşsel ve imkansız olaylarla vakit geçirmek",
+        "Çok başarılı projeler tasarlamak",
+        "Dünyayı gezmek ve seyahat etmek",
+        "Bilimsel araştırmalar yapmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Gerçek dünyadan kopup sadece kafasındaki düşlerle yaşayan kişiler için 'hayal dünyasında yaşamak' deyimi kullanılır."
+    },
+    {
+      "id": "Q_6_3_010",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'somut' bir varlığı belirtir?",
+      "answers": [
+        "Uzay gemisi",
+        "Hayal",
+        "Merak",
+        "Düşünce"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Uzay gemisi görülebilen ve dokunulabilen somut bir nesnedir. Diğerleri soyuttur."
+    },
+    {
+      "id": "Q_6_3_011",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Bu kitap, okuduğum diğer bilim kurgu kitaplarından daha heyecanlıydı.",
+        "Bilim kurgu romanları okumayı çok seviyorum.",
+        "Yazar, yeni kitabını yazmak için uzun süre çalıştı.",
+        "Farklı gezegenlerde yaşam olup olmadığı araştırılıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Kitabın heyecanı, diğer kitaplarla 'daha' sözcüğü kullanılarak karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_6_3_012",
+      "questionText": "'Bilinmeyen yerleri keşfetmek için yola koyuldular.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Yola çıkmalarının amacı 'bilinmeyen yerleri keşfetmek'tir."
+    },
+    {
+      "id": "Q_6_3_013",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'belgisiz zamir'dir?",
+      "answers": [
+        "Kimse",
+        "Ben",
+        "Şu",
+        "Nasıl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "'Kimse' kelimesi kişilerin yerini belirsiz bir şekilde tuttuğu için belgisiz zamirdir."
+    },
+    {
+      "id": "Q_6_3_014",
+      "questionText": "'Uzay boşluğu' tamlamasının türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Tamlayanın (uzay) ek almadığı, sadece tamlananın (boşluk-u) iyelik eki aldığı tamlamalara belirtisiz isim tamlaması denir."
+    },
+    {
+      "id": "Q_6_3_015",
+      "questionText": "'Kanat' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Kanat - ı)",
+      "answers": [
+        "Ünsüz Yumuşaması (Kanatı değil kanadı)",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Sert ünsüzle (t) biten kelime ünlü ek aldığında t->d yumuşaması olur (Kanadı)."
+    },
+    {
+      "id": "Q_6_3_016",
+      "questionText": "'Keşif' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Keşif - i)",
+      "answers": [
+        "Ünlü Düşmesi (Keşfi)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Keşif kelimesi ünlü ek aldığında ikinci hecedeki 'i' ünlüsü düşer ve 'keşfi' olur."
+    },
+    {
+      "id": "Q_6_3_017",
+      "questionText": "Tarihi ve coğrafi yer adları büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "And Dağları'nda yeni bir keşif yapıldı.",
+        "Mars gezegeni kırmızı renge sahiptir.",
+        "Asya kıtasında pek çok farklı kültür vardır.",
+        "Ağrı dağı Türkiye'nin en yüksek dağıdır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Dağ, deniz, nehir gibi coğrafi adlarda ikinci kelimeler de büyük harfle başlar. 'Ağrı Dağı' olmalıydı."
+    },
+    {
+      "id": "Q_6_3_018",
+      "questionText": "'Gök taşı' kelimesinin yazımıyla ilgili kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Gök bilimiyle ilgili gök taşı, gök cismi gibi kelimeler ayrı yazılır.",
+        "Her zaman bitişik yazılır.",
+        "Özel isim olduğu için büyük harfle başlar.",
+        "Tire (-) ile bağlanmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 3,
+      "explanation": "Gökbilimi terimleri olan gök taşı, gök cismi, meteor gibi ifadeler ayrı yazılır."
+    },
+    {
+      "id": "Q_6_3_019",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Hayal kurarsan yeni dünyaların kapısını aralayabilirsin.",
+        "Hayal kurduğu için herkes ona gülüyordu.",
+        "Farklı dünyaları keşfetmek amacıyla teleskop aldı.",
+        "Bilim kurgu filmleri insanı farklı düşünmeye iter."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Kapı aralamasının koşulu 'hayal kurması'dır (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_3_020",
+      "questionText": "'Ufuk' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ufuk kelimesinin Türkçede tam eş anlamlısı yoktur ancak 'bakış açısı, çevre' anlamlarına yakın sözcükler kullanılır. (Soru: Ufuk açıcı kelimesindeki anlam)",
+        "Çizgi",
+        "Kenar",
+        "Göz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Ufuk kelimesi tek başına özgün bir coğrafi terimdir, alternatif eş anlamlı soru kökünü netleştirelim: 'Ufuk' kelimesinin sözlük tanımı gök ile yerin birleştiği çizgidir."
+    },
+    {
+      "id": "Q_6_3_021",
+      "questionText": "'Farklı dünyaları keşfetmek bana heyecan veriyor.' cümlesindeki 'heyecan' kelimesi tür bakımından nedir?",
+      "answers": [
+        "Soyut isim",
+        "Somut isim",
+        "Özel isim",
+        "Topluluk ismi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Heyecan, beş duyu organımızla algılayamadığımız bir duygu olduğu için soyut isimdir."
+    },
+    {
+      "id": "Q_6_3_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Korkudan yüreğim ağzıma geldi sanki.",
+        "Yıldızlar gece boyunca parlıyordu.",
+        "Gezegenler güneş etrafında döner.",
+        "Ağaçlar rüzgarla birlikte sallandı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Yüreğin ağza gelmesi fiziksel olarak imkansız olup durumu çok abartılı anlatan bir deyimdir/sanattır."
+    },
+    {
+      "id": "Q_6_3_023",
+      "questionText": "Paragrafın ana fikri (ana düşüncesi) bulunurken hangi soru sorulur?",
+      "answers": [
+        "Yazarın bu metni yazmaktaki asıl amacı veya vermek istediği mesaj nedir?",
+        "Metinde hangi olaylar geçmektedir?",
+        "Yazar kaç paragraf yazmıştır?",
+        "Metnin başlığı nedir?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya aktarmak istediği temel düşünceyi (mesajı) bulmaya yarayan sorudur."
+    },
+    {
+      "id": "Q_6_3_024",
+      "questionText": "'Derin' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Okuduğu kitap onu derin düşüncelere sürükledi.",
+        "Okyanusun en derin yerine dalgıçlar ulaştı.",
+        "Bahçeye çok derin bir çukur kazdılar.",
+        "Havuzun derinliği çocuklar için tehlikeliydi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Derin düşünce, fiziksel bir çukur değil, zihinsel olarak yoğun ve kapsamlı olma durumudur (mecaz)."
+    },
+    {
+      "id": "Q_6_3_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Bin",
+        "Gezegen",
+        "Galaksi",
+        "Evren"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "'Bin' kelimesi hem sayı olan bin (1000) hem de ata veya bisiklete binmek eylemi olarak sesteştir."
+    },
+    {
+      "id": "Q_6_3_026",
+      "questionText": "Hangi cümlede 'de / da' bağlacının yazımı yanlıştır?",
+      "answers": [
+        "Senide bizimle farklı dünyaları keşfetmeye çağırıyoruz.",
+        "Kitap okumak da insanı geliştirir.",
+        "Bilim kurgu filmlerini çok severim.",
+        "Yıldızları incelemek oldukça keyiflidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Bağlaç olan 'de' ayrı yazılmalıdır. 'Sen de' şeklinde yazılması gerekirdi."
+    },
+    {
+      "id": "Q_6_3_027",
+      "questionText": "'Yıldız' kelimesinin sözlük anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Işık veren gök cisimlerinin genel adı",
+        "Geceleri parlayan küçük taşlar",
+        "Gökyüzündeki bulutların parçaları",
+        "Güneş sistemindeki uydular"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "Yıldız, kendi ışığını üreten ve uzayda parlayan sıcak gaz küreleridir."
+    },
+    {
+      "id": "Q_6_3_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'öznel' bir anlatım vardır?",
+      "answers": [
+        "Fantastik romanlar okumak dünyadaki en keyifli eylemdir.",
+        "Jules Verne, bilim kurgu türünün öncülerindendir.",
+        "Mars'ta geçmişte su olduğuna dair izler aranmaktadır.",
+        "Ay, Dünya'nın tek doğal uydusudur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "'En keyifli eylem' ifadesi kişisel bir beğeni içerdiği için özneldir."
+    },
+    {
+      "id": "Q_6_3_029",
+      "questionText": "'Gelecek' kelimesi yapı bakımından nasıldır?",
+      "answers": [
+        "Türemiş (Fiilden isim yapan ek almıştır)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 3,
+      "explanation": "'Gel-' fiil köküne gelen '-ecek' sıfat-fiil (yapım) ekiyle türemiş bir sözcüktür."
+    },
+    {
+      "id": "Q_6_3_030",
+      "questionText": "İnsan dışındaki varlıklara insan özelliklerinin verilmesi sanatına ne denir?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 1,
+      "explanation": "İnsan dışındaki canlı veya cansız varlıklara insani özellikler kazandırma sanatına kişileştirme denir."
+    }
+  ]
+}

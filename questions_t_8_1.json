@@ -1,0 +1,425 @@
+{
+  "unit": "Sözcükte Anlam",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'tatlı' sözcüğü gerçek (temel) anlamıyla kullanılmamıştır?",
+      "answers": [
+        "Annemin yaptığı şerbetli tatlı, misafirler tarafından çok beğenildi.",
+        "Bu sıcak yaz gününde soğuk ve tatlı bir karpuz ne iyi olurdu.",
+        "Çocuğun tatlı dili ve güler yüzü herkesin içini ısıtıyordu.",
+        "Fırından yeni çıkmış taze ekmeğin tatlı bir kokusu vardı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "'Tatlı dil' ifadesi mecaz anlamlıdır; burada kulağa hoş gelen, sevgi dolu konuşma anlamında kullanılmıştır. Diğer seçeneklerde tatlı sözcüğü gerçek tadı veya kokuyu ifade eder."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'perde' sözcüğü 'tiyatroda sahneyi seyirciden ayıran örtü' anlamında kullanılmıştır?",
+      "answers": [
+        "Odanın güneş almaması için pencerelere koyu renkli perdeler taktık.",
+        "Oyunun ikinci perdesi başladığında salonda derin bir sessizlik oldu.",
+        "Gözündeki rahatsızlık nedeniyle dünyayı adeta sisli bir perde arkasından görüyordu.",
+        "Futbol maçının son dakikalarında attığı golle maçın perdesini kapattı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "Tiyatro oyunlarında bölümleri ifade etmek için 'perde' terimi kullanılır. Burada sahne sanatlarıyla ilgili terim anlam söz konusudur."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde organ adlarından biri 'yan anlam' (organın adından türeyerek başka bir varlığa benzerlik yoluyla verilmesi) kazanmıştır?",
+      "answers": [
+        "Doktor, hastanın boğazındaki şişliği uzun süre inceledi.",
+        "Yaz aylarında köydeki evimizin damında yatardık.",
+        "Yorulunca çalışma masasının ayağına yaslanıp biraz dinlendi.",
+        "Elimdeki ağır koliyi taşırken parmaklarım kesildi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Masanın ayağı' ifadesinde insan ayağının taşıma ve destek olma görevine benzetilerek masanın altındaki destek kısmına 'ayak' denmiştir; bu yan anlamdır."
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük 'terim anlam' taşımaktadır?",
+      "answers": [
+        "Bugünkü Türkçe dersinde fiilimsileri işledik.",
+        "Bahçedeki kurumuş ağacın kökünü iyice kazdık.",
+        "Matematik sınavından düşük aldığı için çok üzgündü.",
+        "Akşam hava kararınca sahilde yürüyüş yaptık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "'Fiilimsi' sözcüğü dil bilgisi alanına ait özel bir kavram olduğu için terim anlamlıdır. Diğer sözcükler günlük anlamda kullanılmıştır."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'dar' sözcüğü mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Aldığı yeni pantolon belinden çok dar geldiği için iade etti.",
+        "Bu dar sokaklardan büyük araçların geçmesi gerçekten çok zor.",
+        "Babamın işleri bozulunca ailece oldukça dar bir zamandan geçtik.",
+        "Çok dar bir dolaba kışlık montların hepsini sığdırmaya çalıştı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Dar zaman' veya 'dar gün' ifadeleri sıkıntılı, zor, imkanların kısıtlı olduğu durumları belirtmek için mecaz anlamda kullanılır."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'atmak' sözcüğü 'görevden uzaklaştırmak, işten çıkarmak' anlamında kullanılmıştır?",
+      "answers": [
+        "Elindeki boş şişeyi doğrudan geri dönüşüm kutusuna attı.",
+        "Şirket kurallarına uymayan iki çalışanı işten attılar.",
+        "Maçın son dakikasında ceza sahası dışından sert bir şut attı.",
+        "Yatmadan önce üzerine rahat bir eşofman atıp dışarı çıktı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "İşten veya okuldan ilişiğini kesmek, uzaklaştırmak anlamı 'işten attılar' söz grubuyla sağlanmıştır."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'yüzmek' sözcüğü sesteş (eş sesli) kök olmasından kaynaklanan farklı bir anlamda kullanılmıştır?",
+      "answers": [
+        "Yaz tatilinde Ege denizinde saatlerce yüzdü.",
+        "Çocuklar gölde yüzen ördekleri izleyip neşeyle el salladı.",
+        "Kasap, kurbanlık koyunu kesip derisini yüzdü.",
+        "Gemi, sakin sularda güvenle ilerleyip limana yanaştı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Yüzmek' sözcüğü hem su üstünde hareket etmek hem de derisini soyup çıkarmak anlamlarına gelen sesteş bir sözcüktür. Kasap, kurbanlık koyunu kesip derisini yüzdü. Seçeneğinde deri yüzmek anlamındadır."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde zıt (karşıt) anlamlı sözcükler bir arada verilmiştir?",
+      "answers": [
+        "Bu eski binayı yenilemek için belediyeden izin istediler.",
+        "Yokuştan inerken aşağıya doğru dikkatlice bakıyordu.",
+        "Çocuk, elindeki siyah kalemiyle beyaz kağıda resim çizdi.",
+        "Yarışmada ileri gitmek isterken geride kaldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "Cümlede geçen 'siyah' ile 'beyaz' sözcükleri birbirinin zıt anlamlısıdır."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde nitel anlamlı (ölçülemeyen, durum bildiren) bir sözcük kullanılmıştır?",
+      "answers": [
+        "Bu ağır koliyi taşımama yardım eder misin?",
+        "Yeni evimiz okula oldukça yakın bir mesafededir.",
+        "Bahçedeki uzun kavak ağaçları rüzgarla sallanıyordu.",
+        "Mağazadan iki kilo taze domates satın aldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Uzun kavak' ifadesindeki uzunluk göreceli ve nitel bir durumdur. A'daki koli ağırlığı, B'deki mesafe, D'deki kilo ise ölçülebilir (nicel) anlamlıdır."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'genelden özele' bir anlatım söz konusudur?",
+      "answers": [
+        "Anadolu'nun şirin bir köyünde, doğayla iç içe bir hayat kurdu.",
+        "Canlılar dünyası içinde insanlar, akıl sahibi varlıklar olarak öne çıkar.",
+        "İstanbul'u gezmek için önce tarihi yarımadadan başlamalıyız.",
+        "Okulumuzdaki öğrenciler, bu projede büyük bir başarı elde etti."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Canlılar dünyası' genel bir kavramdır, bunun alt kümesi olan 'insanlar' ise özel bir kavramdır. Genelden özele sıralama yapılmıştır."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde somut anlamlı bir sözcük mecazlaşarak soyut anlam kazanmıştır?",
+      "answers": [
+        "Parkta oynayan küçük çocuklar neşeyle bağrışıyordu.",
+        "İçindeki çocuğu hiç kaybetmeyen neşeli bir insandı.",
+        "Yıllar sonra mahalledeki çocuklarla yeniden karşılaştı.",
+        "Okulun bahçesini dolduran çocuklar sıraya girdi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'İçindeki çocuk' ifadesi, kişinin saf, neşeli ve inatçı ruh halini (soyut bir mizacı) temsil ettiği için mecazlaşarak soyutlaşmıştır."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "Aşağıdaki atasözlerinden hangisi 'küçük imkanların bir araya gelerek büyük sonuçlar veya birikimler oluşturacağını' ifade eder?",
+      "answers": [
+        "Damlaya damlaya göl olur.",
+        "Ağaç yaşken eğilir.",
+        "Sakla samanı gelir zamanı.",
+        "Akıl yaşta değil baştadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "'Damlaya damlaya göl olur' atasözü, küçük birikimlerin zamanla büyük miktarlara ulaştığını anlatır."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "Aşağıdaki deyimlerden hangisi 'büyük bir merakla ve dikkatle dinlemek veya izlemek' anlamını karşılar?",
+      "answers": [
+        "Kulak kesilmek",
+        "Kulak ardı etmek",
+        "Kulağı delik olmak",
+        "Kulağına küpe olmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "'Kulak kesilmek', etraftaki diğer sesleri unutup söylenenleri çok büyük bir dikkatle dinlemek anlamına gelir."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yansıma bir sözcük (doğadaki seslerin taklit edilmesiyle oluşan sözcük) kullanılmamıştır?",
+      "answers": [
+        "Gecenin sessizliğinde tahta kapı gıcırdadı.",
+        "Dere kenarında akan suların şırıltısı insanı huzur veriyordu.",
+        "Bahçedeki sarı yapraklar rüzgarın etkisiyle etrafa uçuşuyordu.",
+        "Acıktığı için mutfaktaki ekmeği hışır hışır yiyordu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Gıcırdadı' (gıc), 'şırıltı' (şır) ve 'hışır hışır' (hışır) ses taklididir (yansımadır). Bahçedeki sarı yapraklar rüzgarın etkisiyle etrafa uçuşuyordu. Seçeneğinde yansıma sözcük yoktur."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "Aşağıdaki ikilemelerden hangisi zıt anlamlı sözcüklerin bir araya gelmesiyle oluşmuştur?",
+      "answers": [
+        "Eğri büğrü yollardan geçerek köye ulaştık.",
+        "İyi kötü demeden eline geçen işleri yapıyordu.",
+        "Eski püskü elbiseleri bir kenara ayırdı.",
+        "Çocuklar koşa koşa parka gittiler."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "'İyi' sözcüğü ile 'kötü' sözcüğü zıt anlamlıdır ve bu ikilemeyi oluşturmuştur."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "'Kesmek' sözcüğü aşağıdaki cümlelerin hangisinde diğerlerinden farklı bir anlamda kullanılmıştır?",
+      "answers": [
+        "Elindeki bıçakla ekmeği kalın dilimler halinde kesti.",
+        "Banka memuru, yatırdığım paranın makbuzunu kesip bana uzattı.",
+        "Uzun yolda araba arıza yapınca motor birden çalışmayı kesti.",
+        "Bahçedeki kalabalık çalıları makasla düzgünce kısalttı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "Diğer seçeneklerde fiziksel olarak bir nesneyi bölmek, ayırmak anlamındadır. Uzun yolda araba arıza yapınca motor birden çalışmayı kesti. Seçeneğinde ise motorun çalışmasını durdurması (faaliyetin kesilmesi) anlamındadır."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük mecaz anlam kazanmıştır?",
+      "answers": [
+        "Sıcak çorba içince biraz olsun kendine geldi.",
+        "Sanatçı, bu romanında toplumsal olayları çok sert bir dille eleştiriyor.",
+        "Akşamüstü esen rüzgar ortalığı epey serinletti.",
+        "Bahçeye diktiğimiz fidanlar ilkbaharda yeşerdi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "'Sert dil' ifadesindeki sert sözcüğü dokunma duyusuyla ilgili gerçek anlamından sıyrılarak kırıcı, ağır ve şiddetli anlamında mecazlaşmıştır."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'açık' sözcüğü 'anlaşılması kolay, net, şüphe bırakmayan' anlamında kullanılmıştır?",
+      "answers": [
+        "Hava sıcak olduğu için evin tüm pencereleri açıktı.",
+        "Mağazanın önünde 'Günün her saati açığız' yazısı vardı.",
+        "Öğretmenimiz konuyu o kadar açık anlattı ki herkes hemen kavradı.",
+        "Hesabımda kalan açık bakiyeyi kapatmak için bankaya gittim."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 1,
+      "explanation": "Öğretmenimiz konuyu o kadar açık anlattı ki herkes hemen kavradı. Seçeneğinde açık sözcüğü, konunun açık anlatılması, net ve anlaşılır olması demektir."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "'Dokunmak' sözcüğü aşağıdaki cümlelerin hangisinde 'rahatsız etmek, gücendirmek, incitmek' anlamında kullanılmıştır?",
+      "answers": [
+        "Resim sergisindeki tablolara elinizle dokunmanız yasaktır.",
+        "Yediği ağır yemekler midesine dokunduğu için bütün gece uyuyamadı.",
+        "Kardeşimin eşyalarına izinsiz dokunmasından hiç hoşlanmam.",
+        "Bu dokunaklı şiiri okurken gözyaşlarına hakim olamadı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "Yediği ağır yemekler midesine dokunduğu için bütün gece uyuyamadı. Seçeneğinde yemeklerin mideyi rahatsız etmesi, kötü etkilemesi anlamında kullanılmıştır."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Aşağıdaki cümlelerin hangisinde deyim, açıklamasıyla birlikte verilmemiştir?",
+      "answers": [
+        "Günlerdir beklediğimiz haber gelmeyince etekleri zil çaldı, çok büyük bir sevinç yaşadı.",
+        "Yaptığı hatayı anlayınca dili tutuldu, adeta konuşamaz hale geldi.",
+        "Sınavı kazanamayınca dünyası karardı, geleceğe dair tüm umutlarını yitirdi.",
+        "Bize verdiği sözleri tutmayınca ona karşı güvenim tamamen sarsıldı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "Bize verdiği sözleri tutmayınca ona karşı güvenim tamamen sarsıldı. Seçeneğinde deyim kullanılmamıştır, sadece düz bir anlatım yapılmıştır. Diğer seçeneklerde 'etekleri zil çalmak', 'dili tutulmak' ve 'dünyası kararmak' deyimleri açıklamalarıyla verilmiştir."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "'Çıkmak' sözcüğü aşağıdaki cümlelerin hangisinde 'ulaşmak, varılmak' anlamında kullanılmıştır?",
+      "answers": [
+        "Sabah erken saatlerde evden çıkıp işe koyuldu.",
+        "Bu yokuşun sonuna çıktığımızda masmavi deniz görünecek.",
+        "Depodan eski sandıkları teker teker yukarı çıkardılar.",
+        "Yaz tatilinde bütün aile Ege turuna çıkacaklar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "Bu yokuşun sonuna çıktığımızda masmavi deniz görünecek. Seçeneğinde yokuşun sonuna varmak, ulaşmak anlamında kullanılmıştır."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde soyut anlamlı bir sözcük, somut bir anlam kazanmıştır (somutlama yapılmıştır)?",
+      "answers": [
+        "Yıllar sonra gelen bu haber hepimizi çok sevindirdi.",
+        "Geleceğe dair kurduğu pembe düşler kısa sürede suya düştü.",
+        "Karşımızda dimdik duran o korkunç gerçekle yüzleşmek zorundaydı.",
+        "İçindeki öfke, büyüyen bir canavar gibi bütün benliğini sarıyordu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "'Öfke' soyut bir kavramdır; ancak burada 'canavar' gibi somut bir varlığa benzetilerek somutlama yapılmıştır."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Aşağıdaki atasözlerinden hangisi anlamca diğerlerinden farklıdır (farklı bir öğüt verir)?",
+      "answers": [
+        "İşleyen demir pas tutmaz.",
+        "Sakla samanı gelir zamanı.",
+        "Ağaç yaşken eğilir.",
+        "Çalışan demir ışıldar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "'İşleyen demir pas tutmaz' ve 'Çalışan demir ışıldar' çalışkanlığın erdemini anlatır. 'Sakla samanı gelir zamanı' ise tasarruflu olmayı ve ileriyi düşünmeyi öğütler."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kapatmak' sözcüğü 'bir borcu, açığı veya eksikliği ödeyip gidermek' anlamında kullanılmıştır?",
+      "answers": [
+        "Dükkanı erken kapatıp eve doğru yürümeye başladı.",
+        "Soğuk girmemesi için odanın pencerelerini iyice kapattı.",
+        "Şirketin yıl sonundaki bütçe açığını bu bağışla kapattılar.",
+        "Telefonu yüzüme aniden kapatınca çok sinirlendim."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "Şirketin yıl sonundaki bütçe açığını bu bağışla kapattılar. Seçeneğinde bütçe açığının kapatılması, borcun ödenerek eksiğin giderilmesi anlamını vermektedir."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "'Göz' sözcüğü aşağıdaki cümlelerin hangisinde terim anlamda kullanılmıştır?",
+      "answers": [
+        "Top oynarken toz kaçtığı için sol gözü kıpkırmızı olmuştu.",
+        "Dolabın en üst gözünde sakladığı mektupları tek tek okudu.",
+        "Yorulunca arabayı kenara çekip gözünü biraz dinlendirdi.",
+        "Uzaktaki dağın etrafında beliren ışığı gözlerinden kaçırmadı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sözcükte Anlam",
+      "difficulty": 2,
+      "explanation": "Mobilya veya dolapların bölmelerine 'göz' denilmesi mobilyacılık/mimarlık alanında terim anlam olarak değerlendirilebilir."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde hem terim hem de gerçek anlamlı sözcükler bir arada kullanılmıştır?",
+      "answers": [
+        "Geometri dersinde üçgenin iç açıları toplamını hesapladık.",
+        "Şair, bu şiirinde usta bir kafiye örgüsü kullanmış.",
+        "Doktor, hastanın tansiyonunu ölçüp reçete yazdı.",
+        "Futbolcu, hakeme itiraz edince sarı kart gördü."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "'Geometri', 'üçgen', 'açı' sözcükleri matematik/geometri terimidir; ders, hesaplamak gibi sözcükler ise gerçek anlamlıdır."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde altı çizili sözcükte 'niceleyici' (sayılabilen, ölçülebilen) bir özellik yoktur?",
+      "answers": [
+        "Bu kış günlerinde sıcak bir çorba içmek insana iyi geliyor.",
+        "Yüksek binanın tepesinden aşağıya doğru korkuyla baktı.",
+        "Geniş bahçedeki havuzun etrafını çiçeklerle donattılar.",
+        "Uzun boylu genç, kapının önünde sessizce bekliyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "'Sıcak çorba' ifadesindeki sıcak sözcüğü nitel bir durumdur (duyusal durumdur, ölçülebilir net bir nicelik değildir). Yüksek, geniş ve uzun sözcükleri ise boyutsal nicelik bildirir."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'hafif' sözcüğü 'mecaz' anlamda kullanılmıştır?",
+      "answers": [
+        "Sırtındaki hafif çantayla dağın tepesine kadar tırmandı.",
+        "Yediği ağır yemekten sonra hafif bir çorba içti.",
+        "Aldığı kötü haber karşısında kafası hafifçe bulandı.",
+        "Bu zor günleri atlatınca sanki üzerinden hafif bir yük kalkmıştı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "Bu zor günleri atlatınca sanki üzerinden hafif bir yük kalkmıştı. Seçeneğinde 'hafif yük' kalkması deyimleşmiş olup, ruhen rahatlamak, sıkıntıdan kurtulmak anlamında mecazlaşmıştır."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde bir sözcük hem gerçek hem de mecaz anlamını akla getirecek şekilde (cinaslı söyleyişe benzer bağlamda) kullanılmamıştır?",
+      "answers": [
+        "Yüzü denizde uzun süre kalmaktan iyice kızarmıştı.",
+        "Baharın gelmesiyle birlikte dağların etekleri yeşerdi.",
+        "Soğuk havada dışarı çıkınca burnu iyice üşüdü.",
+        "Tatlı sözleriyle herkesin sevgisini kısa sürede kazandı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "Tatlı sözleriyle herkesin sevgisini kısa sürede kazandı. Seçeneğinde 'tatlı' sözcüğü sadece mecaz anlamlıdır; gerçek tat anlamı burada akla gelmez. (Diğerlerinde ise yan anlam geçişleri veya somutluk-mecaz dengesi vardır.)"
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "Aşağıdaki cümlelerin hangisinde deyim ile cümlenin anlamı birbirini desteklememektedir (çelişmektedir)?",
+      "answers": [
+        "Saatlerdir aramadık yer bırakmadı, sonunda aradığı anahtarı buldu ama gözü dönmüştü.",
+        "Yıllardır bu projeye emek veriyordu, bugün emeğinin karşılığını alınca etekleri zil çaldı.",
+        "Sınavdan sıfır çekince ne yapacağını bilemedi, boynu bükük bir şekilde sınıftan çıktı.",
+        "Babasının aldığı hediyeyi görünce ağzı kulaklarına vardı, sevinçten havalara uçtu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sözcükte Anlam",
+      "difficulty": 3,
+      "explanation": "'Gözü dönmek' aşırı sinirlenmek, gözü hiçbir şey görmemek demektir. Ancak cümlede aradığını bulduğu için sevinen birinden bahsedilmektedir; bu nedenle deyim cümlenin anlamına uymamaktadır."
+    }
+  ]
+}

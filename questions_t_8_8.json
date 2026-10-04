@@ -1,0 +1,425 @@
+{
+  "unit": "Cümle Türleri",
+  "questions": [
+    {
+      "id": "Q_8_8_001",
+      "questionText": "Yüklemin türüne göre cümleler ikiye ayrılır: İsim cümleleri ve fiil cümleleri. Buna göre aşağıdaki cümlelerden hangisi 'fiil cümlesidir'?",
+      "answers": [
+        "Yaz tatilinde okuduğumuz kitaplar bizi çok geliştirdi.",
+        "Bu yılki serginin en gözde eseri bu tabloydu.",
+        "Çocukların neşeyle oynadığı yer kocaman bir bahçeydi.",
+        "Öğretmenimizin bize sorduğu sorular oldukça kolaydı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "'Yaz tatilinde okuduğumuz kitaplar bizi çok geliştirdi.' cümlesindeki 'geliştirdi' sözcüğü -mek/-mak mastar ekini alabilen bir eylemdir ve cümle fiil cümlesidir. Diğer seçeneklerin yüklemleri ek-fiil almış isim soylu sözcüklerdir."
+    },
+    {
+      "id": "Q_8_8_002",
+      "questionText": "Yükleminin yerine (cümledeki konumuna) göre cümleler 'kurallı' ve 'devrik' olarak incelenir. Aşağıdaki cümlelerden hangisi 'devrik' bir cümledir?",
+      "answers": [
+        "Sabahın erken saatlerinde yola koyulduk.",
+        "Bahçedeki sarı yapraklar rüzgarla uçuşuyordu.",
+        "Anlatılanları büyük bir dikkatle dinliyordu herkes.",
+        "Kütüphanedeki tüm kitapları tek tek inceledi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "'Anlatılanları büyük bir dikkatle dinliyordu herkes.' cümlesinde yüklem ('dinliyordu') cümlenin sonunda değil ortasındadır; bu nedenle cümle devriktir."
+    },
+    {
+      "id": "Q_8_8_003",
+      "questionText": "Yüklemi söylenmemiş, okuyucunun zihninde tamamlaması beklenen cümlelere ne ad verilir?",
+      "answers": [
+        "Kurallı Cümle",
+        "Eksiltili Cümle",
+        "Devrik Cümle",
+        "Basit Cümle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "Sonunda üç nokta (...) bulunan ve yüklemi verilmeyen cümleler eksiltili cümle olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_8_004",
+      "questionText": "Aşağıdaki cümlelerin hangisi anlamca ve biçimce 'olumlu' bir fiil cümlesidir?",
+      "answers": [
+        "Bu zorlu soruyu sınıfta hiç kimse çözemedi.",
+        "Yarınki toplantıya katılacağını hiç sanmıyorum.",
+        "Öğrenciler proje ödevini zamanında teslim etti.",
+        "Bugün hava maalesef hiç de iç açıcı değil."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "'Öğrenciler proje ödevini zamanında teslim etti.' cümlesindeki 'teslim etti' yüklemi hem işin yapıldığını bildirdiği için anlamca olumludur hem de olumsuzluk eki almadığı için biçimce olumludur."
+    },
+    {
+      "id": "Q_8_8_005",
+      "questionText": "Biçimce olumsuz (olumsuzluk eki alan) olduğu halde anlamca olumlu (gerçekleşmiş veya gerçekleşebilecek bir durumu bildiren) cümlelere ne denir?",
+      "answers": [
+        "Sözde Soru Cümlesi",
+        "Anlamca Olumlu Cümle",
+        "Biçimce ve Anlamca Olumsuz Cümle",
+        "Eksiltili Cümle"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "Örneğin 'Seni sevmez olur muyum?' cümlesi biçimce olumsuzdur (-me eki var) ancak anlamca 'Seni çok seviyorum' demektir (anlamca olumludur)."
+    },
+    {
+      "id": "Q_8_8_006",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapısına göre 'basit cümledir' (içinde yan cümlecik veya başka bir yargı barındırmaz)?",
+      "answers": [
+        "Bahçedeki çiçekleri sulamak için erkenden uyandı.",
+        "Gelen misafirleri kapıda güleryüzle karşıladık.",
+        "Masanın üzerinde duran kalın kitabı bana verir misin?",
+        "Akşamüstü sahilde uzun uzun yürüdük."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Akşamüstü sahilde uzun uzun yürüdük.' cümlesinde tek yargı (yüklem) vardır ve içinde hiç fiilimsi ya da ek yargı yoktur; bu nedenle yapısına göre basittir."
+    },
+    {
+      "id": "Q_8_8_007",
+      "questionText": "İçinde en az bir tane fiilimsi (eylemsi) barındıran cümlelere ne ad verilir?",
+      "answers": [
+        "Sıralı Cümle",
+        "Bağlı Cümle",
+        "Girişik Birleşik Cümle",
+        "Basit Cümle"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "Fiilimsi (isim-fiil, sıfat-fiil, zarf-fiil) bulunduran birleşik cümlelere 'girişik birleşik cümle' denir."
+    },
+    {
+      "id": "Q_8_8_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'girişik birleşik cümle' (fiilimsi içeren cümle) kullanılmamıştır?",
+      "answers": [
+        "Kitap okumak insanın zihinsel dünyasını zenginleştirir.",
+        "Sabah erkenden kalkıp kahvaltısını yaptı.",
+        "Yarınki sınav için sabaha kadar ders çalıştık.",
+        "Gözleri dolan çocuk, annesine sıkıca sarıldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Yarınki sınav için sabaha kadar ders çalıştık.' cümlesinde fiilimsi yoktur, tek yargılı basit bir cümledir. Diğer seçeneklerdeki 'okumak', 'kalkıp' ve 'dolan' sözcükleri fiilimsidir."
+    },
+    {
+      "id": "Q_8_8_009",
+      "questionText": "Birden fazla yargının (yüklemin) virgül veya noktalı virgülle birbirine bağlandığı cümlelere ne ad verilir?",
+      "answers": [
+        "Sıralı Cümle",
+        "Bağlı Cümle",
+        "Basit Cümle",
+        "Girişik Birleşik Cümle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "En az iki cümlenin virgül veya noktalı virgülle yan yana gelerek oluşturduğu yapıya sıralı cümle denir."
+    },
+    {
+      "id": "Q_8_8_010",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapısına göre 'bağlı cümledir' (iki veya daha fazla cümlenin bağlaçla birbirine bağlandığı cümle)?",
+      "answers": [
+        "Eve geldiğinde yorgunluktan hemen uyuyakaldı.",
+        "Hava oldukça soğuktu ama çocuklar dışarıda oynamaya devam etti.",
+        "Bahçedeki ağaçları budamak için usta çağırdık.",
+        "Sınavı kazanınca ailesiyle birlikte tatile çıktı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Hava oldukça soğuktu ama çocuklar dışarıda oynamaya devam etti.' cümlesinde iki ayrı yargı 'ama' bağlacıyla birbirine bağlanmıştır; bu bağlı cümledir."
+    },
+    {
+      "id": "Q_8_8_011",
+      "questionText": "Şart ekini (-se / -sa) alarak temel yargının gerçekleşmesini bir koşula bağlayan birleşik cümle türüne ne ad verilir?",
+      "answers": [
+        "Şartlı Birleşik Cümle",
+        "İç İçe Birleşik Cümle",
+        "Ki'li Birleşik Cümle",
+        "Girişik Birleşik Cümle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 1,
+      "explanation": "Yan cümlesi şart ekli olan birleşik cümlelere şartlı birleşik cümle denir (Örn: 'Çok çalışırsan sınavı kazanırsın')."
+    },
+    {
+      "id": "Q_8_8_012",
+      "questionText": "Başka bir kişinin veya kaynağın sözünün hiç değiştirilmeden tırnak içinde veya doğrudan cümle içine aktarılmasıyla oluşan birleşik cümle çeşidi hangisidir?",
+      "answers": [
+        "Girişik Birleşik Cümle",
+        "Şartlı Birleşik Cümle",
+        "İç İçe Birleşik Cümle",
+        "Sıralı Cümle"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "İç içe birleşik cümleler, bir cümlenin başka bir cümlenin içinde öge veya nesne olarak yer almasıyla (özellikle alıntı cümlelerle) oluşur."
+    },
+    {
+      "id": "Q_8_8_013",
+      "questionText": "Sıralı cümleler, öge ortaklıklarına göre 'bağımlı sıralı' ve 'bağımsız sıralı' olarak ikiye ayrılır. Buna göre aşağıdaki sıralı cümlelerin hangisi 'bağımlı sıralı' bir cümledir (ortak ögesi vardır)?",
+      "answers": [
+        "Güneş battı, hava bir anda soğudu.",
+        "Çocuklar dışarı çıktı, anneleri pencereden onları izledi.",
+        "Matematik sorusunu dikkatlice okudu, hemen çözdü.",
+        "Hava karardı, herkes evine doğru hareket etti."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Matematik sorusunu dikkatlice okudu, hemen çözdü.' cümlesinde 'okudu' ve 'çözdü' yüklemlerinin öznesi (o) ve nesnesi (matematik sorusunu) ortaktır. Bu nedenle bağımlı sıralı cümledir."
+    },
+    {
+      "id": "Q_8_8_014",
+      "questionText": "Aşağıdaki cümlelerden hangisi yükleminin türü bakımından diğerlerinden farklıdır?",
+      "answers": [
+        "Sanatçının en büyük hayali bu ödülü almaktı.",
+        "Bu tarihi kasaba, eski evleriyle büyüleyiciydi.",
+        "Bahçedeki rengarenk çiçekler mis gibi kokuyordu.",
+        "Öğretmenimizin bize verdiği ödev çok uzundu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Bahçedeki rengarenk çiçekler mis gibi kokuyordu.' cümlesindeki 'kokuyordu' yüklemi bir eylemdir (fiil cümlesidir). Diğer seçeneklerin yüklemleri ise ek-fiil almış isim soylu sözcüklerdir (isim cümlesidir)."
+    },
+    {
+      "id": "Q_8_8_015",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ki' bağlacıyla kurulmuş birleşik bir cümle vardır?",
+      "answers": [
+        "Duydum ki unutmuşsun gözlerimin rengini.",
+        "Bahçedeki çiçekler sulanmadığı için kurumuş.",
+        "Yarışmayı kazanan öğrenci büyük bir sevinç yaşadı.",
+        "Hava yağmurlu olduğundan maçı ertelediler."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Duydum ki unutmuşsun gözlerimin rengini.' cümlesinde 'ki' bağlacı iki cümleyi birbirine bağlayarak 'ki'li birleşik cümle oluşturmuştur."
+    },
+    {
+      "id": "Q_8_8_016",
+      "questionText": "Anlamca soru cümlesi olduğu halde cevap beklemeyen, duygu veya coşku bildiren cümlelere ne ad verilir?",
+      "answers": [
+        "Gerçek Soru Cümlesi",
+        "Sözde Soru Cümlesi",
+        "Olumsuz Cümle",
+        "Ünlem Cümlesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "Sözde soru cümleleri soru eki içerir ancak amaç bilgi almak değil, duygu vurgulamaktır (Örn: 'Bunu bilmez miyim hiç?')."
+    },
+    {
+      "id": "Q_8_8_017",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapısına göre 'birden fazla yan cümlecik içeren birleşik bir cümledir'?",
+      "answers": [
+        "Akşam eve gelince ellerini yıkayıp yemeğe oturdu.",
+        "Bahçede koşan çocuk düşerek ayağını incitti.",
+        "Okuldan dönen öğrenciler, hazırlanan projeyi incelemek için toplandı.",
+        "Yarınki sınavda başarılı olmak için sabaha kadar çalıştı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Okuldan dönen öğrenciler, hazırlanan projeyi incelemek için toplandı.' cümlesinde 'dönen' (sıfat-fiil), 'hazırlanan' (sıfat-fiil) ve 'incelemek' (isim-fiil) olmak üzere birden fazla fiilimsi (yan cümlecik) bulunmaktadır."
+    },
+    {
+      "id": "Q_8_8_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde biçimce olumlu, anlamca olumsuz bir durum söz konusudur?",
+      "answers": [
+        "Bu sıcak havalarda soğuk limonata içmek gibisi var mı?",
+        "Onun bu kadar kaba davranabileceğine asla inanmam.",
+        "Sanki bu zorlu soruyu çözebilecek bir tek sen varsın.",
+        "Ne seni üzdüm ne de kalbini kırmak istedim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Bu sıcak havalarda soğuk limonata içmek gibisi var mı?' soru cümlesi biçimce olumludur (olumsuzluk eki yoktur), ancak anlamca hiçbir şeyin onun yerini tutamayacağını bildirdiği için olumsuzdur."
+    },
+    {
+      "id": "Q_8_8_019",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapı bakımından diğerlerinden farklıdır?",
+      "answers": [
+        "Sanatçı, bu romanında toplumsal gerçekleri gözler önüne seriyor.",
+        "Yazar, eserinde sade ve akıcı bir dil kullanmaya özen göstermiş.",
+        "Çocuklar bahçede neşeyle koşup oyunlar oynuyordu.",
+        "Bütün bu yaşananları hak edecek ne yaptı ki?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Çocuklar bahçede neşeyle koşup oyunlar oynuyordu.' cümlesinde 'koşup' zarf-fiili vardır, dolayısıyla girişik birleşik cümledir. Diğer cümlelerde fiilimsi bulunmadığı için basit yapılıdır."
+    },
+    {
+      "id": "Q_8_8_020",
+      "questionText": "I. Hava kararmıştı.\nII. Sokak lambaları birer birer yandı.\nYukarıdaki iki cümlenin virgülle birleşerek oluşturduğu yapı için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Girişik birleşik cümledir.",
+        "Bağımsız sıralı cümledir.",
+        "Bağlı cümledir.",
+        "Basit cümledir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "İki ayrı yargı virgülle bağlanmıştır (sıralı cümle). Ögeleri incelendiğinde ortak öge bulunmadığı için 'bağımsız sıralı cümle'dir."
+    },
+    {
+      "id": "Q_8_8_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin yerine (dizilişine) göre diğerlerinden farklı bir kullanım vardır?",
+      "answers": [
+        "Usta yazar, yeni kitabını dün akşam imzaladı.",
+        "Bahçedeki rengarenk çiçekler neşeyle açıyordu.",
+        "Çocuklar okuldan dönerken parkta vakit geçirdi.",
+        "Masadaki dosyayı hızlıca aldı içeriye."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Masadaki dosyayı hızlıca aldı içeriye.' cümlesinde 'aldı' yüklemi cümlenin sonunda yer almadığı için devriktir. Diğer cümlelerde yüklem sonda olduğu için kurallıdır."
+    },
+    {
+      "id": "Q_8_8_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'bağımlı sıralı cümle' örneği yoktur?",
+      "answers": [
+        "Sanatçı sahneye çıktı, salonu dolduranları selamladı.",
+        "Öğrenci soruyu dikkatle okudu, hemen tahtaya kalktı.",
+        "Hava karardı, herkes evine doğru yürümeye başladı.",
+        "Yaşlı adam torununu kucağına aldı, onu sevgiyle öptü."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Hava karardı, herkes evine doğru yürümeye başladı.' sıralı cümlesini oluşturan iki ayrı cümlenin hiçbir öge ortaklığı yoktur; bu yüzden bağımsız sıralıdır."
+    },
+    {
+      "id": "Q_8_8_023",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapısı bakımından 'bağlı cümle'dir?",
+      "answers": [
+        "Çok çalıştı ancak sınavda hedeflediği puanı alamadı.",
+        "Güneşli havalarda sahilde yürümeyi çok severdi.",
+        "Eve gelir gelmez ellerini yıkayıp masaya oturdu.",
+        "Yazarın son kitabını henüz okuma fırsatım olmadı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Çok çalıştı ancak sınavda hedeflediği puanı alamadı.' cümlesinde iki ayrı yargı 'ancak' bağlacıyla birbirine bağlandığı için bağlı cümledir."
+    },
+    {
+      "id": "Q_8_8_024",
+      "questionText": "Aşağıdaki dizelerin hangisinde hem birleşik cümle (fiilimsi içeren) hem de devrik cümle özellikleri bir arada bulunmaktadır?",
+      "answers": [
+        "Gurbet elde başım yastığa düşer",
+        "Sararmış yapraklar düşerken yere",
+        "Sönmeyen bir ateş vardır içimde",
+        "Ağaçlar tümüyle dostumuzdur bizim"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Sönmeyen bir ateş vardır içimde' dizesindeki 'sönmeyen' sözcüğü sıfat-fiildir (birleşik cümle oluşturur); yüklem olan 'vardır' sözcüğü ise cümlenin sonunda olmadığı için cümle devriktir."
+    },
+    {
+      "id": "Q_8_8_025",
+      "questionText": "Aşağıdaki cümlelerin hangisi anlamca ve biçimce 'olumsuz bir isim cümlesidir'?",
+      "answers": [
+        "Bu saatten sonra bu işi bitirmek imkansızdı.",
+        "Odamda çalışmamı engelleyecek hiçbir gürültü yoktu.",
+        "Yarınki geziye katılmayı hiçbirimiz istemiyorduk.",
+        "Bu zorlu görevi başarmak gerçekten çok zordu."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Odamda çalışmamı engelleyecek hiçbir gürültü yoktu.' cümlesindeki 'yoktu' sözcüğü isim soylu sözcüğün olumsuz halidir ve işin/durumun olmadığını bildirir (anlamca ve biçimce olumsuzdur)."
+    },
+    {
+      "id": "Q_8_8_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'şartlı birleşik cümle' temel yargının gerçekleşmesini zaman anlamıyla birlikte bir koşula bağlamıştır?",
+      "answers": [
+        "Hava güzel olursa yarın pikniğe gideriz.",
+        "Çok çalışırsan başarılı olursun.",
+        "Beni dinlersen bu sorunu kolayca çözeriz.",
+        "Akşam eve geldiğinde ödevlerini bitirmiş ol."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "'Hava güzel olursa yarın pikniğe gideriz.' cümlesinde 'olursa' şart eki hem koşul hem de zaman anlamı katarak temel yargıyı şekillendirmiştir."
+    },
+    {
+      "id": "Q_8_8_027",
+      "questionText": "Aşağıdaki cümlelerin hangisi yapılarına göre birleştirildiğinde 'bağlı cümle' oluşur?",
+      "answers": [
+        "Kapıyı açtı ve içeri girdi.",
+        "Bahçedeki ağaçlar budandı.",
+        "Soru bankasındaki testleri bitirdi.",
+        "Akşam sinemaya gideceğiz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Kapıyı açtı ve içeri girdi.' cümlesinde 've' bağlacı iki ayrı yargıyı (cümleyi) birbirine bağladığı için yapıca bağlı cümledir."
+    },
+    {
+      "id": "Q_8_8_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin yeri (dizilişi) ve türü yönünden doğru eşleştirme yapılmıştır?",
+      "answers": [
+        "Çocuklar bahçede top oynuyordu. -> Kurallı Fiil Cümlesi",
+        "Bu tablo gerçekten çok güzeldi. -> Devrik İsim Cümlesi",
+        "Yarın sabah erken saatlerde yola çıkacağız. -> Eksiltili Cümle",
+        "Bahçedeki kurumuş yapraklar rüzgarla uçuştu. -> Devrik Fiil Cümlesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Çocuklar bahçede top oynuyordu.' cümlesinde 'oynuyordu' yüklemi sondadır (kurallı) ve eylem bildirmektedir (fiil cümlesi). Bu eşleştirme tamamen doğrudur."
+    },
+    {
+      "id": "Q_8_8_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'iç içe birleşik cümle' örneği vardır?",
+      "answers": [
+        "Usta yazar, röportajında 'Okumayan insan karanlıktadır.' dedi.",
+        "Öğretmenimiz derse girerken hepimize gülümsedi.",
+        "Hava soğuk olduğu için dışarı çıkamadık.",
+        "Gelen misafirleri kapıda coşkuyla karşıladık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 2,
+      "explanation": "'Usta yazar, röportajında \"Okumayan insan karanlıktadır.\" dedi.' cümlesinde tırnak içinde verilen alıntı cümle, temel cümlenin nesnesi konumunda yer alarak iç içe birleşik cümle oluşturmuştur."
+    },
+    {
+      "id": "Q_8_8_030",
+      "questionText": "Aşağıdaki uzun cümlenin yapı analizi hangisinde doğru verilmiştir?\n*Cümle:* 'Sabahın erken saatlerinde uyandım, hazırlıklarımı tamamlayıp sessizce evden çıktım.'",
+      "answers": [
+        "Sıralı Cümle",
+        "Girişik Birleşik Cümle",
+        "Bağlı Cümle",
+        "Basit Cümle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümle Türleri",
+      "difficulty": 3,
+      "explanation": "Cümle yapısı incelendiğinde 'uyandım' ve 'çıktım' olmak üzere iki ayrı yüklemin virgülle sıralandığı görülmektedir; ayrıca içinde 'tamamlayıp' zarf-fiili de bulunduğu için yan cümlecik barındıran yapılı sıralı cümle niteliğindedir, ancak temel çatı olarak sıralı cümledir."
+    }
+  ]
+}

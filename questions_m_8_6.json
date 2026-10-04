@@ -1,0 +1,425 @@
+{
+  "unit": "Cebirsel İfadeler ve Özdeşlikler",
+  "questions": [
+    {
+      "id": "Q_8_6_001",
+      "questionText": "3x - 4y + 5 cebirsel ifadesinin katsayılar toplamı kaçtır?",
+      "answers": [
+        "4",
+        "5",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "Katsayılar 3, -4 ve 5'tir. Toplamları: 3 + (-4) + 5 = 4 olur."
+    },
+    {
+      "id": "Q_8_6_002",
+      "questionText": "5a - 3b - 7 cebirsel ifadesinin sabit terimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "-7",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "Değişkeni (harfi) olmayan terime sabit terim denir. Bu ifadedeki sabit terim işaretiyle birlikte -7'dir."
+    },
+    {
+      "id": "Q_8_6_003",
+      "questionText": "4x(x - 3) çarpma işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "4x² - 3",
+        "4x² - 12",
+        "4x² - 12x",
+        "4x - 12x²"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "4x terimi parantez içindeki her bir terimle ayrı ayrı çarpılır: 4x · x = 4x² ve 4x · (-3) = -12x. Sonuç 4x² - 12x olur."
+    },
+    {
+      "id": "Q_8_6_004",
+      "questionText": "(x + 2)(x + 5) işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "x² + 10",
+        "x² + 7x + 10",
+        "x² + 10x + 7",
+        "2x + 7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "Dağılma özelliği kullanılarak çarpılır: x² + 5x + 2x + 10. Benzer terimler toplanırsa x² + 7x + 10 elde edilir."
+    },
+    {
+      "id": "Q_8_6_005",
+      "questionText": "Aşağıdaki eşitliklerden hangisi bir özdeşliktir?",
+      "answers": [
+        "2x + 4 = 10",
+        "3(x - 1) = 3x - 3",
+        "x² = 25",
+        "x + 5 = 2x"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "Özdeşlikler x'in her değeri için doğru olan eşitliklerdir. 3(x - 1) dağıtıldığında her zaman 3x - 3'e eşit olur."
+    },
+    {
+      "id": "Q_8_6_006",
+      "questionText": "(a + 4)² ifadesinin eşiti aşağıdakilerden hangisidir?",
+      "answers": [
+        "a² + 16",
+        "a² + 4a + 16",
+        "a² + 8a + 16",
+        "a² + 8a + 8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "İki terimin toplamının karesi özdeşliği: Birincinin karesi (a²) + Birinci ile ikincinin çarpımının iki katı (8a) + İkincinin karesi (16)."
+    },
+    {
+      "id": "Q_8_6_007",
+      "questionText": "(x - 5)² ifadesinin eşiti aşağıdakilerden hangisidir?",
+      "answers": [
+        "x² - 25",
+        "x² - 10x - 25",
+        "x² - 5x + 25",
+        "x² - 10x + 25"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "İki terimin farkının karesi özdeşliğine göre: x² - 2·x·5 + 5² = x² - 10x + 25 olur."
+    },
+    {
+      "id": "Q_8_6_008",
+      "questionText": "x² - 36 cebirsel ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "(x - 6)(x - 6)",
+        "(x - 6)(x + 6)",
+        "(x - 36)(x + 1)",
+        "(x - 18)(x + 18)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 1,
+      "explanation": "İki kare farkı özdeşliği (a² - b² = (a-b)(a+b)) kullanılarak x² - 6² = (x - 6)(x + 6) şeklinde çarpanlarına ayrılır."
+    },
+    {
+      "id": "Q_8_6_009",
+      "questionText": "12x²y + 8xy² ifadesinin ortak çarpan parantezine alınmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "4xy(3x + 2y)",
+        "2xy(6x + 4y)",
+        "4x(3xy + 2y²)",
+        "4y(3x² + 2xy)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "Her iki terimde de ortak olan en büyük çarpan 4xy'dir. 4xy parantezine alındığında 4xy(3x + 2y) elde edilir."
+    },
+    {
+      "id": "Q_8_6_010",
+      "questionText": "(2x - 3)² ifadesinin açılımında x'li terimin katsayısı kaçtır?",
+      "answers": [
+        "-12",
+        "-6",
+        "6",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "(2x - 3)² = (2x)² - 2(2x)(3) + 3² = 4x² - 12x + 9 olur. x'li terimin katsayısı -12'dir."
+    },
+    {
+      "id": "Q_8_6_011",
+      "questionText": "4x² - 9y² ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "(2x - 3y)²",
+        "(4x - 9y)(4x + 9y)",
+        "(2x - 3y)(2x + 3y)",
+        "(2x - 9y)(2x + 9y)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "4x² = (2x)² ve 9y² = (3y)² olduğundan iki kare farkı özdeşliği uygulanır: (2x - 3y)(2x + 3y)."
+    },
+    {
+      "id": "Q_8_6_012",
+      "questionText": "a² + 10a + 25 ifadesi aşağıdakilerden hangisinin açılımıdır?",
+      "answers": [
+        "(a + 25)²",
+        "(a + 10)²",
+        "(a + 5)²",
+        "(a - 5)²"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "Birinci terim a'nın, üçüncü terim 5'in karesidir. Ortadaki terim ikisinin çarpımının 2 katı (2·a·5 = 10a) olduğundan bu ifade (a + 5)² dir."
+    },
+    {
+      "id": "Q_8_6_013",
+      "questionText": "(3x - 1)(2x + 4) işleminin sonucunda sabit terim kaçtır?",
+      "answers": [
+        "-4",
+        "-1",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "Sabit terim, parantezlerdeki sabit terimlerin çarpılmasıyla bulunur: (-1) · (+4) = -4."
+    },
+    {
+      "id": "Q_8_6_014",
+      "questionText": "Bir kenarı x cm olan kare şeklindeki bir kartondan, bir kenarı y cm olan kare şeklinde bir parça kesilip çıkarılıyor. Kalan bölgenin alanını veren cebirsel ifade aşağıdakilerden hangisidir?",
+      "answers": [
+        "(x - y)²",
+        "x² - y²",
+        "x² + y²",
+        "2x - 2y"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "Büyük karenin alanı x², küçük karenin alanı y²'dir. Kalan alan x² - y² olur."
+    },
+    {
+      "id": "Q_8_6_015",
+      "questionText": "x + y = 6 ve x · y = 8 olduğuna göre x² + y² kaçtır?",
+      "answers": [
+        "20",
+        "28",
+        "36",
+        "52"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "(x + y)² = x² + 2xy + y² formülünde değerleri yerine yazalım: 6² = x² + 2(8) + y² => 36 = x² + 16 + y² => x² + y² = 20."
+    },
+    {
+      "id": "Q_8_6_016",
+      "questionText": "9x² - 24x + 16 ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "(3x - 4)²",
+        "(3x + 4)²",
+        "(9x - 4)²",
+        "(3x - 16)²"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "9x² = (3x)², 16 = 4² ve ortadaki terim -2(3x)(4) = -24x olduğundan bu ifade (3x - 4)² tam kare özdeşliğidir."
+    },
+    {
+      "id": "Q_8_6_017",
+      "questionText": "Aşağıdaki ifadelerden hangisi 3x³ - 12x ifadesinin bir çarpanı değildir?",
+      "answers": [
+        "3x",
+        "x - 2",
+        "x + 2",
+        "x - 4"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "Önce 3x parantezine alınır: 3x(x² - 4). Daha sonra iki kare farkı uygulanır: 3x(x - 2)(x + 2). Çarpanlar 3x, x-2 ve x+2'dir. x-4 bir çarpan değildir."
+    },
+    {
+      "id": "Q_8_6_018",
+      "questionText": "x - y = 5 ve x · y = 6 olduğuna göre x² + y² kaçtır?",
+      "answers": [
+        "13",
+        "25",
+        "31",
+        "37"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "(x - y)² = x² - 2xy + y² formülünden: 5² = x² - 2(6) + y² => 25 = x² - 12 + y² => x² + y² = 37."
+    },
+    {
+      "id": "Q_8_6_019",
+      "questionText": "4x² + Ax + 25 ifadesi bir tam kare özdeşliği olduğuna göre A'nın alabileceği pozitif değer kaçtır?",
+      "answers": [
+        "10",
+        "20",
+        "40",
+        "100"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "Tam kare ifadede ortadaki terim, uçlardaki terimlerin kareköklerinin çarpımının 2 katıdır. 2 · √(4x²) · √25 = 2 · 2x · 5 = 20x. Buradan A = 20 olur."
+    },
+    {
+      "id": "Q_8_6_020",
+      "questionText": "51² - 49² işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "4",
+        "100",
+        "200",
+        "400"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "İki kare farkı özdeşliği kullanılarak: (51 - 49) · (51 + 49) = 2 · 100 = 200 bulunur."
+    },
+    {
+      "id": "Q_8_6_021",
+      "questionText": "Alanı 2x² + 12x + 18 olan bir dikdörtgenin kenar uzunlukları aşağıdakilerden hangisi olabilir?",
+      "answers": [
+        "2(x + 3) ve (x + 3)",
+        "(2x + 3) ve (x + 6)",
+        "(2x + 6) ve (x + 2)",
+        "2x ve (x + 9)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "İfade önce 2 parantezine alınır: 2(x² + 6x + 9). Bu ifade de 2(x + 3)² şeklindedir. Kenar uzunlukları 2(x + 3) ve (x + 3) olabilir."
+    },
+    {
+      "id": "Q_8_6_022",
+      "questionText": "(a - 3)² - 16 ifadesinin çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "(a - 7)(a + 1)",
+        "(a - 19)(a + 13)",
+        "(a - 4)(a + 4)",
+        "(a - 3)(a - 16)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "İki kare farkından dolayı ((a - 3) - 4) · ((a - 3) + 4) yazılır. Düzenlendiğinde (a - 7)(a + 1) elde edilir."
+    },
+    {
+      "id": "Q_8_6_023",
+      "questionText": "Bir dikdörtgenin uzun kenarı (3x + 2) cm, kısa kenarı (3x - 2) cm'dir. Bu dikdörtgenin alanını veren cebirsel ifade aşağıdakilerden hangisidir?",
+      "answers": [
+        "9x² - 4",
+        "9x² + 4",
+        "6x² - 4",
+        "9x² - 12x - 4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "Alan = (3x + 2)(3x - 2). İki kare farkı özdeşliği gereği (3x)² - 2² = 9x² - 4 olur."
+    },
+    {
+      "id": "Q_8_6_024",
+      "questionText": "a ve b doğal sayılardır. a² - b² = 17 olduğuna göre a² + b² kaçtır?",
+      "answers": [
+        "145",
+        "169",
+        "289",
+        "314"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "a² - b² = (a - b)(a + b) = 17. 17 asal sayı olduğundan a - b = 1 ve a + b = 17'dir. Buradan a = 9, b = 8 bulunur. a² + b² = 9² + 8² = 81 + 64 = 145'tir."
+    },
+    {
+      "id": "Q_8_6_025",
+      "questionText": "(x + y)² - 4xy ifadesinin en sade hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "(x - y)²",
+        "x² - y²",
+        "x² + y²",
+        "x - y"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "(x + y)² = x² + 2xy + y²'dir. Bundan 4xy çıkarılırsa x² - 2xy + y² kalır, bu da (x - y)² özdeşliğidir."
+    },
+    {
+      "id": "Q_8_6_026",
+      "questionText": "Alanı (x² + 14x + 49) cm² olan kare şeklindeki bir resim çerçevesinin çevresi kaç santimetredir?",
+      "answers": [
+        "4x + 14",
+        "4x + 28",
+        "2x + 14",
+        "x + 7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "x² + 14x + 49 = (x + 7)² olduğundan karenin bir kenarı (x + 7) cm'dir. Çevresi 4(x + 7) = 4x + 28 cm olur."
+    },
+    {
+      "id": "Q_8_6_027",
+      "questionText": "m = 2026 ve n = 2025 olmak üzere, (m + n)² - 4mn işleminin sonucu kaçtır?",
+      "answers": [
+        "1",
+        "2",
+        "4051",
+        "4051²"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "(m + n)² - 4mn ifadesi her zaman (m - n)² özdeşliğine eşittir. m - n = 2026 - 2025 = 1'dir. 1² = 1 olur."
+    },
+    {
+      "id": "Q_8_6_028",
+      "questionText": "Aşağıdakilerden hangisi 2x²y + 6xy² ifadesinin çarpanlarından biri değildir?",
+      "answers": [
+        "2xy",
+        "x + 3y",
+        "2x",
+        "x + 3"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "İfade 2xy ortak parantezine alındığında 2xy(x + 3y) elde edilir. x + 3 bu ifadenin bir çarpanı değildir."
+    },
+    {
+      "id": "Q_8_6_029",
+      "questionText": "x² - y² = 60 ve x - y = 6 olduğuna göre x + y kaçtır?",
+      "answers": [
+        "8",
+        "10",
+        "12",
+        "54"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 2,
+      "explanation": "İki kare farkı x² - y² = (x - y)(x + y)'dir. 60 = 6 · (x + y) ise x + y = 10 olur."
+    },
+    {
+      "id": "Q_8_6_030",
+      "questionText": "Bir kenar uzunluğu 'a' birim olan kare şeklindeki bir kağıdın dört köşesinden, bir kenar uzunluğu 'b' birim olan 4 eş kare kesilip çıkarılıyor. Kalan bölgenin alanını veren özdeşlik aşağıdakilerden hangisidir?",
+      "answers": [
+        "(a - b)(a + b)",
+        "(a - 2b)(a + 2b)",
+        "(a - 4b)(a + 4b)",
+        "(a - 2b)²"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cebirsel İfadeler ve Özdeşlikler",
+      "difficulty": 3,
+      "explanation": "Başlangıçtaki alan a²'dir. Çıkarılan 4 adet karenin toplam alanı 4b²'dir. Kalan alan a² - 4b² olur. Bu da iki kare farkı özdeşliği ile (a - 2b)(a + 2b) şeklinde yazılır."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "Birinci Dünya Savaşı'nın genel nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+      "answers": [
+        "Sömürgecilik yarışına bağlı hammadde ve pazar arayışı",
+        "Devletler arası bloklaşma ve silahlanma yarışı",
+        "Fransız İhtilali'nin yaydığı milliyetçilik akımı",
+        "Osmanlı Devleti'nin dış borçlarını ödeyememesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Osmanlı'nın borçlarını ödeyememesi I. Dünya Savaşı'nın genel nedeni değil, daha çok Osmanlı'yı ve Avrupalı devletlerin mali politikalarını ilgilendiren özel bir durumdur."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "Osmanlı Devleti'nin I. Dünya Savaşı'na Almanya'nın yanında girmesinde ve siyasi yalnızlıktan kurtulmasında en temel etken aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kaybettiği toprakları geri almak ve siyasi yalnızlıktan kurtulmak",
+        "Almanya ile ekonomik anlaşmalar yapmak",
+        "Halifeliğin gücünü tüm dünyaya göstermek",
+        "İngiltere ile ittifak kurmak istemesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Osmanlı Devleti, Trablusgarp ve Balkan Savaşları'nda kaybettiği toprakları geri almak ve yalnızlıktan kurtulmak için Almanya'nın yanında savaşa girmiştir."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "Mustafa Kemal'in Çanakkale Cephesi'nde gösterdiği başarılar ve kazandığı askeri yetenekler hangi özelliğiyle doğrudan ilişkilidir?",
+      "answers": [
+        "Askeri dehası, ileri görüşlülüğü ve stratejik öngörüleri",
+        "Ekonomi alanındaki başarılı politikaları",
+        "Yabancı dilleri kusursuz bilmesi",
+        "Sadece donanma komutanlığı yapması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atıldım Adımlar",
+      "difficulty": 1,
+      "explanation": "Mustafa Kemal, Çanakkale'de düşmanın çıkarma yapacağı yerleri önceden tahmin ederek ('Ben size taarruz emretmiyorum, ölmeyi emrediyorum') askeri dehasını ve ileri görüşlülüğünü kanıtlamıştır."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "Mondros Ateşkes Antlaşması'nın 'İtilaf Devletleri, güvenliklerini tehdit edecek bir durum ortaya çıkarsa herhangi bir stratejik noktayı işgal edebilecektir' maddesi (7. madde) hangi amaca yönelik hazırlanmıştır?",
+      "answers": [
+        "Osmanlı topraklarını hukuki zemin oluşturarak paylaşmak ve işgal etmek",
+        "Osmanlı Devleti'nin ekonomisini düzeltmek",
+        "Azınlıkların haklarını korumak",
+        "Barış antlaşması imzalamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Mondros'un 7. maddesi, İtilaf Devletleri'ne istedikleri her yeri kolayca işgal edebilmeleri için hukuki bir kılıf (zemin) sağlamıştır."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "Paris Barış Konferansı'nda daha önce İtalya'ya vaad edilen İzmir ve çevresinin hangi devlete verilmesi kararlaştırılmıştır?",
+      "answers": [
+        "Yunanistan",
+        "İngiltere",
+        "Fransa",
+        "Rusya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Paris Barış Konferansı'nda İngiltere, Akdeniz'de güçlü bir İtalya yerine güçsüz bir Yunanistan'ı tercih ederek İzmir ve çevresini Yunanlılara vermiştir."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "Doğu Anadolu'da bir Ermeni devletinin kurulmasını engellemek amacıyla kurulan yararlı cemiyet aşağıdakilerden hangisidir?",
+      "answers": [
+        "İzmir Müdafaa-i Hukuk-ı Osmaniye Cemiyeti",
+        "Vilâyat-ı Şarkiye Müdafaa-i Hukuk-ı Milliye Cemiyeti",
+        "Trakya-Paşaeli Cemiyeti",
+        "Kilikyacılar Cemiyeti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Vilâyat-ı Şarkiye (Doğu illeri) Müdafaa-i Hukuk-ı Milliye Cemiyeti, Doğu Anadolu'daki Türk haklarını korumak ve Ermeni devletini engellemek için kurulmuştur."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "Karadeniz bölgesinde Rumlar tarafından Pontus Devleti'ni kurmak amacıyla kurulan zararlı cemiyet hangisidir?",
+      "answers": [
+        "Hınçak ve Taşnak Cemiyeti",
+        "Mavri Mira Cemiyeti",
+        "Pontus Rum Cemiyeti",
+        "Etniki Eterya Cemiyeti"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Karadeniz'de Pontus Rum Devleti'ni kurmayı hedefleyen zararlı cemiyet Pontus Rum Cemiyeti'dir."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "İzmir'in Yunanlılar tarafından işgali sırasında 'İlk Kurşun'u sıkarak milli direnişin sembolü olan ulusal gazeteci kimdir?",
+      "answers": [
+        "Ali Şetket Bey",
+        "Hasan Tahsin (Osman Recep Nevres)",
+        "Yörük Ali Efe",
+        "Sütçü İmam"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Hasan Tahsin, İzmir'in işgali sırasında düşmana ilk kurşunu sıkarak milli mücadelenin kıvılcımını ateşleyen gazetecidir."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "Kuvayı Milliye birliklerinin ortaya çıkmasının en temel nedeni aşağıdakilerden hangisidir?",
+      "answers": [
+        "Osmanlı ordusunun terhis edilmesi ve İstanbul Hükümeti'nin işgallere karşı sessiz kalması",
+        "Padişahın halka silah dağıtması",
+        "Düzenli ordunun tüm ülkeyi düşmandan kurtarması",
+        "İtilaf Devletleri'nin işgallerden vazgeçmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Mondros sonrasında Osmanlı ordusu dağıtılıp silahları alınınca, halk kendi bölgesini korumak için bölgesel direniş örgütleri olan Kuvayı Milliye'yi kurmuştur."
+    },
+    {
+      "id": "Q_8_2_010",
+      "questionText": "Mustafa Kemal'in 9. Ordu Müfettişi olarak Samsun'a gönderilmesinin resmi (görünen) görevi ve amacı neydi?",
+      "answers": [
+        "Türk direnişini örgütlemek",
+        "Bölgedeki Türkleri suçlayan İngilizlere karşı asayişi sağlamak ve Türklerin elindeki silahları toplamak",
+        "İstanbul'a yeni bir ordu kurmak",
+        "Cumhuriyet ilan etmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "İstanbul Hükümeti'nin ve İngilizlerin Mustafa Kemal'e verdiği resmi görev, bölgedeki Türklerin çıkardığı iddia edilen olayları bitirmek ve silahları toplamaktır."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "Havza Genelgesi'nin yayımlanmasından sonra Mustafa Kemal'in millete yapılması hususunda en çok vurguladığı eylem aşağıdakilerden hangisidir?",
+      "answers": [
+        "İşgallere karşı protesto mitingleri düzenlenmesi",
+        "Doğrudan silahlı ayaklanma başlatılması",
+        "Padişaha bağlılık telgrafları çekilmesi",
+        "Vergilerin düzenli ödenmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Havza Genelgesi ile milli bilincin uyanması için işgallerin mitingler yapılarak protesto edilmesi istenmiştir."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "Amasya Genelgesi'nde yer alan \"Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır\" maddesi Kurtuluş Savaşı'nın hangi temel özelliğini açıkça ortaya koymaktadır?",
+      "answers": [
+        "Savaşın gerekçesini",
+        "Savaşın yöntemini ve milli egemenlik ilkesini",
+        "Savaşın maliyetini",
+        "Meclis başkanının kim olacağını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Bu madde Kurtuluş Savaşı'nın *yöntemini* (nasıl yapılacağını) ve halkın gücüne dayanarak milli egemenliği gerçekleştireceğini ortaya koyar."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "Erzurum Kongresi'nin toplanış şekli bakımından 'bölgesel', aldığı kararlar bakımından ise 'ulusal' olmasının anlamı nedir?",
+      "answers": [
+        "Sadece Doğu Anadolu'daki delegelerin katılmasına rağmen tüm vatanı ilgilendiren kararlar alması",
+        "Sadece İstanbul halkını temsil etmesi",
+        "Kararların uluslararası mahkemelerde onaylanması",
+        "Sadece askerlerin oy kullanması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Erzurum Kongresi Doğu illerinin temsilcileriyle toplandığı için bölgeseldir; ancak 'Milli sınırlar içinde vatan bütündür, bölünemez' kararıyla ulusal nitelik kazanmıştır."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "Manda ve himaye (başka bir devletin güdümü altında yaşama fikri) ilk kez hangi kongrede kesin olarak reddedilmiştir?",
+      "answers": [
+        "Amasya Genelgesi",
+        "Erzurum Kongresi",
+        "Sivas Kongresi",
+        "Pozantı Kongresi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Erzurum Kongresi'nde manda ve himaye ilk kez reddedilmiş, Sivas Kongresi'nde ise kesin olarak ve bir daha tartışılmamak üzere reddedilmiştir."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "Sivas Kongresi'nde dağınık halde bulunan tüm millî cemiyetler hangi isim altında birleştirilmiştir?",
+      "answers": [
+        "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti",
+        "Karakol Cemiyeti",
+        "Kuva-i Seyyare",
+        "Türkiye Büyük Millet Meclisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Sivas Kongresi'nde milli direnişi tek elden yönetmek için tüm cemiyetler Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmiştir."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "Amasya Görüşmeleri'nde İstanbul Hükümeti adına Salih Paşa ile Temsil Heyeti adına Mustafa Kemal bir araya gelmiştir. Bu görüşmenin en önemli siyasi sonucu nedir?",
+      "answers": [
+        "İstanbul Hükümeti'nin Temsil Heyeti'ni resmen ve hukuken tanımış olması",
+        "Padişahın tahttan indirilmesi",
+        "Sevr Antlaşması'nın imzalanması",
+        "Düzenli ordunun kurulması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "İstanbul Hükümeti'nin temsilcisi olarak Amasya'ya gelip görüşme yapması, Temsil Heyeti'nin varlığının İstanbul tarafından resmen tanındığını gösterir."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Son Osmanlı Meclis-i Mebusanı tarafından kabul edilen Misak-ı Millî kararlarında özellikle hangi konu üzerine en sert vurgu yapılmıştır?",
+      "answers": [
+        "Milli sınırlar içinde vatanın bir bütün olduğu ve parçalanamayacağı",
+        "Avrupa devletleriyle ekonomik ortaklık kurulması",
+        "Saltanat rejiminin ömür boyu sürmesi",
+        "Ordunun tamamen terhis edilmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Misak-ı Millî'nin en temel esası 'Milli sınırlar içinde vatan bütündür, parçalanamaz' ilkesidir."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Misak-ı Millî kararlarının Meclis-i Mebusan'da kabul edilmesinden hemen sonra İtilaf Devletleri'nin tepkisi ne olmuştur?",
+      "answers": [
+        "İstanbul'u resmen işgal ederek meclisi basmış ve milletvekillerini sürgüne göndermişlerdir",
+        "Osmanlı'ya ekonomik yardım yapmışlardır",
+        "Bütün işgallerden vazgeçmişlerdir",
+        "Barış antlaşması imzalamışlardır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Misak-ı Millî kararlarından rahatsız olan İtilaf Devletleri, 16 Mart 1920'de İstanbul'u resmen işgal ederek Meclis-i Mebusan'ı dağıtmıştır."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "23 Nisan 1920'de Ankara'da açılan Büyük Millet Meclisi'nin (TBMM) 'kurucu meclis' olmasının temel kanıtı nedir?",
+      "answers": [
+        "Yeni bir devletin temellerini atması ve yeni bir hükümet kurması",
+        "Sadece askerlerden oluşması",
+        "İstanbul Hükümeti'nin denetiminde kalması",
+        "Padişahın onayını doğrudan alması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "TBMM, eski rejimin yapısını değiştirip yeni bir devlet ve yönetim sisteminin temelini attığı için kurucu meclis özelliğine sahiptir."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "TBMM'ye karşı İstanbul Hükümeti ve İtilaf Devletleri tarafından çıkarılan ayaklanmaların temel amacı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Milli mücadelenin başarıya ulaşmasını engellemek ve işgallerin kalıcı olmasını sağlamak",
+        "Cumhuriyet yönetimine geçişi hızlandırmak",
+        "Eğitim seviyesini artırmak",
+        "Azınlıklara haklarını vermek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "İsyancılar ve işgalciler, TBMM'nin otoritesini sarsarak milli direnişi yok etmeyi ve Sevr'i uygulamayı amaçlamıştır."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "Osmanlı Devleti'nin imzaladığı ve Türk milletine yaşama hakkı tanımayan, hukuki olarak 'ölü doğmuş' sayılan barış antlaşması hangisidir?",
+      "answers": [
+        "Lozan Barış Antlaşması",
+        "Sevr Antlaşması",
+        "Uşi Antlaşması",
+        "Bükreş Antlaşması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Sevr Antlaşması, Osmanlı Mebusan Meclisi onaylamadığı için hukuken geçersiz (ölü doğmuş) bir antlaşmadır."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "Mustafa Kemal'in Çanakkale'de Arıburnu'nda askerlerine söylediği \"Ben size taarruz emretmiyorum, ölmeyi emrediyorum!\" sözü onun hangi özelliğini gösterir?",
+      "answers": [
+        "Vatan sevgisini, kararlılığını ve liderlik vasfını",
+        "Ekonomik krizleri çözme yeteneğini",
+        "Diplomatik müzakere gücünü",
+        "Yabancı dil bilgisini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 1,
+      "explanation": "Bu emir, vatanın savunulması noktasındaki sarsılmaz kararlılığını, liderliğini ve askerlerine verdiği cesareti gösterir."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "Mondros Ateşkes Antlaşması'nın 'Vilâyat-ı Sitte' (Doğu'daki 6 il) adı verilen bölgelerde karışıklık çıkarsa buraların işgal edileceğini öngören 24. maddesinin asıl amacı nedir?",
+      "answers": [
+        "Doğu'da bir Ermeni devleti kurmak",
+        "Ekonomiyi canlandırmak",
+        "İstanbul'u korumak",
+        "Yunanistan'a toprak kazandırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Vilâyat-ı Sitte (Erzurum, Van, Elazığ, Diyarbakır, Sivas, Bitlis) maddesi, bölgede bir Ermeni devleti kurmak için zemin hazırlamak amacıyla konulmuştur."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "Sivas Kongresi'nde Temsil Heyeti'nin Ali Fuat Paşa'yı Batı Cephesi Kuvayı Milliye Komutanlığına ataması hangi yetkiyi kullandığını gösterir?",
+      "answers": [
+        "Yürütme yetkisi (Hükümet gibi hareket ettiğini)",
+        "Yasama yetkisi",
+        "Yargı yetkisi",
+        "Uluslararası ticaret yetkisi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "Temsil Heyeti, komutan ataması yaparak tıpkı bir hükümet gibi yürütme yetkisini kullanmıştır."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "Aşağıdakilerden hangisi Temsil Heyeti'nin Ankara'yı merkez (karargâh) seçmesinde etkili olan coğrafi ve stratejik nedenlerden biri **değildir**?",
+      "answers": [
+        "Ankara'nın deniz kenarında olup donanmaya sahip olması",
+        "Anadolu'nun ortasında güvenli bir konumda bulunması",
+        "Batı cephesine yakın ve demiryolu ağının merkezinde olması",
+        "Haberleşme olanaklarının elverişli olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Ankara iç kesimde yer alan bir şehirdir, denize kıyısı yoktur ve donanması bulunmamaktadır."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Misak-ı Millî'de kapitülasyonların kaldırılması, boğazların durumu ve azınlık hakları gibi konuların yer almasının temel amacı nedir?",
+      "answers": [
+        "Tam bağımsızlığı ve ekonomik siyasi özgürlüğü sağlamak",
+        "Avrupa devletleriyle borçlanmayı artırmak",
+        "Osmanlı hanedanını korumak",
+        "Ülke sınırlarını daraltmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 2,
+      "explanation": "Kapitülasyonların reddedilmesi ve azınlıklara yabancılara tanınan hakların kısıtlanması, devletin tam bağımsız olmasını amaçlar."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "Kuvayı Milliye birliklerinin kaldırılıp yerine düzenli ordunun kurulmasının kararlaştırılmasında aşağıdakilerden hangisi etkili **olmamıştır**?",
+      "answers": [
+        "Düzenli düşman ordularını durdurmada yetersiz kalmaları",
+        "Disiplinsiz ve kendi başlarına buyruk hareket etmeleri",
+        "Halktan baskıyla erzak toplamaları",
+        "Düzenli ordunun kurulmasını İngilizlerin istemesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "Düzenli ordunun kurulması Türk liderlerin (Mustafa Kemal ve TBMM'nin) aldığı bir karardır; İngilizlerin isteğiyle kurulmamıştır."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "TBMM'nin açılmasıyla birlikte kabul edilen 'Güçler Birliği' ilkesinin (Yasama, yürütme ve yargı yetkilerinin TBMM'de toplanması) temel gerekçesi nedir?",
+      "answers": [
+        "Olağanüstü savaş koşullarında hızlı ve pratik kararlar alıp uygulamak",
+        "Demokrasiyi tamamen ortadan kaldırmak",
+        "Padişahın yetkilerini artırmak",
+        "Yargı bağımsızlığını uluslararasılaştırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "Savaş ortamında meclisin uzun yargı ve yasama süreçleriyle vakit kaybetmemesi, hızlı karar alabilmesi için güçler birliği ilkesi benimsenmiştir."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "Mustafa Kemal'in Samsun'a çıktıktan sonra hazırladığı ve İstanbul Hükümeti'ne gönderdiği raporda özellikle hangi konuya dikkat çekilmiştir?",
+      "answers": [
+        "Türk milletinin yabancı mandasını kabul etmeyeceği ve işgallerin haksız olduğu",
+        "Rumların tamamen haklı olduğu",
+        "Türklerin silah bırakması gerektiği",
+        "İstanbul Hükümeti'nin kararlarının doğru olduğu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "Samsun Raporu'nda bölgedeki huzursuzluğun Türklerin değil, Rumların saldırganlığından kaynaklandığı ve Türk milletinin bağımsızlıktan vazgeçmeyeceği vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "Aşağıdaki gelişmelerden hangisi kronolojik olarak diğerlerinden **daha önce** gerçekleşmiştir?",
+      "answers": [
+        "Erzurum Kongresi'nin toplanması",
+        "Amasya Genelgesi'nin yayımlanması",
+        "Havza Genelgesi'nin yayımlanması",
+        "Sivas Kongresi'nin toplanması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+      "difficulty": 3,
+      "explanation": "Kronoloji sırası: Havza Genelgesi (Mayıs 1919) -> Amasya Genelgesi (Haziran 1919) -> Erzurum Kongresi (Temmuz 1919) -> Sivas Kongresi (Eylül 1919). Bu durumda en önce Havza Genelgesi yayımlanmıştır."
+    }
+  ]
+}

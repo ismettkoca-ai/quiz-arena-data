@@ -1,0 +1,425 @@
+{
+  "unit": "Evimiz Dünya",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "Yeryüzündeki iklim tiplerini, dağılışlarını, iklimin insan ve çevre üzerindeki etkilerini inceleyen coğrafya dalı hangisidir?",
+      "answers": [
+        "Klimatoloji (İklim Bilimi)",
+        "Demografi",
+        "Kronoloji",
+        "Numizmatik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İklimleri inceleyen bilim dalı klimatolojidir."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Dünya'nın yıllık hareketi ve 23 derece 27 dakika olan eksen eğikliği sonucunda aşağıdakilerden hangisi meydana gelir?",
+      "answers": [
+        "Mevsimlerin oluşması ve yıl boyunca gece-gündüz sürelerinin değişmesi",
+        "Günlük sıcaklık farkları",
+        "Yerel saat farkları",
+        "Güneş'in her gün aynı saatte doğması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Eksen eğikliği ve yıllık hareket mevsimleri oluşturur."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "Türkiye'nin matematiksel (mutlak) konumu göz önüne alındığında hangi iklim kuşağında yer aldığı söylenebilir?",
+      "answers": [
+        "Kuzey Ilıman (Orta) Kuşak",
+        "Kutup Kuşağı",
+        "Tropikal (Sıcak) Kuşak",
+        "Güney Ilıman Kuşak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Türkiye 36-42 kuzey paralellerinde yer aldığı için orta (ılıman) kuşaktadır."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "Atmosferdeki sera gazlarının (karbondioksit vb.) miktarının artmasıyla dünyada sıcaklığın ortalama olarak yükselmesi olayına ne ad verilir?",
+      "answers": [
+        "Küresel iklim değişikliği (Küresel Isınma)",
+        "Ozon tabakasının kalınlaşması",
+        "Buzul çağı",
+        "Muson yağmurları"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Atmosferdeki ısı tutulumunun artması küresel ısınmaya yol açar."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "Aşağıdakilerden hangisi küresel iklim değişikliğinin sonuçlarından biri DEĞİLDİR?",
+      "answers": [
+        "Kutuplardaki buzulların erimesi ve deniz seviyesinin yükselmesi",
+        "Kuraklık, çölleşme ve aşırı hava olayları",
+        "Dünya genelinde tatlı su kaynaklarının azalması",
+        "Güneş'in batıdan doğmaya başlaması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Güneş'in doğudan doğması astronomik bir düzendir, iklim değişikliğiyle değişmez."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "Nüfusun dağılışını etkileyen faktörler 'doğal' ve 'beşeri' olarak ikiye ayrılır. Aşağıdakilerden hangisi 'beşeri faktör'dür?",
+      "answers": [
+        "Sanayi, ticaret ve iş imkanları",
+        "İklim ve sıcaklık",
+        "Su kaynakları ve akarsular",
+        "Yeryüzü şekilleri (dağlar)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Sanayi ve ticaret insan yapımı beşeri faktörlerdir."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "Türkiye'de nüfusun kıyı kesimlerde ve ovalık alanlarda iç kesimlere göre daha yoğun olmasının en temel nedeni nedir?",
+      "answers": [
+        "İklimin elverişli, ulaşım, tarım ve ticaret imkanlarının gelişmiş olması",
+        "İç kesimlerin çok fazla deniz kenarında olması",
+        "Dağların yüksek olması",
+        "Her yerin ormanla kaplı olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Elverişli iklim ve ulaşım kıyılarda nüfusu artırmıştır."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "Dünya genelinde nüfusun en seyrek olduğu (az insan yaşadığı) yerler genellikle hangi bölgelerdir?",
+      "answers": [
+        "Çöller, kutuplar ve yüksek dağlık / sarp alanlar",
+        "Nehir kenarları ve verimli ovalar",
+        "Sanayi şehirleri",
+        "Liman kentleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Aşırı sıcak, aşırı soğuk ve dağlık yerler yaşama elverişsiz olduğu için seyrek nüfusuudur."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "Birleşmiş Milletler mülteci ve çevre raporlarına göre iklim mültecileri kimlerdir?",
+      "answers": [
+        "İklim değişikliği ve kuraklık yüzünden topraklarını terk etmek zorunda kalan insanlar",
+        "Uzaya seyahat eden astronotlar",
+        "Kış tatiline giden turistler",
+        "Sadece yazın göç edenler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "İklim krizleri (su kıtlığı, seller) nedeniyle yerinden olanlar iklim mültecisidir."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "Haritalarda yer şekillerinin (dağlar, vadiler) yükselti basamaklarını ve eğimlerini göstermek için çizilen eş yükselti eğrilerinin diğer adı nedir?",
+      "answers": [
+        "İzohips",
+        "Lejant",
+        "Meridyen",
+        "Ölçek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Eş yükselti eğrilerine izohips denir."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "Aşağıdakilerden hangisi karbon ayak izini azaltmak (doğayı korumak) için bireysel olarak yapabileceğimiz doğru bir davranıştır?",
+      "answers": [
+        "Toplu taşıma kullanmak, elektrik tasarrufu yapmak ve geri dönüşüme katkı sağlamak",
+        "Klima ve kaloriferleri sürekli sonuna kadar açmak",
+        "Plastik poşetleri doğaya atmak",
+        "Gereksiz yere özel araçla trafikte gezmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Enerji tasarrufu ve toplu taşıma karbon salınımını azaltır."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Türkiye'de iç kesimlerde (örneğin İç Anadolu'da) Karasal iklim görülmesinin temel coğrafi sebebi nedir?",
+      "answers": [
+        "Deniz etkisinin dağlar nedeniyle iç kesimlere sokulamaması ve denizden uzak olunması",
+        "Ekvatora çok yakın olması",
+        "Her mevsim çok fazla yağış alması",
+        "Yıl boyunca kar yağması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Dağların kıyıya paralel uzanması deniz etkisinin içeri girmesini engeller."
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "Harita üzerinde iki nokta arasındaki kuş uçuşu mesafenin, haritanın ölçeği ile çarpılmasıyla ne bulunur?",
+      "answers": [
+        "Gerçek uzunluk",
+        "Çizgi ölçek",
+        "Kroki alanı",
+        "Enlem derecesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Harita uzunluğu ile ölçeğin paydası çarpılarak gerçek uzunluk bulunur."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Yeryüzündeki su kaynaklarının (okyanuslar, denizler, buzullar, akarsular) oluşturduğu su katmanına ne ad verilir?",
+      "answers": [
+        "Hidrosfer (Su küre)",
+        "Atmosfer",
+        "Litosfer",
+        "Biyosfer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünyadaki tüm suların oluşturduğu katmana hidrosfer denir."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "Aşağıdakilerden hangisi nüfus sayımlarının devlete sağladığı faydalardan biri değildir?",
+      "answers": [
+        "Ülkedeki okul, hastane ve yol ihtiyacını planlamak",
+        "Halkın yaş, cinsiyet ve meslek dağılımını öğrenmek",
+        "Hangi vatandaşın hangi futbol takımını tuttuğunu bulmak",
+        "Gelecekteki yatırımları planlamak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Nüfus sayımları kişisel eğlence veya futbol takımı tespiti için yapılmaz; kamusal planlama içindir."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "Dünya'nın eksen eğikliği olmasaydı (yani 0 derece olsaydı) aşağıdakilerden hangisi gerçekleşirdi?",
+      "answers": [
+        "Mevsimler oluşmaz, yıl boyunca güneş ışınları aynı açıyla gelir ve sıcaklık sabit kalırdı.",
+        "Gece ve gündüz birbirine eşit olmazdı.",
+        "Yıl 365 gün olmazdı.",
+        "Günlük hareket ortadan kalkardı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Eksen eğikliği olmasaydı mevsimler oluşmazdı."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "Türkiye'de yaz mevsiminde güneyden kuzeye doğru gidildikçe sıcaklığın genellikle azalmasının temel sebebi nedir?",
+      "answers": [
+        "Enlem (Ekvator'a olan mesafe)",
+        "Yeraltı kaynakları",
+        "Saat dilimi",
+        "Meridyen farkı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Ekvator'a yakın olan güney bölgelerimiz kuzeye göre güneş ışınlarını daha dik alır."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "Aşağıdaki iklim tiplerinden hangisinde her mevsim düzenli yağış görülür ve bitki örtüsü gür ormanlardır?",
+      "answers": [
+        "Karadeniz İklimi",
+        "Karasal İklim",
+        "Akdeniz İklimi",
+        "Çöl İklimi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Karadeniz iklimi her mevsim yağışlı ve gür orman örtüsüne sahiptir."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "Akdeniz ikliminin görüldüğü bölgelerde yazlar sıcak ve kurak, kışlar nasıl geçer?",
+      "answers": [
+        "Ilık ve yağmurlu",
+        "Sürekli don ve kar yağışlı",
+        "Çok şiddetli ve buzlu",
+        "Yağışsız ve kurak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Akdeniz ikliminde kışlar ılık ve yağışlı geçer."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "Bir yerde uzun yıllar boyunca süren hava olaylarının ortalamasına ne ad verilir?",
+      "answers": [
+        "İklim",
+        "Hava durumu",
+        "Rüzgar",
+        "Basınç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Geniş alanda uzun süreli ortalama hava olayları iklimdir."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "Günlük kıyafetlerimizi seçerken veya yarın pikniğe gidip gidemeyeceğimizi planlarken hangi veriye bakarız?",
+      "answers": [
+        "Günlük hava durumu tahminlerine",
+        "Yıllık iklim ortalamalarına",
+        "Nüfus sayım sonuçlarına",
+        "İzohips haritalarına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Günlük planlar anlık hava durumu tahminlerine dayanır."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "Harita okuma terimlerinden olan 'ölçek' küçük ölçekli ve büyük ölçekli olarak ikiye ayrılır. Aşağıdakilerden hangisi 'Büyük Ölçekli' haritaların özelliğidir?",
+      "answers": [
+        "Ayrıntı fazla, küçültme oranı az, gösterilen alan dar",
+        "Ayrıntı az, küçültme oranı çok fazla, gösterilen alan geniş",
+        "Sadece kıtaları gösteren haritalardır",
+        "Ölçeğin paydasındaki sayı çok büyüktür"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Büyük ölçekli haritalar küçük alanı çok ayrıntılı gösterir."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "Doğal afetlerin (deprem, heyelan, sel) zararlarını en aza indirmek için yapılan bilimsel planlama ve hazırlık çalışmalarına ne ad verilir?",
+      "answers": [
+        "Afet yönetimi ve bilinçlendirme",
+        "Afetleri görmezden gelme",
+        "Doğanın akışına bırakma",
+        "Göç etme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Afet öncesi ve sonrası yapılan planlamalar afet yönetimidir."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "Dünya'nın Güneş etrafında dolanması sırasında elips bir yörünge izlemesi ve eksen eğikliği neye yol açar?",
+      "answers": [
+        "Mevsim sürelerinin yarım kürelerde farklı olmasına (örneğin Kuzey'de yazın daha uzun sürmesi)",
+        "Güneş'in hiç batmamasına",
+        "Yer çekiminin sıfırlanmasına",
+        "Haritaların bozulmasına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Elips yörünge ve hız değişimleri yarım kürelerde mevsim sürelerinin farklılaşmasına neden olur."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Türkiye'de özellikle Karadeniz bölgesinde dağ yamacında yer alan köylerde sıkça görülen, toprak kütlesinin yağışlarla birlikte aşağı kayması şeklindeki doğal afetin adı nedir?",
+      "answers": [
+        "Heyelan (Toprak kayması)",
+        "Çığ",
+        "Deprem",
+        "Volkanizma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Eğitimin ve yağışın bol olduğu yerlerde görülen toprak kayması heyelandır."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Bir coğrafya öğretmeni sınıfa harita getirerek 'Bu haritada iki şehir arasındaki kuş uçuşu uzaklık 5 cm'dir. Haritanın ölçeği ise 1 / 2.000.000'dur' demiştir. Buna göre bu iki şehir arasındaki gerçek uzaklık kaç kilometredir?",
+      "answers": [
+        "100 km",
+        "10 km",
+        "1000 km",
+        "200 km"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Gerçek Uzunluk = Harita Uzunluğu (5 cm) · Ölçek Paydası (2.000.000 cm) = 10.000.000 cm. Santimetreyi kilometreye çevirmek için 5 sıfır sileriz: 100 km."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "Aşağıdakilerden hangisi bir yerin ikliminin o bölgedeki bitki örtüsünü belirlediğine kanıttır?",
+      "answers": [
+        "Kurak ve az yağışlı yerlerde bozkır (step) bitki örtüsünün görülmesi",
+        "Her yerde aynı bitkinin yetişmesi",
+        "İklim ile bitkilerin hiç ilgisinin olmaması",
+        "Ormanların çölde yetişmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "İklim ve yağış rejimi doğrudan doğal bitki örtüsünü şekillendirir."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "Nüfus piramitleri incelenerek bir ülkenin hangi özellikleri hakkında bilgi edinilemez?",
+      "answers": [
+        "Ülkenin resmi dili ve dini inancı",
+        "Genç ve yaşlı nüfus oranları",
+        "Ülkenin gelişmişlik düzeyi",
+        "Kadın ve erkek nüfus dağılımı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Nüfus piramitleri yaş ve cinsiyet yapısını gösterir; dil ve din hakkında bilgi vermez."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "Aşağıdakilerden hangisi rüzgar erozyonunu (toprağın rüzgarla süpürülmesini) önlemek için alınacak en etkili önlemdir?",
+      "answers": [
+        "Ağaçlandırma (rüzgar kıranlar oluşturma) ve bitki örtüsünü korumak",
+        "Tarlaları ateşe vermek",
+        "Toprağı hiç sürmemek",
+        "Beton döküp kapatmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Ağaçlandırma rüzgarın hızını keserek erozyonu engeller."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Türkiye'nin matematiksel konumundan dolayı yıl içinde dört mevsimin belirgin olarak yaşanmasının sebebi nedir?",
+      "answers": [
+        "Orta (Ilıman) kuşakta yer alması",
+        "Kutup noktasına çok yakın olması",
+        "Ekvator üzerinde bulunması",
+        "Çevresinin denizlerle çevrili olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Orta kuşakta yer alan ülkelerde dört mevsim belirgin olarak yaşanır."
+    }
+  ]
+}

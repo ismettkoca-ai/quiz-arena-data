@@ -1,0 +1,425 @@
+{
+  "unit": "İletişim ve Sosyal İlişkiler",
+  "questions": [
+    {
+      "id": "Q_6_4_001",
+      "questionText": "İnsanlar arasında duygu, düşünce ve bilgi alışverişine ne ad verilir?",
+      "answers": [
+        "İletişim",
+        "Empati",
+        "Tartışma",
+        "Sohbet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Duygu, düşünce ve bilgilerin akla gelen her türlü yolla başkalarına aktarılması sürecine iletişim denir."
+    },
+    {
+      "id": "Q_6_4_002",
+      "questionText": "Karşımızdakinin duygularını anlamak için kendimizi onun yerine koymaya ne denir?",
+      "answers": [
+        "Empati",
+        "Sempati",
+        "Ön yargı",
+        "Nezaket"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Bir kişinin kendini başka birinin yerine koyarak onun duygularını ve düşüncelerini doğru anlamasına empati denir."
+    },
+    {
+      "id": "Q_6_4_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişi (şahıs) zamiri' kullanılmıştır?",
+      "answers": [
+        "Biz bu projeyi arkadaşımla birlikte hazırladık.",
+        "Şu tabloyu duvara asalım.",
+        "Bu insanları daha önce hiç görmemiştim.",
+        "Herkes toplantı saatine uymalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "'Biz' kelimesi insanların yerini tutan bir kişi zamiridir."
+    },
+    {
+      "id": "Q_6_4_004",
+      "questionText": "'Söz ağızdan çıkana esirdir, çıktıktan sonra sen onun esiri olursun.' atasözü bize neyi öğütler?",
+      "answers": [
+        "Konuşurken çok dikkatli olmamız gerektiğini ve ağzımızdan çıkan sözün sorumluluğunu",
+        "İstediğimiz her şeyi herkese rahatça söyleyebileceğimizi",
+        "Sürekli susmamız ve hiç konuşmamamız gerektiğini",
+        "Verdiğimiz sözleri hiçbir zaman tutmamamız gerektiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Bu atasözü ağzımızdan çıkan sözlerin sorumluluğunun büyük olduğunu, söylemeden önce iyice düşünmemiz gerektiğini vurgular."
+    },
+    {
+      "id": "Q_6_4_005",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'edat (ilgeç)'tir?",
+      "answers": [
+        "Gibi",
+        "Ama",
+        "Fakat",
+        "Ve"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Gibi' kelimesi tek başına anlamı olmayan, benzetme veya benzerlik kuran bir edattır."
+    },
+    {
+      "id": "Q_6_4_006",
+      "questionText": "'Etkili iletişim kurmak için göz teması kurmalıyız.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Göz teması kurmalarının amacı 'etkili iletişim kurmak'tır (amacıyla ifadesi yer alır)."
+    },
+    {
+      "id": "Q_6_4_007",
+      "questionText": "'Ön yargı' kelimesinin eş anlamlısı sayılabilecek kavram nedir?",
+      "answers": [
+        "Peşin hüküm",
+        "Tarafsızlık",
+        "Anlayış",
+        "Empati"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Ön yargı, bir kişi veya durum hakkında yeterli bilgi sahibi olmadan önceden karar verme durumudur (peşin hüküm)."
+    },
+    {
+      "id": "Q_6_4_008",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'belgisiz zamir'dir?",
+      "answers": [
+        "Kimse",
+        "Sen",
+        "O",
+        "Hangi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Kimse' sözcüğü insan isimlerinin yerini belirsiz bir şekilde tuttuğu için belgisiz zamirdir."
+    },
+    {
+      "id": "Q_6_4_009",
+      "questionText": "'İletişim kuralları' tamlamasının türü nedir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Tamlayanın (iletişim) ek almadığı, tamlananın (kural-lar-ı) iyelik eki aldığı tamlamalara belirtisiz isim tamlaması denir."
+    },
+    {
+      "id": "Q_6_4_010",
+      "questionText": "Hangi cümlede 'işaret zamiri' kullanılmıştır?",
+      "answers": [
+        "Şunu arkadaşına hemen verebilir misin?",
+        "Bu konuyu seninle yarın tartışacağız.",
+        "Şu insanları sakinleştirmek gerekiyor.",
+        "O adam bizimle iletişim kurmak istemiyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Şunu' kelimesi bir nesnenin yerini işaret yoluyla tuttuğu için işaret zamiridir."
+    },
+    {
+      "id": "Q_6_4_011",
+      "questionText": "'Tatlı diliyle herkesi kendine hayran bıraktı.' cümlesindeki 'tatlı' kelimesi hangi anlamda kullanılmıştır?",
+      "answers": [
+        "Mecaz Anlam (Kibar, hoş ve etkileyici)",
+        "Gerçek Anlam (Şekerli lezzet)",
+        "Terim Anlam",
+        "Somut Anlam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Tatlı dil, lezzetli anlamında değil; kibar, nazik ve hoş konuşma anlamında mecazdır."
+    },
+    {
+      "id": "Q_6_4_012",
+      "questionText": "Karşısındakini dinlemeden sürekli kendi konuşan kişiler için hangi deyim kullanılır?",
+      "answers": [
+        "Lafı ağzından tıkamak / Konuşmasına fırsat vermemek",
+        "Can kulağıyla dinlemek",
+        "Kulak misafiri olmak",
+        "Ağzı bal damlamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Karşısındakinin sözünü bitirmesine izin vermeden sürekli konuşanlara laf anlatılmaz veya lafı ağzından alınır."
+    },
+    {
+      "id": "Q_6_4_013",
+      "questionText": "'Sohbet' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Söyleşi",
+        "Tartışma",
+        "Kavga",
+        "Sessizlik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Sohbet kelimesinin eş anlamlısı söyleşi kelimesidir."
+    },
+    {
+      "id": "Q_6_4_014",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Geç kalacağı için arkadaşına haber verdi.",
+        "Arkadaşına haber vermek amacıyla telefon açtı.",
+        "Eğer erken çıkarsan trafiğe kalmazsın.",
+        "İyi bir dinleyici olmak iletişimi güçlendirir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Haber vermesinin nedeni 'geçe kalacak olması'dır. Eylem gerçekleşmiştir."
+    },
+    {
+      "id": "Q_6_4_015",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'soyut' bir kavramdır?",
+      "answers": [
+        "Saygı",
+        "Telefon",
+        "Mektup",
+        "Bilgisayar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Saygı beş duyu organımızla algılayamadığımız bir duygu olduğu için soyuttur."
+    },
+    {
+      "id": "Q_6_4_016",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Karşındakini dikkatle dinlersen o da seni dinler.",
+        "Karşısındakinidinlemediği için sorun yaşadılar.",
+        "İletişim becerilerini geliştirmek için kitap okuyor.",
+        "Konuşurken beden dilini çok iyi kullanıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Karşısındakinin de dinlemesinin şartı 'senin onu dikkatle dinlemen'dir (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_4_017",
+      "questionText": "'Kırmak' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Sert sözlerinle onun kalbini çok kırdın.",
+        "Bahçedeki kuru dalları kırıp ateşe attı.",
+        "Yanlışlıkla bardağı masadan düşürüp kırdı.",
+        "Cevizleri kırmak için taş arıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Kalp kırmak, birini üzmek ve incitmek demektir; mecaz anlam taşır."
+    },
+    {
+      "id": "Q_6_4_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Yazılı iletişim, sözlü iletişime göre bazen daha avantajlıdır.",
+        "İnsanlar gün boyunca pek çok kişiyle iletişim kurar.",
+        "Sosyal ilişkilerde dürüstlük en önemli esastır.",
+        "Toplum içinde kibar ve nazik olmalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Yazılı iletişim ile sözlü iletişim 'avantajlı olma' yönünden 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_6_4_019",
+      "questionText": "'Ses' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Ses - i)",
+      "answers": [
+        "Ses kelimesinde yumuşama veya düşme olmaz (Sesi - yardımcı ses ile)",
+        "Ünsüz Yumuşaması",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Ses kelimesi ünlü bir ek aldığında (ses-i) yumuşama veya düşmeye uğramaz, doğrudan iyelik ekini alır."
+    },
+    {
+      "id": "Q_6_4_020",
+      "questionText": "Soru bildiren kelimelerin ismin yerini soru yoluyla tuttuğu sözcüklere 'soru zamiri' denir. Hangisinde soru zamiri vardır?",
+      "answers": [
+        "Toplantıya kim katılacak?",
+        "Hangi gün buluşacağız?",
+        "Nasıl bir hediye aldın?",
+        "Kaç kişi gelecekti?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Kim' sorusunun cevabı bir isimdir (Ahmet katılacak), bu yüzden soru zamiridir."
+    },
+    {
+      "id": "Q_6_4_021",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yüz",
+        "İletişim",
+        "Empati",
+        "Saygı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "'Yüz' kelimesi sayı, insan suratı, suda yüzmek gibi farklı anlamlara geldiği için sesteştir."
+    },
+    {
+      "id": "Q_6_4_022",
+      "questionText": "Tırnak işareti ( \" \" ) hangi amaçla KULLANILMAZ?",
+      "answers": [
+        "Özel isimlere gelen ekleri ayırmak için",
+        "Başka bir kimseden aktarılan sözleri belirtmek için",
+        "Özel olarak vurgulanmak istenen sözleri belirtmek için",
+        "Yazı başlıklarını belirtmek için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Özel isimlere gelen ekler kesme işareti (') ile ayrılır, tırnak işareti ile ayrılmaz."
+    },
+    {
+      "id": "Q_6_4_023",
+      "questionText": "'Öfke' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kızgınlık / Hırs",
+        "Mutluluk",
+        "Huzur",
+        "Sevgi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Öfke kelimesinin eş anlamlısı kızgınlık veya hısdır."
+    },
+    {
+      "id": "Q_6_4_024",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Senide yarınki toplantıda aramızda görmek istiyoruz.",
+        "Toplantıya o da katılacağını söyledi.",
+        "İyi bir iletişim başarıyı getirir.",
+        "Konuşurken kelimeleri özenle seçmeliyiz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Dahi/bile anlamı katan 'de' bağlacı ayrı yazılmalıdır. 'Sen de' olmalıydı."
+    },
+    {
+      "id": "Q_6_4_025",
+      "questionText": "Bir paragrafın ana düşüncesi (ana fikri) aranırken hangi soruya yanıt aranır?",
+      "answers": [
+        "Yazarın bu yazıyı yazmaktaki asıl amacı nedir?",
+        "Metinde kaç tane karakter vardır?",
+        "Olay nerede geçmektedir?",
+        "Yazar hangi kelimeleri tekrarlamıştır?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya iletmek istediği temel mesajı ve yazılış amacını verir."
+    },
+    {
+      "id": "Q_6_4_026",
+      "questionText": "Aşağıdaki kelimelerden hangisi yapı bakımından 'türemiş' bir sözcüktür?",
+      "answers": [
+        "Düşünce (Düşün-ce)",
+        "İnsan",
+        "Toplum",
+        "Kitap"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Düşünmek' fiiline gelen '-ce' yapım ekiyle türemiş bir isim olmuştur. Diğerleri kök halindedir."
+    },
+    {
+      "id": "Q_6_4_027",
+      "questionText": "'Açık' kelimesi hangi cümlede gerçek anlamında kullanılmıştır?",
+      "answers": [
+        "Hava sıcak olduğu için pencereyi açık bırakmış.",
+        "Bana karşı her zaman çok açık sözlüdür.",
+        "Öğretmen konuyu çok açık bir dille anlattı.",
+        "Arasındaki sorunları açık bir şekilde konuştular."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Pencerenin kapalı olmayıp açık olması fiziksel bir durumdur ve gerçek anlamdadır. Diğerlerinde mecazdır."
+    },
+    {
+      "id": "Q_6_4_028",
+      "questionText": "İletişimde karşısındakini eleştirmeden, suçlamadan, kendi duygularını ifade eden cümlelere ne denir? (Örn: ... olduğumda üzülüyorum)",
+      "answers": [
+        "Ben dili",
+        "Sen dili",
+        "Emir cümlesi",
+        "Olumsuz cümle"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Suçlayıcı olmayan, kişinin kendi duygularını ve hislerini aktaran iletişim diline 'Ben dili' denir."
+    },
+    {
+      "id": "Q_6_4_029",
+      "questionText": "Hangi cümlede 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Sevinçten havalara uçtu, ayakları yerden kesildi.",
+        "Toplantıda herkes sırayla söz aldı.",
+        "Konuşurken karşısındakinin gözlerinin içine baktı.",
+        "İyi bir iletişim için sabırlı olmalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Sevinçten havalara uçmak ve ayakların yerden kesilmesi gerçekte olamayacak bir durumu abartarak anlatan bir ifadedir."
+    },
+    {
+      "id": "Q_6_4_030",
+      "questionText": "Bir toplulukta veya bireyler arasında uyumlu, huzurlu ve sevgi dolu ilişkilerin temel unsuru aşağıdakilerden hangisidir?",
+      "answers": [
+        "Saygı ve etkili iletişim",
+        "Sürekli kavga etmek",
+        "Kimseyle konuşmamak",
+        "Sadece kendi haklarını savunmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Sağlıklı sosyal ilişkilerin ve huzurun temelinde karşılıklı saygı ve doğru iletişim yatar."
+    }
+  ]
+}

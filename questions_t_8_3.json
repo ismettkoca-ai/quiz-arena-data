@@ -1,0 +1,425 @@
+{
+  "unit": "Parçada Anlam (Paragraf)",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "Bu metinde asıl anlatılmak istenen (ana düşünce) aşağıdakilerden hangisidir?\n\n'Sanatçı, yaşadığı dönemin sadece bir gözlemcisi değil, aynı zamanda geleceğe ışık tutan bir rehberidir. O, toplumun aksayan yönlerini herkesten önce fark eder ve bunları eserlerinde estetik bir süzgeçten geçirerek halkın beğenisine sunar. Gerçek sanat, toplumsal sorunlara sırt çevirmediği ölçüde kalıcı ve evrensel bir değer kazanır.'",
+      "answers": [
+        "Sanatçılar eserlerinde sadece kendi bireysel duygularına yer vermelidir.",
+        "Gerçek sanat ve sanatçı, toplumsal sorunlara duyarlı olup geleceğe yön vermesiyle kalıcılık yakalar.",
+        "Toplumun beğenisini kazanmak her sanatçının en temel hedefi olmalıdır.",
+        "Sanat eserleri geçmişin izlerini bugüne taşımakla sınırlı kalmalıdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 1,
+      "explanation": "Metinde sanatçının toplumun sorunlarına duyarlı olması, rehberlik etmesi ve bu sayede kalıcı/evrensel olabileceği vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "Bu parçada altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?\n\n'Edebiyat dünyasında bazı yazarlar vardır ki yazdıkları her satırda adeta kendi ruhunu ortaya koyar, okuyucuya yabancılaşmaz. Onların eserlerinde yapmacıklıktan uzak, son derece samimi bir ses yankılanır. Bu tür yazarlar, kaleme sarıldıklarında **fildişi kulelerinden inip** doğrudan halkın kalbine dokunmayı başarırlarsa gerçek başarıyı yakalayabilirler.'",
+      "answers": [
+        "Halktan kopuk, yalnız ve gerçeklerden uzak yaşam biçimini bırakıp halkın arasına karışmak",
+        "Eserlerinde sadece üst düzey edebi sanatlar ve ağır bir dil kullanmak",
+        "Eleştirilere kulak tıkayıp yalnızca kendi yazdıklarıyla mutlu olmak",
+        "Geçmişin kalıplaşmış kurallarına sıkı sıkıya bağlı kalmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 1,
+      "explanation": "'Fildişi kulesinden inmek' deyimi, toplumdan soyutlanmış, halkın sorunlarına yabancı kalmış kişilerin bu tutumunu bırakıp halkla iç içe olmasını ifade eder."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "Bu parçanın anlatımında aşağıdaki düşünceyi geliştirme yollarından hangisi ağırlıklı olarak kullanılmıştır?\n\n'Kitap okumak, insan zihnini geliştiren en etkili zihinsel egzersizlerden biridir. Nasıl ki düzenli spor yapmak kas yapımızı güçlendiriyorsa, her gün düzenli kitap okumak da hafızamızı ve anlama kapasitemizi o derece güçlendirir. Okuma alışkanlığı kazanan bireylerin kelime hazinesi genişler, olaylara farklı perspektiflerden bakma yeteneği kazanırlar.'",
+      "answers": [
+        "Tanık gösterme",
+        "Sayısal verilerden yararlanma",
+        "Benzetme",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 1,
+      "explanation": "Metinde kitap okumanın zihinsel gelişime katkısı, düzenli spor yapmanın kasları güçlendirmesine benzetilerek açıklanmıştır (Benzetme)."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "Bu parçada aşağıdakilerden hangisine değinilmemiştir (yardımcı düşünce)?\n\n'Anadolu, binlerce yıllık tarihi boyunca pek çok medeniyete ev sahipliği yapmış eşsiz bir coğrafyadır. Bu topraklar üzerinde kurulan her uygarlık, kendine has kültürel izlerini bu topraklara mühürlemiştir. Günümüzde bu tarihi zenginliği korumak ve gelecek nesillere aktarmak hepimizin ortak sorumluluğudur. Ancak ne yazık ki bilinçsiz kentleşme ve turistik tahribat bu tarihi mirası her geçen gün biraz daha yok etmektedir.'",
+      "answers": [
+        "Anadolu'nun pek çok farklı medeniyete ev sahipliği yaptığına",
+        "Tarihi mirasın korunmasının ortak sorumluluk olduğuna",
+        "Bilinçsiz yapılaşmanın tarihi mirasa zarar verdiğine",
+        "Anadolu'daki en eski yerleşim yerinin hangi medeniyete ait olduğuna"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 1,
+      "explanation": "Metinde Anadolu'nun zenginliğinden, korunması gerektiğinden ve tahribattan bahsedilmiştir ancak en eski yerleşim yerinin neresi olduğuna değinilmemiştir."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "Bu metnin anlatım biçimi aşağıdakilerden hangisidir?\n\n'Sabahın erken saatlerinde sisler arasında kaybolan taş evlerin arasından yavaşça yürüdüm. Dar sokakların iki yanında sırasıyla dizilmiş eski ahşap dükkanlar, geçmişin izlerini hala gururla taşıyordu. Pencerelerden sarkan sarmaşıklar, köyün sessizliğine ayrı bir hüzün katarken, uzaklardaki horoz sesleri sabahın sükunetini yavaşça bozuyordu.'",
+      "answers": [
+        "Tartışma",
+        "Öyküleme",
+        "Betimleme",
+        "Açıklama"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 1,
+      "explanation": "Metinde olay akışından ziyade varlıkların okuyucunun gözünde canlanmasını sağlayacak nitelikte ayırt edici özellikler (görsel unsurlar) verilmiştir; bu betimlemedir."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "Bu metnin anlatımında hangi iki düşünceyi geliştirme yolu birlikte kullanılmıştır?\n\n'Geleneksel el sanatlarımızdan biri olan ebru sanatı, suyun üzerine boyaların damlatılmasıyla yapılan eşsiz bir görsel şölendir. Ünlü ebruzenlerin de belirttiği gibi \"Ebru, sabrın suyla ve boyayla dansıdır.\" Bu sanat dalında kullanılan kitreli suyun yoğunluğu, boyanın suda yayılma oranını doğrudan belirler. Örneğin, yoğunluğu az olan suda boyalar hızla dibe çöker ve dağılır.'",
+      "answers": [
+        "Tanık gösterme - Örnekleme",
+        "Karşılaştırma - Tanımlama",
+        "Sayısal veri - Benzetme",
+        "Tanık gösterme - Öyküleme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde uzmanların/ebruzenlerin sözüne yer verilerek 'tanık gösterme', ebru sanatının yapılışına dair detay verilirken de 'örnekleme' yapılmıştır."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "Bu metin iki paragrafa bölünmek istenirse ikinci paragraf hangi cümleyle başlamalıdır?\n\n(I) Roman, yazarın iç dünyasını ve toplumsal gözlemlerini harmanladığı en geniş soluklu edebi türdür. (II) Her roman yazarı, yarattığı karakterler aracılığıyla kendi felsefesini okuyucuya aktarmaya çalışır. (III) Türk romanı, Batı edebiyatına kıyasla geç gelişmiş olmasına rağmen kısa sürede büyük bir ivme yakalamıştır. (IV) Özellikle son yıllarda yayımlanan romanlarda teknik açıdan büyük bir olgunluk göze çarpmaktadır.",
+      "answers": [
+        "I. cümle",
+        "II. cümle",
+        "III. cümle",
+        "IV. cümle"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "I ve II. cümleler genel olarak roman türünün tanımı ve yazarın işlevi üzerine kuruludur. III. cümle ise konuyu değiştirerek 'Türk romanının gelişim sürecine' geçiş yapar."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "Bu parçada boş bırakılan yere düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?\n\n'Başarılı olmak isteyen bir insanın önündeki en büyük engellerden biri _____________. Karamsarlık, kişinin enerjisini tüketmekle kalmaz, aynı zamanda potansiyelini ortaya koymasını da engeller. Oysa zorluklar karşısında umudunu koruyan bireyler, her engeli bir basamak olarak görüp zirveye ulaşmayı başarırlar.'",
+      "answers": [
+        "zamanı verimli kullanamamaktır",
+        "aşırı öz güven sahibi olmaktır",
+        "umutsuzluğa kapılıp pes etmektir",
+        "çevresindeki insanlardan destek almamaktır"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Paragrafın devamında karamsarlıktan ve umudu korumaktan bahsedildiği için boşluğa en uygun ifade pes etmektir (umutsuzluktur)."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "Bu parçada numaralanmış cümlelerin hangisi düşüncenin akışını bozmaktadır?\n\n'(I) Fotoğrafçılık, sadece deklanşöre basıp anı dondurmaklıktan ibaret değildir. (II) Gerçek bir fotoğrafçı, çektiği karede ışığı, gölgeyi ve hikayeyi ustaca buluşturur. (III) Dijital makinelerin fiyatları son yıllarda oldukça uygun seviyelere geriledi. (IV) Objektifin arkasındaki bakış açısı, sıradan bir manzarayı bile sanat eserine dönüştürebilir.'",
+      "answers": [
+        "I. cümle",
+        "II. cümle",
+        "III. cümle",
+        "IV. cümle"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "I, II ve IV. cümleler fotoğrafçılığın sanatsal yönü ve teknik bakış açısıyla ilgilidir. III. cümle ise dijital makinelerin fiyatından bahsettiği için akışı bozar."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "Aşağıdaki cümleler anlamlı bir bütün oluşturacak şekilde sıralandığında hangisi baştan üçüncü olur?\n\nI. Bu durum, onun sanat dünyasında özgün bir yere sahip olmasını sağlamıştır.\nII. Ancak o, hiçbir akımın etkisinde kalmadan kendi üslubunu yaratmıştır.\nIII. Sanat hayatının ilk yıllarında klasik tarzda eserler vermiştir.\nIV. Eserlerinde gözlemlerini kendi süzgecinden geçirerek özgün bir biçimde aktarmıştır.",
+      "answers": [
+        "I. cümle",
+        "II. cümle",
+        "III. cümle",
+        "IV. cümle"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Sıralama şöyle olur: III (Sanat hayatının ilk yıllarında klasik tarzda eserler vermiştir.) -> II (Ancak o, hiçbir akımın etkisinde kalmadan...) -> IV (Eserlerinde gözlemlerini kendi süzgecinden geçirerek...) -> I (Bu durum, onun sanat dünyasında...). Baştan üçüncü IV. cümle olur."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "Bu metne göre 'başarılı bir yazar'da bulunması gereken en temel özellik aşağıdakilerden hangisidir?\n\n'Bir yazarın kalıcılığı yakalayabilmesi, okuyucunun kalbine dokunabilen evrensel temaları işlemesine bağlıdır. Yazar, sadece kendi yaşadığı dönemin kısır çekişmelerine hapsolmamalı, insan ruhunun derinliklerine inebilmelidir. Dilin inceliklerini ustalıkla kullanmak ise bu derinliği okura aktarmanın en temel aracıdır.'",
+      "answers": [
+        "Eserlerinde sadece güncel politik konuları ele alması",
+        "Evrensel temaları işleyip dili ustalıkla kullanarak okura ulaşması",
+        "Sadece popüler kültürün beklentilerine göre yazması",
+        "Eserlerinde yabancı sözcüklere geniş yer vermesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde kalıcılığın evrensel temaları işlemekten ve dili ustalıkla kullanmaktan geçtiği açıkça vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "Bu parçada yazara göre eleştirmenin asıl görevi aşağıdakilerden hangisidir?\n\n'Eleştirmen, bir eseri karalamak veya övmekle görevli sıradan bir okur değildir. O, eserin katmanları arasında gezinen, yazarın bile fark etmediği ince detayları gün yüzüne çıkaran rehberdir. Eseri nesnel bir bakış açısıyla inceleyerek okura yol gösteren bir pusula görevi üstlenmelidir.'",
+      "answers": [
+        "Eserin eksiklerini bulup yazarın hevesini kırarak piyasadan silmek",
+        "Eseri derinlemesine inceleyip nesnel bir yaklaşımla okura rehberlik etmek",
+        "Yazarın dostu olup her yazdığı kitabı övgülerle karşılamak",
+        "Kitabın satış rakamlarını artırmak için reklamını yapmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde eleştirmenin eseri inceleyen, detayları çıkaran, nesnel yaklaşıp okura rehberlik eden bir pusula olduğu belirtilmiştir."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "Bu metnin anlatımında kullanılan düşünceyi geliştirme yolları aşağıdakilerden hangisinde sırasıyla verilmiştir?\n\n'Bilim insanları, küresel ısınmanın deniz seviyelerini son yüzyılda yaklaşık 20 santimetre artırdığını belirtmektedir. Eğer bu tedbirsizlik devam ederse, sahil şeridindeki pek çok şehir gelecekte sular altında kalacaktır. Tıpkı geçmişte bazı medeniyetlerin iklim krizleri yüzünden tarih sahnesinden silindiği gibi.'",
+      "answers": [
+        "Sayısal verilerden yararlanma - Benzetme",
+        "Tanık gösterme - Örnekleme",
+        "Tanımlama - Karşılaştırma",
+        "Tanık gösterme - Sayısal veri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde '20 santimetre' ifadesiyle sayısal verilerden yararlanılmış, 'tıpkı geçmişte olduğu gibi' ifadesiyle de benzetme yapılmıştır."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "Bu metne getirilebilecek en uygun başlık aşağıdakilerden hangisidir?\n\n'Geleneksel zanaatlar, modern dünyanın hızlı tüketim çarkı içerisinde her geçen gün biraz daha kaybolmaktadır. El emeği göz nuru dökülerek yapılan sedef kakma, bakırcılık ve dokumacılık gibi meslekler çırak yetişmediği için unutulmaya yüz tutmuştur. Oysa bu zanaatlar, bir milletin tapu senedi niteliğindeki kültürel hafızasını oluşturur.'",
+      "answers": [
+        "Moda ve Giyim Sektörü",
+        "Hızlı Tüketim Alışkanlıkları",
+        "Kültürel Hafızamızın Kaybı: Geleneksel Zanaatlar",
+        "Teknolojinin Bilime Katkıları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metin, unutulmaya yüz tutmuş geleneksel zanaatların kültürel hafıza açısından önemini ve kaybını anlattığı için en uygun başlık: Kültürel Hafızamızın Kaybı: Geleneksel Zanaatlar, seçeneğidir."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "Bu parçada asıl vurgulanmak istenen aşağıdakilerden hangisidir?\n\n'İnsan, hayatı boyunca pek çok hata yapar; önemli olan bu hatalardan ders çıkarabilmektir. Hata yapmak insan olmanın doğal bir sonucudur ancak aynı hatada ısrar etmek bir tercihtir. Tecrübe dediğimiz olgu, aslında geçmişte yediğimiz tokatlardan çıkardığımız akıllıca derslerin toplamıdır.'",
+      "answers": [
+        "Hiç hata yapmayan insan en tecrübeli insandır.",
+        "Hata yapmak kötü bir şeydir ve hayat boyunca sakınılmalıdır.",
+        "Hatalar insanı olgunlaştıran ve tecrübe kazandıran değerli derslerdir.",
+        "İnsanlar başkalarının hatalarından ders çıkarmayı bilmelidir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde hatalardan ders çıkarmanın tecrübe kazandırdığı ve insan olmanın doğasında olduğu vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Bu parçada boş bırakılan yere düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?\n\n'Bir dilin zenginliği, o dilde üretilen edebi eserlerin niteliğiyle doğrudan ölçülür. Kelime hazinesi zayıf bir millet, düşünce dünyasında da fakir kalmaya mahkumdur. Çünkü ________.'",
+      "answers": [
+        "sanatçılar eserlerinde her zaman sade bir dil tercih etmelidir",
+        "düşüncelerimiz kelimelerle şekillenir ve kelimeler olmadan derinlikli fikirler üretilemez",
+        "yabancı dillerin etkisinden kurtulmak her ülkenin temel görevidir",
+        "edebi eserler toplumun tüm kesimlerine hitap etmelidir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Boşluktan önceki cümle kelime hazinesi ile düşünce fakirliğini bağlamıştır. 'Çünkü' bağlacından sonra düşünce ile kelime ilişkisini açıklayan 'düşüncelerimiz kelimelerle şekillenir ve kelimeler olmadan derinlikli fikirler üretilemez' seçeneği gelmelidir."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "Bu metnin yazarı aşağıdakilerden hangisiyle nitelendirilemez?\n\n'Ben kitap yazarken asla popüler akımların peşinden koşmam. Okuyucuyu şaşırtmak ya da çok satmak kaygısıyla yapmacık kurgular üretmem. İçimden nasıl geliyorsa, kalbim neyi fısıldıyorsa onu yazarım. Eğer bir eser yazarının samimiyetini taşıyorsa, zamanın süzgecinden geçip geleceğe kalacaktır.'",
+      "answers": [
+        "Özgün",
+        "Samimi",
+        "Popülist (Çok satma kaygısı güden)",
+        "Gerçekçi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Yazar popüler akımların peşinden koşmadığını, çok satma kaygısı gütmediğini açıkça belirtmiştir; bu yüzden popülist olarak nitelendirilemez."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "Bu metne göre 'başarı' kavramı aşağıdakilerden hangisiyle açıklanmıştır?\n\n'Birçok insan başarıyı sadece paraya, şöhrete veya unvanlara ulaşmak olarak görür. Oysa gerçek başarı, kişinin kendi potansiyelinin farkına vararak her geçen gün dünkünden daha iyi bir insan olmak için verdiği onurlu çabadır. Başkalarının koyduğu kurallarla değil, kendi vicdanının pusulasıyla hareket etmektir.'",
+      "answers": [
+        "Toplumda yüksek bir makama gelip maddi zenginlik elde etmek",
+        "Kişinin kendi potansiyelini keşfedip vicdani değerlerle kendini geliştirmesi",
+        "Rakiplerini geride bırakıp her yarışta birinci olmak",
+        "Çevresindeki herkesin takdirini ve övgüsünü kazanmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde başarının maddi unsurlar olmadığı, kişinin potansiyelini geliştirip vicdanıyla hareket etmesi olduğu vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "Bu parçada numaralanmış cümlelerin hangisinden sonra 'Bu yüzden tarihe tanıklık eden bu yapılar özenle korunmalıdır.' cümlesi getirilmelidir?\n\n'(I) Tarihi kalıntılar, geçmişin kapılarını aralayan en değerli anahtarlardır. (II) Antik kentler ve eski tapınaklar, atalarımızın yaşam biçimini, sanat anlayışını gözler önüne serer. (III) Ancak zamana yenik düşen bu eserler doğa olayları ve insan eliyle hızla tahrip olmaktadır. (IV) Gelecek nesillerin geçmişini bilmesi ancak bu eserlerin varlığıyla mümkündür.'",
+      "answers": [
+        "I. cümleden sonra",
+        "II. cümleden sonra",
+        "III. cümleden sonra",
+        "IV. cümleden sonra"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "III. cümlede eserlerin tahrip olduğu belirtilmiştir. 'Bu yüzden tarihe tanıklık eden bu yapılar özenle korunmalıdır' cümlesi III. cümleden sonra getirilirse anlam bütünlüğü sağlanır."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "Bu parçada 'mavi' sözcüğü aşağıdaki anlamlardan hangisine karşılık gelecek şekilde kullanılmamıştır?\n\n'Yıllar sonra doğup büyüdüğü sahil kasabasına döndüğünde, içindeki derin hüznü dağıtan şey yine o uçsuz bucaksız maviydi. Çocukluğunda balıkçı tekneleriyle açıldığı o mavi sular, şimdi ona eski dostlar gibi gülümser gibiydi. Hava o kadar berraktı ki göğün maviliği denizin mavisiyle mükemmel bir uyum içindeydi.'",
+      "answers": [
+        "Deniz",
+        "Gökyüzü",
+        "Uzak dağlar",
+        "Mavi renk (su/gök rengi)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde 'mavi' sözcüğü deniz, gökyüzü ve renk anlamında kullanılmıştır ancak uzak dağlarla ilgili bir ifade geçmemektedir."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "Bu parçadan hareketle aşağıdakilerden hangisine ulaşılabilir?\n\n'Doğa, insanlığa sunduğu sınırsız nimetlerle her zaman cömert davranmıştır. Ancak insan oğlu, doğanın bu sevecen yaklaşımını yanlış anlayarak onu acımasızca sömürmüştür. Ormanları yok etmiş, suları kirletmiş ve pek çok canlı türünün soyunu kurutmuştur. Unutulmamalıdır ki doğa insansız yaşayabilir ama insan doğasız asla yaşayamaz.'",
+      "answers": [
+        "İnsan, doğayı korumak için teknolojiden tamamen vazgeçmelidir.",
+        "Doğa, insanın verdiği zararları kendi kendine kısa sürede telafi edebilir.",
+        "İnsanın doğaya verdiği zararlar, eninde sonunda yine insanlığın varlığını tehdit edecektir.",
+        "Canlı türlerinin yok olması sadece iklim değişikliklerinden kaynaklanır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metnin son cümlesinde 'doğa insansız yaşayabilir ama insan doğasız asla yaşayamaz' denilerek insanın doğaya bağımlılığı ve verdiği zararın kendi sonunu getireceği vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "Bu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilemez?\n\n'Okuma alışkanlığı, çocukluk çağında kazanılması gereken hayati bir kazanımdır. Bu alışkanlığın temelleri ise ilk olarak aile içinde atılır. Evinde kitap okuyan ebeveynleri gören çocuklar, kitapları yabancı bir nesne olarak değil hayatın doğal bir parçası olarak görürler. Bu nedenle çocuklara kitap sevdirmek istiyorsak önce ____________ı.'",
+      "answers": [
+        "onlara sürekli kitap okumanın önemini nasihat etmeliyiz",
+        "kendi hayatımızda kitaplara hak ettiği değeri vermeliyiz",
+        "onlara örnek olabilecek okuma ortamları yaratmalıyız",
+        "kitap okumayı bir zorunluluk değil keyifli bir etkinlik haline getirmeliyiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metin çocukların ebeveynlerini model alarak (görerek) öğrendiğini vurgulamaktadır. Sadece boşlukta 'nasihat etmeliyiz' demek metnin ana fikriyle çelişmektedir."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "Bu metinde eleştirilen asıl durum aşağıdakilerden hangisidir?\n\n'Günümüzde teknoloji o kadar hızlı ilerliyor ki insanlar ekranlara hapsolmuş durumda. Gerçek dünyadaki sıcak insan ilişkileri yerini sanal platformlardaki sahte beğenilere bıraktı. İnsanlar aynı masada oturdukları halde birbirlerinin yüzüne bakmak yerine akıllı telefonlarıyla vakit geçiriyorlar. Fiziksel olarak bir arada olan ama ruhen fersah fersah uzaklaşan bir nesil türedi.'",
+      "answers": [
+        "Teknolojinin üretim maliyetlerinin çok yüksek olması",
+        "İnsanların teknolojiyi iş hayatında yeterince kullanamaması",
+        "Teknolojinin ve ekran bağımlılığının gerçek insan ilişkilerini ve samimiyeti yok etmesi",
+        "Akıllı telefonların şarj ömrünün çok kısa olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde insanların ekranlara hapsolup gerçek ilişkileri, yüz yüze iletişimi ve samimiyeti kaybetmesi eleştirilmektedir."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "Bu parçada boş bırakılan yere düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?\n\n'Bilimsel araştırmalar, müzik dinlemenin insan beyni üzerindeki olumlu etkilerini defalarca kanıtlamıştır. Özellikle klasik müzik dinlemek, odaklanma süresini artırır ve zihinsel stresi azaltır. Yani müzik, ruhun gıdası olduğu kadar _____________.'",
+      "answers": [
+        "insanları tembelliğe alıştıran zararlı bir alışkanlıktır",
+        "beynimizin en verimli şekilde çalışmasını sağlayan zihinsel bir ilaçtır",
+        "sadece belirli yaş gruplarının keyif alabileceği bir sanattır",
+        "fiziksel yorgunluğu gidermede tamamen etkisizdir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metin müziğin beyin üzerindeki odaklanma ve stres azaltıcı olumlu etkilerini anlattığı için boşluğa en uygun ifade 'beynimizin en verimli şekilde çalışmasını sağlayan zihinsel bir ilaçtır' seçeneğidir."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "Bu metne göre 'önyargı' ile ilgili asıl söylenmek istenen aşağıdakilerden hangisidir?\n\n'Önyargı, insan zihninde örülmüş aşılması en zor duvarlardan biridir. İnsanlar, hakkında hiçbir bilgi sahibi olmadıkları olaylar veya kişiler hakkında peşin hükümler vererek kendi dünyalarını daraltırlar. Oysa önyargının olduğu yerde öğrenme, keşfetme ve gerçek anlamda hoşgörü barınamaz.'",
+      "answers": [
+        "Önyargılar insanların hayatını kolaylaştıran pratik kurallardır.",
+        "Önyargı sahibi olmak bireyin zihinsel dünyasını sınırlar ve gelişimi engeller.",
+        "Önyargılar zaman içinde kendiliğinden yok olan geçici durumlardır.",
+        "İnsanların birbirini anlaması için ön yargılara ihtiyaç vardır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metinde önyargının zihni daralttığı, öğrenmeyi ve hoşgörüyü engellediği (gelişimi sınırladığı) ifade edilmiştir."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "Aşağıdaki cümlelerin hangisi bu metnin giriş cümlesi olmaya en uygundur?\n\n'____________________. Çünkü bu sanat dalı, sadece kağıt üzerindeki çizgilerden ibaret değildir; aynı zamanda çizerin hayal gücünü ve toplumsal eleştirilerini barındırır. Karikatürler, az sözle çok şey anlatma sanatının en somut kanıtıdır.'",
+      "answers": [
+        "Karikatür, dışarıdan bakıldığında oldukça basit bir çizim sanatı gibi görünür",
+        "Roman yazarları eserlerinde genellikle uzun tasvirlere yer verir",
+        "Tiyatro, sahne sanatları içinde en eski geçmişe sahip olanıdır",
+        "Resim yapmak, insan ruhunu dinlendiren en güzel hobilerden biridir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metin 'Çünkü' bağlacı ile başlamış ve devamında karikatür sanatının basit görünmesine rağmen derin anlamlar barındırdığını söylemiştir. Giriş cümlesi olarak 'Karikatür, dışarıdan bakıldığında oldukça basit bir çizim sanatı gibi görünür' seçeneği en uygundur."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "Bu parçada aşağıdakilerden hangisine değinilmemiştir?\n\n'Geleneksel Türk tiyatrosunun en önemli yapı taşlarından biri olan Karagöz ve Hacivat, yüzyıllardır halkımızı hem güldüren hem de düşündüren gölge oyunudur. Deri kuklaların arkadan yansıtılan ışıkla perde üzerinde gölgelerinin oynatılmasına dayanan bu sanat, toplumsal aksaklıkları mizahi bir dille eleştirir. Günümüzde ne yazık ki eski popülaritesini yitirmiş olsa da kültürümüzün en değerli miraslarından biridir.'",
+      "answers": [
+        "Karagöz ve Hacivat'ın bir gölge oyunu olduğuna",
+        "Eserin toplumsal eleştiri barındırdığına",
+        "Günümüzde eski popülaritesini kaybettiğine",
+        "Bu oyunun ilk kez hangi padişah döneminde sahnelendiğine"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metinde oyunun gölge oyunu olduğu, toplumsal eleştiri yaptığı ve popülaritesini kaybettiği yazmaktadır ancak ilk kez hangi padişah döneminde sahnelendiğine değinilmemiştir."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "Bu metne göre 'gerçek sanatçı'nın en belirgin özelliği aşağıdakilerden hangisidir?\n\n'Gerçek sanatçı, başkalarının beğenisini kazanmak veya zengin olmak için eser üretmez. O, içindeki durdurulamaz yaratma tutkusunu bastıramadığı için yazar veya çizer. Onun için en büyük ödül, ürettiği eserin kendi vicdan süzgecinden başarıyla geçebilmesidir.'",
+      "answers": [
+        "Toplumun tüm kesimlerinden anında büyük övgüler alması",
+        "Eserlerinin çok yüksek fiyatlarla alıcı bulması",
+        "Hiçbir maddi kaygı gütmeksizin tamamen içsel bir yaratma tutkusuyla üretmesi",
+        "Sadece klasikleşmiş sanat kurallarına sıkı sıkıya bağlı kalması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metinde gerçek sanatçının maddi beklentiler peşinde koşmadığı, içindeki yaratma tutkusu ve vicdanı doğrultusunda üretim yaptığı vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "Aşağıdaki parça, düşüncenin akışına göre hangi cümleyle tamamlanmalıdır?\n\n'Deniz kenarında yürürken dalgaların sahile vuruşunu izlemek insanı rahatlatır. Dalgaların o ritmik sesi, zihindeki karmaşık düşünceleri adeta süpürüp götürür. Doğa ile baş başa kalmak, modern hayatın getirdiği stres ve kaostan uzaklaşmak için en etkili reçetedir. Bu yüzden şehir hayatından bunalan herkesin _____________.'",
+      "answers": [
+        "en kısa sürede büyük şehirlere taşınması gerekir",
+        "zaman buldukça doğayla buluşup ruhunu dinlendirmesi şarttır",
+        "teknolojik cihazları tamamen hayatından çıkarması gerekir",
+        "sürekli olarak deniz kenarında tatil yapması imkansızdır"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 2,
+      "explanation": "Metin doğanın ve denizin insan stresini azalttığını anlattığı için, sonuç cümlesi olarak şehir hayatından bunalanların doğayla buluşup dinlenmesi gerektiği getirilmelidir."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "Bu parçada asıl anlatılmak istenen düşünce (ana fikir) aşağıdakilerden hangisidir?\n\n'Bilgiye ulaşmanın bu kadar kolay olduğu başka bir çağ olmamıştır. İnternet sayesinde dünyanın öbür ucundaki bir kütüphanedeki kaynağa saniyeler içinde ulaşabiliyoruz. Ancak bilgiye bu kadar kolay ulaşmak, bilgiyi anlamlandırma ve doğru bilgiye erişme becerisini otomatik olarak beraberinde getirmiyor. Önemli olan çok bilgiye sahip olmak değil, sahip olduğumuz bilginin süzgecini yapabilmek ve onu erdemli bir davranışa dönüştürebilmektir.'",
+      "answers": [
+        "İnternet teknolojisi insanların kitap okuma alışkanlığını tamamen bitirmiştir.",
+        "Günümüzde bilgiye ulaşmak zorlaşmış ve maliyetler artmıştır.",
+        "Çok bilgiye sahip olmak tek başına yeterli değildir; asıl önemli olan o bilgiyi doğru süzgeçten geçirip hayata geçirebilmektir.",
+        "Eski dönemlerde yazılan ansiklopediler günümüz internetinden çok daha güvenilirdir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Parçada Anlam (Paragraf)",
+      "difficulty": 3,
+      "explanation": "Metinde bilgiye ulaşmanın kolaylığına değinilmiş ancak asıl vurgunun 'bilgiyi anlamlandırmak, süzgecinden geçirmek ve erdemli davranışa dönüştürmek' olduğu son cümlede net şekilde özetlenmiştir."
+    }
+  ]
+}

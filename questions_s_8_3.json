@@ -1,0 +1,425 @@
+{
+  "unit": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+  "questions": [
+    {
+      "id": "Q_8_3_001",
+      "questionText": "Kurtuluş Savaşı'nda Doğu Cephesi'nde Ermenilere karşı büyük bir başarı kazanan ve 'Gümrü Antlaşması'nı imzalayan komutanımız kimdir?",
+      "answers": [
+        "İsmet İnönü",
+        "Kâzım Karabekir",
+        "Fevzi Çakmak",
+        "Ali Fuat Cebesoy"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Doğu Cephesi'nde Osmanlı'dan kalma düzenli ordu birlikleriyle (15. Kolordu) Ermenistan'ı yenen komutan Kâzım Karabekir'dir ve TBMM'nin ilk siyasi başarısı Gümrü Antlaşması ile sağlanmıştır."
+    },
+    {
+      "id": "Q_8_3_002",
+      "questionText": "Güney Cephesi'nde Fransızlara karşı düzenli ordu yerine halkın kendi kurduğu Kuvayı Milliye birlikleriyle kahramanca direndiği illerimiz arasında aşağıdakilerden hangisi yer almaz?",
+      "answers": [
+        "Maraş",
+        "Antep",
+        "Urfa",
+        "Ankara"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Güney Cephesi'nde Maraş, Antep ve Urfa halkı Fransızlara karşı destansı bir direniş gösterirken, Ankara bu cephede yer almaz."
+    },
+    {
+      "id": "Q_8_3_003",
+      "questionText": "I. İnönü Savaşı'nın kazanılmasından sonra TBMM Hükümeti'nin uluslararası alanda kazandığı siyasi zaferlerin en önemlilerinden biri olan ve Sovyet Rusya ile imzalanan antlaşma hangisidir?",
+      "answers": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Ankara Antlaşması",
+        "Lozan Barış Antlaşması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "I. İnönü zaferinin ardından Sovyet Rusya ile Moskova Antlaşması imzalanmış, bu sayede TBMM Hükümeti ilk kez büyük bir Avrupa devleti tarafından resmen tanınmıştır."
+    },
+    {
+      "id": "Q_8_3_004",
+      "questionText": "12 Mart 1921 tarihinde kabul edilen İstiklal Marşı'nın bestesini yapan ilk resmi bestekar kimdir?",
+      "answers": [
+        "Mehmet Akif Ersoy",
+        "Osman Zeki Üngör",
+        "Ali Rıfat Çağatay",
+        "İsmail Hakkı Bey"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "İstiklal Marşı'nın sözlerini Mehmet Akif Ersoy yazmış; ilk resmi bestesini Ali Rıfat Çağatay yapmıştır (1930 yılında ise bugünkü Osman Zeki Üngör'ün bestesi kabul edilmiştir)."
+    },
+    {
+      "id": "Q_8_3_005",
+      "questionText": "Kütahya-Eskişehir Savaşları'nda Türk ordusunun yenilgisinden sonra Mustafa Kemal Paşa'ya TBMM tarafından verilen ve tüm yetkileri kapsayan unvan/yetki nedir?",
+      "answers": [
+        "Cumhurbaşkanlığı",
+        "Başkomutanlık yetkisi (Genişletilmiş yetkilerle)",
+        "Genelkurmay Başkanlığı",
+        "Harbiye Nezareti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Kütahya-Eskişehir yenilgisi üzerine ordu Sakarya'nın doğusuna çekilmiş, Mustafa Kemal meclisin tüm yetkilerini üzerine alarak 3 aylığına 'Başkomutan' ilan edilmiştir."
+    },
+    {
+      "id": "Q_8_3_006",
+      "questionText": "Sakarya Meydan Muharebesi'nin en kritik anında Mustafa Kemal Paşa'nın söylediği ve taktik anlayışını değiştiren ünlü sözü hangisidir?",
+      "answers": [
+        "\"Ordular, ilk hedefiniz Akdeniz'dir, ileri!\"",
+        "\"Hatta müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır!\"",
+        "\"Ben size taarruz emretmiyorum, ölmeyi emrediyorum!\"",
+        "\"Vatanın bağrına düşman dayasın hançerini, bulunur kurtaracak bahtı kara mâderini.\""
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Sakarya Savaşı'nda 'hat savunması' yerine 'alan savunması' (sathı müdafaa) taktiğini benimseyen Mustafa Kemal bu tarihi emri vermiştir."
+    },
+    {
+      "id": "Q_8_3_007",
+      "questionText": "Sakarya Meydan Muharebesi'nin kazanılmasından sonra TBMM tarafından Mustafa Kemal Paşa'ya verilen askeri rütbe nedir?",
+      "answers": [
+        "Müşir (Mareşal)",
+        "Orgeneral",
+        "Korgeneral",
+        "Mirliva (Tümgeneral)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Sakarya zaferinin ardından TBMM tarafından Mustafa Kemal'e 'Mareşal' rütbesi ve 'Gazi' unvanı verilmiştir."
+    },
+    {
+      "id": "Q_8_3_008",
+      "questionText": "Sakarya Savaşı öncesinde ordunun temel ihtiyaçlarını (silah, giyecek, yiyecek vb.) karşılamak amacıyla Mustafa Kemal'in başkomutanlık yetkisiyle yayımladığı emirler dizisi hangisidir?",
+      "answers": [
+        "İzmir İktisat Kongresi Kararları",
+        "Tekalif-i Milliye Emirleri (Milli Yükümlülükler)",
+        "Misak-ı Millî Kararları",
+        "Amasya Kararları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 1,
+      "explanation": "Tekalif-i Millîye emirleri ile Türk halkı ordunun donatılması için elindeki malzemenin bir kısmını tekalif-i milliye komisyonlarına teslim etmiştir."
+    },
+    {
+      "id": "Q_8_3_009",
+      "questionText": "Büyük Taarruz'un (Başkomutanlık Meydan Muharebesi) başarıyla sonuçlanmasından hemen sonra Kurtuluş Savaşı'nın sıcak çatışma dönemini sona erdiren ve Doğu Trakya'nın savaşılmadan kurtarılmasını sağlayan antlaşma hangisidir?",
+      "answers": [
+        "Lozan Barış Antlaşması",
+        "Mudanya Ateşkes Antlaşması",
+        "Ankara Antlaşması",
+        "Sevr Antlaşması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Mudanya Ateşkes Antlaşması ile İstanbul, Boğazlar ve Doğu Trakya savaş yapılmaksızın diplomatik yolla kurtarılmıştır."
+    },
+    {
+      "id": "Q_8_3_010",
+      "questionText": "TBMM'nin ilk anayasası olan ve 'Egemenlik kayıtsız şartsız milletindir' maddesini barındıran 1921 Anayasası'nın (Teşkilat-ı Esasiye) kabul edilme gerekçesi nedir?",
+      "answers": [
+        "Yeni Türk devletinin hukuki ve resmi temelini atmak, düzenli devlet yapısına geçmek",
+        "Osmanlı anayasasını tamamen korumak",
+        "Padişahın yetkilerini artırmak",
+        "Yabancı devletlere anayasayı onaylatmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "1921 Anayasası, TBMM açıldıktan sonra olağanüstü savaş koşullarında yeni devletin ilk hukuki dayanağını oluşturmak için çıkarılmıştır."
+    },
+    {
+      "id": "Q_8_3_011",
+      "questionText": "I. İnönü Savaşı sonrasında İtilaf Devletleri'nin Sevr Antlaşması'nı hafifleterek TBMM'ye kabul ettirmek amacıyla topladıkları konferans hangisidir?",
+      "answers": [
+        "Paris Barış Konferansı",
+        "Londra Konferansı",
+        "San Remo Konferansı",
+        "Berlin Kongresi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "İtilaf Devletleri Londra Konferansı'na hem İstanbul Hükümeti'ni hem de doğrudan TBMM'yi çağırarak Sevr'i kabul ettirmeyi amaçlamış ancak TBMM 'misak-ı millî' tezini dünyaya duyurmuştur."
+    },
+    {
+      "id": "Q_8_3_012",
+      "questionText": "Sakarya Meydan Muharebesi'nin kazanılması sonucunda Fransızlarla imzalanan ve Güney Cephesi'ndeki çatışmaları sona erdiren antlaşma hangisidir?",
+      "answers": [
+        "Ankara Antlaşması (1921)",
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Lozan Antlaşması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Sakarya zaferinin ardından Fransa ile 1921 Ankara Antlaşması imzalanmış, böylece Hatay hariç güney sınırımız çizilmiş ve Fransa TBMM'yi tanıyan ilk İtilaf devleti olmuştur."
+    },
+    {
+      "id": "Q_8_3_013",
+      "questionText": "Aşağıdakilerden hangisi Doğu Cephesi'nin kapanmasını ve oradaki birliklerin Batı Cephesi'ne kaydırılmasını sağlayan gelişmedir?",
+      "answers": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Kars Antlaşması",
+        "Hepsi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Doğu'daki başarılar sırasıyla Gümrü, Moskova ve Kars antlaşmalarıyla pekiştirilmiş, doğu sınırımız kesinlik kazanarak birlikler batıya kaydırılmıştır."
+    },
+    {
+      "id": "Q_8_3_014",
+      "questionText": "Kütahya-Eskişehir Savaşları'ndan sonra Türk ordusunun Sakarya Nehri'nin doğusuna çekilmesinin stratejik ve askeri amacı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ordunun tamamen terhis edilmesini sağlamak",
+        "Yunan ordusunu kendi ikmal hatlarından uzaklaştırıp zaman kazanmak, güç toplamak ve savunma hattı kurmak",
+        "İstanbul'u teslim etmek",
+        "Ankara'yı boşaltmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Mustafa Kemal, kayıpları artan ordunun yok olmasını önlemek ve stratejik olarak daha avantajlı bir hat (Sakarya'nın doğusu) oluşturmak için geri çekilme emri vermiştir."
+    },
+    {
+      "id": "Q_8_3_015",
+      "questionText": "Aşağıdaki savaşlardan hangisi Türk ordusunun I. İnönü ile başlayıp Sakarya'ya kadar süren 'savunma' dönemini bitirip 'taarruz' (saldırı) dönemine geçtiği dönüm noktasıdır?",
+      "answers": [
+        "II. İnönü Savaşı",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz",
+        "Kütahya-Eskişehir Savaşları"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Sakarya Savaşı son savunma savaşı olmuş, ardından hazırlıklar yapılarak Büyük Taarruz ile taarruz (saldırı) dönemine geçilmiştir."
+    },
+    {
+      "id": "Q_8_3_016",
+      "questionText": "Lozan Barış Antlaşması'nda çözüme kavuşturulamayan ve sonraya (Türkiye ile İngiltere arasında ikili görüşmelere) bırakılan temel sorun aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kapitülasyonlar",
+        "Musul (Irak Sınırı) sorunu",
+        "Yunanistan sınırları",
+        "Azınlıkların durumu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Musul ve Kerkük bölgesi (Irak sınırı) İngiltere ile yaşanan anlaşmazlıklar yüzünden Lozan'da çözülememiş, daha sonraki döneme ertelenmiştir."
+    },
+    {
+      "id": "Q_8_3_017",
+      "questionText": "Kurtuluş Savaşı sürecinde İtilaf Devletleri arasında görüş ayrılıklarının ilk kez açıkça ortaya çıkmasına sebep olan askeri gelişme hangisidir?",
+      "answers": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "I. İnönü Savaşı ve ardından Londra Konferansı'ndaki tavırlar",
+        "Sakarya Savaşı'ndan sonra İtalyanların Anadolu'dan çekilmeye başlaması"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "İtilaf Devletleri arasında ilk çatlak Sakarya zaferinden sonra İtalyanların Anadolu'yu tamamen terk etmesiyle açıkça görülmüştür."
+    },
+    {
+      "id": "Q_8_3_018",
+      "questionText": "Aşağıdakilerden hangisi Lozan Barış Antlaşması'nda Türkiye'nin lehine çözüme kavuşturulan ve tam bağımsızlığın sağlandığını gösteren maddelerden biri **değildir**?",
+      "answers": [
+        "Kapitülasyonların kesin olarak kaldırılması",
+        "Yabancı okulların Türk yasalarına bağlanması",
+        "Boğazlar komisyonunun başkanı Türk olan bir komisyona devredilmesi (veya tamamen Türk egemenliğine geçmesi)",
+        "Savaş tazminatı olarak Atina'nın Türkiye'ye verilmesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Lozan'da Yunanistan'dan savaş tazminatı olarak sadece Karaağaç savaş tazminatı karşılığı alınmıştır, Atina'nın verilmesi gibi bir durum söz konusu değildir."
+    },
+    {
+      "id": "Q_8_3_019",
+      "questionText": "Mustafa Kemal Paşa'nın Büyük Taarruz öncesinde ordunun gizlice hazırlanmasını sağlamak amacıyla gizlediği planı neydi?",
+      "answers": [
+        "Taarruz hazırlığı gizlenerek bir süre daha savunmada kalınacağı izlenimi verilmesi",
+        "Ordunun tamamen terhis edileceğinin duyurulması",
+        "Askerlerin izne gönderilmesi",
+        "Doğu sınırının kapatılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "Büyük Taarruz'un ani ve baskın şeklinde gerçekleşmesi için hazırlıklar gizli tutulmuş, hatta Çankaya'da çay ziyafeti verileceği söylenerek düşman istihbaratı yanıltılmıştır."
+    },
+    {
+      "id": "Q_8_3_020",
+      "questionText": "İstiklal Marşı'nın yazılması için açılan yarışmaya para ödülü konulmuş, ancak Mehmet Akif Ersoy bu ödülü hangi gerekçeyle almayı reddetmiştir?",
+      "answers": [
+        "Ödülün miktarını az bulduğu için",
+        "İstiklal Marşı'nın para için yazılamayacağını, ödülü 'Darü'l-Mesai' adlı hayır kurumuna bağışlayacağını belirttiği için",
+        "Şiiri kendisinin değil başka birinin yazdığını iddia ettiği için",
+        "Yarışmadan haberi olmadığı için"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Mehmet Akif Ersoy milli şairimiz olarak şiiri para karşılığı yazmayacağını beyan etmiş ve ödülü yoksul kadın ve çocuklara iş öğreten Darü'l-Mesai'ye bağışlamıştır."
+    },
+    {
+      "id": "Q_8_3_021",
+      "questionText": "Aşağıdaki antlaşmalardan hangisi ile Sovyet Rusya, Misak-ı Millî'yi tanıyan ve kapitülasyonların kaldırıldığını kabul eden ilk büyük Avrupa devleti olmuştur?",
+      "answers": [
+        "Gümrü Antlaşması",
+        "Moskova Antlaşması",
+        "Ankara Antlaşması",
+        "Lozan Barış Antlaşması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "16 Mart 1921'de imzalanan Moskova Antlaşması ile Sovyet Rusya TBMM'yi ve Misak-ı Millî'yi tanımıştır."
+    },
+    {
+      "id": "Q_8_3_022",
+      "questionText": "Kuvayı Milliye birliklerinin düzenli orduya dönüştürülmesine karşı çıkan ve bu duruma isyan eden eski Kuvayı Milliye liderleri kimlerdir?",
+      "answers": [
+        "Çerkez Ethem ve Demirci Mehmet Efe",
+        "Kâzım Karabekir ve Ali Fuat Paşa",
+        "Fevzi Çakmak ve İsmet İnönü",
+        "Kazım Özalp ve Refet Bele"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Düzenli ordunun disiplinine girmek istemeyen Çerkez Ethem ve Demirci Mehmet Efe TBMM'ye karşı ayaklanmış, ancak bu isyanlar bastırılmıştır."
+    },
+    {
+      "id": "Q_8_3_023",
+      "questionText": "Büyük Taarruz'un zaferle sonuçlanmasından sonra Yunan başkomutanı Trikopis'in esir alınması ve Türk ordusunun İzmir'e girmesi hangi stratejik planın başarısını kanıtlar?",
+      "answers": [
+        "Başkomutanlık Meydan Muharebesi planının",
+        "Londra Konferansı diplomatik stratejisinin",
+        "Amiral Bristol raporunun",
+        "Sevr antlaşması maddelerinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Dumlupınar'da Mustafa Kemal'in bizzat yönettiği Başkomutanlık Meydan Muharebesi ile düşman ordusu imha edilmiş ve Trikopis esir alınmıştır."
+    },
+    {
+      "id": "Q_8_3_024",
+      "questionText": "Aşağıdakilerden hangisi Batı Cephesi'nde Yunanlılara karşı kazanılan zaferler arasında yer **almaz**?",
+      "answers": [
+        "I. İnönü Savaşı",
+        "II. İnönü Savaşı",
+        "Kütahya-Eskişehir Savaşları",
+        "Sakarya Meydan Muharebesi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Kütahya-Eskişehir Savaşları Yunanlılara karşı kaybettiğimiz tek savaştır; diğerleri zaferle sonuçlanmıştır."
+    },
+    {
+      "id": "Q_8_3_025",
+      "questionText": "Lozan Barış Antlaşması'nın görüşmeleri sırasında Türk heyetinin 'taviz verilmemesini' kesin bir dille istediği iki kırmızı çizgi (en hassas konu) hangisiydi?",
+      "answers": [
+        "Kapitülasyonlar ve Ermeni yurdu (Azınlıklar/Toprak bütünlüğü)",
+        "Boğazların konumu ve dış borçlar",
+        "Nüfus mübadelesi ve adalar",
+        "İstanbul'un başkent olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "Mustafa Kemal Paşa Lozan'a giden İsmet İnönü liderliğindeki heyete özellikle 'Kapitülasyonların kaldırılması' ve 'Ermeni yurdu kurulmasının engellenmesi' konularında asla taviz verilmemesini talimat olarak vermiştir."
+    },
+    {
+      "id": "Q_8_3_026",
+      "questionText": "Aşağıdaki gelişmelerden hangisi kronolojik olarak **en son** gerçekleşmiştir?",
+      "answers": [
+        "I. İnönü Savaşı",
+        "Sakarya Meydan Muharebesi",
+        "Büyük Taarruz",
+        "Gümrü Antlaşması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "Kronoloji: Gümrü (Aralık 1920) -> I. İnönü (Ocak 1921) -> Sakarya (Ağustos-Eylül 1921) -> Büyük Taarruz (Ağustos 1922). En son Büyük Taarruz gerçekleşmiştir."
+    },
+    {
+      "id": "Q_8_3_027",
+      "questionText": "Tekalif-i Millîye Emirleri'nin çıkarıldığı dönem ile ordunun ihtiyaçlarının karşılanması süreci göz önüne alındığında, Türk halkının bu emirler karşısındaki tutumu için ne söylenebilir?",
+      "answers": [
+        "Halk varını yoğunu büyük bir fedakarlıkla orduya bağışlamış ve vatan sevgisini kanıtlamıştır",
+        "Emirlere karşı büyük bir isyan çıkarmıştır",
+        "Tüm mallarını yabancı devletlere satmıştır",
+        "Devletten yüksek ücret talep etmiştir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Türk halkı elindeki çoraptan kağnısına, tüfeğinden kumaşına kadar her şeyini büyük bir fedakarlıkla orduya vererek topyekün direniş sergilemiştir."
+    },
+    {
+      "id": "Q_8_3_028",
+      "questionText": "Sakarya Savaşı sonrasında İtilaf Devletleri tarafından TBMM'ye sunulan barış tekliflerinin Sevr Antlaşması'na göre durumu nasıldı?",
+      "answers": [
+        "Sevr'in ton farkıyla hafifletilmiş, ancak yine de bağımsızlığımızı kısıtlayan maddeler içeren bir versiyonuydu",
+        "Misak-ı Millî'yi tamamen kabul eden bir antlaşmaydı",
+        "Osmanlı'yı eski sınırlarına kavuşturuyordu",
+        "Tamamen lehimize olan adil bir belgedeydi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "İtilaf Devletleri Sakarya'dan sonra Sevr'i makyajlayarak (hafifleterek) kabul ettirmeye çalışmış, ancak TBMM tam bağımsızlığa aykırı olduğu için reddetmiştir."
+    },
+    {
+      "id": "Q_8_3_029",
+      "questionText": "Mustafa Kemal Paşa'nın Sakarya Meydan Muharebesi sırasında rib aant (kaburga kemiği) kırılmasına rağmen savaşı komuta etmeye devam etmesi onun hangi kişilik özelliğini doğrudan vurgular?",
+      "answers": [
+        "Kararlılığını, azmini, vatan sevgisini ve fedakarlığını",
+        "Ekonomi alanındaki başarılarını",
+        "Uluslararası hukuk bilgisini",
+        "Sanata olan ilgisini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 2,
+      "explanation": "Yaralı olmasına rağmen cepheden ayrılmayıp savaşı yönetmesi onun vatan sevgisini ve sarsılmaz iradesini gösterir."
+    },
+    {
+      "id": "Q_8_3_030",
+      "questionText": "Lozan Barış Antlaşması'nın Türk milleti açısından en büyük tarihsel önemi ve başarısı nedir?",
+      "answers": [
+        "Yüzyıllardır batılı devletlerin dayattığı kapitülasyonları ve adaletsizlikleri ortadan kaldırarak tam bağımsız, egemen bir Türk devletini dünyaya tescil ettirmesi",
+        "Dünyanın en büyük sınırlarına ulaşması",
+        "Tüm Osmanlı borçlarının silinmesi",
+        "Ekonomik olarak dünyanın en zengin ülkesi olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
+      "difficulty": 3,
+      "explanation": "Lozan, Sevr'i yırtıp atarak yeni Türk devletinin tapu senedi olmuş, kapitülasyonları kaldırıp tam bağımsızlığı tescillemiştir."
+    }
+  ]
+}

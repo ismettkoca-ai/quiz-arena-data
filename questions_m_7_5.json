@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Şekiller",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "Bir üçgende bir köşeyi karşısındaki kenarın orta noktası ile birleştiren doğru parçasına ne ad verilir?",
+      "answers": [
+        "Yükseklik",
+        "Açıortay",
+        "Kenarortay",
+        "Orta Dikme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Üçgende bir köşeden karşı kenarın ortasına inen doğru parçasına 'kenarortay' denir (V harfi ile gösterilir)."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Bir üçgenin iç açısını iki eşit parçaya bölerek karşı kenara kadar uzanan doğru parçasına ne ad verilir?",
+      "answers": [
+        "Kenarortay",
+        "Açıortay",
+        "Yükseklik",
+        "Orta Dikme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Bir açıyı ortadan ikiye bölen ışın veya doğru parçasına 'açıortay' denir (n harfi ile gösterilir)."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "Bir üçgenin bir köşesinden karşı kenara indirilen dik doğru parçasına ne ad verilir?",
+      "answers": [
+        "Kenarortay",
+        "Açıortay",
+        "Yükseklik",
+        "Orta Dikme"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Köşeden karşı kenara 90 derece (dik) açı ile inen doğru parçası 'yükseklik'tir (h harfi ile gösterilir)."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "Bir üçgenin kenarının orta noktasından dik olarak çıkan doğruya ne denir?",
+      "answers": [
+        "Açıortay",
+        "Kenarortay",
+        "Orta Dikme",
+        "Köşegen"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Bir doğru parçasını tam ortadan dik bir şekilde kesen doğruya 'orta dikme' denir."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "Bir üçgenin üç kenarortayı üçgenin içinde hangi ortak noktada kesişir?",
+      "answers": [
+        "Ağırlık Merkezi",
+        "Diklik Merkezi",
+        "Çevrel Çemberin Merkezi",
+        "İç Çemberin Merkezi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Üçgenin kenarortaylarının kesiştiği ortak nokta 'ağırlık merkezi' olarak adlandırılır (G harfi ile gösterilir)."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "Çeşitkenar bir üçgende, aynı köşeye ait olan yükseklik, kenarortay ve açıortay uzunlukları arasında nasıl bir ilişki vardır?",
+      "answers": [
+        "Açıortay < Kenarortay < Yükseklik",
+        "Yükseklik < Kenarortay < Açıortay",
+        "Yükseklik her zaman kenarortaydan ve açıortaydan daha kısadır.",
+        "Hepsinin uzunluğu birbirine eşittir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Bir üçgende aynı köşeden inen elemanlar içinde en kısa olanı daima yüksekliktir (h < V < n kuralı)."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "Eşkenar üçgende bir köşeye ait olan yükseklik aynı zamanda ne görevi görür?",
+      "answers": [
+        "Yalnız Kenarortay",
+        "Yalnız Açıortay",
+        "Kenarortay, Açıortay ve Orta Dikme",
+        "Hiçbiri"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Eşkenar üçgende ve ikizkenar üçgenin tepe noktasında yükseklik, kenarortay ve açıortay birbirinin aynısıdır (çakışiktir)."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "Dar açılı bir üçgende yüksekliklerin kesişim noktası üçgenin neresindedir?",
+      "answers": [
+        "Üçgenin iç bölgesinde",
+        "Üçgenin dış bölgesinde",
+        "Üçgenin köşelerinden birinde",
+        "Üçgenin kenarı üzerinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Dar açılı üçgenlerde yükseklikler üçgenin içinde kesişir."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "Geniş açılı bir üçgende yüksekliklerin kesişim noktası üçgenin neresindedir?",
+      "answers": [
+        "Üçgenin iç bölgesinde",
+        "Üçgenin dış bölgesinde",
+        "Üçgenin bir köşesinde",
+        "Hipotenüsün orta noktasında"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Geniş açılı üçgenlerin dışarıya düşen yüksekliklerinin uzantıları alındığında kesişim noktası üçgenin dış bölgesinde kalır."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "Dik açılı bir üçgende yüksekliklerin kesişim noktası nerededir?",
+      "answers": [
+        "Üçgenin içinde",
+        "Üçgenin dışında",
+        "Dik açının bulunduğu köşede",
+        "Hipotenüsün orta noktasında"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Dik üçgende dik kenarlar aynı zamanda yükseklik olduğu için, bu yükseklikler dik açının olduğu köşede kesişir."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "Bir üçgenin iç açıortaylarının kesişim noktası hangi özel dairenin merkezidir?",
+      "answers": [
+        "Çevrel Çemberin Merkezi",
+        "İç Teğet Çemberin Merkezi",
+        "Ağırlık Merkezi",
+        "Üçgenin dış merkezi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Üçgenin iç açıortaylarının kesim noktası, üçgenin içine çizilebilecek ve üç kenara da teğet olan iç teğet çemberin merkezidir."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "Bir üçgenin kenarlarının orta dikmelerinin kesişim noktası hangi çemberin merkezidir?",
+      "answers": [
+        "İç teğet çember",
+        "Çevrel çember",
+        "Ağırlık merkezi",
+        "Hiçbiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Üçgenin köşelerinden geçen (üçgeni çevreleyen) çevrel çemberin merkezi, kenar orta dikmelerin kesişim noktasıdır."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "İkizkenar bir üçgende, eşit olan kenarları gören açılara ait kenarortayların uzunlukları için ne söylenebilir?",
+      "answers": [
+        "Uzunlukları birbirinden farklıdır.",
+        "Uzunlukları birbirine eşittir.",
+        "Biri diğerinin iki katıdır.",
+        "Hiçbir ilişkileri yoktur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "İkizkenar üçgende simetri gereği eşit kenarlara ait kenarortaylar, yükseklikler ve açıortaylar kendi aralarında eşittir."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Bir üçgende herhangi bir kenara ait kenarortay, üçgenin alanını nasıl böler?",
+      "answers": [
+        "Alanı iki eşit parçaya (eşit alanlı iki üçgene) böler.",
+        "Alanı 3 eşit parçaya böler.",
+        "Alanları taban oranına göre böler ancak eşit değildir.",
+        "Alanı etkilemez."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Kenarortay tabanı iki eşit parçaya böldüğü ve yükseklikleri ortak olduğu için üçgenin alanını tam iki eşit parçaya böler."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "Aşağıdaki çokgenlerden hangisinin köşegen sayısı sıfırdır (köşegeni yoktur)?",
+      "answers": [
+        "Üçgen",
+        "Dörtgen",
+        "Beşgen",
+        "Altıgen"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Üçgenin komşu olmayan iki köşesi olmadığından köşegeni yoktur (n(n-3)/2 formülünden 3(0)/2 = 0)."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "Düzgün bir sekizgenin bir dış açısı kaç derecedir?",
+      "answers": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Tüm düzgün çokgenlerin dış açılarının toplamı 360°'dir. 360 / 8 = 45°'dir."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "İç açılarının ölçüleri toplamı 1080° olan bir dış bükey çokgen kaç kenarlıdır?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "İç açılar toplamı formülü: (n - 2) · 180° = 1080°. Her iki tarafı 180'e bölersek: n - 2 = 6 => n = 8 (Sekizgen)."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "Bir dış açısı 40° olan düzgün bir çokgenin kenar sayısı kaçtır?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Kenar sayısı = 360 / Dış Açı = 360 / 40 = 9 (Dokuzgen)."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Bir üçgende açıortayların kesişim noktası ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "answers": [
+        "Köşelere olan uzaklıkları eşittir.",
+        "Kenarlara olan dik uzaklıkları eşittir.",
+        "Üçgenin dış bölgesindedir.",
+        "Yalnız dik üçgenlerde bulunur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Açıortay üzerindeki bir noktadan açının kollarına indirilen dikmelerin uzunlukları eşittir. Bu nedenle iç teğet çemberin merkezi olan açıortayların kesişim noktasının kenarlara olan uzaklıkları eşittir."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Bir dik üçgende 90 derecelik açının bulunduğu köşeden hipotenüse çizilen kenarortay ile ilgili bilinen temel özellik nedir?",
+      "answers": [
+        "Hipotenüse diktir.",
+        "Hipotenüsü ikiye böler ve uzunluğu hipotenüsün yarısına eşittir (Muhteşem üçlü).",
+        "Açıortay ile aynı doğrudur.",
+        "Üçgenin dışına taşar."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Dik üçgende dik köşeden inen kenarortay, ayırdığı iki parçaya ve kendi uzunluğuna eşittir (Muhteşem üçlü kuralı)."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "Bir dış açısı 60° olan düzgün çokgenin kenar sayısı kaçtır?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Kenar sayısı = 360 / 60 = 6 (Altıgen)."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "Düzgün beşgenin bir iç açısının ölçüsü kaç derecedir?",
+      "answers": [
+        "90°",
+        "108°",
+        "120°",
+        "135°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Dış açı = 360 / 5 = 72°'dir. İç açı = 180 - 72 = 108°'dir."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Bir üçgende orta dikmelerin kesim noktası hakkında aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Köşelere olan uzaklıkları eşittir.",
+        "Kenarlara olan uzaklıkları sıfırdır.",
+        "Sadece geniş açılı üçgenlerde dışarıda olur.",
+        "Kenarortay ile tamamen aynıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "Kenar orta dikmelerin kesişim noktası çevrel çemberin merkezidir ve bu noktanın üçgenin tüm köşelerine olan uzaklıkları yarıçap kadar yani eşittir."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "Bir dış açısı ile bir iç açısının toplamı her zaman kaç derecedir?",
+      "answers": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 1,
+      "explanation": "Herhangi bir köşede iç açı ile dış açı bir doğru açı oluşturur, bu yüzden toplamları daima 180°'dir."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "Bir üçgenin iki kenar uzunluğu sırasıyla 7 cm ve 12 cm'dir. Bu üçgenin üçüncü kenarının alabileceği kaç farklı tam sayı değeri vardır?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Üçgen eşitsizliğine göre: 12 - 7 < x < 12 + 7 => 5 < x < 19. Bu aralıktaki tam sayılar 6'dan 18'e kadardır (18 - 6 + 1 = 13 değer)."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Bir dış bükey çokgenin kenar sayısı 2 katına çıkarıldığında, iç açılarının ölçüleri toplamı nasıl değişir?",
+      "answers": [
+        "2 katına çıkar.",
+        "Yarıya düşer.",
+        "2 katından 360° fazla olur.",
+        "Değişmez."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 3,
+      "explanation": "İç açılar toplamı (n - 2) · 180°'dir. Kenar sayısı 2n olduğunda (2n - 2) · 180° = 2(n - 1) · 180° olur. Bu da ilk durumun iki katından 360° fazladır."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "answers": [
+        "Üçgenin üç tane kenarortayı vardır.",
+        "Üçgenin yükseklikleri her zaman üçgenin iç bölgesinde kesişir.",
+        "Eşkenar üçgenin tüm yardımcı elemanları birbirine eşittir.",
+        "Her çokgenin dış açılarının toplamı 360 derecedir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Geniş açılı üçgenlerde yüksekliklerin kesişim noktası üçgenin dış bölgesindedir, bu yüzden 'her zaman içindedir' ifadesi yanlıştır."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Çeşitkenar bir üçgende en uzun kenar karşısında hangi açı yer alır?",
+      "answers": [
+        "En küçük açı",
+        "En büyük açı",
+        "90 derecelik açı",
+        "60 derecelik açı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Üçgenlerde büyük kenar karşısında büyük açı, küçük kenar karşısında küçük açı bulunur."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "Bir park bahçe tasarımında, üçgen şeklindeki çim alanın tam köşesinden karşı kenara bir yürüyüş yolu yapılacaktır. Bu yolun kenar uzunluklarını iki eşit parçaya böldüğü bilindiğine göre, inşa edilen bu yol geometriye göre neyi temsil eder?",
+      "answers": [
+        "Açıortay",
+        "Kenarortay",
+        "Yükseklik",
+        "Orta Dikme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Karşı kenarı iki eşit parçaya bölen doğru parçası kenarortaydır."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "Bir üçgenin iç açıları sırasıyla 2, 3 ve 4 sayıları ile orantılıdır. Bu üçgenin en büyük iç açısı kaç derecedir?",
+      "answers": [
+        "60°",
+        "70°",
+        "80°",
+        "90°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Şekiller",
+      "difficulty": 2,
+      "explanation": "Açılar 2k, 3k ve 4k olsun. Toplamları 180°'dir: 2k + 3k + 4k = 180° => 9k = 180° => k = 20°. En büyük açı 4k olduğundan 4 · 20° = 80°'dir."
+    }
+  ]
+}

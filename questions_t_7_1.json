@@ -1,0 +1,425 @@
+{
+  "unit": "Hayat Boyu Gelişim",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "'Yeni şeyler öğrenmek, insanın vizyonunu genişleten en etkili yoldur.' cümlesindeki 'vizyon' kelimesinin anlamı nedir?",
+      "answers": [
+        "Geleceğe yönelik bakış açısı ve ileri görüşlülük",
+        "Geçmişte yaşanan tecrübelerin birikimi",
+        "Sadece mesleki alanda elde edilen başarı",
+        "Kişinin fiziksel gelişim özellikleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Vizyon kelimesi, olaylara geniş bir perspektiften bakabilme ve geleceği öngörme yeteneği anlamındadır."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'durum zarfi' (fiilin nasıl yapıldığını bildiren sözcük) kullanılmıştır?",
+      "answers": [
+        "Öğrenciler, öğretmeni dikkatle dinliyordu.",
+        "Yarın sabah erken saatlerde yola çıkacağız.",
+        "Buraya geleli neredeyse iki yıl oldu.",
+        "Ders çalışmak için odasına çekildi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "'Nasıl dinliyordu?' sorusunun cevabı olan 'dikkatle' kelimesi fiili durum yönünden niteleyen bir durum zarfıdır."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "'Her zorluk karşısında yılmayıp hedefine yürüdü.' cümlesinde kullanılan fiilin kipi ve kişisi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Görülen (Belirli) Geçmiş Zaman - 3. Tekil Kişi",
+        "Öğrenilen Geçmiş Zaman - 1. Tekil Kişi",
+        "Geniş Zaman - 3. Çoğul Kişi",
+        "Gelecek Zaman - 3. Tekil Kişi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "'Yürüdü' fiili -dü/-dı görülen geçmiş zaman ekini almış ve işi yapan 3. tekil kişidir (o yürüdü)."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "Aşağıdakilerden hangisinde 'zaman zarfi' vardır?",
+      "answers": [
+        "Akşamüstü parkta kitap okuma alışkanlığı kazandı.",
+        "Kitapları masanın üzerine düzenli bir şekilde dizdi.",
+        "Kendini geliştirmek için çok hızlı koşuyordu.",
+        "Zorlukları aşmak adına kararlı adımlar attı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "'Ne zaman okuma alışkanlığı kazandı?' sorusunun cevabı olan 'akşamüstü' sözcüğü zaman zarfıdır."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "'Öğrenmeye aç olmak' deyimi hangi durumu ifade etmek için kullanılır?",
+      "answers": [
+        "Yeni bilgiler edinmeyi, kendini geliştirmeyi çok istemek",
+        "Uzun süre yemek yemeyip çok acıkmak",
+        "Okulda başarısız olup üzülmek",
+        "Kitap okumaktan sıkılmak ve yorulmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Bilgiye doymayan, sürekli öğrenme arzusu duyan kişiler için 'öğrenmeye aç olmak' denir."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Kişisel gelişim kitapları okumak için kütüphaneye gitti.",
+        "Kütüphaneye geç kaldığı için aradığı kitabı bulamadı.",
+        "Eğer düzenli kitap okursan anlama hızın artar.",
+        "Kitap okumak, insanın hayal dünyasını zenginleştirir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "Kütüphaneye gitmesinin amacı 'kişisel gelişim kitapları okumak'tır ('amacıyla' anlamı vardır)."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "'Tecrübe' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Deneyim",
+        "Yetenek",
+        "Başarı",
+        "Hedef"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Tecrübe kelimesinin eş anlamlısı deneyimdir."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'fiilimsi' (eylemsi) kullanılmıştır?",
+      "answers": [
+        "Okumak, insanın ruhunu besleyen en güzel eylemdir.",
+        "Bugün hava oldukça soğuk ve yağmurluydu.",
+        "Hayatımız boyunca pek çok zorlukla karşılaşırız.",
+        "Yeni hedefler belirlemek her zaman önemlidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 3,
+      "explanation": "'Okumak' sözcüğü -mak/-mek mastar ekini almış bir isim-fiildir (fiilimsidir)."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Düzenli çalışırsan istediğin başarıyı elde edersin.",
+        "Çok çalıştığı için sınavda birinci oldu.",
+        "Başarılı olmak amacıyla gece gündüz çalıştı.",
+        "Çalışmak insanı hayata hazırlayan bir süreçtir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Başarı elde etmenin koşulu 'düzenli çalışmaktır' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "'Yetenek' kelimesinin zıt anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Yeteneksizlik (Kabiliyetsizlik)",
+        "Başarı",
+        "Tecrübe",
+        "Bilgi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Yetenek kelimesinin zıttı yeteneksizlik veya kabiliyetsizliktir."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'yer-yön zarfi' kullanılmıştır?",
+      "answers": [
+        "Biraz ilerideki kurs merkezine doğru yürüdü.",
+        "Çocuklar birazdan dışarı çıkacaklar.",
+        "Öğretmen içeri girince herkes sessiz oldu.",
+        "Hızlıca yukarıdaki kata çıkıp kitabı aldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 3,
+      "explanation": "'İçeri' sözcüğü ek almadan (ek alırsa isim olur: içeri-ye) fiili yer yön bakımından belirttiği için yer-yön zarfıdır."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "'Kendi ayakları üzerinde durmak' deyimi hangi anlama gelir?",
+      "answers": [
+        "Başkalarına muhtaç olmadan, bağımsız ve kendi kazancıyla yaşayabilmek",
+        "Fiziksel olarak spor yapmak ve ayakta kalmak",
+        "Sürekli seyahat etmek ve gezmek",
+        "Zorluklar karşısında hemen pes etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Başkasının desteğine ihtiyaç duymadan hayatını sürdüren kişiler için bu deyim kullanılır."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "Hangi cümlede 'öznel' bir yargı vardır?",
+      "answers": [
+        "Bence insanın kendini geliştirmesi için en iyi yöntem seyahat etmektir.",
+        "Hayat boyu öğrenme kavramı eğitim bilimlerinde sıkça işlenir.",
+        "UNESCO, yaşam boyu öğrenmeyi destekleyen uluslararası bir kuruluştur.",
+        "Yetişkin eğitimi, okulların yanı sıra kurslarda da verilmektedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "'Bence' ifadesi ve kişisel beğeni barındırdığı için özneldir."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "'Gelişmek' kelimesinin kök türü nedir?",
+      "answers": [
+        "Gel- (Fiil kökü)",
+        "Geliş- (Fiil kökü)",
+        "Gel- (İsim kökü)",
+        "Gelişme (Kök)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "Gelişmek sözcüğünün kökü 'gelmek' fiilidir."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Kurs saatini kaçırdığı için eğitime katılamadı.",
+        "Yeni beceriler öğrenmek amacıyla online eğitime yazıldı.",
+        "Eğer interaktif dersleri izlersen konuyu anlarsın.",
+        "Eğitim, insan hayatını değiştiren en güçlü araçtır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "Eğitime katılamamasının nedeni 'kurs saatini kaçırmasıdır'."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "'Başarı' kelimesinin yapısı nasıldır?",
+      "answers": [
+        "Türemiş (Baş isim kökünden türemiştir)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşmuştur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "'Baş' kökünden '-arı' yapım ekiyle türemiş bir isimdir."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "Hangi cümlede 'emir kipi' ile çekimlenmiş bir fiil vardır?",
+      "answers": [
+        "Her gün mutlaka en az on sayfa kitap oku.",
+        "Yarınki sınav için erken saatte uyuyacak.",
+        "Dün akşam kütüphanede ders çalışıyordu.",
+        "Kendini geliştirmek için sürekli araştırma yapıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "'Oku' fiili ek almamıştır ve 2. tekil kişi emir anlamı taşır."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "'Ömür boyu öğrenme' ifadesindeki 'ömür' kelimesi hangi ses olayını düşündürür? (Ömrü)",
+      "answers": [
+        "Ünlü Düşmesi (Hece düşmesi)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "Ömür kelimesi ünlü bir ek aldığında (ömr-ü) ikinci hecedeki 'ü' düşer."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Bu yılki kurslar, geçen yıla göre çok daha verimli geçiyor.",
+        "Kendini geliştirmek isteyenler bu seminere katılmalıdır.",
+        "Her bireyin öğrenme hızı birbirinden farklıdır.",
+        "Yeni bir dil öğrenmek sabır gerektiren bir süreçtir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "Bu yılki kursların verimliliği geçen yılla 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "'Zorluklar karşısında asla havlu atmadı.' cümlesindeki 'havlu atmak' deyiminin anlamı nedir?",
+      "answers": [
+        "Mücadeleden vazgeçmek, pes etmek",
+        "Çok yorulup duş almak",
+        "Temizlik yapmak",
+        "Yardım istemek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Boks maçlarında yenilgiyi kabul etmek için ringe havlu atılmasından gelen bu deyim 'pes etmek' anlamındadır."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Hangi cümlede 'soru zarfi' kullanılmıştır?",
+      "answers": [
+        "Bu zor problemi nasıl çözebileceğimizi düşündün mü?",
+        "Masanın üzerindeki kitaplardan hangisini aldın?",
+        "Bana kaç tane yabancı dil bildiğini söyler misin?",
+        "Yeni projede kiminle birlikte görev alacaksın?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 3,
+      "explanation": "'Nasıl' kelimesi fiile sorulduğu ve durum bildirdiği için soru zarfıdır. (Diğerleri soru sıfatı veya soru zamiridir)."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "'Eğitim' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Öğretim / Terbiye / Tahsil",
+        "Okul",
+        "Öğretmen",
+        "Sınav"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Eğitim kelimesi tahsil, terbiye veya öğrenim anlamlarına gelir."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ünsüz yumuşaması' vardır?",
+      "answers": [
+        "Hedefine ulaşmak için azimle çalıştı. (Hedef -> Hedefi)",
+        "Başarılı olmak her öğrencinin hayalidir.",
+        "Yeni kurslar pazartesi günü başlayacak.",
+        "Kendine inanan insan her engeli aşar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "'Hedef' kelimesi ünlü ek alarak 'hedefine' şeklinde yumuşama (p,ç,t,k -> b,c,d,g/ğ) göstermiştir."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "'Bilgi' kelimesi tür bakımından nedir?",
+      "answers": [
+        "Soyut isim",
+        "Somut isim",
+        "Özel isim",
+        "Topluluk ismi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Bilgi, zihinsel bir kavram olduğu ve beş duyuyla doğrudan tutulamadığı için soyut bir isimdir."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "Hangi cümlede 'ek fiil (ek eylem)' kullanılarak isim türündeki bir sözcük yüklem olmuştur?",
+      "answers": [
+        "Geçen yıl okulun en başarılı öğrencisi idim (öğrencisiydim).",
+        "Yarın sabah erken saatlerde toplantı yapacaklar.",
+        "Öğrenciler sınav sonuçlarını büyük bir heyecanla bekliyor.",
+        "Kendini geliştirmek için her gün spor yapıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 3,
+      "explanation": "'Öğrenci' ismi ek fiilin geçmiş zamanı (-idi) alarak yüklem olmuştur."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "'Girişken' kelimesinin yapısı ve eki nasıldır?",
+      "answers": [
+        "Giriş- fiil köküne gelen '-ken' yapım ekiyle türemiştir.",
+        "Basit yapılı bir kelimedir.",
+        "Birleşik isimdir.",
+        "Çekim eki almış isimdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 3,
+      "explanation": "'Girişmek' fiilinden yapım ekiyle türemiş bir sözcüktür."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+      "answers": [
+        "Herkez kişisel gelişimine önem vermelidir.",
+        "Hayat boyu öğrenme artık bir zorunluluktur.",
+        "Seminer saat 14.00'te başlayacak.",
+        "Hiçbirimiz bu fırsatı kaçırmak istemiyoruz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 2,
+      "explanation": "'Herkez' kelimesi yanlış yazılmıştır, doğrusu 'herkes' olmalıdır."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "Paragrafın ana düşüncesi (ana fikri) bulunurken aşağıdakilerden hangisi dikkate alınmalıdır?",
+      "answers": [
+        "Yazarın okuyucuya iletmek istediği asıl mesaj",
+        "Metindeki yan karakterlerin sayısı",
+        "Yazarın doğum yeri ve yılı",
+        "Paragraftaki toplam cümle uzunluğu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın metni yazma amacını ve okura vermek istediği temel mesajı ifade eder."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "'Fırsat' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "İmkan / Vesile",
+        "Zorluk",
+        "Engel",
+        "Tehdit"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Fırsat kelimesinin eş anlamlısı imkan veya vesiledir."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "Hayat boyu gelişimi destekleyen en önemli unsur aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sürekli öğrenme isteği ve merak duygusu",
+        "Hiçbir şey yapmadan beklemek",
+        "Hatalardan ders çıkarmamak",
+        "Sadece okul yıllarında ders çalışmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayat Boyu Gelişim",
+      "difficulty": 1,
+      "explanation": "Bireyin kendini sürekli geliştirmesi meraka ve öğrenme arzusuna dayanır."
+    }
+  ]
+}

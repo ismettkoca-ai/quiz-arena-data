@@ -1,0 +1,425 @@
+{
+  "unit": "Geometrik Nicelikler 1",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "Bir yamuğun alanını hesaplamak için kullanılan doğru kural aşağıdakilerden hangisidir?",
+      "answers": [
+        "Alt ve üst taban uzunluklarının toplamının yükseklikle çarpımının yarısı",
+        "Tüm kenar uzunluklarının toplamı",
+        "Alt ve üst taban uzunluklarının çarpımının yarısı",
+        "Köşegen uzunluklarının çarpımının yarısı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Yamuğun alanı = (Alt Taban + Üst Taban) · Yükseklik / 2 formülü ile hesaplanır."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Bir eşkenar dörtgenin alanını hesaplamak için kullanılabilecek kurallardan biri aşağıdakilerden hangisidir?",
+      "answers": [
+        "Sadece tüm kenarlarının toplamı",
+        "Köşegen uzunluklarının çarpımının yarısı",
+        "Komşu iki kenarının çarpımı",
+        "Alt ve üst taban toplamının yarısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Eşkenar dörtgenin alanı, köşegen uzunluklarının çarpılıp ikiye bölünmesiyle (e · f / 2) veya taban ile o tabana ait yüksekliğin çarpılmasıyla bulunur."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "Alt taban uzunluğu 10 cm, üst taban uzunluğu 6 cm ve yüksekliği 5 cm olan bir yamuğun alanı kaç santimetrekaredir?",
+      "answers": [
+        "30",
+        "40",
+        "50",
+        "80"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Alan = (10 + 6) · 5 / 2 = 16 · 5 / 2 = 80 / 2 = 40 cm²'dir."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "Köşegen uzunlukları 8 cm ve 12 cm olan bir eşkenar dörtgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "20",
+        "48",
+        "64",
+        "96"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Eşkenar dörtgenin alanı = (8 · 12) / 2 = 96 / 2 = 48 cm²'dir."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "Alanı 60 cm² olan bir eşkenar dörtgenin bir köşegeninin uzunluğu 10 cm'dir. Bu eşkenar dörtgenin diğer köşegeninin uzunluğu kaç santimetredir?",
+      "answers": [
+        "6",
+        "8",
+        "12",
+        "20"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "(10 · f) / 2 = 60 => 10 · f = 120 => f = 12 cm'dir."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "Alanı 54 cm² olan bir yamuğun yüksekliği 6 cm'dir. Bu yamuğun alt ve üst taban uzunluklarının toplamı kaç santimetredir?",
+      "answers": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "(Alt + Üst) · 6 / 2 = 54 => (Alt + Üst) · 3 = 54 => Alt + Üst = 18 cm'dir."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "Bir kenar uzunluğu 8 cm ve bu kenara ait yüksekliği 5 cm olan bir eşkenar dörtgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "20",
+        "40",
+        "64",
+        "80"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Eşkenar dörtgen özel bir paralelkenardır. Alan = Taban · Yükseklik formülüyle de bulunur. 8 · 5 = 40 cm²."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "Dikdörtgen şeklindeki bir kağıdın uzun kenarı 15 cm, kısa kenarı 10 cm'dir. Bu kağıdın köşelerinden dik kenarları 3 cm ve 4 cm olan dört adet eş dik üçgen kesilip çıkarılıyor. Geriye kalan şeklin alanı kaç santimetrekaredir?",
+      "answers": [
+        "126",
+        "138",
+        "144",
+        "150"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Dikdörtgenin ilk alanı = 15 · 10 = 150 cm². Bir üçgenin alanı = 3 · 4 / 2 = 6 cm². Dört üçgen = 4 · 6 = 24 cm². Kalan alan = 150 - 24 = 126 cm²."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "Dik yamuk şeklindeki bir bahçenin alt tabanı 20 m, üst tabanı 12 m ve yüksekliği (dik kenarı) 10 m'dir. Bu bahçenin alanı kaç metrekaredir?",
+      "answers": [
+        "160",
+        "200",
+        "320",
+        "640"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Alan = (20 + 12) · 10 / 2 = 32 · 10 / 2 = 320 / 2 = 160 m²'dir."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "Düzgün altıgenin alanını hesaplamak için bu altıgeni merkezinden köşelerine doğru çizgilerle böldüğümüzde kaç adet eşkenar üçgen elde ederiz?",
+      "answers": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Düzgün altıgen, merkezinden köşelerine birleştirildiğinde 6 adet eşkenar üçgenden oluşur."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "Alanı 100 cm² olan bir karenin köşegen uzunluklarının çarpımı kaçtır?",
+      "answers": [
+        "100",
+        "144",
+        "200",
+        "400"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Kare aynı zamanda bir eşkenar dörtgendir ve alanı (e · f) / 2 kuralıyla da bulunabilir. (e · f) / 2 = 100 ise, köşegenlerin çarpımı (e · f) = 200'dür."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Alanı 48 cm² olan bir eşkenar dörtgenin çevresi 24 cm'dir. Bu eşkenar dörtgenin yüksekliği kaç santimetredir?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Çevresi 24 cm ise bir kenarı 24 / 4 = 6 cm'dir. Alan = Taban · Yükseklik olduğundan, 6 · h = 48 => h = 8 cm'dir."
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "Üst tabanı 8 cm, alt tabanı üst tabanının 2 katı olan bir yamuğun yüksekliği 5 cm'dir. Bu yamuğun alanı kaç santimetrekaredir?",
+      "answers": [
+        "40",
+        "60",
+        "80",
+        "120"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Üst taban = 8 cm. Alt taban = 8 · 2 = 16 cm. Alan = (16 + 8) · 5 / 2 = 24 · 5 / 2 = 120 / 2 = 60 cm²'dir."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Çevresi 36 cm olan düzgün altıgenin bir kenar uzunluğu ile çevresi 32 cm olan karenin bir kenar uzunluğunun toplamı kaçtır?",
+      "answers": [
+        "12",
+        "14",
+        "16",
+        "20"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Altıgenin bir kenarı: 36 / 6 = 6 cm. Karenin bir kenarı: 32 / 4 = 8 cm. Toplam: 6 + 8 = 14 cm."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "Bir kenar uzunluğu 10 cm olan karenin içine, köşeleri karenin kenarlarının orta noktaları olacak şekilde bir eşkenar dörtgen çiziliyor. Çizilen bu eşkenar dörtgenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Karenin orta noktaları birleştirildiğinde oluşan eşkenar dörtgenin köşegenleri, karenin kenar uzunluklarına eşit olur (10 cm ve 10 cm). Alan = 10 · 10 / 2 = 50 cm²'dir (Karenin alanının yarısıdır)."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "Yamuğun alanı bulunurken alt ve üst taban toplanır, yükseklikle çarpılır ve ikiye bölünür. Eğer bir yamuğun alt ve üst tabanları ile yüksekliği 2 katına çıkarılırsa alanı nasıl değişir?",
+      "answers": [
+        "2 katına çıkar",
+        "4 katına çıkar",
+        "8 katına çıkar",
+        "Değişmez"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Tabanlar toplamı 2 katına çıkar, yükseklik de 2 katına çıkar. Çarpımları durumunda 2 · 2 = 4 katlık bir artış yaşanır. Alan 4 katına çıkar."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "Bir düzgün sekizgenin bir iç açısı kaç derecedir?",
+      "answers": [
+        "108°",
+        "120°",
+        "135°",
+        "144°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Dış açı = 360° / 8 = 45°'dir. İç açı + Dış Açı = 180° olduğundan, İç açı = 180° - 45° = 135°'dir."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "Alanı 72 cm² olan bir dik üçgenin dik kenarlarından biri 12 cm'dir. Bu dik üçgenin diğer dik kenarı bir kare oluşturacak şekilde uzatılırsa, oluşacak karenin alanı kaç santimetrekare olur?",
+      "answers": [
+        "100",
+        "121",
+        "144",
+        "169"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Dik üçgen alanı = (a · 12) / 2 = 72 => 6a = 72 => a = 12 cm. Diğer dik kenar 12 cm'dir. Bu kenarla oluşturulacak karenin alanı = 12 · 12 = 144 cm² olur."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "Bir paralelkenarın taban uzunluğu 3 katına çıkarılıp, bu tabana ait yükseklik yarıya (1/2) düşürülürse, yeni alan ilk alanın kaç katı olur?",
+      "answers": [
+        "1,5 katı",
+        "2 katı",
+        "3 katı",
+        "Değişmez"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Alan = a · h. Yeni Alan = 3a · (h/2) = 1,5 · (a · h). Yani ilk alanın 1,5 katı (veya 3/2'si) olur."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "Eşkenar dörtgenin alanı 120 cm² ve bir köşegeni 24 cm'dir. Çevresi 52 cm olan bu eşkenar dörtgenin yüksekliği kaç santimetredir?",
+      "answers": [
+        "120 / 13",
+        "5",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Çevresi 52 ise bir kenarı a = 52 / 4 = 13 cm'dir. Alan aynı zamanda a · h formülüyle bulunur. 13 · h = 120 => h = 120 / 13 cm'dir."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "Düzgün çokgenler için aşağıda verilen bilgilerden hangisi YANLIŞTIR?",
+      "answers": [
+        "Tüm iç açıları birbirine eşittir.",
+        "Tüm kenar uzunlukları birbirine eşittir.",
+        "Çokgenin kenar sayısı arttıkça bir dış açısının ölçüsü artar.",
+        "Düzgün bir çokgenin dış açıları toplamı daima 360 derecedir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Dış açı = 360 / n formülü ile bulunur. Kenar sayısı (n) arttıkça, 360 daha büyük bir sayıya bölüneceği için dış açı ölçüsü küçülür, artmaz."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "Aşağıdaki dörtgenlerden hangisinin köşegenleri her zaman birbirini dik (90° ile) keser?",
+      "answers": [
+        "Dikdörtgen",
+        "Paralelkenar",
+        "Eşkenar Dörtgen",
+        "Yamuk"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Kare ve eşkenar dörtgenin köşegenleri her zaman birbirini dik olarak keser."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "Taban uzunluğu 24 cm olan bir üçgenin alanı ile, alt tabanı 14 cm, üst tabanı 10 cm olan bir yamuğun alanı birbirine eşittir. Yamuğun yüksekliği ile üçgenin yüksekliği aynı (h) olduğuna göre, bu alanları hesaplamak için yüksekliği bilmeye gerek var mıdır?",
+      "answers": [
+        "Evet, h bilinmeden alanların eşitliği anlaşılamaz.",
+        "Hayır, h ne olursa olsun alanlar her zaman eşittir.",
+        "Alanlar kesinlikle eşit olamaz.",
+        "Sadece h = 10 için eşittir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Üçgen alanı = 24 · h / 2 = 12h. Yamuk alanı = (14 + 10) · h / 2 = 24h / 2 = 12h. Her ikisinin de alanı h cinsinden 12h çıkar. Yükseklik ne olursa olsun alanlar eşittir."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "Bir dik yamuğun birbirine paralel tabanları 8 cm ve 14 cm, dik olmayan diğer kenarı ise 10 cm'dir. Bu yamuğun dik olan kenarı (yüksekliği) 8 cm olduğuna göre çevresi kaç santimetredir?",
+      "answers": [
+        "30",
+        "40",
+        "44",
+        "88"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Yamuğun çevresi 4 kenarının toplamıdır. Tabanlar: 8 ve 14. Dik kenar: 8. Dik olmayan kenar: 10. Çevre = 8 + 14 + 8 + 10 = 40 cm'dir."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Köşegen uzunlukları e ve f olan bir eşkenar dörtgende e = 3x ve f = 4x olarak verilmiştir. Bu eşkenar dörtgenin alanı 54 cm² olduğuna göre x kaçtır? (x pozitif bir tam sayıdır)",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Alan = (3x · 4x) / 2 = 12x² / 2 = 6x². Eşitlik 6x² = 54 => x² = 9. Buradan x = 3 bulunur."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Bir çokgenin bir köşesinden çizilebilen köşegen sayısı 5 olduğuna göre, bu çokgenin iç açıları toplamı kaç derecedir?",
+      "answers": [
+        "720°",
+        "900°",
+        "1080°",
+        "1260°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Bir köşeden çizilen köşegen sayısı n - 3 formülü ile bulunur. n - 3 = 5 ise n = 8 (Sekizgen). İç açılar toplamı = (n - 2) · 180° = (8 - 2) · 180° = 6 · 180° = 1080°'dir."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "Bir tasarımcı alanı 1200 cm² olan kare şeklindeki bir kağıdı, köşegenleri boyunca keserek 4 eş üçgen elde ediyor. Bu üçgenlerden ikisini hipotenüsleri (en uzun kenarları) çakışacak şekilde birleştirerek yeni bir dörtgen oluşturuyor. Yeni oluşan dörtgenin adı ve alanı nedir?",
+      "answers": [
+        "Dikdörtgen - 1200",
+        "Eşkenar Dörtgen - 600",
+        "Kare - 600",
+        "Yamuk - 300"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Karenin alanı 1200 ise bir parçanın (üçgenin) alanı 1200 / 4 = 300 cm²'dir. İki parça birleştirildiğinde alan 600 cm² olur. İkizkenar dik üçgenler hipotenüslerinden birleşirse yeni bir Kare oluşturur."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "Alt tabanı (a) üst tabanının (c) 3 katı olan bir yamuğun yüksekliği (h) 10 cm, alanı ise 100 cm²'dir. Bu yamuğun üst tabanı (c) kaç santimetredir?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Alan = (a + c) · h / 2. a = 3c olduğundan (3c + c) · 10 / 2 = 100 => 4c · 5 = 100 => 20c = 100 => c = 5 cm."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "Bir düzgün çokgenin bir dış açısının ölçüsü 36° olduğuna göre, bu çokgenin çevresi 50 cm ise bir kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "5",
+        "10",
+        "15",
+        "25"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Çokgenin kenar sayısı (n) = 360 / Dış Açı = 360 / 36 = 10 (Ongen). Çevresi 50 cm olan ongenin bir kenarı = 50 / 10 = 5 cm'dir."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Koordinat sisteminde köşe noktaları A(-2, -2), B(4, -2), C(2, 3) ve D(-4, 3) olan dörtgenin alanı kaç birimkaredir?",
+      "answers": [
+        "15",
+        "24",
+        "30",
+        "36"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Geometrik Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Verilen şekil bir paralelkenardır. Alt taban uzunluğu A ile B arasındaki mesafedir (4 - (-2) = 6 birim). Yükseklik, y eksenindeki farktır (3 - (-2) = 5 birim). Alan = Taban · Yükseklik = 6 · 5 = 30 birimkaredir."
+    }
+  ]
+}

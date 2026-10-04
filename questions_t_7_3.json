@@ -1,0 +1,425 @@
+{
+  "unit": "İletişim ve Sosyal İlişkiler",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "İnsanlar arasında duygu, düşünce ve bilgi alışverişine dayalı karşılıklı etkileşim sürecine ne ad verilir?",
+      "answers": [
+        "Tartışma",
+        "İletişim",
+        "Empati",
+        "Ön yargı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Duygu, düşünce ve bilgilerin akla gelen her türlü yolla başkalarına aktarılmasına iletişim denir."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'isim-fiil (mastar)' kullanılmıştır?",
+      "answers": [
+        "Karşımızdakini dinlemek, sağlıklı bir iletişimin ilk kuralıdır.",
+        "Konuşurken beden dilini oldukça etkili kullanıyordu.",
+        "Yarınki toplantı saat kaçta başlayacak?",
+        "Güzel sözler söylemek insanı mutlu eder."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Dinlemek' sözcüğü -mek/-mak isim-fiil ekini alarak cümlede isim görevinde kullanılmıştır."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "'Konuşmacı, salondakileri etkilemek için acele etmeden anlatıyordu.' cümlesinde altı çizili sözcüklerin türü sırasıyla aşağıdakilerden hangisidir?",
+      "answers": [
+        "Durum zarfi - Edat",
+        "Zaman zarfi - Bağlaç",
+        "Miktar zarfi - Zamir",
+        "Durum zarfi - Sıfat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Acele etmeden' fiilin nasıl yapıldığını bildirdiği için durum zarfıdır; 'için' ise amaç/neden bildiren bir edattır."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "Karşısındakinin duygu ve düşüncelerini kendi iç dünyasında hissederek anlamaya çalışmaya ne denir?",
+      "answers": [
+        "Sempati",
+        "Empati",
+        "Ön yargı",
+        "Eleştiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Kendini başkasının yerine koyarak onun duygularını anlamaya empati adı verilir."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sıfat-fiil (ortaç)' kullanılmıştır?",
+      "answers": [
+        "Güleryüzlü insanlarla iletişim kurmak her zaman kolaydır.",
+        "İnsanlarla anlaşabilmenin tek yolu sabırlı olmaktır.",
+        "Toplantıda önemli kararlar alınıp uygulandı.",
+        "Bizi dikkatle dinleyen öğrenciler sınıftaydı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Dinleyen' sözcüğü -en/-an sıfat-fiil ekini alarak 'öğrenciler' ismini nitelemiştir."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "'Can kulağıyla dinlemek' deyimi hangi durumu ifade etmek için kullanılır?",
+      "answers": [
+        "Bir kişiyi veya konuyu bütün dikkatini vererek, özenle dinlemek",
+        "Söylenenleri hiç önemsemeyip kulak ardı etmek",
+        "Yanlış duyulan bir haberi başkalarına yaymak",
+        "Karşısındakinin sözünü yarıda kesmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Bir şeyi büyük bir ilgi ve dikkatle dinlemeye can kulağıyla dinlemek denir."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "Hangi cümlede 'zaman zarfi' kullanılmıştır?",
+      "answers": [
+        "Yarın akşam okulda etkili iletişim semineri var.",
+        "Öğrenciler konuyu anlamak için sessizce oturuyordu.",
+        "Toplantı salonuna içeri giren herkesi selamladı.",
+        "İletişim kurarken oldukça kibar davranıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Ne zaman seminer var?' sorusunun cevabı olan 'yarın akşam' zaman zarfıdır."
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil (bağ-fiil)' kullanılmıştır?",
+      "answers": [
+        "Toplantıya gülerek gelmesi herkesi şaşırttı.",
+        "Yazılı iletişim kurmak bazen daha avantajlıdır.",
+        "Beklenen mektup nihayet bugün postalandı.",
+        "İnsanları anlamak büyük bir erdemdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Gülerek' sözcüğü -erek/-arak zarf-fiil ekini alarak fiilimsi olmuştur."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "'Ön yargı' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Peşin hüküm",
+        "Tarafsızlık",
+        "Anlayış",
+        "Hoşgörü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Ön yargı kavramı peşin hüküm anlamına gelir."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Hangi cümlede 'miktarsal (azlık-çokluk) zarfi' kullanılmıştır?",
+      "answers": [
+        "Bu konuyu arkadaşınla çok tartıştınız.",
+        "Yavaşça yerinden kalkıp kürsüye yürüdü.",
+        "Akşamüstü eski dostlarıyla kahve içti.",
+        "Buraya geleceğini hiç düşünmemiştim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Çok' sözcüğü fiilin derecesini bildiren miktar (ölçü) zarfıdır."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "'Tatlı diliyle herkesi etkiledi.' cümlesindeki 'tatlı' kelimesinin anlam özelliği nedir?",
+      "answers": [
+        "Mecaz Anlam (Kibar, hoş ve etkileyici)",
+        "Gerçek Anlam (Şekerli lezzet)",
+        "Terim Anlam",
+        "Somut Anlam"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Tatlı dil, lezzetli anlamında değil; nazik ve hoş konuşma anlamında mecazdır."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "Hangi cümlede 'yer-yön zarfi' vardır?",
+      "answers": [
+        "Dışarı çıkarken arkandan kapıyı kapat.",
+        "Öğretmen biraz önce dışarıya çıktı.",
+        "Yukarı katı temizlemek epey zaman aldı.",
+        "Aşağı mahallede komşularla sohbet ettiler."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Dışarı' kelimesi ek almadan fiili yön belirttiği için yer-yön zarfıdır. (-ye eki alsa isim olurdu)."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "'Kulak misafiri olmak' deyimi ne anlama gelir?",
+      "answers": [
+        "Konuşmaya katılmadan, etrafta konuşulanları istemeyerek duymak",
+        "Bir kişinin söylediklerini çok dikkatli dinlemek",
+        "Müzik dinlemeyi ve şarkı söylemeyi çok sevmek",
+        "Verilen öğütleri ve tavsiyeleri kulak ardı etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Yanında konuşulanları konuşmanın tarafı olmadan tesadüfen duymaya kulak misafiri olmak denir."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Kırgınlıkları bitirmek amacıyla dostuna sarıldı.",
+        "Tartıştıkları için aralarındaki buzlar erimemişti.",
+        "Eğer sakin olursan meseleyi kolayca çözeriz.",
+        "İyi bir hatip olmak için ses tonunu iyi kullanmalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Sarılmasının amacı 'kırgınlıkları bitirmektir' ('amacıyla' ifadesi yer alır)."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "Hangi cümlede 'soru zarfi' kullanılmıştır?",
+      "answers": [
+        "Bu hassas konuyu ona nasıl açmayı düşünüyorsun?",
+        "Toplantıda masaya hangi dosyaları bıraktınız?",
+        "Duvarda asılı duran bu tabloyu kim çizdi?",
+        "Buluşma noktasına kaç kişi gelecekmiş?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Nasıl' sözcüğü fiile sorulmuş ve durum yönünden nitelediği için soru zarfıdır."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "'Hoşgörü' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Müsamaha",
+        "Öfke",
+        "Kıskançlık",
+        "Tarafsızlık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Hoşgörü kelimesinin eş anlamlısı müsamaha veya toleranstır."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Aşağıdakilerden hangisi bir 'isim-fiil' grubudur?",
+      "answers": [
+        "Kitap okumayı çok seviyor.",
+        "Koşan çocuklar neşeyle gülüyordu.",
+        "Eve gelince hemen uyudu.",
+        "Güzel yazan bir kalemi vardı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Okumayı' sözcüğü -ma/-me isim-fiil ekini almıştır."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "İletişimde karşısındakini suçlamadan, kendi duygularını ifade eden cümlelere ne denir?",
+      "answers": [
+        "Ben dili",
+        "Sen dili",
+        "Emir cümlesi",
+        "Olumsuz cümle"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Suçlayıcı olmayan, kişinin kendi hislerini aktaran dile 'Ben dili' denir."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Yanlış anlaşıldığı için toplantıyı erken terk etti.",
+        "İnsanlarla bağ kurmak amacıyla derneğe üye oldu.",
+        "Eğer açık sözlü olursan herkes sana güvenir.",
+        "Etkili iletişim, başarının anahtarıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Toplantıyı terk etmesinin nedeni 'yanlış anlaşılmasıdır'."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "'Sohbet' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Söyleşi",
+        "Tartışma",
+        "Kavga",
+        "Toplantı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Sohbet kelimesinin anlamdaşı söyleşidir."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'sıfat-fiil' kullanılmamıştır?",
+      "answers": [
+        "Bahçede neşeyle koşan çocukları izledi.",
+        "Çözülmemiş problemleri yeniden incelediler.",
+        "Yarın akşam eski dostlarla buluşacağız.",
+        "Görülmemiş güzellikte bir manzaraydı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Yarın akşam eski dostlarla buluşacağız. Bu cümlede herhangi bir fiilimsi (isim-fiil, sıfat-fiil, zarf-fiil) yoktur."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "'Kırgınlık' kelimesinin yapısı nasıldır?",
+      "answers": [
+        "Türemiş (İsim kökünden veya fiil kökünden türemiştir)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşmuştur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Farklı Dünyalar",
+      "difficulty": 2,
+      "explanation": "Kır- fiil köküne gelen yapım ekleriyle türemiş bir sözcüktür."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Bize hak verirsen sorunlar kökten çözülür.",
+        "Hak vermek amacıyla toplantıya katıldı.",
+        "Hak verdiği için herkes tarafından seviliyordu.",
+        "İnsan hakları evrensel bir değerdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Sorunların çözülmesinin koşulu 'bize hak vermendir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "'Ağzını bıçak açmamak' deyimi iletişimde hangi durumu anlatır?",
+      "answers": [
+        "Üzüntü veya öfkeden dolayı hiç konuşmamak, sessiz kalmak",
+        "Sürekli ve hiç durmadan konuşmak",
+        "Çok güzel ve etkili sözler söylemek",
+        "Yüksek sesle tartışmak"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Bir üzüntü ya da sinir durumundan dolayı ağzını açıp tek kelime etmemeye denir."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yüz",
+        "İletişim",
+        "Empati",
+        "Seminer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "'Yüz' kelimesi sayı, surat, suda yüzmek gibi farklı anlamlara geldiği için sesteştir."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Hangi cümlede 'zarf-fiil' kullanılmıştır?",
+      "answers": [
+        "Eve varır varmaz bizi telefonla aradı.",
+        "Evde kalmayı tercih edenlerler toplantı yaptık.",
+        "Yarın sabah erken saatte yola çıkacağız.",
+        "Etkili iletişim kursuna gitmek istiyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Varır varmaz' sözcükleri -r ... -maz zarf-fiil ekini alarak zarf görevinde kullanılmıştır."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Paragrafın ana düşüncesi (ana fikri) bulunurken aşağıdakilerden hangisine bakılır?",
+      "answers": [
+        "Yazarın okura aktarmak istediği temel mesaja ve yazılış amacına",
+        "Metindeki toplam kelime sayısına",
+        "Olayın geçtiği mekanın özelliklerine",
+        "Karakterlerin fiziksel yapılarına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın vermek istediği asıl dersi özetler."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Sözlü iletişim, yazılı iletişime göre çok daha hızlıdır.",
+        "İnsanlar gün boyunca pek çok kişiyle iletişim kurar.",
+        "Sosyal ilişkilerde dürüstlük temel esastır.",
+        "Toplum içinde kibar ve nazik olmalıyız."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Sözlü iletişim ile yazılı iletişim hız bakımından 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Senide bizimle etkili iletişim seminerine bekliyoruz.",
+        "Toplantıya o da katılacağını bildirdi.",
+        "İyi bir dinleyici olmak iletişimi güçlendirir.",
+        "Konuşurken kelimeleri özenle seçmeliyiz."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Bağlaç olan 'de' ayrı yazılmalıdır ('Sen de' şeklinde)."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "Sağlıklı ve huzurlu sosyal ilişkilerin temelinde aşağıdakilerden hangisi yer alır?",
+      "answers": [
+        "Karşılıklı saygı, empati ve doğru iletişim",
+        "Sürekli tartışmak ve haklı çıkmaya çalışmak",
+        "Başkalarının fikirlerini tamamen yok saymak",
+        "İletişimden kaçınmak ve yalnız kalmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Huzurlu ilişkilerin formülü karşılıklı saygı ve empati kurmaktır."
+    }
+  ]
+}

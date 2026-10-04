@@ -1,0 +1,425 @@
+{
+  "unit": "Üslü İfadeler",
+  "questions": [
+    {
+      "id": "Q_8_2_001",
+      "questionText": "(-2)⁴ + (-3)³ işleminin sonucu kaçtır?",
+      "answers": [
+        "-11",
+        "11",
+        "-43",
+        "43"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "(-2)⁴ = +16 ve (-3)³ = -27'dir. 16 + (-27) = -11 olur."
+    },
+    {
+      "id": "Q_8_2_002",
+      "questionText": "5⁻² üslü ifadesinin değeri kaçtır?",
+      "answers": [
+        "-25",
+        "-1/25",
+        "1/25",
+        "25"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Negatif üs, sayının çarpmaya göre tersini alır: 5⁻² = 1/5² = 1/25'tir."
+    },
+    {
+      "id": "Q_8_2_003",
+      "questionText": "3⁴ · 3⁵ işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "9⁹",
+        "3⁹",
+        "3²⁰",
+        "9²⁰"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Tabanları aynı olan üslü ifadeler çarpılırken üsler toplanır: 3⁴ · 3⁵ = 3⁹."
+    },
+    {
+      "id": "Q_8_2_004",
+      "questionText": "2⁸ / 2³ işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "2⁵",
+        "2¹¹",
+        "1⁵",
+        "2²⁴"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Tabanları aynı olan üslü ifadeler bölünürken payın üssünden paydanın üssü çıkarılır: 2^(8-3) = 2⁵."
+    },
+    {
+      "id": "Q_8_2_005",
+      "questionText": "45 000 000 sayısının bilimsel gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "4,5 · 10⁶",
+        "4,5 · 10⁷",
+        "45 · 10⁶",
+        "0,45 · 10⁸"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Bilimsel gösterimde katsayı 1 ile 10 arasında olmalıdır (1 ≤ |a| < 10). 45 000 000 = 4,5 · 10⁷ şeklindedir."
+    },
+    {
+      "id": "Q_8_2_006",
+      "questionText": "0,000072 sayısının bilimsel gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "7,2 · 10⁻⁴",
+        "7,2 · 10⁻⁵",
+        "72 · 10⁻⁶",
+        "0,72 · 10⁻⁴"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Virgül 5 basamak sağa kaydırıldığında katsayı 7,2 olur, üs ise 5 azalır: 7,2 · 10⁻⁵."
+    },
+    {
+      "id": "Q_8_2_007",
+      "questionText": "(2³)⁴ işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "2⁷",
+        "2¹²",
+        "4⁷",
+        "8⁴"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Üssün üssü alınırken üsler çarpılır: (2³)⁴ = 2^(3·4) = 2¹²."
+    },
+    {
+      "id": "Q_8_2_008",
+      "questionText": "5³ · 2³ işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "10³",
+        "7³",
+        "10⁶",
+        "7⁶"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Üsleri aynı olan üslü ifadeler çarpılırken tabanlar çarpılır, ortak üs aynen yazılır: (5 · 2)³ = 10³."
+    },
+    {
+      "id": "Q_8_2_009",
+      "questionText": "-2⁴ ile (-2)⁴ ifadelerinin toplamı kaçtır?",
+      "answers": [
+        "0",
+        "32",
+        "-32",
+        "16"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "-2⁴ = -16'dır (eksi işaretine etki etmez). (-2)⁴ = +16'dır. Toplamları -16 + 16 = 0 olur."
+    },
+    {
+      "id": "Q_8_2_010",
+      "questionText": "2¹² sayısının çeyreği kaçtır?",
+      "answers": [
+        "2³",
+        "2⁶",
+        "2¹⁰",
+        "2¹¹"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Bir sayının çeyreği 4'e (yani 2²'ye) bölünmesiyle bulunur: 2¹² / 2² = 2^(12-2) = 2¹⁰."
+    },
+    {
+      "id": "Q_8_2_011",
+      "questionText": "4¹⁰ sayısının yarısı kaçtır?",
+      "answers": [
+        "2⁹",
+        "2¹⁹",
+        "4⁵",
+        "2²⁰"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "4¹⁰ = (2²)¹⁰ = 2²⁰ olur. Yarısı için 2'ye böleriz: 2²⁰ / 2¹ = 2¹⁹."
+    },
+    {
+      "id": "Q_8_2_012",
+      "questionText": "27³ · 9² ifadesinin 3 tabanında eşiti aşağıdakilerden hangisidir?",
+      "answers": [
+        "3¹¹",
+        "3¹³",
+        "3¹⁵",
+        "3¹⁸"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "27³ = (3³)³ = 3⁹ ve 9² = (3²)² = 3⁴'tür. Çarpımları 3⁹ · 3⁴ = 3¹³ yapar."
+    },
+    {
+      "id": "Q_8_2_013",
+      "questionText": "8⁴ / 4³ işleminin sonucu kaçtır?",
+      "answers": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "8⁴ = (2³)⁴ = 2¹² ve 4³ = (2²)³ = 2⁶'dır. Bölüm 2¹² / 2⁶ = 2⁶ = 64'tür."
+    },
+    {
+      "id": "Q_8_2_014",
+      "questionText": "10¹⁵ + 0,05 · 10¹⁷ işleminin sonucu aşağıdakilerden hangisidir?",
+      "answers": [
+        "5,1 · 10¹⁵",
+        "6 · 10¹⁵",
+        "5,1 · 10¹⁷",
+        "6 · 10¹⁷"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "0,05 · 10¹⁷ ifadesi 5 · 10¹⁵ olarak yazılır. 1 · 10¹⁵ + 5 · 10¹⁵ = 6 · 10¹⁵ eder."
+    },
+    {
+      "id": "Q_8_2_015",
+      "questionText": "3^x = 81 ve 2^y = 32 olduğuna göre x + y toplamı kaçtır?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "3⁴ = 81 olduğundan x = 4'tür. 2⁵ = 32 olduğundan y = 5'tir. x + y = 4 + 5 = 9'dur."
+    },
+    {
+      "id": "Q_8_2_016",
+      "questionText": "5⁻³ sayısının çarpmaya göre tersi olan sayı aşağıdakilerden hangisidir?",
+      "answers": [
+        "-125",
+        "-1/125",
+        "1/125",
+        "125"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Bir sayının çarpmaya göre tersi, o sayının takla atmış halidir. 5⁻³ sayısının tersi 1 / 5⁻³ = 5³ = 125'tir."
+    },
+    {
+      "id": "Q_8_2_017",
+      "questionText": "Alanı 64 · 10⁶ m² olan kare şeklindeki bir tarlanın bir kenar uzunluğu kaç metredir?",
+      "answers": [
+        "8 · 10³",
+        "8 · 10⁴",
+        "64 · 10³",
+        "32 · 10³"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Karenin bir kenarı alanın kareköküne eşittir: √(64 · 10⁶) = √64 · √10⁶ = 8 · 10³ metredir."
+    },
+    {
+      "id": "Q_8_2_018",
+      "questionText": "Aşağıdaki sayılardan hangisi bilimsel gösterimdir?",
+      "answers": [
+        "12,5 · 10⁴",
+        "0,8 · 10⁷",
+        "5,4 · 10⁻³",
+        "10,0 · 10²"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 1,
+      "explanation": "Bilimsel gösterimde a · 10^n biçimindeki ifadede 1 ≤ |a| < 10 olmalıdır. 5,4 bu aralıktadır."
+    },
+    {
+      "id": "Q_8_2_019",
+      "questionText": "0,00000045 sayısı 45 · 10^n şeklinde yazıldığında n kaç olur?",
+      "answers": [
+        "-6",
+        "-7",
+        "-8",
+        "-9"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Virgül 7 basamak sağa kaydırıldığında 0,00000045 sayısı 4,5 olur; 45 yapmak için bir basamak daha kaydırılır ve üs 8 azalır: 45 · 10⁻⁸."
+    },
+    {
+      "id": "Q_8_2_020",
+      "questionText": "27 · 3⁻⁴ · 9² işleminin sonucu kaçtır?",
+      "answers": [
+        "9",
+        "27",
+        "81",
+        "243"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "İfadeyi 3 tabanında yazalım: 3³ · 3⁻⁴ · (3²)² = 3³ · 3⁻⁴ · 3⁴ = 3^(3-4+4) = 3³ = 27."
+    },
+    {
+      "id": "Q_8_2_021",
+      "questionText": "(2⁻³ + 2⁻³ + 2⁻³ + 2⁻³) / 4⁻² işleminin sonucu kaçtır?",
+      "answers": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "Pay kısmında 4 tane 2⁻³ vardır: 4 · 2⁻³ = 2² · 2⁻³ = 2⁻¹. Payda kısmında 4⁻² = (2²)⁻² = 2⁻⁴'tür. Bölüm 2⁻¹ / 2⁻⁴ = 2^(-1-(-4)) = 2³ = 8'dir."
+    },
+    {
+      "id": "Q_8_2_022",
+      "questionText": "125⁴ · 16³ çarpımı kaç basamaklı bir sayıdır?",
+      "answers": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "125⁴ = (5³)⁴ = 5¹² ve 16³ = (2⁴)³ = 2¹²'dir. Çarpım 5¹² · 2¹² = 10¹² olur. 10¹² sayısı 1'in yanında 12 sıfır olduğu için 13 basamaklıdır."
+    },
+    {
+      "id": "Q_8_2_023",
+      "questionText": "8¹⁵ sayısının 1/16'ü kaçtır?",
+      "answers": [
+        "2⁴¹",
+        "2⁴³",
+        "2⁴⁴",
+        "2⁴⁵"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "8¹⁵ = (2³)¹⁵ = 2⁴⁵'tir. 1/16 ise 1/2⁴ = 2⁻⁴'tür. Çarpımları 2⁴⁵ · 2⁻⁴ = 2⁴¹ olur."
+    },
+    {
+      "id": "Q_8_2_024",
+      "questionText": "Kenar uzunlukları 2⁵ cm ve 8³ cm olan dikdörtgen şeklindeki bir bahçenin alanı kaç santimetrekaredir?",
+      "answers": [
+        "2¹¹",
+        "2¹³",
+        "2¹⁴",
+        "2¹⁵"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Alan = 2⁵ · (2³)³ = 2⁵ · 2⁹ = 2¹⁴ cm²dir."
+    },
+    {
+      "id": "Q_8_2_025",
+      "questionText": "x = 3¹⁰ ve y = 9⁵ olduğuna göre x ile y arasındaki ilişki aşağıdakilerden hangisidir?",
+      "answers": [
+        "x > y",
+        "x < y",
+        "x = y",
+        "x = 3y"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "y = 9⁵ = (3²)⁵ = 3¹⁰'dur. Dolayısıyla x = y'dir."
+    },
+    {
+      "id": "Q_8_2_026",
+      "questionText": "Her saat sonunda 4 katına çıkan bir bakteri türünün başlangıçta 256 tanesi bulunmaktadır. Buna göre 4 saat sonunda bu ortamda kaç bakteri olur?",
+      "answers": [
+        "4⁶",
+        "2¹⁶",
+        "4⁸",
+        "2¹⁸"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "Başlangıç: 256 = 2⁸. Her saat 4 katı (2²) olmaktadır. 4 saat sonunda 2⁸ · (2²)⁴ = 2⁸ · 2⁸ = 2¹⁶ bakteri olur."
+    },
+    {
+      "id": "Q_8_2_027",
+      "questionText": "(3¹⁰ + 3¹⁰ + 3¹⁰) / 3⁵ işleminin sonucu kaçtır?",
+      "answers": [
+        "3⁵",
+        "3⁶",
+        "3⁷",
+        "3⁸"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 2,
+      "explanation": "Pay kısmında 3 tane 3¹⁰ vardır: 3 · 3¹⁰ = 3¹¹. Payda 3⁵'tir. Bölüm 3¹¹ / 3⁵ = 3^(11-5) = 3⁶ olur."
+    },
+    {
+      "id": "Q_8_2_028",
+      "questionText": "a = 2⁶⁰, b = 3⁴⁰ ve c = 5²⁰ sayıları veriliyor. Bu sayıların doğru sıralanışı aşağıdakilerden hangisidir?",
+      "answers": [
+        "a > b > c",
+        "b > a > c",
+        "c > b > a",
+        "a > c > b"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "Üsleri 20'de eşitleyelim: a = (2³)²⁰ = 8²⁰, b = (3²)²⁰ = 9²⁰, c = 5²⁰. Tabanları karşılaştırırsak 9 > 8 > 5 olduğundan b > a > c'dir."
+    },
+    {
+      "id": "Q_8_2_029",
+      "questionText": "2^x = a ve 3^x = b olduğuna göre 72^x ifadesinin a ve b türünden eşiti aşağıdakilerden hangisidir?",
+      "answers": [
+        "a³ · b²",
+        "a² · b³",
+        "6^(3x)",
+        "a⁶ · b"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "72 sayısını asal çarpanlarına ayıralım: 72 = 8 · 9 = 2³ · 3². Buna göre 72^x = (2³ · 3²)^x = (2^x)³ · (3^x)² = a³ · b² olur."
+    },
+    {
+      "id": "Q_8_2_030",
+      "questionText": "Kalınlığı 0,0002 mm olan bir kağıt üst üste 6 kez katlandığında oluşan toplam kalınlığın metre cinsinden bilimsel gösterimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "1,28 · 10⁻² m",
+        "1,28 · 10⁻⁵ m",
+        "6,4 · 10⁻⁴ m",
+        "2 · 10⁻⁴ m"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Üslü İfadeler",
+      "difficulty": 3,
+      "explanation": "Başlangıç kalınlığı 2 · 10⁻⁴ mm'dir. 6 kez katlandığında kalınlık 2⁶ = 64 katına çıkar: 2 · 10⁻⁴ · 64 = 128 · 10⁻⁴ mm = 1,28 · 10⁻² mm'dir. Metreye çevirmek için 1000'e (10³) böleriz: 1,28 · 10⁻² · 10⁻³ = 1,28 · 10⁻⁵ metre olur."
+    }
+  ]
+}

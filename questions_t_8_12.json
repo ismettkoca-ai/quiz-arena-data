@@ -1,0 +1,425 @@
+{
+  "unit": "Metin Türleri",
+  "questions": [
+    {
+      "id": "Q_8_12_001",
+      "questionText": "Herhangi bir konuda bilgi vermek, bir tezi kanıtlamak veya bir düşünceyi savunmak amacıyla yazılan, bilimsel ve nesnel bir üslubun hakim olduğu yazı türüne ne ad verilir?",
+      "answers": [
+        "Deneme",
+        "Makale",
+        "Fıkra",
+        "Sohbet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Makaleler nesnel, kanıtlanabilir bilgilere dayanan, bilimsel veya düşünsel konularda bilgi verme amacı güden metinlerdir."
+    },
+    {
+      "id": "Q_8_12_002",
+      "questionText": "Yazarın herhangi bir konudaki kişisel görüş ve düşüncelerini, kanıtlama kaygısı gütmeden, samimi ve sohbet havasında kaleme aldığı yazı türü hangisidir?",
+      "answers": [
+        "Makale",
+        "Deneme",
+        "Haber Yazısı",
+        "Eleştiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Denemede yazar 'ben' dilini kullanarak kendi iç dünyasını ve düşüncelerini kanıtlama çabası olmadan özgürce anlatır."
+    },
+    {
+      "id": "Q_8_12_003",
+      "questionText": "Yazarın güncel olayları, toplumsal gelişmeleri veya günlük yaşamın aksayan yönlerini gazete köşelerinde, kanıtlama gereği duymadan, günübirlik kaleme aldığı yazı türüne ne ad verilir?",
+      "answers": [
+        "Fıkra (Köşe Yazısı)",
+        "Anı",
+        "Günlük",
+        "Biyografi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Fıkralar (köşe yazıları) güncel konuları işler, kalıcılıktan ziyade günübirlik değer taşır."
+    },
+    {
+      "id": "Q_8_12_004",
+      "questionText": "Yazarın okuyucuyla karşılıklı konuşuyormuş gibi bir üslupla, sorduğu sorulara kendi yanıtlar vererek yazdığı fikir yazısı türü hangisidir?",
+      "answers": [
+        "Makale",
+        "Sohbet (Söyleşi)",
+        "Eleştiri",
+        "Gezi Yazısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Sohbet (söyleşi) türünde yazar sanki karşısında okuyucu varmış gibi samimi bir dille yazar ve sorularla anlatımı zenginleştirir."
+    },
+    {
+      "id": "Q_8_12_005",
+      "questionText": "Yaşanmış ya da yaşanması muhtemel olayların yer, zaman ve kişi unsurlarına bağlı olarak bir kurgu çerçevesinde anlatıldığı olay yazısı türüne ne ad verilir?",
+      "answers": [
+        "Roman",
+        "Hikaye (Öykü)",
+        "Masal",
+        "Fabl"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Hikaye (öykü); kısa oluşu, tek bir olaya odaklanması ve sınırlı karakter kadrosuyla romandan ayrılır."
+    },
+    {
+      "id": "Q_8_12_006",
+      "questionText": "Hikayeye göre olay örgüsünün çok daha geniş olduğu, karakterlerin tüm yönleriyle ayrıntılı incelendiği, mekan ve zaman tasvirlerinin bolca yer aldığı uzun olay yazısı türü hangisidir?",
+      "answers": [
+        "Hikaye",
+        "Roman",
+        "Fabl",
+        "Efsane"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Romanlar, hikayelere kıyasla çok daha kapsamlı, uzun ve ayrıntılı olay örgülerine sahip edebi eserlerdir."
+    },
+    {
+      "id": "Q_8_12_007",
+      "questionText": "Tanınmış, bilim, sanat veya spor alanında ün yapmış kişilerin hayatını başkalarının kaleme aldığı yazı türüne ne ad verilir?",
+      "answers": [
+        "Otobiyografi",
+        "Biyografi (Yaşam Öyküsü)",
+        "Anı (Hatıra)",
+        "Günlük"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Bir kişinin hayatını başka bir yazarın tarafsız veya belgesel nitelikte kaleme almasına biyografi (yaşam öyküsü) denir."
+    },
+    {
+      "id": "Q_8_12_008",
+      "questionText": "Tanınmış bir kişinin kendi hayatını, yaşadığı olayları ve tecrübelerini doğrudan kendisinin kaleme aldığı yazı türü hangisidir?",
+      "answers": [
+        "Biyografi",
+        "Otobiyografi (Öz Yaşam Öyküsü)",
+        "Anı",
+        "Gezi Yazısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Yazarın kendi yaşamını kaleme aldığı tür otobiyografidir."
+    },
+    {
+      "id": "Q_8_12_009",
+      "questionText": "Tanınmış kişilerin başlarından geçen önemli olayları, üzerinden zaman geçtikten sonra unutulmamak üzere kaleme aldıkları yazı türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Günlük",
+        "Anı (Hatıra)",
+        "Biyografi",
+        "Mektup"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Anı (hatıra), geçmişte yaşanmış olayların üzerinden belli bir zaman geçtikten sonra hafızada kalanların yazılmasıyla oluşur."
+    },
+    {
+      "id": "Q_8_12_010",
+      "questionText": "Yazarın günlük yaşamında o gün yaşadığı olayları, duygu ve düşüncelerini sıcağı sıcağına, tarih belirterek günü gününe yazdığı yazı türü hangisidir?",
+      "answers": [
+        "Anı",
+        "Günlük (Jurnal)",
+        "Fıkra",
+        "Deneme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Günlükler tarih atılarak günü gününe tutulan kişisel belgelerdir."
+    },
+    {
+      "id": "Q_8_12_011",
+      "questionText": "Yazarın gezip gördüğü yabancı veya yerel yerlerin tarihi, doğal, kültürel özelliklerini okuyucuya aktardığı yazı türüne ne ad verilir?",
+      "answers": [
+        "Gezi Yazısı (Seyahatname)",
+        "Anı",
+        "Makale",
+        "Haber Yazısı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Gezi yazıları (seyahatname), gezilen yerlerin ilginç yönlerini gözlemlere dayalı olarak aktarır."
+    },
+    {
+      "id": "Q_8_12_012",
+      "questionText": "Kahramanları genellikle hayvan, bitki gibi insan dışı varlıklar olan, sonunda mutlaka bir ders (ahlak dersi) vermeyi amaçlayan manzum veya mensur hikayelere ne ad verilir?",
+      "answers": [
+        "Masal",
+        "Fabl",
+        "Efsane",
+        "Destan"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Fabl türünde hayvanlar konuşturulur ve öğrencilere/okuyuculara ahlaki ders (kıssadan hisse) verilir."
+    },
+    {
+      "id": "Q_8_12_013",
+      "questionText": "Olağanüstü kişi ve yerlerin yer aldığı, evvel zaman içinde diye başlayan, genellikle iyilerin kazanıp kötülerin cezalandırıldığı, yer ve zamanı belli olmayan anlatı türü hangisidir?",
+      "answers": [
+        "Fabl",
+        "Masal",
+        "Hikaye",
+        "Roman"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Masallar olağanüstü öğeler barındıran, yer ve zamanı belirsiz halk anlatılarıdır."
+    },
+    {
+      "id": "Q_8_12_014",
+      "questionText": "Sahnelenmek (oynanmak) üzere yazılan, diyaloglara ve sahne talimatlarına (kılavuz bilgilere) dayanan edebi tür aşağıdakilerden hangisidir?",
+      "answers": [
+        "Roman",
+        "Tiyatro",
+        "Şiir",
+        "Fabl"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Tiyatro eserleri sahnelenmek amacıyla yazılır ve yapı unsurları arasında perde, sahne, jest ve mimikler bulunur."
+    },
+    {
+      "id": "Q_8_12_015",
+      "questionText": "Bir sanat veya edebiyat eserinin hem olumlu hem de olumsuz yönlerini inceleyerek gerçek değerini ortaya koyan yazı türüne ne ad verilir?",
+      "answers": [
+        "Eleştiri (Tenkit)",
+        "Makale",
+        "Deneme",
+        "Fıkra"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Eleştiri (tenkit), bir eserin sanat değerini nesnel veya öznel kriterlerle inceleyip yargıya varan türdür."
+    },
+    {
+      "id": "Q_8_12_016",
+      "questionText": "Halkın hayal gücünden doğan, nesilden nesile sözlü olarak aktarılan, inandırıcılığı kısmen olan ve olağanüstü olayları barındıran halk anlatısı türü hangisidir?",
+      "answers": [
+        "Masal",
+        "Efsane",
+        "Hikaye",
+        "Fabl"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Efsaneler, topluluklarca gerçek olduğuna inanılan ancak olağanüstü özellikler taşıyan anonim halk anlatılarıdır."
+    },
+    {
+      "id": "Q_8_12_017",
+      "questionText": "Toplumu yakından ilgilendiren güncel bir olayı tarafsız ve nesnel bir dille 'kim, ne, nerede, ne zaman, nasıl, neden' sorularına yanıt arayarak aktaran yazı türü hangisidir?",
+      "answers": [
+        "Fıkra",
+        "Haber Yazısı",
+        "Deneme",
+        "Eleştiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Haber yazıları tamamen nesneldir, 5N1K kuralına göre kaleme alınır ve basında yer alır."
+    },
+    {
+      "id": "Q_8_12_018",
+      "questionText": "Makale ile Deneme arasındaki en temel fark aşağıdakilerden hangisidir?",
+      "answers": [
+        "Makalenin uzun, denemenin kısa olması",
+        "Makalede savunulan düşüncenin kanıtlanması zorunluyken, denemede yazarın kanıtlama zorunluluğu olmayıp kişisel görüşlerini samimi anlatması",
+        "Makalenin sadece gazetelerde, denemenin sadece dergilerde yayımlanması",
+        "Makalede hikaye unsurlarının, denemede şiir unsurlarının bulunması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Makale kanıtlama ve bilimsellik ister; deneme ise iddiada bulunmadan tamamen kişisel ve samimi duygu/düşünceleri yansıtır."
+    },
+    {
+      "id": "Q_8_12_019",
+      "questionText": "Anı (Hatıra) ile Günlük (Jurnal) arasındaki en belirgin fark hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Anıların geçmişte yaşanıp üzerinden zaman geçtikten sonra yazılması, günlüklerin ise olayların yaşandığı gün tarih atılarak kaleme alınması",
+        "Anıların yazarın kendi hayatını, günlüklerin ise başkalarının hayatını anlatması",
+        "Anıların bilimsel, günlüklerin ise edebi olması",
+        "Günlüklerin çok uzun, anıların ise çok kısa yazılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Günlükler günü gününe (sıcağı sıcağına) yazılır; anılar ise üzerinden yıllar geçtikten sonra hatırlananların aktarılmasıdır."
+    },
+    {
+      "id": "Q_8_12_020",
+      "questionText": "Fıkra (köşe yazısı) ile Sohbet (söyleşi) türlerinin en önemli ortak yönü ve ayrıldığı yön sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "İkisinde de kanıtlama zorunluluğu yoktur; ancak fıkra güncel olayları işlerken, sohbet daha genel toplumsal veya sanatsal konuları karşılıklı konuşma havasında işler.",
+        "İkisi de tamamen nesnel bilimsel yazılardır.",
+        "İkisi de sadece roman eleştirisi yapmak için yazılır.",
+        "Fıkra uzun bir romandır, sohbet ise şiirdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 3,
+      "explanation": "Fıkra ve sohbet düşünce yazılarıdır, kanıtlama aranmaz. Fıkra güncel/günübirlik siyasi/sosyal olaylara odaklanırken sohbet daha samimi bir sohbet tonuyla genel konuları işler."
+    },
+    {
+      "id": "Q_8_12_021",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Bu çalışmamızda, fotosentez olayının bitki hücrelerindeki kloroplast organelinde nasıl gerçekleştiğini laboratuvar verileriyle ve denklemlerle kanıtlayacağız. Yapılan deneyler sonucunda elde edilen veriler şu şekildedir...'",
+      "answers": [
+        "Deneme",
+        "Makale",
+        "Fıkra",
+        "Anı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Bilimsel veriler sunulması, kanıtlama amacı güdülmesi ve nesnel dil kullanımı metnin 'Makale' olduğunu gösterir."
+    },
+    {
+      "id": "Q_8_12_022",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Bana göre kitap okumak, insan ruhuna yapılan en uzun ve en keyifli yolculuktur. Ne zaman elime bir roman alıp sayfalarını çevirmeye başlasam, dış dünyanın tüm gürültüsü birden bire kesiliverir. Bilmem siz de benim gibi düşünüyor musunuz?'",
+      "answers": [
+        "Sohbet (Söyleşi)",
+        "Makale",
+        "Biyografi",
+        "Haber Yazısı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Yazarın okuyucuya sorular yöneltip samimi bir dille kendi düşüncelerini aktarması 'Sohbet' türüne örnektir."
+    },
+    {
+      "id": "Q_8_12_023",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'12 Mayıs 1995...\nBugün okuldan çıktıktan sonra uzun süredir almak istediğim o mavi kapaklı defteri sonunda aldım. Akşam odama çekilip gün boyunca kafama takılanleri bu sayfalara dökmek bana inanılmaz bir hafiflik kazandırdı.'",
+      "answers": [
+        "Anı",
+        "Günlük",
+        "Otobiyografi",
+        "Gezi Yazısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Metnin başında açıkça tarih (12 Mayıs 1995) belirtilmiş ve o gün yaşananlar sıcağı sıcağına anlatılmıştır; bu bir Günlüktür."
+    },
+    {
+      "id": "Q_8_12_024",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Yıllar önce, henüz mesleğimin ilk yıllarındayken küçük bir Anadolu kasabasına atanmıştım. O karlı kış gününde istasyona ilk adım attığımda yaşayacağım zorlukları henüz bilmiyordum. Şimdi o günleri gülümseyerek hatırlıyorum.'",
+      "answers": [
+        "Günlük",
+        "Anı (Hatıra)",
+        "Fabl",
+        "Masal"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Yazarın geçmişte yaşadığı bir olayı üzerinden zaman geçtikten sonra hafızasından aktarması 'Anı' türünü verir."
+    },
+    {
+      "id": "Q_8_12_025",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Karga, ağacın dalına konmuş ve gagasında tuttuğu peyniri yemek üzereydi. Tilki bunu görünce hemen ağacın dibine gelmiş ve kargaya hitaben, \"Ey muhteşem sesli kuş, senin sesinin güzelliğini dillerde dolaşıyor, ne olur bir şarkı söyle de dinleyelim.\" demiş.'",
+      "answers": [
+        "Masal",
+        "Fabl",
+        "Efsane",
+        "Hikaye"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 1,
+      "explanation": "Hayvanların (karga ve tilki) konuşturulduğu ve kurnazlık/övgü temalı ahlaki ders barındıran bu metin bir 'Fabl' örneğidir."
+    },
+    {
+      "id": "Q_8_12_026",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Sabah erken saatlerde ulaştığımız Mostar Köprüsü, tarih boyunca pek çok medeniyetin izlerini barındıran muazzam bir mimari şaheserdir. Neretva Nehri'nin masmavi suları üzerinden yükselen köprünün etrafındaki taş evler, ziyaretçilere adeta orta çağ atmosferini yaşatmaktadır.'",
+      "answers": [
+        "Gezi Yazısı",
+        "Biyografi",
+        "Deneme",
+        "Makale"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Farklı bir coğrafi yerin, Mostar Köprüsü'nün gözlemlenerek anlatılması 'Gezi Yazısı' (seyahatname) türüne aittir."
+    },
+    {
+      "id": "Q_8_12_027",
+      "questionText": "Aşağıdaki edebi türlerden hangisi doğrudan sahnelenmek (tiyatro sahnesinde sergilenmek) amacıyla yazılmaz?",
+      "answers": [
+        "Trajedi",
+        "Komedi",
+        "Dram",
+        "Roman"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Romanlar okunmak için yazılan uzun kurgulardır; trajedi, komedi ve dram ise sahnelenmek üzere yazılan tiyatro alt türleridir."
+    },
+    {
+      "id": "Q_8_12_028",
+      "questionText": "Aşağıdaki seçeneklerin hangisinde verilen özellikler karşısındaki metin türüyle **uyuşmamaktadır**?",
+      "answers": [
+        "Makale -> Bilimsel ve nesnel bilgilendirme, kanıtlama amacı",
+        "Deneme -> Yazarın kendi düşüncelerini özgürce ve kanıtsız anlatması",
+        "Günlük -> Üzerinden yıllar geçtikten sonra geçmişi hatırlayarak yazılması",
+        "Fabl -> İnsan dışı varlıkların konuşturulması ve ders verme amacı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Metin Türleri",
+      "difficulty": 3,
+      "explanation": "Günlük -> Üzerinden yıllar geçtikten sonra geçmişi hatırlayarak yazılması. Seçeneğinde günlüklerin üzerinden yıllar geçtikten sonra yazıldığı söylenmiştir; bu tanım günlüğe değil, **anıya (hatıraya)** aittir."
+    },
+    {
+      "id": "Q_8_12_029",
+      "questionText": "Bir yazarın kendi yaşamını, kariyerini, çocukluğundan itibaren başından geçenleri tarafsız veya edebi bir dille kaleme aldığı eser aşağıdaki türlerden hangisine girer?",
+      "answers": [
+        "Biyografi",
+        "Otobiyografi",
+        "Anı",
+        "Günlük"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Metin Türleri",
+      "difficulty": 2,
+      "explanation": "Yazarın kendi yaşamını kendisinin yazması 'Otobiyografi'dir."
+    },
+    {
+      "id": "Q_8_12_030",
+      "questionText": "I. Güncel olayları günübirlik, gazete köşelerinde işler. (Fıkra)\nII. Yaşanmış ya da yaşanması muhtemel olayları kişi, yer ve zamana bağlı anlatır. (Hikaye)\nIII. Bir bilimsel tezi belgelerle kanıtlamak için nesnel dille yazılır. (Makale)\nIV. Yazarın kendi hayatını başkalarının ağzından anlatır. (Otobiyografi)\n\nYukarıda numaralanmış metin türü açıklamalarından hangisi **yanlıştır**?",
+      "answers": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Metin Türleri",
+      "difficulty": 3,
+      "explanation": "IV numaralı açıklamada otobiyografinin 'başkalarının ağzından' anlatıldığı söylenmiştir; oysa otobiyografi yazarın *kendi* ağzından (birinci tekil şahısla) kendi hayatını anlatmasıdır. Bu nedenle IV yanlıştır."
+    }
+  ]
+}

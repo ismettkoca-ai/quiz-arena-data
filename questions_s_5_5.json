@@ -1,0 +1,425 @@
+{
+  "unit": "Hayatımızdaki Ekonomi",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "Yaşayabilmek için mutlaka karşılamamız gereken, vazgeçemediğimiz zorunlu durumlara ne ad verilir?",
+      "answers": [
+        "İstek",
+        "İhtiyaç",
+        "Lüks",
+        "Tasarruf"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Hayatta kalmak ve temel yaşamı sürdürmek için gerekli olan unsurlara 'ihtiyaç' denir (besin, barınma vb.)."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "Olmasa da yaşamımızı sürdürebileceğimiz, bizi mutlu eden ancak zorunlu olmayan arzularımıza ne denir?",
+      "answers": [
+        "İhtiyaç",
+        "İstek",
+        "Üretim",
+        "Maliyet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Zorunlu olmayan ve kişisel zevklere dayanan arzulara 'istek' denir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Aşağıdakilerden hangisi bir öğrenci için 'temel ihtiyaç'tır?",
+      "answers": [
+        "Yeni çıkan en pahalı cep telefonu",
+        "Ders kitapları ve defterler",
+        "Lüks spor ayakkabı",
+        "Konser bileti"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Eğitim ve okul malzemeleri öğrencinin temel ihtiyaçları arasındadır."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "Mal ve hizmetlerin elde edilmesi, tüketiciye ulaştırılması ve satın alınması sürecinde paranın ve kaynakların planlı kullanımına ne denir?",
+      "answers": [
+        "Bütçe",
+        "İsraf",
+        "Borç",
+        "Yatırım"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Gelir ve giderlerin önceden planlandığı cetvele bütçe denir."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "Aşağıdakilerden hangisi 'bilinçli bir tüketicinin' özelliklerinden biridir?",
+      "answers": [
+        "Etiket fiyatına bakmadan alışveriş yapar.",
+        "Alışverişten sonra fiş veya fatura almaz.",
+        "İhtiyaçlarını öncelik sırasına koyar ve bütçesine dikkat eder.",
+        "Reklamı yapılan her ürünü hemen satın alır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Bilinçli tüketici ihtiyaçlarını planlar, bütçesine uygun hareket eder."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "Bozuk veya kusurlu bir mal satın alan tüketicinin kanuni haklarını arayabileceği ilk resmi kurum veya birim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Tüketici Hakem Heyeti",
+        "Belediye zabıtası",
+        "Askeri birlikler",
+        "Muhtarlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Ayıplı mallar ve tüketici uyuşmazlıkları için Tüketici Hakem Heyetlerine başvurulur."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "İnsanların geçimlerini sağlamak, mal ve hizmet üretmek amacıyla yaptıkları sürekli işlere ne ad verilir?",
+      "answers": [
+        "Hobi",
+        "Meslek",
+        "Tatil",
+        "Oyun"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Geçim sağlamak için yapılan sürekli faaliyetlere meslek denir."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "Toprağın sürülmesi, tohum ekilmesi ve tarım ürünlerinin yetiştirilmesi ekonomik faaliyet olarak hangi sektöre girer?",
+      "answers": [
+        "Tarım (Birincil faaliyet)",
+        "Sanayi",
+        "Hizmet",
+        "Teknoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Tarım, hayvancılık ve ormancılık birincil (tarım) sektörüdür."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Fabrikalarda hammaddelerin işlenerek yeni ürünlere dönüştürülmesi ekonomik faaliyetlerin hangi alanındadır?",
+      "answers": [
+        "Hizmet",
+        "Sanayi (İkincil)",
+        "Tarım",
+        "Turizm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "İşleme ve üretim faaliyetleri sanayi sektörünü oluşturur."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Eğitim, sağlık, ulaşım ve bankacılık gibi alanlar ekonomik faaliyetlerin hangi sektöründe yer alır?",
+      "answers": [
+        "Tarım",
+        "Sanayi",
+        "Hizmet (Üçüncül)",
+        "Madencilik"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "İnsanlara sunulan meslekler ve kolaylıklar hizmet sektörüdür."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "Ülkemizde coğrafi özellikleri dikkate aldığımızda, engebeli ve yüksek dağlık alanlarda yaygın olarak hangi ekonomik faaliyet yapılır?",
+      "answers": [
+        "Muz yetiştiriciliği",
+        "Büyükbaş hayvancılık ve yaylacılık",
+        "Pirinç tarımı",
+        "Deniz turizmi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatümüzdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Dağlık ve çayır alanlarda büyükbaş hayvancılık yapılır."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "Bilinçli bir tüketicinin satın alacağı gıda ürünlerinde mutlaka kontrol etmesi gereken resmi onay damgası nedir?",
+      "answers": [
+        "TSE (Türk Standardları Enstitüsü) ve Tarım Bakanlığı İzni",
+        "Sadece renkli ambalaj",
+        "Pahalı olması",
+        "Yabancı marka olması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Gıda güvenliği ve standartlar için TSE ve bakanlık onayları aranır."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "Kaynakların ve paranın gereksiz yere, savurganca harcanmasına ne ad verilir?",
+      "answers": [
+        "Tasarruf",
+        "İsraf",
+        "Yatırım",
+        "Bütçe"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Gereksiz harcama ve tüketime israf denir."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "Aşağıdakilerden hangisi bir ailenin aylık bütçesini hazırlarken yapması gereken ilk iştir?",
+      "answers": [
+        "Tüm parayı eğlenceye harcamak",
+        "Gelir miktarını ve zorunlu giderleri belirlemek",
+        "Kredi kartı borçlarını artırmak",
+        "Alışveriş listesi yapmamak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Bütçe yaparken önce toplam gelir ve zorunlu giderler hesaplanır."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "Bir bölgenin iklim özellikleri o yörenin ekonomisini doğrudan etkiler. Buna göre Akdeniz ikliminin görüldüğü bir yerde hangi tarım ürününün yetişmesi beklenmez?",
+      "answers": [
+        "Turunçgiller (Portakal, mandalina)",
+        "Zeytin",
+        "Çay (Doğu Karadeniz iklimi ister)",
+        "Pamuk"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Çay bol yağış ve serin her mevsim nemli iklim ister (Doğu Karadeniz), Akdeniz'de yetişmez."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Ürettiğimiz bir malın veya sunduğumuz hizmetin maliyetinden daha yüksek bir fiyata satılmasıyla elde edilen kazanca ne ad verilir?",
+      "answers": [
+        "Zarar",
+        "Kâr (Kazanç)",
+        "Vergi",
+        "Maliyet"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Üretim ve satış arasındaki olumlu fark kârdır."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "Aşağıdakilerden hangisi meslek seçimi yaparken dikkat edilmesi gereken unsurlardan biri DEĞİLDİR?",
+      "answers": [
+        "Kendi ilgi ve yeteneklerimizi bilmek",
+        "Mesleğin çalışma koşullarını incelemek",
+        "Sadece 'en çok para kazandıran' işe bakarak karar vermek",
+        "Ülkenin o meslek dalındaki ihtiyacını göz önüne almak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Sadece paraya odaklanmak uzun vadede mutsuzluğa yol açabilir; ilgi ve yetenekler önceliklidir."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "Alınan bir ürünün bozuk çıkması durumunda tüketicinin yasal olarak sahip olduğu 'değiştirme' veya 'iade' süresinde satıcıya ibraz etmesi zorunlu olan belge nedir?",
+      "answers": [
+        "Garanti belgesi ve Fiş/Fatura",
+        "Kartvizit",
+        "Kargo kutusu",
+        "Reklam broşürü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Hak aramak ve iade/değişim yapmak için fiş, fatura veya garanti belgesi şarttır."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Elektrik ve su faturalarının yüksek gelmesini önlemek için evde yapılan tedbirler ekonomik açıdan neyi sağlar?",
+      "answers": [
+        "Bütçeye katkı ve tasarrufu",
+        "İsrafın artmasını",
+        "Kaynakların tükenmesini",
+        "Giderlerin çoğalmasını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Tasarruf aile bütçesine doğrudan katkı sağlar."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Türkiye'de madencilik faaliyetlerinin yoğun olduğu bölgelerde genellikle hangi sanayi kolü gelişmiştir?",
+      "answers": [
+        "Metal işleme ve demir-çelik sanayi",
+        "Çay paketleme",
+        "Pamuklu dokuma",
+        "Gemi yapımı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Madenlerin çıktığı yerlerde metalurji ve demir-çelik sanayi gelişir."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "Aşağıdakilerden hangisi yatırımlarını güvenli bir şekilde değerlendirmek ve ülke ekonomisine katkı sunmak isteyen bir vatandaşın yapacağı doğru davranıştır?",
+      "answers": [
+        "Parasını evde yastık altında saklamak",
+        "Bankalarda tasarruf hesapları açmak veya güvenli finansal araçlar kullanmak",
+        "Tanımadığı kişilere elden borç vermek",
+        "Şans oyunlarına tüm serveti yatırmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Bankalar aracılığıyla tasarruf etmek ekonomi için güvenli ve doğrudur."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "İnsanların günlük yaşamlarını kolaylaştıran elektrikli ev aletleri üretimi hangi ekonomik sektörün kapsamına girer?",
+      "answers": [
+        "Tarım",
+        "Sanayi",
+        "Hizmet",
+        "Hayvancılık"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Fabrikalarda üretilen aletler sanayi sektörüdür."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "Bir ülkede turizm faaliyetlerinin gelişmesi o bölgeye hangi ekonomik katkıyı sağlar?",
+      "answers": [
+        "Döviz girdisi sağlar ve istihdamı (iş imkanını) artırır",
+        "Ekonomiyi durdurur",
+        "Tarım ürünlerini yok eder",
+        "Fabrikaları kapatır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Turizm ülke ekonomisine canlılık ve döviz kazandırır."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "Bilinçli bir tüketici reklamları izlerken aşağıdakilerden hangisini göz önünde bulundurmalıdır?",
+      "answers": [
+        "Reklamların bazen ürünleri olduğundan çok daha iyi gösterebileceğini bilerek eleştirel yaklaşmalıdır.",
+        "Reklamdaki her bilginin kesinlikle %100 gerçek olduğuna inanmalıdır.",
+        "Sadece reklamı uzun süren ürünleri almalıdır.",
+        "Fiyatına hiç bakmamalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Reklamlar ikna edici unsurlar barındırabilir, bilinçli tüketici sorgulayıcıdır."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "Girişimci bir insanın en temel özelliklerinden biri aşağıdakilerden hangisidir?",
+      "answers": [
+        "Risk alabilen, yenilikçi ve yeni iş fikirleri üretebilen",
+        "Sürekli başkalarının emrinde çalışan",
+        "Yeniliklerden korkan",
+        "Hiçbir plan yapmayan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Girişimcilik risk alabilme ve yenilik getirme becerisidir."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "Kerem, aylık harçlığından artırabildiği parayla önce acil ihtiyaçlarını karşılamakta, ardından okulda fotokopi çekilmek veya defter almak için bir pay ayırmakta, kalanı ise kumbara atarak gelecekteki bisiklet isteği için biriktirmektedir. Kerem'in bu davranışı onun hangi özelliğini kanıtlar?",
+      "answers": [
+        "İsrafçı olduğunu",
+        "Bütçe planlaması yapabilen ve tasarruf bilincine sahip bilinçli bir birey olduğunu",
+        "Sadece isteklerine para harcadığını",
+        "Ekonomiden anlamadığını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 3,
+      "explanation": "Kerem önceliklerini belirlemiş, bütçe yapmış ve tasarruf bilinciyle hareket etmektedir."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Aşağıdakilerden hangisi tarımı destekleyen devlet kurumlarından biri DEĞİLDİR?",
+      "answers": [
+        "TMO (Toprak Mahsulleri Ofisi)",
+        "Ziraat Bankası",
+        "TRT",
+        "Tarım ve Orman Bakanlığı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "TRT bir yayıncılık kuruluşudur, tarımla doğrudan bağı yoktur."
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Bir ürünün tarladan rafa gelene kadar geçirdiği aşamalar sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Tüketim - Üretim - Dağıtım",
+        "Üretim - Dağıtım - Tüketim",
+        "Dağıtım - Tüketim - Üretim",
+        "Tüketim - Dağıtım - Üretim"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 1,
+      "explanation": "Ekonomik döngü sırasıyla Üretim, Dağıtım ve Tüketim aşamalarından oluşur."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "Aşağıdaki mesleklerden hangisi 'Hizmet Sektörü' içinde yer almaz?",
+      "answers": [
+        "Öğretmen",
+        "Doktor",
+        "Otomobil fabrikası işçisi",
+        "Avukat"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Fabrika işçisi sanayi (üretim) sektörü içerisindedir."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "Tüketici olarak haklarımızı korumak ve yanlış uygulamaları şikayet etmek için kullanılan Alo 175 hattı hangi kuruma aittir?",
+      "answers": [
+        "Tüketici Danışma Hattı (Ticaret Bakanlığı)",
+        "İtfaiye",
+        "Polis imdat",
+        "Acil yardım"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hayatımızdaki Ekonomi",
+      "difficulty": 2,
+      "explanation": "Alo 175 tüketici danışma ve şikayet hattıdır."
+    }
+  ]
+}

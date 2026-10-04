@@ -1,0 +1,425 @@
+{
+  "unit": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "Milli egemenlik, ulusal irade, seçme ve seçilme hakları, cumhuriyet rejimi ve çok partili yaşam gibi kavramlar Atatürk'ün hangi ilkesiyle doğrudan ilgilidir?",
+      "answers": [
+        "Cumhuriyetçilik",
+        "Laiklik",
+        "Halkçılık",
+        "Devletçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 1,
+      "explanation": "Cumhuriyetçilik ilkesi, halkın kendi kendini yönetmesini, ulusal iradenin ve demokrasinin egemen olmasını esas alır."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "Osmanlı Devleti'nin hukuken ve resmen sona ermesini sağlayan, milli egemenlik yolunda atılan ilk ve en önemli siyasi adım aşağıdakilerden hangisidir?",
+      "answers": [
+        "Cumhuriyetin ilanı",
+        "Saltanatın kaldırılması (1 Kasım 1922)",
+        "Halifeliğin kaldırılması",
+        "Ankara'nın başkent olması"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 1,
+      "explanation": "1 Kasım 1922'de saltanatın kaldırılmasıyla Osmanlı saltanatı sona ermiş, ulusal egemenliğin önündeki en büyük engel ortadan kalkmıştır."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "29 Ekim 1923'te gerçekleştirilen Cumhuriyetin ilanı ile devlet yönetimindeki hangi büyük eksiklik giderilmiştir?",
+      "answers": [
+        "Devletin rejimi ve adı konulmuş, devlet başkanlığı sorunu çözülmüştür.",
+        "Ekonomik krizler tamamen bitmiştir.",
+        "Laik hukuk sistemine geçilmiştir.",
+        "Kabotaj hakkı kazanılmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 1,
+      "explanation": "Cumhuriyetin ilanı ile yeni Türk devletinin rejimi adını almış (Cumhuriyet) ve meclis hükümeti sisteminden parlamenter rejim sistemine geçilmiştir."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "1926 yılında kabul edilen Türk Medeni Kanunu ile kadınlara sağlanan haklar arasında aşağıdakilerden hangisi yer almaz?",
+      "answers": [
+        "Resmi nikah zorunluluğu getirilmesi",
+        "Tek eşle evlilik esası",
+        "Miras ve boşanmada kadın-erkek eşitliği",
+        "Milletvekili seçme ve seçilme hakkı verilmesi"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 1,
+      "explanation": "Milletvekili seçme ve seçilme hakkı Medeni Kanun ile değil, 1934 yılında Anayasa'da yapılan değişikliklerle kadınlara tanınmıştır."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "Eğitim ve öğretimde birlik sağlamak, yabancı ve azınlık okullarını devlet denetimine almak amacıyla 3 Mart 1924'te çıkarılan kanun hangisidir?",
+      "answers": [
+        "Tevhid-i Tedrisat Kanunu",
+        "Harf İnkılabı",
+        "Maarif Teşkilat Hakkında Kanun",
+        "Medeni Kanun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 1,
+      "explanation": "Tevhid-i Tedrisat Kanunu (Öğretim Birliği) ile tüm okullar Milli Eğitim Bakanlığına bağlanmış, eğitimde ikilik ortadan kaldırılmıştır."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "Akıl ve bilimin rehberliğinde devlet ve din işlerinin birbirinden ayrılması, vicdan özgürlüğünün sağlanması Atatürk'ün hangi ilkesinin temelini oluşturur?",
+      "answers": [
+        "Laiklik",
+        "Milliyetçilik",
+        "İnkılapçılık",
+        "Halkçılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Laiklik ilkesi, devlet düzeni ve hukuk kurallarının dine değil akla ve bilime dayandırılmasını, din ve vicdan hürriyetini güvence altına alır."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "Toplumda kıyafet birliği sağlamak, dış görünüşte ayrıcalık belirten unvan ve kıyafetleri ortadan kaldırmak amacıyla çıkarılan kanunlar hangi ilkelerle doğrudan ilişkilidir?",
+      "answers": [
+        "Halkçılık ve İnkılapçılık",
+        "Devletçilik ve Laiklik",
+        "Milliyetçilik ve Cumhuriyetçilik",
+        "Laiklik ve Milliyetçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Kıyafet düzenlemeleri toplumsal alanda eşitliği amaçladığı için Halkçılık, çağdaşlaşma ve yenilikçi olduğu için İnkılapçılık ilkesiyle ilgilidir."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "1923 yılında toplanan İzmir İktisat Kongresi'nde kabul edilen 'Misak-ı İktisadi' (Ekonomi Andı) ile hedeflenen temel amaç nedir?",
+      "answers": [
+        "Yabancı sermayeye tam bağımlı olmak",
+        "Milli ekonomi kurmak, yerli malı kullanımını teşvik etmek ve ekonomik bağımsızlığı kazanmak",
+        "Tarım üretimini tamamen durdurmak",
+        "Osmanlı borçlarını artırmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "İzmir İktisat Kongresi'nde milli bağımsızlığın ekonomik bağımsızlıkla taçlandırılması gerektiği vurgulanmış, yerli malı üretimi ve kullanımı teşvik edilmiştir."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "3 Mart 1924'te Halifeliğin kaldırılması ve Osmanlı hanedanının yurt dışına çıkarılması hangi alanda atılmış laik ve inkılapçı bir adımdır?",
+      "answers": [
+        "Siyasi ve dinî alan",
+        "Yalnızca ekonomi alanı",
+        "Askeri alan",
+        "Dış politika alanı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Halifeliğin kaldırılması, devlet düzeninde ikilik çıkaran ve laiklik önünde engel olan siyasi-dini bir kurumun tasfiye edilmesidir."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Milli birlik ve beraberlik, bağımsızlık sevgisi, yurt sevgisi ve 'Türklük' gurur ve bilinci Atatürk'ün hangi ilkesiyle doğrudan bağlantılıdır?",
+      "answers": [
+        "Milliyetçilik",
+        "Devletçilik",
+        "Halkçılık",
+        "Laiklik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Atatürk'ün milliyetçilik anlayışı ırkçı değil, kültürel birliğe, ortak geçmişe ve vatan sevgisine dayanan birleştirici bir milliyetçiliktir."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "Cumhuriyet döneminde kurulan ilk muhalefet partisi olan ve ekonomik alanda liberalizmi (serbest piyasa ekonomisini) savunan parti aşağıdakilerden hangisidir?",
+      "answers": [
+        "Cumhuriyet Halk Fırkası",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Serbest Cumhuriyet Fırkası",
+        "Ahali Cumhuriyet Fırkası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "1924 yılında Kâzım Karabekir ve arkadaşları tarafından kurulan Terakkiperver Cumhuriyet Fırkası, Türkiye'nin ilk muhalefet partisidir."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "1925 yılında çıkan Şeyh Sait İsyanı'nın bastırılması ve rejimi korumak için çıkarılan kanun hangisidir?",
+      "answers": [
+        "Takrir-i Sükûn Kanunu",
+        "Teşvik-i Sanayi Kanunu",
+        "Kabotaj Kanunu",
+        "Şapka Kanunu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Şeyh Sait isyanının ardından huzur ve güvenliği sağlamak, rejimi korumak amacıyla İstiklal Mahkemelerinin de yetkilerini artıran Takrir-i Sükûn (Huzur ve Sükunet) Kanunu çıkarılmıştır."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "Özel sektörün sermaye yetersizliği nedeniyle gerçekleştiremediği büyük yatırımların bizzat devlet tarafından yapılmasını öngören ilke hangisidir?",
+      "answers": [
+        "Devletçilik",
+        "Halkçılık",
+        "Laiklik",
+        "Cumhuriyetçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Devletçilik ilkesi, ekonomik alanda devletin hem planlayıcı hem de yatırımcı olarak bizzat fabrika ve işletmeler kurmasını esas alır."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "1 Kasım 1928'de Arap alfabesi yerine Latin alfabesine dayalı yeni Türk harflerinin kabul edilmesinin en önemli gerekçesi nedir?",
+      "answers": [
+        "Okuma yazma oranını artırmak ve eğitim-öğretimi kolaylaştırmak",
+        "Avrupa'dan borç almak",
+        "Askeri gücü artırmak",
+        "Yabancı dil öğrenimini yasaklamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Yeni Türk harfleri sayesinde okuma yazma öğrenmek kolaylaşmış, halkın kültür seviyesinin artırılması hedeflenmiştir."
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Atatürk'ün 'Benim manevi mirasım ilim ve akıldır' sözü ve sürekli çağdaşlaşmayı, akılcılığı, yeniliğe açık olmayı savunması hangi ilkeyle doğrudan bağdaşır?",
+      "answers": [
+        "İnkılapçılık",
+        "Milliyetçilik",
+        "Laiklik",
+        "Devletçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "İnkılapçılık ilkesi, çağın gereksinimlerine göre kendini yenilemeyi, dinamik kalmayı ve akılcı gelişmeleri benimsemeyi savunur."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "1934 yılında çıkarılan Soyadı Kanunu ile 'ağa, bey, paşa, hazretleri' gibi ayrıcalık bildiren unvanların yasaklanması hangi Atatürk ilkesiyle doğrudan ilgilidir?",
+      "answers": [
+        "Halkçılık (Kanun önünde eşitlik ve sınıfsuz toplum)",
+        "Laiklik",
+        "Devletçilik",
+        "Milliyetçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Ayrıcalık belirten unvanların kaldırılması, toplumda her vatandaşın kanun önünde eşit olduğunu savunan Halkçılık ilkesinin gereğidir."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Türkiye'de kadınlara siyasi hakların (muhtar, belediye meclisi ve milletvekili seçme-seçilme) tam olarak verilmesi hangi yıllar arasında gerçekleşmiştir?",
+      "answers": [
+        "1930 - 1934",
+        "1923 - 1924",
+        "1926 - 1927",
+        "1937 - 1938"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Kadınlara 1930'da belediye seçimlerinde, 1933'te muhtarlık seçimlerinde, 1934'te ise milletvekili seçme ve seçilme hakkı verilmiştir."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Osmanlı döneminde uygulanan Mecelle'nin ve dini hukuk kurallarının kaldırılarak Batılı medeni kanunların örnek alınması hangi ilkenin hayata geçirildiğini gösterir?",
+      "answers": [
+        "Laikleşme ve hukuk birliği (Laiklik ilkesi)",
+        "Devletçilik",
+        "Milliyetçilik",
+        "Cumhuriyetçilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Hukuk kurallarının dine dayalı olmaktan çıkarılıp toplumsal ihtiyaçlara göre akılcı esaslarla düzenlenmesi laik hukuk sistemine geçişi (Laiklik) ifade eder."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "1 Temmuz 1926'da kabul edilen Kabotaj Kanunu ile Türk denizlerinde ticaret hakkının yalnızca Türk gemilerine verilmesi hangi alanda kazanılan büyük bir başarıdır?",
+      "answers": [
+        "Milli egemenlik ve ekonomik bağımsızlık",
+        "Siyasi diplomasi",
+        "Eğitim ve kültür",
+        "Askeri savunma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Kabotaj Kanunu ile Türk denizlerinin ticari kontrolü yabancılardan alınarak millileştirilmiş, ekonomik bağımsızlık güçlendirilmiştir."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "1930 yılında Ali Fethi Okyar tarafından kurulan ancak rejim karşıtlarının odağı haline gelmesi üzerine kendi kendini fesheden ikinci muhalefet partisi hangisidir?",
+      "answers": [
+        "Serbest Cumhuriyet Fırkası",
+        "Terakkiperver Cumhuriyet Fırkası",
+        "Ahali Fırkası",
+        "Demokrat Parti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Serbest Cumhuriyet Fırkası, çok partili hayata geçiş denemesi olarak kurulmuş ancak ortamın gerilmesi üzerine Ali Fethi Okyar tarafından kapatılmıştır."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "Atatürk'ün kurduğu Türk Tarih Kurumu ve Türk Dil Kurumu'nun kurulmasındaki temel amaç nedir?",
+      "answers": [
+        "Türk milletinin köklü tarihini bilimsel olarak araştırmak ve Türk dilini yabancı dillerin etkisinden kurtarıp zenginleştirmek",
+        "Osmanlıca'yı zorunlu kılmak",
+        "Sadece yabancı dilleri öğretmek",
+        "Eski alfabe sistemine geri dönmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Türk milletinin tarih ve dil bilincini milli temeller üzerinde yeniden inşa etmek amacıyla bu kurumlar faaliyete geçirilmiştir."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "1925 yılında köylünün sırtında ağır bir yük olan Aşar vergisinin kaldırılması hangi ilkeyle doğrudan ilişkilidir?",
+      "answers": [
+        "Halkçılık (Köylünün rahatlatılması, sosyal adalet)",
+        "Laiklik",
+        "Devletçilik",
+        "İnkılapçılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Aşar vergisinin kaldırılması, halkın en büyük kesimini oluşturan köylünün ekonomik yükünü hafiflettiği için Halkçılık ilkesiyle doğrudan ilgilidir."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "1930 yılında rejime ve laik düzene karşı çıkarılan, Asteğmen Mustafa Fehmi Kubilay'ın şehit edilmesiyle sonuçlanan gerici ayaklanma hangisidir?",
+      "answers": [
+        "Menemen Olayı (Kubilay Olayı)",
+        "Şeyh Sait İsyanı",
+        "31 Mart Vakası",
+        "Bozkurt-Lotus Olayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "İzmir'in Menemen ilçesinde çıkan bu olay, cumhuriyet ve laik düzen karşıtı grupların çıkardığı ikinci büyük isyandır."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "Yeni harflerin kabulünden sonra halka okuma yazma öğretmek amacıyla 1928 yılında açılan kursların adı nedir?",
+      "answers": [
+        "Millet Mektepleri",
+        "Köy Enstitüleri",
+        "Darülfünun",
+        "Enderun Mektebi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 2,
+      "explanation": "Millet Mektepleri, harf inkılabının ardından yediden yetmişe tüm vatandaşlara okuma yazma öğretmek için açılan yaygın eğitim kurumlarıdır."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "Atatürk ilkeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "answers": [
+        "Dogmatiktir, asla tartışılamaz ve değiştirilemez kurallar bütünüdür.",
+        "Akılcı ve bilimseldir.",
+        "Türk toplumunun ihtiyaçlarından doğmuştur.",
+        "Evrensel nitelikler taşır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Atatürk ilkeleri dogmatik (kalıplaşmış, tartışılamaz) değildir; aksine akla, bilime ve çağın değişimine ayak uydurabilecek dinamik bir yapıya sahiptir."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Medeni Kanun'un kabulüyle birlikte kadınlara tanınan haklar arasında hangisi yer **almaz**?",
+      "answers": [
+        "Belediye seçimlerine katılma hakkı",
+        "İstediği mesleği seçme hakkı",
+        "Mahkemelerde tanıklıkta eşitlik",
+        "Boşanma hakkı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Belediye seçimlerine katılma hakkı siyasi bir haktır ve 1930'da verilmiştir; Medeni Kanun (1926) ise aile ve özel hukuk haklarını düzenlemiştir."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "1927 yılında çıkarılan Teşvik-i Sanayi Kanunu ile özel sektörün sanayi alanında yatırım yapması hedeflenmiş, ancak yeterli sermaye ve birikim olmadığı için bu kanun istenen başarıyı sağlayamamıştır. Bu durum hangi ilkenin uygulanmasını zorunlu kılmıştır?",
+      "answers": [
+        "Devletçilik",
+        "Laiklik",
+        "Milliyetçilik",
+        "Halkçılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Özel sektör sanayi yatırımlarında yetersiz kalınınca, devlet bizzat el atarak 'Devletçilik' ilkesi gereği fabrikalar kurmaya başlamıştır."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "Aşağıdaki inkılaplardan hangisi hem Cumhuriyetçilik hem de Laiklik ilkeleriyle doğrudan ilişkilendirilemez?",
+      "answers": [
+        "Harf İnkılabı",
+        "Halifeliğin kaldırılması",
+        "Saltanatın kaldırılması",
+        "Medreselerin kapatılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Harf İnkılabı eğitim, kültür ve toplumsal alandaki çağdaşlaşmayla ilgilidir; doğrudan siyasi rejimi veya dini yönetimi hedef alan cumhuriyetçilikle doğrudan sınırlı değildir."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "3 Mart 1924 tarihinde gerçekleşen:\nI. Halifeliğin kaldırılması\nII. Tevhid-i Tedrisat Kanunu'nun kabulü\nIII. Erkan-ı Harbiye Vekaleti'nin kaldırılması\ninkılaplarının ortak temel amacı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Laik ve merkeziyetçi, ulusal bir devlet yapısı oluşturmak",
+        "Ekonomik bağımsızlığı kazanmak",
+        "Osmanlı borçlarını ödemek",
+        "Sadece kadın haklarını artırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Bu üç inkılap da 3 Mart 1924'te yapılmış olup, yeni devletin laik temellerini güçlendirmeyi, askeri ve siyasi alanda otoriteyi tek elde toplamayı amaçlamıştır."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "Atatürkçü Düşünce Sistemi'nin (Atatürk ilkelerinin) en temel dayanağı ve kalkınma felsefesi hangi seçenekte en doğru şekilde özetlenmiştir?",
+      "answers": [
+        "Akıl, bilim, milli egemenlik ve tam bağımsızlık",
+        "Yabancı devletlerin himayesini kabul etmek",
+        "Monarşik geleneklere sıkı sıkıya bağlı kalmak",
+        "Ekonomide tamamen dışa bağımlı olmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürkçülük Ve Çağdaşlaşan Türkiye",
+      "difficulty": 3,
+      "explanation": "Atatürkçü Düşünce Sistemi'nin özünü akılcılık, bilimsellik, ulusal egemenlik ve her alanda tam bağımsızlık oluşturur."
+    }
+  ]
+}

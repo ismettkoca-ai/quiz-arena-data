@@ -1,0 +1,425 @@
+{
+  "unit": "Evimiz Dünya",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Bir yerin kıtalara, okyanuslara, denizlere veya önemli geçiş yollarına göre konumuna ne ad verilir?",
+      "answers": [
+        "Mutlak konum",
+        "Göreceli (özel) konum",
+        "Matematik konum",
+        "Enlem"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Bir yerin çevresine, kıtalara, denizlere göre konumuna göreceli (özel) konum denir."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "Aşağıdakilerden hangisi 'doğal unsur'a örnektir?",
+      "answers": [
+        "Köprü",
+        "Baraj",
+        "Dağ",
+        "Tünel"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İnsan eli değmeden kendiliğinden var olan unsurlar doğal unsurdur (Dağ, nehir vb.)."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "Aşağıdakilerden hangisi 'beşeri unsur'a örnektir?",
+      "answers": [
+        "Orman",
+        "Otoyol",
+        "Göl",
+        "Plato"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İnsanlar tarafından yapılan yapılara beşeri unsur denir (Otoyol, bina vb.)."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "Bir yerleşim yerinde zamanla nüfusun artması, yeni binaların yapılması ve tarım alanlarının azalması hangi alandaki değişimi gösterir?",
+      "answers": [
+        "Sadece doğal değişim",
+        "Beşeri ve mekânsal değişim",
+        "İklim değişimi",
+        "Kıtasal hareket"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "İnsan eliyle yapılan bu değişimler beşeri ve mekânsal değişimi ifade eder."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Dünyamızdaki su kaynaklarının bilinçsizce tüketilmesi ve kirlenmesi en çok hangi soruna yol açar?",
+      "answers": [
+        "Su tasarrufuna",
+        "Su kıtlığı ve yaşamın tehlikeye girmesine",
+        "Okyanusların büyümesine",
+        "İklimin hep aynı kalmasına"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Su kaynaklarının kirlenmesi ve tükenmesi dünyadaki canlı yaşamını tehdit eder."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "Haritalarda su kütlelerini (deniz, okyanus, göl) göstermek için genellikle hangi renk kullanılır?",
+      "answers": [
+        "Yeşil",
+        "Kahverengi",
+        "Mavi",
+        "Sarı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Fiziki haritalarda sular mavi renk ile gösterilir."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "Fiziki haritalarda kahverengi ve tonları neyi ifade eder?",
+      "answers": [
+        "Ormanları",
+        "Yüksek dağları ve yükseltileri",
+        "Denizleri",
+        "Tarım alanlarını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Fiziki haritalarda kahverengi tonları deniz seviyesinden yüksek dağları gösterir."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "Aşağıdakilerden hangisi su tasarrufu sağlamak için yapılması gereken yanlış bir davranıştır?",
+      "answers": [
+        "Diş fırçalarken musluğu kapatmak",
+        "Musluklardaki damlatan contaları değiştirmek",
+        "Bulaşıkları elde ve sürekli akan su altında yıkamak",
+        "Duş süresini kısaltmak"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Sürekli akan su altında bulaşık yıkamak çok fazla su israfına yol açar."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "Haritalarda kullanılan ortak simge ve işaretlerin ne anlama geldiğini gösteren köşeye ne ad verilir?",
+      "answers": [
+        "Ölçek",
+        "Lejant (Anahtar)",
+        "Yön oku",
+        "Koordinat"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Haritadaki işaretlerin ne anlama geldiğini açıklayan bölüme lejant denir."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "Türkiye'nin Asya ile Avrupa kıtaları arasında bir köprü konumunda olması onun hangi özelliğini açıklar?",
+      "answers": [
+        "İklimini",
+        "Göreceli (özel) konumunu",
+        "Yer altı kaynaklarını",
+        "Nüfus miktarını"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Kıtalar arasındaki geçiş noktası olması özel (göreceli) konumudur."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "Çevre sorunlarının önlenmesi ve gelecek nesillere yaşanabilir bir dünya bırakılması sürecine ne ad verilir?",
+      "answers": [
+        "Sanayileşme",
+        "Sürdürülebilirlik",
+        "Göç",
+        "Kentleşme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Doğal kaynakların tüketilmeden korunması ve geleceğe aktarılması sürdürülebilirliktir."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Aşağıdakilerden hangisi yaşadığımız çevrede beşeri unsurların zamana bağlı olarak arttığının bir kanıtıdır?",
+      "answers": [
+        "Doğal mağaralar",
+        "Açılan yeni tüneller, viyadükler ve toplu konutlar",
+        "Akarsu yatakları",
+        "Ormanlık tepeler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Tünel ve konutlar insan yapımı (beşeri) unsurlardır."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "Yeryüzündeki tatlı su kaynaklarının oranı tuzlu su kaynaklarına göre nasıldır?",
+      "answers": [
+        "Çok daha fazladır",
+        "Çok daha azdır (oldukça sınırlıdır)",
+        "Eşittir",
+        "Tatlı su yoktur"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Dünyanın büyük kısmı tuzlu su (okyanuslar) ile kaplıdır, kullanılabilir tatlı su çok azdır."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "Bir ilin çevresindeki dağların, ovaların, akarsuların zaman içinde insan eliyle değiştirilmesi hangi süreci tetikler?",
+      "answers": [
+        "Doğal yaşamın korunmasını",
+        "Çevre sorunları ve habitat kaybını",
+        "Su kaynaklarının çoğalmasını",
+        "İklimin iyileşmesini"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Doğanın aşırı beşeri müdahalelerle değiştirilmesi çevre sorunlarına yol açar."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "Haritada yönleri bulmamıza yardım eden ve genellikle kuzeyi gösteren işarete ne denir?",
+      "answers": [
+        "Lejant",
+        "Ölçek",
+        "Yön oku",
+        "Çerçeve"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Yön oku harita üzerinde kuzeyi ve diğer ana yönleri bulmamızı sağlar."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "Aşağıdakilerden hangisi su ayak izini azaltmak (su tasarrufu yapmak) için bireysel olarak alınabilecek önlemlerden biridir?",
+      "answers": [
+        "Daha sık araba yıkamak",
+        "Gereksiz yere su akıtmamak, bozuk muslukları tamir ettirmek",
+        "Bahçeyi hortumla sulamak",
+        "Havuzları sık sık doldurmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Muslukları tamir ettirmek su israfını önler."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "Bir yerin kuşbakışı görünümünün kaba taslak ve ölçeksiz olarak kağıda aktarılmasına ne ad verilir?",
+      "answers": [
+        "Harita",
+        "Kroki",
+        "Atlas",
+        "Küre"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Ölçek kullanılmadan yapılan kaba taslak çizimlere kroki denir."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Aşağıdaki mesleklerden hangisi coğrafi ve çevre bilinciyle doğrudan ilgilidir?",
+      "answers": [
+        "Astronot",
+        "Çevre Mühendisi / Şehir Plancısı",
+        "Müzisyen",
+        "Moda tasarımcısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Çevre mühendisleri ve şehir plancıları mekânsal ve doğal dengenin korunmasında görev alır."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "Ülkemizin üç tarafının denizlerle çevrili olması, turizm ve ticaret açısından ona hangi avantajı sağlar?",
+      "answers": [
+        "Deniz ulaşımı ve turizm faaliyetlerinin gelişmesini sağlar.",
+        "Karasal iklimin şiddetlenmesini sağlar.",
+        "Komşularıyla kara bağlantısını tamamen keser.",
+        "Hiçbir avantajı yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Denizler ticaret ve turizm için büyük ekonomik ve coğrafi avantajdır."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Yeryüzü şekillerini (dağ, ova, vadi) ve yükseltilerini renkleri kullanarak gösteren harita türü hangisidir?",
+      "answers": [
+        "Siyasi harita",
+        "Fiziki harita",
+        "İklim haritası",
+        "Nüfus haritası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Yeryüzü şekillerini gösteren haritalar fiziki haritalardır."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "Bir şehirde köylerin mahallelere dönüşmesi, yeni sanayi bölgelerinin açılması aşağıdakilerden hangisinin göstergesidir?",
+      "answers": [
+        "Beşeri ve ekonomik gelişimin/değişimin",
+        "Doğal yapının bozulmadığının",
+        "Sadece iklimin değiştiğinin",
+        "Nüfusun azaldığının"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Sanayi ve yerleşim yerlerindeki büyüme beşeri ve ekonomik değişimi gösterir."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "Dünyadaki su kirliliğinin en büyük insan kaynaklı nedeni nedir?",
+      "answers": [
+        "Yağmur suları",
+        "Fabrika atıkları ve kanalizasyon sularının arıtılmadan sulara verilmesi",
+        "Rüzgarlar",
+        "Bulutlar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Sanayi ve evsel atıkların arıtılmadan su kaynaklarına bırakılması en büyük kirlilik sebebidir."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "Haritalarda küçültme oranına ne ad verilir?",
+      "answers": [
+        "Lejant",
+        "Ölçek",
+        "Koordinat",
+        "Yön oku"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Gerçek uzunlukların haritaya aktarılırken ne kadar küçültüldüğünü gösteren oran 'ölçek'tir."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "Aşağıdakilerden hangisi yaşadığımız çevrenin doğal özelliklerini korumak için alınacak tedbirlerden biridir?",
+      "answers": [
+        "Ormanlık alanları imara açmak",
+        "Ağaçlandırma çalışmalarını artırmak ve yeşili korumak",
+        "Fabrika bacalarına filtre takmamak",
+        "Plastik atıkları doğaya atmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Ağaçlandırma doğayı ve ekolojik dengeyi korur."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Bir yerin coğrafi konumundan ötürü sahip olduğu yeraltı ve yerüstü zenginlikleri onun hangi özelliğini etkiler?",
+      "answers": [
+        "Ekonomik ve sosyal yaşamını",
+        "Sadece matematik konumunu",
+        "Dünyanın kendi etrafındaki dönüş hızını",
+        "Ay'ın evrelerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Coğrafi konum insanların geçim kaynaklarını ve ekonomik faaliyetlerini doğrudan belirler."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Son 20 yılda bir il merkezindeki tarım arazilerinin %40'ının azaltılarak yerine toplu konutlar ve alışveriş merkezleri yapıldığı gözlenmiştir. Bu durumun ortaya çıkardığı en olası sonuç nedir?",
+      "answers": [
+        "Doğal su kaynaklarının korunması ve taşkınların azalması",
+        "Betonlaşmanın artmasıyla birlikte doğal yaşam alanlarının daralması ve çevre sorunları",
+        "Tarım ürünleri üretiminin katlanarak artması",
+        "İklimin tamamen kutup iklimine dönmesi"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 3,
+      "explanation": "Tarım arazilerinin yapılaşmaya açılması betonlaşmayı artırır ve doğaya zarar verir."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "Fiziki haritada yeşil renk ile gösterilen alanlar genellikle neyi ifade eder?",
+      "answers": [
+        "Yüksek dağ zirvelerini",
+        "Deniz seviyesine yakın alçak ovaları ve düzlükleri",
+        "Çölleri",
+        "Kalıcı karları"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "detailedExplanation": "Fiziki haritalarda yeşil renk 0-500 metre arası alçak alanları ve ovaları gösterir.",
+      "explanation": "Yeşil renk alçak düzlükleri ve ovaları temsil eder."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "Küresel iklim değişikliğinin temel nedenlerinden biri olarak gösterilen ve atmosferde biriken gazların oluşturduğu etkiye ne denir?",
+      "answers": [
+        "Ozon tabakasının kalınlaşması",
+        "Sera etkisi",
+        "Manyetik alan",
+        "Rüzgar erozyonu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Atmosferdeki gazların ısıyı tutmasıyla oluşan duruma sera etkisi denir."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Bir şehrin haritası incelenirken üzerindeki köprülerin, parkların ve binaların sembolleri hangi harita elemanından öğrenilir?",
+      "answers": [
+        "Lejant (İşaretler anahtarı)",
+        "Ölçek",
+        "Yön oku",
+        "Paraleller"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Evimiz Dünya",
+      "difficulty": 1,
+      "explanation": "Haritadaki simge ve sembollerin açıklamaları lejantta yer alır."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "Su tasarrufu ve sürdürülebilir çevre bilinci konusunda bir projede yer alan öğrenci grubunun öncelikli hedefi ne olmalıdır?",
+      "answers": [
+        "Doğal kaynakları sınırsızca tüketmek",
+        "Toplumda su bilinci oluşturarak kaynakların gelecek nesillere kalmasını sağlamak",
+        "Sadece kendi evindeki suyu kapatmak",
+        "Fabrikaları kapatmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Evimiz Dünya",
+      "difficulty": 2,
+      "explanation": "Projenin temel amacı toplumsal farkındalık yaratarak kaynakların sürdürülebilirliğini sağlamaktır."
+    }
+  ]
+}

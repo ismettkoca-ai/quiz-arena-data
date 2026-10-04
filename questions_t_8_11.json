@@ -1,0 +1,425 @@
+{
+  "unit": "Söz Sanatları",
+  "questions": [
+    {
+      "id": "Q_8_11_001",
+      "questionText": "Anlamı güçlendirmek, sözü daha etkili kılmak amacıyla aralarında benzerlik ilgi bulunan iki varlıktan zayıf olanı güçlü olana benzetme sanatına ne ad verilir?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Tezat (Zıtlık)",
+        "Abartma (Mübalağa)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "Aralarında ortak özellik bulunan iki unsurdan zayıf olanın güçlü olana benzetilmesi sanatına 'Benzetme (Teşbih)' denir."
+    },
+    {
+      "id": "Q_8_11_002",
+      "questionText": "Tam bir benzetmede (Teşbih) bulunması gereken dört temel unsur hangi seçenekte eksiksiz olarak verilmiştir?",
+      "answers": [
+        "Benzeyen, Kendisine Benzetilen, Benzetme Yönü, Benzetme Edatı",
+        "Özne, Yüklem, Nesne, Tümleç",
+        "Benzeyen, Zıt Anlam, Abartma, Kişileştirme",
+        "Konuşturma, Tezat, Benzetme, Yer Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "Eksiksiz bir benzetmede benzeyen, kendisine benzetilen, benzetme yönü (ortak özellik) ve benzetme edatı (gibi, kadar) bulunur."
+    },
+    {
+      "id": "Q_8_11_003",
+      "questionText": "İnsan dışındaki varlıklara (hayvan, bitki veya cansız nesnelere) insana özgü özellikler (duygu, düşünce, hareket) kazandırma sanatına ne ad verilir?",
+      "answers": [
+        "Konuşturma (İntak)",
+        "Kişileştirme (Teşhis)",
+        "Tezat (Zıtlık)",
+        "Abartma (Mübalağa)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "İnsan dışındaki varlıklara insan özellikleri (üzülmek, ağlamak, düşünmek vb.) yükleme sanatına kişileştirme (teşhis) denir."
+    },
+    {
+      "id": "Q_8_11_004",
+      "questionText": "İnsan dışındaki varlıkların konuşturulması (söyletilmesi) sanatına ne ad verilir ve bu sanatla ilgili kural nedir?",
+      "answers": [
+        "Tezat - Her tezatta konuşturma vardır.",
+        "Kişileştirme - Her kişileştirme aynı zamanda konuşturmadır.",
+        "Konuşturma (İntak) - Her konuşturma aynı zamanda bir kişileştirmedir.",
+        "Abartma - Konuşturma ile abartma aynı şeydir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "İnsan dışı varlıkların konuşturulması 'İntak'tır. Konuşan varlık zaten insan özelliklerine büründüğü için her intak (konuşturma) aynı zamanda bir kişileştirmedir (Teşhis)."
+    },
+    {
+      "id": "Q_8_11_005",
+      "questionText": "Bir düşünceyi, olayı veya durumu gerçekte olduğundan çok daha büyük ya da çok daha küçük göstererek anlatan söz sanatına ne denir?",
+      "answers": [
+        "Tezat (Zıtlık)",
+        "Abartma (Mübalağa)",
+        "Benzetme",
+        "Kişileştirme"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "Durumları olduğundan aşırı boyutlarda (çok büyük veya çok küçük) gösterme sanatına abartma (mübalağa) denir."
+    },
+    {
+      "id": "Q_8_11_006",
+      "questionText": "Birbirine zıt (karşıt) olan kavramları, duyguları veya durumları aynı dizede veya cümlede bir arada kullanma sanatına ne ad verilir?",
+      "answers": [
+        "Tezat (Zıtlık)",
+        "Abartma",
+        "Konuşturma",
+        "Benzetme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "Zıt anlamlı sözcüklerin veya birbirine karşıt durumların bir arada kullanılması tezat (zıtlık) sanatıdır."
+    },
+    {
+      "id": "Q_8_11_007",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'kişileştirme' (teşhis) sanatı yapılmıştır?",
+      "answers": [
+        "Dünyalar kadar bulaşık birikti yine mutfakta.",
+        "Dağlar başını alıp başka bir yere gidemezdi.",
+        "Ağaçlar bugün bize kollarını açmış, nazlı nazlı sallanıyordu.",
+        "Bu kadar sıcak havada buz gibi limonata çok iyi giderdi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "'Ağaçlar bugün bize kollarını açmış, nazlı nazlı sallanıyordu.' dizesinde ağaçların 'kollarını açması' ve 'nazlı nazlı sallanması' insana özgü bir özellik olup ağaçlara verilerek kişileştirme yapılmıştır."
+    },
+    {
+      "id": "Q_8_11_008",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'benzetme' (teşbih) sanatına başvurulmuştur?",
+      "answers": [
+        "Gözlerin kömür karası gibi karanlık geceleri aydınlatıyordu.",
+        "Minik serçe daldan dala neşeyle uçuyordu.",
+        "Ağlayan bulutlar sabah saatlerine kadar şehri yıkadı.",
+        "Yılın bu en soğuk gününde dışarısı buz kesmişti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Gözlerin kömür karası gibi karanlık geceleri aydınlatıyordu.' dizesinde gözler kömür karasına 'gibi' edatıyla benzetilerek benzetme (teşbih) yapılmıştır."
+    },
+    {
+      "id": "Q_8_11_009",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'tezat' (zıtlık) sanatına yer verilmiştir?",
+      "answers": [
+        "Ağlarım çaresizce her gün kahrederek.",
+        "Yıldızlar söner, gece karanlığa gömülür.",
+        "Neden böyle düşman görünürsünüz, / Yıllar yılı dost bildiğim aynalar?",
+        "Ağlaşır taştan taşın üstünde."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Neden böyle düşman görünürsünüz, / Yıllar yılı dost bildiğim aynalar?' dizelerindeki 'düşman' ile 'dost' sözcükleri karşıt durumları ifade ederek tezat (zıtlık) sanatı oluşturur."
+    },
+    {
+      "id": "Q_8_11_010",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'abartma' (mübalağa) sanatına örnek vardır?",
+      "answers": [
+        "Bir ah çeksem karşıki dağlar inler.",
+        "Bahçemizde güller her bahar yeniden açar.",
+        "Yolcular otobüse binmek için sırada bekliyordu.",
+        "Akşamüstü sahilde uzun uzun yürüyüş yaptık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "'Bir ah çeksem karşıki dağlar inler.' dizesinde bir ah çekince dağların inlemesi durumu gerçeğin çok ötesinde abartılarak anlatılmıştır."
+    },
+    {
+      "id": "Q_8_11_011",
+      "questionText": "'Gözlerimden giden yaşlar sel oldu / Bütün kasabayı derin sular bürüdü.' dizelerinde kullanılan ana söz sanatı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kişileştirme",
+        "Abartma",
+        "Tezat",
+        "Konuşturma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "Gözyaşlarının sel olup bütün kasabayı basması imkansız bir durum olduğundan aşırı derecede abartılmıştır (mübalağa)."
+    },
+    {
+      "id": "Q_8_11_012",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'konuşturma' (intak) sanatına yer verilmiştir?",
+      "answers": [
+        "Papatya dert yandı esen rüzgara: / \"Çok yalnızım bu dağ başlarında!\"",
+        "Bulutlar gökyüzünde pamuktan kaleler kuruyordu.",
+        "Dağlar bize uzaktan sessizce el sallıyordu.",
+        "Akşam güneşi tepelerin ardında kayboldu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Papatya dert yandı esen rüzgara: / \"Çok yalnızım bu dağ başlarında!\"' dizesinde insan dışı bir varlık olan papatyanın konuşması (söyleneni dile getirmesi) konuşturma (intak) sanatını örneklendirir."
+    },
+    {
+      "id": "Q_8_11_013",
+      "questionText": "'Kömür gözlüm, bu ayrılık bize çok geldi.' cümlesinde geçen 'kömür gözlüm' ifadesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme",
+        "Abartma",
+        "Benzetme (Yalnızca benzeyen ve kendisine benzetilenle yapılan kısmi benzetme / Teşbih)",
+        "Tezat"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "Gözler (benzeyen) siyahlığı yönüyle kömüre (kendisine benzetilen) benzetilmiştir; sadece bu iki unsurla yapılan benzetme (teşbih) söz konusudur."
+    },
+    {
+      "id": "Q_8_11_014",
+      "questionText": "Aşağıdaki dizelerin hangisinde hem 'kişileştirme' hem de 'konuşturma' sanatı bir arada bulunmaktadır?",
+      "answers": [
+        "Dere boyu saz olur, / Gelin olan tez olur.",
+        "Bahar gelince menekşe başını sallayıp \"Ben de buradayım!\" dedi.",
+        "Kuşlar yükseklerde özgürce uçuyordu.",
+        "Rüzgar esiyor, yapraklar yerlerde uçuşuyordu."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Bahar gelince menekşe başını sallayıp \"Ben de buradayım!\" dedi.' cümlesinde menekşenin başını sallaması kişileştirme (teşhis), kendi cümleleriyle konuşması ise konuşturma (intak) sanatıdır."
+    },
+    {
+      "id": "Q_8_11_015",
+      "questionText": "'Sakın bir söz söyleme, yüzüme bakma sakın / Ses anlayan bir ses değil, sessiz bir kaya gibi.' dizelerinde kullanılan temel söz sanatı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Benzetme",
+        "Kişileştirme",
+        "Abartma",
+        "Tezat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "Karşıdaki kişinin sesinin sessiz bir kayaya benzetilmesi 'gibi' edatıyla yapılmış olup burada benzetme (teşbih) sanatı kullanılmıştır."
+    },
+    {
+      "id": "Q_8_11_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yay ayraç içinde verilen söz sanatı yanlış belirtilmiştir?",
+      "answers": [
+        "Deniz, dev bir çarşaf gibi önümüzde seriliyordu. (Benzetme)",
+        "Tarihi çınarlar geçmişin acılarını hala fısıldıyordu. (Kişileştirme)",
+        "Bir gülüşünle dünyalar benim oldu sanki. (Abartma)",
+        "Gözyaşlarım sel olup taştı o gün. (Kişileştirme)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "'Gözyaşlarım sel olup taştı o gün.' dizesinde kişileştirme değil, abartma (mübalağa) sanatı yapılmıştır. Gözyaşlarının sel olması aşırı abartılmış bir durumdur."
+    },
+    {
+      "id": "Q_8_11_017",
+      "questionText": "'Ben bir ceviz ağacıyım Gülhane Parkı'nda / Ne sen bunun farkındasın ne polis farkında.' dizelerinde şairin başvurduğu temel edebi sanat aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kişileştirme (İnsan özelliklerini kendine mal etme / Teşhis)",
+        "Abartma",
+        "Tezat",
+        "Konuşturma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "Nazım Hikmet'in bu ünlü şiirinde şair kendisini ceviz ağacına benzetmiş ve ağacın ağzından konuşarak (bir ağacı insan gibi konuşturup hissettirerek) kişileştirme yapmıştır."
+    },
+    {
+      "id": "Q_8_11_018",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'zıtlık (tezat)' oluşturabilecek kavramlar bir arada verilmemiştir?",
+      "answers": [
+        "Ağlarım kasım kasım, gülersin kasım kasım.",
+        "Kimi ezdirir hakkını, kimi haksızlık yapar.",
+        "Neden böyle düşman görünürsünüz, / Yıllar yılı dost bildiğim aynalar?",
+        "Karanlık gecenin ardında aydınlık bir sabaha uyanacağız."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Kimi ezdirir hakkını, kimi haksızlık yapar.' dizesinde birbirine zıt kavramlar (örneğin ağlamak-gülmek, dost-düşman, karanlık-aydınlık) yer almamaktadır. Diğer dizelerde bu zıtlıklar mevcuttur."
+    },
+    {
+      "id": "Q_8_11_019",
+      "questionText": "'Yolun sonuna geldiğimizde ayaklarım artık beni taşımıyordu, sanki tonlarca demir bağlıydı.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Benzetme ve Abartma",
+        "Tezat ve Kişileştirme",
+        "Konuşturma ve Tezat",
+        "Sadece Kişileştirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "Ayakların yorgunluktan demire benzetilmesi ve 'tonlarca demir' ifadesiyle bu yorgunluğun devasa boyutlarda ifade edilmesi benzetme ve abartma sanatını aynı anda barındırır."
+    },
+    {
+      "id": "Q_8_11_020",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'kişileştirme' sanatı yoktur?",
+      "answers": [
+        "Yorgun bulutlar gökyüzünde ağır ağır ilerliyordu.",
+        "Hırçın dalgalar kayalara vurarak adeta kükrüyordu.",
+        "Bahçedeki papatyalar boyun bükmüş, gelecek günü bekliyordu.",
+        "Kitaplar kütüphanedeki raflara düzgünce dizilmişti."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Kitaplar kütüphanedeki raflara düzgünce dizilmişti.' cümlesinde kitapların rafa dizilmesi olağan bir eylemdir ve insani bir özellik yüklenmemiştir. Diğer cümlelerde bulutların yorulması, dalgaların kükremesi ve papatyaların boyun bükmesi birer kişileştirmedir."
+    },
+    {
+      "id": "Q_8_11_021",
+      "questionText": "'Arı, çiçekle konuşurken yapraklar alkış tutuyordu.' cümlesinde hangi söz sanatları bir arada kullanılmıştır?",
+      "answers": [
+        "Kişileştirme - Konuşturma - Abartma",
+        "Benzetme - Tezat",
+        "Abartma - Tezat",
+        "Yalnızca Benzetme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "Arının çiçekle konuşması intak (konuşturma) ve teşhis (kişileştirme); yaprakların alkış tutması ise kişileştirme ve sayısız yaprağın sesi bağlamında abartma ögeleri içerir."
+    },
+    {
+      "id": "Q_8_11_022",
+      "questionText": "Aşağıdaki dizelerin hangisinde şair, kendisini güçlü bir varlığa benzeterek 'benzetme' sanatını tam unsurlu olarak kullanmıştır?",
+      "answers": [
+        "Aslanlar gibi kükreyerek öne atıldı düşmana karşı.",
+        "Rüzgar esiyor, yapraklar havada uçuşuyordu.",
+        "Gözlerindeki hüzün herkesin yüreğini dağladı.",
+        "Zaman su gibi akıp gidiyor durduramıyorum."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Aslanlar gibi kükreyerek öne atıldı düşmana karşı.' dizesinde gizli özne olan kişi (benzeyen), aslana (kendisine benzetilen), 'gibi' (benzetme edatı) kullanılarak 'kükremesi' (benzetme yönü) bakımından benzetilmiştir ve dört unsur da tamdır."
+    },
+    {
+      "id": "Q_8_11_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde abartma (mübalağa) sanatına başvurulmamıştır?",
+      "answers": [
+        "O kadar acıktım ki bir oturuşta bütün bir kuzuyu yiyebilirim.",
+        "Sevincinden havalara uçtu, ayakları yerden kesildi.",
+        "Dünyanın dört bir yanından gelen misafirler salonu doldurdu.",
+        "Okula yetişmek için rüzgar gibi hızlı koştum."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Dünyanın dört bir yanından gelen misafirler salonu doldurdu.' cümlesinde geniş çaplı bir katılım ifade edilmiştir ve abartma (mübalağa) yoktur. Diğer cümlelerdeki bir oturuşta bütün kuzuyu yemek, havalara uçmak ve rüzgar gibi koşmak bariz birer abartmadır."
+    },
+    {
+      "id": "Q_8_11_024",
+      "questionText": "'Gülün tam ortasında ağlıyorum / Ha yürudüm ha yürüyemedim / Deniz ayakta duruyor.' dizelerinde hangi edebi sanat ağırlıklıdır?",
+      "answers": [
+        "Kişileştirme",
+        "Tezat",
+        "Abartma",
+        "Konuşturma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "Denizin 'ayakta durması' doğaya insani nitelikler kazandıran kişileştirme sanatını yansıtır."
+    },
+    {
+      "id": "Q_8_11_025",
+      "questionText": "Aşağıdaki dizelerin hangisinde 'tezat' (zıtlık) sanatı yoktur?",
+      "answers": [
+        "Kimi aydınlık ister, kimi karanlık.",
+        "Ağlarım hatıram geldikçe gülüştüklerimiz.",
+        "Dün sabah erkenden köyden yola çıktık.",
+        "Geceleri uyku girmez gözüme, gündüzleri çalışırım."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Dün sabah erkenden köyden yola çıktık.' cümlesinde zıt anlamlı kelimeler veya karşıt durumlar yoktur, düz bir anlatımdır. Diğer seçeneklerde aydınlık-karanlık, ağlarım-gülüştüklerimiz, gece-gündüz kelimeleriyle tezat oluşturulmuştur."
+    },
+    {
+      "id": "Q_8_11_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişileştirme' ile 'benzetme' sanatları bir arada kullanılmıştır?",
+      "answers": [
+        "Korkudan titreyen yapraklar, ürkek birer kuş gibi daldan düşüyordu.",
+        "Bulutlar gökyüzünde siyah saçlarını dağıttı.",
+        "Deniz dalgaları kıyıya vurarak şarkı söylüyordu.",
+        "Gecenin karanlığı bir çarşaf gibi üstümüze örtüldü."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "'Korkudan titreyen yapraklar, ürkek birer kuş gibi daldan düşüyordu.' dizesinde yaprakların korkudan titremesi 'kişileştirme', ürkek birer kuş gibi düşmesi ise 'benzetme' sanatıdır."
+    },
+    {
+      "id": "Q_8_11_027",
+      "questionText": "'Seni düşünürken bir çoban ateşi yanar dağlarımda.' dizesinde geçen 'çoban ateşi' benzetmesinde eksik olan unsur aşağıdakilerden hangisidir?",
+      "answers": [
+        "Benzeyen",
+        "Kendisine Benzetilen",
+        "Benzetme Edatı ve Benzetme Yönü",
+        "Hiçbiri eksik değildir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "Sadece benzeyen (düşünce/duygu) ve kendisine benzetilen (çoban ateşi) verilmiştir; benzetme edatı ve benzetme yönü verilmediği için buna 'teşbih-i beliğ' (güzel benzetme) denir."
+    },
+    {
+      "id": "Q_8_11_028",
+      "questionText": "Aşağıdaki dizelerin hangisinde abartma sanatına başvurulmuştur?",
+      "answers": [
+        "Bir ok attım mızrağa ulaştı.",
+        "Bahar gelince dağlar yeşerecek.",
+        "Çocuklar parkta neşeyle oynuyor.",
+        "Annem mutfakta çay hazırlıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 2,
+      "explanation": "'Bir ok attım mızrağa ulaştı.' dizesinde atılan okun mızrağa ulaşması imkansız ve aşırı derecede abartılmış bir durumdur."
+    },
+    {
+      "id": "Q_8_11_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişileştirme' (teşhis) yapılmıştır?",
+      "answers": [
+        "Güneş, inatçı bulutların arkasından yavaşça gülümsüyordu.",
+        "Sınıftaki öğrenciler öğretmeni büyük bir dikkatle dinliyordu.",
+        "Bahçedeki portakal ağaçları uzun yıllardır buradaydı.",
+        "Yaz tatilinde bütün aile Ege'ye gidecek."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 1,
+      "explanation": "Güneşin inatçı bulutların arkasından 'gülümsemesi' insani bir özelliktir ve güneşe verilerek kişileştirilmiştir."
+    },
+    {
+      "id": "Q_8_11_030",
+      "questionText": "Bir şiirde geçen:\nI. \"Deniz, hırçın dalgalarıyla kayaları dövüyordu.\"\nII. \"Bir ateş düştü ciğerime, söndüremiyorum.\"\nIII. \"Kuşlar sevinç çığlıkları atarak gökyüzünde yarışıyordu.\"\nYukarıdaki dizelerin içerdiği ana söz sanatları sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Kişileştirme - Abartma - Kişileştirme",
+        "Abartma - Benzetme - Tezat",
+        "Benzetme - Kişileştirme - Abartma",
+        "Tezat - Konuşturma - Benzetme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Söz Sanatları",
+      "difficulty": 3,
+      "explanation": "I. Hırçın dalgaların kayaları dövmesi (Kişileştirme), II. Ciğere düşen ateşin (acının) söndürülememesi (Abartma), III. Kuşların sevinç çığlıkları atıp yarışması (Kişileştirme)."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "İletişim ve Sosyal İlişkiler",
+  "questions": [
+    {
+      "id": "Q_5_5_001",
+      "questionText": "İnsanlarla iyi geçinmek için 'nazik' kelimeler kullanmalıyız. 'Nazik' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Kibar",
+        "Kaba",
+        "Sessiz",
+        "Neşeli"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Nazik kelimesinin eş anlamlısı kibar kelimesidir."
+    },
+    {
+      "id": "Q_5_5_002",
+      "questionText": "'Arkadaşımı dikkatle dinlediğim için beni çok sevdi.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Koşul - Sonuç",
+        "Örneklendirme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Beni sevmesinin nedeni 'dikkatle dinlemem'dir. Eylem gerçekleştiği için neden-sonuç (sebep-sonuç) cümlesidir."
+    },
+    {
+      "id": "Q_5_5_003",
+      "questionText": "Birini karşımızdakine fark ettirmeden dinlemeye ne ad verilir? (Deyim)",
+      "answers": [
+        "Kulak misafiri olmak",
+        "Kulak ardı etmek",
+        "Kulak asmak",
+        "Kulak kabartmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Yanında konuşulanları konuşmaya katılmadan, istemeyerek dinlemek 'kulak misafiri olmak' deyimidir."
+    },
+    {
+      "id": "Q_5_5_004",
+      "questionText": "'Sohbet' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Söyleşi",
+        "Sessizlik",
+        "Tartışma",
+        "Toplantı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "İki veya daha fazla kişinin karşılıklı dostça konuşmasına sohbet veya söyleşi denir."
+    },
+    {
+      "id": "Q_5_5_005",
+      "questionText": "'Saygı' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Say- (Fiil Kökü)",
+        "Say- (İsim Kökü)",
+        "Saygı (İsim Kökü)",
+        "Saygı- (Fiil Kökü)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü 'saymak' (birini önemli görmek, hürmet etmek) fiilidir. Buna '-gı' yapım eki gelerek isim olmuştur."
+    },
+    {
+      "id": "Q_5_5_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'acı' kelimesi iletişimle ilgili mecaz bir anlam taşır?",
+      "answers": [
+        "Söylediği acı sözler kalbimi kırdı.",
+        "Yemeğin içine acı biber doğramış.",
+        "Acı rüzgar yüzümüze çarpıyordu.",
+        "İlacın tadı gerçekten çok acıydı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Sözün acı olması, kırıcı ve üzücü anlamına gelir; yani tat alma duyumuzla ilgili gerçek anlamından uzaklaşarak mecaz olmuştur."
+    },
+    {
+      "id": "Q_5_5_007",
+      "questionText": "Soru eki olan 'mi, mı, mu, mü' daima ayrı yazılır. Hangi cümlede yazım YANLIŞI vardır?",
+      "answers": [
+        "Benimle parka geliyormusun?",
+        "Beni gerçekten dikkatle dinliyor musun?",
+        "Söylediklerim sana mantıklı geldi mi?",
+        "Akşam bize uğrayacak mısın?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Soru eki her zaman kendinden önceki kelimeden ayrı yazılır. 'Geliyor musun?' şeklinde yazılmalıydı."
+    },
+    {
+      "id": "Q_5_5_008",
+      "questionText": "İnsanların konuşmadan, sadece mimik ve hareketleriyle anlaşmasına ne ad verilir?",
+      "answers": [
+        "Beden dili",
+        "Sözlü iletişim",
+        "Yazılı iletişim",
+        "Telepati"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "El, kol, yüz ve vücut hareketleriyle sağlanan iletişime beden dili (vücut dili) denir."
+    },
+    {
+      "id": "Q_5_5_009",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Bana yalan söylemezsen seninle arkadaşlığa devam ederim.",
+        "Bana yalan söylediği için onunla arkadaşlığımı bitirdim.",
+        "Yalan söylememek amacıyla kendine söz verdi.",
+        "Dostlar birbirine hiçbir zaman yalan söylemez."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Arkadaşlığa devam etmesinin koşulu (şartı) 'yalan söylememesi'dir. -sa/-se eki ile sağlanmıştır."
+    },
+    {
+      "id": "Q_5_5_010",
+      "questionText": "Başkasına ait bir sözü cümlede aktarırken genellikle hangi noktalama işaretini kullanırız?",
+      "answers": [
+        "Tırnak İşareti ( \" \" )",
+        "Soru İşareti (?)",
+        "Kesme İşareti (')",
+        "Ünlem İşareti (!)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözler tırnak işareti içine alınır."
+    },
+    {
+      "id": "Q_5_5_011",
+      "questionText": "'Konuşkan' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Sessiz / Suskun",
+        "Geveze",
+        "Mutlu",
+        "Saygılı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Çok konuşan, konuşmayı seven kişilere konuşkan denir, zıttı ise suskun (sessiz) kelimesidir."
+    },
+    {
+      "id": "Q_5_5_012",
+      "questionText": "Gaf yapmak, farkında olmadan karşısındakini incitecek veya pot kıracak söz söylemek hangi deyimle ifade edilir?",
+      "answers": [
+        "Çam devirmek (Pot kırmak)",
+        "Gözden düşmek",
+        "Ağzı açık kalmak",
+        "Kulak asmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Farkında olmadan birine dokunacak, onu incitecek söz söylemeye 'pot kırmak' veya 'çam devirmek' denir."
+    },
+    {
+      "id": "Q_5_5_013",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Sesi daha iyi duymak için ön sıraya oturdu.",
+        "Ön sıraya oturduğu için sesi çok iyi duydu.",
+        "Sesi duyamadığı için öğretmenden tekrar etmesini istedi.",
+        "Gürültüden dolayı iletişim kuramıyorduk."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Ön sıraya oturmasının amacı 'sesi daha iyi duymak'tır. 'Amacıyla' kelimesi getirilerek sınanabilir."
+    },
+    {
+      "id": "Q_5_5_014",
+      "questionText": "'Kırgınlık' kelimesi hangi ekleri alarak türemiştir?",
+      "answers": [
+        "Kır- (kök) + -gın (yapım eki) + -lık (yapım eki)",
+        "Kırgın- (kök) + -lık (çekim eki)",
+        "Kır- (kök) + -gınlık (çekim eki)",
+        "Kırgı- (kök) + -n (yapım eki) + -lık (yapım eki)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü kır- fiilidir. Önce fiilden isim yapan -gın eki almış (kırgın), sonra isimden isim yapan -lık ekini almıştır."
+    },
+    {
+      "id": "Q_5_5_015",
+      "questionText": "'Dostluk' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Arkadaşlık",
+        "Nefret",
+        "Düşmanlık",
+        "Hasret"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Dostluk kelimesinin anlamdaşı, yakın ilişki anlamındaki arkadaşlık kelimesidir."
+    },
+    {
+      "id": "Q_5_5_016",
+      "questionText": "Aşağıdaki altı çizili kelimelerin hangisinde 'ünlü düşmesi' vardır?",
+      "answers": [
+        "Dostumun fikrini almak için aradım.",
+        "Bana çok sıcak davrandı.",
+        "Arkadaşım her zaman doğruyu söyler.",
+        "İletişim kurmak insanların en büyük ihtiyacıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "'Fikir' kelimesi ünlü ile başlayan '-i' ekini aldığında ikinci hecedeki 'i' ünlüsü düşmüştür (fikri-ni)."
+    },
+    {
+      "id": "Q_5_5_017",
+      "questionText": "'Yol' kelimesi hangi cümlede mecaz anlamda (yöntem, çare) kullanılmıştır?",
+      "answers": [
+        "Onunla iletişim kurmanın bir yolunu bulmalıyım.",
+        "Köyün yolu yağmurdan dolayı çamur olmuştu.",
+        "Arabayla yolda giderken güzel şarkılar dinledik.",
+        "İşe gitmek için her gün bu yolu kullanır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "İlk cümlede 'yol' kelimesi asfalt/toprak anlamında değil, 'yöntem, çare' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_5_5_018",
+      "questionText": "Cümledeki yazım yanlışını bulunuz: 'Bugün sende bizimle sinemaya gelir misin?'",
+      "answers": [
+        "'sende' kelimesindeki 'de' ayrı yazılmalıdır.",
+        "'misin' kelimesi bitişik yazılmalıdır.",
+        "'bizimle' kelimesi ayrı yazılmalıdır.",
+        "Cümlede yazım yanlışı yoktur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Dahi/bile anlamı katan 'de/da' bağlacı her zaman ayrı yazılır. 'Bugün sen de...' olmalıdır."
+    },
+    {
+      "id": "Q_5_5_019",
+      "questionText": "Aşağıdakilerden hangisi 'çekim eki' almıştır? (Kelimenin anlamı değişmemiştir)",
+      "answers": [
+        "Kitaplar",
+        "Kitaplık",
+        "Kitapçı",
+        "Kitapçık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'-lar' eki çoğul ekidir ve kelimenin anlamını değiştirmez (çekim ekidir). Diğerleri yapım eki alarak yeni kelime türetmiştir."
+    },
+    {
+      "id": "Q_5_5_020",
+      "questionText": "Hangi cümlede öznel bir yargı vardır?",
+      "answers": [
+        "Mektup yazmak mesaj atmaktan çok daha samimidir.",
+        "İnsanlar iletişim kurarken beden dillerini kullanır.",
+        "Telefon, sesin uzaklara iletilmesini sağlayan bir cihazdır.",
+        "Alfabe, yazılı iletişimin temelidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Mektup yazmanın daha samimi olması kişisel bir fikirdir (özneldir)."
+    },
+    {
+      "id": "Q_5_5_021",
+      "questionText": "Tatlı sözlerle karşısındakini ikna etmek veya birinden güzel şeyler duymak anlamındaki deyim nedir?",
+      "answers": [
+        "Ağzından bal damlamak",
+        "Ağzı kulaklarına varmak",
+        "Ağzında gevelemek",
+        "Ağzını bıçak açmamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Çok güzel, hoşa giden ve tatlı şeyler söyleyen kişiler için 'ağzından bal damlamak' deyimi kullanılır."
+    },
+    {
+      "id": "Q_5_5_022",
+      "questionText": "'Fayda' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Zarar",
+        "Yarar",
+        "Kâr",
+        "Etki"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Fayda (yarar) kelimesinin zıt anlamlısı zarar kelimesidir."
+    },
+    {
+      "id": "Q_5_5_023",
+      "questionText": "'Öğretmenimiz ( ) İletişimde göz teması çok önemlidir ( ) dedi.' cümlesinde yay ayraçlara hangi işaretler gelmelidir?",
+      "answers": [
+        "Tırnak İşareti ( \" ) - ( \" )",
+        "Parantez ( ( ) - ( ) )",
+        "Virgül (,) - Nokta (.)",
+        "İki nokta (:) - Ünlem (!)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Öğretmenin söylediği cümle doğrudan alıntılandığı için alıntının başına ve sonuna tırnak işareti ( \" \" ) konulmalıdır."
+    },
+    {
+      "id": "Q_5_5_024",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Yüz yüze iletişim, mesajlaşmaktan daha etkilidir.",
+        "İnsanlarla konuşurken gözlerine bakmalıyız.",
+        "Ona hediye aldığım için çok sevindi.",
+        "İletişim araçları hayatımızı kolaylaştırır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Yüz yüze iletişim ile mesajlaşma, etkililik bakımından 'daha' kelimesiyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_5_025",
+      "questionText": "'Yalın' (basit, sade) kökünden türeyen ve 'tek başına olma' durumu anlamına gelen kelimenin DOĞRU YAZIMI nedir?",
+      "answers": [
+        "Yalnızlık",
+        "Yanlızlık",
+        "Yalnışlık",
+        "Yallızlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'yalın' olduğu için 'yalnız' ve 'yalnızlık' şeklinde yazılır."
+    },
+    {
+      "id": "Q_5_5_026",
+      "questionText": "'Paylaşım' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Pay (İsim Kökü)",
+        "Paylaş- (Fiil Kökü)",
+        "Payl- (İsim Kökü)",
+        "Aş- (Fiil Kökü)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü, hisse veya parça anlamına gelen 'pay' isim köküdür (Pay -> Paylaşmak -> Paylaşım)."
+    },
+    {
+      "id": "Q_5_5_027",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) BİR KELİMEDİR?",
+      "answers": [
+        "Gül",
+        "Kulak",
+        "Dil",
+        "Göz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 2,
+      "explanation": "'Gül' kelimesi hem tebessüm etmek hem de çiçek türü olarak eş seslidir. (Not: Dil de eş sesli gibi görünse de Türkçe müfredatında gül daha belirgin örnektir, ancak Dil = lisan ve tat alma organı olarak o da sesteştir. Soru teknik olarak 2 cevaba sahip gibi görünse de, 'Dil' sesteş değil, çok anlamlıdır. Organ olan dilden lisan anlamı türemiştir. Bu nedenle gerçek sesteş 'Gül'dür.)"
+    },
+    {
+      "id": "Q_5_5_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ünsüz yumuşaması' örneği YOKTUR?",
+      "answers": [
+        "Arkadaşımla çok güzel sohbet ettik.",
+        "Söylediği söz kalbimi kırdı. (kalp-kalbi)",
+        "Ona sevdiğim kitabı hediye ettim. (kitap-kitabı)",
+        "Ağacın dalına bir kuş kondu. (ağaç-ağacı)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 3,
+      "explanation": "Sohbet kelimesinde veya cümlenin diğer kelimelerinde (p, ç, t, k) harflerinin yumuşadığı bir örnek yoktur. Diğerlerinde p->b ve ç->c yumuşaması vardır."
+    },
+    {
+      "id": "Q_5_5_029",
+      "questionText": "'Söz' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Kelam / Laf",
+        "Cümle",
+        "Ses",
+        "Harf"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Söz kelimesinin eş anlamlısı laf veya kelam kelimeleridir."
+    },
+    {
+      "id": "Q_5_5_030",
+      "questionText": "'Ağzını bıçak açmamak' deyimi iletişimde hangi durumu anlatır?",
+      "answers": [
+        "Üzüntü veya sıkıntıdan dolayı hiç konuşmamak",
+        "Sürekli ve hiç durmadan konuşmak",
+        "Çok güzel ve etkili sözler söylemek",
+        "Yüksek sesle bağırarak tartışmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "İletişim ve Sosyal İlişkiler",
+      "difficulty": 1,
+      "explanation": "Bir üzüntü veya derdinden dolayı kimseyle konuşmama durumuna 'ağzını bıçak açmıyor' denir."
+    }
+  ]
+}

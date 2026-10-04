@@ -1,0 +1,425 @@
+{
+  "unit": "Lider Ruhlar",
+  "questions": [
+    {
+      "id": "Q_6_6_001",
+      "questionText": "'Lider' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Önder",
+        "Takipçi",
+        "Asker",
+        "Yabancı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Lider kelimesinin eş anlamlısı önder kelimesidir."
+    },
+    {
+      "id": "Q_6_6_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişi (şahıs) zamiri' kullanılmıştır?",
+      "answers": [
+        "O, milletine önderlik eden büyük bir liderdi.",
+        "Bu kitap liderlik vasıflarını anlatıyor.",
+        "Şu kararlı duruş herkesi etkiledi.",
+        "Her liderin kendine has bir vizyonu vardır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "'O' kelimesi bir insanın adının yerini tuttuğu için kişi zamiridir."
+    },
+    {
+      "id": "Q_6_6_003",
+      "questionText": "'Önder olmak' deyimi ne anlama gelir?",
+      "answers": [
+        "Bir topluluğa öncülük etmek, yol göstermek ve liderlik yapmak",
+        "Her zaman başkalarının arkasından gitmek",
+        "Yalnız başına kalmak ve kimseyle konuşmamak",
+        "Kurallara uymamak ve isyan etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Bir topluluğa öncülük eden, arkasındakilere yol gösteren kişilerin yaptığı işe önder olmak denir."
+    },
+    {
+      "id": "Q_6_6_004",
+      "questionText": "Atatürk'ün liderlik özelliklerini anlatan bir metinde hangi anlatım türü ağırlıklı olarak beklenir?",
+      "answers": [
+        "Açıklama ve Tartışma",
+        "Hikaye etme",
+        "Şiirsel anlatım",
+        "Sadece fantastik kurgu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Bilgi vermek ve fikirleri kanıtlamak amacıyla yazılan liderlik metinlerinde açıklama ve tartışma türü kullanılır."
+    },
+    {
+      "id": "Q_6_6_005",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Milletini bağımsızlığa kavuşturmak için hayatını adadı.",
+        "Vatanını çok sevdiği için her zorluğa göğüs gerdi.",
+        "Eğer inançlı olursan aşamayacağın engel yoktur.",
+        "Liderler, tarihin seyrini değiştiren insanlardır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Hayatını adamasının amacı 'milletini bağımsızlığa kavuşturmak'tır."
+    },
+    {
+      "id": "Q_6_6_006",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'belgisiz zamir'dir?",
+      "answers": [
+        "Kimse",
+        "Sen",
+        "Bu",
+        "Nasıl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "'Kimse' kelimesi kişilerin yerini belirsiz bir şekilde tuttuğu için belgisiz zamirdir."
+    },
+    {
+      "id": "Q_6_6_007",
+      "questionText": "'Vizyon' kelimesinin Türkçe karşılığı veya en yakın anlamı nedir?",
+      "answers": [
+        "İleri görüşlülük / Geleceği görebilme yeteneği",
+        "Geçmişi unutmak",
+        "Sadece anı yaşamak",
+        "Kararsız kalmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Vizyon, bir kişinin veya liderin geleceğe dair öngörüsü, ileri görüşlülüğü ve hedef koyabilme yeteneğidir."
+    },
+    {
+      "id": "Q_6_6_008",
+      "questionText": "'Komutan' kelimesinin kök türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Komut (İsim kökü) + -an yapım eki",
+        "Komutla (Fiil kökü)",
+        "Komutan (Kök halinde)",
+        "Komut- (Fiil kökü)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü 'komut' isim köküdür. '-an' yapım eki alarak lider/yöneten anlamı kazanmıştır."
+    },
+    {
+      "id": "Q_6_6_009",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Kararlı olduğu için hiçbir engelde pes etmedi.",
+        "Başarıya ulaşmak amacıyla planlı çalıştı.",
+        "Eğer kararlı olursan hedefine ulaşırsın.",
+        "Liderlik, doğuştan gelen özellikler de barındırır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Pes etmemesinin nedeni 'kararlı olması'dır. Eylem gerçekleşmiştir."
+    },
+    {
+      "id": "Q_6_6_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'işaret zamiri' kullanılmıştır?",
+      "answers": [
+        "Şunu tarih kitabının arasına koy.",
+        "Bu lider tüm dünyaya örnek oldu.",
+        "Şu strateji savaşı kazandırdı.",
+        "O komutan çok cesurdu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 3,
+      "explanation": "'Şunu' kelimesi nesnenin adının yerini işaret yoluyla tuttuğu için işaret zamiridir."
+    },
+    {
+      "id": "Q_6_6_011",
+      "questionText": "'Yüce' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ulu / Aliv",
+        "Küçük",
+        "Alçak",
+        "Sıradan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Yüce kelimesinin eş anlamlısı ulu kelimesidir (Ulu Önder Atatürk)."
+    },
+    {
+      "id": "Q_6_6_012",
+      "questionText": "Tarihi ve unvan belirten kelimeler büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "mustafa kemal atatürk ülkeyi kurtardı.",
+        "Fatih Sultan Mehmet İstanbul'u fethetti.",
+        "Yavuz Sultan Selim güçlü bir liderdi.",
+        "Kanuni Sultan Süleyman tahta çıktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Özel isimler ve cümle başları büyük harfle yazılmalıdır. 'Mustafa Kemal Atatürk...' şeklinde olmalıydı."
+    },
+    {
+      "id": "Q_6_6_013",
+      "questionText": "'Seçkin' kelimesinde hangi ses olayı vardır?",
+      "answers": [
+        "Ünsüz Benzeşmesi (Sertleşmesi)",
+        "Ünlü Düşmesi",
+        "Ünsüz Yumuşaması",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 3,
+      "explanation": "Sert ünsüzle (ç) biten köke yumuşak ünsüzle (g) başlayan ek geldiğinde ek sertleşerek 'k' olur (Seç-gin -> Seçkin)."
+    },
+    {
+      "id": "Q_6_6_014",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Lider olmak istiyorsan önce kendini geliştirmelisin.",
+        "Kendini geliştirdiği için herkes onu takdir ediyor.",
+        "Başarılı bir lider olmak amacıyla kitap okuyor.",
+        "Atatürk, ileri görüşlü bir liderdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Lider olmak istemesinin/olabilmesinin koşulu 'önce kendini geliştirmendir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_6_015",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'somut' bir varlığı belirtir?",
+      "answers": [
+        "Asker",
+        "Cesaret",
+        "Liderlik",
+        "Vizyon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Asker gözle görülebilen somut bir varlıktır. Diğerleri soyut kavramlardır."
+    },
+    {
+      "id": "Q_6_6_016",
+      "questionText": "'Alın' kelimesi ünlüyle başlayan ek aldığında ne olur? (Alın - ı)",
+      "answers": [
+        "Ünlü Düşmesi (Alnı)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Alın kelimesi ünlü ek aldığında ikinci hecedeki 'ı' ünlüsü düşer ve 'alnı' olur."
+    },
+    {
+      "id": "Q_6_6_017",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Atatürk, diğer liderlerden farklı olarak ileri görüşlülüğüyle öne çıkmıştır.",
+        "Atatürk, Bandırma vapuru ile Samsun'a çıktı.",
+        "Milli Mücadele döneminde milletimiz büyük fedakarlıklar gösterdi.",
+        "Liderler zor zamanlarda doğru kararlar almalıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Atatürk, 'diğer liderlerden farklı olarak' ifadesiyle diğer liderlerle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_6_6_018",
+      "questionText": "'Öncü' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Lider / Rehber",
+        "Takipçi",
+        "Rakip",
+        "Düşman"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Bir işte veya yolda ilk adımı atan, yol gösteren kişiye öncü, lider veya rehber denir."
+    },
+    {
+      "id": "Q_6_6_019",
+      "questionText": "Soru bildiren kelimelerin ismin yerini soru yoluyla tuttuğu sözcüklere 'soru zamiri' denir. Hangisinde soru zamiri vardır?",
+      "answers": [
+        "Bu kararı kim aldı?",
+        "Hangi komutan cepheye gitti?",
+        "Nasıl bir zafer kazandılar?",
+        "Kaç asker görev yaptı?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 3,
+      "explanation": "'Kim' kelimesi ismin yerini soru yoluyla tuttuğu için soru zamiridir (Cevap: Atatürk aldı)."
+    },
+    {
+      "id": "Q_6_6_020",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Tarih sayfaların da adı altın harflerle yazılıdır.",
+        "Liderler de hata yapabilir.",
+        "Komutan askerlerine moral verdi.",
+        "Zafer inananlarındır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "'Sayfalarında da' şeklinde bağlaç olan 'da' ayrı yazılmalıydı. Buradaki '-da' bulunma hal eki olup bitişik yazılmalıdır."
+    },
+    {
+      "id": "Q_6_6_021",
+      "questionText": "Bir paragrafın ana düşüncesi (ana fikri) bulunurken hangi yola başvurulur?",
+      "answers": [
+        "Yazarın bu yazıyı yazmaktaki asıl amacına ve okura vermek istediği mesaja bakılır.",
+        "Paragraftaki kelime sayısına bakılır.",
+        "Sadece ilk cümleye bakılarak karar verilir.",
+        "Yazarın doğum tarihine bakılır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya aktarmak istediği temel mesajı bulmakla tespit edilir."
+    },
+    {
+      "id": "Q_6_6_022",
+      "questionText": "'Yol' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Atatürk, Türk milletine çağdaşlık yolunu açmıştır.",
+        "Köye giden yol çok bozuktu.",
+        "Arabayla yolda iki saat ilerledik.",
+        "Yolun kenarındaki çiçekleri suladı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Çağdaşlık yolu, asfalt bir cadde değil, izlenmesi gereken yöntem/hedef anlamında mecazdır."
+    },
+    {
+      "id": "Q_6_6_023",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yüz",
+        "Lider",
+        "Komutan",
+        "Devlet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "'Yüz' kelimesi sayı, surat, suda yüzmek gibi farklı anlamlara geldiği için sesteştir."
+    },
+    {
+      "id": "Q_6_6_024",
+      "questionText": "Tırnak işareti ( \" \" ) hangi amaçla KULLANILMAZ?",
+      "answers": [
+        "Özel isimlere gelen ekleri ayırmak için",
+        "Başka bir kimseden aktarılan sözleri belirtmek için",
+        "Özel olarak vurgulanmak istenen sözleri belirtmek için",
+        "Yazı başlıklarını belirtmek için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Özel isimlere gelen ekler kesme işareti (') ile ayrılır."
+    },
+    {
+      "id": "Q_6_6_025",
+      "questionText": "'Cesaret' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Yüreklilik / Yiğitlik",
+        "Korkaklık",
+        "Kararsızlık",
+        "Zayıflık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Cesaret kelimesinin eş anlamlısı yüreklilik veya yiğitliktir."
+    },
+    {
+      "id": "Q_6_6_026",
+      "questionText": "Aşağıdaki kelimelerden hangisi yapı bakımından 'türemiş' bir sözcüktür?",
+      "answers": [
+        "Yönetici (Yönet-ic-i)",
+        "Devlet",
+        "Millet",
+        "Vatan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "'Yönetmek' fiilinden yapım eki alarak türemiş bir isim olmuştur. Diğerleri kök halindedir."
+    },
+    {
+      "id": "Q_6_6_027",
+      "questionText": "'Açık' kelimesi hangi cümlede gerçek anlamında kullanılmıştır?",
+      "answers": [
+        "Hava sıcak olduğu için kapı açık kalmış.",
+        "Bana karşı her zaman açık sözlüdür.",
+        "Öğretmen konuyu açık bir dille anlattı.",
+        "Aramızdaki sorunları açıkça konuştuk."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Kapının kapalı olmayıp açık olması fiziksel bir durumdur ve gerçek anlamdadır."
+    },
+    {
+      "id": "Q_6_6_028",
+      "questionText": "Hangi cümlede 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Bir emirle bütün ordu ayağa kalktı ve dünyayı salladı.",
+        "Komutan askerlerine seslendi.",
+        "Askerler gün boyunca yürüdü.",
+        "Tarih kitaplarında kahramanlıkları yazıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Dünyayı sallamak fiziksel olarak imkansızdır, durumu aşırı büyük gösteren bir abartmadır."
+    },
+    {
+      "id": "Q_6_6_029",
+      "questionText": "'Komutan' kelimesinin kök türü nedir?",
+      "answers": [
+        "Komut (İsim kökü)",
+        "Fiil kökü",
+        "Sesteş kök",
+        "Ortak kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'komut' ismidir."
+    },
+    {
+      "id": "Q_6_6_030",
+      "questionText": "Bir milletin bağımsızlığını kazanmasında liderlerin rolü nedir?",
+      "answers": [
+        "Halkı arkasından sürükleyerek ortak bir amaç etrafında birleştirmek",
+        "Halkı yalnız bırakmak",
+        "Sadece kendi çıkarlarını düşünmek",
+        "Mücadeleden vazgeçmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Lider Ruhlar",
+      "difficulty": 1,
+      "explanation": "Gerçek liderler, zor zamanlarda halka öncülük eder ve onları ortak bir gaye uğrunda birleştirir."
+    }
+  ]
+}

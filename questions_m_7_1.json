@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 1",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "(-5) + (-8) işleminin sonucu kaçtır?",
+      "answers": [
+        "-13",
+        "-3",
+        "3",
+        "13"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Aynı işaretli iki tam sayı toplanırken sayılar toplanır ve ortak işaret sonuca verilir: 5 + 8 = 13, ortak işaret eksi olduğundan cevap -13'tür."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "(-12) + (+7) işleminin sonucu kaçtır?",
+      "answers": [
+        "-19",
+        "-5",
+        "5",
+        "19"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Zıt işaretli iki tam sayı toplanırken mutlak değerce büyük olandan küçük olan çıkarılır ve büyük olanın işareti verilir. 12 - 7 = 5, mutlak değerce büyük olan -12 olduğu için sonuç -5'tir."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "(-9) - (+4) işleminin sonucu kaçtır?",
+      "answers": [
+        "-13",
+        "-5",
+        "5",
+        "13"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Çıkarma işlemi yapılırken, çıkan sayının işareti değiştirilerek toplama işlemine dönüştürülür: (-9) + (-4) = -13."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "8 - (-5) işleminin sonucu kaçtır?",
+      "answers": [
+        "-13",
+        "-3",
+        "3",
+        "13"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Eksi ve eksi yan yana geldiğinde artıya dönüşür (çıkanın işaretini değiştirip topla): 8 + (+5) = 13."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "(-6) · (-4) işleminin sonucu kaçtır?",
+      "answers": [
+        "-24",
+        "-10",
+        "10",
+        "24"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Aynı işaretli (iki negatif) sayının çarpımı her zaman pozitiftir: 6 · 4 = +24."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "(-30) / (+5) işleminin sonucu kaçtır?",
+      "answers": [
+        "-6",
+        "-5",
+        "5",
+        "6"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Zıt işaretli iki tam sayının bölümü her zaman negatiftir: 30 / 5 = 6, işaret eksi olacağından -6'dır."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "(-2)³ üslü ifadesinin değeri kaçtır?",
+      "answers": [
+        "-8",
+        "-6",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Negatif bir tam sayının tek kuvvetleri negatiftir. (-2) · (-2) · (-2) = -8."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "(-3)² üslü ifadesinin değeri kaçtır?",
+      "answers": [
+        "-9",
+        "-6",
+        "6",
+        "9"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Negatif bir tam sayının parantez dışındaki çift kuvveti pozitiftir. (-3) · (-3) = +9."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "-4² işleminin sonucu ile (-4)² işleminin sonucu sırasıyla aşağıdakilerden hangisidir?",
+      "answers": [
+        "16 ve 16",
+        "-16 ve -16",
+        "-16 ve 16",
+        "16 ve -16"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "-4² işleminde üs sadece 4'e aittir, sonuç -16'dır. (-4)² işleminde ise üs parantezin dışındadır ve eksi işaretini de etkiler, sonuç +16'dır."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "(-5)⁰ + 1¹⁰⁰ işleminin sonucu kaçtır?",
+      "answers": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Sıfır dışındaki tüm tam sayıların 0. kuvveti 1'dir. (-5)⁰ = 1. Birin tüm kuvvetleri 1'dir. 1¹⁰⁰ = 1. Toplam: 1 + 1 = 2."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "En büyük negatif tam sayı ile iki basamaklı en küçük pozitif tam sayının toplamı kaçtır?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "En büyük negatif tam sayı -1'dir. İki basamaklı en küçük pozitif tam sayı +10'dur. (-1) + 10 = 9."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "Sayı doğrusunda -7 noktasına 5 birim uzaklıkta olan tam sayıların toplamı kaçtır?",
+      "answers": [
+        "-14",
+        "-7",
+        "0",
+        "14"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "-7'nin 5 birim sağında -2 vardır (-7 + 5). 5 birim solunda ise -12 vardır (-7 - 5). Bu iki sayının toplamı: (-2) + (-12) = -14'tür."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "Kışın Erzurum'da hava sıcaklığı -14°C iken aynı gün Antalya'da hava sıcaklığı 18°C'dir. İki şehir arasındaki sıcaklık farkı kaç derecedir?",
+      "answers": [
+        "4",
+        "14",
+        "24",
+        "32"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Farkı bulmak için büyükten küçük çıkarılır veya aralarındaki mesafe hesaplanır: 18 - (-14) = 18 + 14 = 32°C."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "Bir otoparkın -3. katında asansöre binen Ali, 8 kat yukarı çıkıp ofisine gidiyor. Ali'nin ofisi kaçıncı kattadır?",
+      "answers": [
+        "4",
+        "5",
+        "8",
+        "11"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Yukarı çıkmak toplama işlemi demektir. (-3) + 8 = +5. Kat numarası 5'tir."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "12 / (-3) + (-4) · (-2) işleminin sonucu kaçtır?",
+      "answers": [
+        "-12",
+        "4",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "İşlem önceliğine göre önce çarpma ve bölme yapılır. Bölme: 12 / (-3) = -4. Çarpma: (-4) · (-2) = +8. Son olarak toplanır: (-4) + 8 = +4."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "(-1)¹⁰¹ + (-1)¹⁰² işleminin sonucu kaçtır?",
+      "answers": [
+        "-2",
+        "-1",
+        "0",
+        "2"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "-1'in tek kuvvetleri -1, çift kuvvetleri +1'dir. (-1)¹⁰¹ = -1. (-1)¹⁰² = +1. Toplamları: (-1) + 1 = 0."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "Deniz seviyesinin 45 metre altında bulunan bir denizaltı, önce 20 metre yukarı çıkıyor, ardından 10 metre daha aşağı dalıyor. Denizaltının son konumu nedir?",
+      "answers": [
+        "-35",
+        "-45",
+        "-55",
+        "-75"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Başlangıç konumu -45. Yukarı çıkmak: +20. Aşağı inmek: -10. İşlem: (-45) + 20 - 10 = (-25) - 10 = -35 metre."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "20 soruluk bir sınavda her doğru cevap için +5 puan, her yanlış cevap için -2 puan verilmekte, boş bırakılan sorulara puan verilmemektedir. 14 doğru ve 4 yanlışı olan bir öğrenci kaç puan alır?",
+      "answers": [
+        "60",
+        "62",
+        "70",
+        "78"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Doğru puanı: 14 · (+5) = 70. Yanlış puanı: 4 · (-2) = -8. Toplam puan: 70 + (-8) = 62 puan."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "a = -3 ve b = -2 olduğuna göre a² - b³ ifadesinin değeri kaçtır?",
+      "answers": [
+        "1",
+        "5",
+        "15",
+        "17"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Harflerin yerine negatif sayı koyarken parantez kullanılır. a² = (-3)² = +9. b³ = (-2)³ = -8. İşlem: 9 - (-8) = 9 + 8 = 17."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "|-15| / (-3) + |-8| işleminin sonucu kaçtır?",
+      "answers": [
+        "-3",
+        "3",
+        "13",
+        "23"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Mutlak değer içindeki sayılar dışarı pozitif çıkar. |-15| = 15. |-8| = 8. İşlem: 15 / (-3) + 8 = (-5) + 8 = 3."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Çarpımları -24 olan iki tam sayının toplamı EN AZ kaçtır?",
+      "answers": [
+        "-25",
+        "-23",
+        "-10",
+        "-5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "Çarpımları -24 olan sayı çiftleri: (1, -24), (2, -12), (3, -8), (4, -6) ve zıt işaretlileridir. Toplamı en küçük yapan çift (-24) ile (+1)'dir. Toplamları -23 olur."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "Aşağıdaki ifadelerden hangisi tam sayılarda çarpma işleminin yutan eleman özelliğini gösterir?",
+      "answers": [
+        "5 · 1 = 5",
+        "(-8) · 0 = 0",
+        "4 · (-2) = (-2) · 4",
+        "3 · (2 + 5) = 3 · 2 + 3 · 5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 1,
+      "explanation": "Çarpma işleminde sonucu sıfır yapan 0 sayısı 'yutan eleman'dır. (-8) · 0 = 0 bu özelliği gösterir."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "A = -4, B = 5 ve C = -2 olmak üzere A · (B + C) işleminin sonucu kaçtır?",
+      "answers": [
+        "-28",
+        "-12",
+        "12",
+        "28"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Önce parantez içi: B + C = 5 + (-2) = 3. Sonra çarpma: A · 3 = (-4) · 3 = -12."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "Haftanın ilk dört gününde sırasıyla 10 TL kâr, 5 TL zarar, 20 TL zarar ve 35 TL kâr eden bir bakkalın bu dört gün sonundaki kâr/zarar durumu nedir?",
+      "answers": [
+        "10 TL Zarar",
+        "10 TL Kâr",
+        "20 TL Kâr",
+        "25 TL Zarar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Kârlar pozitif (+), zararlar negatif (-) alınır. İşlem: (+10) + (-5) + (-20) + (+35) = 45 - 25 = +20. Sonuç pozitif olduğu için 20 TL Kâr'dır."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "x < 0 ve y > 0 olmak üzere aşağıdakilerden hangisinin sonucu KESİNLİKLE negatiftir?",
+      "answers": [
+        "x + y",
+        "x - y",
+        "x² · y",
+        "y / x²"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "x negatif, y pozitiftir. A şıkkında toplamın işareti mutlak değeri büyük olana bağlıdır. B şıkkında x - y demek (Negatif) - (Pozitif) demektir, bu da iki negatifin toplamı gibi davranır ve her zaman negatiftir."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "Bir derin dondurucunun iç sıcaklığı -18°C'dir. Elektrik kesintisi yaşandığında dondurucunun iç sıcaklığı her saat 3°C artmaktadır. Elektrik kesintisinden 5 saat sonra dondurucunun sıcaklığı kaç derece olur?",
+      "answers": [
+        "-33",
+        "-15",
+        "-3",
+        "3"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Her saat 3 derece artıyorsa 5 saatte 5 · 3 = 15°C artar. İlk sıcaklık -18 idi. Son sıcaklık: (-18) + 15 = -3°C olur."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Aşağıdaki işlemlerden hangisinin sonucu diğerlerinden farklıdır?",
+      "answers": [
+        "(-2)³",
+        "-2³",
+        "(-8)¹",
+        "(-2)⁴"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "A şıkkı: -8. B şıkkı: -8. C şıkkı: -8. D şıkkı ise (-2)⁴ = +16'dır. Sonucu farklı olan D'dir."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "-4 ile +5 arasındaki (bu sayılar hariç) tam sayıların çarpımı kaçtır?",
+      "answers": [
+        "-2880",
+        "-120",
+        "0",
+        "120"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "Bu iki sayı arasında ..., -2, -1, 0, 1, 2, ... sayıları vardır. Çarpanlardan biri 0 olduğu için çarpımın sonucu direkt olarak 0 (yutan eleman) olur."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "-10'dan büyük, +4'ten küçük kaç tane tam sayı vardır?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 2,
+      "explanation": "İstenen sayılar -9, -8... ile 1, 2, 3 arasındadır. Negatif tarafta 9 sayı, pozitif tarafta 3 sayı ve bir de 0 vardır. Toplam: 9 + 3 + 1 = 13 adettir."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "İçi su dolu bir bardağın sıcaklığı 25°C'dir. Bardağın içine her biri suyu 4°C soğutan 3 adet buz küpü atılıyor. Bir süre sonra buzların hepsi eriyor. Eğer çevre koşulları sıcaklığı etkilemiyorsa suyun son sıcaklığı kaç derece olur?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "37"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 1",
+      "difficulty": 3,
+      "explanation": "1 buz küpü 4°C soğutuyorsa (-4°C etki), 3 buz küpü 3 · (-4) = -12°C etki yapar. İlk sıcaklık 25°C idi. Son sıcaklık: 25 - 12 = 13°C olur."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Hak ve Sorumluluklar",
+  "questions": [
+    {
+      "id": "Q_7_6_001",
+      "questionText": "Bireyin topluma ve kendine karşı yerine getirmek zorunda olduğu yükümlülüklere ne ad verilir?",
+      "answers": [
+        "Sorumluluk",
+        "Özgürlük",
+        "Hak",
+        "Yetki"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Kişinin kendi davranışlarının sonuçlarını üstlenmesine ve yerine getirmesi gereken görevlere sorumluluk denir."
+    },
+    {
+      "id": "Q_7_6_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'isim-fiil (mastar)' kullanılmıştır?",
+      "answers": [
+        "Haklarımızı bilmek ve korumak her vatandaşın görevidir.",
+        "Toplumda adalet duygusu her geçen gün güçleniyor.",
+        "Seçimlerde oy kullanmak önemli bir yurttaşlık ödevidir.",
+        "Çocuklar parkta neşeyle koşup oyun oynuyorlardı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "'Korumak' sözcüğü -mak/-mek isim-fiil ekini almıştır."
+    },
+    {
+      "id": "Q_7_6_003",
+      "questionText": "'Elimi taşın altına koymak' deyimi hangi durumu ifade eder?",
+      "answers": [
+        "Bir sorumluluğu üstlenmek, zor bir işin altına gövdesini koymak",
+        "Fiziksel olarak tehlikeli bir yerde yürümek",
+        "Zor durumlardan kaçmak ve saklanmak",
+        "Başkalarının işine sürekli karışmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Bir meselede sorumluluğu üstlenip fedakarlık yapmaya 'elini taşın altına koymak' denir."
+    },
+    {
+      "id": "Q_7_6_004",
+      "questionText": "Hangi cümlede 'sıfat-fiil (ortaç)' kullanılmıştır?",
+      "answers": [
+        "Haklarını arayan bireyler toplumsal adaletin sağlanmasında rol oynar.",
+        "Sorumluluklarını zamanında yerine getirmek başarıyı getirir.",
+        "Adil bir toplumda yaşamak herkesin en doğal hakkıdır.",
+        "Vatandaşlar, seçim günü sandık başına gidip oy kullandılar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 3,
+      "explanation": "'Arayan' sözcüğü -an sıfat-fiil ekini alarak 'bireyler' ismini nitelemiştir."
+    },
+    {
+      "id": "Q_7_6_005",
+      "questionText": "'Adalet' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Hak / Eşitlik / Doğruluk",
+        "Haksızlık",
+        "Sorumluluk",
+        "Özgürlük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Adalet kelimesinin eş anlamlısı hak, eşitlik ve doğruluk kavramlarıdır."
+    },
+    {
+      "id": "Q_7_6_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil (bağ-fiil)' kullanılmıştır?",
+      "answers": [
+        "Toplum kurallarına uyarak yaşamak hepimizin sorumluluğudur.",
+        "Haklarını bilen bireyler geleceğe daha güvenle bakar.",
+        "Sorumluluk sahibi öğrenciler ödevlerini aksatmazlar.",
+        "Çocuk hakları sözleşmesi tüm dünyada kabul görmüştür."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 3,
+      "explanation": "'Uyarak' sözcüğü -rak/-rek zarf-fiil ekini almıştır."
+    },
+    {
+      "id": "Q_7_6_007",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Haklarını korumak amacıyla insan hakları derneğine başvurdu.",
+        "Haklarını bilmediği için sorunlar yaşamıştı.",
+        "Eğer sorumluluklarını bilirsen kimse sana karışamaz.",
+        "Toplumda adalet mülkün temelidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Derneğe başvurmasının amacı 'haklarını korumaktır' ('amacıyla' ifadesi yer alır)."
+    },
+    {
+      "id": "Q_7_6_008",
+      "questionText": "Kanunların ve kuralların herkese eşit şekilde uygulanmasına ne denir?",
+      "answers": [
+        "Adalet",
+        "Ayrımcılık",
+        "Bencillik",
+        "Sorumsuzluk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Kanun önünde herkesin eşit olmasına ve hakların hak sahibine verilmesine adalet denir."
+    },
+    {
+      "id": "Q_7_6_009",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Görevlerini ihmal ettiği için okul yönetimi tarafından uyarıldı.",
+        "Toplumsal huzuru sağlamak amacıyla yeni yasalar çıkarıldı.",
+        "Eğer haklarımızı savunursak adalet yerini bulur.",
+        "Her vatandaş anayasal haklara sahiptir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Uyarılmasının nedeni 'görevlerini ihmal etmesidir'."
+    },
+    {
+      "id": "Q_7_6_010",
+      "questionText": "'Özgürlük' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Esaret / Tutsaklık",
+        "Bağımsızlık",
+        "Adalet",
+        "Sorumluluk"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Özgürlüğün karşıtı esaret veya tutsaklıktır."
+    },
+    {
+      "id": "Q_7_6_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'fiilimsi' kullanılmamıştır?",
+      "answers": [
+        "Anayasa, tüm vatandaşların haklarını güvence altına alır.",
+        "Haklarını bilmeyen bireylerin haklarını araması zordur.",
+        "Sorumluluk sahibi olmak olgunlaşmanın ilk adımıdır.",
+        "Toplumda adil bir düzen kurmak için çalışmalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 3,
+      "explanation": "'Alır' çekimli bir fiildir, cümlede fiilimsi bulunmamaktadır. (Diğerlerinde sıfat-fiil/isim-fiil vardır)."
+    },
+    {
+      "id": "Q_7_6_012",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Sorumluluklarını eksiksiz yerine getirirsen kimseden tepki almazsın.",
+        "Sorumluluklarını bildiği için her işi zamanında yapardı.",
+        "Haklarını savunmak amacıyla avukatla görüştü.",
+        "Toplumsal sorumluluk bilinci her geçen gün artıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Tepki almamasının koşulu 'sorumluluklarını eksiksiz yerine getirmendir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_6_013",
+      "questionText": "'Vatandaşlık' kelimesinin yapısı nasıldır?",
+      "answers": [
+        "Türemiş (Vatan isminden ekler alarak türemiştir)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşmuştur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Vatan kökünden yapım ekleriyle türemiş bir addır."
+    },
+    {
+      "id": "Q_7_6_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Günümüzdeki hak bilinci, geçmiş yıllara göre çok daha ileridedir.",
+        "Her birey doğuştan bazı temel hak ve özgürlüklere sahiptir.",
+        "Devlet, vatandaşların haklarını korumakla yükümlüdür.",
+        "Sorumluluk bilinci ailede başlar ve okulda gelişir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Günümüzdeki hak bilinci, geçmiş yıllarla 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_6_015",
+      "questionText": "'Hak' kelimesi hangi cümlede gerçek anlamında kullanılmıştır?",
+      "answers": [
+        "Her insanın eğitim alma hakkı anayasayla güvence altındadır.",
+        "Bu işte senin de hakkın var, endişelenme.",
+        "Sonunda hak yerini buldu ve suçlu cezalandırıldı.",
+        "Haklı olduğunu kanıtlamak için uzun süre uğraştı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Eğitim alma hakkı hukuki ve yasal bir gerçek anlamdır."
+    },
+    {
+      "id": "Q_7_6_016",
+      "questionText": "Hangi cümlede 'öznel' bir yargı vardır?",
+      "answers": [
+        "Bize göre bu kanun maddesi toplumsal hakları yeterince korumamaktadır.",
+        "Anayasa, Türkiye Cumhuriyeti'nin en üstün kanunudur.",
+        "TBMM, yasama yetkisini Türk milleti adına kullanır.",
+        "Seçme ve seçilme yaşı ülkemizde on sekizdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "'Bize göre' ve kişisel değerlendirme içerdiği için özneldir."
+    },
+    {
+      "id": "Q_7_6_017",
+      "questionText": "'Yükümlülük' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Mükellefiyet / Sorumluluk",
+        "Özgürlük",
+        "Hak",
+        "Yetki"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Yükümlülük kelimesinin eş anlamlısı sorumluluk veya mükellefiyettir."
+    },
+    {
+      "id": "Q_7_6_018",
+      "questionText": "Kanunların yazılı olduğu, devletin temel yapısını belirleyen en temel yasa metnine ne denir?",
+      "answers": [
+        "Anayasa",
+        "Yönetmelik",
+        "Genelge",
+        "Sözleşme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Bir devletin yönetim biçimini, temel hak ve sorumlulukları belirleyen en üstün yasa anayasadır."
+    },
+    {
+      "id": "Q_7_6_019",
+      "questionText": "Aşağıdaki kelimelerden hangisi ünlüyle başlayan ek aldığında 'ünsüz yumuşaması'na uğrar?",
+      "answers": [
+        "Hukuk (Hukuku -> h ile bitmez k ile biter, hukuk-u -> hukuku, k->ğ olur: Hukuku)",
+        "Yasa",
+        "Devlet",
+        "Kural"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "'Hukuk' kelimesi ünlü bir ek aldığında sonundaki 'k' sert ünsüzü yumuşayarak 'ğ' harfine dönüşür (Hukuku)."
+    },
+    {
+      "id": "Q_7_6_020",
+      "questionText": "Hangi cümlede 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Kıvançtan havalara uçtu, duyduğu karar tüm ülkeyi ayağa kaldırdı.",
+        "Vatandaşlar mahkeme salonunda sessizce bekliyordu.",
+        "Hakim, iki tarafı da dikkatle dinleyip kararını açıkladı.",
+        "Toplumsal sorumluluklarımızı asla unutmamalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Kararın tüm ülkeyi ayağa kaldırması gerçeğin dışına çıkılarak yapılan bir abartmadır."
+    },
+    {
+      "id": "Q_7_6_021",
+      "questionText": "Paragrafın ana düşüncesi (ana fikri) bulunurken sorulması gereken soru hangisidir?",
+      "answers": [
+        "Yazar bu metni yazarak okuyucuya hangi temel mesajı vermek istiyor?",
+        "Metindeki cümlelerin uzunluğu ne kadardır?",
+        "Olay hangi mahkemede görülmüştür?",
+        "Yazarın kullandığı kalem rengi nedir?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya aktarmak istediği temel mesajdır."
+    },
+    {
+      "id": "Q_7_6_022",
+      "questionText": "'Görev' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Vazife",
+        "Hak",
+        "Yetki",
+        "Özgürlük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Görev kelimesinin eş anlamlısı vazife kelimesidir."
+    },
+    {
+      "id": "Q_7_6_023",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Toplumsal kurallara uymak da vatandaşlık görevimizdir.",
+        "Haklarını savunmak da her bireyin en temel hakkıdır.",
+        "Anayasa da bu maddeler açıkça belirtilmiştir.",
+        "Çocuklar da geleceğimizin teminatıdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "'Anayasa da' değil, bulunma hal eki olan '-da' bitişik yazılmalıdır ('Anayasa'da')."
+    },
+    {
+      "id": "Q_7_6_024",
+      "questionText": "'Kanun' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Yasa",
+        "Kural",
+        "Madde",
+        "Karar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Kanun kelimesinin eş anlamlısı yasa kelimesidir."
+    },
+    {
+      "id": "Q_7_6_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yol",
+        "Adalet",
+        "Hak",
+        "Kanun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "'Yol' kelimesi hem karayolu hem de tüyü yolmak, kazmak eylemi olarak sesteştir."
+    },
+    {
+      "id": "Q_7_6_026",
+      "questionText": "Tırnak işareti ( \" \" ) hangi amaçla KULLANILMAZ?",
+      "answers": [
+        "Özel isimlere gelen ekleri ayırmak için",
+        "Başka bir kimseden aktarılan sözleri belirtmek için",
+        "Özel olarak vurgulanmak istenen sözleri belirtmek için",
+        "Yazı başlıklarını belirtmek için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Özel isimlere gelen ekler kesme işareti (') ile ayrılır."
+    },
+    {
+      "id": "Q_7_6_027",
+      "questionText": "'Burun' kelimesi ünlüyle başlayan ek aldığında ne olur? (Burun - u)",
+      "answers": [
+        "Ünlü Düşmesi (Burnu)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "Burun kelimesi ünlü ek aldığında ikinci hecedeki 'u' ünlüsü düşer (Burnu)."
+    },
+    {
+      "id": "Q_7_6_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiil' kullanılmıştır?",
+      "answers": [
+        "Eski anayasalarımızda da haklar güvence altındaydı.",
+        "Vatandaşlar haklarını korumak için dilekçe yazdılar.",
+        "Devlet kurumları adil bir düzen için çalışıyor.",
+        "Çocuklar toplumsal haklar konusunda bilinçleniyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 3,
+      "explanation": "'Altındaydı' sözcüğünde ek fiilin hikayesi (-idi) kullanılmıştır."
+    },
+    {
+      "id": "Q_7_6_029",
+      "questionText": "'Sorumluluk' kelimesinin yapısı nasıldır?",
+      "answers": [
+        "Türemiş (Sorumlu isminden yapım eki almıştır)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşmuştur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 2,
+      "explanation": "'Sorumlu' sözcüğüne gelen '-luk' ekleriyle türemiştir."
+    },
+    {
+      "id": "Q_7_6_030",
+      "questionText": "Demokratik bir toplumda hak ve sorumluluklar arasındaki temel ilişki nedir?",
+      "answers": [
+        "Haklar ile sorumluluklar bir bütündür; her hakkın karşılığında bir sorumluluk bulunur.",
+        "Haklar sınırsızdır ancak sorumluluklar isteğe bağlıdır.",
+        "Sorumluluklar sadece devletin görevidir, vatandaşların sorumluluğu yoktur.",
+        "Haklar ile sorumluluklar tamamen birbirine zıt kavramlardır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Hak ve Sorumluluklar",
+      "difficulty": 1,
+      "explanation": "Demokrasilerde hakların kullanılabilmesi ve korunabilmesi karşılıklı sorumluluk bilincine dayanır."
+    }
+  ]
+}

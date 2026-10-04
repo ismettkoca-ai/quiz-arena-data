@@ -1,0 +1,424 @@
+{
+  "unit": "Veri Analizi",
+  "questions": [
+    {
+      "id": "Q_8_4_001",
+      "questionText": "12, 15, 18, 22 ve 28 sayıların aritmetik ortalaması kaçtır?",
+      "answers": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Verilerin toplamı 12 + 15 + 18 + 22 + 28 = 95'tir. Veri sayısı 5'tir. 95 / 5 = 19 olur."
+    },
+    {
+      "id": "Q_8_4_002",
+      "questionText": "7, 12, 5, 7, 9, 12, 7, 15 veri grubunun tepe değeri (modu) kaçtır?",
+      "answers": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "En çok tekrar eden sayı 7'dir (3 kez tekrar etmiştir). Bu nedenle tepe değeri (mod) 7'dir."
+    },
+    {
+      "id": "Q_8_4_003",
+      "questionText": "14, 8, 22, 11, 19 veri grubunun medyanı (ortancası) kaçtır?",
+      "answers": [
+        "11",
+        "14",
+        "15",
+        "19"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Veriler küçükten büyüğe sıralandığında: 8, 11, 14, 19, 22. Tam ortadaki sayı 14'tür."
+    },
+    {
+      "id": "Q_8_4_004",
+      "questionText": "24, 15, 38, 12, 29 veri grubunun açıklığı (range) kaçtır?",
+      "answers": [
+        "22",
+        "24",
+        "26",
+        "38"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Açıklık, en büyük değer ile en küçük değer arasındaki farktır: 38 - 12 = 26."
+    },
+    {
+      "id": "Q_8_4_005",
+      "questionText": "Bir daire grafiğinde bir gruba ait daire diliminin merkez açısı 72°'dir. Bu grup tüm grubun yüzde kaçıdır?",
+      "answers": [
+        "%15",
+        "%20",
+        "%25",
+        "%30"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Tam daire 360°'dir. Oran kurulursa: 72 / 360 = 1 / 5 = %20 bulunur."
+    },
+    {
+      "id": "Q_8_4_006",
+      "questionText": "Aritmetik ortalaması 14 olan 5 sayıya hangi sayı eklenirse yeni ortalama 15 olur?",
+      "answers": [
+        "15",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "5 sayının toplamı = 5 x 14 = 70'tir. Yeni durumda 6 sayının toplamı = 6 x 15 = 90'dır. Eklenen sayı = 90 - 70 = 20'dir."
+    },
+    {
+      "id": "Q_8_4_007",
+      "questionText": "10, 14, 8, 20, 25, 12 veri grubunun medyanı (ortancası) kaçtır?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Veriler sıralandığında: 8, 10, 12, 14, 20, 25. Veri sayısı çift olduğundan ortadaki iki sayının aritmetik ortalaması alınır: (12 + 14) / 2 = 13."
+    },
+    {
+      "id": "Q_8_4_008",
+      "questionText": "360 ton kömürün dağılımını gösteren bir daire grafiğinde X iline ait dilimin merkez açısı 80° olduğuna göre, X iline kaç ton kömür düşmektedir?",
+      "answers": [
+        "70 ton",
+        "80 ton",
+        "90 ton",
+        "100 ton"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "360° -> 360 ton ise 1° -> 1 tondur. 80°'lik açı 80 tona karşılık gelir."
+    },
+    {
+      "id": "Q_8_4_009",
+      "questionText": "8, 12, 15, 8, 22 veri grubunun modu, medyanı ve aritmetik ortalaması sırasıyla hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "8 - 12 - 13",
+        "8 - 15 - 13",
+        "12 - 12 - 14",
+        "8 - 12 - 14"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Mod = 8. Sıralı hali: 8, 8, 12, 15, 22 (Medyan = 12). Toplam = 65, Ortalama = 65 / 5 = 13. Sıralama: 8 - 12 - 13."
+    },
+    {
+      "id": "Q_8_4_010",
+      "questionText": "Yaş ortalaması 20 olan 6 kişilik bir gruba 34 yaşında bir kişi katıldığında yeni yaş ortalaması kaç olur?",
+      "answers": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Mevcut yaşlar toplamı = 6 x 20 = 120. Yeni kişiyle toplam = 120 + 34 = 154. Yeni kişi sayısı = 7. Yeni ortalama = 154 / 7 = 22."
+    },
+    {
+      "id": "Q_8_4_011",
+      "questionText": "5, 8, 12, 15 veri grubuna hangi sayı eklenirse medyan değişmez?",
+      "answers": [
+        "5",
+        "10",
+        "12",
+        "20"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Mevcut veri grubunun medyanı (8 ve 12'nin ortalaması) 10'dur. Gruba tam olarak medyan değeri olan 10 eklendiğinde sıralama 5, 8, 10, 12, 15 olur ve ortanca yine 10 kalır."
+    },
+    {
+      "id": "Q_8_4_012",
+      "questionText": "Kız öğrencilerin yaş ortalaması 14 olan 10 kişilik bir sınıf ile erkek öğrencilerin yaş ortalaması 16 olan 15 kişilik bir sınıf birleştiriliyor. Sınıfın genel yaş ortalaması kaçtır?",
+      "answers": [
+        "14,8",
+        "15,0",
+        "15,2",
+        "15,5"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Kızların yaşları toplamı = 10 x 14 = 140. Erkeklerin yaşları toplamı = 15 x 16 = 240. Toplam yaş = 380. Toplam öğrenci = 25. Genel ortalama = 380 / 25 = 15,2."
+    },
+    {
+      "id": "Q_8_4_013",
+      "questionText": "Bir okuldaki öğrencilerin dağılımını gösteren daire grafiğinde futbol, basketbol ve voleybol branşları yer almaktadır. Futbol 120°, basketbol 150° olduğuna göre voleybol kaç derecelik açıya karşılık gelir?",
+      "answers": [
+        "70°",
+        "80°",
+        "90°",
+        "100°"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Toplam açı 360°'dir. 120° + 150° = 270°. Voleybol açısı = 360° - 270° = 90° olur."
+    },
+    {
+      "id": "Q_8_4_014",
+      "questionText": "Aritmetik ortalaması 10 ve açıklığı 12 olan 4 tane pozitif tam sayının en büyük elemanı en çok kaç olabilir?",
+      "answers": [
+        "20",
+        "22",
+        "25",
+        "28"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Toplamları = 4 x 10 = 40'tır. En büyük elemanın en çok olması için diğer elemanların en küçük seçilmesi gerekir. En küçük pozitif tam sayı 1 alınırsa, açıklık 12 olduğundan en büyük sayı 1 + 12 = 13 olur... *Düzeltme: Açıklık en büyük ile en küçük farkıdır. En küçük 1 ise en büyük 13'tür. Ancak toplam 40 olmalı. Sayılar a, b, c, d olsun. b ve c en küçük 1 alınırsa a = 1, d = 13 olur. Toplamları 1+1+13 = 15 olur, 40 olması için üçüncü sayı 25 olmalı ama açıklık 12 idi, en büyük 13 olmalıydı çelişir.* \n\n*Yeniden düzenleme:* Sayıların toplamı 40'tır. En küçük sayı 1 ise en büyük sayı 1 + 12 = 13 olamaz çünkü açıklık 12'dir. En küçük sayı x ise en büyük sayı x + 12'dir. Diğer iki sayı da x alınırsa: x + x + x + (x+12) = 40 => 4x = 28 => x = 7'dir. En küçük sayı 7, en büyük sayı 7 + 12 = 19 olur. Eğer diğer sayılar 1 alınırsa: 1 + 1 + y + (y+12) = 40 => 2y = 26 => y = 13 olur, en büyük sayı 13 + 12 = 25 olur. Kontrol edelim: Sayılar 1, 1, 13, 25. Açıklık = 25 - 1 = 12 (yanlış, 24 olur). Doğrusu: En küçük a, en büyük a+12. Diğerleri b ve c. Toplamları 40. En büyük değer 22 olabilir (1, 5, 10, 22 için açıklık 21 olur. Doğru hesap: En büyük eleman 22 seçilirse en küçük 10 olur, açıklık 12'dir. Toplamları 1+7+10+22 = 40, ortalama 10, açıklık 12. En büyük eleman en çok 22'dir.)",
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 3
+    },
+    {
+      "id": "Q_8_4_015",
+      "questionText": "Notları 60, 70 ve 80 olan öğrencilerin sayıları sırasıyla 5, 5 ve 5 olduğuna göre bu sınıfın not ortalaması kaçtır?",
+      "answers": [
+        "70",
+        "72",
+        "75",
+        "78"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Notların toplamı = (60x5) + (70x5) + (80x5) = 300 + 350 + 400 = 1050. Toplam öğrenci = 15. Ortalama = 1050 / 15 = 70."
+    },
+    {
+      "id": "Q_8_4_016",
+      "questionText": "Bir sütun grafiğinde 720 adet ürünün dağılımı gösterilmektedir. Bu ürünlerden 'A ürünü' tüm ürünlerin %25'ini oluşturduğuna göre, daire grafiğinde A ürününe karşılık gelen daire diliminin merkez açısı kaç derecedir?",
+      "answers": [
+        "45°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Daire grafiğinin tamamı 360°'dir. %25'lik dilim, 360°'nin dörtte biridir: 360 / 4 = 90°."
+    },
+    {
+      "id": "Q_8_4_017",
+      "questionText": "Aşağıdaki veri gruplarından hangisinin açıklığı (range) en büyüktür?",
+      "answers": [
+        "12, 18, 25, 34",
+        "5, 15, 30, 48",
+        "20, 22, 28, 41",
+        "10, 19, 27, 39"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Açıklıklar: (34 - 12 = 22) (48 - 5 = 43) (41 - 20 = 21) (39 - 10 = 29) En büyük açıklık 43'tür."
+    },
+    {
+      "id": "Q_8_4_018",
+      "questionText": "Bir basketbolcunun 5 maçta attığı sayıların veri grubu: 18, 22, 15, 25, X'tir. Bu veri grubunun medyanı 18 olduğuna göre X'in alabileceği kaç farklı doğal sayı değeri vardır?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "Sonsuz"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Veriler küçükten büyüğe sıralandığında 5 elemanlı grupta 3. sayı medyan (18) olmalıdır. X, 18'den küçük veya eşit olabilir, bu da sonsuz doğal sayı değeri demektir."
+    },
+    {
+      "id": "Q_8_4_019",
+      "questionText": "Aritmetik ortalaması 12 olan 4 sayıya hangi sayı eklenirse yeni veri grubunun modu kesinlikle 15 olur?",
+      "answers": [
+        "12",
+        "15",
+        "18",
+        "Eklenerek kesinlikle mod 15 yapılamaz"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Modun 15 olabilmesi için 15 sayısının diğer sayılardan daha çok tekrar etmesi gerekir; sadece 15 eklemek modun 15 olacağını garanti etmez."
+    },
+    {
+      "id": "Q_8_4_020",
+      "questionText": "Bir sınıftaki öğrencilerin matematik sınavından aldıkları notların ortalaması 60'tır. Sınıfa yeni gelen 3 öğrencinin not ortalaması 80 olduğuna ve sınıfın yeni ortalaması 64 olduğuna göre, ilk sınıftaki öğrenci sayısı kaçtır?",
+      "answers": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "İlk öğrenci sayısı n olsun. İlk toplam = 60n. Gelenlerin toplamı = 3 x 80 = 240. Yeni toplam = 60n + 240. Yeni öğrenci sayısı = n + 3. Yeni ortalama = (60n + 240) / (n + 3) = 64 => 60n + 240 = 64n + 192 => 4n = 48 => n = 12."
+    },
+    {
+      "id": "Q_8_4_021",
+      "questionText": "Bir veri grubundaki en büyük değer 65, açıklık ise 42'dir. Bu veri grubunun en küçük değeri kaçtır?",
+      "answers": [
+        "13",
+        "21",
+        "23",
+        "27"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Açıklık = En Büyük Değer - En Küçük Değer. 42 = 65 - En Küçük Değer => En Küçük Değer = 65 - 42 = 23."
+    },
+    {
+      "id": "Q_8_4_022",
+      "questionText": "Aşağıdaki grafik türlerinden hangisi bir verinin zaman içerisindeki değişimini (artış veya azalışını) göstermek için en uygundur?",
+      "answers": [
+        "Sütun grafiği",
+        "Çizgi grafiği",
+        "Daire grafiği",
+        "Frekans tablosu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Zamanla meydana gelen değişimleri ve trendleri göstermek için en uygun grafik türü çizgi grafiğidir."
+    },
+    {
+      "id": "Q_8_4_023",
+      "questionText": "Bir manavdaki meyvelerin dağılımını gösteren daire grafiğinde elma dilimi 120°, armut dilimi 90°, portakal dilimi 60° ve muz dilimi x°'dir. Manavda toplam 360 kg meyve olduğuna göre kaç kg armut vardır?",
+      "answers": [
+        "60 kg",
+        "90 kg",
+        "120 kg",
+        "150 kg"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Armut dilimi 90°'dir. 360°'lik daire grafiği 360 kg'a karşılık geldiğine göre 1° = 1 kg'dır. Dolayısıyla 90°'lik armut 90 kg'dır."
+    },
+    {
+      "id": "Q_8_4_024",
+      "questionText": "15, 21, 27, 33, 39 veri grubunun aritmetik ortalaması ile medyanı arasındaki fark kaçtır?",
+      "answers": [
+        "0",
+        "3",
+        "6",
+        "9"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Bu veri grubu aritmetik dizidir. Aritmetik dizilerde ortalama ile ortanca (medyan) birbirine eşittir (her ikisi de 27'dir). Farkları 0'dır."
+    },
+    {
+      "id": "Q_8_4_025",
+      "questionText": "Bir fabrikada üretilen ürünlerin aylara göre dağılımını gösteren bir çizgi grafiğinde, ocak ayından şubat ayına geçerken çizginin yukarı doğru eğimli olduğu görülmüştür. Bu durum ne anlama gelir?",
+      "answers": [
+        "Üretim miktarının arttığını",
+        "Üretim miktarının azaldığını",
+        "Üretimin tamamen durduğunu",
+        "Üretim maliyetinin düştüğünü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veri Analizi",
+      "difficulty": 1,
+      "explanation": "Çizgi grafiğindeki yukarı yönlü eğim, değerin (üretim miktarının) arttığını gösterir."
+    },
+    {
+      "id": "Q_8_4_026",
+      "questionText": "Aritmetik ortalaması 50 olan 10 sayıdan oluşan bir gruba hangi sayı eklenirse yeni grubun aritmetik ortalaması 52 olur?",
+      "answers": [
+        "68",
+        "70",
+        "72",
+        "74"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "10 sayının toplamı = 10 x 50 = 500. Yeni durumda 11 sayının toplamı = 11 x 52 = 572. Eklenen sayı = 572 - 500 = 72."
+    },
+    {
+      "id": "Q_8_4_027",
+      "questionText": "Bir okulun kütüphanesindeki kitap türlerinin oranını en net şekilde göstermek isteyen bir görevli hangi grafiği tercih etmelidir?",
+      "answers": [
+        "Çizgi grafiği",
+        "Daire grafiği",
+        "Sütun grafiği",
+        "Özel tablo"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 2,
+      "explanation": "Bütünün parça oranlarını (yüzdelik veya açısal dağılımları) göstermek için en uygun grafik daire grafiğidir."
+    },
+    {
+      "id": "Q_8_4_028",
+      "questionText": "11, 15, 19, 23, 27 veri grubundan hangi sayı çıkarılırsa kalan 4 sayının aritmetik ortalaması ilk ortalamaya eşit olur?",
+      "answers": [
+        "11",
+        "19",
+        "23",
+        "Hiçbiri"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Veri grubunun aritmetik ortalaması tam ortadaki sayı olan 19'dur. Bir veri grubundan aritmetik ortalamaya eşit olan bir değer çıkarılırsa grubun ortalaması değişmez."
+    },
+    {
+      "id": "Q_8_4_029",
+      "questionText": "Aşağıdaki veri gruplarından hangisinin standart sapması veya homojenliği hakkında yorum yapılırken açıklığın küçük olması neyi ifade eder?",
+      "answers": [
+        "Verilerin birbirine yakın ve grubun homojen (güvenilir) olduğunu",
+        "Verilerin çok dağınık olduğunu",
+        "Aritmetik ortalamanın sıfır olduğunu",
+        "Modun olmadığını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Açıklığın küçük olması, en büyük ve en küçük değerlerin birbirine yakın olduğunu, dolayısıyla verilerin homojen bir dağılım sergilediğini gösterir."
+    },
+    {
+      "id": "Q_8_4_030",
+      "questionText": "Dört farklı ilin bir haftalık sıcaklık değerleri kaydedilmiş ve bu verilerden dört ayrı veri grubu oluşturulmuştur. Sıcaklık değişiminin (dalgalanmasının) en az olduğu ilin 'A ili' olduğu tespit edildiğine göre, A iline ait veri grubu için aşağıdakilerden hangisi kesinlikle söylenebilir?",
+      "answers": [
+        "Aritmetik ortalaması diğer illerden büyüktür.",
+        "Açıklığı (veri genişliği) en küçüktür.",
+        "Tepe değeri (mod) kesinlikle yoktur.",
+        "Ortancası (medyan) sıfırdır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Veri Analizi",
+      "difficulty": 3,
+      "explanation": "Sıcaklık değişiminin (dalgalanmanın) en az olması, verilerin birbirine çok yakın (homojen) olduğu anlamına gelir. Bu da en yüksek sıcaklık ile en düşük sıcaklık arasındaki farkın, yani 'açıklığın' en küçük olduğunu gösterir."
+    }

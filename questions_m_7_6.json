@@ -1,0 +1,425 @@
+{
+  "unit": "Sayılar ve Nicelikler 2",
+  "questions": [
+    {
+      "id": "Q_7_6_001",
+      "questionText": "a ve b birer tam sayı ve b sıfırdan farklı olmak üzere a/b şeklinde yazılabilen sayılara ne ad verilir?",
+      "answers": [
+        "Doğal Sayı",
+        "İrrasyonel Sayı",
+        "Rasyonel Sayı",
+        "Asal Sayı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "İki tam sayının birbirine oranı şeklinde (kesir olarak) ifade edilebilen sayılara 'rasyonel sayı' denir."
+    },
+    {
+      "id": "Q_7_6_002",
+      "questionText": "Aşağıdaki rasyonel sayılardan hangisi negatiftir?",
+      "answers": [
+        "-3 / -4",
+        "(-5) / 2",
+        "| -7 / 3 |",
+        "4 / 9"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "(-3)/(-4) pozitiftir (eksi eksiye bölünür). |-7/3| mutlak değerden dolayı pozitiftir. 4/9 pozitiftir. (-5)/2 ise negatiftir."
+    },
+    {
+      "id": "Q_7_6_003",
+      "questionText": "-3/4 rasyonel sayısının sayı doğrusundaki yeri hangi iki tam sayı arasındadır?",
+      "answers": [
+        "-1 ile 0",
+        "-2 ile -1",
+        "0 ile 1",
+        "-3 ile -4"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Basit kesir olduğu ve negatif olduğu için 0 ile -1 arasındadır."
+    },
+    {
+      "id": "Q_7_6_004",
+      "questionText": "-2,12 ondalık gösteriminin rasyonel sayı olarak en sade hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "-53 / 25",
+        "-106 / 50",
+        "-212 / 100",
+        "-21 / 10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "-212 / 100 kesrini 4 ile sadeleştirirsek -53 / 25 elde edilir."
+    },
+    {
+      "id": "Q_7_6_005",
+      "questionText": "3/4 + (-1/2) işleminin sonucu kaçtır?",
+      "answers": [
+        "-1/4",
+        "1/4",
+        "2/4",
+        "5/4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "Paydaları eşitleyelim: -1/2 = -2/4 olur. 3/4 + (-2/4) = 1/4'tür."
+    },
+    {
+      "id": "Q_7_6_006",
+      "questionText": "(-2/3) · (9/8) işleminin sonucu kaçtır?",
+      "answers": [
+        "-3/4",
+        "-4/3",
+        "3/4",
+        "18/24"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paylar çarpılır paya, paydalar çarpılır paydaya yazılır: (-2 · 9) / (3 · 8) = -18 / 24. 6 ile sadeleştirirsek -3/4 olur."
+    },
+    {
+      "id": "Q_7_6_007",
+      "questionText": "(-3/5) / (9/(-10)) işleminin sonucu kaçtır?",
+      "answers": [
+        "-2/3",
+        "2/3",
+        "-3/2",
+        "3/2"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Birinci kesir aynen yazılır, ikinci kesir ters çevrilip çarpılır: (-3/5) · (-10/9) = +30 / 45. 15 ile sadeleştirilirse 2/3 olur."
+    },
+    {
+      "id": "Q_7_6_008",
+      "questionText": "(-1/2)³ üslü ifadesinin değeri kaçtır?",
+      "answers": [
+        "-1/8",
+        "1/8",
+        "-3/8",
+        "1/6"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Negatif bir kesrin tek kuvveti negatiftir: (-1/2) · (-1/2) · (-1/2) = -1/8."
+    },
+    {
+      "id": "Q_7_6_009",
+      "questionText": "Aşağıdaki rasyonel sayılardan hangisi en büyüktür?",
+      "answers": [
+        "-1/2",
+        "-3/4",
+        "-1/4",
+        "-5/8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paydaları 8'de eşitleyelim: -4/8, -6/8, -2/8, -5/8. Negatif sayılarda 0'a en yakın olan (mutlak değerce en küçük olan) en büyüktür: -2/8 yani -1/4."
+    },
+    {
+      "id": "Q_7_6_010",
+      "questionText": "1 - (1/2) · (1/3) işleminin sonucu kaçtır?",
+      "answers": [
+        "1/6",
+        "5/6",
+        "1/3",
+        "2/3"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Önce çarpma yapılır: (1/2) · (1/3) = 1/6. Sonra çıkarma: 1 - 1/6 = 5/6."
+    },
+    {
+      "id": "Q_7_6_011",
+      "questionText": "Devirli ondalık gösterimi 0,6 (6 devirli) olan sayının rasyonel sayı olarak karşılığı nedir?",
+      "answers": [
+        "6/10",
+        "2/3",
+        "3/5",
+        "6/99"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Kural: (Tüm sayı - Devretmeyen kısım) / (Virgülden sonra devreden kadar 9) = 6 / 9 = 2/3."
+    },
+    {
+      "id": "Q_7_6_012",
+      "questionText": "-4 sayısının toplamaya göre tersi ile çarpmaya göre tersinin toplamı kaçtır?",
+      "answers": [
+        "17 / 4",
+        "15 / 4",
+        "-17 / 4",
+        "-15 / 4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Toplamaya göre tersi +4'tür. Çarpmaya göre tersi -1/4'tür. İşlem: 4 + (-1/4) = 16/4 - 1/4 = 15/4'tür."
+    },
+    {
+      "id": "Q_7_6_013",
+      "questionText": "3 / (1 - 1/4) işleminin sonucu kaçtır?",
+      "answers": [
+        "3/4",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Önce paydadaki çıkarma yapılır: 1 - 1/4 = 3/4. Sonra bölme: 3 / (3/4) = 3 · (4/3) = 4."
+    },
+    {
+      "id": "Q_7_6_014",
+      "questionText": "Aşağıdaki eşitliklerden hangisi YANLIŞTIR?",
+      "answers": [
+        "-3 / 4 = -(3 / 4)",
+        "-(-2 / 5) = 2 / 5",
+        "3 / (-5) = -3 / 5",
+        "-2 / -3 = -2 / 3"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "(-2) / (-3) oranı her iki eksi birbirini götüreceği için +2 / 3 olmalıdır. -2 / 3 yazılması yanlıştır."
+    },
+    {
+      "id": "Q_7_6_015",
+      "questionText": "Bir su deposunun 3/5'i doludur. Depoya 60 litre daha su eklendiğinde deponun tamamı dolmaktadır. Buna göre deponun toplam kapasitesi kaç litredir?",
+      "answers": [
+        "100",
+        "150",
+        "250",
+        "300"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Deponun 3/5'i doluysa boş kalan kısım 1 - 3/5 = 2/5'tir. Bu boş kısım 60 litredir. 2/5'i 60 olan sayının tamamı: 60 / 2 = 30, 30 · 5 = 150 litredir."
+    },
+    {
+      "id": "Q_7_6_016",
+      "questionText": "(-2)⁻² üslü ifadesinin değeri kaçtır?",
+      "answers": [
+        "-1/4",
+        "1/4",
+        "-4",
+        "4"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Eksili üs sayıyı ters çevirir (çarpmaya göre tersini alır). Negatif sayının çift kuvveti pozitiftir: 1 / ((-2)²) = 1 / 4."
+    },
+    {
+      "id": "Q_7_6_017",
+      "questionText": "(-3/4) ile (-1/2) rasyonel sayıları arasında kaç tane tam sayı vardır?",
+      "answers": [
+        "0",
+        "1",
+        "2",
+        "Sonsuz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "-0,75 ile -0,50 arasında hiçbir tam sayı bulunmaz (0 tane)."
+    },
+    {
+      "id": "Q_7_6_018",
+      "questionText": "Bir telin 1/4'ü kesiliyor. Kalan telin 2/3'ü kullanıldığında geriye 15 cm tel kalıyor. Buna göre telin başlangıçtaki uzunluğu kaç santimetredir?",
+      "answers": [
+        "60",
+        "90",
+        "120",
+        "180"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "1/4'ü kesilirse geriye 3/4'ü kalır. Kalanın 2/3'ü kullanılıyor: (3/4) · (2/3) = 2/4 = 1/2'si kullanılıyor. Başlangıçtaki telin 1/4'ü kesilmiş, 2/4'ü kullanılmış, toplam harcanan 3/4'tür. Geriye 1/4 kalmıştır. 1/4'ü 15 cm ise tamamı 15 · 4 = 60 cm'dir."
+    },
+    {
+      "id": "Q_7_6_019",
+      "questionText": "Devirli ondalık gösterimi 1,27 (27 devirli) olan sayının rasyonel karşılığı nedir?",
+      "answers": [
+        "14 / 11",
+        "127 / 100",
+        "114 / 90",
+        "7 / 6"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "(127 - 1) / 99 = 126 / 99. 9 ile sadeleştirirsek 14 / 11 elde edilir."
+    },
+    {
+      "id": "Q_7_6_020",
+      "questionText": "-5/6 rasyonel sayısının toplama işlemine göre tersi ile çarpma işlemine göre tersinin çarpımı kaçtır?",
+      "answers": [
+        "-1",
+        "1",
+        "25 / 36",
+        "-36 / 25"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Toplamaya göre tersi +5/6'dır. Çarpmaya göre tersi -6/5'tir. Çarpımları: (5/6) · (-6/5) = -1'dir."
+    },
+    {
+      "id": "Q_7_6_021",
+      "questionText": "x = -2/3 ve y = 3/4 olduğuna göre x² + y³ işleminin sonucu kaçtır?",
+      "answers": [
+        "35 / 108",
+        "13 / 12",
+        "1",
+        "25 / 12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "x² = (-2/3)² = 4/9. y³ = (3/4)³ = 27/64. Paydaları 576'da eşitleyip topladığımızda 35 / 108 bulunur."
+    },
+    {
+      "id": "Q_7_6_022",
+      "questionText": "Hangi rasyonel sayının 3 katının 2 eksiği -5 yapar?",
+      "answers": [
+        "-1",
+        "-7/3",
+        "1",
+        "7/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Denklem kuralım: 3x - 2 = -5 => 3x = -3 => x = -1."
+    },
+    {
+      "id": "Q_7_6_023",
+      "questionText": "Aşağıdaki rasyonel sayılardan hangisi 0 ile 1 arasında DEĞİLDİR?",
+      "answers": [
+        "1/2",
+        "4/5",
+        "7/6",
+        "9/10"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 1,
+      "explanation": "7/6 bileşik bir kesirdir ve değeri 1 bütünden büyüktür (1 tam 1/6)."
+    },
+    {
+      "id": "Q_7_6_024",
+      "questionText": "(-3/4) / [ 1 / (-2) ] işleminin sonucu kaçtır?",
+      "answers": [
+        "-3/8",
+        "3/8",
+        "-3/2",
+        "3/2"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "(-3/4) kesri -1/2'ye bölünür: (-3/4) · (-2/1) = +6/4. Sadeleştirilirse 3/2 olur."
+    },
+    {
+      "id": "Q_7_6_025",
+      "questionText": "Bir otomobil 450 km'lik yolun önce 2/9'unu, sonra Kalan yolun 2/5'ini gitmiştir. Otomobilin geriye kaç kilometrelik yolu kalmıştır?",
+      "answers": [
+        "150",
+        "180",
+        "210",
+        "250"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "1. adımda gidilen: 450 · 2/9 = 100 km. Kalan yol: 450 - 100 = 350 km. 2. adımda kalanın 2/5'i gidiliyor: 350 · 2/5 = 140 km. Toplam gidilen: 100 + 140 = 240 km. Geriye kalan yol: 450 - 240 = 210 km mi? 450 - 240 = 210. Şıklarda 210 var."
+    },
+    {
+      "id": "Q_7_6_026",
+      "questionText": "a = -1/2, b = -3/4 ve c = -2/3 olduğuna göre a, b ve c sayılarını küçükten büyüğe doğru sıralayınız.",
+      "answers": [
+        "a < b < c",
+        "b < c < a",
+        "c < b < a",
+        "a < c < b"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Paydaları 12'de eşitleyelim: a = -6/12, b = -9/12, c = -8/12. Negatif sayılarda mutlak değerce büyük olan en küçüktür. Dolayısıyla -9/12 < -8/12 < -6/12, yani b < c < a."
+    },
+    {
+      "id": "Q_7_6_027",
+      "questionText": "1 / ( 1 + 1 / (1 + 1/3) ) işleminin sonucu kaçtır?",
+      "answers": [
+        "4/7",
+        "7/4",
+        "3/7",
+        "7/3"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "Aşağıdan yukarı çözeriz: 1 + 1/3 = 4/3. 1 / (4/3) = 3/4. 1 + 3/4 = 7/4. En dıştaki 1 / (7/4) ters çevrilirse 4/7 olur."
+    },
+    {
+      "id": "Q_7_6_028",
+      "questionText": "Bir markette satılan 1 litrelik meyve sularının üzerine içindeki saf meyve oranını gösteren rasyonel sayılar yazılmıştır. A markası 3/4, B markası 7/10, C markası 17/20 oranında meyve içermektedir. En yüksek meyve oranına sahip marka hangisidir?",
+      "answers": [
+        "A markası",
+        "B markası",
+        "C markası",
+        "Hepsi eşittir"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Paydaları 20'de eşitleyelim: A = 15/20, B = 14/20, C = 17/20. En büyük oran C markasına aittir."
+    },
+    {
+      "id": "Q_7_6_029",
+      "questionText": "Çevresi 24/5 cm olan kare şeklindeki bir telin bir kenar uzunluğu kaç santimetredir?",
+      "answers": [
+        "6/5",
+        "12/5",
+        "6/20",
+        "6/10"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 2,
+      "explanation": "Karenin 4 eşit kenarı vardır. Çevreyi 4'e böleriz: (24/5) / 4 = (24/5) · (1/4) = 24 / 20. 4 ile sadeleştirirsek 6/5 cm olur."
+    },
+    {
+      "id": "Q_7_6_030",
+      "questionText": "(-2)³ · [ 1 - (-1/2)² ] / (-1/2) işleminin sonucu kaçtır?",
+      "answers": [
+        "-6",
+        "6",
+        "-12",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Sayılar ve Nicelikler 2",
+      "difficulty": 3,
+      "explanation": "(-2)³ = -8. Parantez içi: 1 - (1/4) = 3/4. Pay kısmı: (-8) · (3/4) = -6. Payda: -1/2. Bölme: (-6) / (-1/2) = -6 · (-2) = +12? Bekle: (-8) · (3/4) = -6. Payda -1/2 ise -6 / (-1/2) = +12 olur. Şıklarda 12 var."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Dilimizin Zenginliği",
+  "questions": [
+    {
+      "id": "Q_6_1_001",
+      "questionText": "'Soğuk' kelimesi hangi cümlede gerçek anlamda kullanılmıştır?",
+      "answers": [
+        "Dolaptan çıkardığı su çok soğuktu.",
+        "Bana karşı çok soğuk davranıyor.",
+        "Soğuk esprileriyle herkesi güldürdü.",
+        "Ayrılığın haberi içimizi soğuttu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Su için kullanılan soğuk kelimesi ısı derecesiyle ilgili olup gerçek anlamındadır. Diğerlerinde mecazdır."
+    },
+    {
+      "id": "Q_6_1_002",
+      "questionText": "'Parlak' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Bu yıl okuldan çok parlak bir dereceyle mezun oldu.",
+        "Parlak güneş, bütün odayı aydınlatıyordu.",
+        "Elimdeki parlak kumaşı çok beğendim.",
+        "Yıldızlar gece gökyüzünde çok parlak görünüyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Parlak derece ifadesi ışık saçmakla ilgili değil, 'üstün, başarılı' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_6_1_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'terim anlamlı' bir sözcük vardır?",
+      "answers": [
+        "Matematik dersinde üçgenin alanını hesapladık.",
+        "Bahçedeki ağaçların yaprakları sararmış.",
+        "Akşam sokağımızda koyu bir sohbet ettik.",
+        "Zamanın ne kadar çabuk geçtiğini fark etmedik."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "'Üçgen' ve 'alan' kelimeleri geometri bilimine ait terimlerdir."
+    },
+    {
+      "id": "Q_6_1_004",
+      "questionText": "'Fakir' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Yoksul",
+        "Zengin",
+        "Cimri",
+        "Cömert"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Fakir kelimesinin eş anlamlısı yoksul kelimesidir."
+    },
+    {
+      "id": "Q_6_1_005",
+      "questionText": "'Cesaret' kelimesinin zıt (karşıt) anlamlısı nedir?",
+      "answers": [
+        "Korkaklık",
+        "Yiğitlik",
+        "Atılganlık",
+        "Güçlülük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Cesaret kelimesinin karşıtı korkaklıktır."
+    },
+    {
+      "id": "Q_6_1_006",
+      "questionText": "'Yüz' kelimesi hangi cümlede diğerlerinden farklı bir anlamda (sesteş) kullanılmıştır?",
+      "answers": [
+        "Yaz aylarında saatlerce denizde yüzerdi.",
+        "Sorunun cevabını bulmak için yüzüme baktı.",
+        "Aynadaki kendi yüzünü görünce gülümsedi.",
+        "Beş basamaklı en küçük sayı yüzdür."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "İlk cümlede suda ilerlemek (yüzmek) anlamındadır. Diğerlerinde ise insan suratı veya sayı anlamındadır."
+    },
+    {
+      "id": "Q_6_1_007",
+      "questionText": "Çok sevinmek ve neşelenmek durumunu anlatan deyim aşağıdakilerden hangisidir?",
+      "answers": [
+        "Etekleri zil çalmak",
+        "Küplere binmek",
+        "Ağzını bıçak açmamak",
+        "Kulak ardı etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Büyük bir sevinç ve coşku duyma durumunu anlatmak için 'etekleri zil çalmak' deyimi kullanılır."
+    },
+    {
+      "id": "Q_6_1_008",
+      "questionText": "'Damlaya damlaya göl olur.' atasözü dilimizin zenginliğini yansıtan hangi kavramla doğrudan ilgilidir?",
+      "answers": [
+        "Tasarrufun ve küçük birikimlerin önemi",
+        "Acele etmenin zararları",
+        "Çalışkanlığın başarı getirdiği",
+        "Dostluğun değeri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Bu atasözü küçük miktarların birleşerek büyük sonuçlar doğuracağını ve tasarrufu öğütler."
+    },
+    {
+      "id": "Q_6_1_009",
+      "questionText": "Aşağıdaki ikilemelerden hangisi zıt anlamlı kelimelerin birleşmesiyle oluşmuştur?",
+      "answers": [
+        "İyi kötü",
+        "Hızlı hızlı",
+        "Eski püskü",
+        "Eğri büğrü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "'İyi' ve 'kötü' kelimeleri zıt anlamlıdır ve bir araya gelerek ikileme oluşturmuştur."
+    },
+    {
+      "id": "Q_6_1_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'yansıma' (doğadaki seslerin taklit edilmesiyle oluşan) bir sözcük vardır?",
+      "answers": [
+        "Gece boyunca tahta kapı gıcırdadı.",
+        "Oda çok güzel bir şekilde kokuyordu.",
+        "Bahçedeki çiçekler rengarenkti.",
+        "Masanın üzerindeki örtü çok eskiydi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "'Gıcırdamak' sözcüğü nesnelerden çıkan sesin taklit edilmesiyle oluştuğu için yansıma bir sözcüktür."
+    },
+    {
+      "id": "Q_6_1_011",
+      "questionText": "'Çiçek' kelimesinden genel anlamdan özel anlama doğru bir sıralama yapılırsa aşağıdakilerden hangisi doğru olur?",
+      "answers": [
+        "Varlık - Bitki - Çiçek - Papatya",
+        "Papatya - Çiçek - Bitki - Varlık",
+        "Çiçek - Papatya - Bitki - Varlık",
+        "Varlık - Çiçek - Bitki - Papatya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Genelden özele sıralama en kapsamlı olandan en dar olana doğrudur: Varlık -> Bitki -> Çiçek -> Papatya."
+    },
+    {
+      "id": "Q_6_1_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nicel' (sayılabilen, ölçülebilen) bir anlam vardır?",
+      "answers": [
+        "Bu binanın yüksekliği elli metredir.",
+        "Çok akıllı ve nazik bir çocuktu.",
+        "Babamın çok sıcak bir kalbi vardı.",
+        "Masanın rengi oldukça güzeldi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Binanın yüksekliği metreyle ölçülebildiği ve sayılabildiği için nicel anlam taşır."
+    },
+    {
+      "id": "Q_6_1_013",
+      "questionText": "'Kelime' kelimesinin kök türü nedir?",
+      "answers": [
+        "İsim Kökü",
+        "Fiil Kökü",
+        "Sesteş Kök",
+        "Ortak Kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "'Kelime' kelimesi mek/mak mastar ekini alamaz (kelimemek olmaz), bu nedenle isim köküdür."
+    },
+    {
+      "id": "Q_6_1_014",
+      "questionText": "Aşağıdaki sözcüklerden hangisi 'yapım eki' alarak türemiştir?",
+      "answers": [
+        "Gözlük",
+        "Evler",
+        "Kalemi",
+        "Okulda"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "'Göz' köküne gelen '-lük' eki yeni bir anlam türeterek yapım eki olmuştur. Diğerleri çekim ekidir."
+    },
+    {
+      "id": "Q_6_1_015",
+      "questionText": "'Omuz' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Omuz - um)",
+      "answers": [
+        "Ünlü Düşmesi (Omzum)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Omuz kelimesi iyelik eki aldığında (omuz-um) ikinci hecedeki 'u' ünlüsü düşer ve 'omzum' olur."
+    },
+    {
+      "id": "Q_6_1_016",
+      "questionText": "'Dolap' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Dolap - a)",
+      "answers": [
+        "Ünsüz Yumuşaması (Dolaba)",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Sert ünsüzle (p) biten kelime ünlüyle başlayan ek aldığında p->b yumuşaması olur (dolaba)."
+    },
+    {
+      "id": "Q_6_1_017",
+      "questionText": "'Söz' köküne '-gin' eki geldiğinde hangi ses olayı gerçekleşir?",
+      "answers": [
+        "Ünsüz Benzeşmesi / Sertleşmesi (Sözgün değil, sözkün / sezgin gibi düşünelim: Seç-gi -> Seçki)",
+        "Ünlü Düşmesi",
+        "Ünsüz Yumuşaması",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 3,
+      "explanation": "Sert ünsüzle (ç, f, h, k, p, s, ş, t) biten bir köke yumuşak ünsüzle başlayan ek geldiğinde ek sertleşir (Seç-gi -> Seçki). Soru örneği: 'Çiçekçi' kelimesinde ç-ç veya k-ç sertleşmesi."
+    },
+    {
+      "id": "Q_6_1_018",
+      "questionText": "'Bekle-' fiili '-yor' ekini aldığında hangi ses olayı meydana gelir?",
+      "answers": [
+        "Ünlü Daralması (Bekliyor)",
+        "Ünlü Düşmesi",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Geniş ünlülerle (-e, -a) biten fiillere '-yor' eki geldiğinde sondaki ses daralarak ı, i, u, ü olur (Bekliyor)."
+    },
+    {
+      "id": "Q_6_1_019",
+      "questionText": "'Erken kalktığı için otobüsü kaçırmadı.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Otobüsü kaçırmamasının nedeni (sebebi) 'erken kalkması'dır. Eylem gerçekleşmiştir."
+    },
+    {
+      "id": "Q_6_1_020",
+      "questionText": "'Dilini geliştirmek amacıyla her gün kitap okuyor.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Öznel Yargı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Kitap okumasının amacı 'dilini geliştirmek'tir. Henüz sonuçlanmamış bir hedeftir."
+    },
+    {
+      "id": "Q_6_1_021",
+      "questionText": "'Düzenli çalışırsan dil becerilerini hızla artırırsın.' cümlesinde hangi anlam ilişkisi vardır?",
+      "answers": [
+        "Koşul (Şart) - Sonuç",
+        "Neden - Sonuç",
+        "Amaç - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Becerilerin artmasının şartı 'düzenli çalışmak'tır (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_1_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'öznel' bir yargı vardır?",
+      "answers": [
+        "Türkçe, dünyanın en zengin ve ses ahengi en yüksek dilidir.",
+        "Türkçe, Ural-Altay dil ailesinde yer alır.",
+        "Türkçede sekiz tane ünlü harf bulunmaktadır.",
+        "Atatürk, 1932 yılında Türk Dil Kurumunu kurmuştur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "'En zengin ve en yüksek ses ahengi' kişisel bir beğeni ve yorumdur, bu yüzden özneldir."
+    },
+    {
+      "id": "Q_6_1_023",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Bana sorduklarını onada anlattım.",
+        "Kitap okumayı da yazmayı da çok severdi.",
+        "Sözcüklerin gücünü bilmek de bir erdemdir.",
+        "Bugün kütüphanede ders çalıştık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Dahi/bile anlamı katan 'de' ayrı yazılmalıdır. Doğrusu 'ona da' şeklinde olmalıydı."
+    },
+    {
+      "id": "Q_6_1_024",
+      "questionText": "Soru eki olan 'mi / mı' her zaman ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Sen de bizimle tiyatroya gelecekmisin?",
+        "Bunu daha önce bana söyledin mi?",
+        "Yarınki sınava hazır mısınız?",
+        "Bu güzel şiiri ezberledin mi?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Soru eki 'misin' ayrı yazılmalıdır. Doğrusu 'gelecek misin?' olmalıdır."
+    },
+    {
+      "id": "Q_6_1_025",
+      "questionText": "Tırnak işareti ( \" \" ) hangi amaçla KULLANILMAZ?",
+      "answers": [
+        "Özel isimlere gelen ekleri ayırmak için",
+        "Başka bir kimseden veya yazıdan olduğu gibi aktarılan sözleri belirtmek için",
+        "Özel olarak vurgulanmak istenen sözleri belirtmek için",
+        "Kitapların ve yazı başlıklarının belirtilmesinde"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Özel isimlere gelen ekleri ayırmak için kesme işareti (') kullanılır, tırnak işareti kullanılmaz."
+    },
+    {
+      "id": "Q_6_1_026",
+      "questionText": "'Söz, gümüşse sükût altındır.' atasözünde hangi söz sanatı vardır?",
+      "answers": [
+        "Karşıtlık (Tezat)",
+        "Konuşturma",
+        "Kişileştirme",
+        "Abartma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Konuşmak (gümüş) ile susmak (altın/sükût) kavramları anlamca karşıtlık (tezat) oluşturmuştur."
+    },
+    {
+      "id": "Q_6_1_027",
+      "questionText": "'Kitaplar, sessiz ama en sadık dostlarımızdır.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme",
+        "Abartma",
+        "Tezat"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Kitaplara 'dost' olma özelliğinin verilmesi onlara insan özellikleri yüklenmesiyle (kişileştirme) sağlanmıştır."
+    },
+    {
+      "id": "Q_6_1_028",
+      "questionText": "Aşağıdaki deyimlerden hangisi 'dilinin kıymetini bilmek, gereksiz konuşmamak' anlamındadır?",
+      "answers": [
+        "Dilini tutmak",
+        "Dil dökmek",
+        "Dili çözülmek",
+        "Dili tutulmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 2,
+      "explanation": "Gereksiz veya zararlı konuşmalardan kaçınmak için susmayı tercih etmeye 'dilini tutmak' denir."
+    },
+    {
+      "id": "Q_6_1_029",
+      "questionText": "'Sözcük' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Kelime",
+        "Cümle",
+        "Harf",
+        "Hece"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Sözcük kelimesinin eş anlamlısı kelime kelimesidir."
+    },
+    {
+      "id": "Q_6_1_030",
+      "questionText": "Bir dilin kelime dağarcığını, deyimlerini ve anlatım gücünü ifade eden en kapsamlı kavram hangisidir?",
+      "answers": [
+        "Dil zenginliği",
+        "Yazım kuralı",
+        "Ses olayı",
+        "Noktalama"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dilimizin Zenginliği",
+      "difficulty": 1,
+      "explanation": "Bir dilin sahip olduğu tüm kelime hazinesi, deyimler ve ifade kalıpları o dilin zenginliğini gösterir."
+    }
+  ]
+}

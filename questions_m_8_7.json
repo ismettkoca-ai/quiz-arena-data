@@ -1,0 +1,425 @@
+{
+  "unit": "Doğrusal Denklemler ve Eşitsizlikler",
+  "questions": [
+    {
+      "id": "Q_8_7_001",
+      "questionText": "Hangi sayının 3 katının 5 eksiği 16'dır?",
+      "answers": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Sayıya x diyelim. 3x - 5 = 16 denklemi kurulur. 3x = 21, buradan x = 7 bulunur."
+    },
+    {
+      "id": "Q_8_7_002",
+      "questionText": "2x + 8 = 4x - 6 denklemini sağlayan x değeri kaçtır?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "x'li terimleri bir tarafa, sayıları diğer tarafa toplayalım: 8 + 6 = 4x - 2x. Buradan 14 = 2x ve x = 7 elde edilir."
+    },
+    {
+      "id": "Q_8_7_003",
+      "questionText": "Koordinat sisteminde A(3, -4) noktası hangi bölgededir?",
+      "answers": [
+        "1. Bölge",
+        "2. Bölge",
+        "3. Bölge",
+        "4. Bölge"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Apsisi (x) pozitif ve ordinatı (y) negatif olan noktalar analitik düzlemde 4. Bölgede yer alır."
+    },
+    {
+      "id": "Q_8_7_004",
+      "questionText": "Bir sayının yarısının 4 fazlası, aynı sayının 2 eksiğine eşittir. Bu ifadeye uygun denklem aşağıdakilerden hangisidir?",
+      "answers": [
+        "x/2 + 4 = x - 2",
+        "(x + 4) / 2 = x - 2",
+        "x/2 - 4 = x + 2",
+        "2x + 4 = x - 2"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Bir sayının yarısının 4 fazlası x/2 + 4 şeklinde, sayının 2 eksiği ise x - 2 şeklinde yazılır. Eşitlik: x/2 + 4 = x - 2."
+    },
+    {
+      "id": "Q_8_7_005",
+      "questionText": "x ekseni üzerinde bulunan bir noktanın ordinatı (y değeri) kaçtır?",
+      "answers": [
+        "-1",
+        "0",
+        "1",
+        "Sonsuz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Bir nokta x ekseni üzerinde ise y eksenindeki yüksekliği sıfırdır, yani ordinatı (y) 0'dır."
+    },
+    {
+      "id": "Q_8_7_006",
+      "questionText": "y = 3x - 2 doğrusal denkleminde x = 4 için y'nin alacağı değer kaçtır?",
+      "answers": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Denklemde x yerine 4 yazılır: y = 3(4) - 2 = 12 - 2 = 10."
+    },
+    {
+      "id": "Q_8_7_007",
+      "questionText": "y = 5x + 3 doğrusunun eğimi kaçtır?",
+      "answers": [
+        "3",
+        "5",
+        "8",
+        "-5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "y = mx + n biçimindeki bir doğrusal denklemde x'in katsayısı (m) eğimi verir. Eğim 5'tir."
+    },
+    {
+      "id": "Q_8_7_008",
+      "questionText": "Dikey uzunluğu 12 metre, yatay uzunluğu 4 metre olan bir rampanın eğimi kaçtır?",
+      "answers": [
+        "1/3",
+        "2",
+        "3",
+        "48"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "Eğim, dikey uzunluğun yatay uzunluğa oranıdır (Dikey / Yatay). 12 / 4 = 3 olur."
+    },
+    {
+      "id": "Q_8_7_009",
+      "questionText": "\"Bu oyun alanına en az 15 yaşında olanlar girebilir.\" cümlesinin cebirsel eşitsizlik ifadesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "x > 15",
+        "x < 15",
+        "x ≥ 15",
+        "x ≤ 15"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 1,
+      "explanation": "En az 15 demek, 15 ve 15'ten büyük yaşlar anlamına gelir. Bu yüzden ifade x ≥ 15 olmalıdır."
+    },
+    {
+      "id": "Q_8_7_010",
+      "questionText": "2x - 4 < 10 eşitsizliğini sağlayan doğal sayıların sayısı kaçtır?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "Sonsuz"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "-4 karşıya +4 olarak geçer. 2x < 14, buradan x < 7 bulunur. Doğal sayılar (0'dan başlar): 0, 1, 2, 3, 4, 5, 6 olmak üzere toplam 7 tanedir."
+    },
+    {
+      "id": "Q_8_7_011",
+      "questionText": "2y - 6x + 4 = 0 doğrusunun eğimi kaçtır?",
+      "answers": [
+        "-3",
+        "2",
+        "3",
+        "6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Denklemde y yalnız bırakılır: 2y = 6x - 4 => y = 3x - 2. x'in katsayısı eğimdir, yani 3'tür."
+    },
+    {
+      "id": "Q_8_7_012",
+      "questionText": "A(1, 2) ve B(3, 8) noktalarından geçen doğrunun eğimi kaçtır?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "İki noktadan geçen doğrunun eğimi m = (y₂ - y₁) / (x₂ - x₁) formülü ile bulunur. m = (8 - 2) / (3 - 1) = 6 / 2 = 3'tür."
+    },
+    {
+      "id": "Q_8_7_013",
+      "questionText": "3x + 4y = 12 doğrusunun x eksenini kestiği noktanın apsisi kaçtır?",
+      "answers": [
+        "3",
+        "4",
+        "6",
+        "12"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Doğrunun x eksenini kestiği noktada y değeri sıfırdır. y = 0 için 3x + 0 = 12 => x = 4 bulunur."
+    },
+    {
+      "id": "Q_8_7_014",
+      "questionText": "Koordinat sisteminde A(a - 2, b + 3) noktası orijin (başlangıç noktası) üzerinde olduğuna göre a + b toplamı kaçtır?",
+      "answers": [
+        "-1",
+        "1",
+        "5",
+        "0"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Orijin noktası (0, 0)'dır. a - 2 = 0 => a = 2. b + 3 = 0 => b = -3'tür. Toplamları 2 + (-3) = -1 olur."
+    },
+    {
+      "id": "Q_8_7_015",
+      "questionText": "Bir sınıftaki öğrenciler sıralara 2'şerli oturursa 5 öğrenci ayakta kalıyor, 3'erli oturursa 2 sıra boş kalıyor. Bu sınıfın mevcudu kaçtır?",
+      "answers": [
+        "11",
+        "15",
+        "21",
+        "27"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Sıra sayısına x diyelim. Öğrenci sayısı 2x + 5 = 3(x - 2) olur. 2x + 5 = 3x - 6 => x = 11'dir. Sınıf mevcudu 2(11) + 5 = 27 öğrencidir."
+    },
+    {
+      "id": "Q_8_7_016",
+      "questionText": "Bir araç gideceği yolun önce 1/3'ünü, sonra kalan yolun 1/2'sini gidiyor. Geriye gitmesi gereken 40 km yolu kaldığına göre, yolun tamamı kaç km'dir?",
+      "answers": [
+        "80",
+        "100",
+        "120",
+        "150"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Yolun tamamına 6x diyelim. Önce 2x gidiyor (kalan 4x). Sonra kalanın yarısı olan 2x daha gidiyor. Toplam 4x gitti. Kalan 2x yol = 40 km ise x = 20'dir. Yolun tamamı 6x = 120 km'dir."
+    },
+    {
+      "id": "Q_8_7_017",
+      "questionText": "-3x + 5 ≥ 17 eşitsizliğini sağlayan en büyük tam sayı değeri kaçtır?",
+      "answers": [
+        "-5",
+        "-4",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "-3x ≥ 17 - 5 => -3x ≥ 12. Eşitsizlik negatif bir sayıya bölündüğünde yön değiştirir: x ≤ -4. Alabileceği en büyük tam sayı değeri -4'tür."
+    },
+    {
+      "id": "Q_8_7_018",
+      "questionText": "Bir sinema biletinde tam bilet 20 TL, öğrenci bileti 12 TL'dir. 30 kişinin katıldığı bir grup gişeye 440 TL'den az ödeme yaptığına göre, bu grupta en az kaç öğrenci vardır?",
+      "answers": [
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Öğrenci sayısına x dersek tam bilet sayısı (30 - x) olur. 12x + 20(30 - x) < 440 => 12x + 600 - 20x < 440 => -8x < -160 => x > 20 bulunur. En az 21 öğrenci olmalıdır."
+    },
+    {
+      "id": "Q_8_7_019",
+      "questionText": "Koordinat sisteminde orijinden ve A(2, -4) noktasından geçen doğrunun denklemi aşağıdakilerden hangisidir?",
+      "answers": [
+        "y = 2x",
+        "y = -2x",
+        "y = -4x",
+        "y = x - 6"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Orijinden geçen doğrunun denklemi y = mx şeklindedir. Eğim (m) = y / x = -4 / 2 = -2'dir. Doğru denklemi y = -2x olur."
+    },
+    {
+      "id": "Q_8_7_020",
+      "questionText": "Dikildiğinde boyu 10 cm olan bir fidan her ay 2 cm uzamaktadır. Fidanın boyu (y) ile geçen ay (x) arasındaki doğrusal ilişkiyi gösteren denklem aşağıdakilerden hangisidir?",
+      "answers": [
+        "y = 10x + 2",
+        "y = 2x + 10",
+        "y = 12x",
+        "y = 10(x + 2)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Fidanın başlangıç boyu 10 cm sabit terimdir. Her ayki uzama miktarı eğimdir. Buna göre y = 2x + 10 denklemi elde edilir."
+    },
+    {
+      "id": "Q_8_7_021",
+      "questionText": "(x - 2) / 3 + (x + 1) / 2 = 4 denklemini sağlayan x değeri kaçtır?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "Paydalar 6'da eşitlenir: 2(x - 2) + 3(x + 1) = 24 => 2x - 4 + 3x + 3 = 24 => 5x - 1 = 24 => 5x = 25 => x = 5."
+    },
+    {
+      "id": "Q_8_7_022",
+      "questionText": "a bir tam sayı olmak üzere, -2 < a ≤ 5 ve 2a - b = 3 olduğuna göre b'nin alabileceği en küçük tam sayı değeri kaçtır?",
+      "answers": [
+        "-7",
+        "-5",
+        "-3",
+        "7"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "b'yi yalnız bırakırsak b = 2a - 3 olur. b'nin en küçük olması için a'nın en küçük tam sayı değerini alması gerekir. Eşitsizlikte a'nın alabileceği en küçük tam sayı -1'dir. b = 2(-1) - 3 = -5 olur."
+    },
+    {
+      "id": "Q_8_7_023",
+      "questionText": "Ayşe parasının önce 1/4'ü ile kitap, daha sonra kalan parasının 1/3'ü ile defter almıştır. Geriye 60 TL'si kaldığına göre başlangıçta kaç TL'si vardı?",
+      "answers": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Başlangıçtaki paraya 12x diyelim. Kitap = 3x. Kalan = 9x. Defter, kalanın 1/3'ü yani 3x. Geriye kalan = 9x - 3x = 6x. 6x = 60 ise x = 10'dur. Başlangıçta 12x = 120 TL'si vardı."
+    },
+    {
+      "id": "Q_8_7_024",
+      "questionText": "Koordinat sisteminde x eksenine paralel olan bir doğrunun eğimi için aşağıdakilerden hangisi söylenebilir?",
+      "answers": [
+        "Eğimi 1'dir.",
+        "Eğimi -1'dir.",
+        "Eğimi sıfırdır.",
+        "Eğimi tanımsızdır."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 2,
+      "explanation": "x eksenine paralel olan doğruların dikey uzunlukta değişimi yoktur, bu nedenle eğimleri sıfırdır. (y eksenine paralel doğruların eğimi tanımsızdır.)"
+    },
+    {
+      "id": "Q_8_7_025",
+      "questionText": "Bir cep telefonu tarifesinde A planında sabit ücret 30 TL ve dakika başı konuşma 0,2 TL'dir. B planında ise sabit ücret 10 TL ve dakika başı konuşma 0,3 TL'dir. Bir ayda A planının daha ekonomik (ucuz) olması için en az kaç tam dakika konuşulmalıdır?",
+      "answers": [
+        "199",
+        "200",
+        "201",
+        "202"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "A planı < B planı olmalıdır. 30 + 0,2x < 10 + 0,3x eşitsizliğinden 20 < 0,1x bulunur. Her iki tarafı 10 ile çarparsak 200 < x (x > 200) olur. En az 201 dakika konuşulmalıdır."
+    },
+    {
+      "id": "Q_8_7_026",
+      "questionText": "y = 2x - 4 doğrusu ile koordinat eksenleri arasında kalan kapalı üçgensel bölgenin alanı kaç birimkaredir?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "x = 0 için y = -4 (y eksenini -4'te keser). y = 0 için 2x = 4 => x = 2 (x eksenini 2'de keser). Üçgenin dik kenarları 2 ve 4 birim uzunluğundadır. Alan = (2 · 4) / 2 = 4 birimkaredir."
+    },
+    {
+      "id": "Q_8_7_027",
+      "questionText": "Koordinat düzleminde A(k, 4) noktası 3x - 2y = 10 doğrusunun üzerinde olduğuna göre k kaçtır?",
+      "answers": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Nokta, doğrunun denklemini sağlamalıdır. x yerine k, y yerine 4 yazalım: 3k - 2(4) = 10 => 3k - 8 = 10 => 3k = 18 => k = 6."
+    },
+    {
+      "id": "Q_8_7_028",
+      "questionText": "3(x - 2) - 2(x + 1) ≤ 4 eşitsizliğini sağlayan doğal sayıların toplamı kaçtır?",
+      "answers": [
+        "66",
+        "78",
+        "91",
+        "105"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Dağıtırsak: 3x - 6 - 2x - 2 ≤ 4 => x - 8 ≤ 4 => x ≤ 12. Doğal sayılar sıfırdan başlar (0, 1, 2... 12). 1'den 12'ye kadar olan sayıların toplamı = (12 · 13) / 2 = 78'dir."
+    },
+    {
+      "id": "Q_8_7_029",
+      "questionText": "Aynı boydaki iki mumdan biri 6 saatte, diğeri 8 saatte tamamen erimektedir. Bu iki mum aynı anda yakıldıktan kaç saat sonra birinin boyu diğerinin boyunun 2 katı olur?",
+      "answers": [
+        "3,2",
+        "4",
+        "4,8",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Mum boyuna 1 diyelim. t saat sonra 1. mumdan 1 - (t/6), 2. mumdan 1 - (t/8) kalır. Yavaş eriyen (8 saatlik) daha uzun kalır. 1 - (t/8) = 2 · (1 - (t/6)) => 1 - t/8 = 2 - 2t/6 => t/3 - t/8 = 1. Payda eşitlersek 5t/24 = 1 => t = 24/5 = 4,8 saat."
+    },
+    {
+      "id": "Q_8_7_030",
+      "questionText": "Dikdörtgen şeklindeki bir panoya kısa kenarı x cm, uzun kenarı (2x + 5) cm olan eş afişlerden 3 tanesi uzun kenarları yere paralel olacak biçimde, aralarında boşluk kalmadan yan yana asıldığında panonun genişliği tam olarak kaplanmaktadır. Panonun genişliği 100 cm'den az olduğuna göre x'in alabileceği en büyük tam sayı değeri kaçtır?",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Doğrusal Denklemler ve Eşitsizlikler",
+      "difficulty": 3,
+      "explanation": "Afişler uzun kenarları boyunca asıldığından toplam genişlik 3 · (2x + 5) olur. Eşitsizlik: 3(2x + 5) < 100 => 6x + 15 < 100 => 6x < 85. 85 / 6 ≈ 14,16... olduğundan x en büyük 14 olabilir."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "unit": "Fiilimsiler (Eylemsiler)",
+  "questions": [
+    {
+      "id": "Q_8_5_001",
+      "questionText": "Fiil kök veya gövdelerine getirilen özel eklerle türetilen, cümle içinde isim, sıfat veya zarf görevinde kullanılan sözcüklere ne ad verilir?",
+      "answers": [
+        "Çekimli Fiil",
+        "Fiilimsi (Eylemsi)",
+        "Ek-fiil",
+        "Yardımcı Eylem"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 1,
+      "explanation": "Fiilimsiler fiil kökünden türese de fiil çekim eklerini (şahıs, zaman) alamazlar, cümlede isim-sıfat-zarf görevinde bulunurlar."
+    },
+    {
+      "id": "Q_8_5_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'isim-fiil' (mastar) eki almış bir sözcük vardır?",
+      "answers": [
+        "Koşar adım eve doğru yaklaşmaya başladı.",
+        "Bahçedeki sarı yapraklar rüzgarla uçuşuyordu.",
+        "Gülerek içeri giren çocuk herkesi neşelendirdi.",
+        "Dün aldığımız kitapları masanın üzerine bıraktı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 1,
+      "explanation": "Koşar adım eve doğru yaklaşmaya başladı. Seçeneğinde geçen 'yaklaşmaya' sözcüğü '-ma' isim-fiil ekini almıştır. (Diğerlerinde sıfat-fiil ve zarf-fiil vardır.)"
+    },
+    {
+      "id": "Q_8_5_003",
+      "questionText": "Fiillere getirilen '-an, -ası, -mez, -ar, -dik, -ecek, -miş' ekleriyle kurulan ve genellikle niteleme görevinde kullanılan fiilimsilere ne ad verilir?",
+      "answers": [
+        "İsim-fiil",
+        "Sıfat-fiil (Ortaç)",
+        "Zarf-fiil (Ulaç)",
+        "Kalıcı Ad"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 1,
+      "explanation": "'-anası mezar dikecekmiş' koduyla akılda tutulan bu ekler sıfat-fiil (ortaç) ekleridir ve genellikle bir ismi niteletir."
+    },
+    {
+      "id": "Q_8_5_004",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil' (ulaç) kullanılmıştır?",
+      "answers": [
+        "Okula gitmek için erken saatte uyandı.",
+        "Yaz tatilinde köye gitmeyi çok istiyordu.",
+        "Eve gelir gelmez ellerini yıkayıp masaya oturdu.",
+        "Görünmez kaza herkesi derinden sarstı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 1,
+      "explanation": "Eve gelir gelmez ellerini yıkayıp masaya oturdu. Seçeneğinde geçen '-ip' ekini alan 'yıkayıp' sözcüğü zarf-fiildir."
+    },
+    {
+      "id": "Q_8_5_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde geçen '-ma / -me' eki diğerlerinden farklı bir işlevde (isim-fiil değil, olumsuzluk eki olarak) kullanılmıştır?",
+      "answers": [
+        "Sabah erken kalkmayı asla sevmezdi.",
+        "Bu zorlu soruyu çözmek bana göre değil.",
+        "Bana bu konuda sakın yalan söyleme.",
+        "Şiir okumak ruhunu dinlendiriyordu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Bana bu konuda sakın yalan söyleme. Seçeneğindeki 'söyleme' sözcüğü işin yapılmamasını bildiren çekimli fiilin olumsuzluk ekidir; diğerleri isim-fiil ekidir."
+    },
+    {
+      "id": "Q_8_5_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde geçen '-ecek / -acak' eki 'sıfat-fiil' görevinde kullanılmamıştır?",
+      "answers": [
+        "Gelecek hafta sınava girecek tüm öğrencilere başarılar dilerim.",
+        "Görülmemiş güzellikteki manzarayı izlemek için tepeye çıktık.",
+        "Yarın akşam eski dostlarla güzel bir restoranda buluşacaklar.",
+        "Akacak kan damarda durmaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Yarın akşam eski dostlarla güzel bir restoranda buluşacaklar. Seçeneğindeki 'buluşacaklar' sözcüğü yüklem görevinde çekimlenmiş gelecek zaman fiilidir, sıfat-fiil değildir."
+    },
+    {
+      "id": "Q_8_5_007",
+      "questionText": "Fiilimsi eklerini aldığı halde zamanla bir nesnenin veya kavramın kalıcı adı (kalıcı isim) haline gelen sözcükler fiilimsi kabul edilmez. Buna göre aşağıdaki cümlelerin hangisinde kalıcı isim bulunmaktadır?",
+      "answers": [
+        "Annemin hazırladığı sarmalar sofranın baş köşesindeydi.",
+        "Yarın sabah erken saatlerde kahvaltı için buluşacağız.",
+        "Çocuklar bahçede neşeyle koşup eğleniyorlardı.",
+        "Kitap okumak insanı zihinsel olarak geliştirir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Annemin hazırladığı sarmalar sofranın baş köşesindeydi. Seçeneğindeki 'sarmalar' sözcüğü artık fiilimsi özelliğini yitirmiş, yemeğin kalıcı adı olmuştur."
+    },
+    {
+      "id": "Q_8_5_008",
+      "questionText": "Sıfat-fiiller bazen niteledikleri isim düşerek onların yerine geçebilirler; bu duruma 'adlaşmış sıfat-fiil' denir. Aşağıdaki cümlelerin hangisinde adlaşmış sıfat-fiil vardır?",
+      "answers": [
+        "Koşan adam, otobüse yetişmek için terliyordu.",
+        "Yazılan şiirleri defterine dikkatlice kaydetti.",
+        "Buraya gelenler, salonun girişindeki görevliye adını yazdırsın.",
+        "Görünmez kazalardan korunmak için dikkatli olmalıyız."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Buraya gelenler, salonun girişindeki görevliye adını yazdırsın. Seçeneğindeki 'gelenler' sözcüğü 'gelen insanlar' anlamında kullanılarak adlaşmış sıfat-fiil olmuştur."
+    },
+    {
+      "id": "Q_8_5_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde üç farklı fiilimsi türünün (isim-fiil, sıfat-fiil, zarf-fiil) tümü bir arada kullanılmıştır?",
+      "answers": [
+        "Gülerek içeri giren çocuk, elindeki kutuyu masaya bıraktı.",
+        "Koşarak içeri giren çocuk, okunacak kitapları düzenlemeye başladı.",
+        "Yola çıkmadan önce yanına aldığı kalın montu giydi.",
+        "Ders çalışırken dinlediği şarkılar ona huzur veriyordu."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "'Koşarak içeri giren çocuk, okunacak kitapları düzenlemeye başladı.' cümlesinde; 'koşarak' zarf-fiil, 'giren' ve 'okunacak' sıfat-fiil, 'düzenlemeye' sözcüğü ise isim-fiildir."
+    },
+    {
+      "id": "Q_8_5_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde zarf-fiil, cümleye 'durum' anlamı katmıştır?",
+      "answers": [
+        "Zil çalar çalmaz öğrenciler sınıflara koştu.",
+        "Sabahleyin kahvesini yudumlayıp balkona çıktı.",
+        "Çocuk, annesinin arkasından ağlayarak el salladı.",
+        "Yıllar sonra köyüne dönünce büyük bir şaşkınlık yaşadı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Çocuk, annesinin arkasından ağlayarak el salladı. Seçeneğindeki 'ağlayarak' sözcüğü, el sallama eyleminin nasıl (hangi durum ve şekilde) yapıldığını bildirdiği için durum anlamı katmıştır."
+    },
+    {
+      "id": "Q_8_5_011",
+      "questionText": "Zarf-fiil ekleri bazen eylemin ne zaman yapılacağını bildirerek 'zaman' anlamı katar. Buna göre aşağıdaki cümlelerin hangisinde zarf-fiil cümleye zaman anlamı kazandırmıştır?",
+      "answers": [
+        "İçeri girer girmez herkesi selamladı.",
+        "Konuyu iyice anlamak için hızlıca not aldı.",
+        "Soruları dikkatlice okuyarak doğru yanıtı buldu.",
+        "Çocuk, neşeyle şarkı söyleyerek odasında oynuyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "İçeri girer girmez herkesi selamladı. Seçeneğindeki '-er ... -mez' zarf-fiil ekini alan 'girer girmez' sözcüğü eylemin ne zaman gerçekleştiğini (zaman anlamını) vermektedir."
+    },
+    {
+      "id": "Q_8_5_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-mez / -maz' eki sıfat-fiil görevinde kullanılmamıştır?",
+      "answers": [
+        "Geçit vermez dağları aşarak kente ulaştılar.",
+        "Tükenmez kalemini masanın üzerinde unuttu.",
+        "Çocuk, annesinin uyarılarına asla kulak asmıyor, söz dinlemez.",
+        "Tanıdık simalarla karşılaşınca içi ferahladı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Çocuk, annesinin uyarılarına asla kulak asmıyor, söz dinlemez. Seçeneğindeki 'dinlemez' sözcüğü cümlenin yüklemidir ve geniş zamanın olumsuzu olan çekimli fiildir."
+    },
+    {
+      "id": "Q_8_5_013",
+      "questionText": "Aşağıdaki dizelerin hangisinde fiilimsi (eylemsi) kullanılmamıştır?",
+      "answers": [
+        "Gurbet elde başım yastığa düşer / Beni bu hallerde koyup gidersin",
+        "Ağaçlar ki tümüyle dostumuzdur / Yaprak döker kışın hüznü sarar",
+        "Sararmış yapraklar düşerken yere / Çocuklar neşeyle koştu bahçeye",
+        "Geçti benden artık o deli çağlar / İçimde sönmeyen bir ateş vardır"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Ağaçlar ki tümüyle dostumuzdur / Yaprak döker kışın hüznü sarar. Seçeneğindeki 'döker' ve 'sarar' sözcükleri yüklemdir, cümlede herhangi bir fiilimsi ekine yer verilmemiştir. (Diğerlerinde; koyup, sararmış/düşerken, sönmeyen fiilimsidir.)"
+    },
+    {
+      "id": "Q_8_5_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-dık / -dik' sıfat-fiil eki, iyelik ekiyle karışarak farklı bir yapıda kullanılmıştır? (Yani adlaşmış sıfat-fiil veya kalıp isim olmuştur)",
+      "answers": [
+        "Bildiklerimi herkese açıkça anlatmaya karar verdim.",
+        "Okuduğumuz kitaplar bizi bambaşka dünyalara götürür.",
+        "Gördüğümüz manzaralar karşısında hepimiz büyülenmiştik.",
+        "İstediğimiz elbiseyi mağazada bulamayınca üzüldü."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Bildiklerimi herkese açıkça anlatmaya karar verdim. Seçeneğindeki 'bildiklerim' sözcüğü 'bildiğim şeyler' anlamında doğrudan ismin yerini tutmuş bir adlaşmış sıfat-fiildir."
+    },
+    {
+      "id": "Q_8_5_015",
+      "questionText": "Bir öğrenci tahtaya yazdığı cümlede geçen fiilimsileri türlerine göre gruplandırmak istemiştir:\n'Yazar, yaşanmış olayları kaleme alırken okuyucuyu düşündürmeyi amaçlar.'\nBu cümledeki fiilimsilerin türce özdeş dizilimi hangi seçenekte verilmiştir?",
+      "answers": [
+        "Sıfat-fiil - Zarf-fiil - İsim-fiil",
+        "İsim-fiil - Sıfat-fiil - Zarf-fiil",
+        "Zarf-fiil - İsim-fiil - Sıfat-fiil",
+        "Sıfat-fiil - İsim-fiil - Zarf-fiil"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "'Yaşanmış' sözcüğü sıfat-fiil (-miş), 'alırken' sözcüğü zarf-fiil (-ken), 'düşündürmeyi' sözcüğü ise isim-fiildir (-ma). Sıralama Sıfat-fiil - Zarf-fiil - İsim-fiil şeklindedir."
+    },
+    {
+      "id": "Q_8_5_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-ken' zarf-fiil eki diğerlerinden farklı bir tür sözcüğe gelmiştir?",
+      "answers": [
+        "Eve doğru yürürken eski bir dostuyla karşılaştı.",
+        "Kitap okurken uyuyakalmış, masada uyanmıştı.",
+        "Hava henüz çok gençken bu şehre yerleşmişlerdi.",
+        "Şarkı söylerken etrafa neşe saçıyordu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Hava henüz çok gençken bu şehre yerleşmişlerdi. Seçeneğinde 'genç' sözcüğü isim soylu (sıfat/isim) bir kelimedir ve '-ken' eki isim kök/gövdesine gelmiştir. Diğerlerinde ise fiil köklerine gelmiştir."
+    },
+    {
+      "id": "Q_8_5_017",
+      "questionText": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük fiilimsi değildir (kalıcı isimdir)?",
+      "answers": [
+        "Kovaları suyla <u>doldurma</u> görevini bana verdiler.",
+        "Bahçeyi kazmak için depodan bir <u>kazma</u> getirdi.",
+        "Ateşi <u>yakma</u> işini kampın rehberi üstlendi.",
+        "Odanın duvarlarını <u>boyama</u> fikri hepimizin hoşuna gitti."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Bahçeyi kazmak için depodan bir <u>kazma</u> getirdi. Seçeneğindeki 'kazma' sözcüğü bir eylem anlamını (kazmak) tamamen yitirmiş ve bir tarım aletinin kalıcı adı olmuştur. Diğer seçeneklerdeki altı çizili sözcükler ('doldurma', 'yakma', 'boyama') ise eylem anlamını hâlâ koruyan isim-fiillerdir."
+    },
+    {
+      "id": "Q_8_5_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde birden fazla 'isim-fiil' (mastar) kullanılmıştır?",
+      "answers": [
+        "Bu zorlu problemleri çözmek gerçekten büyük bir sabır gerektiriyor.",
+        "Sabah spor yapmak ve sağlıklı beslenmek yaşam kalitesini artırır.",
+        "Çocuk, annesinden izin almadan dışarı çıkmak istemiyordu.",
+        "Sanatçının en büyük hayali bu şehirde bir sergi açmaktı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Sabah spor yapmak ve sağlıklı beslenmek yaşam kalitesini artırır. Seçeneğinde 'yapmak' ve 'beslenmek' sözcükleri '-mak' isim-fiil ekini alarak aynı cümlede birden fazla isim-fiil oluşturmuştur."
+    },
+    {
+      "id": "Q_8_5_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde sıfat-fiil, adını aldığı ismin önüne gelmeyerek düşmüş ve 'adlaşmış sıfat-fiil' olmuştur?",
+      "answers": [
+        "Akacak kan damarda durmaz.",
+        "Çalışkan öğrenciler her zaman ödüllendirilir.",
+        "Yere düşen kalemi dikkatlice aldı.",
+        "Yapanlar mutlaka bir gün yaptıklarının cezasını çekecektir."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Yapanlar mutlaka bir gün yaptıklarının cezasını çekecektir. Seçeneğindeki 'yapanlar' sözcüğü 'yapan insanlar' anlamında kullanılarak düşen ismin yerine geçmiş ve adlaşmıştır."
+    },
+    {
+      "id": "Q_8_5_020",
+      "questionText": "Aşağıdaki cümlelerin hangisinde zarf-fiil ekini almış sözcük diğerlerinden farklı bir soruya (Nasıl veya Ne zaman) cevap vermektedir?",
+      "answers": [
+        "Çocuklar parkta neşeyle koşa koşa oynuyordu.",
+        "Soruyu dikkatlice okuyarak doğru yanıtı buldu.",
+        "Eve gelir gelmez üzerini değiştirip dışarı çıktı.",
+        "Gözlerini dikip uzun uzun karşıdaki tabloyu inceledi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Eve gelir gelmez üzerini değiştirip dışarı çıktı. Seçeneğindeki 'gelir gelmez' sözcüğü 'Ne zaman geldi?' (zaman) sorusuna yanıt verirken, diğerleri 'Nasıl?' (durum) sorusuna yanıt vermektedir."
+    },
+    {
+      "id": "Q_8_5_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde hem sıfat-fiil hem de zarf-fiil kullanılmıştır?",
+      "answers": [
+        "Koşarak yanımıza gelen çocuk, elinde tuttuğu mektubu uzattı.",
+        "Giden sevgilinin ardından öylece bakakaldı.",
+        "Yollar uzağında kaldı, akşam oldu.",
+        "Mısralarımda sessizce ağlıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "'Koşarak yanımıza gelen çocuk, elinde tuttuğu mektubu uzattı.' cümlesinde; 'koşarak' sözcüğü zarf-fiil, 'gelen' ve 'tuttuğu' sözcükleri ise sıfat-fiil görevindedir. Böylece iki farklı fiilimsi türü bir arada kullanılmıştır."
+    },
+    {
+      "id": "Q_8_5_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-ma / -me' eki isim-fiil (eylemsi) görevinde kullanılmamıştır?",
+      "answers": [
+        "Bahçe duvarını boyama işi oldukça yorucuydu.",
+        "Görülmemiş olaylar karşısında hepimiz şoke olduk.",
+        "Yemek yapmayı çok sevdiğini her fırsatta dile getirirdi.",
+        "Akşamları kitap okuma alışkanlığı kazanmıştı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "'Görülmemiş olaylar' tamlamasındaki 'görülmemiş' sözcüğü bir sıfat-fiildir ve buradaki '-me' eki isim-fiil eki değil, olumsuzluk ekidir. Diğer seçeneklerde yer alan 'boyama', 'yapmayı' ve 'okuma' sözcüklerindeki '-ma' ekleri ise fiili isim yapan isim-fiil ekidir."
+    },
+    {
+      "id": "Q_8_5_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde eylemsi (fiilimsi) yoktur?",
+      "answers": [
+        "Yaz tatilinde Ege kıyılarını gezmeyi planlıyoruz.",
+        "Sınavı kazanan öğrenciler için okulda tören düzenlendi.",
+        "Akşamüstü sahilde yürümek insana huzur verir.",
+        "Babam her sabah işe gitmek için erkenden evden çıkar."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "Babam her sabah işe gitmek için erkenden evden çıkar. Seçeneğindeki 'çıkar' sözcüğü geniş zamanla çekimlenmiş yüklemdir; cümlede fiilimsi eki almış başka sözcük yoktur. Diğer seçeneklerde; gezmeyi, kazanan, yürümek fiilimsidir.)"
+    },
+    {
+      "id": "Q_8_5_024",
+      "questionText": "Fiilimsiler cümle içinde yan cümlecik kurarak temel yargıyı (yüklemi) tamamlarlar. Buna göre aşağıdaki cümlelerin hangisinde yan cümlecik (fiilimsi grubu) nesne görevinde kullanılmıştır?",
+      "answers": [
+        "Hava kararınca sokak lambaları teker teker yandı.",
+        "Sanatçı, eserlerinde halkın sorunlarını yansıtmayı amaçlar.",
+        "Bahçede koşan çocuklar neşeyle bağrışıyordu.",
+        "Gelen misafirleri kapıda güleryüzle karşıladı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Sanatçı, eserlerinde halkın sorunlarını yansıtmayı amaçlar. Seçeneğinde 'yansıtmayı' isim-fiili, amaçlar yükleminin neyi amaçlar? (belirtili nesne) sorusuna yanıt vermektedir."
+    },
+    {
+      "id": "Q_8_5_025",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-erek / -arak' zarf-fiil eki kullanılmamıştır?",
+      "answers": [
+        "Çocuğun yüzü tatlı bir tebessümle gülüyordu.",
+        "Kitabın sayfalarını tek tek çevirerek aradığını buldu.",
+        "Sabahın erken saatlerinde yürüyerek okula vardı.",
+        "Yıllardır bu kasabada sessiz sedasız yaşayarak ömrünü tüketmişti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 2,
+      "explanation": "'Çocuğun yüzü tatlı bir tebessümle gülüyordu.' cümlesinde zarf-fiil yoktur; 'gülüyordu' sözcüğü şimdiki zamanın hikayesiyle çekimlenmiş bir fiildir. Diğer seçeneklerde yer alan 'çevirerek', 'yürüyerek' ve 'yaşayarak' sözcükleri ise zarf-fiildir."
+    },
+    {
+      "id": "Q_8_5_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-iş / -ış' eki diğerlerinden farklı bir görevde kullanılmıştır? (İsim-fiil mi yoksa kalıcı isim/durum mu?)",
+      "answers": [
+        "Yazarın olayları kurgulayış tarzı eleştirmenlerden tam not aldı.",
+        "Çocukların neşeyle bahçede koşuşu herkesi mutlu etti.",
+        "Banka şubesine gitmek için sabah erken saatte çıkış yaptı.",
+        "Öğretmenin konuyu anlatış biçimi öğrenciler tarafından çok sevildi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Banka şubesine gitmek için sabah erken saatte çıkış yaptı. Seçeneğindeki 'çıkış' sözcüğü binadaki çıkış kapısını veya eylemin sonucunu belirten kalıcı bir isim olmuştur; diğerleri eylemin yapılma tarzını bildiren isim-fiildir."
+    },
+    {
+      "id": "Q_8_5_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde sifat-fiil grubu, nitelediği isimle birlikte 'özne' görevindedir?",
+      "answers": [
+        "Okulun bahçesinde oynayan çocuklar öğretmenlerini görünce sustu.",
+        "Yazarın son kitabında anlattığı olaylar gerçek hayattan alınmıştır.",
+        "Kütüphaneden aldığı kalın romanı iki günde bitirdi.",
+        "Girdiğimiz zorlu sınav sonucunda istediğimiz puanı elde ettik."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Okulun bahçesinde oynayan çocuklar öğretmenlerini görünce sustu. Seçeneğinde 'oynayan çocuklar' sıfat-fiil grubu, cümlede 'Sustan kim?' sorusunun karşılığı olarak özne görevindedir."
+    },
+    {
+      "id": "Q_8_5_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde adlaşmış sıfat-fiil yoktur?",
+      "answers": [
+        "Yalancının mumu yatsıya kadar yanar.",
+        "Çok bilen çok yanılır.",
+        "Gelen gideni aratır.",
+        "Akacak kan damarda durmaz."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Akacak kan damarda durmaz. Seçeneğinde 'akacak' sıfat-fiili, arkasındaki 'kan' ismini nitelemektedir; isim düşmediği için adlaşmamıştır. Diğerlerinde ise isimler düşerek sıfat-fiiller adlaşmıştır."
+    },
+    {
+      "id": "Q_8_5_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde kullanılan zarf-fiilin cümleye kattığı anlam yanlıştır?",
+      "answers": [
+        "Eve varır varmaz bizi aradı. (Zaman anlamı)",
+        "Çocuk korkudan titreyerek konuştu. (Durum anlamı)",
+        "Soru sormak için parmak kaldırdı. (Amaç anlamı - '-mak için')",
+        "Çalışmadan bu sınavı kazanabileceğini sanıyordu. (Neden anlamı)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Çalışmadan bu sınavı kazanabileceğini sanıyordu. (Neden anlamı) Seçeneğindeki '-madan / -meden' eki cümleye neden değil, durum veya şart anlamı katar. Diğer eşleştirmeler doğrudur."
+    },
+    {
+      "id": "Q_8_5_030",
+      "questionText": "Bir metinde geçen:\n1. Adlaşmış sıfat-fiil\n2. Kalıcı isim\n3. Zarf-fiil\nunsurlarından sırasıyla hangisinin örneği verilmiştir?\n*Metin:* 'Geçen hafta aldığımız dondurmayı yerken sokakta koşanları görünce şaşırdım.'",
+      "answers": [
+        "Koşanları / Dondurmayı / Yerken",
+        "Dondurmayı / Koşanları / Yerken",
+        "Yerken / Koşanları / Dondurmayı",
+        "Koşanları / Yerken / Dondurmayı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilimsiler (Eylemsiler)",
+      "difficulty": 3,
+      "explanation": "Metinde 'koşanları' (adlaşmış sıfat-fiil), 'dondurmayı' (kalıcı isim) ve 'yerken' (zarf-fiil) sözcükleri sırasıyla yer almaktadır."
+    }
+  ]
+}

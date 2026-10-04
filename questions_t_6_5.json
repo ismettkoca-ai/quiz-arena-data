@@ -1,0 +1,425 @@
+{
+  "unit": "Bilim ve Teknoloji",
+  "questions": [
+    {
+      "id": "Q_6_5_001",
+      "questionText": "Bilim insanlarının deneyler yaparak yeni gerçekler ortaya çıkarmasına ne ad verilir?",
+      "answers": [
+        "Keşif / Araştırma",
+        "Ezberleme",
+        "Tahmin etme",
+        "Kurgulama"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Bilimde yapılan sistematik çalışmalar ve deneyler yoluyla yeni bilgilerin ortaya çıkarılmasına araştırma ve keşif denir."
+    },
+    {
+      "id": "Q_6_5_002",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'bilim' alanıyla ilgili bir terim anlam taşır?",
+      "answers": [
+        "Laboratuvar",
+        "Bahçe",
+        "Mutfak",
+        "Salon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Laboratuvar, bilimsel araştırmaların ve deneylerin yapıldığı özel bir mekân olduğu için fen ve bilim terimidir."
+    },
+    {
+      "id": "Q_6_5_003",
+      "questionText": "'Teknoloji' kelimesinin eş anlamlısı veya en yakın karşılığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Uygulamalı bilim / Teknik imkanlar",
+        "Doğal yaşam",
+        "Eski gelenekler",
+        "Sanatsal faaliyetler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Teknoloji, bilginin pratik alanlara ve araç gereç üretimine dönüştürülme sürecidir (uygulamalı teknik)."
+    },
+    {
+      "id": "Q_6_5_004",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'kişi (şahıs) zamiri' kullanılmıştır?",
+      "answers": [
+        "Onlar laboratuvarda yeni bir deney üzerinde çalışıyorlar.",
+        "Bu teknolojik cihaz hayatımızı kolaylaştırıyor.",
+        "Şu robot oldukça hızlı hareket ediyor.",
+        "Herkes teknolojik gelişmeleri yakından takip etmeli."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "'Onlar' kelimesi bilim insanlarının (insanların) adının yerini tuttuğu için kişi zamiridir."
+    },
+    {
+      "id": "Q_6_5_005",
+      "questionText": "'Bilgisayar ekranı' tamlamasının türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Tamlayanın (bilgisayar) ek almadığı, sadece tamlananın (ekran-ı) iyelik eki aldığı tamlamalara belirtisiz isim tamlaması denir."
+    },
+    {
+      "id": "Q_6_5_006",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Yeni icatlar yapmak amacıyla gece gündüz çalışıyordu.",
+        "Çok çalıştığı için projeyi zamanında bitirdi.",
+        "Eğer teknolojiye ayak uydurursan başarılı olursun.",
+        "Bilim insanları tarihe adlarını altın harflerle yazdırmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Çalışmasının amacı 'yeni icatlar yapmak'tır ('amacıyla' kelimesi yer almaktadır)."
+    },
+    {
+      "id": "Q_6_5_007",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'belgisiz zamir'dir?",
+      "answers": [
+        "Bazıları",
+        "Ben",
+        "Bu",
+        "Nasıl"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "'Bazıları' kelimesi birden çok ismin yerini belirsiz bir şekilde tuttuğu için belgisiz zamirdir."
+    },
+    {
+      "id": "Q_6_5_008",
+      "questionText": "'İcat etmek' fiilinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bulmak (Yeni bir şey ortaya koymak)",
+        "Yok etmek",
+        "Unutmak",
+        "Taklit etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Daha önce var olmayan bir şeyi bilim yoluyla ortaya koymaya icat etmek (bulmak) denir."
+    },
+    {
+      "id": "Q_6_5_009",
+      "questionText": "'Işık' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Işık - ı)",
+      "answers": [
+        "Ünsüz Yumuşaması (Işığı)",
+        "Ünlü Düşmesi",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Sert ünsüzle (k) biten kelime ünlü ek aldığında k->ğ yumuşaması olur (Işığı)."
+    },
+    {
+      "id": "Q_6_5_010",
+      "questionText": "'Deney' kelimesinin kök türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Denenmekten gelen fiil köküdür (Dene-).",
+        "İsim köküdür.",
+        "Sesteş köktür.",
+        "Ortak köktür."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü test etmek, denemek anlamındaki 'dene-' fiilidir."
+    },
+    {
+      "id": "Q_6_5_011",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Teknolojik aletleri yanlış kullandığı için bozuldu.",
+        "Cihazı tamir etmek amacıyla servise götürdü.",
+        "Eğer talimatları okursan kolayca kurabilirsin.",
+        "Bilim dünyası bu keşifle sarsıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Bozulmasının nedeni (sebebi) 'yanlış kullanılması'dır. Eylem gerçekleşmiştir."
+    },
+    {
+      "id": "Q_6_5_012",
+      "questionText": "'Parlak fikirler ortaya koydu.' cümlesindeki 'parlak' kelimesi hangi anlamda kullanılmıştır?",
+      "answers": [
+        "Mecaz Anlam (Üstün, çok akıllı, dikkat çekici)",
+        "Gerçek Anlam (Işık saçan)",
+        "Terim Anlam",
+        "Somut Anlam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Parlak fikir, ışık yayan değil, çok akıllı ve yaratıcı anlamında mecazdır."
+    },
+    {
+      "id": "Q_6_5_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'işaret zamiri' kullanılmıştır?",
+      "answers": [
+        "Şunu mikroskobun altına dikkatlice yerleştir.",
+        "Bu bilimsel makaleyi mutlaka okumalısın.",
+        "Şu teknoloji fuarı çok kalabalıktı.",
+        "O laboratuvar yeni cihazlarla donatıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 3,
+      "explanation": "'Şunu' kelimesi bir nesnenin yerini işaret yoluyla tuttuğu için işaret zamiridir."
+    },
+    {
+      "id": "Q_6_5_014",
+      "questionText": "Tarihi ve teknik buluş adları büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "telefonu alexander graham bell bulmuştur.",
+        "Ampulü Thomas Edison icat etmiştir.",
+        "Radyoyu Marconi geliştirmiştir.",
+        "Matbaa, dünya tarihini değiştiren bir buluştur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Özel isimler ve cümle başları büyük harfle başlamalıdır. 'Telefonu Alexander Graham Bell...' şeklinde yazılmalıydı."
+    },
+    {
+      "id": "Q_6_5_015",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Robotunu kodlayabilirsen yarışmayı kazanırsın.",
+        "Robotik kodlama öğrenmek için kursa gidiyor.",
+        "Kodlama yaptığı için saatlerdir ekran karşısındaydı.",
+        "Teknoloji hayatımızı kolaylaştıran harika bir araçtır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Yarışmayı kazanmasının şartı 'robotunu kodlayabilmesidir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_6_5_016",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'somut' bir varlığı belirtir?",
+      "answers": [
+        "Mikroskop",
+        "Bilgi",
+        "Akıl",
+        "Teknoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Mikroskop gözle görülebilen somut bir laboratuvar aletidir."
+    },
+    {
+      "id": "Q_6_5_017",
+      "questionText": "'Fikir' kelimesi ünlüyle başlayan bir ek aldığında hangi ses olayı gerçekleşir? (Fikir - i)",
+      "answers": [
+        "Ünlü Düşmesi (Fikri)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Fikir kelimesi ünlü bir ek aldığında ikinci hecedeki 'i' ünlüsü düşer (Fikri)."
+    },
+    {
+      "id": "Q_6_5_018",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Yapay zeka teknolojisi, eski sistemlere göre çok daha hızlı çalışıyor.",
+        "Bilim insanları uzayda yaşam arıyor.",
+        "Teknolojinin zararları da faydaları kadar fazladır.",
+        "Gelecekte uçan arabalar hayatımızın bir parçası olacak."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Yapay zeka ile eski sistemler çalışma hızı yönünden 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_6_5_019",
+      "questionText": "'Araştırma' kelimesinin yapısı hakkında ne söylenebilir?",
+      "answers": [
+        "Türemiş yapılıdır (fiilden isim yapım eki almıştır).",
+        "Basit yapılıdır (ek almamıştır).",
+        "Birleşik yapılıdır.",
+        "Kök halindedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "'Araş-tır-' kökünden türeyen ve isimleşen yapım eki almış bir kelimedir."
+    },
+    {
+      "id": "Q_6_5_020",
+      "questionText": "Soru bildiren kelimelerin ismin yerini soru yoluyla tuttuğu sözcüklere 'soru zamiri' denir. Hangisinde soru zamiri vardır?",
+      "answers": [
+        "Bu projeyi kim hazırladı?",
+        "Hangi laboratuvarı kullandınız?",
+        "Nasıl bir cihaz tasarladınız?",
+        "Kaç tane robot yaptınız?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 3,
+      "explanation": "'Kim' kelimesi ismin yerini soru yoluyla tuttuğu için soru zamiridir (Cevap: Ahmet hazırladı)."
+    },
+    {
+      "id": "Q_6_5_021",
+      "questionText": "'Çözüm' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Çare / Hall",
+        "Problem",
+        "Soru",
+        "Deney"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Bir sorunu ortadan kaldıran yol veya sonuca çözüm veya çare denir."
+    },
+    {
+      "id": "Q_6_5_022",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Bilim insanlarıda bazen yanlış yapabilir.",
+        "Teknolojiyi doğru kullanmak da önemlidir.",
+        "Laboratuvarda titizlikle çalıştılar.",
+        "Yeni buluşlar insanlığa ışık tutar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Dahi/bile anlamı katan 'de' bağlacı ayrı yazılmalıdır. 'Bilim insanları da' olmalıydı."
+    },
+    {
+      "id": "Q_6_5_023",
+      "questionText": "Bir paragrafın ana düşüncesi (ana fikri) nedir?",
+      "answers": [
+        "Yazarın okuyucuya aktarmak istediği temel mesaj ve yazılış amacı",
+        "Metinde geçen ana karakterin adı",
+        "Olayın geçtiği yer ve zaman",
+        "Paragraftaki cümle sayısı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okura vermek istediği asıl ders veya ana mesajdır."
+    },
+    {
+      "id": "Q_6_5_024",
+      "questionText": "'Karanlık' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Bilim, cehaletin karanlığını aydınlatan bir meşaledir.",
+        "Elektrikler kesilince oda tamamen karanlık oldu.",
+        "Karanlık sokaklarda yürümek korkutucuydu.",
+        "Akşam hava kararınca dışarısı karanlıklaşmıştı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Cehaletin karanlığı, ışıksızlık değil bilgisizlik anlamını taşıdığı için mecazdır."
+    },
+    {
+      "id": "Q_6_5_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Bin",
+        "Bilgisayar",
+        "Robot",
+        "Teknoloji"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "'Bin' kelimesi hem sayı hem de bir taşıta binmek eylemi olarak sesteştir."
+    },
+    {
+      "id": "Q_6_5_026",
+      "questionText": "Tırnak işareti ( \" \" ) hangi amaçla KULLANILMAZ?",
+      "answers": [
+        "Özel isimlere gelen ekleri ayırmak için",
+        "Başka bir kimseden aktarılan sözleri belirtmek için",
+        "Özel olarak vurgulanmak istenen sözleri belirtmek için",
+        "Yazı başlıklarını belirtmek için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Özel isimlere gelen ekler kesme işareti (') ile ayrılır."
+    },
+    {
+      "id": "Q_6_5_027",
+      "questionText": "'Ufuk' kelimesi ünlüyle başlayan ek aldığında ne olur? (Ufuk - u)",
+      "answers": [
+        "Ünlü Düşmesi (Ufku)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Ufuk kelimesi ünlü ek aldığında ikinci hecedeki 'u' ünlüsü düşer ve 'ufku' olur."
+    },
+    {
+      "id": "Q_6_5_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Dünyayı yerinden oynatacak kadar büyük bir buluş yaptı.",
+        "Laboratuvarda saatlerce çalıştı.",
+        "Bilim insanı dikkatle mikroskoba baktı.",
+        "Yeni projesi öğretmeninden tam not aldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Dünyayı yerinden oynatmak fiziksel olarak imkansızdır, durumu aşırı büyük gösteren bir abartmadır."
+    },
+    {
+      "id": "Q_6_5_029",
+      "questionText": "'Bilim' kelimesinin kök türü nedir?",
+      "answers": [
+        "Bil- (Fiil kökü)",
+        "İsim kökü",
+        "Sesteş kök",
+        "Ortak kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'bilmek' fiilidir."
+    },
+    {
+      "id": "Q_6_5_030",
+      "questionText": "Geleceğin teknolojisini tasarlayan kişilere genel olarak ne ad verilir?",
+      "answers": [
+        "Mucit / Mühendis / Bilim insanı",
+        "Tüketici",
+        "Seyirci",
+        "Gözlemci"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bilim ve Teknoloji",
+      "difficulty": 1,
+      "explanation": "Teknolojiyi tasarlayan, üreten ve geliştiren kişilere mucit, mühendis veya bilim insanı denir."
+    }
+  ]
+}

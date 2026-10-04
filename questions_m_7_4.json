@@ -1,0 +1,425 @@
+{
+  "unit": "Dönüşüm",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Koordinat sisteminde bir şeklin veya noktanın boyutu ve yönü değiştirilmeden düzlem üzerinde doğrusal bir yönde kaydırılması hareketine ne ad verilir?",
+      "answers": [
+        "Yansıma",
+        "Öteleme",
+        "Dönme",
+        "Benzerlik"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Şekillerin yönü ve yapısı bozulmadan sağa, sola, yukarı veya aşağı doğru kaydırılmasına 'öteleme' denir."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Koordinat sistemindeki bir noktanın ayna görüntüsü gibi karşı tarafa aktarılması hareketine ne ad verilir?",
+      "answers": [
+        "Öteleme",
+        "Yansıma",
+        "Dönme",
+        "Orantı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Bir nesnenin eksene veya doğruya göre simetriğinin alınması olayına 'yansıma' denir."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "Koordinat sisteminde A(3, 4) noktası 2 birim sola ve 3 birim aşağı ötelenirse yeni noktanın koordinatları aşağıdakilerden hangisi olur?",
+      "answers": [
+        "(5, 7)",
+        "(1, 7)",
+        "(1, 1)",
+        "(5, 1)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Sola öteleme x ekseninden çıkarılır (3 - 2 = 1). Aşağı öteleme y ekseninden çıkarılır (4 - 3 = 1). Yeni nokta (1, 1) olur."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "Koordinat sisteminde B(-2, 5) noktası x eksenine göre yansıtırıldığında oluşan noktanın koordinatları kaç olur?",
+      "answers": [
+        "(2, 5)",
+        "(-2, -5)",
+        "(2, -5)",
+        "(5, -2)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Bir nokta x eksenine göre yansıtıldığında y ekseninin işareti ters döner (apsis aynı kalır, ordinat işaret değiştirir). (-2, -5) olur."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "Koordinat sisteminde C(4, -3) noktası y eksenine göre yansıtıldığında oluşan noktanın koordinatları kaç olur?",
+      "answers": [
+        "(-4, -3)",
+        "(-4, 3)",
+        "(4, 3)",
+        "(-3, 4)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Bir nokta y eksenine göre yansıtıldığında x (apsis) ekseninin işareti ters döner, y aynı kalır. (-4, -3) olur."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Koordinat sisteminde K(x, y) noktası 4 birim sağa ve 5 birim yukarı ötelendiğinde (x + 4, y + 5) kuralı elde edilir. Buna göre (2, -3) noktası bu kurala göre ötelenirse yeni nokta ne olur?",
+      "answers": [
+        "(6, 2)",
+        "(-2, 2)",
+        "(6, -8)",
+        "(2, -3)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "x yerine 2 yazılır: 2 + 4 = 6. y yerine -3 yazılır: -3 + 5 = 2. Yeni nokta (6, 2) olur."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "Aşağıdaki dönüşüm hareketlerinden hangisinde şeklin boyutu veya yönelimi (sağ/sol tersliği) değişebilir?",
+      "answers": [
+        "Yalnız Öteleme",
+        "Yalnız Yansıma",
+        "Öteleme ve Yansıma birlikte",
+        "Hiçbirinde değişmez"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Yansıma hareketinde nesnenin ayna görüntüsü oluştuğu için sağ ve sol yönleri ters döner. Ötelemede ise yön ve yapı tamamen korunur."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "Koordinat sisteminde orijine (0, 0) olan uzaklığı 5 birim olan bir nokta y ekseni üzerindedir. Bu noktanın koordinatları aşağıdakilerden hangisi olamaz?",
+      "answers": [
+        "(0, 5)",
+        "(5, 0)",
+        "(0, -5)",
+        "Yalnız (5, 0)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Y ekseni üzerinde bulunan bir noktanın apsisi (x) kesinlikle 0 olmalıdır. (5, 0) noktası y ekseni üzerinde değil, x ekseni üzerindedir."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Koordinat sisteminde D(-3, 4) noktasının orijine göre yansıması (simetriği) alındığında hangi nokta elde edilir?",
+      "answers": [
+        "(3, -4)",
+        "(-3, -4)",
+        "(3, 4)",
+        "(4, -3)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Orijine göre yansımada hem x hem de y koordinatlarının işaretleri tamamen tersine döner. (-3, 4) noktası (3, -4) olur."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "Bir üçgen koordinat sisteminde 5 birim sola öteleniyor. Bu üçgenin köşelerinin koordinatlarında nasıl bir değişim olur?",
+      "answers": [
+        "Tüm ordinat (y) değerleri 5 artar.",
+        "Tüm apsis (x) değerleri 5 azalır.",
+        "Tüm apsis (x) değerleri 5 artar.",
+        "Koordinatlar tamamen değişmez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Sola öteleme yatay eksende (x ekseninde) negatif yönde hareket demektir, bu yüzden tüm x değerleri 5 azalır."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "Koordinat sisteminde y = 2 doğrusuna göre M(3, 5) noktasının yansıması alındığında oluşan yeni noktanın ordinatı kaç olur?",
+      "answers": [
+        "-1",
+        "0",
+        "-2",
+        "1"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Noktanın y koordinatı 5'tir, y = 2 doğrusuna uzaklığı 3 birimdir. Doğrunun diğer tarafına 3 birim gittiğimizde 2 - 3 = -1 ordinatı elde edilir."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Köşeleri A(1, 2), B(4, 2) ve C(1, 6) olan bir dik üçgen x ekseni boyunca 3 birim sağa ötelendiğinde yeni C köşesinin koordinatları ne olur?",
+      "answers": [
+        "(4, 6)",
+        "(1, 9)",
+        "(4, 2)",
+        "(7, 6)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "C köşesi (1, 6)'dır. 3 birim sağa ötelendiğinde x koordinatına 3 eklenir: 1 + 3 = 4. Y koordinatı değişmez (6). Yeni nokta (4, 6) olur."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "Aşağıdaki şekillerden hangisinin yansıtıldığında (ayna görüntüsü alındığında) görüntüsü kendisiyle birebir aynı kalır?",
+      "answers": [
+        "Scalene (Çeşitkenar) Üçgen",
+        "Harf olarak 'P'",
+        "Kare",
+        "Harf olarak 'F'"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Kare, sahip olduğu mükemmel simetri eksenleri sayesinde yansıması alındığında (belirli eksenlerde) kendisiyle aynı kalabilir."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "Koordinat sisteminde bir nokta x ekseni üzerinde 4 birim sola, ardından y ekseni üzerinde 2 birim yukarı ötelendiğinde son konumu (-1, 2) olmuştur. Bu noktanın ilk koordinatları nedir?",
+      "answers": [
+        "(3, 0)",
+        "(-5, 0)",
+        "(3, 4)",
+        "(-1, 0)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Ters işlem yapılır: Son x = -1, 4 birim sola ötelenmiş hali ise ilk x = -1 + 4 = 3'tür. Son y = 2, 2 birim yukarı ötelenmiş haliyse ilk y = 2 - 2 = 0'dır. İlk nokta (3, 0)."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "P(a, b) noktası 3. bölgede yer aldığına göre, bu noktanın x eksenine göre yansıması olan P' noktası hangi bölgede yer alır?",
+      "answers": [
+        "1. Bölge",
+        "2. Bölge",
+        "3. Bölge",
+        "4. Bölge"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "3. bölgede x < 0 ve y < 0'dır (negatif, negatif). x eksenine göre yansıtıldığında y'nin işareti değişir ve pozitif olur. (-) ve (+) işaretleri 2. bölgeye aittir."
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "Koordinat sisteminde x = -2 doğrusuna göre A(3, 1) noktasının yansıması alındığında oluşan noktanın apsisi (x) kaç olur?",
+      "answers": [
+        "-5",
+        "-7",
+        "-4",
+        "1"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "A noktasının x'i 3'tür. x = -2 doğrusuna uzaklığı 3 - (-2) = 5 birimdir. Doğrunun soluna doğru 5 birim gidersek: -2 - 5 = -7 apsisi elde edilir."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "Bir şekil önce y eksenine göre, ardından elde edilen yeni şekil x eksenine göre yansıtılıyor. Bu iki yansıma arka arkaya uygulandığında hangi tekil dönüşüme eşdeğer olur?",
+      "answers": [
+        "Orijine göre yansımaya",
+        "Ötelemeye",
+        "Hiçbir değişime uğramaz",
+        "Sadece x eksenine göre yansıtmaya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "y eksenine göre yansımada x işaret değiştirir (-x, y). Ardından x eksenine göre yansıtıldığında y de işaret değiştirir (-x, -y). Bu, orijine göre yansımadır."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Koordinat sisteminde bir noktanın koordinatları (x + 2, y - 4) şeklinde değiştirildiğinde yapılan öteleme hareketi aşağıdakilerden hangisidir?",
+      "answers": [
+        "2 birim sola, 4 birim aşağı",
+        "2 birim sağa, 4 birim aşağı",
+        "2 birim sağa, 4 birim yukarı",
+        "2 birim sola, 4 birim yukarı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "x'e 2 eklemek 2 birim sağa gitmek demektir. y'den 4 çıkarmak 4 birim aşağı gitmek demektir."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "Köşeleri K(2, 3), L(5, 3) ve M(2, 7) olan bir üçgenin x eksenine göre yansıması alındıktan sonra 2 birim sağa öteleniyor. Yeni K köşesinin koordinatları ne olur?",
+      "answers": [
+        "(4, -3)",
+        "(2, -3)",
+        "(4, 3)",
+        "(-4, -3)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "K(2, 3) noktasının x eksenine göre yansıması (2, -3) olur. Bu nokta 2 birim sağa ötelendiğinde x'e 2 eklenir: 2 + 2 = 4, y aynı kalır (-3). Yeni nokta (4, -3)."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "Aşağıdaki noktalardan hangisi x ekseni üzerinde yer alır?",
+      "answers": [
+        "(3, 4)",
+        "(0, -5)",
+        "(7, 0)",
+        "(-2, -3)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Bir noktanın x ekseni üzerinde olabilmesi için ordinatının (y) 0 olması gerekir. Bu şartı sağlayan (7, 0) noktasıdır."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "Koordinat sisteminde dikey eksenin diğer adı nedir?",
+      "answers": [
+        "Apsisler Ekseni",
+        "Ordinatlar Ekseni",
+        "Orijin",
+        "Başlangıç Noktası"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Yatay eksene x (apsisler) ekseni, dikey eksene ise y (ordinatlar) ekseni denir."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "Koordinat sisteminde A(a, b) noktası 4. bölgededir. Buna göre bu noktanın y eksenine göre yansıması olan nokta hangi bölgededir?",
+      "answers": [
+        "1. Bölge",
+        "2. Bölge",
+        "3. Bölge",
+        "4. Bölge"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "4. bölgede x pozitiftir (+), y negatiftir (-). y eksenine göre yansımada x'in işareti değişir ve negatif olur. y aynı kalır (negatif). İşaretler (-, -) olduğundan nokta 3. bölgededir."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "Bir karenin alanı 16 birimkaredir. Bu karenin köşelerinden biri koordinat sisteminin orijinindedir. Karenin öteleme veya yansıma sonucunda alanı nasıl değişir?",
+      "answers": [
+        "4 birimkare olur",
+        "32 birimkare olur",
+        "Değişmez, 16 birimkare kalır",
+        "Sıfır olur"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Öteleme ve yansıma hareketleri bir şeklin boyutlarını, çevre uzunluğunu veya alanını asla değiştirmez; şekil tamamen aynı kalır."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Koordinat sisteminde A(-5, 2) noktasının x eksenine göre yansıması A', y eksenine göre yansıması A'' olmuştur. A ile A'' arasındaki uzaklık kaç birimdir?",
+      "answers": [
+        "4",
+        "5",
+        "10",
+        "sqrt(29) (Yaklaşık değerler yerine tam sayı sorulursa aradaki mesafe hesaplanır)"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "A(-5, 2) noktasının y eksenine göre yansıması A''(5, 2) olur. Bu iki nokta arasındaki yatay uzaklık -5'ten 5'e kadar olan mesafedir, yani 5 - (-5) = 10 birimdir."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "Bir doğruya göre simetri (yansıma) alındığında şekil üzerindeki bir noktanın simetri eksenine olan uzaklığı ile simetri görüntüsünün simetri eksenine olan uzaklığı için ne söylenir?",
+      "answers": [
+        "Görüntünün uzaklığı daha fazladır.",
+        "Uzaklıklar birbirine eşittir.",
+        "Görüntü eksene sıfır uzaklıktadır.",
+        "Aralarında hiçbir ilişki yoktur."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 1,
+      "explanation": "Yansıma geometrisinde bir noktanın aynaya (simetri eksenine) olan dik uzaklığı ile görüntünün aynaya olan dik uzaklığı daima eşittir."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Koordinat sisteminde y = x (birinci açıortay) doğrusu üzerindeki bir A(k, t) noktası için k ve t değerleri arasındaki ilişki nedir?",
+      "answers": [
+        "k + t = 0",
+        "k = t",
+        "k = -t",
+        "k · t = 1"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "y = x doğrusu üzerindeki bütün noktaların x ve y koordinatları birbirine eşittir (Örn: (1,1), (2,2) vb.). Dolayısıyla k = t'dir."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Koordinat sisteminde A(2, 3) noktası 3 birim aşağı, 4 birim sola ötelendikten sonra elde edilen nokta x eksenine göre yansıtılıyor. Son nokta ne olur?",
+      "answers": [
+        "(-2, 0)",
+        "(-2, 1)",
+        "(2, 0)",
+        "(-2, -1)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "Öteleme: x'ten 4 çıkar (2 - 4 = -2), y'den 3 çıkar (3 - 3 = 0). Nokta (-2, 0) oldu. Bu noktanın x eksenine göre yansıması alındığında y işaret değiştirir (-0 = 0). Son nokta (-2, 0) olur."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Aşağıdaki harflerden hangisi hem yatay hem de dikey eksene göre yansıtıldığında (simetrisi alındığında) görüntüsü değişmeyen (kendisi kalan) harflerdendir?",
+      "answers": [
+        "F",
+        "G",
+        "H",
+        "P"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "H harfi hem yatay hem de dikey simetri eksenine sahiptir, bu yüzden her iki yansımada da kendisi gibi kalır."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "Bir bilgisayar oyununda karakter (x, y) konumundadır. Karakter 'yukarı yönde 4 birim, sağa yönde 3 birim' ötelendiğinde puan kazanmaktadır. Başlangıçta (-2, 1) konumunda olan karakter bu hareketi yaptığında yeni konumu neresi olur?",
+      "answers": [
+        "(1, 5)",
+        "(-5, -3)",
+        "(1, -3)",
+        "(-1, 4)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Dönüşüm",
+      "difficulty": 2,
+      "explanation": "Sağa 3 birim öteleme x'e 3 ekler: -2 + 3 = 1. Yukarı 4 birim öteleme y'ye 4 ekler: 1 + 4 = 5. Yeni konum (1, 5) olur."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "Koordinat sisteminde bir şekil önce x eksenine göre yansıtılıyor, sonra hiç bekletilmeden y eksenine göre yansıtılıyor. Bu dönüşümler sonucunda orijinal şekle göre ne söylenebilir?",
+      "answers": [
+        "Şekil ters dönmüştür.",
+        "Şekil orijinal haline göre orijine göre yansımış halini almıştır.",
+        "Şekil aynı kalmıştır, değişmemiştir.",
+        "Şekil eksen dışına çıkmıştır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Dönüşüm",
+      "difficulty": 3,
+      "explanation": "x'e göre yansıtmak (x, -y) yapar, ardından y'ye göre yansıtmak (-x, -y) yapar. Bu da tam olarak orijine göre yansıtma kuralıdır."
+    }
+  ]
+}

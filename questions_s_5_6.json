@@ -1,0 +1,426 @@
+{
+  "unit": "Teknoloji ve Sosyal Bilimler",
+  "questions": [
+    {
+      "id": "Q_5_6_001",
+      "questionText": "İnsanlığın bilgi birikimine katkı sağlayan, deney, gözlem ve akıl yürüterek araştırmalar yapan kişilere ne ad verilir?",
+      "answers": [
+        "Tüccar",
+        "Bilim insanı",
+        "Zanaatkar",
+        "Gezgin"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Bilimsel araştırmalar yürüten kişilere bilim insanı denir."
+    },
+    {
+      "id": "Q_5_6_002",
+      "questionText": "Genel ağ (internet) üzerinden alışveriş yaparken veya sosyal medya kullanırken kişisel şifrelerimizin ve bilgilerimizin güvenliği için aşağıdakilerden hangisini yapmalıyız?",
+      "answers": [
+        "Şifrelerimizi herkesle paylaşmalıyız.",
+        "Güçlü şifreler kullanmalı ve kimseyle paylaşmamalıyız.",
+        "Her sitede aynı basit şifreyi kullanmalıyız.",
+        "Şifreleri kağıda yazıp monitöre yapıştırmalıyız."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Dijital güvenlik için güçlü şifreler gizli tutulmalıdır."
+    },
+    {
+      "id": "Q_5_6_003",
+      "questionText": "Başka kişilerin fikir, eser, yazı veya buluşlarını izinsiz olarak kendi eserimiz gibi göstermeye ne ad verilir?",
+      "answers": [
+        "Telif hakkı",
+        "İntihal (Aşırmacılık)",
+        "Patent",
+        "Bilimsel araştırma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Başkasının eserini kaynak göstermeden kendi malıymış gibi kullanmak intihaldir."
+    },
+    {
+      "id": "Q_5_6_004",
+      "questionText": "Yazılı veya görsel bir eserin (kitap, şarkı, film) yasal olarak sahibine ait olduğunu ve izinsiz kopyalanamayacağını koruyan yasal hakka ne denir?",
+      "answers": [
+        "Telif Hakkı (Bandrol)",
+        "Ehliyet",
+        "Tapu",
+        "Fatura"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Eser sahiplerinin yasal haklarını koruyan sisteme telif hakkı denir."
+    },
+    {
+      "id": "Q_5_6_005",
+      "questionText": "Aşağıdakilerden hangisi teknoloji kullanımının olumlu yönlerinden biridir?",
+      "answers": [
+        "Bilgiye hızlı ve kolay ulaşım sağlanması",
+        "İnsanların yüz yüze iletişimi tamamen kesmesi",
+        "Hareketsiz yaşamdan ötürü sağlık sorunlarının artması",
+        "Sanal dolandırıcılığın yaygınlaşması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Bilgiye hızlı erişim teknolojinin en büyük avantajıdır."
+    },
+    {
+      "id": "Q_5_6_006",
+      "questionText": "Bilimsel bir araştırma yaparken ulaşılan bilgilerin hangi kaynaktan alındığını belirtmek için ne kullanılır?",
+      "answers": [
+        "Kaynakça gösterme",
+        "Bilgileri gizleme",
+        "Eserin adını değiştirme",
+        "İnternetten silme"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Araştırmalarda etik kural olarak kullanılan kitap ve siteler kaynakçada belirtilir."
+    },
+    {
+      "id": "Q_5_6_007",
+      "questionText": "Geçmişte kullanılan kütük, taş tablet ve papirüs gibi materyallerin yerini günümüzde ne almıştır?",
+      "answers": [
+        "Dijital tabletler ve e-kitaplar",
+        "Sadece mağara duvarları",
+        "Ağaç yaprakları",
+        "Kil tabletler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Teknolojinin gelişmesiyle bilgi taşıyıcıları dijitalleşmiştir."
+    },
+    {
+      "id": "Q_5_6_008",
+      "questionText": "Aşağıdakilerden hangisi dijital bağımlılığın yol açtığı olumsuz durumlardan biridir?",
+      "answers": [
+        "Sosyal ilişkilerin zayıflaması ve göz sağlığının bozulması",
+        "Ders başarılarının çok fazla artması",
+        "Fiziksel aktivitelerin çoğalması",
+        "Kitap okuma alışkanlığının zirve yapması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Aşırı ekran süresi sağlığı ve sosyal hayatı olumsuz etkiler."
+    },
+    {
+      "id": "Q_5_6_009",
+      "questionText": "Tarihte matbaayı icat ederek bilginin ucuzlamasını ve yaygınlaşmasını sağlayan ünlü mucit kimdir?",
+      "answers": [
+        "Johannes Gutenberg",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Isaac Newton"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Matbaayı hareketli harflerle geliştiren kişi Gutenberg'dir."
+    },
+    {
+      "id": "Q_5_6_010",
+      "questionText": "İnternet ortamında tanımadığımız kişilere kişisel bilgilerimizi (ev adresi, telefon numarası vb.) vermemek hangi kavramla ilgilidir?",
+      "answers": [
+        "Dijital Güvenlik (Siber Güvenlik)",
+        "Açık veri",
+        "Genel kültür",
+        "Telif hakkı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Kişisel bilgileri korumak dijital güvenliğin temelidir."
+    },
+    {
+      "id": "Q_5_6_011",
+      "questionText": "Aşağıdakilerden hangisi sosyal bilimler alanına giren bir bilim dalı DEĞİLDİR?",
+      "answers": [
+        "Tarih",
+        "Coğrafya",
+        "Fizik",
+        "Sosyoloji"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Fizik bir fen (doğa) bilimidir; tarih, coğrafya ve sosyoloji sosyal bilimdir."
+    },
+    {
+      "id": "Q_5_6_012",
+      "questionText": "Bilimsel araştırmalarda izlenmesi gereken doğru basamak sıralaması hangi seçenekte verilmiştir?",
+      "answers": [
+        "Raporlama - Hipotez - Problem tespiti - Sonuç",
+        "Problem tespiti (Konu seçimi) - Bilgi toplama - Hipotez/Varsayım - Analiz - Raporlama",
+        "Sonuç - Raporlama - Kaynakça - Giriş",
+        "Rastgele yazma - Basma - Dağıtma"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Bilimsel basamaklar: Problem belirleme, bilgi toplama, hipotez kurma, analiz ve raporlama şeklindedir."
+    },
+    {
+      "id": "Q_5_6_013",
+      "questionText": "İnternette gördüğümüz her bilginin doğru olmayabileceğini düşünerek araştırmak ve teyit etmek hangi beceridir?",
+      "answers": [
+        "Eleştirel düşünme ve medya okuryazarlığı",
+        "Körlemesine inanma",
+        "Ezbercilik",
+        "Dijital bağımlılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Bilgiyi sorgulayan bireyler medya okuryazarlığı ve eleştirel düşünme becerisine sahiptir."
+    },
+    {
+      "id": "Q_5_6_014",
+      "questionText": "Aşağıdakilerden hangisi Türk-İslam dünyasında yetişmiş önemli bir bilim insanı ve 'Avicenna' olarak tanınan tıp dehasıdır?",
+      "answers": [
+        "İbn-i Sina",
+        "El-Khwarizmi (Harezmi)",
+        "Farabi",
+        "Biruni"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Tıp alanındaki eserleriyle ün salan İbn-i Sina batıda Avicenna olarak bilinir."
+    },
+    {
+      "id": "Q_5_6_015",
+      "questionText": "Sıfır rakamını bulan ve cebir biliminin temellerini atan Türk-İslam matematikçisi kimdir?",
+      "answers": [
+        "Harezmi",
+        "İbn-i Sina",
+        "Mimar Sinan",
+        "Piri Reis"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Harezmi cebir biliminin kurucusu ve sıfırı bulan kişidir."
+    },
+    {
+      "id": "Q_5_6_016",
+      "questionText": "Dünya haritasını çizen ve Kitab-ı Bahriye eseriyle bilenen ünlü Türk denizci ve bilim insanı kimdir?",
+      "answers": [
+        "Piri Reis",
+        "Ali Kuşçu",
+        "Farabi",
+        "Katip Çelebi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Piri Reis dünya haritası ve denizcilik çalışmalarıyla tanınır."
+    },
+    {
+      "id": "Q_5_6_017",
+      "questionText": "Teknolojinin yanlış ve bilinçsiz kullanımı sonucu ortaya çıkan 'siber zorbalık' ne anlama gelir?",
+      "answers": [
+        "İnternet üzerinden başkalarına hakaret etmek, rahatsız etmek veya tehdit etmek",
+        "İnternetten oyun oynamak",
+        "Ödevleri internetten araştırmak",
+        "Bilgisayar tamir etmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Dijital ortamlarda yapılan zorbalık siber zorbalık olarak adlandırılır."
+    },
+    {
+      "id": "Q_5_6_018",
+      "questionText": "Bir buluşun (icat) patentini almak neyi sağlar?",
+      3,
+      "answers": [
+        "Buluşun sahibine ait olduğunu yasal olarak tesciller ve izinsiz kullanılmasını önler",
+        "Buluşun herkes tarafından çalınmasını sağlar",
+        "Buluşun yasaklanmasını sağlar",
+        "Ücret ödenmeden üretilmesine yol açar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Patent, icat sahibine yasal koruma ve hak kazandırır."
+    },
+    {
+      "id": "Q_5_6_019",
+      "questionText": "Sosyal bilimler insanları ve toplumu incelerken aşağıdakilerden hangi araç ve yöntemlerden en çok yararlanır?",
+      "answers": [
+        "Deney tüpü ve mikroskop",
+        "Belgeler, kazılar, haritalar ve anketler",
+        "Sadece laboratuvar cihazları",
+        "Teleskoplar"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Sosyal bilimler belge, arşiv, kazı ve toplumsal araştırmalardan yararlanır."
+    },
+    {
+      "id": "Q_5_6_020",
+      "questionText": "Aşağıdakilerden hangisi telif haklarını simgeleyen ve eserlerin üzerinde sıkça gördüğümüz uluslararası semboldür?",
+      "answers": [
+        "(C) harfi (Copyright)",
+        "(T) harfi",
+        "(P) harfi",
+        "(R) harfi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Copyright kelimesinden gelen (C) sembolü telif hakkını belirtir."
+    },
+    {
+      "id": "Q_5_6_021",
+      "questionText": "İnternette karşılaştığımız her haberin kaynağını araştırmadan hemen inanmamamız bize hangi yetkinliği kazandırır?",
+      "answers": [
+        "Sağlıklı medya okuryazarlığı ve eleştirel süzgeç",
+        "Önyargı",
+        "Haber kirliliği",
+        "Bilgisayarsız yaşam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Doğru bilgiye ulaşmak için kaynak teyidi ve medya okuryazarlığı şarttır."
+    },
+    {
+      "id": "Q_5_6_022",
+      "questionText": "Osmanlı döneminde İstanbul'un en önemli astronomi ve matematik alimlerinden biri olan, Ay'ın haritasını çıkaran bilim insanı kimdir?",
+      "answers": [
+        "Ali Kuşçu",
+        "İbn-i Haldun",
+        "Mimar Sinan",
+        "Itrî"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Fatih Sultan Mehmet döneminde İstanbul'a gelen Ali Kuşçu ünlü bir gökbilimcidir (Ay'ın bir kraterine adı verilmiştir)."
+    },
+    {
+      "id": "Q_5_6_023",
+      "questionText": "Güvenli internet kullanımı için bilgisayarımızda ve tabletlerimizde mutlaka ne bulundurmalıyız?",
+      "answers": [
+        "Güncel bir antivirüs programı ve güvenlik duvarı",
+        "Çok fazla oyun",
+        "Şifresiz açık ağlar",
+        "Yabancı kişilerin erişim izni"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 1,
+      "explanation": "Antivirüs programları dijital güvenliği artırır."
+    },
+    {
+      "id": "Q_5_6_024",
+      "questionText": "Bilimsel bir araştırma raporunda kaynakçanın sonda verilmesinin temel amacı nedir?",
+      "answers": [
+        "Eser sahibine saygı göstermek ve bilgilerin doğrulğunu kanıtlamak",
+        "Sayfa sayısını uzatmak",
+        "Reklam yapmak",
+        "Okuyucunun kafasını karıştırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Kaynakça dürüstlük, saygı ve bilginin doğrulanabilirliği içindir."
+    },
+    {
+      "id": "Q_5_6_025",
+      "questionText": "Teknolojinin yararları kadar zararlarının da olabileceğini savunan bir kişi aşağıdakilerden hangisini örnek gösteremez?",
+      "answers": [
+        "Uzaktan eğitimle derslere kolayca bağlanmayı",
+        "Siber zorbalığı ve teknoloji bağımlılığını",
+        "Hareketsiz yaşamdan kaynaklanan fiziksel rahatsızlıkları",
+        "Gerçek dışı sahte haberlerin hızla yayılmasını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Uzaktan eğitim teknolojinin olumlu/yararlı yönüdür, zarar göstergesi olamaz."
+    },
+    {
+      "id": "Q_5_6_026",
+      "questionText": "Zeynep, hazırlayacağı 'Kurtuluş Savaşı' konulu sosyal bilgiler ödevi için internetten bulduğu metinleri doğrudan kopyalayıp kendi yazısıymış gibi ödev kağıdına yapıştırmıştır. Zeynep'in bu davranışı akademik olarak hangi etik dışı soruna yol açmıştır?",
+      "answers": [
+        "Patent ihlali",
+        "İntihal (Aşırmacılık) ve telif hakkı ihlali",
+        "Siber güvenlik açığı",
+        "Bilişim suçu"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 3,
+      "explanation": "Başkasının metnini kaynak göstermeden kopyalamak intihaldir."
+    },
+    {
+      "id": "Q_5_6_027",
+      "questionText": "Aşağıdakilerden hangisi tarih biliminin araştırmalarında kullandığı yazılı kaynaklardan biridir?",
+      "answers": [
+        "Kitabeler ve antlaşma metinleri",
+        "Kılıçlar ve ok uçları",
+        "Topraktan yapılmış kap kacak",
+        "Mağara resimleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Kitabeler ve antlaşmalar yazılı kaynaklardır; kaplar ve silahlar kalıntıdır (maddi buluntu)."
+    },
+    {
+      "id": "Q_5_6_028",
+      "questionText": "Teknolojik ürünlerin hayatımızı kolaylaştırması yanında doğaya bıraktığı en büyük olumsuz etkilerden biri nedir?",
+      "answers": [
+        "Elektronik atıkların çevre kirliliğine yol açması",
+        "Doğadaki ağaç sayısını artırması",
+        "Su kaynaklarını temizlemesi",
+        "Hava kirliliğini tamamen bitirmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Eski telefon ve bilgisayarların oluşturduğu e-atıklar doğaya zarar verir."
+    },
+    {
+      "id": "Q_5_6_029",
+      "questionText": "Bir araştırma sorusu seçen öğrencinin ilk yapması gereken iş aşağıdakilerden hangisidir?",
+      "answers": [
+        "Konuyla ilgili daha önceden yapılmış araştırmaları taramak (ön bilgi toplamak)",
+        "Ödevi hemen teslim etmek",
+        "Hiç kaynak okumadan yazmaya başlamak",
+        "Arkadaşına ödev yaptırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Araştırmanın ilk adımı konu hakkında ön araştırma yapmaktır."
+    },
+    {
+      "id": "Q_5_6_030",
+      "questionText": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "answers": [
+        "Harezmi - Sıfır ve Cebir",
+        "İbn-i Sina - Tıp ve Kanun fi't-Tıbb",
+        "Piri Reis - Dünya Haritası",
+        "Mimar Sinan - Uzay Araştırmaları"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Teknoloji ve Sosyal Bilimler",
+      "difficulty": 2,
+      "explanation": "Mimar Sinan mimaridir, uzay araştırmaları ile ilgisi yoktur."
+    }
+  ]
+}

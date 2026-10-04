@@ -1,0 +1,425 @@
+{
+  "unit": "Yazım ve Noktalama",
+  "questions": [
+    {
+      "id": "Q_8_10_001",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-de / -da' bağlacının yazımında bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Sınavı kazanmak için o da gecesini gündüzüne katıp çalışıyordu.",
+        "Kitapta geçen olaylar insanı derinden etkileyecek nitelikteydi.",
+        "Ev de araba da uzun zamandır bakımsız kalmıştı.",
+        "Senide bizimle sinemaya gelmesi için ikna etmeye çalışacağız."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "explanation": "'Senide' sözcüğündeki '-de' bağlacı ayrı yazılmalıdır ('Seni de' şeklinde). Diğer cümlelerde '-de' bağlacı veya hal eki doğru yazılmıştır."
+    },
+    {
+      "id": "Q_8_10_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde '-ki' ekinin veya bağlacının yazımıyla ilgili bir yanlışlık vardır?",
+      "answers": [
+        "Duvardaki tablolar salonun havasını tamamen değiştirmişti.",
+        "Mademki bu geziye gelmek istemiyordun, neden erken haber vermedin?",
+        "Öyle bir rüzgar estiki ağaçların yaprakları yerlere döküldü.",
+        "Akşamki toplantıda önemli kararlar alınacağı duyuruldu."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "explanation": "'Öyle bir rüzgar estiki' cümlesinde yer alan '-ki' bir bağlaçtır ve fiilden sonra geldiği için ayrı yazılmalıdır ('esti ki' şeklinde)."
+    },
+    {
+      "id": "Q_8_10_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde soru ekinin ('mi / mU') yazımında bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Bu zorlu soruyu sınıfta doğru çözebilen var mı?",
+        "Akşamki sinema filmine sen de gelecek misin?",
+        "Çocuklar bahçede oyun oynarmı hiç bu sıcakta?",
+        "Böyle güzel bir manzarayı daha önce hiç gördünüz mü?"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "explanation": "'oynarmı' sözcüğü soru ekinin bitişik yazılmasıyla yanlış yazılmıştır; soru eki her zaman kendisinden önceki sözcükten ayrı yazılır ('oynar mı' şeklinde)."
+    },
+    {
+      "id": "Q_8_10_004",
+      "questionText": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımında bir yazım yanlışı vardır?",
+      "answers": [
+        "Her yıl Nisan ayında Van Gölü çevresini ziyaret ederiz.",
+        "Türk Dil Kurumu, dilimizle ilgili pek çok çalışmaya imza atmıştır.",
+        "Yarın sabah Türkçe dersinde yeni bir konuya geçeceğiz.",
+        "Dayım, Ankara'dan gelen misafirleri Esenboğa Havalimanı'nda karşıladı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'Nisan' ay adı belirli bir tarih (sayısal bir gün veya yıl) ile birlikte kullanılmadığı için küçük harfle yazılmalıdır ('nisan ayında' şeklinde)."
+    },
+    {
+      "id": "Q_8_10_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde sayıların yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Yarışmada toplam 125 sporcu kıyasıya mücadele etti.",
+        "Binadan içeri girmek için 2'inci kata kadar merdivenlerden çıktı.",
+        "Toplantı saat 14.30'da başlayacak, bunu herkes bilsin.",
+        "Yarışmanın sonucunu öğrenmek için bin iki yüz kişi başvuru yapmıştı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'2'inci' yazımı yanlıştır. Sayının okunuşu 'iki' olduğu için ve kelimenin sonunda sesli harf bulunduğu için gelen sıra eki sadece '-nci' olmalıdır (doğrusu: '2'nci' şeklindedir)."
+    },
+    {
+      "id": "Q_8_10_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde birleşik kelimelerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Hava kararınca gökyüzünde binlerce yıldız kayboldu.",
+        "Bütün gün evde oturup hiçbirşey yapmadı.",
+        "Annesinin yaptığı zeytinyağlı dolmalar çok lezzetliydi.",
+        "Bahçedeki çiçekleri sulamak için akşamüstü dışarı çıktı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'hiçbirşey' kelimesi ayrı yazılmalıdır ('hiçbir şey' şeklinde). 'Şey' kelimesi kendinden önceki sözcükten her zaman ayrı yazılır."
+    },
+    {
+      "id": "Q_8_10_007",
+      "questionText": "Aşağıdaki cümlelerin hangisinde ikilemelerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Çocuklar bahçede koşa koşa oyun oynuyordu.",
+        "Eski püskü elbiseleri bir kenara dikkatlice kaldırdı.",
+        "Yavaş yavaş yürüyerek sahil kenarına ulaştılar.",
+        "Soru bankasındaki soruları teker-teker çözdü."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "explanation": "İkilemeler her zaman ayrı yazılır ve aralarına virgül veya kısa çizgi (-) konulmaz. 'teker-teker' yazımı yanlıştır, 'teker teker' olmalıdır."
+    },
+    {
+      "id": "Q_8_10_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımıyla ilgili bir yanlışlık vardır?",
+      "answers": [
+        "TCDD'nin sefer saatlerinde bu hafta bazı değişiklikler yapıldı.",
+        "Av. Mehmet Bey, duruşma için adliyeye erken saatte geldi.",
+        "Toplantıya TDK'nın uzman dil bilimcileri de katıldı.",
+        "Alm. dersinden yüksek not alarak herkesi sevindirdi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Büyük harflerle yapılan kısaltmalara getirilen ekler, kısaltmanın son harfinin okunuşuna göre belirlenir. Türkçede 'Ka' sesi yoktur, 'Ke' vardır. Bu nedenle 'TDK'nın' değil, 'TDK'nin' şeklinde yazılmalıdır."
+    },
+    {
+      "id": "Q_8_10_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yön adlarının (coğrafi terimlerin) yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Ülkemizin batı bölgelerinde bu hafta sıcaklıklar düşecek.",
+        "Şirketimiz, faaliyetlerini Batı Anadolu'da yoğunlaştıracak.",
+        "Anadolu'nun doğusu kış aylarında oldukça sert geçer.",
+        "Sanatçı, uzun yıllar boyunca Kuzey'de yaşamış."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Yön bildiren sözcükler özel isimden önce kullanıldığında büyük, tek başlarına veya özel isimden sonra kullanıldıklarında küçük harfle başlar. 'Kuzey'de' sözcüğü yön bildirdiği ve tek başına kullanıldığı için küçük harfle yazılmalıdır ('kuzeyde' şeklinde)."
+    },
+    {
+      "id": "Q_8_10_010",
+      "questionText": "Aşağıdaki cümlelerin hangisinde unvan ve akrabalık adlarının yazımında bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Toplantıya doktor Ahmet Bey de katılım sağladı.",
+        "Yarın sabah Kaymakam Ali Bey okulumuzu ziyarete gelecek.",
+        "Teyzem Fatma Hanım, bize en sevdiğimiz kurabiyelerden pişirmiş.",
+        "Mahallemizin bakkaliyesini amcam Hasan işletiyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 1,
+      "explanation": "Kişi adlarından önce ve sonra gelen unvanlar, saygı sözleri ve meslek adları büyük harfle başlar. 'doktor Ahmet Bey' ifadesindeki unvan büyük harfle ('Doktor') başlamalıdır."
+    },
+    {
+      "id": "Q_8_10_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nokta (.)' yanlış bir amaçla kullanılmıştır?",
+      "answers": [
+        "Toplantı saat 14.30'da başlayacak.",
+        "Tarih sınavından 8.5 puan alarak sınıfı geçti.",
+        "Okulun 5. katındaki sınıfta dersimiz var.",
+        "Ankara'dan İstanbul'a üç buçuk saatte ulaştık."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Ondalık sayılar yazılırken araya nokta değil, virgül (8,5) kullanılmalıdır. Nokta; saatler, sıra sayıları ve tarihlerde kullanılır."
+    },
+    {
+      "id": "Q_8_10_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'virgül (,)' yanlış bir yerde kullanılmıştır?",
+      "answers": [
+        "Sanatçı, son romanında toplumsal sorunları ele almış.",
+        "Sabah uyanır uyanmaz kahvesini yudumlayıp balkona çıktı.",
+        "Bu zorlu soruyu sınıfta sadece bir tek sen çözebildin.",
+        "Akşam eve geldiğinde, ellerini yıkayıp masaya oturdu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Metin içinde art arda sıralanmayan tek bir zarf-fiil eki almış kelimelerden sonra virgül konulmaz. 'geldiğinde' sözcüğünden sonraki virgül gereksiz ve hatalıdır."
+    },
+    {
+      "id": "Q_8_10_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde virgülün kaldırılması anlam karışıklığına (anlam belirsizliğine) yol açar?",
+      "answers": [
+        "İhtiyar, adama doğru yavaşça yaklaşıp bir şeyler söyledi.",
+        "Ankara, Türkiye'nin başkentidir.",
+        "Kitapları, defterleri ve kalemleri çantasına yerleştirdi.",
+        "Bahçedeki sarı çiçekler rüzgarla sallanıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'İhtiyar' sözcüğünden sonraki virgül kaldırıldığında, adamın mı ihtiyar olduğu yoksa bir ihtiyarın mı adama yaklaştığı belirsizleşir. Bu virgül anlam karışıklığını önlemektedir."
+    },
+    {
+      "id": "Q_8_10_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'noktalı virgül (;)' doğru bir amaçla kullanılmıştır?",
+      "answers": [
+        "Ankara'yı çok seviyorum; çünkü orada anılarım var.",
+        "Pazardan elma, armut; domates, biber aldık.",
+        "Yazar; son kitabında yalnızlığı işlemiş.",
+        "Çocuk sabırsızlıkla bekledi; ama beklenen haber gelmedi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "İçinde virgülle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül kullanılır (meyveler ve sebzeler gruplanmıştır)."
+    },
+    {
+      "id": "Q_8_10_015",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'iki nokta (:)' yanlış kullanılmıştır?",
+      "answers": [
+        "Şair şiirinde şu temalara yer vermişti: Yalnızlık, gurbet, özlem.",
+        "Bana hep aynı tavsiyede bulunurdu: Asla pes etme.",
+        "Evinin bahçesinde birbirinden güzel meyve ağaçları vardı: Elma, armut, erik.",
+        "Toplantıya katılan isimler şunlardı: Ahmet, Mehmet, Ayşe."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "İki noktadan sonra sıralanan örnekler cümle niteliğinde değilse ve özel ad içermiyorsa küçük harfle başlamalıdır. 'Elma, armut, erik' sözcükleri cümle kurmadığı için küçük harfle ('elma, armut, erik') başlamalıydı."
+    },
+    {
+      "id": "Q_8_10_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'üç nokta (...)' doğru bir amaçla kullanılmamıştır?",
+      "answers": [
+        "Karşımızda masmavi deniz, yeşil ormanlar...",
+        "Toplantıda kimler yoktu ki: Ali, Ahmet, Mehmet...",
+        "Yarışmanın birincisi belli oldu...",
+        "Kılavuzu karga olanın burnu b... çıkmaz."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 3,
+      "explanation": "'Yarışmanın birincisi belli oldu...' cümlesi yüklemi bulunan, tamamlanmış bir cümledir. Tamamlanmış cümlelerin sonuna üç nokta değil, nokta konulmalıdır."
+    },
+    {
+      "id": "Q_8_10_017",
+      "questionText": "Aşağıdaki cümlelerin hangisinde soru işareti (?) yanlış kullanılmıştır?",
+      "answers": [
+        "Bu zorlu görevi başarıyla tamamlayabilecek misin?",
+        "Ankara'ya inince bizi kim karşılayacak acaba?",
+        "Bana neden bu kadar kızdığını anlayamadım?",
+        "Yazar, 1923 yılında İstanbul'da doğmuş (?)."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'Bana neden bu kadar kızdığını anlayamadım' cümlesi soru sözcüğü (neden) içerse de, cümlenin bütünü soru anlamı taşımayan, tamamlanmış bir yargı (düz cümle) bildirdiği için sonuna soru işareti değil, nokta konulmalıdır."
+    },
+    {
+      "id": "Q_8_10_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ünlem işareti (!)' yanlış kullanılmıştır?",
+      "answers": [
+        "Eyvah, ocağın altını açık unutmuşum!",
+        "Hava ne kadar da soğuk!",
+        "Ne kadar akıllı bir çocuk olduğunu herkes biliyor!",
+        "Dur, karşıdan gelen arabaya dikkat et!"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Alay, kinaye, şaşkınlık veya heyecan/coşku bildirmeyen düz cümlelerin sonuna ünlem işareti konulmaz. Bu cümle düz bir yargı bildirdiği için nokta ile bitmelidir."
+    },
+    {
+      "id": "Q_8_10_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde kesme işaretinin (') kullanımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Türk Dil Kurumunun yeni sözlüğü yayımlandı.",
+        "Bakanlar Kurulunun aldığı son kararlar açıklandı.",
+        "Adana'lı bir sanatçı festivalde konser verdi.",
+        "Türkiye Büyük Millet Meclisinde konuşma yapıldı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Özel adlara getirilen yapım ekleri (-lı, -ci, -lik vb.) kesme işaretiyle ayrılmaz. Doğru yazım 'Adanalı' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_10_020",
+      "questionText": "Aşağıdaki cümlelerin hangisinde tırnak işaretinin (\" \") kullanımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Öğretmenimiz derste 'Yalnızlık' şiirini ezberlememizi istedi.",
+        "Şirketin bu ayki mottosu 'kalite ve güven' olarak belirlendi.",
+        "Bursa'daki Yeşil Türbe şehrin en önemli simgelerindendir.",
+        "Ünlü şair: \"Şiir, sessiz bir şarkıdır\". dedi."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Alıntı cümlelerin sonuna konulması gereken noktalama işareti tırnak işaretinin içinde kalmalıdır. Doğru kullanım '...şarkıdır.' dedi. şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_10_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yay ayraç (parantez) içinde verilen noktalama işareti yanlış kullanılmıştır?",
+      "answers": [
+        "Türkçe dersinde fiilimsileri (eylemsileri) işledik.",
+        "Ahmet Haşim (1884-1933) Türk edebiyatının önemli sembolistlerindendir.",
+        "Yaşlı adam (kim olduğunu hatırlayamadım) içeri girdi.",
+        "Sınavı kazandığını öğrenince sevinçten havalara uçtu (!)."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 3,
+      "explanation": "Yay ayraç içinde verilen ünlem işareti (!), cümleye alay, kinaye veya inanmama anlamı katmak için kullanılır. Ancak bu cümlede gerçek bir sevinç ifadesi vardır, küçümseme yoktur."
+    },
+    {
+      "id": "Q_8_10_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde kısa çizginin (-) kullanımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Ankara - İstanbul yolu yoğun kar yağışı nedeniyle kapandı.",
+        "Türkçe dersinde fiil-imsiler konusu işlendi.",
+        "Okulun bahçesindeki çocuklar 5 - 6 yaş grubundaydı.",
+        "Sözcükte yapı konusunda kök-ek ilişkisini inceledik."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Satır sonuna sığmayan sözcükler bölünürken hece kurallarına uyulmalıdır. 'fiil-imsiler' şeklindeki heceleme yanlıştır; doğru ayrım 'fii-lim-si-ler' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_10_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+      "answers": [
+        "Herkez bu projede görev almak için birbiriyle yarışıyordu.",
+        "Öğretmenimiz tahtaya yirmiye yakın soru yazdı.",
+        "Yaz tatilinde Ege Denizi'nde keyifli bir tatil yaptık.",
+        "Bahçedeki ağaçlar ilkbaharda yeniden yeşerdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "'Herkez' yazımı yanlıştır; kelimenin doğru yazılışı 'herkes' olmalıdır."
+    },
+    {
+      "id": "Q_8_10_024",
+      "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
+      "answers": [
+        "Akşam eve geldiğinde, ellerini yıkayıp yemeğe oturdu.",
+        "Ankara'yı, Türkiye'nin başkentini, çok severim.",
+        "Yazar, son romanında yalnızlığı işlemiş.",
+        "Bize ne zaman geleceğini bir türlü söylemedi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Metin içinde art arda sıralanmayan tek bir zarf-fiil eki (-dığında / -diğinde) almış kelimelerden sonra virgül konulmaz. 'geldiğinde' sözcüğünden sonraki virgül gereksizdir."
+    },
+    {
+      "id": "Q_8_10_025",
+      "questionText": "Aşağıdaki birleşik fiillerden hangisinin yazımı yanlıştır?",
+      "answers": [
+        "Hissetmek",
+        "Farketmek",
+        "Zannetmek",
+        "Sabretmek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Etmek, olmak, eylemek gibi yardımcı fiillerle kurulan birleşik fiillerde ilk kelimede ses düşmesi veya ses türemesi yoksa ayrı yazılır. 'Fark' kelimesinde bir ses olayı olmadığı için 'fark etmek' şeklinde ayrı yazılmalıdır."
+    },
+    {
+      "id": "Q_8_10_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde tarihlerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Atatürk, 19 Mayıs 1919 tarihinde Samsun'a çıktı.",
+        "Toplantı 14 Ekim 2026 Perşembe günü yapılacak.",
+        "Okulumuz 15.Eylül.2023 tarihinde eğitim öğretime başladı.",
+        "Yazar 12 Mayıs 1976'da İstanbul'da dünyaya gelmiş."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Tarihlerde ay adları yazıyla yazıldığında gün, ay ve yıl arasına nokta, eğik çizgi veya herhangi bir noktalama işareti konulmaz. Doğrusu '15 Eylül 2023' olmalıdır."
+    },
+    {
+      "id": "Q_8_10_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımıyla ilgili bir yanlışlık yapılmıştır?",
+      "answers": [
+        "TCDD'ye ait trenler seferlerine devam ediyor.",
+        "TBMM'de yeni yasama yılı başladı.",
+        "UNESCO'nun düzenlediği konferansa katıldı.",
+        "K.K.K. komutanlığı bölgede incelemelerde bulundu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 3,
+      "explanation": "Büyük harflerle yapılan kısaltmalarda harflerin arasına nokta konulmaz (T.C. ve T. istisnaları dışında). Doğru yazım 'KKK' şeklinde olmalıdır."
+    },
+    {
+      "id": "Q_8_10_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yabancı kökenli kelimelerin yazımında bir yanlışlık yapılmıştır?",
+      "answers": [
+        "Yolculuk için hazırladığımız valizleri bagaja koyduk.",
+        "Akşamüstü kafeteryada kahve içip sohbet ettik.",
+        "Mütevazi kişiliğiyle herkesin sevgisini kazandı.",
+        "Stadyumda maç izlemek oldukça keyifliydi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 3,
+      "explanation": "Alçakgönüllü anlamına gelen sözcüğün doğru yazılışı 'mütevazı' (ı ile) şeklindedir. 'Mütevazi', birbirine paralel anlamına gelen tamamen farklı bir sözcüktür."
+    },
+    {
+      "id": "Q_8_10_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yazım yanlışı **yoktur**?",
+      "answers": [
+        "Herkez onun bu konuda ne kadar hassas olduğunu biliyordu.",
+        "Yalnız insan kalabalıklar içinde bile kendini kimsesiz hisseder.",
+        "Okulun koridorunda yanlız başına öylece oturuyordu.",
+        "Sokakta başı boş gezen köpekler belediye ekiplerince toplandı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 2,
+      "explanation": "Sadece 'yalnız' sözcüğü (yalın-ız) doğru yazılmıştır. Diğer seçeneklerdeki kelimelerin doğruları sırasıyla; herkes, yalnız, başıboş olmalıdır."
+    },
+    {
+      "id": "Q_8_10_030",
+      "questionText": "Aşağıdaki dizelerin hangisinde hem yazım hem de noktalama yanlışı yapılmıştır?",
+      "answers": [
+        "Ey mavi göklerin beyaz ve kızıl süsü...",
+        "Ne efsunkar imişsin ey sevda,",
+        "Gurbetelde ne arar can, ne arar ten...",
+        "Bilemezdim ki bu kadar gaddar olacağını..."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yazım ve Noktalama",
+      "difficulty": 3,
+      "explanation": "'Gurbet elde' sözcük grubu ayrı yazılmalıdır (yazım yanlışı). Ayrıca 'ne... ne...' tekrarlı bağlaçlarının arasına virgül konulmaz (noktalama yanlışı)."
+    }
+  ]
+}

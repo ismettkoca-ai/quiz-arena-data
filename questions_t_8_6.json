@@ -1,0 +1,425 @@
+{
+  "unit": "Cümlenin Ögeleri",
+  "questions": [
+    {
+      "id": "Q_8_6_001",
+      "questionText": "Bir cümlenin anlamca tamamlanmış yargısını bildiren ve cümlenin temel taşı olan öge aşağıdakilerden hangisidir?",
+      "answers": [
+        "Özne",
+        "Yüklem",
+        "Nesne",
+        "Yer Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Yüklem, cümlenin en temel ögesidir; eylemi ya da yargıyı doğrudan üzerinde taşır ve tüm diğer ögeler yükleme bağlanır."
+    },
+    {
+      "id": "Q_8_6_002",
+      "questionText": "Cümlede yüklemin bildirdiği işi, oluşu veya hareketi yapan ya da duruma bürünen ögeye ne ad verilir?",
+      "answers": [
+        "Nesne",
+        "Özne",
+        "Zarf Tamlayıcısı",
+        "Dolaylı Tümleç"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Özne, yükleme sorulan 'Kim?' veya 'Ne?' sorularının yanıtını vererek işi yapanı veya durumu yaşayanı bildirir."
+    },
+    {
+      "id": "Q_8_6_003",
+      "questionText": "Cümlede yüklemin bildirdiği işten (eylemden) doğrudan etkilenen ve '-i' hal ekini alan öge hangisidir?",
+      "answers": [
+        "Belirtisiz Nesne",
+        "Özne",
+        "Belirtili Nesne",
+        "Yer Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Belirtili nesne, yükleme sorulan 'Neyi?', 'Kimi?' sorularına yanıt verir ve genellikle belirtme (-i) hal ekini alır."
+    },
+    {
+      "id": "Q_8_6_004",
+      "questionText": "Cümlede yüklemin bildirdiği eylemin yapıldığı yeri, yönü veya yöneldiği yeri bildiren ve '-e, -de, -den' hal eklerinden biriyle kurulan ögeye ne denir?",
+      "answers": [
+        "Zarf Tamlayıcısı",
+        "Yer Tamlayıcısı (Dolaylı Tümleç)",
+        "Belirtisiz Nesne",
+        "Özne"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Yer tamlayıcısı (dolaylı tümleç); 'Kime, kimde, kimden?', 'Nereye, nerede, nereden?' sorularına yanıt verir ve mutlaka belirtilen hal eklerini alır."
+    },
+    {
+      "id": "Q_8_6_005",
+      "questionText": "Cümlede yüklemin anlamını zaman, durum, miktar, yön veya sebep yönünden tamamlayan öge hangisidir?",
+      "answers": [
+        "Zarf Tamlayıcısı (Zarf Tümleci)",
+        "Yer Tamlayıcısı",
+        "Belirtili Nesne",
+        "Özne"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Zarf tamlayıcısı; yükleme sorulan 'Nasıl?', 'Ne zaman?', 'Neden?', 'Ne kadar?', 'Nereye?' gibi sorularla bulunur."
+    },
+    {
+      "id": "Q_8_6_006",
+      "questionText": "Bir cümlenin ögelerini bulurken sırasıyla ilk olarak hangi öge bulunmalıdır?",
+      "answers": [
+        "Özne",
+        "Yüklem",
+        "Nesne",
+        "Zarf Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "Ögeleri bulma kuralında en kritik adım önce yüklemi bulmaktır. Diğer tüm sorular yükleme sorulur."
+    },
+    {
+      "id": "Q_8_6_007",
+      "questionText": "Edilgen çatılı (l/n ekini almış) cümlelerde, işi yapan belli değilken işten etkilenen ögeye ne ad verilir?",
+      "answers": [
+        "Gerçek Özne",
+        "Gizli Özne",
+        "Sözde Özne",
+        "Belirtisiz Nesne"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Edilgen fiillerin bulunduğu cümlelerde işi yapan gerçek özne bulunmaz; nesne konumundaki öge özne görevini üstlenir ve buna sözde özne denir."
+    },
+    {
+      "id": "Q_8_6_008",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'belirtisiz nesne' kullanılmıştır?",
+      "answers": [
+        "Annem mutfakta lezzetli bir kek pişirdi.",
+        "Öğretmenimiz dün bize harika hikayeler anlattı.",
+        "Çocuklar bahçede neşeyle koşturuyordu.",
+        "Yere düşen kalemi hemen yerden aldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Annem mutfakta lezzetli bir kek pişirdi. Seçeneğinde 'Ne pişirdi?' sorusunun karşılığı olan 'lezzetli bir kek' sözü belirtisiz nesnedir (-i eki almamıştır ve yüklemden hemen öncededir)."
+    },
+    {
+      "id": "Q_8_6_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yer tamlayıcısı (dolaylı tümleç) yoktur?",
+      "answers": [
+        "Çocuklar sabah erkenden okuldan döndü.",
+        "Sanatçı, yeni sergisini dün açtı.",
+        "Bu kasabada yıllar önce huzurlu bir hayat kurmuştu.",
+        "Bahçedeki çiçekleri sulamak için eve yöneldi."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Sanatçı, yeni sergisini dün açtı. Seçeneğindeki cümlede yer tamlayıcısı yoktur; 'Ne zaman?' (dün) zarf tamlayıcısı, 'Neyi?' (yeni sergisini) belirtili nesnedir."
+    },
+    {
+      "id": "Q_8_6_010",
+      "questionText": "Türkçe cümle yapısında vurgu, genellikle yüklemden hemen önceki ögenin üzerindedir. Buna göre 'Öğretmenimiz dün okulda bu konuyu detaylıca anlattı.' cümlesinde hangi öge vurgulanmıştır?",
+      "answers": [
+        "Özne",
+        "Zarf Tamlayıcısı",
+        "Belirtili Nesne",
+        "Yer Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Yüklem 'anlattı' sözcüğüdür. Hemen öncesinde 'bu konuyu' (belirtili nesne) yer aldığı için vurgulanan öge nesnedir."
+    },
+    {
+      "id": "Q_8_6_011",
+      "questionText": "Deyimler ve anlamca kaynaşmış birleşik fiiller (örneğin göz kulak olmak, burnu havada olmak, hasta olmak) ögelerine ayrılırken nasıl incelenmelidir?",
+      "answers": [
+        "Kelimeler tek tek ayrı ögeler olarak incelenmelidir.",
+        "Anlamca bütünlük oluşturdukları için tek bir öge (yüklem) olarak kabul edilmelidir.",
+        "Her zaman zarf tamlayıcısı olarak alınmalıdır.",
+        "Sadece özne ile birlikte değerlendirilmelidir."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Deyimler ve birleşik fiiller anlamca kalıplaştığı için öge ayrımında bölünemez ve tek bir öge (genellikle yüklem) olarak alınır."
+    },
+    {
+      "id": "Q_8_6_012",
+      "questionText": "Sıfat tamlamaları ve isim tamlamaları cümlenin ögeleri bulunururken nasıl ele alınmalıdır?",
+      "answers": [
+        "Tamlayan ve tamlanan ayrı ögeler olarak bölünmelidir.",
+        "Sözcük türüne göre farklı ögelere ayrılmalıdır.",
+        "Tamlamalar bir bütün oluşturduğu için asla bölünemez, tek öge sayılır.",
+        "Sadece özne grubunda bölünebilir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Tamlamalar (sıfat ve isim tamlamaları) anlam ve yapı bütünlüğü bozulamayacağı için öge analizi yapılırken kesinlikle parçalanamaz."
+    },
+    {
+      "id": "Q_8_6_013",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'nereye' sorusu yer tamlayıcısını (dolaylı tümleç) buldurmaz?",
+      "answers": [
+        "Çocuklar biraz önce dışarı çıktı.",
+        "Annem markete doğru hızla yürüdü.",
+        "Toplantı için hemen yukarı kat çıktılar.",
+        "Yorulduğu için koltuğa oturdu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Çocuklar biraz önce dışarı çıktı. Seçeneğindeki 'dışarı' sözcüğü ek almamış yalın halde yer-yön bildiren bir zarftır; bu nedenle yer tamlayıcısı değil, zarf tamlayıcısıdır. (Yer tamlayıcısı olması için -e/-de/-den eki alarak 'dışarıya' şeklinde yazılması gerekirdi)."
+    },
+    {
+      "id": "Q_8_6_014",
+      "questionText": "İki virgül veya iki kısa çizgi arasında araya girerek bir ögeyi açıklayan sözlere 'ara söz' denir. Buna göre aşağıdaki cümlelerin hangisinde ara söz bir ögenin açıklayıcısı olarak kullanılmamıştır?",
+      "answers": [
+        "Eski mahallemizi, o şirin köyü, hiç unutamayacağım.",
+        "Yarın, yani salı günü, önemli bir sınava gireceğiz.",
+        "İzmir'i, Ege'nin incisini, çok özlemiştim.",
+        "Annesi, elleri titreyerek, masaya çayları getirdi."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Annesi, elleri titreyerek, masaya çayları getirdi. Seçeneğindeki 'elleri titreyerek' ara sözü bir önceki ögeyi değil, eylemin nasıl yapıldığını bildiren bağımsız bir zarf tümlecidir. Diğerlerinde ara sözler nesneyi veya zamanı açıklamıştır."
+    },
+    {
+      "id": "Q_8_6_015",
+      "questionText": "Soru cümlelerinde soru hangi ögeyi buldurmaya yöneliktir sorusu çözülürken en pratik yöntem nedir?",
+      "answers": [
+        "Sorunun yerine herhangi bir sözcük yazmak",
+        "Cümleyi soru anlamından çıkarıp düz cümle yapmak ve cevabın hangi ögeye denk geldiğine bakmak",
+        "Sadece fiil köklerini incelemek",
+        "Yüklemi en başa almak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Soru ekleri veya soru zamirleriyle kurulan cümlelerde, soru kelimesinin yerine olası bir cevap konulduğunda cevabın hangi öge olduğu bize o sorunun buldurduğu ögeyi verir."
+    },
+    {
+      "id": "Q_8_6_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ne' sözcüğü özne görevindedir?",
+      "answers": [
+        "Dün akşam marketten ne aldın?",
+        "Çocuğun elindeki sıcak bardak ne oldu?",
+        "Sabahtan beri odada ne arıyorsun?",
+        "Ağacın dalından kafana ne düştü?"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Dün akşam marketten ne aldın? ve Sabahtan beri odada ne arıyorsun? seçeneklerinde 'ne' sorusu belirtisiz nesneyi, Çocuğun elindeki sıcak bardak ne oldu? seçeneğinde yüklemi buldurmaya yöneliktir. Ağacın dalından kafana ne düştü? seçeneğinde ise 'Düşen şey nedir?' sorusunun karşılığı olduğu için doğrudan özneyi buldurur."
+    },
+    {
+      "id": "Q_8_6_017",
+      "questionText": "Cümledeki 'Kim' ve 'Ne' soruları hem özneyi hem de belirtisiz nesneyi bulmak için kullanılır. Bu iki ögeyi birbirine karıştırmamak için izlenmesi gereken doğru sıra nedir?",
+      "answers": [
+        "Önce nesne, sonra özne bulunmalıdır.",
+        "Önce özne bulunmalı, ardından nesne aranmalıdır çünkü yükleme 'ne' sorusu ikinci sırada sorulduğunda belirtisiz nesneyi verir.",
+        "Sadece yükleme bakılmalıdır.",
+        "Özne her zaman en sonda yer alır."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Cümlede özne bulunmadan nesne aranırsa hata yapılır. Önce yüklem, ardından kim/ne sorularıyla özne bulunur; özne bulunduktan sonraki 'ne' sorusu belirtisiz nesneyi verir."
+    },
+    {
+      "id": "Q_8_6_018",
+      "questionText": "Devrik cümlelerde (yüklemi sonda bulunmayan cümlelerde) öge analizi yapılırken en güvenli yöntem hangisidir?",
+      "answers": [
+        "Cümleyi kurallı hale getirdikten sonra ögeleri ayırmak",
+        "Yüklemi dikkate almadan baştan sona öge ayırmak",
+        "Sadece ilk kelimeye bakmak",
+        "Önce zarf tamlayıcısını bulmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Devrik cümlelerde ögeleri karıştırmamak için cümleyi önce kurallı (yüklemi sonda olan) hale getirmek en sağlıklı yöntemdir."
+    },
+    {
+      "id": "Q_8_6_019",
+      "questionText": "Fiilimsi grupları (isim-fiil, sıfat-fiil, zarf-fiil öbekleri) cümle içinde nasıl incelenir?",
+      "answers": [
+        "Her bir sözcük ayrı bir öge olarak alınır.",
+        "Fiilimsi grupları bir bütün oluşturduğu için bölünemez ve tek bir öge içinde yer alır.",
+        "Sadece yüklem olabilirler.",
+        "Cümle dışı unsur kabul edilirler."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Fiilimsiler yan cümlecik kurarlar; kendisinden önceki kelimelerle öbek oluşturdukları için öge analizinde bu öbekler bölünemez."
+    },
+    {
+      "id": "Q_8_6_020",
+      "questionText": "'Sabahın ilk ışıklarıyla birlikte kasaba halkı uyanmaya başladı.' cümlesinin öge dizilişi hangi seçenekte doğru verilmiştir?",
+      "answers": [
+        "Zarf Tamlayıcısı - Özne - Yüklem",
+        "Yer Tamlayıcısı - Özne - Belirtili Nesne - Yüklem",
+        "Zarf Tamlayıcısı - Belirtisiz Nesne - Yüklem",
+        "Özne - Yer Tamlayıcısı - Yüklem"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Yüklem: uyanmaya başladı. Kim uyanmaya başladı? -> kasaba halkı (özne). Ne zaman / Nasıl uyanmaya başladı? -> Sabahın ilk ışıklarıyla birlikte (zarf tamlayıcısı). Sıralama: Zarf Tamlayıcısı - Özne - Yüklem şeklindedir."
+    },
+    {
+      "id": "Q_8_6_021",
+      "questionText": "Bağlaçlar (ve, veya, ama, çünkü vb.) ve ünlemler cümlenin ögeleri arasında nasıl değerlendirilir?",
+      "answers": [
+        "Her zaman özne kabul edilirler.",
+        "Cümlenin ögelerinden biri olarak kabul edilmezler, 'cümle dışı unsur' sayılırlar.",
+        "Yüklem ile birleşip tek öge olurlar.",
+        "Nesne görevini üstlenirler."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Bağlaçlar ve ünlemler cümle içi geçişleri sağlayan unsurlar olduğundan öge olarak kabul edilmez, cümle dışı unsur (CDU) olarak adlandırılır."
+    },
+    {
+      "id": "Q_8_6_022",
+      "questionText": "'Eyvah, az kalsın treni kaçıracaktım!' cümlesindeki 'Eyvah' sözcüğü cümlenin hangi ögesidir?",
+      "answers": [
+        "Özne",
+        "Zarf Tamlayıcısı",
+        "Cümle Dışı Unsur (Ünlem)",
+        "Yüklem"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 1,
+      "explanation": "'Eyvah' bir ünlemdir ve duygu belirttiği için cümlenin temel ögelerine dahil edilmez, cümle dışı unsur olarak kabul edilir."
+    },
+    {
+      "id": "Q_8_6_023",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem isim soylu bir sözcükten (ek-fiil alarak) oluşmuştur?",
+      "answers": [
+        "Çocuklar bahçede top oynuyordu.",
+        "Hava son günlerde oldukça soğuktu.",
+        "Yazar, yeni kitabını dün akşam imzaladı.",
+        "Okulun bahçesindeki ağaçlar yaprak döküyor."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Hava son günlerde oldukça soğuktu. Seçeneğindeki 'soğuktu' sözcüğü 'soğuk' isim köküne ek-fiil (-idi) gelerek yüklem olmuştur. Diğerlerinde ise yüklemler çekimli fiillerdir."
+    },
+    {
+      "id": "Q_8_6_024",
+      "questionText": "'Sanatçının son eseri, eleştirmenlerden tam not aldı.' cümlesinde 'eleştirmenlerden' sözcüğü hangi öge görevindedir?",
+      "answers": [
+        "Özne",
+        "Zarf Tamlayıcısı",
+        "Yer Tamlayıcısı (Dolaylı Tümleç)",
+        "Belirtili Nesne"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Yüklem: tam not aldı. 'Kimizden / Nereden / Kimden?' sorularına yanıt veren ve '-den' ayrılma hal ekini alan 'eleştirmenlerden' sözcüğü yer tamlayıcısıdır."
+    },
+    {
+      "id": "Q_8_6_025",
+      "questionText": "Aşağıdaki cümlelerin hangisinde vurgulanan öge diğerlerinden farklıdır?",
+      "answers": [
+        "Kitabı sessizce masanın üzerine bırakmıştı.",
+        "Yıllardır aradığı mektubu eski bir kutuda buldu.",
+        "Bütün eşyalarını hızlıca arabaya yükledi.",
+        "Okulun bahçesindeki çocuklar neşeyle koşuyordu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Diğer seçeneklerde yüklemden hemen önce yer tamlayıcısı (dolaylı tümleç) kullanıldığı için yer tamlayıcısı vurgulanmıştır. Okulun bahçesindeki çocuklar neşeyle koşuyordu. Seçeneğinde ise 'koşuyordu' yükleminden önce 'neşeyle' (zarf tamlayıcısı) kullanılmış ve zarf tamlayıcısı vurgulanmıştır."
+    },
+    {
+      "id": "Q_8_6_026",
+      "questionText": "'Yıllardır görmediği dostunu uzun uzun kucakladı.' cümlesinin öge dizilişi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Zarf Tamlayıcısı - Belirtili Nesne - Yüklem",
+        "Belirtili Nesne - Zarf Tamlayıcısı - Yüklem",
+        "Özne - Zarf Tamlayıcısı - Yüklem",
+        "Yer Tamlayıcısı - Belirtili Nesne - Yüklem"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Yüklem: kucakladı. Gizli Özne: o. Kimi kucakladı? -> Yıllardır görmediği dostunu (belirtili nesne). Nasıl kucakladı? -> uzun uzun (zarf tamlayıcısı). Sıralama: Belirtili Nesne - Zarf Tamlayıcısı - Yüklem şeklindedir."
+    },
+    {
+      "id": "Q_8_6_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde ikileme cümlede 'zarf tamlayıcısı' görevinde kullanılmamıştır?",
+      "answers": [
+        "Çocuklar bahçede neşeyle koşa koşa oynuyordu.",
+        "Yaşlı adam, yokuşu çıkarken yavaş yavaş yürüyordu.",
+        "Mağazanın vitrininde pırıl pırıl elbiseler duruyordu.",
+        "Toplantıda bu konuyu uzun uzun tartıştılar."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Diğer seçeneklerdeki ikilemeler eylemin nasıl yapıldığını belirterek zarf tamlayıcısı olmuştur. Mağazanın vitrininde pırıl pırıl elbiseler duruyordu. Seçeneğindeki 'pırıl pırıl' ikilemesi ise 'elbiseler' ismini niteleyerek sıfat görevi üstlenmiş ve öznenin (pırıl pırıl elbiseler) içinde yer almıştır."
+    },
+    {
+      "id": "Q_8_6_028",
+      "questionText": "'Bu şehre ilk defa gelen turistler tarihi kalıntılara hayran kaldı.' cümlesinde 'tarihi kalıntılara' söz grubu hangi ögedir?",
+      "answers": [
+        "Belirtili Nesne",
+        "Yer Tamlayıcısı (Dolaylı Tümleç)",
+        "Zarf Tamlayıcısı",
+        "Özne"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 2,
+      "explanation": "Yüklem: hayran kaldı. Neye hayran kaldı? -> tarihi kalıntılara (-e hal ekini aldığı için yer tamlayıcısıdır)."
+    },
+    {
+      "id": "Q_8_6_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem birden fazla sözcükten (kelime grubundan) oluşan bir fiil veya isim öbeğidir?",
+      "answers": [
+        "Akşam saatlerinde şiddetli bir yağmur başladı.",
+        "Öğrenciler sınav sorularını dikkatle inceledi.",
+        "Yıllardır bu anı sabırsızlıkla bekliyordu.",
+        "Şirketimiz yeni projelerle adından söz ettiriyor."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Şirketimiz yeni projelerle adından söz ettiriyor. Seçeneğindeki 'adından söz ettiriyor' kalıplaşmış deyim/anlamca kaynaşmış birleşik fiil olduğu için bölünemez ve tek bir yüklem oluşturur."
+    },
+    {
+      "id": "Q_8_6_030",
+      "questionText": "'Yazar, çocukluk anılarını bu romanda son derece samimi bir dille kaleme almış.' cümlesinde aşağıdaki ögelerden hangisi yer almamaktadır?",
+      "answers": [
+        "Özne",
+        "Belirtili Nesne",
+        "Belirtisiz Nesne",
+        "Yer Tamlayıcısı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Cümlenin Ögeleri",
+      "difficulty": 3,
+      "explanation": "Cümlede 'Yazar' özne, 'çocukluk anılarını' belirtili nesne, 'bu romanda' yer tamlayıcısı (dolaylı tümleç), 'son derece samimi bir dille' zarf tamlayıcısı, 'kaleme almış' ise yüklemdir. Cümlede belirtisiz nesne bulunmamaktadır."
+    }
+  ]
+}

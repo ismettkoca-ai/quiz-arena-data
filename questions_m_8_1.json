@@ -1,0 +1,425 @@
+{
+  "unit": "Çarpanlar ve Katlar",
+  "questions": [
+    {
+      "id": "Q_8_1_001",
+      "questionText": "72 sayısının asal çarpanlarına ayrılmış hali aşağıdakilerden hangisidir?",
+      "answers": [
+        "2³ · 3²",
+        "2² · 3³",
+        "2⁴ · 3",
+        "2³ · 3³"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "72 sayısı 2'ye bölünür: 36, 18, 9, 3, 1. Asal çarpanlarına ayrıldığında 72 = 2³ · 3² olur."
+    },
+    {
+      "id": "Q_8_1_002",
+      "questionText": "Aşağıdaki sayılardan hangisi 180 sayısının pozitif tam sayı bölenlerinden biri değildir?",
+      "answers": [
+        "12",
+        "15",
+        "24",
+        "30"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "180 sayısı 24'e tam bölünmez (180 / 24 = 7,5). Bu nedenle 24, 180'in bir böleni değildir."
+    },
+    {
+      "id": "Q_8_1_003",
+      "questionText": "36 ve 48 sayılarının en büyük ortak böleni (EBOB) kaçtır?",
+      "answers": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "36 ve 48'in ortak bölenleri incelendiğinde en büyük ortak bölenlerinin 12 olduğu görülür."
+    },
+    {
+      "id": "Q_8_1_004",
+      "questionText": "12 ve 15 sayılarının en küçük ortak katı (EKOK) kaçtır?",
+      "answers": [
+        "30",
+        "45",
+        "60",
+        "120"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "12'nin katları (12, 24, 36, 48, 60...) ve 15'in katları (15, 30, 45, 60...) incelendiğinde en küçük ortak kat 60'tır."
+    },
+    {
+      "id": "Q_8_1_005",
+      "questionText": "Aşağıdaki sayı ikililerinden hangisi aralarında asaldır?",
+      "answers": [
+        "15 ve 21",
+        "8 ve 35",
+        "14 ve 35",
+        "9 ve 27"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "8 ve 35 sayılarının 1'den başka ortak böleni yoktur, bu nedenle aralarında asaldırlar."
+    },
+    {
+      "id": "Q_8_1_006",
+      "questionText": "Aşağıdaki sayılardan hangisi asal bir sayıdır?",
+      "answers": [
+        "91",
+        "97",
+        "111",
+        "119"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 1,
+      "explanation": "97 sayısı sadece 1'e ve kendisine bölünebilen bir asal sayıdır."
+    },
+    {
+      "id": "Q_8_1_007",
+      "questionText": "A ve B pozitif tam sayıları için EBOB(A, B) = 6 ve EKOK(A, B) = 72'dir. Buna göre A · B çarpımı kaçtır?",
+      "answers": [
+        "144",
+        "216",
+        "432",
+        "864"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "İki sayının çarpımı, bu sayıların EBOB ve EKOK'larının çarpımına eşittir: A · B = EBOB · EKOK = 6 · 72 = 432."
+    },
+    {
+      "id": "Q_8_1_008",
+      "questionText": "Kenar uzunlukları santimetre cinsinden birer tam sayı ve alanı 48 cm² olan kaç farklı dikdörtgen çizilebilir?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "48'in çarpanları: 1x48, 2x24, 3x16, 4x12, 6x8 olmak üzere 5 farklı ikili vardır. Dolayısıyla 5 farklı dikdörtgen çizilebilir."
+    },
+    {
+      "id": "Q_8_1_009",
+      "questionText": "60 litre ve 72 litrelik iki farklı kolonya, hiç artmayacak ve birbirine karıştırılmayacak şekilde eşit hacimli şişelere doldurulacaktır. Bu iş için en az kaç şişe gereklidir?",
+      "answers": [
+        "11",
+        "22",
+        "33",
+        "44"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Şişe hacmi EBOB(60, 72) = 12 litredir. Toplam şişe sayısı = (60/12) + (72/12) = 5 + 6 = 11 şişe."
+    },
+    {
+      "id": "Q_8_1_010",
+      "questionText": "İki otobüsten biri 40 dakikada bir, diğeri ise 60 dakikada bir sefer düzenlemektedir. Bu iki otobüs saat 08.00'de birlikte hareket ettikten sonra ilk kez saat kaçta tekrar birlikte hareket ederler?",
+      "answers": [
+        "10.00",
+        "11.00",
+        "12.00",
+        "14.00"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "EKOK(40, 60) = 120 dakika yani 2 saattir. 08.00 + 2 saat = 10.00'dır."
+    },
+    {
+      "id": "Q_8_1_011",
+      "questionText": "Aralarında asal iki sayının EKOK'u 56'dır. Bu sayıların toplamı kaç olmalıdır?",
+      "answers": [
+        "15",
+        "20",
+        "28",
+        "57"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Aralarında asal sayıların EKOK'u çarpımlarına eşittir (56). 56'yı veren aralarında asal ikili 7 ve 8'dir. Toplamları 7 + 8 = 15'tir."
+    },
+    {
+      "id": "Q_8_1_012",
+      "questionText": "Aralarında asal iki sayının EBOB'u ile EKOK'unun toplamı 91'dir. Bu sayıların çarpımı kaçtır?",
+      "answers": [
+        "90",
+        "91",
+        "180",
+        "Çarpımları bulunamaz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Aralarında asal sayıların EBOB'u daima 1'dir. EKOK ile toplamı 91 ise EKOK = 90'dır. Aralarında asal sayıların EKOK'u çarpımlarına eşit olduğundan çarpımları 90'dır."
+    },
+    {
+      "id": "Q_8_1_013",
+      "questionText": "X = 2³ · 3² · 5 ve Y = 2² · 3³ · 7 sayıları veriliyor. Buna göre EBOB(X, Y) değeri kaçtır?",
+      "answers": [
+        "18",
+        "36",
+        "108",
+        "2520"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "EBOB bulunurken ortak tabanların üssü küçük olanları seçilir: 2² · 3² = 4 · 9 = 36."
+    },
+    {
+      "id": "Q_8_1_014",
+      "questionText": "Boyutları 48 cm ve 72 cm olan dikdörtgen şeklindeki bir karton, hiç arttırılmadan eş karelere bölünecektir. Bu iş için en az kaç kare parça elde edilir?",
+      "answers": [
+        "6",
+        "12",
+        "24",
+        "36"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Karenin bir kenarı EBOB(48, 72) = 24 cm'dir. Alan hesabı ile parça sayısı = (48 · 72) / (24 · 24) = 2 · 3 = 6 parça."
+    },
+    {
+      "id": "Q_8_1_015",
+      "questionText": "Yüksekliği 8 cm olan özdeş kutular üst üste konularak iki farklı kule yapılıyor. Birinci kule 2 metreden, ikinci kule ise 2,5 metreden uzun ve yükseklikleri birbirine eşittir. Bu iki kulenin yüksekliği en az kaç santimetredir?",
+      "answers": [
+        "200 cm",
+        "208 cm",
+        "216 cm",
+        "240 cm"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Kulelerin yüksekliği 8'in katı olmalıdır. 2 metre = 200 cm, 2,5 metre = 250 cm'dir. 8'in 200'den büyük en küçük katı 208 cm'dir."
+    },
+    {
+      "id": "Q_8_1_016",
+      "questionText": "A = 2^a · 3^b şeklinde asal çarpanlarına ayrılmış bir A sayısı için a + b = 5 olduğu bilinmektedir. Buna göre A sayısı aşağıdakilerden hangisi olamaz?",
+      "answers": [
+        "18",
+        "48",
+        "72",
+        "108"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "108 = 2² · 3³ olduğundan a=2, b=3'tür (a+b=5). 18 = 2¹ · 3² (a+b=3). 48 = 2⁴ · 3 (a+b=5). 72 = 2³ · 3² (a+b=5). 18 sayısı a+b=5 şartını sağlamaz."
+    },
+    {
+      "id": "Q_8_1_017",
+      "questionText": "Toplamları 45 olan iki pozitif tam sayının EBOB'u 9'dur. Bu sayıların olası değerler toplamı kaçtır?",
+      "answers": [
+        "45",
+        "90",
+        "135",
+        "180"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Sayılar 9x ve 9y olsun. 9x + 9y = 45 => x + y = 5'tir. Aralarında asal x ve y ikilileri (1, 4) ve (2, 3)'tür. Sayı çiftleri (9, 36) ve (18, 27). Toplamları iki durum için de 45'tir ancak soru olası değerler toplamı dediği için 45 + 45 = 90."
+    },
+    {
+      "id": "Q_8_1_018",
+      "questionText": "EKOK'u 120 olan iki farklı doğal sayının toplamı en çok kaç olabilir?",
+      "answers": [
+        "160",
+        "180",
+        "210",
+        "240"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "EKOK'u 120 olan sayılar 120'yi bölen sayılar olmalıdır. Bu şartı sağlayan farklı iki sayı 120 ve 60'tır. Toplamları en çok 120 + 60 = 180 olur."
+    },
+    {
+      "id": "Q_8_1_019",
+      "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "answers": [
+        "İki asal sayının toplamı her zaman çifttir.",
+        "Arka arkaya gelen iki doğal sayı aralarında asaldır.",
+        "1 ve kendisinden başka böleni olmayan 1'den büyük doğal sayılara asal sayı denir.",
+        "En küçük asal sayı 2'dir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "2 ve 3 asal sayıların toplamı 5'tir (tektir). Bu nedenle iki asal sayının toplamı her zaman çift değildir."
+    },
+    {
+      "id": "Q_8_1_020",
+      "questionText": "Bir otelde her 3 günde bir çalışan Ahmet ile her 4 günde bir çalışan Mehmet birlikte nöbet tutmaktadır. İkisi birlikte ilk nöbetlerini salı günü tuttuğuna göre, 3. kez birlikte hangi gün nöbet tutarlar?",
+      "answers": [
+        "Salı",
+        "Perşembe",
+        "Cuma",
+        "Pazar"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "EKOK(3, 4) = 12 gündür. 3. kez birlikte tutmaları için 2 kez 12 gün (24 gün) geçmelidir. Salı gününün üzerine 24 gün eklenirse (24 mod 7 = 3 gün) Cuma günü olur."
+    },
+    {
+      "id": "Q_8_1_021",
+      "questionText": "Kenar uzunlukları 24 cm ve 36 cm olan dikdörtgen şeklindeki fayanslar yan yana ve üst üste konularak en küçük alanlı bir kare oluşturulacaktır. Bu iş için kaç adet fayans gerekir?",
+      "answers": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Karenin bir kenarı EKOK(24, 36) = 72 cm'dir. Fayans sayısı = (Karenin Alanı) / (Fayansın Alanı) = (72 · 72) / (24 · 36) = 3 · 2 = 6 adet."
+    },
+    {
+      "id": "Q_8_1_022",
+      "questionText": "Bir okulda öğrencilere üçerli veya beşerli gruplar halinde grup çalışması yaptırıldığında her seferinde 2 öğrenci açıkta kalmaktadır. Okuldaki öğrenci sayısı 150'den fazla olduğuna göre en az kaç öğrencidir?",
+      "answers": [
+        "152",
+        "157",
+        "162",
+        "167"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Öğrenci sayısı 3 ve 5'in katından 2 fazladır. EKOK(3, 5) = 15'tir. 15'in 150'den büyük ilk katı 165'tir. 2 eklenirse 167 öğrenci olur."
+    },
+    {
+      "id": "Q_8_1_023",
+      "questionText": "Aşağıdaki sayılardan hangisinin asal çarpan sayısı diğerlerinden farklıdır?",
+      "answers": [
+        "60",
+        "75",
+        "98",
+        "200"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "60 sayısının asal çarpanları 2, 3 ve 5 olmak üzere 3 tanedir. Diğerlerinin (75, 98, 200) ikişer tane asal çarpanı vardır."
+    },
+    {
+      "id": "Q_8_1_024",
+      "questionText": "Kenar uzunlukları cm cinsinden aralarında asal olan bir dikdörtgenin alanı 35 cm²dir. Bu dikdörtgenin çevresi kaç santimetre olabilir?",
+      "answers": [
+        "24",
+        "36",
+        "48",
+        "72"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Alanı 35 olan kenar uzunlukları 1 ve 35 ya da 5 ve 7 olabilir. Kenarlar aralarında asal olmalıdır, ikisi de sağlar. 1 ve 35 için çevre = 2x(1+35) = 72. 5 ve 7 için çevre = 2x(5+7) = 24 cm'dir."
+    },
+    {
+      "id": "Q_8_1_025",
+      "questionText": "Bir çiftçi tarlasının etrafına eşit aralıklarla köşe başlarında da birer tane olmak üzere ağaç dikecektir. Tarlanın boyu 120 metre, eni 90 metredir. Bu iş için en az kaç ağaç gerekir?",
+      "answers": [
+        "12",
+        "14",
+        "28",
+        "42"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "İki ağaç arasındaki mesafe EBOB(120, 90) = 30 metredir. Ağaç sayısı = (Tarlanın Çevresi) / (Ağaç Aralığı) = 2x(120 + 90) / 30 = 420 / 30 = 14 ağaç."
+    },
+    {
+      "id": "Q_8_1_026",
+      "questionText": "Pozitif tam bölen sayısı 3 olan iki basamaklı en büyük doğal sayı kaçtır?",
+      "answers": [
+        "49",
+        "81",
+        "91",
+        "99"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Pozitif tam bölen sayısı 3 olan sayılar bir asal sayının karesi olan sayılardır (p²). İki basamaklı en büyük asal sayı karesi alınabilecek 7² = 49'dur."
+    },
+    {
+      "id": "Q_8_1_027",
+      "questionText": "A ve B doğal sayıları için EBOB(A, B) = 5 ve A + B = 35 olduğuna göre A · B çarpımı en çok kaçtır?",
+      "answers": [
+        "150",
+        "250",
+        "300",
+        "350"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "A = 5x ve B = 5y olsun. 5x + 5y = 35 => x + y = 7'dir. Çarpımın en çok olması için x ve y sayıları birbirine en yakın aralarında asal seçilmelidir: 3 ve 4. Sayılar 15 ve 20 olur. Çarpımları 15 · 20 = 300'dür."
+    },
+    {
+      "id": "Q_8_1_028",
+      "questionText": "3 basamaklı 4A2 sayısı 3 ile kalansız bölünebilmektedir. Buna göre A yerine yazılabilecek kaç farklı rakam vardır?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 2,
+      "explanation": "Rakamları toplamı 4 + A + 2 = 6 + A olmalıdır. Bu toplam 3'ün katı olmalıdır. A yerine 0, 3, 6 ve 9 yazılabilir; toplam 4 farklı rakam yazılabilir."
+    },
+    {
+      "id": "Q_8_1_029",
+      "questionText": "Bir torbadaki bilyeler dörderli, beşerli ve altışarlı sayıldığında her seferinde 3 bilye artmaktadır. Torbada 200'den az bilye olduğu bilindiğine göre bilye sayısı en çok kaçtır?",
+      "answers": [
+        "63",
+        "123",
+        "183",
+        "193"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "Bilye sayısı 4, 5 ve 6'nın ortak katından 3 fazladır. EKOK(4, 5, 6) = 60'tır. 60'ın 200'den küçük katları: 60, 120, 180. 3 eklersek 63, 123, 183 olur. En çok dediği için 183'tür."
+    },
+    {
+      "id": "Q_8_1_030",
+      "questionText": "A ve B pozitif tam sayıları için EKOK(A, B) = 24 olduğuna göre A + B toplamının alabileceği en büyük değer kaçtır?",
+      "answers": [
+        "24",
+        "36",
+        "42",
+        "72"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Çarpanlar ve Katlar",
+      "difficulty": 3,
+      "explanation": "EKOK'u 24 olan iki sayının toplamının en büyük olması için sayılardan biri 24, diğeri ise 24'ü bölen ve aralarında asal olmayıp farklı olan en büyük sayı 12 seçilir. Toplamları 24 + 12 = 36'dır."
+    }
+  ]
+}

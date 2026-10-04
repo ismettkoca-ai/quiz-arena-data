@@ -1,0 +1,425 @@
+{
+  "unit": "Yaşayan Demokrasimiz",
+  "questions": [
+    {
+      "id": "Q_5_4_001",
+      "questionText": "Halkın kendi kendini yönettiği, yöneticilerini belirli dönemlerde seçim yoluyla belirlediği yönetim biçimi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Monarşi",
+        "Otokrasi",
+        "Cumhuriyet",
+        "Oligarşi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Halkın egemenliğine dayanan yönetim biçimi cumhuriyettir."
+    },
+    {
+      "id": "Q_5_4_002",
+      "questionText": "Yönetim yetkisinin babadan oğula veya kral soyuna geçtiği yönetim şekline ne ad verilir?",
+      "answers": [
+        "Demokrasi",
+        "Cumhuriyet",
+        "Monarşi",
+        "Meclis yönetimi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Tek kişinin (kral, padişah) yönettiği ve yetkinin soyaçekimle geçtiği sistem monarşidir."
+    },
+    {
+      "id": "Q_5_4_003",
+      "questionText": "Aşağıdakilerden hangisi demokrasinin temel ilkelerinden biri DEĞİLDİR?",
+      "answers": [
+        "Milli egemenlik",
+        "Eşitlik",
+        "Tek kişinin sınırsız yetkisi",
+        "Özgürlük"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Demokraside güç tek kişide toplanmaz, yetki halkındır ve sınırlıdır."
+    },
+    {
+      "id": "Q_5_4_004",
+      "questionText": "Okulumuzda sınıf başkanı seçerken uyguladığımız yöntem demokrasinin hangi özelliğine doğrudan örnektir?",
+      "answers": [
+        "Seçme ve seçilme hakkı",
+        "Baskı yönetimi",
+        "Monarşik atama",
+        "Kısıtlayıcı kurallar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Oy vererek temsilci seçmek seçme ve seçilme hakkıdır."
+    },
+    {
+      "id": "Q_5_4_005",
+      "questionText": "Türkiye'de egemenliğin millete ait olduğunu ilan eden ve cumhuriyet yönetiminin temelini atan olay nedir?",
+      "answers": [
+        "TBMM'nin açılması",
+        "Cumhuriyetin ilanı",
+        "Muhtıralar",
+        "Saltanatın kaldırılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "23 Nisan 1920'de TBMM'nin açılmasıyla egemenlik millete verilmiştir."
+    },
+    {
+      "id": "Q_5_4_006",
+      "questionText": "Demokratik toplumlarda çoğunluğun aldığı kararlarda aşağıdakilerden hangisi göz ardı EDİLEMEZ?",
+      "answers": [
+        "Azınlıkta kalanların hakları ve düşünce özgürlüğü",
+        "Sadece zenginlerin istekleri",
+        "Tek bir kişinin görüşü",
+        "Kuralsızlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Demokrasi sadece çoğunluk yönetimi değil, aynı zamanda azınlık haklarına saygı rejimidir."
+    },
+    {
+      "id": "Q_5_4_007",
+      "questionText": "Aşağıdakilerden hangisi evde veya okulda çocuk olarak katıldığımız karar süreçlerinden biridir?",
+      "answers": [
+        "Aile tatil yerinin belirlenmesinde fikir söylemek",
+        "Ülke bütçesini hazırlamak",
+        "Kanun teklifi sunmak",
+        "Uluslararası anlaşma imzalamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Çocuk katılımı aile içinde ve okulda ortak kararlara fikir sunmakla başlar."
+    },
+    {
+      "id": "Q_5_4_008",
+      "questionText": "Türkiye Cumhuriyeti'nin kurucusu ve cumhuriyetimizin ilk cumhurbaşkanı kimdir?",
+      "answers": [
+        "İsmet İnönü",
+        "Mustafa Kemal Atatürk",
+        "Fevzi Çakmak",
+        "Kazım Karabekir"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı Mustafa Kemal Atatürk'tür."
+    },
+    {
+      "id": "Q_5_4_009",
+      "questionText": "Okul meclislerinin kurulmasındaki temel amaç öğrencilere hangi bilinci kazandırmaktır?",
+      "answers": [
+        "Demokrasi kültürünü ve okul yönetimine katılımı",
+        "Okuldan kaçma yöntemlerini",
+        "Bireysel yalnızlığı",
+        "Kurallara karşı gelmeyi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Okul meclisleri öğrencilere yerinde demokrasi deneyimi sunar."
+    },
+    {
+      "id": "Q_5_4_010",
+      "questionText": "Yasama yetkisi Türkiye Cumhuriyeti'nde hangi kuruma aittir?",
+      "answers": [
+        "Bakanlar Kurulu",
+        "Türkiye Büyük Millet Meclisi (TBMM)",
+        "Bağımsız Mahkemeler",
+        "Valilikler"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Kanun yapma (yasama) yetkisi TBMM'ye aittir."
+    },
+    {
+      "id": "Q_5_4_011",
+      "questionText": "Demokratik bir seçimde oyların gizli, sayım ve dökümün açık yapılması neyi amaçlar?",
+      "answers": [
+        "Seçimlerin dürüst, adil ve güvenilir olmasını",
+        "Seçimlerin gizli saklı kalmasını",
+        "Kime oy verildiğinin baskıyla belirlenmesini",
+        "Oyların kaybolmasını"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Gizli oy açık sayım ilkesi seçim güvenliğinin temelidir."
+    },
+    {
+      "id": "Q_5_4_012",
+      "questionText": "Aşağıdakilerden hangisi temel hak ve özgürlüklerimizden biri DEĞİLDİR?",
+      "answers": [
+        "Yaşama hakkı",
+        "Suç işleme özgürlüğü",
+        "Eğitim hakkı",
+        "Düşünce ve ifade özgürlüğü"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Suç işlemek özgürlük değil, kanunlara göre suçtur."
+    },
+    {
+      "id": "Q_5_4_013",
+      "questionText": "Çocuk Haklarına Dair Sözleşme'ye göre çocuk olarak kabul edilen yaş aralığı aşağıdakilerden hangisidir?",
+      "answers": [
+        "0 - 18 yaş arası",
+        "7 - 12 yaş arası",
+        "10 - 20 yaş arası",
+        "0 - 10 yaş arası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Uluslararası sözleşmelere göre 18 yaşın altındaki her birey çocuk sayılır."
+    },
+    {
+      "id": "Q_5_4_014",
+      "questionText": "Ülkemizde anayasaya göre yönetim biçimimiz nedir?",
+      "answers": [
+        "Monarşi",
+        "Teokrasi",
+        "Laik, demokratik, sosyal bir hukuk devleti olan Cumhuriyet",
+        "Oligarşi"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Türkiye Cumhuriyeti demokratik, laik ve sosyal bir hukuk devletidir."
+    },
+    {
+      "id": "Q_5_4_015",
+      "questionText": "Demokratik bir ülkede basın (medya) neden 'dördüncü kuvvet' olarak adlandırılır?",
+      "answers": [
+        "Halkı bilgilendirdiği ve yöneticileri denetleme görevi üstlendiği için",
+        "Askeri gücü olduğu için",
+        "Kanun çıkardığı için",
+        "Mahkemelerin yerine geçtiği için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Özgür basım kamuoyu oluşturarak yöneticileri halk adına denetler."
+    },
+    {
+      "id": "Q_5_4_016",
+      "questionText": "Aşağıdakilerden hangisi evde anne-baba ve çocukların birlikte karar almasına örnek gösterilebilir?",
+      "answers": [
+        "Hafta sonu yapılacak aktivitenin aile toplantısıyla oylanarak seçilmesi",
+        "Kararların sadece baba tarafından alınması",
+        "Çocukların fikirlerinin dikkate alınmaması",
+        "Herkesin kendi bildiğini yapması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Aile içi ortak karar alma süreçleri ev içi demokrasidir."
+    },
+    {
+      "id": "Q_5_4_017",
+      "questionText": "Sivil toplum kuruluşları (STK) demokrasinin işlemesine nasıl katkı sağlar?",
+      "answers": [
+        "Toplumsal sorunlara duyarlılık oluşturarak devlet çalışmalarına destek olur",
+        "Kanun çıkararak devleti yönetir",
+        "Seçimleri iptal eder",
+        "Ticari kâr amacıyla çalışır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "STK'lar gönüllülük esasıyla toplumsal sorunları çözer ve demokrasiyi güçlendirir."
+    },
+    {
+      "id": "Q_5_4_018",
+      "questionText": "Cumhuriyet yönetimi ilan edilmeden önce devletin başında kim bulunmaktaydı?",
+      "answers": [
+        "Padişah (Osmanlı Padişahı)",
+        "Seçilmiş Cumhurbaşkanı",
+        "Belediye başkanı",
+        "Muhtar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Osmanlı döneminde yönetim monarşiydi ve devletin başında padişah vardı."
+    },
+    {
+      "id": "Q_5_4_019",
+      "questionText": "İstediğimiz bilgiyi edinme, gazeteleri okuma ve düşüncelerimizi başkalarıyla paylaşma özgürlüğü hangi haktan gelir?",
+      "answers": [
+        "Düşünce ve ifade özgürlüğü",
+        "Mülkiyet hakkı",
+        "Seyahat hakkı",
+        "Sağlık hakkı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Düşünce ve ifade özgürlüğü temel insan haklarındandır."
+    },
+    {
+      "id": "Q_5_4_020",
+      "questionText": "Okulunda kulüp seçimlerinde oy kullanan bir öğrenci hangi değeri deneyimlemiş olur?",
+      "answers": [
+        "Demokrasi ve katılım kültürü",
+        "Baskıcı yönetim",
+        "Bireyselcilik",
+        "Monarşi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Oy kullanmak katılımcı demokrasinin bir parçasıdır."
+    },
+    {
+      "id": "Q_5_4_021",
+      "questionText": "Aşağıdakilerden hangisi çocuk haklarının korunması için uluslararası alanda kurulmuş en önemli BM kuruluşudur?",
+      "answers": [
+        "UNICEF",
+        "NATO",
+        "WHO",
+        "UNESCO"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "UNICEF çocukların haklarını korumak ve geliştirmek için çalışan BM fonudur."
+    },
+    {
+      "id": "Q_5_4_022",
+      "questionText": "Demokratik ülkelerde yasaları uygulayan ve yürütme yetkisini elinde bulunduran temel organ kimdir?",
+      "answers": [
+        "Cumhurbaşkanı ve Bakanlar Kurulu (Hükümet)",
+        "Sadece muhtarlar",
+        "Okul müdürleri",
+        "Sadece mahkemeler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Yürütme yetkisi cumhurbaşkanı ve kabineye aittir."
+    },
+    {
+      "id": "Q_5_4_023",
+      "questionText": "Toplumda farklı görüşlerin temsil edilebilmesi için çok partili siyasi hayata geçiş neden önemlidir?",
+      "answers": [
+        "Halkın farklı alternatifler arasından tercih yapabilmesini sağladığı için",
+        "Kargaşa çıkardığı için",
+        "Tek parti yönetimini korumak için",
+        "Seçimleri kaldırmak için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Çok partili yaşam seçmene zengin alternatifler ve gerçek demokrasi sunar."
+    },
+    {
+      "id": "Q_5_4_024",
+      "questionText": "Demokrasilerde alınan kararlarda azınlığın haklarının gözetilmesi hangi ilke ile doğrudan ilişkilidir?",
+      "answers": [
+        "Adalet ve insan haklarına saygı",
+        "Baskı rejimi",
+        "Çoğunluğun tahakkümü",
+        "Tek seslilik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 2,
+      "explanation": "Adalet herkesin hakkını korumayı gerektirir."
+    },
+    {
+      "id": "Q_5_4_025",
+      "questionText": "Atatürk 'Egemenlik kayıtsız şartsız milletindir' sözü ile neyi vurgulamıştır?",
+      "answers": [
+        "Yönetim gücünün tek sahibinin halk olduğunu",
+        "Yetkinin bir aileye ait olduğunu",
+        "Padişahlığın devam etmesi gerektiğini",
+        "Ordunun devleti yönetmesi gerektiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Bu söz milli egemenlik ve cumhuriyetin özüdür."
+    },
+    {
+      "id": "Q_5_4_026",
+      "questionText": "Bir ilçede belediye başkanı park yapılmasına karar vermiştir ancak mahalle sakinleri bu alana yeşil alan yerine kapalı spor salonu yapılmasını istemektedir. Mahalle sakinleri imza kampanyası başlatıp belediyeye başvurmuştur. Bu durum aşağıdakilerden hangisinin göstergesidir?",
+      "answers": [
+        "Halkın yerel yönetim karar süreçlerine aktif katılım gösterdiğinin",
+        "Belediye başkanının halkı dinlemediğinin",
+        "Demokrasinin geçersiz olduğunun",
+        "İmza kampanyalarının suç olduğunun"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Vatandaşların hak arama yollarını kullanması ve yönetime katılma isteği demokratik bilincin göstergesidir."
+    },
+    {
+      "id": "Q_5_4_027",
+      "questionText": "Aşağıdakilerden hangisi çocukların sorumlulukları arasında yer almaz?",
+      "answers": [
+        "Vergi ödemek",
+        "Eğitim haklarını en iyi şekilde değerlendirip ders çalışmak",
+        "Evde aile bireylerine destek olmak",
+        "Çevreye ve kurallara uymak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Vergi ödemek yetişkin vatandaşların sorumluluğudur."
+    },
+    {
+      "id": "Q_5_4_028",
+      "questionText": "Türkiye Büyük Millet Meclisi ne zaman açılmıştır?",
+      "answers": [
+        "23 Nisan 1920",
+        "29 Ekim 1923",
+        "30 Ağustos 1922",
+        "19 Mayıs 1919"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "TBMM 23 Nisan 1920'de Ankara'da açılmıştır."
+    },
+    {
+      "id": "Q_5_4_029",
+      "questionText": "Demokratik bir sınıfta öğretmen öğrencilerine ödev verirken ya da etkinlik seçerken ortak fikir alıyorsa bu öğretmen hangi tutumu sergilemektedir?",
+      "answers": [
+        "Demokratik ve katılımcı tutum",
+        "Baskıcı tutum",
+        "İlgisiz tutum",
+        "Otoriter tutum"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 1,
+      "explanation": "Fikir almak katılımcı ve demokratik bir yaklaşımdır."
+    },
+    {
+      "id": "Q_5_4_030",
+      "questionText": "Türkiye Cumhuriyeti'nde kanunların Anayasa'ya uygun olup olmadığını denetleyen en yüksek mahkeme hangisidir?",
+      "answers": [
+        "Anayasa Mahkemesi",
+        "Yargıtay",
+        "Danıştay",
+        "Sayıştay"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Yaşayan Demokrasimiz",
+      "difficulty": 3,
+      "explanation": "Kanunların anayasaya uygunluğunu denetleyen kurum Anayasa Mahkemesidir."
+    }
+  ]
+}

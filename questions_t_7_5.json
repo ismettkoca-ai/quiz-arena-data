@@ -1,0 +1,425 @@
+{
+  "unit": "Okuma Kültürü",
+  "questions": [
+    {
+      "id": "Q_7_5_001",
+      "questionText": "Okuma alışkanlığı olan bir birey için aşağıdakilerden hangisi söylenemez?",
+      "answers": [
+        "Hayal gücü gelişir ve kelime hazinesi zenginleşir.",
+        "Olaylara farklı pencerelerden bakabilme yeteneği kazanır.",
+        "Zamanını boş işlerle harcayarak verimsiz geçirir.",
+        "Anlama ve kavrama becerisi diğerlerine göre daha hızlı gelişir."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Okuma alışkanlığı zamanı verimsiz harcamayı değil, aksine en verimli şekilde değerlendirmeyi sağlar."
+    },
+    {
+      "id": "Q_7_5_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'isim-fiil (mastar)' kullanılmıştır?",
+      "answers": [
+        "Kitap okumak, insan zihnini dinlendiren en etkili yöntemdir.",
+        "Yarınki kütüphane buluşması için erken saatte uyandı.",
+        "Okula doğru yürürken eski bir dostuyla karşılaştı.",
+        "Yeni çıkan romanı soluksuz bir şekilde okuyup bitirdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "'Okumak' sözcüğü -mak/-mek isim-fiil ekini alarak cümlede isim görevinde kullanılmıştır."
+    },
+    {
+      "id": "Q_7_5_003",
+      "questionText": "'Kitap kurtu' deyimi hangi anlamda kullanılır?",
+      "answers": [
+        "Çok fazla kitap okuyan, kitaba düşkün olan kimse",
+        "Eski ve yıpranmış kitapları çöpe atan kişi",
+        "Kitap yazmaktan büyük keyif alan yazar",
+        "Kütüphanede görevli olarak çalışan memur"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Sürekli kitap okuyan ve kitapsız yaşayamayan kişilere 'kitap kurtu' denir."
+    },
+    {
+      "id": "Q_7_5_004",
+      "questionText": "Hangi cümlede 'sıfat-fiil (ortaç)' kullanılmıştır?",
+      "answers": [
+        "Kütüphaneden aldığı romanı iki günde bitirdi.",
+        "Akşam evde oturup ders çalışmayı planlıyor.",
+        "Yazar, yeni kitabını imzalamak için salona geldi.",
+        "Okuma sevgisini aşılamak her öğretmenin görevidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 3,
+      "explanation": "'Aldığı' sözcüğü -dık/-dik sıfat-fiil ekini alarak 'roman' ismini nitelemiştir."
+    },
+    {
+      "id": "Q_7_5_005",
+      "questionText": "'Kitaplar bizim en sadık dostumuzdur.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Kitaplar sadık bir dosta benzetilmiştir (benzetme yönüyle ortak özellik vurgulanmıştır)."
+    },
+    {
+      "id": "Q_7_5_006",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil (bağ-fiil)' kullanılmıştır?",
+      "answers": [
+        "Kütüphaneye girer girmez en arka masaya oturdu.",
+        "Okumayı seven öğrenciler her zaman başarılı olur.",
+        "Yazarın son kitabı eleştirmenlerden tam not aldı.",
+        "Aradığım bilgiye bu ansiklopediden ulaşabilirim."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 3,
+      "explanation": "'Girer girmez' sözcüğü -r ... -mez zarf-fiil ekini alarak zaman anlamı katmıştır."
+    },
+    {
+      "id": "Q_7_5_007",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Yeni çıkan şiir kitabını almak için sahhafa uğradı.",
+        "Geç saatlere kadar okuduğu için sabah uyanamadı.",
+        "Eğer düzenli kitap okursan kelime dağarcığın gelişir.",
+        "Yazar, eserinde sade ve akıcı bir dil kullanmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Sahhafa uğramasının amacı 'şiir kitabını almaktır' ('için' edatı amaç katmıştır)."
+    },
+    {
+      "id": "Q_7_5_008",
+      "questionText": "'Kütüphane' kelimesinin sözlük anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kitapların saklandığı, okunduğu ve ödünç verildiği yer",
+        "Sadece ders çalışılan boş bir salon",
+        "Eski kitapların yakıldığı özel alan",
+        "Yazarların kitaplarını sattığı dükkan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Kütüphane, kitapların toplandığı, korunduğu ve okuyuculara sunulduğu yerdir."
+    },
+    {
+      "id": "Q_7_5_009",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Gözleri bozulduğu için artık kalın harfli kitaplar okuyor.",
+        "Yeni bir roman yazmak amacıyla köye yerleşti.",
+        "Kitap okuma yarışmasını kazanırsa ödül alacak.",
+        "Şiir kitabı masanın üzerinde sessizce duruyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Kalın harfli kitaplar okumasının nedeni 'gözlerinin bozulmasıdır'."
+    },
+    {
+      "id": "Q_7_5_010",
+      "questionText": "'Sayfa' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Varak / Sahife",
+        "Cilt",
+        "Bölüm",
+        "Satır"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Sayfa kelimesinin eş anlamlısı sahife veya varaktır."
+    },
+    {
+      "id": "Q_7_5_011",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'fiilimsi' yoktur?",
+      "answers": [
+        "Akşam evde oturup ders çalışmayı planlıyor.",
+        "Gözleri bozulduğu için artık kalın harfli kitaplar okuyor.",
+        "Kitap okumak, insan zihnini dinlendiren en etkili yöntemdir.",
+        "Bu kütüphane her gün saat sekizde açılmaktadır."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Okuma Kültürü",
+      "difficulty": 3,
+      "explanation": "'Açılmaktadır' sözcüğü çekimli bir fiildir, cümlede fiilimsi bulunmamaktadır."
+    },
+    {
+      "id": "Q_7_5_012",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Kitap okumayı alışkanlık haline getirirsen hayatın değişir.",
+        "Hayatını değiştirmek amacıyla kütüphaneye üye oldu.",
+        "Çok kitap okuduğu için yazma yeteneği gelişti.",
+        "Okuma kültürü, bireyin gelişiminde temel unsurdur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Hayatın değişmesinin koşulu 'kitap okumayı alışkanlık haline getirmendir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_5_013",
+      "questionText": "'Cilt' kelimesi hangi cümlede terim anlamıyla kullanılmıştır?",
+      "answers": [
+        "Ansiklopedinin üçüncü cildini raftan dikkatlice aldı.",
+        "Yüzünün cildini korumak için güneş kremi sürdü.",
+        "Soğuk havada ellerinin cildi iyice çatlamıştı.",
+        "Doktor, cildindeki hassasiyet için krem verdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Ansiklopedinin cildi, kitapçılık ve yayıncılık terimi olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_7_5_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Bu roman, yazarın diğer kitaplarına göre çok daha akıcıydı.",
+        "Yazar, romanında köy hayatını tüm gerçekliğiyle anlatmış.",
+        "Okuyucular, kitabın son bölümünde büyük bir sürprizle karşılaştı.",
+        "Eser, edebiyat dünyasında uzun süre konuşuldu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Romanın akıcılığı, yazarın diğer kitaplarıyla 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_5_015",
+      "questionText": "'Okur' kelimesi hangi ekle türetilmiştir?",
+      "answers": [
+        "Okumak fiil köküne gelen '-ur' sıfat-fiil ekiyle türemiştir.",
+        "İsim kökünden türemiştir.",
+        "Çekim eki almıştır.",
+        "Birleşik kelimedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 3,
+      "explanation": "'Okumak' fiiline gelen '-r/-ur' eki kalıcı isim / sıfat-fiil göreviyle sözcük türetmiştir."
+    },
+    {
+      "id": "Q_7_5_016",
+      "questionText": "Hangi cümlede 'öznel' bir yargı vardır?",
+      "answers": [
+        "Bu yazarın dili, Türk edebiyatındaki en kusursuz dildir.",
+        "Yazar 1950 yılında İstanbul'da dünyaya gelmiştir.",
+        "Roman üç bölümden ve toplam iki yüz sayfadan oluşmaktadır.",
+        "Kitap, bir köy öğretmenin başından geçenleri anlatmaktadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "'En kusursuz dil' kişisel bir beğeni içerdiği için özneldir."
+    },
+    {
+      "id": "Q_7_5_017",
+      "questionText": "'Satır aralarını okumak' deyimi ne anlama gelir?",
+      "answers": [
+        "Yazılanların gerçeğinde gizli olan asıl anlamı ve niyeti anlamak",
+        "Kitabın sadece başlıklarına ve satırlarına göz atmak",
+        "Yazım yanlışlarını bulup düzeltmek",
+        "Çok hızlı bir şekilde kitap okumak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Açıkça söylenmeyen ama metnin derinliliğinde gizli olan mesajı sezmeye 'satır aralarını okumak' denir."
+    },
+    {
+      "id": "Q_7_5_018",
+      "questionText": "Tarihi eser ve kütüphane adları büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "Millet kütüphanesinde sabaha kadar ders çalıştık.",
+        "Beyazıt Devlet Kütüphanesi çok zengin bir arşive sahiptir.",
+        "Topkapı Sarayı Kütüphanesi tarihi el yazmaları barındırır.",
+        "İzmir Milli Kütüphane araştırmacıların uğrak yeridir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Kurum ve kütüphane adları büyük harfle yazılmalıdır. 'Millet Kütüphanesi' olmalıydı."
+    },
+    {
+      "id": "Q_7_5_019",
+      "questionText": "Aşağıdaki kelimelerden hangisi ünlüyle başlayan ek aldığında 'ünsüz yumuşaması'na uğrar?",
+      "answers": [
+        "Kitap (Kitabı)",
+        "Sepet (Sepeti - t->d olur)",
+        "Çiçek (Çiçeği)",
+        "Hepsinde yumuşama görülür."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Kitap->Kitabı, Sepet->Sepeti, Çiçek->Çiçeği örneklerinin hepsinde p->b, t->d, k->ğ yumuşamaları vardır."
+    },
+    {
+      "id": "Q_7_5_020",
+      "questionText": "Hangi cümlede 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "O kadar sürükleyici bir kitaptı ki bir çırpıda dünyayı turladım.",
+        "Yazar, romanında karakterleri çok gerçekçi çizmişti.",
+        "Kütüphanedeki masada sessizce kitap okuyordu.",
+        "Akşamüstü kahve eşliğinde şiir kitabı inceledi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Bir çırpıda dünyayı turlamak fiziksel olarak imkansız olup abartma sanatına örnektir."
+    },
+    {
+      "id": "Q_7_5_021",
+      "questionText": "Paragrafın ana düşüncesi (ana fikri) bulunurken hangi soruya yanıt aranmalıdır?",
+      "answers": [
+        "Yazar bu metni yazarak okuyucuya hangi mesajı vermek istiyor?",
+        "Metin kaç paragraftan ve cümleden oluşmaktadır?",
+        "Olay hangi şehirde ve mevsimde geçmektedir?",
+        "Metindeki karakterlerin yaşları kaçar mıdır?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya aktarmak istediği temel mesajdır."
+    },
+    {
+      "id": "Q_7_5_022",
+      "questionText": "'Basım' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Neşir / Baskı",
+        "Yazar",
+        "Kapak",
+        "Sayfa"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Kitapların basılma sayısı veya basımı için baskı veya neşir kelimeleri kullanılır."
+    },
+    {
+      "id": "Q_7_5_023",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Kütüphanede ki kitapları düzenlemek bir hayli zaman aldı.",
+        "Kitap okumak da insanı zihinsel olarak dinlendirir.",
+        "Yazarın diğer kitaplarını da mutlaka okumalısın.",
+        "Akşam evde ailecek kitap okuma saati yaptık."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Buradaki '-ki' sıfat yapan ek olup bitişik yazılmalıdır ('Kütüphanedeki')."
+    },
+    {
+      "id": "Q_7_5_024",
+      "questionText": "'Yazar' kelimesinin kök türü nedir?",
+      "answers": [
+        "Yaz- (Fiil kökü)",
+        "İsim kökü",
+        "Sesteş kök",
+        "Ortak kök"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'yazmak' fiilidir."
+    },
+    {
+      "id": "Q_7_5_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yaz",
+        "Kitap",
+        "Sayfa",
+        "Yazar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "'Yaz' kelimesi mevsim olan yaz ile yazmak eylemi olarak sesteştir."
+    },
+    {
+      "id": "Q_7_5_026",
+      "questionText": "Hangi cümlede 'kişileştirme (teşhis)' sanatı vardır?",
+      "answers": [
+        "Kütüphanedeki eski kitaplar yeni okuyucularını sabırsızlıkla bekliyordu.",
+        "Masanın üzerinde duran defter mavi renkliydi.",
+        "Yazar, romanını yazarken siyah mürekkepli kalem kullandı.",
+        "Pencereden süzülen güneş ışığı masayı aydınlattı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Kitapların sabırsızlıkla bekletilmesi insani bir özellik olup kitaplara verilmiştir."
+    },
+    {
+      "id": "Q_7_5_027",
+      "questionText": "'Fikir' kelimesi ünlüyle başlayan ek aldığında ne olur? (Fikir - i)",
+      "answers": [
+        "Ünlü Düşmesi (Fikri)",
+        "Ünsüz Yumuşaması",
+        "Ünsüz Benzeşmesi",
+        "Ünlü Daralması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "Fikir kelimesi ünlü ek aldığında ikinci hecedeki 'i' ünlüsü düşer (Fikri)."
+    },
+    {
+      "id": "Q_7_5_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiil' kullanılmıştır?",
+      "answers": [
+        "Çocukluğumun en güzel yılları kütüphanelerde geçerdi.",
+        "Yazar, yeni kitabını imzalamak için masaya oturdu.",
+        "Öğrenciler sessizce okuma salonuna giriş yaptılar.",
+        "Okuduğumuz her hikaye bize yeni dünyalar açar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 3,
+      "explanation": "'Geçerdi' kelimesinde geniş zamanın hikayesi (-r-di) şeklinde ek fiil vardır."
+    },
+    {
+      "id": "Q_7_5_029",
+      "questionText": "'Önemli' kelimesinin yapısı nasıldır?",
+      "answers": [
+        "Türemiş (Önem isminden yapım eki almıştır)",
+        "Basit (Ek almamıştır)",
+        "Birleşik (İki kelimeden oluşmuştur)",
+        "Kök halindedir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 2,
+      "explanation": "'Önem' ismine gelen '-li' yapım ekiyle türemiş bir sözcüktür."
+    },
+    {
+      "id": "Q_7_5_030",
+      "questionText": "Bir toplumda okuma kültürünün gelişmesi en çok neye katkı sağlar?",
+      "answers": [
+        "Toplumun eleştirel düşünen, bilinçli ve kültürel seviyesi yüksek bireylerden oluşmasına",
+        "İnsanların sadece boş vakit geçirmesine",
+        "Kitap fiyatlarının sürekli artmasına",
+        "Kütüphanelerin kapanmasına"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Okuma Kültürü",
+      "difficulty": 1,
+      "explanation": "Okuma kültürü, bilinçli ve gelişmiş bir toplumun temel yapı taşıdır."
+    }
+  ]
+}

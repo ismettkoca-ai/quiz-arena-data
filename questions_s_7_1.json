@@ -1,0 +1,426 @@
+{
+  "unit": "Birlikte Yaşamak",
+  "questions": [
+    {
+      "id": "Q_7_1_001",
+      "questionText": "İnsanların doğdukları yerden başka bir ülke veya bölgeye ekonomik, sosyal, siyasi ya da doğal sebeplerle kalıcı veya geçici olarak yerleşmesine ne ad verilir?",
+      "answers": [
+        "Göç",
+        "Kentleşme",
+        "Asimilasyon",
+        "İzolasyon"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "İnsanların yer değiştirmesi göç olarak tanımlanır."
+    },
+    {
+      "id": "Q_7_1_002",
+      "questionText": "Aşağıdakilerden hangisi göçün 'itici (gönderici) nedenleri' arasında yer almaz?",
+      "answers": [
+        "Doğal afetler ve savaşlar",
+        "İş imkanlarının az olması",
+        "Eğitim ve sağlık imkanlarının gelişmiş olması",
+        "Can ve mal güvenliğinin tehlikede olması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Gelişmiş eğitim ve sağlık imkanları insanları çeken (çekici) nedenlerdir."
+    },
+    {
+      "id": "Q_7_1_003",
+      "questionText": "Tarihteki ilk büyük Türk göçlerinin temel sebebi aşağıdakilerden hangisidir?",
+      "answers": [
+        "İklimin kuraklaşması, otlakların azalması ve nüfus artışı",
+        "Yeni kıtalar keşfetme isteği",
+        "Sanayi devrimi",
+        "Deniz ticareti"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Orta Asya'daki kuraklık ve otlak yetersizliği Türklerin göç etmesinde ana etkendir."
+    },
+    {
+      "id": "Q_7_1_004",
+      "questionText": "Göç eden kişilerin yeni gittikleri yerin kültürüne uyum sağlaması sürecine ne ad verilir?",
+      "answers": [
+        "Kültürel uyum (Entegrasyon / Uyum)",
+        "İç göç",
+        "Mübadele",
+        "Mevsimsel hareket"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Uyum süreci entegrasyon veya kültürel uyum olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_1_005",
+      "questionText": "Ülke sınırları içerisinde bir yerleşim yerinden diğerine yapılan göçlere ne denir?",
+      "answers": [
+        "İç göç",
+        "Dış göç",
+        "Beyin göçü",
+        "Mübadele"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ülke içi hareketler iç göçü oluşturur."
+    },
+    {
+      "id": "Q_7_1_006",
+      "questionText": "İyi eğitim almış uzman, bilim insanı ve doktor gibi nitelikli kişilerin daha iyi çalışma koşulları için gelişmiş ülkelere gitmesine ne ad verilir?",
+      "answers": [
+        "Beyin göçü",
+        "Mevsimlik göç",
+        "Mübadele",
+        "Kırsal göç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Nitelikli insan gücünün başka ülkelere gitmesi beyin göçüdür."
+    },
+    {
+      "id": "Q_7_1_007",
+      "questionText": "Aşağıdakilerden hangisi hızlı göç alan büyük şehirlerde yaşanan kent sorunlarından biri DEĞİLDİR?",
+      "answers": [
+        "Çevre kirliliği ve trafik yoğunluğu",
+        "Altyapı yetersizliği ve gecekondulaşma",
+        "Tarım ve hayvancılıkta aşırı artış",
+        "Konut ve konut fiyatı artışı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Büyük şehirlerde göçle birlikte tarım artmaz, aksine kır nüfusu ve tarım alanı azalır."
+    },
+    {
+      "id": "Q_7_1_008",
+      "questionText": "Farklı kültürlerin bir arada barış içinde yaşaması ve önyargıların önlenmesinde en etkili iletişim unsuru nedir?",
+      "answers": [
+        "Empati ve hoşgörü",
+        "Baskı ve asimilasyon",
+        "İletişimi tamamen kesmek",
+        "Kalıp yargıları artırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Empati ve hoşgörü kültürel uyumun ve birlikte yaşamın temelidir."
+    },
+    {
+      "id": "Q_7_1_009",
+      "questionText": "Lozan Barış Antlaşması gereğince Türkiye ile Yunanistan arasında gerçekleştirilen zorunlu nüfus değişimine ne ad verilir?",
+      "answers": [
+        "Mübadele",
+        "İltica",
+        "Mevsimlik göç",
+        "Beyin göçü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Karşılıklı nüfus değişimine mübadele denir."
+    },
+    {
+      "id": "Q_7_1_010",
+      "questionText": "Savaş, baskı veya zulüm nedeniyle kendi ülkesinden kaçarak başka bir ülkeye sığınan kişilere ne denir?",
+      "answers": [
+        "Mülteci (Sığınmacı)",
+        "Turist",
+        "Mevsimlik işçi",
+        "Girişimci"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ülkesindeki tehlikeden kaçan kişilere mülteci denir."
+    },
+    {
+      "id": "Q_7_1_011",
+      "questionText": "Aşağıdakilerden hangisi iç göçün en önemli ekonomik nedenleri arasındadır?",
+      "answers": [
+        "Tarımda makineleşme ve köyde iş imkanlarının azalması",
+        "İklimin çok sıcak olması",
+        "Köydeki akraba ilişkileri",
+        "Geleneksel festivaller"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Tarımda makinelerin artması insan gücüne duyulan ihtiyacı azaltarak şehre göçü tetiklemiştir."
+    },
+    {
+      "id": "Q_7_1_012",
+      "questionText": "Göç alan yerlerde kültürel çeşitliliğin artması topluma nasıl bir katkı sağlar?",
+      "answers": [
+        "Farklı kültürlerin birbirini tanıyarak zenginlik oluşturmasını sağlar.",
+        "Kültürel çatışmaları tamamen bitirir.",
+        "Tek tip bir toplum yaratır.",
+        "Yerel kültürü yok eder."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Kültürel çeşitlilik toplumsal bir mozaik ve zenginlik oluşturur."
+    },
+    {
+      "id": "Q_7_1_013",
+      "questionText": "Aşağıdakilerden hangisi dış göçe örnek olarak gösterilebilir?",
+      "answers": [
+        "Ankara'dan İstanbul'a taşınmak",
+        "Türkiye'den Almanya'ya çalışmaya gitmek",
+        "Adana'dan Antalya'ya tarım işçisi gitmek",
+        "İzmir'den Van'a atanmak"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Ülke dışına yapılan hareketler dış göçtür."
+    },
+    {
+      "id": "Q_7_1_014",
+      "questionText": "Toplumda önyargıların ve ayrımcılığın önlenmesi için devletlerin ve vatandaşların atması gereken en önemli adım nedir?",
+      "answers": [
+        "İnsan haklarına saygıyı artırmak ve hukukî güvenceler sağlamak",
+        "Farklı grupları birbirinden ayırmak",
+        "Eğitim kalitesini düşürmek",
+        "Göçleri tamamen yasaklamak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "İnsan hakları ve eşitlik ilkesi ayrımcılığı önler."
+    },
+    {
+      "id": "Q_7_1_015",
+      "questionText": "Tarım işçiliği veya turizm sezonu nedeniyle yılın belirli dönemlerinde yapılan göçlere ne ad verilir?",
+      "answers": [
+        "Mevsimlik göç",
+        "Beyin göçü",
+        "Dış göç",
+        "Kalıcı göç"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Yılın belirli dönemlerinde gerçekleşen geçici göçler mevsimlik göçtür."
+    },
+    {
+      "id": "Q_7_1_016",
+      "questionText": "Aşağıdakilerden hangisi Osmanlı Devleti döneminde yaşanan göç hareketlerinden biri değildir?",
+      "answers": [
+        "Balkan Savaşları sonrası Anadolu'ya yapılan Türk göçleri",
+        "Cumhuriyet dönemi mübadele göçleri",
+        "Orta Asya'dan yapılan ilk kavimler göçü",
+        "Kafkasya'dan gelen göçler"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Kavimler Göçü Osmanlı döneminde değil, ilk çağın sonlarında (Milattan sonra 375) gerçekleşmiştir."
+    },
+    {
+      "id": "Q_7_1_017",
+      "questionText": "Göç veren yerleşim yerlerinde nüfusun azalmasıyla birlikte hangi sorun ortaya çıkabilir?",
+      "answers": [
+        "Yatırımların ve hizmetlerin (okul, hastane) verimsizleşmesi veya kapanması",
+        "Trafik sıkışıklığının artması",
+        "Konut fiyatlarının uçması",
+        "Gökdelen sayısının artması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Göç veren kırsal kesimde nüfus azalınca kamu hizmetleri tenhalaşır."
+    },
+    {
+      "id": "Q_7_1_018",
+      "questionText": "Uluslararası göçlerde göç edilen ülkenin vatandaşı olmak veya orada kalıcı yaşamak isteyen kişilerin resmi işlemlerini yürüten kurumlara ne denir?",
+      "answers": [
+        "Göç İdaresi / Konsolosluklar",
+        "Belediye zabıtası",
+        "Okul müdürlükleri",
+        "Askeri karargahlar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Göç ve vize işlemleri resmi göç idareleri tarafından yürütülür."
+    },
+    {
+      "id": "Q_7_1_019",
+      "questionText": "Birlikte yaşama kültürünü zedeleyen en büyük tehlikelerden biri olan 'ötekileştirme' ne anlama gelir?",
+      "answers": [
+        "Farklı özelliklere sahip kişileri dışlayarak kendinden farklı ve aşağı görmek",
+        "Herkesi eşit görmek",
+        "Empati kurmak",
+        "Yardımlaşmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Ötekileştirme bireyleri farklılıklarından ötürü dışlamaktır."
+    },
+    {
+      "id": "Q_7_1_020",
+      "questionText": "Türkiye Cumhuriyeti'nin kurulduğu ilk yıllarda dışarıdan gelen Türklerin yerleştirilmesi ve nüfus planlaması için hangi politika benimsenmiştir?",
+      "answers": [
+        "İskân politikası",
+        "Tecrit politikası",
+        "Sürgün politikası",
+        "Asimilasyon politikası"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Cumhuriyet döneminde de Balkanlar'dan gelen Türkler iskân kanunuyla yerleştirilmiştir."
+    },
+    {
+      "id": "Q_7_1_021",
+      "questionText": "Günümüzde gelişmiş ülkelerin dış göç alırken özellikle seçici davranmasının (nitelikli göç istemesinin) temel sebebi nedir?",
+      "answers": [
+        "Kendi ekonomik ve teknolojik kalkınmalarına katkı sağlamak",
+        "Nüfusu tamamen azaltmak",
+        "Kültürel yapıyı bozmak",
+        "İşsizliği artırmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Gelişmiş ülkeler beyin göçüyle nitelikli insanları ülkesine çeker."
+    },
+    {
+      "id": "Q_7_1_022",
+      "questionText": "Aşağıdakilerden hangisi göçlerin sonuçlarından biri olamaz?",
+      "answers": [
+        "Şehirlerde plansız kentleşmenin artması",
+        "Kırsal kesimde iş gücünün azalması",
+        "Dünya nüfusunun tamamen sıfırlanması",
+        "Kültürel etkileşimin hızlanması"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "Göçler nüfusu sıfırlamaz, yer değiştirmesine yol açar."
+    },
+    {
+      "id": "Q_7_1_023",
+      "questionText": "Bir toplumda göçmenlere karşı gösterilen misafirperverlik ve insani yardım hangi ortak değerle doğrudan ilişkilidir?",
+      "answers": [
+        "Evrensel insan hakları ve vicdan",
+        "Bencillik",
+        "Irkçılık",
+        "Düşmanlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 1,
+      "explanation": "İnsani yardım ve misafirperverlik evrensel değerlerdir."
+    },
+    {
+      "id": "Q_7_1_024",
+      "questionText": "Mevsimlik göç eden tarım işçilerinin çocuklarının eğitim süreçlerinde karşılaştığı en büyük zorluk nedir?",
+      "answers": [
+        "Okul değiştirmek zorunda kalmaları ve eğitimde aksamalar yaşamaları",
+        "Hiç ders çalışmama zorunluluğu",
+        "Okulların paralı olması",
+        "Öğretmen bulunmaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Mevsimlik göçler çocukların eğitim sürekliliğini olumsuz etkiler."
+    },
+    {
+      "id": "Q_7_1_025",
+      "questionText": "Aşağıdaki olaylardan hangisi siyasi nedenlerle yapılan göçlere örnektir?",
+      "answers": [
+        "Savaş ve ihtilallerden kaçan insanların sınır değiştirmesi",
+        "Heyelan nedeniyle köyün taşınması",
+        "Daha iyi maaş için başka şehre gitmek",
+        "Üniversite kazanıp şehir değiştirmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Savaş ve siyasi baskılar siyasi göç nedenidir."
+    },
+    {
+      "id": "Q_7_1_026",
+      "questionText": "Son yıllarda bazı köylerde internet altyapısının gelişmesi, uzaktan çalışma (home-office) imkanlarının artmasıyla birlikte büyük şehirlerden köylere doğru tersine göç hareketleri görülmeye başlanmıştır. Bu durum göçlerin hangi özelliğini gösterir?",
+      "answers": [
+        "Göçlerin nedenlerinin teknoloji ve yaşam tarzı değişiklikleriyle zamanla çeşitlenebileceğini",
+        "Göçlerin sadece köylerden şehre doğru tek yönlü olduğunu",
+        "Artık hiç kimsenin şehirde yaşamadığını",
+        "Tarımın tamamen bittiğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 3,
+      "explanation": "Teknolojik gelişmeler göç yönünü ve dinamiklerini değiştirebilmektedir."
+    },
+    {
+      "id": "Q_7_1_027",
+      "questionText": "Göç eden toplulukların gittikleri yerlerde kendi geleneklerini, dillerini ve yemeklerini yaşatmaya çalışması neyin göstergesidir?",
+      "answers": [
+        "Kültürel kimliklerini koruma çabasının",
+        "Asimilasyona uğradıklarının",
+        "Yere adapte olamadıklarının",
+        "Suç işlediklerinin"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Kendi kültürünü yaşatmak kimliği koruma refleksidir."
+    },
+    {
+      "id": "Q_7_1_028",
+      "questionText": "Aşağıdakilerden hangisi beyin göçünün kaynak ülke (göç veren ülke) açısından yarattığı en büyük olumsuzluktur?",
+      3,
+      "answers": [
+        "Kendi yetişmiş, uzman ve eğitimli insan gücünü kaybetmesi",
+        "Nüfusun çok fazla artması",
+        "Fabrikaların kapanması",
+        "İklimin bozulması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Ülkenin kalifiye insan kaynağının dışarı gitmesi kalkınmayı yavaşlatır."
+    },
+    {
+      "id": "Q_7_1_029",
+      "questionText": "Ülkemizde iç göçlerin genellikle Doğu ve Karadeniz bölgelerinden Batı ve Marmara bölgelerine doğru olmasının temel sebebi nedir?",
+      "answers": [
+        "Batı bölgelerinde sanayi, ticaret, eğitim ve iş imkanlarının daha gelişmiş olması",
+        "Doğu'da havanın sürekli güneşli olması",
+        "Batıdaki dağların daha yüksek olması",
+        "Devletin zorunlu göç ettirmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Ekonomik imkanlar ve iş olanakları iç göçün yönünü belirler."
+    },
+    {
+      "id": "Q_7_1_030",
+      "questionText": "Birlikte yaşama kültürünün yerleştiği demokratik toplumlarda göçmenlere ve azınlıklara yaklaşım nasıl olmalıdır?",
+      "answers": [
+        "İnsan hakları temelinde eşitlik, adalet ve karşılıklı saygı çerçevesinde",
+        "Dışlayıcı ve ötekileştirici",
+        "Zorla asimilasyoncu",
+        "Tamamen ilgisiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Birlikte Yaşamak",
+      "difficulty": 2,
+      "explanation": "Demokratik toplumlar insan hakları ve eşitlik temelinde kucaklayıcıdır."
+    }
+  ]
+}

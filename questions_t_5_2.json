@@ -1,0 +1,425 @@
+{
+  "unit": "Atatürk'ü Tanımak",
+  "questions": [
+    {
+      "id": "Q_5_2_001",
+      "questionText": "Hangi cümlede 'büyük harflerin yazımı' ile ilgili bir YANLIŞLIK yapılmıştır?",
+      "answers": [
+        "Mustafa kemal atatürk 1881 yılında doğdu.",
+        "Mustafa Kemal Atatürk, Selanik'te dünyaya gelmiştir.",
+        "Atatürk, 23 Nisan'da çocuklara bayram armağan etti.",
+        "Türkiye Büyük Millet Meclisi Ankara'da açıldı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Özel isimlerin (kişi ad ve soyadları) ilk harfleri büyük yazılmalıdır. 'Kemal' ve 'Atatürk' büyük harfle başlamalıydı."
+    },
+    {
+      "id": "Q_5_2_002",
+      "questionText": "'Önder' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Lider",
+        "Asker",
+        "Öğrenci",
+        "Vatandaş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Önder kelimesi, bir topluluğa yol gösteren kişi yani lider anlamına gelir."
+    },
+    {
+      "id": "Q_5_2_003",
+      "questionText": "'Atatürk, yurdu kurtarmak için Samsun'a çıktı.' cümlesindeki anlam ilişkisi nedir?",
+      "answers": [
+        "Amaç - Sonuç",
+        "Neden - Sonuç",
+        "Koşul - Sonuç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Samsun'a çıkmasının amacı 'yurdu kurtarmak'tır. 'İçin' yerine 'amacıyla' getirilebilmektedir."
+    },
+    {
+      "id": "Q_5_2_004",
+      "questionText": "Hangi cümle nesnel (kanıtlanabilir, kişiden kişiye değişmeyen) bir yargı bildirir?",
+      "answers": [
+        "Atatürk, 19 Mayıs 1919'da Samsun'a çıkmıştır.",
+        "Atatürk dünyanın en etkileyici lideridir.",
+        "Milli Mücadele dönemi çok heyecan vericidir.",
+        "En güzel bayram 29 Ekim Cumhuriyet Bayramı'dır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Atatürk'ün Samsun'a çıktığı tarih tarihi bir gerçektir ve herkesçe kanıtlanabilir. Diğer seçenekler kişisel görüştür."
+    },
+    {
+      "id": "Q_5_2_005",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'türemiş' bir kelimedir (yapım eki almıştır)?",
+      "answers": [
+        "Öncülük",
+        "Vatan",
+        "Millet",
+        "Asker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 3,
+      "explanation": "'Öncü' kelimesine '-lük' yapım eki getirilerek yeni bir anlam kazanmış türemiş bir kelime elde edilmiştir."
+    },
+    {
+      "id": "Q_5_2_006",
+      "questionText": "'Vatan' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Yurt",
+        "Millet",
+        "Bayrak",
+        "Ordu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Vatan kelimesinin eş anlamlısı yurt kelimesidir."
+    },
+    {
+      "id": "Q_5_2_007",
+      "questionText": "Belirli bir tarihi bildiren ay ve gün adları büyük harfle başlar. Buna göre hangisinin yazımı DOĞRUDUR?",
+      "answers": [
+        "29 Ekim 1923'te Cumhuriyet ilan edildi.",
+        "okullar eylül ayında açılıyor.",
+        "Atatürk 10 kasım'da vefat etti.",
+        "Bu yıl mayıs ayı çok yağmurlu geçti."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Belli bir tarih bildiren gün ve ay adları (29 Ekim 1923) büyük harfle yazılır ve ekler kesme işaretiyle ayrılır."
+    },
+    {
+      "id": "Q_5_2_008",
+      "questionText": "'Bağımsızlık' kelimesinin kökü nedir?",
+      "answers": [
+        "Bağ",
+        "Bağımsız",
+        "Bağı",
+        "Bağımsızlık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 3,
+      "explanation": "Kelimenin kökü, birbirine bağlı/bağımlı olmaktan gelen 'bağ' isim köküdür."
+    },
+    {
+      "id": "Q_5_2_009",
+      "questionText": "Tarihlerin yazımında gün, ay ve yılı ayırmak için hangi noktalama işareti KULLANILMAZ?",
+      "answers": [
+        "Virgül (,)",
+        "Nokta (.)",
+        "Eğik çizgi (/)",
+        "Kısa çizgi (-)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Tarihleri yazarken nokta, eğik çizgi veya kısa çizgi kullanılır ancak virgül kullanılmaz."
+    },
+    {
+      "id": "Q_5_2_010",
+      "questionText": "'İleri' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Geri",
+        "Yakın",
+        "Uzak",
+        "Üst"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "İleri kelimesinin karşıt (zıt) anlamlısı geri kelimesidir."
+    },
+    {
+      "id": "Q_5_2_011",
+      "questionText": "'Esaret' kelimesinin eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+      "answers": [
+        "Tutsaklık",
+        "Özgürlük",
+        "Zafer",
+        "Barış"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Esaret, birinin egemenliği altında bulunma, tutsaklık (esirlik) anlamına gelir."
+    },
+    {
+      "id": "Q_5_2_012",
+      "questionText": "Atatürk'ün 'Yurtta sulh, cihanda sulh.' sözündeki 'sulh' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Barış",
+        "Savaş",
+        "Zafer",
+        "Asker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Sulh kelimesi, barış anlamına gelir."
+    },
+    {
+      "id": "Q_5_2_013",
+      "questionText": "'Cesur' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Korkak",
+        "Yürekli",
+        "Güçlü",
+        "Akıllı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Cesur kelimesinin zıt (karşıt) anlamlısı korkak kelimesidir."
+    },
+    {
+      "id": "Q_5_2_014",
+      "questionText": "Aşağıdaki altı çizili kelimelerin hangisinde 'ünsüz yumuşaması' olmuştur?",
+      "answers": [
+        "Atatürk, bayrağı yerden kaldırdı.",
+        "Milletimiz büyük bir zafer kazandı.",
+        "Kitap okumayı çok severdi.",
+        "Cumhuriyet çok büyük bir adımdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 3,
+      "explanation": "'Bayrak' kelimesi ünlüyle başlayan bir ek aldığında sondaki 'k' sesi yumuşayarak 'ğ' sesine dönüşmüştür."
+    },
+    {
+      "id": "Q_5_2_015",
+      "questionText": "Hangi cümlede 'göz' kelimesi mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "Atatürk, ileri görüşlülüğüyle herkesin gözüne girdi.",
+        "Gözleri mavi renkteydi.",
+        "Doktor gözlüğünü masaya bıraktı.",
+        "Gözüne toz kaçtığı için yaşardı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "'Göze girmek' deyimi ilgi ve sevgi kazanmak anlamında kullanıldığı için mecazdır."
+    },
+    {
+      "id": "Q_5_2_016",
+      "questionText": "'Atatürk çok okuyan, araştıran, bilime değer veren bir liderdi.' cümlesinde virgüller hangi amaçla kullanılmıştır?",
+      "answers": [
+        "Eş görevli sözcük gruplarını ayırmak için",
+        "Sıralı cümleleri ayırmak için",
+        "Hitap kelimesinden sonra",
+        "Tırnak içinde olmayan alıntı sözleri belirtmek için"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "'Çok okuyan, araştıran, bilime değer veren' ifadeleri aynı isme (lider) ait eş görevli sıfat-fiil gruplarıdır."
+    },
+    {
+      "id": "Q_5_2_017",
+      "questionText": "'Millet' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ulus",
+        "Devlet",
+        "Ordu",
+        "Vatan"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Millet kelimesinin eş anlamlısı ulus kelimesidir."
+    },
+    {
+      "id": "Q_5_2_018",
+      "questionText": "Aşağıdakilerden hangisi bir çekim ekidir? (Kelimenin anlamını değiştirmez)",
+      "answers": [
+        "-lar / -ler",
+        "-cı / -ci",
+        "-lık / -lik",
+        "-lı / -li"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Çoğul eki olan -lar/-ler, kelimenin sadece sayısını belirtir, yeni bir anlam türetmez (çekim ekidir)."
+    },
+    {
+      "id": "Q_5_2_019",
+      "questionText": "Sayılara getirilen ekleri ayırmak için hangi noktalama işareti kullanılır? (Örn: 1919_da)",
+      "answers": [
+        "Kesme işareti (')",
+        "Virgül (,)",
+        "Nokta (.)",
+        "Tırnak işareti (\"\")"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Sayılara getirilen ekleri ayırmak için kesme işareti (1919'da) kullanılır."
+    },
+    {
+      "id": "Q_5_2_020",
+      "questionText": "Aşağıdaki kelimelerden hangisi hece düşmesine (ünlü düşmesi) uğrayabilir?",
+      "answers": [
+        "Fikir",
+        "Vatan",
+        "Asker",
+        "Bayrak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 3,
+      "explanation": "'Fikir' kelimesi ünlü ile başlayan ek aldığında (fikr-i) ikinci hecedeki 'i' ünlüsü düşer (fikri)."
+    },
+    {
+      "id": "Q_5_2_021",
+      "questionText": "Hangi cümlede öznel (kişisel) bir anlatım vardır?",
+      "answers": [
+        "Mustafa Kemal'in en güzel özelliği çocukları çok sevmesidir.",
+        "Atatürk, askeri bir okul olan Manastır Askeri İdadisinde okudu.",
+        "Cumhuriyet 1923'te kuruldu.",
+        "Atatürk'ün mezarı Anıtkabir'dedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "'En güzel özelliği' ifadesi kişinin kendi fikrini belirttiği için öznel bir anlatımdır."
+    },
+    {
+      "id": "Q_5_2_022",
+      "questionText": "'Öğretmen' kelimesi hangi ekle türetilmiştir?",
+      "answers": [
+        "Öğret - men",
+        "Öğ - retmen",
+        "Öğre - tmen",
+        "Öğretme - n"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Kelimenin kökü 'öğretmek' fiilidir. Fiilden isim yapan '-men' ekini alarak türemiştir."
+    },
+    {
+      "id": "Q_5_2_023",
+      "questionText": "'Ufuk' kelimesinin sözlük anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Gök ile yerin birleştiği gibi görünen çizgi",
+        "Çok yüksek dağların zirvesi",
+        "Denizlerdeki derin çukurlar",
+        "Güneşin doğduğu yön"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Ufuk, gök ile yerin (veya denizin) birleşiyormuş gibi göründüğü çizgiye verilen isimdir."
+    },
+    {
+      "id": "Q_5_2_024",
+      "questionText": "Hangi cümlede karşılaştırma BİLİNDİRİLMİŞTİR?",
+      "answers": [
+        "Atatürk, döneminin en zeki askeri liderlerindendi.",
+        "Atatürk çok kitap okurdu.",
+        "Atatürk, 1881 yılında doğdu.",
+        "Matematik dersini çok severdi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "'En zeki' ifadesinde Atatürk, dönemindeki diğer askeri liderlerle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_5_2_025",
+      "questionText": "Atatürk'ün hayatını okuyan bir öğrenci aşağıdakilerden hangisini yazarsa 'nesnel' bir cümle kurmuş olur?",
+      "answers": [
+        "İlk Cumhurbaşkanımız Mustafa Kemal Atatürk'tür.",
+        "Atatürk harika bir yazardır.",
+        "O, tarihteki en iyi komutandır.",
+        "Okuduğum bu kitap çok sürükleyici."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "İlk Cumhurbaşkanının Atatürk olması ispatlanabilir bir gerçek olduğu için nesneldir."
+    },
+    {
+      "id": "Q_5_2_026",
+      "questionText": "Atatürk'e 'Kemal' adını kim vermiştir? (Cümledeki özel isme gelen eki doğru yazınız)",
+      "answers": [
+        "Matematik öğretmeni'nin",
+        "Matematik öğretmeninin",
+        "matematik öğretmeninin",
+        "Matematik öğretmeni"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 3,
+      "explanation": "Meslek veya unvan adları tek başına (özel ad olmadan) kullanıldığında küçük yazılır ancak soruda cümlenin başı olduğu için büyük başlamalıdır, özel ad olmadığı için kesme işareti konmaz."
+    },
+    {
+      "id": "Q_5_2_027",
+      "questionText": "'Savaş' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Barış",
+        "Mücadele",
+        "Hücum",
+        "Savunma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 1,
+      "explanation": "Savaş kelimesinin karşıt (zıt) anlamlısı barış kelimesidir."
+    },
+    {
+      "id": "Q_5_2_028",
+      "questionText": "'Kurtuluş Savaşı yıllarında halkımız çok büyük sıkıntılar çekti.' Bu cümlede hangi kelime 'gerçek' anlamı dışında (mecaz) kullanılmıştır?",
+      "answers": [
+        "Çekti",
+        "Halkımız",
+        "Savaş",
+        "Büyük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "Çekmek kelimesi burada bir nesneyi sürüklemek değil, 'zorluklara katlanmak' anlamında mecaz olarak kullanılmıştır."
+    },
+    {
+      "id": "Q_5_2_029",
+      "questionText": "Tarihi olay, çağ ve dönem adları büyük harfle başlar. Hangi seçenekte yazım YANLIŞI vardır?",
+      "answers": [
+        "kurtuluş savaşı çok zorlu geçti.",
+        "Milli Mücadele dönemi kahramanlıklarla doludur.",
+        "Cilalı Taş Devri'nde tarım başlamıştır.",
+        "İlk Çağ'da yazının icadı önemlidir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "'Kurtuluş Savaşı' tarihi bir olay olduğu için kelimelerin ilk harfleri büyük yazılmalıdır."
+    },
+    {
+      "id": "Q_5_2_030",
+      "questionText": "Aşağıdaki kelimelerden hangisi yapısı bakımından 'basit' (yapım eki almamış) bir kelimedir?",
+      "answers": [
+        "Kitaplar",
+        "Yazar",
+        "Yurttaş",
+        "Liderlik"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Atatürk'ü Tanımak",
+      "difficulty": 2,
+      "explanation": "'Kitap' kökü sadece çoğul eki (-lar) yani çekim eki almıştır, anlamı değişmediği için yapısı basittir."
+    }
+  ]
+}

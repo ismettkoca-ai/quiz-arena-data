@@ -1,0 +1,425 @@
+{
+  "unit": "Fiilde Çatı",
+  "questions": [
+    {
+      "id": "Q_8_7_001",
+      "questionText": "Türkçe'de fiilde çatı özellikleri hangi sözcük türlerinde aranır?",
+      "answers": [
+        "Sadece isim cümlelerinde",
+        "Sadece fiil (eylem) cümlelerinde",
+        "Hem isim hem fiil cümlelerinde",
+        "Sadece zamir ve sıfatlarda"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "Fiilde çatı özellikleri sadece yüklemi fiil (eylem) olan cümlelerde aranır. İsim cümlelerinde (ek-fiil alan sözcüklerde) çatı aranmaz."
+    },
+    {
+      "id": "Q_8_7_002",
+      "questionText": "Fiilde çatı incelemesi yapılırken cümleler temel olarak kaç ana başlık altında incelenir?",
+      "answers": [
+        "Öznesine ve nesnesine göre çatılar",
+        "Anlamına ve yapısına göre çatılar",
+        "Köküne ve gövdesine göre çatılar",
+        "Zamanına ve kişisine göre çatılar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "Fiilde çatı; 'Öznesine Göre' (Etken, Edilgen, Dönüşlü, İşteş) ve 'Nesnesine Göre' (Geçişli, Geçişsiz, Ettirgen, Oldurgan) olmak üzere iki ana gruba ayrılır."
+    },
+    {
+      "id": "Q_8_7_003",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin çatısı aranmaz (yüklem isim soylu bir sözcüktür)?",
+      "answers": [
+        "Çocuklar bahçede neşeyle koşuyordu.",
+        "Annemin yaptığı yemekler çok lezzetliydi.",
+        "Yazar, son kitabını iki günde bitirdi.",
+        "Öğrenciler sınav sonuçlarını heyecanla bekliyor."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "'Annemin yaptığı yemekler çok lezzetliydi.' cümlesindeki 'lezzetliydi' sözcüğü isim kökenli olup ek-fiil alarak yüklem olmuştur; bu nedenle bu cümlede çatı aranmaz."
+    },
+    {
+      "id": "Q_8_7_004",
+      "questionText": "Gerçek öznesi bulunan ve çatısında '-l / -n' çatı eklerini almayan fiillere ne ad verilir?",
+      "answers": [
+        "Edilgen Çatı",
+        "Dönüşlü Çatı",
+        "Etken Çatı",
+        "İşteş Çatı"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "İşi yapan (gerçek özne) cümlede açıkça belirtilen ve çatı eki almamış fiillere etken çatı denir."
+    },
+    {
+      "id": "Q_8_7_005",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'etken' çatılıdır?",
+      "answers": [
+        "Salonun pencereleri sabah erkenden silindi.",
+        "Yere düşen bardak büyük bir gürültüyle kırıldı.",
+        "Öğrenciler öğretmenlerinin anlattığı konuyu dikkatle dinliyordu.",
+        "Bütün sokaklar dün gece usta ekiplerce yıkandı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "'Öğrenciler öğretmenlerinin anlattığı konuyu dikkatle dinliyordu.' cümlesindeki 'dinliyordu' fiilinin gerçek öznesi vardır ('öğrenciler') ve edilgenlik eki almamıştır; bu nedenle etkendir."
+    },
+    {
+      "id": "Q_8_7_006",
+      "questionText": "İşi yapanın (öznenin) belli olmadığı, '-l' veya '-n' ekleriyle kurulan ve cümlede 'sözde özne' barındıran fiillere ne ad verilir?",
+      "answers": [
+        "Etken Çatı",
+        "Edilgen Çatı",
+        "Dönüşlü Çatı",
+        "İşteş Çatı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "İşin başkası tarafından yapıldığı anlamını taşıyan, öznesi sözde özne olan fiiller edilgen çatılıdır."
+    },
+    {
+      "id": "Q_8_7_007",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'edilgen' çatılıdır?",
+      "answers": [
+        "Sanatçı, yeni romanını önümüzdeki ay yayımlayacak.",
+        "Çocuklar bahçede top oynarken neşeyle bağrışıyordu.",
+        "Sınav sonuçları bakanlık tarafından açıklandı.",
+        "Yaşlı adam, elindeki ağır çantayı arabaya taşıdı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Sınav sonuçları bakanlık tarafından açıklandı.' cümlesindeki 'açıklandı' fiili '-n' ekini almıştır; açıklayan (gerçek özne) cümlenin temel öznesi değildir, 'sonuçlar' sözde öznedir. Çatı edilgendir."
+    },
+    {
+      "id": "Q_8_7_008",
+      "questionText": "Öznenin işi hem kendi yaptığı hem de bu işten bizzat etkilendiği, '-l' veya '-n' ekleriyle kurulan çatılara ne ad verilir?",
+      "answers": [
+        "Edilgen Çatı",
+        "Etken Çatı",
+        "İşteş Çatı",
+        "Dönüşlü Çatı"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "Dönüşlü çatılarda gerçek özne vardır; özne işi başkasına değil, kendi kendine yapar."
+    },
+    {
+      "id": "Q_8_7_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'dönüşlü' çatılıdır?",
+      "answers": [
+        "Törenden önce bütün öğrenciler salona toplandı.",
+        "Ayna karşısına geçip yeni kıyafetiyle uzun uzun tarandı.",
+        "Okulun duvarları belediye ekiplerince boyandı.",
+        "Kaybolan kedi mahalledeki çocuklar tarafından bulundu."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Ayna karşısına geçip yeni kıyafetiyle uzun uzun tarandı.' cümlesindeki 'tarandı' fiili '-n' ekini almıştır; eylemi yapan da eylemden etkilenen de cümlenin öznesidir (gerçek özne vardır). Çatı dönüşlüdür."
+    },
+    {
+      "id": "Q_8_7_010",
+      "questionText": "Edilgen çatı ile dönüşlü çatı aynı ekleri (`-l`, `-n`) almalarına rağmen birbirinden nasıl ayırt edilir?",
+      "answers": [
+        "Edilgende gerçek özne vardır, dönüşlüde sözde özne vardır.",
+        "Edilgende işi yapan belli değildir (sözde özne vardır), dönüşlüde ise işi yapan gerçek bir özne vardır.",
+        "Dönüşlü çatılarda nesne bulunmaz, edilgende mutlaka nesne vardır.",
+        "Edilgen fiiller geçmiş zamanla çekimlenemez."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "Her ikisi de '-l/-n' alır ancak edilgende işi yapan meçhuldür (sözde özne), dönüşlüde ise özne işi bizzat kendi yapar (gerçek özne)."
+    },
+    {
+      "id": "Q_8_7_011",
+      "questionText": "Eylemin birden fazla özne tarafından karşılıklı veya birlikte yapıldığını bildiren ve '-ş' ekini alan çatılara ne ad verilir?",
+      "answers": [
+        "İşteş Çatı",
+        "Edilgen Çatı",
+        "Dönüşlü Çatı",
+        "Etken Çatı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "Karşılıklı (bakışmak, tartışmak) veya birlikte (uçuşmak, gülüşmek) anlamı katan '-ş' eki işteş çatıyı kurar."
+    },
+    {
+      "id": "Q_8_7_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin çatısı 'işteş' değildir?",
+      "answers": [
+        "İki eski dost yıllar sonra sokakta karşılaşınca uzun uzun kucaklaştı.",
+        "Komşunun çocukları bahçede neşeyle gülüşüyordu.",
+        "Maçın hakemiyle futbolcular sahada kıyasıya tartıştılar.",
+        "Sabah uyanır uyanmaz yatağını hızlıca topladı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Sabah uyanır uyanmaz yatağını hızlıca topladı.' cümlesindeki 'topladı' fiilinde işteşlik eki (-ş) yoktur ve eylem karşılıklı/birlikte yapılma anlamı taşımaz."
+    },
+    {
+      "id": "Q_8_7_013",
+      "questionText": "Nesnesine göre fiiller incelenirken bir fiilin geçişli olup olmadığını anlamak için başına hangi sözcük getirilmelidir?",
+      "answers": [
+        "Onu",
+        "O",
+        "Ben",
+        "Ona"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilde Çatı",
+      "difficulty": 1,
+      "explanation": "Fiilin başına 'Onu' sözcüğü getirilebiliyorsa (Anlamlı oluyorsa) o fiil nesne alabilir, yani geçişlidir."
+    },
+    {
+      "id": "Q_8_7_014",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'geçişli' bir fiildir (nesne alabilir)?",
+      "answers": [
+        "Bebek sabaha kadar aralıksız ağladı.",
+        "Yorucu okul gününden sonra erkenden uyudu.",
+        "Çocuk, elindeki ağır koliyi dikkatlice masaya koydu.",
+        "Yokuştan yukarıya doğru hızla koştular."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Çocuk, elindeki ağır koliyi dikkatlice masaya koydu.' cümlesindeki 'koydu' fiili 'Neyi koydu?' sorusuna yanıt verir veya başına 'onu' sözcüğünü alabilir; bu nedenle geçişlidir."
+    },
+    {
+      "id": "Q_8_7_015",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'geçişsiz' bir fiildir (nesne alamaz)?",
+      "answers": [
+        "Annem mutfakta mis kokulu kurabiyeler pişirdi.",
+        "Geçen hafta aldığım yeni romanı iki günde bitirdim.",
+        "Hava kararınca sokaktaki lambalar aniden söndü.",
+        "Öğretmenimiz tahtaya çok zor bir matematik sorusu yazdı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Hava kararınca sokaktaki lambalar aniden söndü.' cümlesindeki 'söndü' fiili nesne alamaz ('onu söndü' denilemez, neyi/kimi sorularına yanıt vermez), bu yüzden geçişsizdir."
+    },
+    {
+      "id": "Q_8_7_016",
+      "questionText": "Geçişsiz (nesne almayan) bir fiilin `-t, -tir, -r` ekleri alarak geçişli hale getirilmesiyle oluşan çatı türüne ne ad verilir?",
+      "answers": [
+        "Ettirgen Çatı",
+        "Oldurgan Çatı",
+        "Edilgen Çatı",
+        "Dönüşlü Çatı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "Geçişsizken ek alarak geçişli yapılan (oldurulan) fiillere oldurgan çatı denir (Örn: uyu-tu-du -> onu uyuttu)."
+    },
+    {
+      "id": "Q_8_7_017",
+      "questionText": "Zaten geçişli (nesne alabilen) bir fiilin `-t, -tir, -r` ekleri alarak geçişlilik derecesinin artırılması (işin başkasına yaptırılması) ile oluşan çatı türüne ne denir?",
+      "answers": [
+        "Oldurgan Çatı",
+        "Ettirgen Çatı",
+        "İşteş Çatı",
+        "Dönüşlü Çatı"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "Zaten geçişli (nesne alabilen) fiile ek getirilerek geçişliliğin artırılmasına ve işin başkasına yaptırılmasına ettirgen çatı denir (Örn: oku-tu-du -> onu okuttu)."
+    },
+    {
+      "id": "Q_8_7_018",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'oldurgan' çatılı bir fiildir?",
+      "answers": [
+        "Babasının anlattığı komik fıkraya bütün salon güldü.",
+        "Anlattığı fıkra herkesi kahkahalarla güldürdü.",
+        "Yolcular otobüse binmek için acele ediyordu.",
+        "Çocuk yorulduğu için erken saatlerde uyudu."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Anlattığı fıkra herkesi kahkahalarla güldürdü.' cümlesindeki 'gülmek' fiili geçişsizdir ('onu güldü' denmez). Ancak '-dür' ekini alarak 'güldürdü' olmuş ve nesne alabilir hale gelmiştir. Bu nedenle oldurgan çatıdır."
+    },
+    {
+      "id": "Q_8_7_019",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem 'ettirgen' çatılı bir fiildir?",
+      "answers": [
+        "Küçük çocuk, annesinin elini tutarak yürüyordu.",
+        "Bahçedeki kurumuş odunları kısa sürede yaktı.",
+        "Evinin boya ve badana işlerini ustaya yaptırdı.",
+        "Sabah uyanır uyanmaz pencereyi açtı."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Evinin boya ve badana işlerini ustaya yaptırdı.' cümlesindeki 'yapmak' fiili zaten geçişlidir ('onu yapar'). '-tır' ekini alarak geçişlilik derecesi artırılmış ve iş başkasına yaptırıldığı için ettirgen çatı olmuştur."
+    },
+    {
+      "id": "Q_8_7_020",
+      "questionText": "Oldurgan ve ettirgen çatıları birbirinden ayırt ederken uygulanması gereken en güvenli test hangisidir?",
+      "answers": [
+        "Fiilin aldığı kip ekine bakmak",
+        "Fiilin kökünün geçişli mi yoksa geçişsiz mi olduğunu bulmak",
+        "Cümlenin öznesinin gerçek mi sözde mi olduğuna bakmak",
+        "Cümlede yer tamlayıcısının olup olmadığını incelemek"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "Kökü geçişsizken geçişli yapılan fiil oldurgan, kökü zaten geçişliyken geçişliliği artırılan fiil ettirgendir. Kökün durumu test edilir."
+    },
+    {
+      "id": "Q_8_7_021",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin çatısı hem öznesine hem de nesnesine göre doğru verilmiştir?\n*Cümle:* 'Bütün salon, sanatçının eserini ayakta alkışladı.'",
+      "answers": [
+        "Etken - Geçişli",
+        "Edilgen - Geçişsiz",
+        "Dönüşlü - Geçişli",
+        "Etken - Geçişsiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "Yüklem: alkışladı. Öznesi vardır ('Bütün salon' - Etken). 'Neyi alkışladı?' sorusuna cevap verir ('sanatçının eserini' - Geçişli). Yani çatı Etken ve Geçişlidir."
+    },
+    {
+      "id": "Q_8_7_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklemin çatısı öznesine göre 'edilgen', nesnesine göre 'geçişsiz'dir?",
+      "answers": [
+        "Bu zorlu sorular öğretmen tarafından çözüldü.",
+        "Sabahleyin bütün odalar özenle temizlendi.",
+        "Toplantı salonunda uzun süre beklendi.",
+        "Yarışmayı kazanan öğrencilere ödül verildi."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Toplantı salonunda uzun süre beklendi.' cümlesindeki 'beklendi' fiili '-n' ekini almıştır ve işi yapan belli değildir (edilgen). Aynı zamanda 'onu beklendi' denilemez, nesne alamaz (geçişsizdir)."
+    },
+    {
+      "id": "Q_8_7_023",
+      "questionText": "Aşağıdaki dizelerin hangisinde yüklem etken ve geçişli bir fiildir?",
+      "answers": [
+        "Ağır ağır çıkacaksın bu merdivenlerden",
+        "Yolun sonu görünüyordu dağların ardında",
+        "Bütün bu yaşananlar derin bir hüzün bıraktı",
+        "Gözlerindeki fer yavaş yavaş sönüyordu"
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Bütün bu yaşananlar derin bir hüzün bıraktı' dizesindeki 'bıraktı' fiilinin gerçek öznesi vardır (Etken) ve 'Neyi bıraktı? -> derin bir hüzün' yanıtını alabildiği için nesne alabilir (Geçişli)."
+    },
+    {
+      "id": "Q_8_7_024",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'işteş' çatı anlamca farklıdır (karşılıklı değil, birlikte yapma anlamı katmıştır)?",
+      "answers": [
+        "İki rakip takım sahanın ortasında kıyasıya dalaştı.",
+        "Yarışmayı kazanan çocuklar sevinçten havalara uçuştu.",
+        "Sokakta karşılaşan iki arkadaş uzun süre selamlaştı.",
+        "Maç boyunca hakemle futbolcular sürekli tartıştı."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Yarışmayı kazanan çocuklar sevinçten havalara uçuştu.' cümlesindeki 'uçuştu' fiili eylemin birlikte yapıldığı anlamını katmıştır; diğer seçeneklerdeki eylemler ise karşılıklı yapılmaktadır."
+    },
+    {
+      "id": "Q_8_7_025",
+      "questionText": "Aşağıdaki cümlelerin hangisinde çatısı '-n' ekiyle kurulmuş bir 'dönüşlü' fiil vardır?",
+      "answers": [
+        "Bütün kışlık elbiseler sandıklara kaldırıldı.",
+        "Ayna karşısına geçip yeni kıyafetiyle uzun uzun gururlandı.",
+        "Sınav sonuçları hafta sonu internetten duyuruldu.",
+        "Okulun bahçesindeki yapraklar süpürüldü."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Ayna karşısına geçip yeni kıyafetiyle uzun uzun gururlandı.' cümlesindeki 'gururlandı' fiili dönüşlüdür; eylemi yapan da etkilenen de öznenin kendisidir. Diğer cümlelerdeki eylemler başkası tarafından yapılma anlamı taşıdığı için edilgendir."
+    },
+    {
+      "id": "Q_8_7_026",
+      "questionText": "Aşağıdaki cümlelerin hangisinde nesne alabilmesine rağmen cümlede nesne kullanılmamıştır (nesnesine göre geçişli olduğu halde nesnesi yoktur)?",
+      "answers": [
+        "Annem mutfakta lezzetli pastalar yaptı.",
+        "Öğretmenimiz dün bize harika bir hikaye okudu.",
+        "Genç adam, elindeki ağır kitapları masaya bıraktı.",
+        "Çocuk, odasında saatlerce sessizce okudu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Çocuk, odasında saatlerce sessizce okudu.' cümlesindeki 'okumak' fiili geçişlidir ('onu okudu' denilebilir). Ancak bu cümlede nesne görevinde bir sözcük kullanılmamıştır, buna gizli geçişli fiil denir."
+    },
+    {
+      "id": "Q_8_7_027",
+      "questionText": "Aşağıdaki cümlelerin hangisinde çatı özelliği aranmaz?",
+      "answers": [
+        "Hava son günlerde giderek soğuyordu.",
+        "Baharın gelmesiyle dağlar yeşerdi.",
+        "Yazarın son kitabı çok popülerdi.",
+        "Çocuklar bahçede top oynuyor."
+      ],
+      "correctAnswerIndex": 2,
+      "category": "Fiilde Çatı",
+      "difficulty": 2,
+      "explanation": "'Yazarın son kitabı çok popülerdi.' cümlesindeki 'popülerdi' sözcüğü isim kökenli bir kelimedir ve ek-fiil alarak yüklem olmuştur; isim cümlelerinde çatı aranmaz."
+    },
+    {
+      "id": "Q_8_7_028",
+      "questionText": "Aşağıdaki cümlelerin hangisinde yüklem öznesine göre 'etken', nesnesine göre 'ettirgen' çatılıdır?",
+      "answers": [
+        "Evin bütün camlarını dün temizlettim.",
+        "Yere düşen çocuk acıyla ağladı.",
+        "Salondaki halılar özenle yıkandı.",
+        "Öğrenciler dersi büyük bir dikkatle dinliyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Evin bütün camlarını dün temizlettim.' cümlesinin öznesi gerçek ve gizlidir (ben - etken). 'Temizlemek' fiili geçişliyken '-t' ekini alarak eylemi başkasına yaptırma anlamı kazanmış ve ettirgen olmuştur."
+    },
+    {
+      "id": "Q_8_7_029",
+      "questionText": "Aşağıdaki cümlelerin hangisinde fiil '-ş' eki aldığı halde eylemin karşılıklı veya birlikte yapıldığı (işteşlik) anlamı yoktur?",
+      "answers": [
+        "Çocuklar parkta neşeyle koşuşuyordu.",
+        "İki arkadaş yolda karşılaşınca uzun süre bakıştı.",
+        "Gökyüzündeki kuşlar baharın gelişiyle uçuştu.",
+        "Yeni okuluna ve arkadaşlarına kısa sürede alıştı."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Alıştı' fiilindeki '-ş' sesi işteşlik anlamı (birlikte veya karşılıklı yapma) katmamıştır; eylem tek başına yapılmıştır. Diğer cümlelerdeki 'koşuşmak', 'bakışmak' ve 'uçuşmak' eylemleri işteşlik bildirir."
+    },
+    {
+      "id": "Q_8_7_030",
+      "questionText": "Aşağıdaki cümlelerin hangisinde çatı özellikleri bakımından diğerlerinden farklı bir fiil kullanılmıştır?",
+      "answers": [
+        "Bütün sokaklar belediye ekiplerince ilaçlandı.",
+        "Kırılan pencere camı kısa sürede takıldı.",
+        "Yıllardır beklenen müjdeli haber sonunda alındı.",
+        "Adam, kapının zilini çalınca hızla kapıya koştu."
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Fiilde Çatı",
+      "difficulty": 3,
+      "explanation": "'Adam, kapının zilini çalınca hızla kapıya koştu.' cümlesindeki 'koştu' fiili etken çatılıdır; işi bizzat özne yapmıştır. Diğer cümlelerdeki fiiller ise edilgen çatılıdır (işi yapan belli değildir)."
+    }
+  ]
+}

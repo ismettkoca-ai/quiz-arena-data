@@ -1,0 +1,425 @@
+{
+  "unit": "Bir Hilal Uğruna",
+  "questions": [
+    {
+      "id": "Q_7_2_001",
+      "questionText": "'İstiklal' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Bağımsızlık",
+        "Esaret",
+        "Tutsaklık",
+        "Savaş"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "İstiklal kelimesi, bir milletin özgürlüğü yani bağımsızlığı anlamına gelir."
+    },
+    {
+      "id": "Q_7_2_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiil (ek eylem)' kullanılarak bir isim yüklem olmuştur?",
+      "answers": [
+        "Çanakkale, Türk tarihinin en destansı zaferlerinden biriydi.",
+        "Askerler cephede düşmana karşı büyük bir cesaretle savaşıyordu.",
+        "Komutan, askerlerine saldırı emrini az önce vermişti.",
+        "Şehitler tepesi hiçbir zaman boş kalmayacak."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 3,
+      "explanation": "'Biriydi' kelimesi 'biri' zamirine ek fiilin hikayesi (-idi) gelerek yüklem olmuştur."
+    },
+    {
+      "id": "Q_7_2_003",
+      "questionText": "'Canını dişine takmak' deyimi hangi durumu ifade eder?",
+      "answers": [
+        "Zorlu bir mücadelede var gücüyle, büyük bir fedakarlıkla çalışmak",
+        "Çok korkup cepheden kaçmak",
+        "Yaralanıp hastaneye kaldırılmak",
+        "Açlık çekmek ve yemek aramak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Büyük bir tehlike veya zorluk karşısında en üst düzeyde gayret göstermeye canını dişine takmak denir."
+    },
+    {
+      "id": "Q_7_2_004",
+      "questionText": "Hangi cümlede 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Vatanı korumak amacıyla cepheye koştular.",
+        "Vatan sevgisinden dolayı gözünü kırpmadan ileri atıldı.",
+        "Eğer birlik olursak bu savaşı kazanırız.",
+        "Çanakkale Savaşı, milletimizin kahramanlık destanıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Cepheye koşmalarının amacı 'vatanı korumak'tır ('amacıyla' kelimesi yer alır)."
+    },
+    {
+      "id": "Q_7_2_005",
+      "questionText": "'Esaret' kelimesinin zıt anlamlısı nedir?",
+      "answers": [
+        "Özgürlük / Hürriyet",
+        "Tutsaklık",
+        "Savaş",
+        "Zafer"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Esaret kelimesinin zıttı hürriyet (özgürlük) kelimesidir."
+    },
+    {
+      "id": "Q_7_2_006",
+      "questionText": "Tarihi olay ve dönem adları büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "Çanakkale savaşı tarihin akışını değiştirmiştir.",
+        "Kurtuluş Savaşı milletimizin direniş simgesidir.",
+        "I. Dünya Savaşı Osmanlı İmparatorluğu'nu sarsmıştır.",
+        "Milli Mücadele dönemi kahramanlıklarla doludur."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Tarihi olay adları olan 'Çanakkale Savaşı' kelimelerinin her ikisi de büyük yazılmalıdır."
+    },
+    {
+      "id": "Q_7_2_007",
+      "questionText": "'Bayrak, rüzgarda özgürce dalgalanıyordu.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Özgürce dalgalanma eylemi bayrağa verilerek kişileştirme sanatı yapılmıştır."
+    },
+    {
+      "id": "Q_7_2_008",
+      "questionText": "Aşağıdaki kelimelerden hangisinde 'ünsüz benzeşmesi (sertleşmesi)' vardır?",
+      "answers": [
+        "Sınıfta (Sınıf-ta)",
+        "Yolcu",
+        "Gözler",
+        "Evimiz"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Sert ünsüzle (f, s, t, k, ç, ş, h, p) biten 'sınıf' sözcüğüne yumuşak ünsüzle başlayan '-da' eki gelmiş ve ek sertleşerek '-ta' olmuştur."
+    },
+    {
+      "id": "Q_7_2_009",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Şehitlerimizin kahramanlıkları dilden dile dolaştığı için asla unutulmayacaklar.",
+        "Tarihimizi öğrenmek amacıyla bu müzeyi ziyaret ettik.",
+        "Eğer vatanımızı korursak geleceğimiz güven altında olur.",
+        "Çanakkale geçilmez, bunu bütün dünyaya gösterdik."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Unutulmayacaklarının nedeni 'kahramanlıklarının dilden dile dolaşmasıdır'."
+    },
+    {
+      "id": "Q_7_2_010",
+      "questionText": "'Şehit' kelimesinin sözlük anlamı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Kutsal bir inanç, vatan veya millet uğrunda hayatını kaybeden kimse",
+        "Savaştan gazi olarak dönen asker",
+        "Düşman ordusunun komutanı",
+        "Barış antlaşmasını imzalayan devlet adamı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Vatan ve din uğruna canını veren kişilere şehit denir."
+    },
+    {
+      "id": "Q_7_2_011",
+      "questionText": "'Bir hilal uğruna batan güneşler' sözünde 'güneş' kelimesi hangi anlamda kullanılmıştır?",
+      "answers": [
+        "Mecaz Anlam (Şehit düşen kahraman askerler)",
+        "Gerçek Anlam (Gökyüzündeki ısı ve ışık kaynağı)",
+        "Terim Anlam (Astronomi terimi)",
+        "Sesteş Anlam"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Güneş kelimesi burada gökyüzündeki yıldız değil, vatan için hayatını kaybeden şehitleri temsil eden mecaz bir kullanımdır."
+    },
+    {
+      "id": "Q_7_2_012",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Şühedanın izinden gidersen bu vatan her zaman payidar kalır.",
+        "Vatan sevgisini yüreğinde hissettiği için çok mutluydu.",
+        "Çanakkale'yi görmek amacıyla şehitliğe gittiler.",
+        "Milletimiz bağımsızlığı uğruna büyük fedakarlıklar yaptı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Vatanın payidar kalmasının koşulu 'şühedanın izinden gitmektir' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_2_013",
+      "questionText": "'Fedakarlık' kelimesinin kökü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Feda (İsim kökü)",
+        "Fedakar (İsim kökü)",
+        "Feda- (Fiil kökü)",
+        "Fedakarlık (Kök)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 3,
+      "explanation": "Kelimenin en küçük anlamlı kökeni 'feda' isim köküdür."
+    },
+    {
+      "id": "Q_7_2_014",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Bu savaş, tarihteki diğer savaşlara göre çok daha kanlı ve zorluydu.",
+        "Askerlerimiz cephede düşmanla kahramanca mücadele etti.",
+        "Çanakkale'de binlerce vatan evladı şehit düştü.",
+        "Bağımsızlık, her milletin en temel hakkıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Savaşın zorluğu, diğer savaşlarla 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_2_015",
+      "questionText": "'Alın teri' tamlamasının türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Tamlayanın (alın) ek almadığı, tamlananın (ter-i) iyelik eki aldığı tamlamalar belirtisiz isim tamlamasıdır."
+    },
+    {
+      "id": "Q_7_2_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiilin hikayesi (-idi)' kullanılarak çekimlenmiş bir fiil vardır?",
+      "answers": [
+        "Askerler günlerdir uykusuz ve yorgundu.",
+        "Düşman birlikleri sınırımıza doğru ilerliyordu.",
+        "Yarın sabah erken saatte cepheye hareket edeceğiz.",
+        "Kahramanlarımıza layık olmak için çok çalışmalıyız."
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 3,
+      "explanation": "'İlerliyor-du' fiili şimdiki zamanın hikayesi (-iyor-du) ile çekimlenmiştir. (A şıkkında ise isim ek fiil almıştır)."
+    },
+    {
+      "id": "Q_7_2_017",
+      "questionText": "'Toprak, eğer uğrunda ölen varsa vatandır.' cümlesindeki 'eğer' bağlacı cümleye hangi anlamı katmaktadır?",
+      "answers": [
+        "Şart (Koşul)",
+        "Neden",
+        "Amaç",
+        "Karşılaştırma"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "'Eğer' kelimesi cümleye şart (koşul) anlamını pekiştirerek katar."
+    },
+    {
+      "id": "Q_7_2_018",
+      "questionText": "'Göğüs germek' deyiminin anlamı nedir?",
+      "answers": [
+        "Zorluklar, engeller ve sıkıntılar karşısında pes etmeyip direnmek",
+        "Çok hastalanıp hastaneye yatmak",
+        "Büyük bir zafer kazanıp sevinmek",
+        "Düşmana teslim olmak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Karşılaşılan her türlü güçlüğe karşı cesaretle direnmeye göğüs germek denir."
+    },
+    {
+      "id": "Q_7_2_019",
+      "questionText": "Aşağıdaki kelimelerden hangisi ünlüyle başlayan ek aldığında 'ünsüz yumuşaması'na uğrar?",
+      "answers": [
+        "Millet (Millete)",
+        "Cephe (Cepheye - yumuşama yok, e harfi)",
+        "Asker (Askeri - yumuşama yok)",
+        "Toprak (Toprağa - p->b/ğ, evet p harfi b veya ğ olur -> Toprağa)"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "'Toprak' kelimesi ünlüyle başlayan ek aldığında sondaki sert 'k' ünsüzü yumuşayarak 'ğ' harfine dönüşür (Toprağa)."
+    },
+    {
+      "id": "Q_7_2_020",
+      "questionText": "Hangi cümlede 'öznel' bir yargı vardır?",
+      "answers": [
+        "Çanakkale Savaşı, Türk milletinin kazandığı en görkemli zaferdir.",
+        "Çanakkale Deniz Savaşı 18 Mart 1915'te gerçekleşmiştir.",
+        "Gelibolu Yarımadası, Çanakkale il sınırları içerisindedir.",
+        "Savaşta pek çok ulusun askerleri hayatını kaybetmiştir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "'En görkemli zafer' ifadesi kişisel bir beğeni ve duygu içerdiği için özneldir."
+    },
+    {
+      "id": "Q_7_2_021",
+      "questionText": "'Şanlı' kelimesinin yapı özellikleri için ne söylenebilir?",
+      "answers": [
+        "Şan isminden türemiş yapım eki almış bir sözcüktür.",
+        "Basit yapılı bir kelimedir.",
+        "İki kelimenin birleşmesiyle oluşmuştur.",
+        "Kök halindedir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "'Şan' isim köküne gelen '-lı' yapım ekiyle türemiştir."
+    },
+    {
+      "id": "Q_7_2_022",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Mehmetçiklerin attığı mermiler gökyüzünü kapladı.",
+        "Askerler siperlerde düşmanı bekliyordu.",
+        "Komutan askerlerine moral konuşması yaptı.",
+        "Çatışma saatlerce aralıksız sürdü."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Mermilerin gökyüzünü kaplaması fiziksel olarak imkansız olup durumu çok abartılı anlatan bir ifadedir."
+    },
+    {
+      "id": "Q_7_2_023",
+      "questionText": "Paragrafın ana fikri (ana düşüncesi) bulunurken sorulması gereken temel soru hangisidir?",
+      "answers": [
+        "Yazar bu metni yazarak okuyucuya hangi mesajı vermek istiyor?",
+        "Metin kaç kelimeden oluşmaktadır?",
+        "Olay hangi mevsimde geçmektedir?",
+        "Yazarın en sevdiği renk nedir?"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Ana fikir, yazarın okuyucuya ulaştırmak istediği asıl mesajı bulmaya yarar."
+    },
+    {
+      "id": "Q_7_2_024",
+      "questionText": "'Kan' kelimesi hangi cümlede mecaz anlamda kullanılmıştır?",
+      "answers": [
+        "İki aile arasında uzun süredir kan davası sürüyordu.",
+        "Yaralı askere acilen kan verilmesi gerekiyordu.",
+        "Sağlık ocağında tahlil için kan tahlili yaptırdı.",
+        "Düşen çocuğun dizinden kan akıyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "'Kan davası'ndaki kan kelimesi fiziksel kırmızı sıvı değil, soy ve can alımı anlamında mecazdır."
+    },
+    {
+      "id": "Q_7_2_025",
+      "questionText": "Aşağıdaki kelimelerden hangisi eş sesli (sesteş) bir kelimedir?",
+      "answers": [
+        "Yaz",
+        "Vatan",
+        "Şehit",
+        "Asker"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "'Yaz' kelimesi mevsim olan yaz ile yazmak eylemi (yaz!) olarak sesteştir."
+    },
+    {
+      "id": "Q_7_2_026",
+      "questionText": "Bağlaç olan 'de / da' ayrı yazılır. Hangi cümlede yazım yanlışı vardır?",
+      "answers": [
+        "Mehmetçik cephe de büyük bir direniş gösterdi.",
+        "Vatan sevgisi her bireyin kalbinde yer almalıdır.",
+        "Bayrağımız göklerde gururla dalgalanıyor.",
+        "Şehitlerimizi hiçbir zaman unutmayacağız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 2,
+      "explanation": "Bulunma hal eki olan '-de' bitişik yazılmalıdır. 'Cephede' şeklinde yazılması gerekirdi."
+    },
+    {
+      "id": "Q_7_2_027",
+      "questionText": "'Yurt' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Vatan",
+        "Gurbet",
+        "Dağ",
+        "Şehir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Yurt kelimesinin eş anlamlısı vatan kelimesidir."
+    },
+    {
+      "id": "Q_7_2_028",
+      "questionText": "'Omuz omuza vermek' deyimi hangi anlama gelir?",
+      "answers": [
+        "Dayanışma içinde olmak, birlikte mücadele etmek",
+        "Kavga etmek ve birbirine küsmek",
+        "Sırt sırta verip uyumak",
+        "Yaralanıp hastaneye gitmek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Ortak bir amaç uğruna herkesin birbirine destek olarak dayanışma göstermesine omuz omuza vermek denir."
+    },
+    {
+      "id": "Q_7_2_029",
+      "questionText": "Aşağıdaki kelimelerden hangisi 'somut' bir kelimedir?",
+      "answers": [
+        "Toprak",
+        "Vatanseverlik",
+        "Cesaret",
+        "Özgürlük"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Toprak dokunulabilen ve görülebilen somut bir maddedir."
+    },
+    {
+      "id": "Q_7_2_030",
+      "questionText": "Bir milletin bağımsızlığını korumak için gösterdiği fedakarlığın temel motivasyonu nedir?",
+      "answers": [
+        "Vatan ve bayrak sevgisi",
+        "Maddi kazanç elde etme isteği",
+        "Ün ve şöhret kazanma arzusu",
+        "Başka milletleri ele geçirme hırsı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Bir Hilal Uğruna",
+      "difficulty": 1,
+      "explanation": "Milletlerin bağımsızlık mücadelesindeki en büyük gücü vatan ve bayrak sevgisidir."
+    }
+  ]
+}

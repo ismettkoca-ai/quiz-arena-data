@@ -1,0 +1,425 @@
+{
+  "unit": "Türk Sanatı",
+  "questions": [
+    {
+      "id": "Q_7_4_001",
+      "questionText": "Toprak, su ve boyanın uyumuyla su yüzeyinde yapılan geleneksel Türk süsleme sanatı hangisidir?",
+      "answers": [
+        "Ebru sanatı",
+        "Hat sanatı",
+        "Tezhip",
+        "Minyatür"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Kitreyle yoğunlaştırılmış su üzerine boyalarla desen verilerek kağıda aktarılan sanat ebru sanatıdır."
+    },
+    {
+      "id": "Q_7_4_002",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'ek fiilin (ek eylemin) geniş zamanı' kullanılmıştır?",
+      "answers": [
+        "Geleneksel sanatlarımız kültürümüzün en önemli aynasıdır.",
+        "Mimar Sinan, Osmanlı döneminin en büyük mimarıydı.",
+        "Eski çiniler müzede büyük bir hayranlıkla sergileniyordu.",
+        "Yarınki sergi için bütün hazırlıklar tamamlanmıştı."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "'Aynasıdır' sözcüğündeki '-dır/-dir' ek fiilin geniş zaman 3. tekil şahıs ekidir (veya düşebilir)."
+    },
+    {
+      "id": "Q_7_4_003",
+      "questionText": "'Ebru sanatçısı, renkleri suyun üstünde adeta bir dansa kaldırıyordu.' cümlesinde hangi söz sanatı vardır?",
+      "answers": [
+        "Kişileştirme (Teşhis)",
+        "Benzetme (Teşbih)",
+        "Konuşturma (İntak)",
+        "Tezat (Karşıtlık)"
+      ],
+      "correctAnswerIndex": 1,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Renklerin dans etmesi insani bir özellik olup suya/renklere verilerek kişileştirme yapılmıştır."
+    },
+    {
+      "id": "Q_7_4_004",
+      "questionText": "Hangi cümlede fiil 'öğrenilen (mişli) geçmiş zaman' kipiyle çekimlenmiştir?",
+      "answers": [
+        "Usta hat sanatçısı, eşsiz levhalar ortaya koymuş.",
+        "Geleneksel el sanatlarımız gelecek nesillere aktarılacak.",
+        "Müzedeki tarihi çinileri büyük bir dikkatle inceledik.",
+        "Sanatçı her gün saatlerce atölyesinde çalışıyor."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "'Ortaya koymuş' fiili -mış/-miş öğrenilen geçmiş zaman eki almıştır."
+    },
+    {
+      "id": "Q_7_4_005",
+      "questionText": "'Anlam kayması (zaman kayması)' bir fiilin kip ekinden farklı bir zaman anlamı taşımasıdır. Hangisinde anlam kayması vardır?",
+      "answers": [
+        "Yarın akşam geleneksel el sanatları sergisine gidiyoruz.",
+        "Öğrenciler müzedeki eserleri büyük bir ilgiyle inceledi.",
+        "Sanatçı, her yaz bu atölyede yeni eserler üretir.",
+        "Gelecek yıl uluslararası bir sergi düzenleyecekler."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "Cümledeki 'gidiyoruz' fiili şimdiki zaman (-yor) eki almıştır ancak anlam olarak gelecek zamanı ('gideceğiz') kastettiği için anlam kayması vardır."
+    },
+    {
+      "id": "Q_7_4_006",
+      "questionText": "Aşağıdaki metin türlerinin hangisinde yazar kendi kişisel görüşlerini, kanıtlama gereği duymadan samimi bir dille kaleme alır?",
+      "answers": [
+        "Deneme",
+        "Makale",
+        "Biyografi",
+        "Haber metni"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Deneme türünde yazar kendi düşüncelerini sanki kendi kendine konuşuyormuş gibi kanıtlama kaygısı olmadan yazar."
+    },
+    {
+      "id": "Q_7_4_007",
+      "questionText": "'Hat sanatı' kelimesinin sözlükteki tanımına en yakın ifade hangisidir?",
+      "answers": [
+        "Arap harfleri etrafında şekillenen güzel yazı yazma sanatı",
+        "Toprağın pişirilerek vazo ve tabak yapılması",
+        "Cam yüzeylerin boyanarak süslenmesi",
+        "Halılara çeşitli renklerde motifler işlenmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Hat, kamış kalem ve mürekkep kullanılarak yapılan estetik yazı sanatıdır."
+    },
+    {
+      "id": "Q_7_4_008",
+      "questionText": "Hangi cümlede 'ek fiilin hikayesi (-idi)' ile çekimlenmiş bir fiil vardır?",
+      "answers": [
+        "Eski dönemde ustalar, eserlerini büyük bir sabırla işliyordu.",
+        "Geleneksel sanatlarımız ülkemizin kültürel zenginliğini gösterir.",
+        "Yarın açılacak sergi için tüm eserler yerini aldı.",
+        "Sanatseverler müzeyi sabah saatlerinde ziyaret edecek."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "'İşliyor-du' fiili şimdiki zamanın hikayesi (-iyor-du) ile çekimlenmiştir."
+    },
+    {
+      "id": "Q_7_4_009",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'isim-fiil (mastar)' kullanılmıştır?",
+      "answers": [
+        "Çini işlemeyi öğrenmek uzun yıllar alır.",
+        "Müzede sergilenen tablolar çok eskiydi.",
+        "Sanatçı, eserini bitirip atölyeden ayrıldı.",
+        "Geleneksel motifler kıyafetleri süslüyordu."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "'İşlemeyi' sözcüğü -ma/-me isim-fiil ekini almıştır."
+    },
+    {
+      "id": "Q_7_4_010",
+      "questionText": "'Tezhip' sanatının temel malzemesi aşağıdakilerden hangisidir?",
+      "answers": [
+        "Altın tozu ve özel boyalar",
+        "Sadece su ve toprak",
+        "Renkli cam parçaları",
+        "Kurutulmuş yapraklar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Tezhip (altınlama), el yazması kitapları altın varak ve ezilmiş altın tozuyla süsleme sanatıdır."
+    },
+    {
+      "id": "Q_7_4_011",
+      "questionText": "Hangi cümlede 'sıfat-fiil (ortaç)' kullanılmıştır?",
+      "answers": [
+        "Geçmişten günümüze ulaşan eserler birer hazinedir.",
+        "Sanatla uğraşmak insanı ruhsal olarak dinlendirir.",
+        "Usta sanatçı, atölyesinde yeni bir eser tasarlıyor.",
+        "Yarışmada dereceye girenler ödüllendirildi."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "'Ulaşan' sözcüğü -an sıfat-fiil ekini alarak 'eserler' ismini nitelemiştir."
+    },
+    {
+      "id": "Q_7_4_012",
+      "questionText": "Bir kişinin kendi hayatını, yaşadığı olayları kaleme aldığı metin türüne ne ad verilir?",
+      "answers": [
+        "Otobiyografi",
+        "Biyografi",
+        "Makale",
+        "Fıkra"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Yazarın kendi yaşam öyküsünü anlattığı tür otobiyografi, başkasının anlatıldığı tür ise biyografidir."
+    },
+    {
+      "id": "Q_7_4_013",
+      "questionText": "Hangi cümlede 'zarf-fiil (bağ-fiil)' kullanılmıştır?",
+      "answers": [
+        "Eserini tamamlayıp sergi salonuna doğru yola çıktı.",
+        "Müzedeki tarihi çiniler herkesi büyüledi.",
+        "Geleneksel sanatları yaşatmak hepimizin görevidir.",
+        "Okunan her sanat kitabı ufkumuzu açar."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "'Tamamlayıp' sözcüğü -ıp/-ip zarf-fiil ekini almıştır."
+    },
+    {
+      "id": "Q_7_4_014",
+      "questionText": "'Şaheser' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Başyapıt",
+        "Sıradan eser",
+        "Yarım kalmış iş",
+        "Eski eşya"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Bir sanatçının en üstün eserine başyapıt veya şaheser denir."
+    },
+    {
+      "id": "Q_7_4_015",
+      "questionText": "Hangi cümlede 'ek fiilin rivayeti (-imiş)' kullanılmıştır?",
+      "answers": [
+        "Usta çırağına bu işin sabır gerektirdiğini söylermiş.",
+        "Eski dönemde hat sanatçıları çok değer görürdü.",
+        "Müzedeki bu eser on üçüncü yüzyıldan kalmaydı.",
+        "Yarın sanat atölyesinde yeni bir kurs başlayacak."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "Ek fiilin rivayeti -imiş ekidir (Geniş zamanın rivayeti: söyler-miş)."
+    },
+    {
+      "id": "Q_7_4_016",
+      "questionText": "Aşağıdaki cümlelerin hangisinde 'amaç-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Geleneksel motifleri incelemek amacıyla müzeye gitti.",
+        "Müzede fotoğraf çekmek yasak olduğu için uyarıldı.",
+        "Eğer sergiye erken gidersen kalabalık olmaz.",
+        "Sanat, insan ruhunu besleyen en güzel gıdadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Müzeye gitmesinin amacı 'geleneksel motifleri incelemektir' ('amacıyla' ifadesi yer alır)."
+    },
+    {
+      "id": "Q_7_4_017",
+      "questionText": "'Minyatür' sanatının en belirgin özelliği aşağıdakilerden hangisidir?",
+      "answers": [
+        "Derinlik ve gölgelendirme kurallarının olmayışı, küçük ölçekli çizilmesi",
+        "Çok büyük tuval üzerine yağlı boya ile yapılması",
+        "Sadece siyah mürekkep kullanılarak yazılması",
+        "Taş üzerine kazınarak yapılması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 3,
+      "explanation": "Minyatürlerde perspektif (derinlik) ve gölge kullanılmaz, figürler küçük boyutludur."
+    },
+    {
+      "id": "Q_7_4_018",
+      "questionText": "Hangi cümlede 'koşul (şart)' anlamı vardır?",
+      "answers": [
+        "Güzel bir ebru yapmak istiyorsan sabırlı olmalısın.",
+        "Sabırlı olduğu için harika desenler ortaya koydu.",
+        "Ebru sanatını öğrenmek amacıyla atölyeye yazıldı.",
+        "Geleneksel sanatlarımız tarihimizin aynasıdır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Güzel bir ebru yapmanın koşulu 'sabırlı olmandır' (-sa/-se eki)."
+    },
+    {
+      "id": "Q_7_4_019",
+      "questionText": "'Motif' kelimesinin eş anlamlısı nedir?",
+      "answers": [
+        "Desen / Bezeme",
+        "Fırça",
+        "Boya",
+        "Tuval"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Motif, halı, kumaş veya çini üzerinde tekrarlanan süsleme ögesi yani desendir."
+    },
+    {
+      "id": "Q_7_4_020",
+      "questionText": "Hangi cümlede 'neden-sonuç' ilişkisi vardır?",
+      "answers": [
+        "Malzemeler kaliteli olduğu için çiniler çok parlak duruyordu.",
+        "Parlak çiniler üretmek amacıyla özel fırınlar kullanıyorlar.",
+        "Eğer doğru sıcaklıkta pişerse çiniler çabuk kırılmaz.",
+        "Çini sanatı, Osmanlı döneminde zirveye ulaşmıştır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Çinilerin parlak durmasının nedeni 'malzemelerin kaliteli olmasıdır'."
+    },
+    {
+      "id": "Q_7_4_021",
+      "questionText": "'Göz kamaştırmak' deyimi hangi anlamda kullanılır?",
+      "answers": [
+        "Bir eserin güzelliğiyle herkesi hayran bırakmak",
+        "Çok parlak ışığa bakıp gözleri ağrıtmak",
+        "Gözünden yaş gelene kadar ağlamak",
+        "Karanlıkta kalıp etrafı görememek"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Göz kamaştırmak, bir şeyin üstün niteliğiyle hayranlık uyandırması anlamında mecazdır."
+    },
+    {
+      "id": "Q_7_4_022",
+      "questionText": "Aşağıdaki metin türlerinden hangisinde bilimsel bir gerçek kanıtlanmaya çalışılır?",
+      "answers": [
+        "Makale",
+        "Hikaye",
+        "Deneme",
+        "Şiir"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Makaleler bilimsel, nesnel ve kanıtlama amacı güden ciddi yazılardır."
+    },
+    {
+      "id": "Q_7_4_023",
+      "questionText": "Hangi cümlede 'karşılaştırma' yapılmıştır?",
+      "answers": [
+        "Hat sanatı, diğer süsleme sanatlarına göre çok daha fazla sabır ister.",
+        "Usta sanatçılar eserlerine adeta hayat veriyordu.",
+        "Osmanlı döneminde sarayda pek çok sanatçı desteklenirdi.",
+        "Geleneksel sanatlarımız bizim milli kimliğimizdir."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Hat sanatı ile diğer süsleme sanatları sabır yönünden 'göre' ve 'daha' kelimeleriyle karşılaştırılmıştır."
+    },
+    {
+      "id": "Q_7_4_024",
+      "questionText": "Tarihi yapı adları büyük harfle başlar. Hangi seçenekte yazım yanlışı vardır?",
+      "answers": [
+        "sultanahmet camisi mavi çinileriyle ünlüdür.",
+        "Topkapı Sarayı müzesi her yıl binlerce turist ağırlar.",
+        "Ayasofya Camisi İstanbul'un simgelerindendir.",
+        "Selimiye Camii Edirne'de yer almaktadır."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Özel isimler ve cümle başları büyük harfle başlamalıdır. 'Sultanahmet Camisi...' şeklinde yazılmalıydı."
+    },
+    {
+      "id": "Q_7_4_025",
+      "questionText": "'El sanatları' tamlamasının türü aşağıdakilerden hangisidir?",
+      "answers": [
+        "Belirtisiz İsim Tamlaması",
+        "Belirtili İsim Tamlaması",
+        "Sıfat Tamlaması",
+        "Zincirleme İsim Tamlaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Tamlayanın (el) ek almadığı, tamlananın (sanat-lar-ı) iyelik eki aldığı tamlamalar belirtisiz isim tamlamasıdır."
+    },
+    {
+      "id": "Q_7_4_026",
+      "questionText": "Aşağıdaki kelimelerden hangisi ünlüyle başlayan ek aldığında 'ünsüz yumuşaması'na uğrar?",
+      "answers": [
+        "Renk (Rengi)",
+        "Saç (Saçı)",
+        "Süt (Sütü)",
+        "Et (Eti)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "'Renk' kelimesi ünlü bir ek aldığında sonundaki 'k' sert ünsüzü yumuşayarak 'g' harfine dönüşür (Rengi)."
+    },
+    {
+      "id": "Q_7_4_027",
+      "questionText": "Bir yazarın, yaşadığı veya tanık olduğu olayları üzerinden uzun zaman geçtikten sonra kaleme aldığı yazı türüne ne denir?",
+      "answers": [
+        "Anı (Hatıra)",
+        "Günlük",
+        "Biyografi",
+        "Makale"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 2,
+      "explanation": "Geçmişte yaşanan olayların üzerinden zaman geçtikten sonra yazıldığı tür anı (hatıra) yazılarıdır."
+    },
+    {
+      "id": "Q_7_4_028",
+      "questionText": "Hangi cümlede 'abartma (mübalağa)' sanatı vardır?",
+      "answers": [
+        "Sanatçının elinden çıkan bu zarif eser dünyayı büyüledi.",
+        "Usta hat sanatçısı saatlerce masabaşında çalıştı.",
+        "Müzedeki tablolar rengarenk boyalarla yapılmıştı.",
+        "Geleneksel sanatlarımıza sahip çıkmalıyız."
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Bir eserin bütün dünyayı büyülemesi gerçeğin dışına çıkılarak yapılan bir abartmadır."
+    },
+    {
+      "id": "Q_7_4_029",
+      "questionText": "'Usta' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "answers": [
+        "Ehil / Mahir",
+        "Acemi",
+        "Çırak",
+        "Yabancı"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "İşinde çok iyi olan, maharetli kişilere usta veya ehil denir."
+    },
+    {
+      "id": "Q_7_4_030",
+      "questionText": "Geleneksel Türk sanatlarının korunması ve yaşatılmasında en temel sorumluluk kime aittir?",
+      "answers": [
+        "Toplumun tüm bireylerine ve gelecek nesillere",
+        "Sadece devlet kurumlarına",
+        "Yalnızca müze müdürlerine",
+        "Sadece yaşlı ustalara"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Türk Sanatı",
+      "difficulty": 1,
+      "explanation": "Kültürel mirasımıza ve sanatlarımıza sahip çıkmak tüm toplumun ortak sorumluluğudur."
+    }
+  ]
+}

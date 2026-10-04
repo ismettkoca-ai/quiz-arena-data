@@ -1,0 +1,425 @@
+{
+  "unit": "Ortak Mirasımız",
+  "questions": [
+    {
+      "id": "Q_7_3_001",
+      "questionText": "Tarih boyunca insanlığın ortak akıl ve birikimiyle oluşturduğu bilimsel, teknolojik, sanatsal ve kültürel değerlerin bütününe ne ad verilir?",
+      "answers": [
+        "Ortak miras",
+        "Milli mülk",
+        "Yerel kültür",
+        "Özel mülkiyet"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Tüm insanlığın ortak geçmişine ve birikimine ortak miras denir."
+    },
+    {
+      "id": "Q_7_3_002",
+      "questionText": "Avrupa'da 15. ve 16. yüzyıllarda bilim, sanat ve düşünce alanında yaşanan, skolastik düşüncenin yıkılıp özgür düşüncenin geliştiği döneme ne ad verilir?",
+      "answers": [
+        "Rönesans",
+        "Reform",
+        "Sanayi Devrimi",
+        "Kavimler Göçü"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Yeniden doğuş anlamına gelen ve Avrupa'da bilimi canlandıran dönem Rönesans'tır."
+    },
+    {
+      "id": "Q_7_3_003",
+      "questionText": "Avrupa'da katolik kilisesinin bozulmalarına karşı din alanında yapılan düzenleme ve değişim hareketlerinin adı nedir?",
+      "answers": [
+        "Reform",
+        "Rönesans",
+        "Aydınlanma",
+        "Fransız İhtilali"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Din alanındaki yenilik ve düzenleme hareketlerine Reform denir."
+    },
+    {
+      "id": "Q_7_3_004",
+      "questionText": "İnsanlığın ortak mirasına büyük katkılar sunan Türk-İslam bilginlerinden 'El-Cezeri' hangi alandaki çalışmalarıyla dünyaca tanınmıştır?",
+      "answers": [
+        "Robotik, sibernetik ve makineler (otomatlar)",
+        "Tıp ve eczacılık",
+        "Astronomi ve gözlem",
+        "Coğrafya ve haritacılık"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "El-Cezeri sibernetiğin ve mekanik makinelerin öncüsü olarak kabul edilir."
+    },
+    {
+      "id": "Q_7_3_005",
+      "questionText": "Tıp alanında yazdığı 'El-Kânûn fi't-Tıb' (Tıbbın Kanunu) adlı eseri yüzyıllarca Avrupa üniversitelerinde ders kitabı olarak okutulan Türk-İslam bilgini kimdir?",
+      "answers": [
+        "İbn-i Sina",
+        "Harezmi",
+        "Farabi",
+        "Biruni"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Avrupa'da Avicenna olarak bilinen İbn-i Sina tıp alanına damga vurmuştur."
+    },
+    {
+      "id": "Q_7_3_006",
+      "questionText": "Avrupa'da kas gücüne dayalı üretimden makineleşmeye (buhar gücüne) geçiş sürecini başlatan büyük dönüşüm hangisidir?",
+      "answers": [
+        "Sanayi İnkılabı (Devrimi)",
+        "Fransız İhtilali",
+        "Rönesans",
+        "Coğrafi Keşifler"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Sanayi Devrimi buhar gücüyle fabrikalaşmayı ve seri üretimi başlatmıştır."
+    },
+    {
+      "id": "Q_7_3_007",
+      "questionText": "1789 yılında gerçekleşen ve dünyaya 'milliyetçilik, eşitlik, adalet, özgürlük' gibi kavramları yayan önemli siyasi olay nedir?",
+      "answers": [
+        "Fransız İhtilali",
+        "İstanbul'un Fethi",
+        "Amerikan İç Savaşı",
+        "Magna Carta"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Fransız İhtilali milliyetçilik akımıyla imparatorlukların yapısını sarsmıştır."
+    },
+    {
+      "id": "Q_7_3_008",
+      "questionText": "Matbaanın Johannes Gutenberg tarafından geliştirilmesinin dünya ortak mirasına en büyük katkısı ne olmuştur?",
+      "answers": [
+        "Bilginin ve kitapların ucuzlayıp hızla çoğalarak kitlelere ulaşmasını sağlaması",
+        "Savaşların tamamen bitmesi",
+        "Yazının ilk kez icat edilmesi",
+        "Kağıdın tarihten silinmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Matbaa kitap basımını hızlandırarak okuryazarlığı ve bilimsel gelişmeyi patlatmıştır."
+    },
+    {
+      "id": "Q_7_3_009",
+      "questionText": "Aşağıdakilerden hangisi Mezopotamya uygarlıklarının insanlığa bıraktığı ortak miras unsurlarından biridir?",
+      "answers": [
+        "Yazı ve tekerlek (Sümerler)",
+        "Matematikte sıfırın kullanımı",
+        "Pusulanın icadı",
+        "Matbaa makinesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Sümerlerin bulduğu çivi yazısı ve tekerlek Mezopotamya kökenli ortak mirastır."
+    },
+    {
+      "id": "Q_7_3_010",
+      "questionText": "Aşağıdakilerden hangisi UNESCO Dünya Miras Listesi'nde yer alan Türkiye'deki kültürel/doğal miraslardan biri DEĞİLDİR?",
+      "answers": [
+        "Eiffel Kulesi",
+        "Göbeklitepe",
+        "Kapadokya",
+        "Pamukkale (Hierapolis)"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Eiffel Kulesi Fransa'nın başkenti Paris'tedir."
+    },
+    {
+      "id": "Q_7_3_011",
+      "questionText": "Coğrafya ve astronomi alanında yaptığı ölçümlerle dünyanın yarıçapını gerçeğe çok yakın hesaplayan Türk-İslam bilgini kimdir?",
+      "answers": [
+        "Biruni",
+        "Mimar Sinan",
+        "Katip Çelebi",
+        "Ali Kuşçu"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "El-Biruni boylam ve dünya çapı hesaplamalarında devrim niteliğinde çalışmalar yapmıştır."
+    },
+    {
+      "id": "Q_7_3_012",
+      "questionText": "Avrupalıların yeni ticaret yolları bulmak amacıyla okyanuslara açılmasıyla sonuçlanan gelişme hangisidir?",
+      "answers": [
+        "Coğrafi Keşifler",
+        "Sanayi Devrimi",
+        "Reform hareketleri",
+        "Haçlı Seferleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Yeni yolların bulunması Coğrafi Keşifler olarak adlandırılır."
+    },
+    {
+      "id": "Q_7_3_013",
+      "questionText": "Aydınlanma Çağı'nda akıl ve bilimi rehber edinerek evrensel fizik yasalarını (yer çekimi kanunu) bulan ünlü bilim insanı kimdir?",
+      "answers": [
+        "Isaac Newton",
+        "Aristoteles",
+        "Galileo Galilei",
+        "Thomas Edison"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Yer çekimi kanunu ve fizik kurallarıyla Isaac Newton Aydınlanma Çağı'na damga vurmuştur."
+    },
+    {
+      "id": "Q_7_3_014",
+      "questionText": "Kültürel miras ögelerinin korunması ve gelecek nesillere aktarılmasında uluslararası alanda yetkili olan ana BM kuruluşu hangisidir?",
+      "answers": [
+        "UNESCO",
+        "NATO",
+        "WHO",
+        "IMF"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "UNESCO dünya kültürel ve doğal mirasını koruma altına alır."
+    },
+    {
+      "id": "Q_7_3_015",
+      "questionText": "Sanayi Devrimi'nin hammadde ve pazar arayışını tetiklemesi hangi küresel olaya zemin hazırlamıştır?",
+      "answers": [
+        "Sömürgecilik yarışına ve I. Dünya Savaşı'na giden sürece",
+        "Coğrafi Keşiflerin başlamasına",
+        "Orta Çağ'ın kapanmasına",
+        "Feodalitenin güçlenmesine"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Sanayi devrimi sömürgecilik yarışını hızlandırmıştır."
+    },
+    {
+      "id": "Q_7_3_016",
+      "questionText": "Anadolu'da yer alan ve ilk tunç devri kalıntıları ile ünlü, tarihte Troya savaşlarına ev sahipliği yapmış antik kent neresidir?",
+      "answers": [
+        "Truva (Troya) Antik Kenti",
+        "Efes Antik Kenti",
+        "Hattuşa",
+        "Sardes"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Çanakkale sınırlarındaki Truva antik kenti dünya mirasıdır."
+    },
+    {
+      "id": "Q_7_3_017",
+      "questionText": "Aşağıdakilerden hangisi somut (maddi) olmayan kültürel miras öneklerinden biridir?",
+      "answers": [
+        "Geleneksel Türk halk oyunları ve müzikleri",
+        "Peribacaları",
+        "Topkapı Sarayı",
+        "Pamukkale travertenleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Halk oyunları ve müzikler elle tutulamayan somut olmayan mirastır."
+    },
+    {
+      "id": "Q_7_3_018",
+      "questionText": "Osmanlı Devleti'nde bilim ve akıl alanında İstanbul'da ilk rasathaneyi (gözlemevini) kuran ünlü gökbilimci kimdir?",
+      "answers": [
+        "Takiyeddin Mehmet",
+        "Ali Kuşçu",
+        "Uluğ Bey",
+        "Piri Reis"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "XVI. yüzyılda İstanbul'da rasathane kuran bilgin Takiyeddin'dir."
+    },
+    {
+      "id": "Q_7_3_019",
+      "questionText": "Rönesans'ın ilk olarak İtalya'da başlamasında hangi etken en büyük rolü oynamıştır?",
+      "answers": [
+        "Coğrafi konumu, ticaret yollarının kesişimi ve antik Roma/Yunan birikimine ev sahipliği yapması",
+        "Çok soğuk bir iklime sahip olması",
+        "Matbaanın ilk İtalya'da icat edilmesi",
+        "Savaşların hiç yaşanmaması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "İtalya ticaret merkezi ve antik birikimin buluşma noktasıydı."
+    },
+    {
+      "id": "Q_7_3_020",
+      "questionText": "Aşağıdaki bilim insanlarından hangisi 'Aydınlanma Çağı' döneminde felsefe ve insan hakları alanındaki fikirleriyle öne çıkmamıştır?",
+      "answers": [
+        "Rousseau",
+        "Montesquieu",
+        "Voltaire",
+        "İbn-i Haldun"
+      ],
+      "correctAnswerIndex": 3,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "İbn-i Haldun Türk-İslam bilginidir ve Aydınlanma çağından çok önce yaşamıştır."
+    },
+    {
+      "id": "Q_7_3_021",
+      "questionText": "Tarihte ilk alfabeyi bularak kültürel aktarımı kolaylaştıran medeniyet hangisidir?",
+      "answers": [
+        "Fenikeliler",
+        "Sümerler",
+        "Mısırlılar",
+        "Lidyalılar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Fenike alfabesi günümüz alfabelerinin temelini oluşturur."
+    },
+    {
+      "id": "Q_7_3_022",
+      "questionText": "Sanayi Devrimi ile birlikte şehirlerde nüfusun hızla artması ve fabrikaların çoğalması hangi büyük çevre sorununu doğurmuştur?",
+      "answers": [
+        "Çevre kirliliği, hava kirliliği ve küresel atık sorunları",
+        "Ormanların aniden büyümesi",
+        "Su kaynaklarının sonsuza kadar artması",
+        "Depremlerin tamamen durması"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Sanayileşme doğada kirlilik ve karbon salınımını artırmıştır."
+    },
+    {
+      "id": "Q_7_3_023",
+      "questionText": "Fransız İhtilali'nin dünyaya yaydığı 'milliyetçilik' akımı en çok hangi devlet türlerini olumsuz etkilemiştir?",
+      "answers": [
+        "Çok uluslu (imparatorluk) yapıdaki devletleri",
+        "Ulusal (tek milletli) devletleri",
+        "Küçük şehir devletlerini",
+        "Demokratik cumhuriyetleri"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Milliyetçilik akımı çok uluslu imparatorluklarda isyanlara yol açmıştır."
+    },
+    {
+      "id": "Q_7_3_024",
+      "questionText": "Aşağıdakilerden hangisi ortak miras bilincine sahip bir bireyin sergileyeceği tutumdur?",
+      "answers": [
+        "Tarihi eserleri korumak, tahrip etmemek ve gelecek nesillere aktarmak",
+        "Tarihi binalara zarar vermek",
+        "Müzeleri kapatmak",
+        "Geçmişin kalıntılarını yok saymak"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Ortak mirası korumak insanlık bilincinin gereğidir."
+    },
+    {
+      "id": "Q_7_3_025",
+      "questionText": "Orta Çağ'da Avrupa'da kilisenin her şeyi dinî kurallarla açıklamaya çalıştığı, bilimin ve özgür düşüncenin kısıtlandığı döneme ne denir?",
+      "answers": [
+        "Skolastik düşünce dönemi",
+        "Aydınlanma dönemi",
+        "Rönesans çağı",
+        "Modern çağ"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Orta çağ Avrupa'sındaki baskıcı düşünce yapısına skolastik düşünce denir."
+    },
+    {
+      "id": "Q_7_3_026",
+      "questionText": "Bir araştırmacı, İslam medeniyetinin altın çağında Endülüs (İspanya) üzerinden Avrupa'ya taşınan bilimsel eserlerin (aritmetik, tıp, astronomi) Batı dünyasındaki Rönesans'ın fitilini ateşlediğini belirtmiştir. Bu durum aşağıdakilerden hangisinin kanıtıdır?",
+      "answers": [
+        "Medeniyetlerin birbirinden etkilendiğini ve ortak mirasın bir zincir gibi halkalardan oluştuğunu",
+        "Avrupalıların bilimde dış yardıma hiç ihtiyaç duymadığını",
+        "Bilimin sadece tek bir millete ait olduğunu",
+        "Endülüs'ün bilimle hiç ilgilenmediğini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Medeniyetler birikimli olarak ilerler; İslam bilimi Avrupa'ya aktarılarak Rönesans'ı hazırlamıştır."
+    },
+    {
+      "id": "Q_7_3_027",
+      "questionText": "Aşağıdaki Türk-İslam bilginlerinden hangisi 'Optik' (ışık) bilimi üzerine yaptığı çalışmalarla Batı'da Alhazen olarak tanınmıştır?",
+      "answers": [
+        "İbnü'l-Heysem",
+        "İbn-i Sina",
+        "Harezmi",
+        "Farabi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 3,
+      "explanation": "Optik biliminin kurucusu kabul edilen İbnü'l-Heysem'dir."
+    },
+    {
+      "id": "Q_7_3_028",
+      "questionText": "Coğrafi Keşifler sonucunda yeni ticaret yollarının bulunması en çok hangi devletleri ekonomik açıdan zayıflatmıştır?",
+      "answers": [
+        "İpek ve Baharat Yolu'nu elinde tutan Osmanlı Devleti ve İslam devletlerini",
+        "İspanya ve Portekiz'i",
+        "Yeni dünya kıtasını",
+        "Amerika yerlilerini"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Eski ticaret yollarının (İpek ve Baharat) önem kaybetmesi Osmanlı ekonomisini olumsuz etkilemiştir."
+    },
+    {
+      "id": "Q_7_3_029",
+      "questionText": "Tarihte ilk yazılı kanunları (Hamurabi Kanunları) hazırlayarak evrensel hukuk mirasına katkı sunan Mezopotamya uygarlığı hangisidir?",
+      "answers": [
+        "Babilliler",
+        "Sümerler",
+        "Asurlular",
+        "Akadlar"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 2,
+      "explanation": "Sert kanunlarıyla bilinen Hamurabi Kanunları Babillilere aittir."
+    },
+    {
+      "id": "Q_7_3_030",
+      "questionText": "Aşağıdakilerden hangisi kültürel mirasın korunmasına yönelik ulusal düzeyde yapılan çalışmalardan biridir?",
+      "answers": [
+        "Müzelerin kurulması, tarihi eserlerin tescillenmesi ve kaçakçılığın önlenmesi",
+        "Tarihi binaların yıkılması",
+        "Eserlerin yabancılara satılması",
+        "Kültürel varlıkların görmezden gelinmesi"
+      ],
+      "correctAnswerIndex": 0,
+      "category": "Ortak Mirasımız",
+      "difficulty": 1,
+      "explanation": "Müzeler ve tescil işlemleri ulusal koruma tedbirleridir."
+    }
+  ]
+}
