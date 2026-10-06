@@ -244,7 +244,7 @@
       "questionText": "Makale ile Deneme arasındaki en temel fark aşağıdakilerden hangisidir?",
       "answers": [
         "Makalenin uzun, denemenin kısa olması",
-        "Makalede savunulan düşüncenin kanıtlanması zorunluyken, denemede yazarın kanıtlama zorunluluğu olmayıp kişisel görüşlerini samimi anlatması",
+        "Makalede kanıtlama zorunluluğu varken, denemede yazar kişisel görüşünü anlatır.",
         "Makalenin sadece gazetelerde, denemenin sadece dergilerde yayımlanması",
         "Makalede hikaye unsurlarının, denemede şiir unsurlarının bulunması"
       ],
@@ -257,8 +257,8 @@
       "id": "Q_8_12_019",
       "questionText": "Anı (Hatıra) ile Günlük (Jurnal) arasındaki en belirgin fark hangi seçenekte doğru verilmiştir?",
       "answers": [
-        "Anıların geçmişte yaşanıp üzerinden zaman geçtikten sonra yazılması, günlüklerin ise olayların yaşandığı gün tarih atılarak kaleme alınması",
-        "Anıların yazarın kendi hayatını, günlüklerin ise başkalarının hayatını anlatması",
+        "Anı olaydan yıllar sonra; günlük ise yaşandığı gün tarih atılarak yazılır.",
+        "Anı yazarın kendi hayatını, günlük ise başkalarının hayatını anlatır.",
         "Anıların bilimsel, günlüklerin ise edebi olması",
         "Günlüklerin çok uzun, anıların ise çok kısa yazılması"
       ],
@@ -271,7 +271,7 @@
       "id": "Q_8_12_020",
       "questionText": "Fıkra (köşe yazısı) ile Sohbet (söyleşi) türlerinin en önemli ortak yönü ve ayrıldığı yön sırasıyla hangi seçenekte doğru verilmiştir?",
       "answers": [
-        "İkisinde de kanıtlama zorunluluğu yoktur; ancak fıkra güncel olayları işlerken, sohbet daha genel toplumsal veya sanatsal konuları karşılıklı konuşma havasında işler.",
+        "İkisinde de kanıtlama yoktur; ancak fıkra güncel, sohbet genel konuları işler.",
         "İkisi de tamamen nesnel bilimsel yazılardır.",
         "İkisi de sadece roman eleştirisi yapmak için yazılır.",
         "Fıkra uzun bir romandır, sohbet ise şiirdir."
@@ -283,7 +283,7 @@
     },
     {
       "id": "Q_8_12_021",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Bu çalışmamızda, fotosentez olayının bitki hücrelerindeki kloroplast organelinde nasıl gerçekleştiğini laboratuvar verileriyle ve denklemlerle kanıtlayacağız. Yapılan deneyler sonucunda elde edilen veriler şu şekildedir...'",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n'Bu çalışmamızda, fotosentez olayının nasıl gerçekleştiğini laboratuvar verileriyle kanıtlayacağız. Elde edilen veriler şu şekildedir...'",
       "answers": [
         "Deneme",
         "Makale",
@@ -297,7 +297,7 @@
     },
     {
       "id": "Q_8_12_022",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Bana göre kitap okumak, insan ruhuna yapılan en uzun ve en keyifli yolculuktur. Ne zaman elime bir roman alıp sayfalarını çevirmeye başlasam, dış dünyanın tüm gürültüsü birden bire kesiliverir. Bilmem siz de benim gibi düşünüyor musunuz?'",
+      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n'Bana göre kitap okumak insan ruhuna yapılan en keyifli yolculuktur. Ne zaman roman okusam dünyanın gürültüsü kesilir. Siz de böyle mi düşünüyorsunuz?'",
       "answers": [
         "Sohbet (Söyleşi)",
         "Makale",
@@ -311,7 +311,7 @@
     },
     {
       "id": "Q_8_12_023",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'12 Mayıs 1995...\nBugün okuldan çıktıktan sonra uzun süredir almak istediğim o mavi kapaklı defteri sonunda aldım. Akşam odama çekilip gün boyunca kafama takılanleri bu sayfalara dökmek bana inanılmaz bir hafiflik kazandırdı.'",
+      "questionText": "Hangi türden alınmıştır?\n'12 Mayıs 1995... Bugün okuldan çıkınca o mavi kapaklı defteri aldım. Akşam odama çekilip gün boyu kafama takılanları bu sayfalara dökmek bana hafiflik kazandırdı.'",
       "answers": [
         "Anı",
         "Günlük",
@@ -325,7 +325,7 @@
     },
     {
       "id": "Q_8_12_024",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Yıllar önce, henüz mesleğimin ilk yıllarındayken küçük bir Anadolu kasabasına atanmıştım. O karlı kış gününde istasyona ilk adım attığımda yaşayacağım zorlukları henüz bilmiyordum. Şimdi o günleri gülümseyerek hatırlıyorum.'",
+      "questionText": "Hangi türden alınmış olabilir?\n'Yıllar önce mesleğimin ilk yıllarında küçük bir kasabaya atanmıştım. O karlı kış gününde yaşayacağım zorlukları henüz bilmiyordum. Şimdi o günleri gülümseyerek hatırlıyorum.'",
       "answers": [
         "Günlük",
         "Anı (Hatıra)",
@@ -339,7 +339,7 @@
     },
     {
       "id": "Q_8_12_025",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Karga, ağacın dalına konmuş ve gagasında tuttuğu peyniri yemek üzereydi. Tilki bunu görünce hemen ağacın dibine gelmiş ve kargaya hitaben, \"Ey muhteşem sesli kuş, senin sesinin güzelliğini dillerde dolaşıyor, ne olur bir şarkı söyle de dinleyelim.\" demiş.'",
+      "questionText": "Hangi türden alınmıştır?\n'Karga gagasında peynirle dala konmuş. Tilki ağacın dibine gelip \"Ey muhteşem sesli kuş, sesinin güzelliği dillerde dolaşıyor, ne olur bir şarkı söyle de dinleyelim.\" diyerek kargayı kandırmış.'",
       "answers": [
         "Masal",
         "Fabl",
@@ -353,7 +353,7 @@
     },
     {
       "id": "Q_8_12_026",
-      "questionText": "Aşağıdaki metin hangi türden alınmış olabilir?\n\n'Sabah erken saatlerde ulaştığımız Mostar Köprüsü, tarih boyunca pek çok medeniyetin izlerini barındıran muazzam bir mimari şaheserdir. Neretva Nehri'nin masmavi suları üzerinden yükselen köprünün etrafındaki taş evler, ziyaretçilere adeta orta çağ atmosferini yaşatmaktadır.'",
+      "questionText": "Hangi türden alınmıştır?\n'Sabah ulaştığımız Mostar Köprüsü muazzam bir mimari şaheserdir. Neretva Nehri üzerinden yükselen köprünün etrafındaki taş evler, ziyaretçilere adeta orta çağ atmosferini yaşatmaktadır.'",
       "answers": [
         "Gezi Yazısı",
         "Biyografi",
@@ -409,7 +409,7 @@
     },
     {
       "id": "Q_8_12_030",
-      "questionText": "I. Güncel olayları günübirlik, gazete köşelerinde işler. (Fıkra)\nII. Yaşanmış ya da yaşanması muhtemel olayları kişi, yer ve zamana bağlı anlatır. (Hikaye)\nIII. Bir bilimsel tezi belgelerle kanıtlamak için nesnel dille yazılır. (Makale)\nIV. Yazarın kendi hayatını başkalarının ağzından anlatır. (Otobiyografi)\n\nYukarıda numaralanmış metin türü açıklamalarından hangisi **yanlıştır**?",
+      "questionText": "I. Güncel olayları gazetede işler. (Fıkra)\nII. Yaşanabilir olayları anlatır. (Hikaye)\nIII. Bilimsel tezi belgelerle kanıtlar. (Makale)\nIV. Yazar hayatını başkasının ağzından anlatır. (Otobiyografi)\n\nHangi açıklama yanlıştır?",
       "answers": [
         "I",
         "II",
