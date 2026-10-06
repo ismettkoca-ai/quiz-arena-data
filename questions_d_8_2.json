@@ -160,7 +160,7 @@
       "questionText": "Zekat veya sadaka verirken uyulması gereken 'yakından uzağa' kuralı neyi ifade eder?",
       "answers": [
         "Önce başka ülkelere yardım göndermeyi",
-        "Yardıma önce ihtiyaç sahibi akrabalardan, sonra komşulardan ve daha sonra çevredeki diğer insanlardan başlanması gerektiğini",
+        "Yardıma önce ihtiyaç sahibi akrabalardan, sonra komşulardan ve çevreden başlanmasını",
         "Sadece uzak akrabalara yardım edilmesini",
         "Yardımın posta yoluyla yapılmasını"
       ],
@@ -189,7 +189,7 @@
       "answers": [
         "Yardımların mutlaka gece yapılması gerektiğinin",
         "Sadece sağ elle sadaka verilmesi gerektiğinin",
-        "Gösterişten (Riya) kaçınarak, alan kişinin onurunu kırmadan gizlice yardım etmenin",
+        "Alan kişinin onurunu kırmadan, gösterişten uzak ve gizlice yardım etmenin",
         "Yardımın sadece cami içinde yapılmasının"
       ],
       "correctAnswerIndex": 2,
@@ -203,7 +203,7 @@
       "answers": [
         "Sadece giyilmeyen, eskimiş kıyafetlerin verilmesi gerektiğini",
         "Sadece gıda verilmesi gerektiğini",
-        "Verilen malın çürük, bozuk veya atılacak türden değil; kaliteli, temiz ve kişinin kendi kullanmayı seveceği türden olması gerektiğini",
+        "Verilen malın çürük değil, kaliteli ve kişinin kendi kullanmayı seveceği türden olmasını",
         "Yardımın her gün yapılması gerektiğini"
       ],
       "correctAnswerIndex": 2,
@@ -231,7 +231,7 @@
       "answers": [
         "Sihirbazlık yapmak",
         "Savaşlardan kaçmak",
-        "Ticarette ölçü ve tartıda hile yapmak, haksız kazanç sağlamak ve insanların mallarını eksiltmek",
+        "Ticarette ölçü ve tartıda hile yapmak, insanların haklarını eksiltmek",
         "Çocuklara zarar vermek"
       ],
       "correctAnswerIndex": 2,
@@ -241,7 +241,7 @@
     },
     {
       "id": "Q_8_2_018",
-      "questionText": "Hz. Şuayb kavmine, 'Ey kavmim! Ölçüyü ve tartıyı adaletle tam yapın. İnsanların eşyalarını (mallarını ve haklarını) eksiltmeyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın' diye seslenmiştir. Bu durum İslam'ın hangi iki değerinin birbirinden ayrılamayacağını gösterir?",
+      "questionText": "Hz. Şuayb kavmine, 'Ölçüyü ve tartıyı adaletle tam yapın. İnsanların haklarını eksiltmeyin. Bozgunculuk çıkarmayın' diye seslenmiştir. Bu durum İslam'ın hangi iki değerinin ayrılmaz olduğunu gösterir?",
       "answers": [
         "İnanç ile Ticari Ahlakın (Dürüstlük)",
         "Namaz ile Orucun",
@@ -315,7 +315,7 @@
       "answers": [
         "Zenginlerin daha da zengin olmasını sağlamak",
         "Fakirlerin çalışmasını engellemek",
-        "Zengin ile fakir arasındaki kıskançlık (haset) ve düşmanlığı bitirerek gelir dağılımında adaleti ve kardeşliği sağlamak",
+        "Zenginle fakir arasındaki kıskançlığı bitirerek gelir adaletini ve kardeşliği sağlamak.",
         "Devletin vergilerini artırmak"
       ],
       "correctAnswerIndex": 2,
@@ -328,7 +328,7 @@
       "questionText": "Peygamberimiz 'Veren el, alan elden üstündür' buyurmuştur. Bu hadis, Müslümanlara zekat ve sadaka konusunda dolaylı olarak neyi tavsiye etmektedir?",
       "answers": [
         "Müslümanların sürekli başkalarından yardım beklemesi gerektiğini",
-        "Müslümanların çok çalışarak, üretip zenginleşerek başkalarına muhtaç olmadan 'yardım edecek konuma (veren el)' gelmesini",
+        "Müslümanların çalışıp üreterek başkalarına muhtaç olmadan 'veren el' konumuna gelmesini.",
         "Sadece zenginlerin değerli olduğunu",
         "İstemekten (dilenmekten) çekinmemeyi"
       ],
@@ -370,7 +370,7 @@
       "questionText": "Zengin bir kişinin hem bankada 500 bin TL nakit parası hem de ödenmesi gereken (vadesi gelmiş) 600 bin TL borcu vardır. Bu kişinin zekat yükümlülüğü için aşağıdakilerden hangisi doğrudur?",
       "answers": [
         "Hemen 500 bin TL'nin zekatını vermelidir.",
-        "Önce borçlu olduğu miktar hesaplanır, borcu elindeki parayı aştığı (artı bakiyede olmadığı) için bu kişiye zekat düşmez (farz olmaz).",
+        "Önce borç hesaplanır; borç eldeki parayı aştığı için bu kişiye zekat farz olmaz.",
         "Sadece Ramazan ayında verirse farz olur.",
         "Yarısıyla borcunu, yarısıyla zekatını ödemelidir."
       ],
@@ -384,7 +384,7 @@
       "questionText": "Peygamberimiz 'Yarım hurma ile de olsa (sadaka vererek) kendinizi ateşten koruyun' buyurmuştur. Bu hadis sadaka ibadetiyle ilgili neyi vurgular?",
       "answers": [
         "Sadece hurma verilmesi gerektiğini",
-        "Sadakanın miktarının küçük bile olsa (samimiyetle verildiğinde) Allah katında çok değerli olduğunu ve insanı cehennemden koruyabileceğini",
+        "Sadakanın miktarının küçük bile olsa samimiyetle verildiğinde Allah katında çok değerli olduğunu.",
         "Yarım hurmanın fakirleri doyuracağını",
         "Sadakanın sadece meyve ile yapılacağını"
       ],
@@ -409,11 +409,11 @@
     },
     {
       "id": "Q_8_2_030",
-      "questionText": "Analiz Sorusu: Kur'an-ı Kerim'de 'Ta ki servet, içinizden sadece zenginler arasında dolaşan bir güç (devlet) olmasın' (Haşr Suresi) ayeti yer alır. Zekat ibadetinin bu ayetteki ekonomik hedefle bağlantısı nedir?",
+      "questionText": "Analiz Sorusu: Kur'an-ı Kerim'de 'Ta ki servet, içinizden sadece zenginler arasında dolaşan bir güç olmasın' (Haşr Suresi) ayeti yer alır. Zekat ibadetinin bu ayetteki ekonomik hedefle bağlantısı nedir?",
       "answers": [
         "Paranın sadece bankalarda tutulmasını sağlamak",
         "Zenginlerin daha rahat yatırım yapmasını sağlamak",
-        "Sermayenin (paranın) toplumda tek bir zümrenin elinde birikip diğerlerini ezmesini engellemek ve paranın tabana yayılarak piyasayı canlandırmasını sağlamak",
+        "Sermayenin tek zümrede birikmesini engelleyip parayı tabana yayarak piyasayı canlandırmak.",
         "Fakirlerin ticaretten uzak durmasını sağlamak"
       ],
       "correctAnswerIndex": 2,
