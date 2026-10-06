@@ -62,7 +62,7 @@
       "questionText": "Atatürk'ün vefatı üzerine dünya basınının ve yabancı devlet adamlarının tepkisi genel olarak nasıl olmuştur?",
       "answers": [
         "Sadece Türkiye'de üzüntü yaratmış, dünyada yankı uyandırmamıştır.",
-        "Dünya genelinde büyük bir üzüntü yaratmış, tüm liderler onun dünya çapında eşsiz bir lider ve barış insanı olduğunu vurgulamıştır.",
+        "Büyük üzüntü yaratmış, eşsiz bir lider ve barış insanı olduğu vurgulanmıştır.",
         "Yabancı devletler bu durumu kutlamıştır.",
         "Sadece komşu ülkeler başsağlığı dilemiştir."
       ],
@@ -90,7 +90,7 @@
       "questionText": "II. Dünya Savaşı'nın patlak vermesi yaklaşırken İsmet İnönü liderliğindeki Türkiye Cumhuriyeti'nin dış politikadaki en temel hedefi ve stratejisi ne olmuştur?",
       "answers": [
         "Savaşa aktif olarak katılıp yeni topraklar kazanmak",
-        "Milli sınırları ve ülkeyi savaşın yıkıcı etkilerinden koruyarak 'tarafsızlık' (denge) politikası izlemek",
+        "Ülkeyi savaşın yıkıcı etkilerinden koruyup tarafsızlık politikası izlemek.",
         "Almanya'nın yanında savaşa girmek",
         "İngiltere'ye savaş ilan etmek"
       ],
@@ -104,7 +104,7 @@
       "questionText": "Atatürk'ün Türk milletine vasiyetinde belirttiği, Türk gençliğine bıraktığı en büyük emanet ve değer aşağıdakilerden hangisidir?",
       "answers": [
         "Büyük maddi servetler",
-        "Türkiye Cumhuriyeti'nin ilelebet payidar kalması, bağımsızlık ve çağdaşlaşma ülküsü",
+        "Cumhuriyetin ilelebet payidar kalması, bağımsızlık ve çağdaşlaşma ülküsü.",
         "Geniş askeri üsler",
         "Yabancı ortaklıklar"
       ],
@@ -171,9 +171,9 @@
     },
     {
       "id": "Q_8_7_013",
-      "questionText": "Atatürk'ün vefatı üzerine Amerikan basınından yayımlanan \"O, yüzyılımızın dikkate değer şahsiyetlerinden biri, savaşte kazandığı zaferleri barışta da tekrarlayan bir liderdir\" sözü onun hangi yönünü vurgular?",
+      "questionText": "Atatürk'ün vefatı üzerine Amerikan basınından yayımlanan \"O, savaşte kazandığı zaferleri barışta da tekrarlayan bir liderdir\" sözü onun hangi yönünü vurgular?",
       "answers": [
-        "Sadece savaş kazanan bir komutan olmayıp aynı zamanda büyük bir devlet adamı ve barış mimarı olduğunu",
+        "Sadece bir komutan değil, aynı zamanda büyük bir devlet adamı ve barış mimarıdır.",
         "Sadece ekonomik başarılarını",
         "Yabancı dil becerisini",
         "Padişah soyundan geldiğini"
@@ -215,7 +215,7 @@
       "id": "Q_8_7_016",
       "questionText": "Atatürk'ün vefatının ardından Türk milletinin gösterdiği yas ve üzüntü tablosu için aşağıdakilerden hangisi söylenebilir?",
       "answers": [
-        "Milletin liderine olan sevgisinin, bağlılığının ve minnettarlığının en büyük göstergesidir.",
+        "Milletin liderine olan sevgisi, bağlılığı ve minnettarlığının göstergesidir.",
         "Sadece resmi dairelerin zorunlu tuttuğu bir prosedürdür.",
         "Halkın sevinç gösterisiyle karşılanmıştır.",
         "Yabancıların baskısıyla yapılmıştır."
@@ -243,7 +243,7 @@
       "id": "Q_8_7_018",
       "questionText": "Atatürk'ün vefatı üzerine dünya devletlerinin liderlerinden gelen taziye mesajlarında özellikle hangi ortak tema öne çıkmıştır?",
       "answers": [
-        "Türk milletinin başsağlığı dileği ve Atatürk'ün barışçı, vizyoner dünya lideri olduğu gerçeği",
+        "Atatürk'ün barışçı, vizyoner ve eşsiz bir dünya lideri olduğu gerçeği",
         "Türkiye'nin topraklarının paylaşılacağı beklentisi",
         "Osmanlı'nın geri geleceği sevinci",
         "Ekonomik yardımların kesileceği endişesi"
@@ -313,7 +313,7 @@
       "id": "Q_8_7_023",
       "questionText": "Türkiye'nin II. Dünya Savaşı yıllarında tarafsızlığını korumak için izlediği denge siyaseti hangi iki büyük güç blokuna karşı yürütülmüştür?",
       "answers": [
-        "Müttefik Devletler (İngiltere-Fransa-ABD-SSCB) ile Mihver Devletleri (Almanya-İtalya)",
+        "Müttefik (İngiltere, ABD) ile Mihver Devletleri (Almanya, İtalya) arasında",
         "Yunanistan ve Bulgaristan",
         "İran ve Irak",
         "Japonya ve Çin"
@@ -327,7 +327,7 @@
       "id": "Q_8_7_024",
       "questionText": "Atatürk'ün vefatının ardından yayımlanan taziye mesajlarında İngiltere Başbakanı Winston Churchill'in onun hakkında kullandığı ünlü ifade neyi belirtir?",
       "answers": [
-        "Savaşta kazandığı zaferlerin yanı sıra barış döneminde yarattığı mucizevi reformları ve dünyadaki saygınlığını",
+        "Savaş zaferlerinin yanı sıra barış dönemindeki reformlarını ve saygınlığını",
         "Askeri disipline uymadığını",
         "Yabancı dillere ilgisiz olduğunu",
         "Monarşiyi özlediğini"
@@ -355,7 +355,7 @@
       "id": "Q_8_7_026",
       "questionText": "Atatürk'ün vefatından sonra Türk milletinin milli birlik ve beraberlik içinde hareket etmesi hangi gerçeğin kanıtıdır?",
       "answers": [
-        "Atatürk'ün kurduğu temellerin ve devlet felsefesinin ne kadar sağlam ve köklü olduğunun",
+        "Atatürk'ün kurduğu temellerin ve devlet felsefesinin sağlamlığının",
         "Ülkenin tamamen kaosa sürüklendiğinin",
         "Halkın rejimi değiştirmek istediğinin",
         "Ordunun yönetime el koyduğunun"
@@ -383,7 +383,7 @@
       "id": "Q_8_7_028",
       "questionText": "Atatürk'ün cenaze töreni sırasında yabancı devletlerin askeri birlikleriyle ve temsilcileriyle katılması neyin göstergesidir?",
       "answers": [
-        "Türkiye Cumhuriyeti'nin ve Atatürk'ün uluslararası alanda kazandığı büyük itibarın ve sevginin",
+        "Türkiye'nin ve Atatürk'ün uluslararası alanda kazandığı büyük itibarın",
         "Dünyanın Türkiye'ye savaş açacağının",
         "Törenin zorunlu bir protokol kuralı olduğunun",
         "Yabancıların Türkiye'yi sömürmek istediğinin"
@@ -411,7 +411,7 @@
       "id": "Q_8_7_030",
       "questionText": "Tarihsel süreç ve kazanımlar göz önüne alındığında, Atatürk'ün Türk milletine bıraktığı en kalıcı miras hangi seçenekte en kapsamlı şekilde özetlenmiştir?",
       "answers": [
-        "Akla ve bilime dayalı, demokratik, laik, tam bağımsız ve çağdaş bir Türkiye Cumhuriyeti",
+        "Akla ve bilime dayalı, demokratik, laik, tam bağımsız bir Türkiye Cumhuriyeti",
         "Sadece geniş topraklar",
         "Yalnızca askeri başarılar",
         "Büyük bina ve fabrikalar"
