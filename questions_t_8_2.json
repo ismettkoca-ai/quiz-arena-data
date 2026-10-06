@@ -61,7 +61,7 @@
       "id": "Q_8_2_005",
       "questionText": "Aşağıdaki cümlelerin hangisinde bir 'tanımlama' yapılmıştır?",
       "answers": [
-        "Şiir, inceden inceye hissedilen duyguların estetik bir dille mısralara dökülmesidir.",
+        "Şiir, ince duyguların estetik bir dille mısralara dökülmesidir.",
         "Edebiyatımızın en verimli dönemini geçtiğimiz on yılda yaşadık.",
         "Bu usta yazarın kitapları yediden yetmişe herkes tarafından okunuyor.",
         "Şair, bu şiirinde yalnızlık temasını son derece etkili bir şekilde işlemiş."
@@ -132,7 +132,7 @@
       "questionText": "Aşağıdaki cümlelerin hangisinde bir 'karşılaştırma' yapılmıştır?",
       "answers": [
         "Şair, bu şiirinde sonbahar mevsiminin hüznünü başarılı bir şekilde yansıtmış.",
-        "Bu yıl çıkan soru bankası, geçen yıla göre öğrencileri çok daha fazla zorlayacak.",
+        "Bu yılki soru bankası, geçen yıla göre öğrencileri çok daha fazla zorlayacak.",
         "Toplantı salonundaki masaların üzeri renkli çiçeklerle süslenmişti.",
         "Okulun kütüphanesinde her yaştan öğrenci için faydalı eserler bulunuyor."
       ],
@@ -175,7 +175,7 @@
       "answers": [
         "Sanatçı, röportajında 'Gençler mutlaka bol bol klasik eser okusun.' dedi.",
         "Usta yazar, yeni kitabında insanın iç dünyasını ele aldığını belirtti.",
-        "Öğretmenimiz derse girerken 'Defterlerinizi masanın üzerine çıkarın.' talimatını verdi.",
+        "Öğretmenimiz 'Defterlerinizi masanın üzerine çıkarın.' talimatını verdi.",
         "Şair, şiirle ilgili olarak 'Şiir, emeksiz asla yazılmaz.' ifadesini kullandı."
       ],
       "correctAnswerIndex": 1,
@@ -203,7 +203,7 @@
       "answers": [
         "Sanatçı, gerçekleri olduğu gibi yansıtarak topluma ayna tutmalıdır.",
         "Sanat eseri, gerçek yaşamın ta kendisini doğrudan gözler önüne serer.",
-        "Sanatçı, gördüklerini kendi iç dünyasında yorumlayarak ve biçimlendirerek eserine aktarır.",
+        "Sanatçı, gördüklerini kendi iç dünyasında yorumlayıp eserine aktarır.",
         "Gerçek hayatta yaşanmayan hiçbir olay sanat eserine konu olamaz."
       ],
       "correctAnswerIndex": 2,
@@ -229,7 +229,7 @@
       "id": "Q_8_2_017",
       "questionText": "Aşağıdaki cümlelerin hangisinde 'eleştiri' (tenkit) anlamı söz konusudur?",
       "answers": [
-        "Yazar, son romanında klişe karakterlere yer vererek okuyucuyu şaşırtmaktan kaçınmış.",
+        "Yazar, son romanında klişe karakterlere yer vererek kolaya kaçmış.",
         "Bu antik kent, her yıl binlerce yerli ve yabancı turistin akınına uğruyor.",
         "Şairin ilk şiir kitabı önümüzdeki hafta raflardaki yerini alacak.",
         "Çocukluğunun geçtiği bu dar sokaklarda saatlerce yürümeyi özlemişti."
@@ -245,7 +245,7 @@
       "answers": [
         "Bu sınavdan kesinlikle yüksek bir puan almayı umuyorum.",
         "Yıllardır beklediğimiz müjdeli haber sonunda bugün bize ulaştı.",
-        "Sınavda çok başarılı olacağını düşünüyordum ama maalesef istediği sonucu alamadı.",
+        "Sınavda başarılı olacağını düşünüyordum ama istediği sonucu alamadı.",
         "Yarınki gezi için hazırlıklarını şimdiden tamamlamıştı."
       ],
       "correctAnswerIndex": 2,
@@ -287,7 +287,7 @@
       "answers": [
         "Deneme yazmak diğer edebi türlere göre çok daha zahmetlidir.",
         "Denemelerde yazar kanıtlanabilir nesnel bilgilere yer vermek zorundadır.",
-        "Deneme yazarı, okuyucuya bir şey kanıtlama çabasında olmadan içten bir üslup kullanır.",
+        "Deneme yazarı, okuyucuya bir şey kanıtlama çabasında olmadan içten yazar.",
         "Her yazar mutlaka kariyerinin başında deneme türünde eserler vermelidir."
       ],
       "correctAnswerIndex": 2,
@@ -300,8 +300,8 @@
       "questionText": "Aşağıdaki cümlelerin hangisinde 'doğrudan anlatım' (başkasının sözünü olduğu gibi, hiç değiştirmeden aktarma) yapılmıştır?",
       "answers": [
         "Usta yazar, gazetecilere kitap yazmanın sabır gerektirdiğini söyledi.",
-        "Müdür bey, öğrencilere derslerine mutlaka düzenli çalışmaları gerektiğini hatırlattı.",
-        "Atatürk 'Hayatta en hakiki mürşit ilimdir.' diyerek bilimin önemini vurgulamıştır.",
+        "Müdür bey, öğrencilere derslerine düzenli çalışmaları gerektiğini hatırlattı.",
+        "Atatürk 'Hayatta en hakiki mürşit ilimdir.' diyerek bilimi vurgulamıştır.",
         "Rehber öğretmenimiz, gelecek hafta meslek tanıtım semineri yapılacağını duyurdu."
       ],
       "correctAnswerIndex": 2,
@@ -341,7 +341,7 @@
       "id": "Q_8_2_025",
       "questionText": "Aşağıdaki cümlelerin hangisinde 'önyargılı yaklaşımı değiştirmeye yönelik bir durum' (ön yargının kırılması) söz konusudur?",
       "answers": [
-        "Önceleri bu yazarın kitaplarının sıkıcı olduğunu düşünürdüm ancak son kitabını okuyunca fikrim tamamen değişti.",
+        "Önce yazarın kitaplarını sıkıcı bulurdum ama son kitabıyla fikrim değişti.",
         "Herkes onun bu zorlu görevi başarıyla tamamlayacağından son derece emindi.",
         "Toplantıya katılmayı başta istememişti ama ısrarlar üzerine kabul etti.",
         "Şirketteki tüm çalışanlar yöneticinin kararına karşı çıktı."
@@ -357,7 +357,7 @@
       "answers": [
         "Yazar, bu romanında köyden kente göç eden bir ailenin trajedisini ele almış.",
         "Eserde akıcı, sade ve okuyucuyu yormayan yalın bir dil tercih edilmiş.",
-        "Kitap, 1980'li yılların çalkantılı siyasi dönemini tüm gerçekliğiyle gözler önüne seriyor.",
+        "Kitap, 1980'li yılların çalkantılı siyasi dönemini gerçekliğiyle anlatıyor.",
         "Yazar, karakterleri kurgularken kendi hayatından izler taşımış."
       ],
       "correctAnswerIndex": 1,
@@ -371,7 +371,7 @@
       "answers": [
         "Sanatçı, devrik cümlelere ve süslü sanatlı söyleyişlere sıklıkla yer vermiş.",
         "Yazar, romanındaki olayları kasvetli ve bunaltıcı bir atmosferde kurgulamış.",
-        "Bu şiir kitabında aşk, gurbet ve yalnızlık temaları en ince ayrıntısına kadar işlenmiş.",
+        "Bu şiir kitabında aşk, gurbet ve yalnızlık temaları ayrıntılı işlenmiş.",
         "Eserdeki cümleler kısa tutularak anlatımın duruluğu artırılmaya çalışılmış."
       ],
       "correctAnswerIndex": 2,
@@ -384,7 +384,7 @@
       "questionText": "Aşağıdaki cümlelerin hangisinde 'öz eleştiri' (kişinin kendi kendini eleştirmesi, hatalarını kabul etmesi) söz konusudur?",
       "answers": [
         "Toplantıdaki herkes projemi çok beğendiğini söyleyip beni tebrik etti.",
-        "Zamanında insanlara karşı biraz daha sabırlı olsaydım bu sorunların hiçbirini yaşamazdım.",
+        "Zamanında daha sabırlı olsaydım bu sorunların hiçbirini yaşamazdım.",
         "Arkadaşlarım bana ne kadar yardım etmek istedese de onları hep geri çevirdim.",
         "Yıllardır bu sektörde çalışıyorum ama hâlâ eksiklerim olduğunu fark edemiyorum."
       ],
@@ -399,7 +399,7 @@
       "answers": [
         "Bütün kapılar yüzümüze kapansa da er ya da geç bu zorlukları aşacağız.",
         "Geleceğe dair içimde hâlâ yeşeren minik bir umut kırıntısı var.",
-        "Ne kadar çabalarsak çabalayalım bu bozuk düzeni asla düzeltemeyeceğiz, her şey boş.",
+        "Ne kadar çabalarsak çabalayalım bu bozuk düzeni asla düzeltemeyeceğiz.",
         "Yarın güneşin yeniden doğacağı inancıyla karanlık geceleri geride bırakıyoruz."
       ],
       "correctAnswerIndex": 2,
@@ -409,12 +409,12 @@
     },
     {
       "id": "Q_8_2_030",
-      "questionText": "I. Yazarlar, çocuk kitapları yazarken onların hayal dünyasına hitap etmeyi asla unutmamalıdır.\nII. Çocuk edebiyatı, yetişkin edebiyatından çok daha fazla özen ve hassasiyet gerektirir.\nIII. Günümüzdeki çocuk kitaplarının birçoğu ne yazık ki bu hassasiyetten oldukça uzaktır.\n\nYukarıdaki numaralanmış cümlelerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "questionText": "I. Yazarlar çocuk kitaplarında onların hayal dünyasına hitap etmelidir.\nII. Çocuk edebiyatı, yetişkin edebiyatından çok daha fazla özen gerektirir.\nIII. Günümüz çocuk kitapları bu hassasiyetten uzaktır.\nHangisi söylenemez?",
       "answers": [
         "I. cümlede bir zorunluluk veya uyarı anlamı vardır.",
         "II. cümlede iki farklı edebi alan karşılaştırılmıştır.",
         "III. cümlede bir durumdan duyulan memnuniyet dile getirilmiştir.",
-        "Cümlelerin tamamında çocuk edebiyatına dair kişisel görüşler (öznel yargılar) hakimdir."
+        "Tüm cümlelerde çocuk edebiyatına dair öznel yargılar hakimdir."
       ],
       "correctAnswerIndex": 2,
       "category": "Cümlede Anlam",
