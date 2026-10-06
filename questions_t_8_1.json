@@ -21,7 +21,7 @@
       "answers": [
         "Odanın güneş almaması için pencerelere koyu renkli perdeler taktık.",
         "Oyunun ikinci perdesi başladığında salonda derin bir sessizlik oldu.",
-        "Gözündeki rahatsızlık nedeniyle dünyayı adeta sisli bir perde arkasından görüyordu.",
+        "Gözündeki rahatsızlık yüzünden dünyayı sisli bir perde ardından görüyordu.",
         "Futbol maçının son dakikalarında attığı golle maçın perdesini kapattı."
       ],
       "correctAnswerIndex": 1,
@@ -271,7 +271,7 @@
       "id": "Q_8_1_020",
       "questionText": "Aşağıdaki cümlelerin hangisinde deyim, açıklamasıyla birlikte verilmemiştir?",
       "answers": [
-        "Günlerdir beklediğimiz haber gelmeyince etekleri zil çaldı, çok büyük bir sevinç yaşadı.",
+        "Haberi alınca etekleri zil çaldı, çok büyük bir sevinç yaşadı.",
         "Yaptığı hatayı anlayınca dili tutuldu, adeta konuşamaz hale geldi.",
         "Sınavı kazanamayınca dünyası karardı, geleceğe dair tüm umutlarını yitirdi.",
         "Bize verdiği sözleri tutmayınca ona karşı güvenim tamamen sarsıldı."
@@ -411,10 +411,10 @@
       "id": "Q_8_1_030",
       "questionText": "Aşağıdaki cümlelerin hangisinde deyim ile cümlenin anlamı birbirini desteklememektedir (çelişmektedir)?",
       "answers": [
-        "Saatlerdir aramadık yer bırakmadı, sonunda aradığı anahtarı buldu ama gözü dönmüştü.",
-        "Yıllardır bu projeye emek veriyordu, bugün emeğinin karşılığını alınca etekleri zil çaldı.",
-        "Sınavdan sıfır çekince ne yapacağını bilemedi, boynu bükük bir şekilde sınıftan çıktı.",
-        "Babasının aldığı hediyeyi görünce ağzı kulaklarına vardı, sevinçten havalara uçtu."
+        "Aradığı anahtarı bulduğunda sevinçten âdeta gözü dönmüştü.",
+        "Projeye yıllarını verdi, emeğinin karşılığını alınca etekleri zil çaldı.",
+        "Sınavdan zayıf not alınca üzüldü, boynu bükük şekilde sınıftan çıktı.",
+        "Babasının hediyesini görünce ağzı kulaklarına vardı, sevinçten uçtu."
       ],
       "correctAnswerIndex": 0,
       "category": "Sözcükte Anlam",
