@@ -115,7 +115,7 @@
     },
     {
       "id": "Q_8_4_009",
-      "questionText": "Bir iş yerinde çalışan 5 kişinin (A, B, C, D, E) haftanın pazartesi ve cuma günleri arasındaki mesai günlerinde yaptıkları nöbetlerle ilgili şu bilgiler verilmiştir:\n- Her gün sadece bir kişi nöbet tutmaktadır.\n- Çarşamba günü C nöbet tutmuştur.\n- A, C'den hemen sonraki gün nöbet tutmuştur.\n- B, pazartesi günü nöbet tutmamıştır.\nBu bilgilere göre salı günü kim nöbet tutmuştur?",
+      "questionText": "Hafta içi nöbet tutan 5 kişiden (A,B,C,D,E) her gün biri görevlidir. Çarşamba günü C, ondan hemen sonraki gün A nöbet tutmuştur. B ise pazartesi nöbetçi değildir. Verilen bilgilere göre, salı günü kim nöbet tutamaz?",
       "answers": [
         "A",
         "B",
@@ -146,7 +146,7 @@
       "questionText": "Sözel mantık sorularında 'en az' veya 'en çok' ifadeleri geçtiğinde dikkat edilmesi gereken en önemli husus nedir?",
       "answers": [
         "Sorunun geçersiz olduğunu anlamak",
-        "Olasılıkların sayısının birden fazla olabileceğini ve tüm senaryoların test edilmesi gerektiğini",
+        "Olasılıkların birden fazla olabileceğini ve test edilmesi gerektiğini",
         "Sadece tek bir kesin cevap olduğunu",
         "Bu ifadelerin hiçbir önemi olmadığını"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "id": "Q_8_4_015",
-      "questionText": "Bir iş yerinde katılım sağlanacak kurslarla ilgili şu bilgiler verilmiştir:\n- Kurslar Gitar, Piyano, Resim ve Tiyatro'dur.\n- Herkes sadece bir kurs seçmiştir.\n- Ali ile Ahmet farklı kursları seçmiştir.\n- Resim kursunu seçen sadece bir kişi vardır ve o da Berk'tir.\nBu bilgilere göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+      "questionText": "Gitar, Piyano, Resim ve Tiyatro kurslarından herkes sadece birini seçmiştir. Ali ile Ahmet farklı kurslardadır. Resim kursunu seçen tek kişi Berk'tir. Bu bilgilere göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
       "answers": [
         "Ali piyano kursunu seçmiştir.",
         "Berk gitar kursunu seçmiştir.",
@@ -216,7 +216,7 @@
       "questionText": "Görsel okuma sorularında resim veya fotoğraflardaki detaylardan yola çıkarak 'çıkarımda bulunma' ne anlama gelir?",
       "answers": [
         "Fotoğraftakileri aynen saymak",
-        "Fotoğrafta açıkça görünmeyen ancak verilen ipuçlarından ve mantık yürüterek ulaşılan sonuçları bulmak",
+        "Görsel ipuçlarından yola çıkarak mantık yürütüp gizli sonuçlara ulaşmak",
         "Fotoğrafın çekildiği yılı tahmin etmek",
         "Fotoğrafın kalitesini eleştirmek"
       ],
@@ -230,7 +230,7 @@
       "questionText": "Sözel mantık problemlerinde eleme yöntemi (şıklardan gitme) hangi aşamada en yüksek verimi sağlar?",
       "answers": [
         "Soruyu okumaya başlamadan önce",
-        "Kesin bilgileri tabloya yerleştirdikten sonra, seçenekleri öncüllerle tek tek karşılaştırırken",
+        "Kesin bilgiler tabloya işlendikten sonra seçenekler karşılaştırılırken",
         "Sadece son soruda",
         "Seçeneklere hiç bakmadan"
       ],
@@ -258,7 +258,7 @@
       "questionText": "Sözel mantık sorularında '...ile ... yan yana değildir' kuralı karşılaştığı an tabloda nasıl bir işlem yapılmalıdır?",
       "answers": [
         "Bu kişilerin arasına en az iki kişi konulmalıdır.",
-        "Bu iki elemanın komşu hücrelere gelme ihtimali ortadan kaldırılmalı, bitişik yazılmamalıdır.",
+        "İki elemanın komşu hücrelere gelme ihtimali elenmeli, bitişik yazılmamalıdır.",
         "Bu kişilerin hedefleri iptal edilmelidir.",
         "Tablo tamamen silinip baştan başlanmalıdır."
       ],
@@ -273,7 +273,7 @@
       "answers": [
         "Çizimde kullanılan kağıdın boyutuna",
         "Çizerin imza attığı köşeye",
-        "Çizimdeki abartılı unsurlara, konuşma balonlarına ve yüz ifadelerindeki mizahi vurgulara",
+        "Abartılı unsurlara, diyaloglara ve yüz ifadelerindeki mizahi vurgulara",
         "Çizimin yapıldığı tarihe"
       ],
       "correctAnswerIndex": 2,
@@ -285,7 +285,7 @@
       "id": "Q_8_4_021",
       "questionText": "Sözel mantık sorularında 'sıralama' problemleri çözerken tablonun hangi eksene kurulması işi kolaylaştırır?",
       "answers": [
-        "Sıra numaraları (1., 2., 3. vb.) üst başlık veya satır olarak sabitlenmeli, değişkenler altına yazılmalıdır.",
+        "Sıra numaraları sabit eksen olarak belirlenmeli, değişkenler sıralanmalıdır.",
         "Sadece rastgele harfler yazılmalıdır.",
         "Eksenlerin önemi yoktur.",
         "Sadece sayılar toplanmalıdır."
@@ -314,7 +314,7 @@
       "questionText": "Sözel mantık testlerinde '...den önce' veya '...den sonra' kuralları birden fazla kişi için geçerliyse, bu durum tabloda nasıl ifade edilir?",
       "answers": [
         "Kişilerin sırasının yer değiştiremeyeceği",
-        "Kişiler arasında başka unsurların bulunabileceği ancak göreceli sıralamanın (öncelik sonralık) bozulamayacağı",
+        "Araya başkaları girse de öncelik-sonralık sıralamasının bozulmayacağı",
         "Kişilerin aynı anda orada olacağı",
         "Kurulun geçersiz sayılacağı"
       ],
@@ -356,7 +356,7 @@
       "questionText": "Görsel okuma sorularında sembolik bir anlatımın (örneğin trafik işaretleri veya güvenlik ikonlarının) anlamını çözerken en güvenilir yöntem nedir?",
       "answers": [
         "Sembolün şekline bakıp kafaya göre anlam uydurmak",
-        "Sembolün altındaki resmi açıklamayı okumak veya standart evrensel kuralları bilmek",
+        "Resmi açıklamaları okumak veya evrensel standart kuralları bilmek",
         "Yalnızca rengine bakmak",
         "Hiçbirini dikkate almamak"
       ],
@@ -397,7 +397,7 @@
       "id": "Q_8_4_029",
       "questionText": "Sözel mantık sorularında 'kesin olarak söylenebilir' kökü ile 'kesin olarak söylenemez' kökü arasındaki en temel fark nedir?",
       "answers": [
-        "Birincisinde tüm senaryolarda sağlanan ortak doğru aranır; ikincisinde ise sadece bir senaryoda bile çürütülebilen seçenek doğrudur.",
+        "İlkinde tüm senaryolarda ortak doğru, ikincisinde çürütülebilen seçenek aranır.",
         "Hiçbir fark yoktur, aynı şeydir.",
         "Birincisi tamamen yanlıştır.",
         "İkincisi sadece sayısal verilerle çözülür."
@@ -409,7 +409,7 @@
     },
     {
       "id": "Q_8_4_030",
-      "questionText": "Bir iş yerindeki 4 çalışan (K, L, M, N) pazartesi, salı, çarşamba ve perşembe günleri birer proje sunumu yapacaktır.\n- Sunum sırası ile ilgili bilinenler şunlardır:\n- N, ilk gün sunum yapmamıştır.\n- L, M'den hemen önceki gün sunum yapmıştır.\n- K, salı günü sunum yapmıştır.\nBu bilgilere göre çarşamba günü kim sunum yapmıştır?",
+      "questionText": "K, L, M, N kişileri Pazartesi'den Perşembe'ye kadar her gün bir kişi olacak şekilde sunum yapacaktır. N ilk gün yapmamıştır. L, M'den hemen önceki gün yapmıştır. K ise Salı günü sunum yapmıştır. Buna göre Çarşamba kim sunum yapmıştır?",
       "answers": [
         "K",
         "L",
