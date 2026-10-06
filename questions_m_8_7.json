@@ -409,7 +409,7 @@
     },
     {
       "id": "Q_8_7_030",
-      "questionText": "Dikdörtgen şeklindeki bir panoya kısa kenarı x cm, uzun kenarı (2x + 5) cm olan eş afişlerden 3 tanesi uzun kenarları yere paralel olacak biçimde, aralarında boşluk kalmadan yan yana asıldığında panonun genişliği tam olarak kaplanmaktadır. Panonun genişliği 100 cm'den az olduğuna göre x'in alabileceği en büyük tam sayı değeri kaçtır?",
+      "questionText": "Kısa kenarı x cm, uzun kenarı (2x + 5) cm olan eş afişlerden 3 tanesi, uzun kenarları yere paralel olacak biçimde yan yana ardıarda asılarak bir panonun genişliği tam kapatılıyor. Panonun genişliği 100 cm'den az olduğuna göre x en çok kaçtır?",
       "answers": [
         "12",
         "13",
