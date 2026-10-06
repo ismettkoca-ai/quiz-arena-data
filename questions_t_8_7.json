@@ -132,7 +132,7 @@
       "questionText": "Edilgen çatı ile dönüşlü çatı aynı ekleri (`-l`, `-n`) almalarına rağmen birbirinden nasıl ayırt edilir?",
       "answers": [
         "Edilgende gerçek özne vardır, dönüşlüde sözde özne vardır.",
-        "Edilgende işi yapan belli değildir (sözde özne vardır), dönüşlüde ise işi yapan gerçek bir özne vardır.",
+        "Edilgende işi yapan belirsizdir, dönüşlüde ise gerçek özne vardır.",
         "Dönüşlü çatılarda nesne bulunmaz, edilgende mutlaka nesne vardır.",
         "Edilgen fiiller geçmiş zamanla çekimlenemez."
       ],
