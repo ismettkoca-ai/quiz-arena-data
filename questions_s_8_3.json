@@ -78,7 +78,7 @@
         "\"Ordular, ilk hedefiniz Akdeniz'dir, ileri!\"",
         "\"Hatta müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır!\"",
         "\"Ben size taarruz emretmiyorum, ölmeyi emrediyorum!\"",
-        "\"Vatanın bağrına düşman dayasın hançerini, bulunur kurtaracak bahtı kara mâderini.\""
+        "\"Vatanın bağrına düşman dayasın hançerini...\""
       ],
       "correctAnswerIndex": 1,
       "category": "Millî Bir Destan: Ya İstiklal, Ya Ölüm!",
@@ -115,7 +115,7 @@
     },
     {
       "id": "Q_8_3_009",
-      "questionText": "Büyük Taarruz'un (Başkomutanlık Meydan Muharebesi) başarıyla sonuçlanmasından hemen sonra Kurtuluş Savaşı'nın sıcak çatışma dönemini sona erdiren ve Doğu Trakya'nın savaşılmadan kurtarılmasını sağlayan antlaşma hangisidir?",
+      "questionText": "Büyük Taarruz'un başarıyla sonuçlanmasından hemen sonra sıcak çatışmaları bitiren ve Doğu Trakya'nın savaşılmadan kurtarılmasını sağlayan antlaşma hangisidir?",
       "answers": [
         "Lozan Barış Antlaşması",
         "Mudanya Ateşkes Antlaşması",
@@ -131,7 +131,7 @@
       "id": "Q_8_3_010",
       "questionText": "TBMM'nin ilk anayasası olan ve 'Egemenlik kayıtsız şartsız milletindir' maddesini barındıran 1921 Anayasası'nın (Teşkilat-ı Esasiye) kabul edilme gerekçesi nedir?",
       "answers": [
-        "Yeni Türk devletinin hukuki ve resmi temelini atmak, düzenli devlet yapısına geçmek",
+        "Yeni Türk devletinin hukuki ve resmi temelini atmak.",
         "Osmanlı anayasasını tamamen korumak",
         "Padişahın yetkilerini artırmak",
         "Yabancı devletlere anayasayı onaylatmak"
@@ -188,7 +188,7 @@
       "questionText": "Kütahya-Eskişehir Savaşları'ndan sonra Türk ordusunun Sakarya Nehri'nin doğusuna çekilmesinin stratejik ve askeri amacı aşağıdakilerden hangisidir?",
       "answers": [
         "Ordunun tamamen terhis edilmesini sağlamak",
-        "Yunan ordusunu kendi ikmal hatlarından uzaklaştırıp zaman kazanmak, güç toplamak ve savunma hattı kurmak",
+        "Yunan ordusunu ikmal hatlarından uzaklaştırıp savunma hattı kurmak.",
         "İstanbul'u teslim etmek",
         "Ankara'yı boşaltmak"
       ],
@@ -245,7 +245,7 @@
       "answers": [
         "Kapitülasyonların kesin olarak kaldırılması",
         "Yabancı okulların Türk yasalarına bağlanması",
-        "Boğazlar komisyonunun başkanı Türk olan bir komisyona devredilmesi (veya tamamen Türk egemenliğine geçmesi)",
+        "Boğazlar komisyonunun tamamen Türk egemenliğine geçmesi.",
         "Savaş tazminatı olarak Atina'nın Türkiye'ye verilmesi"
       ],
       "correctAnswerIndex": 3,
@@ -257,7 +257,7 @@
       "id": "Q_8_3_019",
       "questionText": "Mustafa Kemal Paşa'nın Büyük Taarruz öncesinde ordunun gizlice hazırlanmasını sağlamak amacıyla gizlediği planı neydi?",
       "answers": [
-        "Taarruz hazırlığı gizlenerek bir süre daha savunmada kalınacağı izlenimi verilmesi",
+        "Taarruz hazırlığını gizleyerek savunmada kalınacağı izlenimini vermek.",
         "Ordunun tamamen terhis edileceğinin duyurulması",
         "Askerlerin izne gönderilmesi",
         "Doğu sınırının kapatılması"
@@ -272,7 +272,7 @@
       "questionText": "İstiklal Marşı'nın yazılması için açılan yarışmaya para ödülü konulmuş, ancak Mehmet Akif Ersoy bu ödülü hangi gerekçeyle almayı reddetmiştir?",
       "answers": [
         "Ödülün miktarını az bulduğu için",
-        "İstiklal Marşı'nın para için yazılamayacağını, ödülü 'Darü'l-Mesai' adlı hayır kurumuna bağışlayacağını belirttiği için",
+        "Marşın para için yazılamayacağını belirterek Darü'l-Mesai'ye bağışlamıştır.",
         "Şiiri kendisinin değil başka birinin yazdığını iddia ettiği için",
         "Yarışmadan haberi olmadığı için"
       ],
@@ -369,7 +369,7 @@
       "id": "Q_8_3_027",
       "questionText": "Tekalif-i Millîye Emirleri'nin çıkarıldığı dönem ile ordunun ihtiyaçlarının karşılanması süreci göz önüne alındığında, Türk halkının bu emirler karşısındaki tutumu için ne söylenebilir?",
       "answers": [
-        "Halk varını yoğunu büyük bir fedakarlıkla orduya bağışlamış ve vatan sevgisini kanıtlamıştır",
+        "Halk varını yoğunu büyük bir fedakarlıkla orduya bağışlamıştır.",
         "Emirlere karşı büyük bir isyan çıkarmıştır",
         "Tüm mallarını yabancı devletlere satmıştır",
         "Devletten yüksek ücret talep etmiştir"
@@ -383,7 +383,7 @@
       "id": "Q_8_3_028",
       "questionText": "Sakarya Savaşı sonrasında İtilaf Devletleri tarafından TBMM'ye sunulan barış tekliflerinin Sevr Antlaşması'na göre durumu nasıldı?",
       "answers": [
-        "Sevr'in ton farkıyla hafifletilmiş, ancak yine de bağımsızlığımızı kısıtlayan maddeler içeren bir versiyonuydu",
+        "Sevr'in hafifletilmiş, ancak tam bağımsızlığa aykırı bir versiyonuydu.",
         "Misak-ı Millî'yi tamamen kabul eden bir antlaşmaydı",
         "Osmanlı'yı eski sınırlarına kavuşturuyordu",
         "Tamamen lehimize olan adil bir belgedeydi"
@@ -411,7 +411,7 @@
       "id": "Q_8_3_030",
       "questionText": "Lozan Barış Antlaşması'nın Türk milleti açısından en büyük tarihsel önemi ve başarısı nedir?",
       "answers": [
-        "Yüzyıllardır batılı devletlerin dayattığı kapitülasyonları ve adaletsizlikleri ortadan kaldırarak tam bağımsız, egemen bir Türk devletini dünyaya tescil ettirmesi",
+        "Kapitülasyonları kaldırarak tam bağımsız, egemen bir Türk devletini tescillemesi.",
         "Dünyanın en büyük sınırlarına ulaşması",
         "Tüm Osmanlı borçlarının silinmesi",
         "Ekonomik olarak dünyanın en zengin ülkesi olması"
