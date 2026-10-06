@@ -17,7 +17,7 @@
     },
     {
       "id": "Q_8_4_002",
-      "questionText": "Peygamberimize henüz peygamberlik verilmeden (vahiy inmeden) önce bile, Mekke halkı ona dürüstlüğü ve kimsenin hakkını yememesi nedeniyle özel bir lakap takmıştı. Bu lakap nedir?",
+      "questionText": "Peygamberimize henüz vahiy inmeden önce bile, Mekke halkı ona dürüstlüğü ve kimsenin hakkını yememesi nedeniyle özel bir lakap takmıştı. Bu lakap nedir?",
       "answers": [
         "Ebu'l-Kasım",
         "Muhammedü'l-Emin (Güvenilir Muhammed)",
@@ -31,7 +31,7 @@
     },
     {
       "id": "Q_8_4_003",
-      "questionText": "Mekkeliler Kabe'yi tamir ettikten sonra, kutsal sayılan 'Hacerü'l-Esved' taşını yerine kimin koyacağı konusunda büyük bir kavgaya tutuşmuşlardı. Hakem olarak Hz. Muhammed'in geldiğini görünce 'İşte güvenilir kişi geldi, onun kararına razıyız' dediler. Bu olay peygamberimizin en çok hangi özelliğiyle ilgilidir?",
+      "questionText": "Mekkeliler Kabe tamiratında kutsal Hacerü'l-Esved taşını yerine koyma konusunda kavga etmişti. Hakem olarak Hz. Muhammed'in geldiğini görünce 'İşte güvenilir kişi geldi, kararına razıyız' dediler. Bu olay onun hangi yönünü gösterir?",
       "answers": [
         "Merhametli ve affedici olmasıyla",
         "İstişareye (danışmaya) önem vermesiyle",
@@ -45,10 +45,10 @@
     },
     {
       "id": "Q_8_4_004",
-      "questionText": "Peygamberimiz, kendisini öldürmek isteyen müşriklerin baskısı yüzünden Mekke'den Medine'ye hicret (göç) edeceği gece, müşriklerin kendisine emanet ettiği eşyaları sahiplerine geri vermesi için Hz. Ali'yi kendi yatağında bırakmıştır. Bu olay onun hangi özelliğini gösterir?",
+      "questionText": "Hicret gecesi müşriklerin baskısına rağmen, peygamberimiz onların kendisine emanet ettiği eşyaları iade etmesi için Hz. Ali'yi kendi yatağında bırakmıştır. Bu olay onun hangi özelliğini gösterir?",
       "answers": [
         "Savaşı çok sevdiğini",
-        "Emanete asla hıyanet etmeyen, düşmanına bile dürüst (güvenilir) davranan biri olduğunu",
+        "Düşmanına bile dürüst davranıp emanete hıyanet etmeyen biri olduğunu",
         "Mal ve mülke çok değer verdiğini",
         "İstişare yaptığını"
       ],
@@ -59,7 +59,7 @@
     },
     {
       "id": "Q_8_4_005",
-      "questionText": "Mekke feth edildiğinde, peygamberimiz kendisine yıllarca eziyet eden, arkadaşlarını şehit eden ve onu yurdundan kovan düşmanlarını karşısına dizmiş ancak onları bağışlayarak hepsini serbest bırakmıştır. Bu büyük olay onun hangi yönünü vurgular?",
+      "questionText": "Mekke fethedildiğinde, peygamberimiz yıllarca kendisine zulmeden ve yurdundan kovan düşmanlarını bağışlayarak serbest bırakmıştır. Bu büyük olay onun hangi yönünü vurgular?",
       "answers": [
         "Affediciliğini ve eşsiz merhametini",
         "Güçsüzlüğünü ve korktuğunu",
@@ -73,7 +73,7 @@
     },
     {
       "id": "Q_8_4_006",
-      "questionText": "Peygamberimiz, İslam'ı anlatmak için gittiği Taif şehrinde taşlanmış, ayakları kan içinde kalmıştır. Melekler 'İstersen bu şehri onların başına yıkalım' dediğinde o, 'Hayır, belki onların soyundan Allah'a inanan nesiller gelir, Allah'ım kavmimi bağışla' diye dua etmiştir. Bu olay onun hangi özelliğine örnektir?",
+      "questionText": "İslam'ı anlatmak için gittiği Taif'te taşlanan peygamberimiz, meleklerin şehri yok etme teklifine 'Hayır, belki soylarından inananlar çıkar, Allah'ım kavmimi bağışla' diye dua etmiştir. Bu neye örnektir?",
       "answers": [
         "Cesaretine",
         "Kararlılığına",
@@ -87,7 +87,7 @@
     },
     {
       "id": "Q_8_4_007",
-      "questionText": "Bir işin nasıl yapılacağı veya bir sorunun nasıl çözüleceği konusunda sadece kendi fikrini uygulamayıp, o konuyu bilen kişilere (uzmanlara) danışmaya ve ortak karar almaya İslam'da ne ad verilir?",
+      "questionText": "Bir işin nasıl yapılacağı veya bir sorunun çözümü için sadece kendi fikrini uygulamayıp, uzmanlara danışmaya ve ortak karar almaya İslam'da ne ad verilir?",
       "answers": [
         "Tevekkül",
         "İstihare",
@@ -101,7 +101,7 @@
     },
     {
       "id": "Q_8_4_008",
-      "questionText": "Mekkeliler Medine'ye saldırmak için gelirken, Selman-ı Farisi adındaki sahabi 'Şehrin etrafına derin çukurlar kazıp savunma yapalım' fikrini sunmuştur. Peygamberimiz bu fikri beğenmiş ve savaş bu taktikle kazanılmıştır. Bu olay peygamberimizin hangi özelliğine örnektir?",
+      "questionText": "Hendek Savaşı öncesi Selman-ı Farisi'nin 'Şehrin etrafına çukurlar kazalım' fikrini peygamberimiz benimsemiş ve savaş kazanılmıştır. Bu durum onun hangi özelliğine örnektir?",
       "answers": [
         "Sadece Arapları dinlediğine",
         "İstişareye önem verdiğine ve farklı fikirlere açık olduğuna",
@@ -115,7 +115,7 @@
     },
     {
       "id": "Q_8_4_009",
-      "questionText": "Uhud Savaşı öncesinde peygamberimiz şehirde kalıp savunma yapmayı istemişti. Ancak genç sahabeler meydan savaşı istediklerini söyleyince peygamberimiz çoğunluğun fikrine uymuş ve orduyu şehir dışına çıkarmıştır. Bu olay bize peygamberimizin neye önem verdiğini gösterir?",
+      "questionText": "Uhud Savaşı öncesi peygamberimiz şehirde kalmak istemiş, ancak gençlerin meydan savaşı fikri ağır basınca kendi isteğinden vazgeçip çoğunluğa uymuştur. Bu olay onun neye önem verdiğini gösterir?",
       "answers": [
         "İstişareye (Ortak karara saygı duymaya)",
         "Sadece yaşlıları dinlemeye",
@@ -129,11 +129,11 @@
     },
     {
       "id": "Q_8_4_010",
-      "questionText": "Müşrikler, İslam'ı anlatmaktan vazgeçmesi için peygamberimize Mekke'nin krallığını, en güzel kadınlarını ve en büyük zenginliğini teklif etmişlerdir. Peygamberimiz ise 'Güneşi sağ elime, ayı sol elime verseler yine de bu davadan vazgeçmem' demiştir. Bu söz onun en çok hangi yönünü vurgular?",
+      "questionText": "Müşriklerin teklif ettiği krallık ve zenginliğe karşı peygamberimizin 'Güneşi sağ elime, ayı sol elime verseler yine de bu davadan vazgeçmem' demesi onun hangi yönünü vurgular?",
       "answers": [
         "Zenginliği sevmediğini",
         "İnatçı olduğunu",
-        "Davasındaki kararlılığını (azmini) ve davasından asla taviz vermeyeceğini",
+        "Davasındaki kararlılığını ve asla taviz vermeyeceğini",
         "Astronomiyle ilgilendiğini"
       ],
       "correctAnswerIndex": 2,
@@ -143,7 +143,7 @@
     },
     {
       "id": "Q_8_4_011",
-      "questionText": "Hicret yolculuğu sırasında müşrikler peygamberimizi ve Hz. Ebubekir'i Sevr Mağarası'nda sıkıştırmış, mağaranın kapısına kadar gelmişlerdir. Hz. Ebubekir endişelenince peygamberimiz gayet sakin bir şekilde 'Üzülme/Korkma, Allah bizimle beraberdir' demiştir. Bu olay peygamberimizin hangi iki özelliğini gösterir?",
+      "questionText": "Hicret sırasında mağarada saklanırken düşmanlar kapıya kadar geldiğinde peygamberimizin Hz. Ebubekir'e 'Üzülme/Korkma, Allah bizimle beraberdir' demesi onun hangi iki özelliğini gösterir?",
       "answers": [
         "Cesareti ve Allah'a olan tam tevekkülü",
         "Korkusu ve çaresizliği",
@@ -157,7 +157,7 @@
     },
     {
       "id": "Q_8_4_012",
-      "questionText": "Hz. Ali, savaşlardaki en tehlikeli anları anlatırken 'Bedir'de savaş çok şiddetlendiğinde biz peygambere sığınırdık, çünkü o düşmana en yakın duranımız (en önde savaşanımız) idi' demiştir. Bu söz peygamberimizin hangi özelliğini kanıtlar?",
+      "questionText": "Hz. Ali, 'Bedir'de savaş çok şiddetlendiğinde biz peygambere sığınırdık, çünkü o düşmana en yakın duranımızdı' demiştir. Bu söz peygamberimizin hangi özelliğini kanıtlar?",
       "answers": [
         "Ordunun arkasında durduğunu",
         "Savaşı çabuk bitirmek istediğini",
@@ -171,10 +171,10 @@
     },
     {
       "id": "Q_8_4_013",
-      "questionText": "Peygamberimiz bir meclise girdiğinde başköşeye geçmez, boş bulduğu yere otururdu. Ayaklarını kimseye karşı uzatmaz, biriyle konuşurken sadece yüzünü çevirmez, tüm vücuduyla o kişiye dönerdi. Onun bu tavırları hangi özelliğine girer?",
+      "questionText": "Peygamberimiz meclise girdiğinde başköşeye geçmez, boş yere otururdu. Biriyle konuşurken tüm vücuduyla o kişiye dönerdi. Onun bu tavırları hangi özelliğine girer?",
       "answers": [
         "Güvenilir oluşuna",
-        "İnsanlara değer vermesine ve mütevazı (alçakgönüllü) oluşuna",
+        "İnsanlara değer vermesi ve mütevazı (alçakgönüllü) oluşuna",
         "Cesaretine",
         "Kararlılığına"
       ],
@@ -185,10 +185,10 @@
     },
     {
       "id": "Q_8_4_014",
-      "questionText": "Mescid-i Nebi'yi süpüren, siyahi ve yaşlı bir kadın vardı. Kadın vefat ettiğinde sahabeler peygamberimizi gece rahatsız etmemek için ona haber vermeden kadını defnettiler. Durumu öğrenen peygamberimiz çok üzülmüş ve gidip o kadının mezarı başında dua etmiştir. Bu olay neyi öğretir?",
+      "questionText": "Mescidi süpüren yaşlı kadının vefatını kendisine haber vermeden defnettiklerini öğrenen peygamberimiz çok üzülmüş ve gidip mezarında dua etmiştir. Bu olay neyi öğretir?",
       "answers": [
         "Peygamberimizin mezarlıkları sevdiğini",
-        "Peygamberimizin; makamı, rengi ve cinsiyeti ne olursa olsun her insana (emeğe) çok büyük değer verdiğini",
+        "Makamı ne olursa olsun her insana (emeğe) değer verdiğini",
         "Kadınların sadece temizlik yapması gerektiğini",
         "Sadece zenginlere değer verdiğini"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "id": "Q_8_4_015",
-      "questionText": "Peygamberimiz, namaz kıldırırken arka saflardan ağlayan bir çocuk (bebek) sesi duyduğunda, annesi üzülmesin ve telaşlanmasın diye namazı normalden çok daha kısa tutardı (hızlandırırdı). Bu davranış peygamberimizin hangi özelliğini yansıtır?",
+      "questionText": "Peygamberimiz, namaz kıldırırken ağlayan bir bebek sesi duyduğunda, annesi telaşlanmasın diye namazı normalden kısa tutardı. Bu davranışı hangi özelliğini yansıtır?",
       "answers": [
         "Namaz kılmaktan çabuk sıkıldığını",
         "Merhametini, çocuklara ve annelere (insanlara) verdiği değeri",
@@ -213,7 +213,7 @@
     },
     {
       "id": "Q_8_4_016",
-      "questionText": "Zengin ve soylu bir kadının hırsızlık yapması üzerine onun affedilmesi için aracı gönderilince peygamberimiz çok kızmış ve 'Kızım Fatıma dahi hırsızlık yapsa, onun da cezasını verirdim' demiştir. Bu olay peygamberimizin hangi kavramdan asla taviz vermediğini gösterir?",
+      "questionText": "Soylu bir kadının hırsızlık yapması üzerine affedilmesi istenince, peygamberimiz 'Kızım Fatıma dahi yapsa cezasını verirdim' demiştir. Bu hangi kavramdan taviz vermediğini gösterir?",
       "answers": [
         "İstişare",
         "Adalet (Kanun önünde eşitlik)",
@@ -227,11 +227,11 @@
     },
     {
       "id": "Q_8_4_017",
-      "questionText": "Peygamberimiz, bir cenaze (ölü) geçerken hemen ayağa kalkmış, yanındakiler 'Ey Allah'ın elçisi, bu ölen bir Yahudi cenazesidir' dediklerinde, 'O da bir can (insan) değil mi?' cevabını vermiştir. Bu olay onun hangi özelliğini gösterir?",
+      "questionText": "Peygamberimiz, geçen bir cenaze için ayağa kalkmış, yanındakiler 'Bu ölen bir Yahudi' dediklerinde, 'O da bir can (insan) değil mi?' cevabını vermiştir. Bu olayın gösterdiği özellik nedir?",
       "answers": [
         "Peygamberimizin yorulduğu için ayağa kalktığını",
         "Sadece Müslümanlara değer verdiğini",
-        "Irkı ve inancı ne olursa olsun 'insan' olana duyduğu derin saygıyı ve değeri",
+        "İnancı ne olursa olsun 'insan' olana duyduğu derin saygıyı",
         "Cenaze geçerken ses çıkarılması gerektiğini"
       ],
       "correctAnswerIndex": 2,
@@ -241,7 +241,7 @@
     },
     {
       "id": "Q_8_4_018",
-      "questionText": "Hz. Aişe'ye 'Peygamberin ahlakı nasıldı?' diye sorulduğunda Hz. Aişe'nin verdiği efsanevi cevap aşağıdakilerden hangisidir?",
+      "questionText": "Hz. Aişe'ye 'Peygamberin ahlakı nasıldı?' diye sorulduğunda verdiği meşhur cevap aşağıdakilerden hangisidir?",
       "answers": [
         "Siz Kur'an okumuyor musunuz? Onun ahlakı Kur'an'dı.",
         "O çok cesur bir komutandı.",
@@ -255,7 +255,7 @@
     },
     {
       "id": "Q_8_4_019",
-      "questionText": "Peygamberimiz 'Zorlaştırmayın kolaylaştırın, nefret ettirmeyin sevdirin' buyurmuştur. Bu hadis, onun dini insanlara anlatırken (tebliğ ederken) hangi yöntemi uyguladığını gösterir?",
+      "questionText": "Peygamberimiz 'Zorlaştırmayın kolaylaştırın, nefret ettirmeyin sevdirin' buyurmuştur. Bu hadis, onun dini insanlara anlatırken hangi yöntemi uyguladığını gösterir?",
       "answers": [
         "Korkutma ve tehdit",
         "Hoşgörü, sevgi ve insan fıtratına uygun bir kolaylaştırıcılık",
@@ -269,7 +269,7 @@
     },
     {
       "id": "Q_8_4_020",
-      "questionText": "Kureyş Suresi, peygamberimizin mensubu olduğu Kureyş kabilesine Allah'ın verdiği nimetleri hatırlatır. Bu surede Kureyşlilerin yaz ve kış aylarında güven içinde yaptıkları hangi faaliyete dikkat çekilir?",
+      "questionText": "Kureyş Suresi'nde Mekkelilerin yaz ve kış aylarında güven içinde yaptıkları hangi faaliyete dikkat çekilir?",
       "answers": [
         "Tarım ve çiftçilik",
         "Ticaret yolculukları (Kervanları)",
@@ -287,7 +287,7 @@
       "answers": [
         "Kureyş kabilesinin dünyadaki en üstün kabile olduğu",
         "Mekkelilerin ticaret yapmaktan vazgeçmesi gerektiği",
-        "Allah'ın Kureyş'e verdiği 'Açlıktan doyurma ve korkudan emin kılma' nimetlerine şükrederek, sadece bu Beyt'in (Kabe'nin) Rabbine ibadet etmeleri gerektiği",
+        "Verilen nimetlere şükredip sadece Kabe'nin Rabbine ibadet etmeleri",
         "Savaşa hazırlık yapmaları gerektiği"
       ],
       "correctAnswerIndex": 2,
@@ -311,7 +311,7 @@
     },
     {
       "id": "Q_8_4_023",
-      "questionText": "Veda Hutbesi'nde peygamberimiz: 'Ey insanlar! Rabbiniz birdir, babanız (Adem) da birdir. Arabın Arap olmayana, Arap olmayanın da Araba; beyazın siyaha, siyahın beyaza üstünlüğü yoktur. Üstünlük ancak takva iledir' buyurmuştur. Bu söz onun en çok hangi iki kavrama verdiği değeri gösterir?",
+      "questionText": "Veda Hutbesi'nde peygamberimiz 'Arabın Arap olmayana, beyazın siyaha üstünlüğü yoktur. Üstünlük takva iledir' buyurmuştur. Bu söz hangi kavrama değer verdiğini gösterir?",
       "answers": [
         "Savaş ve ganimet",
         "İnsan hakları, eşitlik ve ırkçılık karşıtlığı",
@@ -325,10 +325,10 @@
     },
     {
       "id": "Q_8_4_024",
-      "questionText": "Peygamberimiz bir gün, kuşu ölen Zeyd adındaki küçük bir çocuğun evine giderek ona taziyede bulunmuş (başsağlığı dilemiş) ve onu teselli etmiştir. Bu olay onun hangi özelliğine muazzam bir örnektir?",
+      "questionText": "Peygamberimiz kuşu ölen küçük bir çocuğun evine giderek ona taziyede bulunmuş ve onu teselli etmiştir. Bu olay onun hangi özelliğine muazzam bir örnektir?",
       "answers": [
         "Sadece büyüklere değer verdiğine",
-        "Çocukların ruh dünyasına inen ince merhametine ve insana verdiği değere",
+        "Çocukların ruh dünyasına inen merhametine ve insana verdiği değere",
         "Kuşları çok sevdiğine",
         "İstişare ettiğine"
       ],
@@ -339,7 +339,7 @@
     },
     {
       "id": "Q_8_4_025",
-      "questionText": "Bedir Savaşı'nda esir düşen Mekkeli müşriklerden okuma yazma bilenler, on Müslümana okuma yazma öğretmeleri karşılığında serbest bırakılmışlardır. Bu uygulama peygamberimizin neye önem verdiğini gösterir?",
+      "questionText": "Bedir Savaşı'nda esir düşen müşrikler on Müslümana okuma yazma öğretmeleri karşılığında serbest bırakılmışlardır. Bu uygulama peygamberimizin neye önem verdiğini gösterir?",
       "answers": [
         "Fidyeye ve paraya",
         "Eğitime ve bilgiye (İlme)",
@@ -353,7 +353,7 @@
     },
     {
       "id": "Q_8_4_026",
-      "questionText": "Peygamberimiz; verdiği sözü her zaman tutmuş (Ahde vefa), kimseyi kandırmamış ve yaptığı anlaşmaları (Hudeybiye Antlaşması vb.) düşman bozmadığı sürece asla bozmamıştır. Bu durum onun hangi temel ahlaki ilkesidir?",
+      "questionText": "Peygamberimiz; verdiği sözü tutmuş, kimseyi kandırmamış ve yaptığı anlaşmaları düşman bozmadıkça asla bozmamıştır. Bu durum onun hangi temel ahlaki ilkesidir?",
       "answers": [
         "Cesaret",
         "Merhamet",
@@ -367,7 +367,7 @@
     },
     {
       "id": "Q_8_4_027",
-      "questionText": "Peygamberimiz bir yolculuk sırasında, dinlenen bir kuşun yuvasından yavrularını alan sahabeleri görünce çok kızmış ve 'Bu hayvanı yavruları için kim korkuttu? Yavrularını hemen yerine koyun!' diyerek onları uyarmıştır. Bu olay onun hangi özelliğidir?",
+      "questionText": "Peygamberimiz yuvadan kuş yavrularını alan sahabeleri görünce kızmış ve 'Yavruları hemen yerine koyun!' demiştir. Bu olay onun hangi özelliğidir?",
       "answers": [
         "Kuşlardan korkması",
         "Sadece insanlara değil, doğaya ve hayvanlara karşı da merhametli oluşu",
@@ -381,7 +381,7 @@
     },
     {
       "id": "Q_8_4_028",
-      "questionText": "İnsanlara verdiği değerin bir göstergesi olarak peygamberimiz, ashabıyla sohbet ederken kapıdan kim girerse girsin (ister fakir ister köle olsun) ona yer açar, ikramda bulunur ve onun halini hatırını sorardı. Bu durum İslam'ın hangi ahlaki kuralıdır?",
+      "questionText": "Peygamberimiz sohbette kapıdan fakir veya köle kim girerse girsin ona yer açar ve ikramda bulunurdu. Bu durum İslam'ın hangi ahlaki kuralıdır?",
       "answers": [
         "İsraf",
         "Tevazu, Nezaket ve İnsana Saygı",
@@ -395,7 +395,7 @@
     },
     {
       "id": "Q_8_4_029",
-      "questionText": "Müşrikler 'Bizi atalarımızın dininden döndüremeyeceksin' dediklerinde peygamberimiz 'Ben hak dini anlatmakla emrolundum, son nefesime kadar da anlatacağım' diyerek yoluna devam etmiştir. Bu durum peygamberimizin tebliğ (davet) görevindeki hangi yönüdür?",
+      "questionText": "Müşrikler 'Bizi atalarımızın dininden döndüremeyeceksin' dediklerinde peygamberimiz 'Son nefesime kadar anlatacağım' diyerek yoluna devam etmiştir. Bu durum peygamberimizin hangi yönüdür?",
       "answers": [
         "Kararlılığı ve Azmi",
         "Merhameti",
@@ -413,7 +413,7 @@
       "answers": [
         "Sınava çalışırken hiç kimseye soru sormaması",
         "Lise tercihleri döneminde sadece kendi bildiğini okuması",
-        "Geleceğiyle ilgili önemli bir karar alırken ailesinin, öğretmenlerinin ve o konuyu bilen uzmanların fikrini alarak (danışarak) ortak bir sonuca varması",
+        "Önemli bir kararda uzmanların ve ailesinin fikrini alarak karar vermesi",
         "Karar vermekten tamamen kaçıp işi şansa bırakması"
       ],
       "correctAnswerIndex": 2,
