@@ -409,7 +409,7 @@
     },
     {
       "id": "Q_8_10_030",
-      "questionText": "Bir bilgisayar oyununda karakter, koordinat düzleminde (2, 1) noktasında bulunmaktadır. Karakter önce y eksenine göre yansıtılıyor, ardından x ekseni boyunca 3 birim sağa ve y ekseni boyunca 4 birim yukarı öteleniyor. Son olarak elde edilen konum orijin etrafında 180° döndürülüyor. Karakterin son koordinatları aşağıdakilerden hangisidir?",
+      "questionText": "Koordinat düzleminde (2, 1) noktasında bulunan bir karakter önce y eksenine göre yansıtılıp, 3 birim sağa ve 4 birim yukarı öteleniyor. Elde edilen nokta orijin etrafında 180° döndürüldüğünde karakterin son koordinatları hangisi olur?",
       "answers": [
         "(1, -5)",
         "(-1, 5)",
