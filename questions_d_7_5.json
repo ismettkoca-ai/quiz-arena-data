@@ -6,7 +6,7 @@
       "questionText": "İlahi (Samavi) dinler kavramı ne anlama gelir?",
       "answers": [
         "İnsanlar tarafından sonradan uydurulan dinlerdir.",
-        "Kaynağı ilahi vahiy olan, Allah tarafından peygamberler aracılığıyla insanlığa gönderilen dinlerdir.",
+        "Kaynağı vahiy olan, Allah tarafından peygamberler aracılığıyla gönderilen dinlerdir.",
         "Sadece tek bir millete hitap eden yerel inanışlardır.",
         "Sadece felsefi düşünce sistemleridir."
       ],
@@ -105,7 +105,7 @@
       "answers": [
         "Onlara baskı yapılarak zorla Müslüman yapılmalıdır.",
         "Onlarla her türlü ilişki kesilmelidir.",
-        "Can ve mal güvenliklerine saygı duyulmalı, adalet ve hoşgörü ile yaklaşılmalıdır ('Dinde zorlama yoktur').",
+        "Adalet ve hoşgörüyle yaklaşılmalı, dinde zorlama olmadığı bilinmelidir.",
         "Sürekli savaşılmalıdır."
       ],
       "correctAnswerIndex": 2,
@@ -244,7 +244,7 @@
       "questionText": "İslam inancına göre Hz. Muhammed (s.a.v) son peygamberdir (Hatemü'l-Enbiya). Bu durum diğer ilahi dinlerle ilişkide ne anlama gelir?",
       "answers": [
         "Diğer dinlerin kitaplarının tamamen yok sayılması gerektiği",
-        "Hz. Muhammed'in tüm insanlığa gönderilen son elçi olduğu, önceki ilahi dinlerin mesajlarını tamamlayıp güncellediği",
+        "Hz. Muhammed'in son elçi olduğu, önceki ilahi dinlerin mesajlarını tamamladığı.",
         "Önceki dinlerin hiçbir değerinin olmadığı",
         "Sadece Arapların peygamberi olduğu"
       ],
@@ -300,7 +300,7 @@
       "questionText": "Dünya dinleri dersinin veya dinler arası diyalog çalışmalarının okullarda işlenmesinin en temel amaçlarından biri aşağıdakilerden hangisidir?",
       "answers": [
         "Bütün dinleri tek bir din haline getirmek",
-        "Farklı inançları tanıyarak önyargıları azaltmak, barış içinde birlikte yaşama bilincini geliştirmek",
+        "Farklı inançları tanıyarak önyargıları azaltmak ve birlikte yaşama bilincini geliştirmek.",
         "Öğrencilerin kafasını karıştırmak",
         "Diğer dinlerin yanlışlarını bulup onlarla kavga etmek"
       ],
@@ -411,7 +411,7 @@
       "id": "Q_7_5_030",
       "questionText": "Analiz Sorusu: Kur'an-ı Kerim'de 'Sizin dininiz size, benim dinim banadır' (Kafirun Suresi) buyrulmaktadır. Bu ayet ve İslam'ın genel felsefesi dikkate alındığında, inanç özgürlüğü ve diğer dinlerle ilişkiler hakkında hangi sonuca ulaşılır?",
       "answers": [
-        "İslam, inanç konusunda kimseye zorlama yapılmamasını, herkesin kendi inancından sorumlu olduğunu ve toplumsal ilişkilerde adil olunmasını savunur.",
+        "Dinde zorlama yapılmamasını ve herkesin kendi inancından sorumlu olduğunu savunur.",
         "Müslümanların diğer din insanlarıyla konuşması tamamen yasaktır.",
         "İslam, diğer dinleri hak din olarak kabul eder.",
         "Bütün dinlerin ritüelleri ortaklaşa yapılmalıdır."
