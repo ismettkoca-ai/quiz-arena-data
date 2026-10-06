@@ -146,7 +146,7 @@
       "questionText": "Deyimler ve anlamca kaynaşmış birleşik fiiller (örneğin göz kulak olmak, burnu havada olmak, hasta olmak) ögelerine ayrılırken nasıl incelenmelidir?",
       "answers": [
         "Kelimeler tek tek ayrı ögeler olarak incelenmelidir.",
-        "Anlamca bütünlük oluşturdukları için tek bir öge (yüklem) olarak kabul edilmelidir.",
+        "Anlamca bütünlük kurdukları için bölünemez ve tek bir öge sayılırlar.",
         "Her zaman zarf tamlayıcısı olarak alınmalıdır.",
         "Sadece özne ile birlikte değerlendirilmelidir."
       ],
@@ -202,7 +202,7 @@
       "questionText": "Soru cümlelerinde soru hangi ögeyi buldurmaya yöneliktir sorusu çözülürken en pratik yöntem nedir?",
       "answers": [
         "Sorunun yerine herhangi bir sözcük yazmak",
-        "Cümleyi soru anlamından çıkarıp düz cümle yapmak ve cevabın hangi ögeye denk geldiğine bakmak",
+        "Soru sözcüğünün yerine bir cevap koyarak bu cevabın hangi öge olduğunu bulmak",
         "Sadece fiil köklerini incelemek",
         "Yüklemi en başa almak"
       ],
@@ -230,7 +230,7 @@
       "questionText": "Cümledeki 'Kim' ve 'Ne' soruları hem özneyi hem de belirtisiz nesneyi bulmak için kullanılır. Bu iki ögeyi birbirine karıştırmamak için izlenmesi gereken doğru sıra nedir?",
       "answers": [
         "Önce nesne, sonra özne bulunmalıdır.",
-        "Önce özne bulunmalı, ardından nesne aranmalıdır çünkü yükleme 'ne' sorusu ikinci sırada sorulduğunda belirtisiz nesneyi verir.",
+        "Önce özne, sonra nesne aranmalıdır. Çünkü yükleme sorulan ikinci 'ne' nesnedir.",
         "Sadece yükleme bakılmalıdır.",
         "Özne her zaman en sonda yer alır."
       ],
@@ -258,7 +258,7 @@
       "questionText": "Fiilimsi grupları (isim-fiil, sıfat-fiil, zarf-fiil öbekleri) cümle içinde nasıl incelenir?",
       "answers": [
         "Her bir sözcük ayrı bir öge olarak alınır.",
-        "Fiilimsi grupları bir bütün oluşturduğu için bölünemez ve tek bir öge içinde yer alır.",
+        "Fiilimsi öbekleri bir bütün oluşturduğundan bölünemez, tek bir öge sayılır.",
         "Sadece yüklem olabilirler.",
         "Cümle dışı unsur kabul edilirler."
       ],
@@ -286,7 +286,7 @@
       "questionText": "Bağlaçlar (ve, veya, ama, çünkü vb.) ve ünlemler cümlenin ögeleri arasında nasıl değerlendirilir?",
       "answers": [
         "Her zaman özne kabul edilirler.",
-        "Cümlenin ögelerinden biri olarak kabul edilmezler, 'cümle dışı unsur' sayılırlar.",
+        "Cümlenin ögesi olarak kabul edilmezler, 'cümle dışı unsur' (CDU) sayılırlar.",
         "Yüklem ile birleşip tek öge olurlar.",
         "Nesne görevini üstlenirler."
       ],
