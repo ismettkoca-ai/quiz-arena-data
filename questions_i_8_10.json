@@ -283,7 +283,7 @@
     },
     {
       "id": "Q_8_10_021",
-      "questionText": "Read the sentences:\n1. First, you should prepare an emergency bag.\n2. In the bag, you must put some water, food, and a flashlight.\n3. It is very important to have an emergency bag for natural disasters.\n4. Also, a first-aid kit is necessary for injuries.\n\nKarışık olarak verilen cümlelerin anlamlı bir paragraf oluşturacak şekilde sıralanışı hangisidir?",
+      "questionText": "Read the sentences:\n1. First, prepare an emergency bag.\n2. Put water, food, and a flashlight in it.\n3. Having an emergency bag is vital for disasters.\n4. Also, a first-aid kit is necessary.\n\nAnlamlı bir paragraf için doğru sıralama nedir?",
       "answers": [
         "3 - 1 - 2 - 4",
         "1 - 2 - 4 - 3",
