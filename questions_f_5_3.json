@@ -202,7 +202,7 @@
       "questionText": "Amip, öglena, paramesyum (terliksi hayvan) ve bakteriler tek hücreli canlılardır. Bu mikroskobik canlılar için aşağıdakilerden hangisi söylenebilir?",
       "answers": [
         "Yaşamsal faaliyetleri için karmaşık sistemlere (kalp, mide) ihtiyaç duyarlar.",
-        "Beslenme, solunum ve boşaltım gibi tüm yaşam olaylarını sahip oldukları o tek hücrenin içinde gerçekleştirirler.",
+        "Beslenme, solunum, boşaltım vb. tüm yaşam olaylarını sahip oldukları tek hücrede gerçekleştirirler.",
         "Mutlaka gözle görülebilir büyüklüktedirler.",
         "Dokulardan oluşurlar."
       ],
@@ -272,7 +272,7 @@
       "questionText": "Öğretmen tahtaya 'Hayvan hücresinde kloroplast bulunur' yazmıştır. Öğrencilerin bu ifadeye vereceği doğru bilimsel tepki ne olmalıdır?",
       "answers": [
         "Doğrudur, çünkü hayvanlar da fotosentez yapar.",
-        "Yanlıştır, hayvan hücreleri dışarıdan beslendiği (fotosentez yapmadığı) için onlarda kloroplast bulunmaz.",
+        "Yanlıştır, hayvan hücreleri fotosentez yapmadığı için kloroplast bulunmaz.",
         "Doğrudur, sadece yeşil renkli hayvanlarda bulunur.",
         "Yanlıştır, hayvan hücresinde çekirdek bulunmaz."
       ],
@@ -357,7 +357,7 @@
       "answers": [
         "İkisinin de tıpatıp aynı olduğunu",
         "İnsan hücresinin yeşil, soğan hücresinin kırmızı olduğunu",
-        "Soğan hücresinin (bitki) hücre duvarı sayesinde köşeli, insan hücresinin (hayvan) ise zardan dolayı yuvarlak/oval olduğunu",
+        "Soğan hücresinin hücre duvarı sayesinde köşeli, insan hücresinin ise zardan dolayı yuvarlak olduğunu",
         "Soğan hücresinde çekirdek olmadığını"
       ],
       "correctAnswerIndex": 2,
@@ -399,7 +399,7 @@
       "answers": [
         "Hücre zarı cansız, hücre duvarı canlıdır.",
         "Hücre zarı bitkilerde, hücre duvarı hayvanlarda bulunur.",
-        "Hücre zarı 'seçici geçirgen' (kapı güvenliği gibi) iken, hücre duvarı cansız olduğu için 'tam geçirgen'dir (her maddeyi geçirir).",
+        "Hücre zarı 'seçici geçirgen' iken, hücre duvarı cansız olduğu için 'tam geçirgen'dir.",
         "İkisi de hücrenin enerji merkezidir."
       ],
       "correctAnswerIndex": 2,
