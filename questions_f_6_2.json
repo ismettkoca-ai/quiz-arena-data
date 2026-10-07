@@ -342,7 +342,7 @@
       "questionText": "Sabit süratle giden bir aracın 'Yol - Zaman' grafiği incelendiğinde grafik çizgisi nasıl görünür?",
       "answers": [
         "Yatay düz bir çizgi olur.",
-        "Sıfırdan (orijinden) başlayarak zamanla orantılı bir şekilde yukarı doğru artan eğimli (çapraz) bir çizgi olur.",
+        "Sıfırdan başlayarak zamanla orantılı bir şekilde yukarı doğru artan eğimli bir çizgi olur.",
         "Sürekli zikzaklar çizer.",
         "Aşağı doğru inen bir çizgi olur."
       ],
