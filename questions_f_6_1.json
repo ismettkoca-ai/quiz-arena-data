@@ -188,7 +188,7 @@
       "questionText": "Güneş'e en yakın gezegen Merkür olmasına rağmen, Güneş Sistemi'nin 'en sıcak' gezegeni Venüs'tür. Venüs'ün Merkür'den daha sıcak olmasının sebebi nedir?",
       "answers": [
         "Venüs'ün daha hızlı dönmesi",
-        "Venüs'ün kalın atmosferindeki yoğun sera gazlarının ısıyı hapsederek aşırı ısınmaya (Sera Etkisi) sebep olması",
+        "Kalın atmosferindeki gazların ısıyı hapsederek aşırı ısınmaya (Sera Etkisi) yol açması.",
         "Merkür'ün tamamen buzlardan oluşması",
         "Venüs'ün içinin lavlarla dolu olması"
       ],
@@ -258,7 +258,7 @@
       "questionText": "Ay'ın Dünya etrafındaki dolanım süresi yaklaşık 29 gün sürmektedir. Her ay bir Yeni Ay ve bir Dolunay evresi yaşandığına göre, neden her ay Güneş ve Ay tutulması gerçekleşmez?",
       "answers": [
         "Çünkü Güneş ışınları her ay Dünya'ya ulaşmaz.",
-        "Çünkü Ay'ın yörüngesi ile Dünya'nın yörüngesi arasında yaklaşık 5 derecelik bir eğiklik (açı) vardır ve bu üçlü her ay tam aynı düzleme (hizaya) gelemez.",
+        "Yörünge eğikliği (açı farkı) nedeniyle bu üçlü her ay tam aynı düzleme gelemez.",
         "Çünkü Ay bazen çok küçülür.",
         "Çünkü bulutlar tutulmaları engeller."
       ],
@@ -273,7 +273,7 @@
       "answers": [
         "Evet, çünkü Güneş her yere aynı anda ışık verir.",
         "Evet, çünkü Ay çok büyüktür.",
-        "Hayır, çünkü Ay'ın gölgesi çok küçüktür ve Dünya üzerinde sadece o gölgenin düştüğü dar bir alanda gündüzü yaşayanlar tutulmayı görebilir.",
+        "Hayır, gölge küçük olduğu için sadece düştüğü dar alanda olanlar görebilir.",
         "Hayır, sadece gece olan ülkeler görebilir."
       ],
       "correctAnswerIndex": 2,
@@ -301,7 +301,7 @@
       "answers": [
         "Işığın boşlukta yayılamayacağının",
         "Maddelerin genleştiğinin",
-        "Işığın doğrusal (düz bir çizgi halinde) yayıldığının ve opak cisimlerin arkasında gölge oluşturduğunun",
+        "Işığın doğrusal yayılıp, opak madde arkasında tam gölge oluşturduğunun.",
         "Sesin ışıktan yavaş olduğunun"
       ],
       "correctAnswerIndex": 2,
@@ -343,7 +343,7 @@
       "answers": [
         "Ay'ın radyasyon yayması yüzünden",
         "Karanlıktan gözlerimizin bozulması yüzünden",
-        "Tutulma sırasında bile Güneş'ten gelen ultraviyole (UV) ışınların doğrudan göz retinasını yakarak kalıcı körlüğe sebep olabilmesi yüzünden",
+        "Güneş'in ultraviyole (UV) ışınlarının göz retinasını yakarak kalıcı körlüğe sebep olabilmesi.",
         "Uğursuzluk getirdiğine inanıldığı için"
       ],
       "correctAnswerIndex": 2,
@@ -357,7 +357,7 @@
       "answers": [
         "Yok olup patladığı için",
         "Çok sıcak olduğu için",
-        "Bir gezegen olacak kadar yörüngesini (etrafındaki asteroitleri) temizleme gücüne sahip olmadığı ve çok küçük olduğu için",
+        "Yörüngesini temizleyecek kadar kütle çekimine sahip olmadığı ve çok küçük olduğu için.",
         "Güneş Sistemi'nden kaçtığı için"
       ],
       "correctAnswerIndex": 2,
@@ -412,14 +412,14 @@
       "questionText": "Ay tutulması, Güneş tutulmasına göre daha uzun sürer (Bazen saatlerce). Güneş tutulması ise sadece birkaç dakika içinde bitiverir. Bu sürenin farklı olmasının temel bilimsel nedeni nedir?",
       "answers": [
         "Güneş'in Ay'dan hızlı dönmesi",
-        "Dünya'nın, Ay'dan çok daha büyük olması nedeniyle uzaya düşürdüğü gölgenin (karanlık alanın) çok geniş olması ve Ay'ın bu geniş gölgeden uzun sürede çıkabilmesi",
+        "Dünya çok büyük olduğu için gölgesi geniştir ve Ay bu devasa karanlık alandan çok uzun sürede çıkar.",
         "Gece saatlerinin gündüzden uzun olması",
         "Ay'ın kendi etrafında yavaş dönmesi"
       ],
       "correctAnswerIndex": 1,
       "category": "Güneş Sistemi ve Tutulmalar",
       "difficulty": 3,
-      "explanation": "Güneş tutulmasında küçük Ay'ın gölgesi Dünya'yı çabucak geçer (kısa sürer). Ancak Ay tutulmasında devasa Dünya'nın gölgesine giren Ay, o büyük karanlık alandan ancak saatler sonra çıkabilir."
+      "explanation": "Güneş tutulmesında küçük Ay'ın gölgesi Dünya'yı çabucak geçer (kısa sürer). Ancak Ay tutulmasında devasa Dünya'nın gölgesine giren Ay, o büyük karanlık alandan ancak saatler sonra çıkabilir."
     }
   ]
 }
