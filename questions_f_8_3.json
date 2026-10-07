@@ -75,7 +75,7 @@
       "id": "Q_8_3_006",
       "questionText": "Bir çiviye çekiçle vurulduğunda, çivinin geniş olan baş kısmına uygulanan kuvvet ile çivinin tahtaya batan sivri ucu arasındaki kuvvet-basınç ilişkisi nasıldır?",
       "answers": [
-        "Katılar kuvveti aynı doğrultuda aynen iletir ancak sivri uçta yüzey küçüldüğü için basınç artar.",
+        "Kuvvet aynen iletilir ancak sivri uçta yüzey küçüldüğü için basınç artar.",
         "Katılar basıncı aynen iletir, kuvveti değiştirir.",
         "Sivri uçta kuvvet azalır, basınç azalır.",
         "Çivinin her yerinde basınç eşittir."
@@ -299,7 +299,7 @@
       "id": "Q_8_3_022",
       "questionText": "Esnek bir uçan balon gökyüzüne doğru serbest bırakılıyor. Yükseldikçe balonun hacminde nasıl bir değişim gözlenir?",
       "answers": [
-        "Dışarıdaki açık hava basıncı azaldığı için balonun iç basıncı galip gelir ve balon şişerek (hacmi artarak) yükselir, en sonunda patlar.",
+        "Açık hava basıncı azaldığı için balon şişerek yükselir ve patlar.",
         "Hava soğuduğu için büzülür ve hacmi küçülür.",
         "Dış basınç arttığı için balon içe doğru çöker.",
         "Hacmi hiçbir şekilde değişmez."
@@ -315,7 +315,7 @@
       "answers": [
         "Suyun kağıdı yapıştırdığını",
         "Yer çekiminin kaybolduğunu",
-        "Aşağıdan yukarıya doğru etki eden açık hava basıncının, suyun ağırlığından (sıvı basıncından) büyük olduğunu",
+        "Alttan etki eden açık hava basıncının, suyun ağırlığını yendiğini.",
         "Kağıdın içindeki gazların basıncını"
       ],
       "correctAnswerIndex": 2,
@@ -397,7 +397,7 @@
       "id": "Q_8_3_029",
       "questionText": "Elektrikli süpürgenin tozu ve kiri borusundan içeri doğru çekebilmesinin çalışma prensibi nasıl açıklanır?",
       "answers": [
-        "Süpürgenin motorunun içindeki havayı dışarı atarak içeride 'Alçak Basınç' oluşturması ve dışarıdaki yüksek açık hava basıncının tozu içeri doğru itmesi",
+        "Motor havayı atarak içeride alçak basınç yaratır, açık hava tozu içeri iter.",
         "Süpürgenin tozu yakan bir lazer üretmesi",
         "Süpürgenin statik elektrik üretmesi",
         "Motorun sadece fırçayı döndürmesi"
@@ -411,7 +411,7 @@
       "id": "Q_8_3_030",
       "questionText": "Şırınganın (enjektörün) pistonu geriye doğru çekildiğinde sıvı ilacın şırınganın içine dolmasını sağlayan fiziksel olayların doğru sıralaması nedir?",
       "answers": [
-        "Piston çekilince içerideki basınç düşer, dışarıdaki açık hava basıncı sıvıyı ittirerek şırınganın içine doldurur.",
+        "Piston çekilince iç basınç düşer, açık hava basıncı sıvıyı içeri ittirir.",
         "Sıvı basıncı açık hava basıncını yener ve sıvı kendiliğinden yukarı çıkar.",
         "Şırınga sıvıyı mıknatıs gibi çeker.",
         "Piston itildiğinde sıvı içeri girer."
