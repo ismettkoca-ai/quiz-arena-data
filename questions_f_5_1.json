@@ -118,7 +118,7 @@
       "questionText": "Astronotların yıllar önce Ay'a ayak bastıklarında bıraktıkları ayak izleri bugün bile silinmeden aynen durmaktadır. Bunun asıl nedeni nedir?",
       "answers": [
         "Ay'ın yüzeyinin çok sert bir betondan oluşması",
-        "Ay'da atmosferin yok denecek kadar az olması sebebiyle rüzgar ve yağmur gibi hava olaylarının görülmemesi",
+        "Ay'da atmosferin yok denecek kadar az olması sebebiyle hava olaylarının görülmemesi",
         "Ay'ın hiç dönmemesi",
         "Uzaylıların ayak izlerini koruması"
       ],
@@ -132,7 +132,7 @@
       "questionText": "Ay yüzeyinde derin çukurlar (kraterler) bulunur. Dünya'ya da sürekli meteorlar gelmesine rağmen yüzeyinde bu kadar çok krater yoktur. Ay'da çok fazla krater olmasının nedeni nedir?",
       "answers": [
         "Dünya'nın Ay'dan daha sert olması",
-        "Ay'ın atmosferi olmadığı için gelen meteorların sürtünmeden yanıp parçalanmadan direkt yüzeye çarpması",
+        "Ay'ın atmosferi olmadığı için gelen meteorların yanıp parçalanmadan direkt yüzeye çarpması",
         "Ay'ın Güneş'e daha yakın olması",
         "Meteorların Dünya'yı sevmemesi"
       ],
@@ -202,7 +202,7 @@
       "questionText": "Dünya'dan baktığımızda Ay'ın hep aynı yüzünü görürüz, arka tarafını (karanlık yüzünü) asla göremeyiz. Bu gizemli durumun nedeni nedir?",
       "answers": [
         "Ay'ın arka yüzünün tamamen siyah olması",
-        "Ay'ın kendi etrafındaki dönüş süresi ile Dünya etrafındaki dolanma süresinin birbirine eşit (27.3 gün) olması",
+        "Ay'ın kendi etrafındaki dönüş süresi ile Dünya etrafındaki dolanma süresinin birbirine eşit olması",
         "Ay'ın hiç dönmemesi",
         "Dünya'nın Ay'dan daha yavaş dönmesi"
       ],
@@ -313,7 +313,7 @@
       "id": "Q_5_1_023",
       "questionText": "Güneş gözlemi yaparken sağlığımız için uymamız gereken en önemli kural aşağıdakilerden hangisidir?",
       "answers": [
-        "Güneş'e çıplak gözle veya sıradan güneş gözlüğüyle bile asla doğrudan bakmamak (özel filtreli tutulma gözlüğü kullanmak)",
+        "Güneş'e çıplak gözle veya sıradan güneş gözlüğüyle bile asla doğrudan bakmamak",
         "Güneş'e gözümüzü kısarak bakmak",
         "Teleskop veya dürbünle Güneş'e daha yakından bakmak",
         "Güneş'e sadece kış aylarında bakmak"
@@ -412,7 +412,7 @@
       "questionText": "Ay'ın yüzeyi nasıldır ve şekli en çok neye benzer?",
       "answers": [
         "Dümdüz, pürüzsüz bir ayna gibidir.",
-        "Tozla kaplıdır, dağlar, vadiler ve meteor çarpmasıyla oluşan dev çukurlar (kraterler) vardır. Şekli ise küreye (topa) benzer.",
+        "Tozla kaplıdır, dağlar, vadiler ve meteor çarpmasıyla oluşan dev çukurlar vardır. Şekli ise küreye benzer.",
         "Küp şeklindedir ve tamamen okyanuslardan oluşur.",
         "Sıvı lavlarla kaplı bir alev topudur."
       ],
