@@ -78,7 +78,7 @@
         "İsteğimizle çalışması",
         "Yapı olarak düz kasa, çalışma olarak çizgili kasa benzemesi",
         "Sadece kollarımızda bulunması",
-        "Yapı olarak çizgili kasa benzemesine rağmen, isteğimiz dışında yorulmadan (düz kas gibi) sürekli çalışması"
+        "Yapı olarak çizgili kasa benzemesine rağmen, istemsiz ve yorulmadan sürekli çalışması"
       ],
       "correctAnswerIndex": 3,
       "category": "Canlılarda Sistemler",
@@ -216,7 +216,7 @@
       "questionText": "Dolaşım sistemimizde 'Küçük Kan Dolaşımı' kalbin sağ karıncığında başlayıp sol kulakçığında biter. Küçük kan dolaşımının yapılmasındaki temel amaç nedir?",
       "answers": [
         "Besinlerin hücrelere iletilmesini sağlamak",
-        "Vücutta kirlenen (karbondioksitli) kanı akciğerlere götürüp oksijenle temizleyerek kalbe geri getirmek",
+        "Vücutta kirlenen kanı akciğerlere götürüp oksijenle temizleyerek kalbe geri getirmek",
         "Kanın vücut ısısını düzenlemek",
         "Hücrelerdeki atıkları böbreğe taşımak"
       ],
@@ -398,7 +398,7 @@
       "questionText": "Eforlu bir spor yapmaya (örneğin hızlıca koşmaya) başlayan bir kişide, sistemler arası ilişkiler düşünüldüğünde çalışma hızları sırasıyla nasıl bir tepki verir?",
       "answers": [
         "Sadece kas sistemi hızlanır, diğerleri yavaşlar.",
-        "Önce destek ve hareket sistemi hızlanır, kaslar çok enerji istediği için kalp atışı (dolaşım) ve nefes (solunum) hızlanır, artan atıklarla terleme (boşaltım) başlar.",
+        "Destek ve hareket sistemi hızlanır, kalp atışı ve nefes hızlanır, atıklarla terleme başlar.",
         "Önce sindirim sistemi hızlanır, sonra solunum yavaşlar.",
         "Sistemler birbirinden bağımsızdır, sadece terleme başlar."
       ],
@@ -413,7 +413,7 @@
       "answers": [
         "Kanın içinde tamamen aynı miktarda kalır.",
         "Böbrekte birikip orada kalır.",
-        "Böbrekteki nefronlar tarafından süzülüp idrara karıştırılır, böylece temizlenen kan böbrekten çıkarken üre miktarı çok azalmış olur.",
+        "Nefronlar ile süzülüp idrara karıştırılır, temizlenen kan böbrekten çıkarken üre miktarı çok azalmış olur.",
         "Üre tekrar kana geri emilir."
       ],
       "correctAnswerIndex": 2,
