@@ -314,7 +314,7 @@
       "questionText": "Güneş enerjisi ve rüzgar enerjisi santralleri çevre dostu (temiz) olmalarına rağmen, fosil yakıtlara kıyasla en büyük dezavantajları (sorunları) nedir?",
       "answers": [
         "Atmosfere radyoaktif gaz salmaları",
-        "Enerji üretiminin hava koşullarına (iklime, gece/gündüz döngüsüne) bağlı olarak kesintiye uğraması",
+        "Enerji üretiminin hava koşullarına bağlı olarak kesintiye uğraması",
         "Kurulumdan sonra yakıt maliyetlerinin çok yüksek olması",
         "Kömürden daha fazla sera gazı üretmeleri"
       ],
@@ -412,7 +412,7 @@
       "questionText": "Küresel Isınma (Sera Etkisi) ile Ozon Tabakasının İncelmesi kavramları genellikle birbirine karıştırılır. Bu iki çevre sorunu arasındaki en temel fark aşağıdakilerden hangisidir?",
       "answers": [
         "İkisi de tamamen aynı şeydir.",
-        "Sera etkisi ısının atmosferde hapsolmasıdır; ozon tabakasının incelmesi ise Dünya'nın UV kalkanının delinmesidir.",
+        "Sera; ısının atmosferde hapsolması; ozon tabakasının incelmesi ise UV kalkanının delinmesidir.",
         "Sera etkisini güneş, ozon tabakasını ay oluşturur.",
         "Ozon tabakası dünyayı ısıtır, sera etkisi dünyayı soğutur."
       ],
