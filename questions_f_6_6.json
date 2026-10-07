@@ -62,7 +62,7 @@
       "questionText": "Elektrik prizlerinin, fişlerin ve kabloların dış kısmının plastik veya kauçuk gibi maddelerle kaplanmasının temel amacı nedir?",
       "answers": [
         "Kabloların daha esnek olmasını sağlamak",
-        "Plastiğin yalıtkan olması sayesinde elektrik akımının vücudumuza geçmesini (elektrik çarpmasını) engellemek",
+        "Yalıtkan plastik sayesinde elektrik akımının vücudumuza geçmesini (çarpılmayı) önlemek.",
         "Elektrik akımını daha da hızlandırmak",
         "Prizlerin daha güzel görünmesini sağlamak"
       ],
@@ -174,7 +174,7 @@
       "questionText": "İletken ve Yalıtkan maddelerin 'Elektriksel Dirençleri' karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
       "answers": [
         "İletkenlerin direnci çok yüksektir, yalıtkanların direnci sıfırdır.",
-        "Yalıtkan maddelerin elektriksel direnci o kadar büyüktür ki (çok yüksektir), elektrik akımının geçişine hiç izin vermezler.",
+        "Yalıtkanların direnci çok büyüktür, elektrik akımının geçişine kesinlikle izin vermezler.",
         "İkisinin de direnci aynıdır.",
         "Direnç sadece sıvılarda bulunur."
       ],
@@ -258,7 +258,7 @@
       "questionText": "Ampullerdeki 'filaman' telinin ince, uzun ve Tungsten (Volfram) metalinden yapılmasının asıl amacı nedir?",
       "answers": [
         "Telin direncini 'en aza' indirerek elektriğin hızlı geçmesini sağlamak",
-        "Telin direncini 'çok yükseklere' çıkararak üzerinden geçen elektriğin teli aşırı ısıtmasını ve akkor haline gelip çevreye ışık yaymasını sağlamak",
+        "Telin direncini çok yükseltip akkor haline gelerek çevreye ışık yaymasını sağlamak.",
         "Ampulün hafif olmasını sağlamak",
         "Tungsten metalinin çok ucuz olması"
       ],
@@ -286,7 +286,7 @@
       "questionText": "Tost makinesi, saç kurutma makinesi ve elektrikli fırın gibi aletlerin içindeki tellerin ortak özelliği nedir?",
       "answers": [
         "Plastikten yapılmaları",
-        "Dirençlerinin 'çok büyük' olması sayesinde elektrik enerjisini güçlü bir 'Isı Enerjisine' dönüştürmeleri",
+        "Dirençlerinin çok büyük olmasıyla elektrik enerjisini güçlü bir ısı enerjisine dönüştürmeleri.",
         "Dirençlerinin 'çok küçük' olması ve hiç ısınmamaları",
         "Sıvı halde olmaları"
       ],
@@ -343,7 +343,7 @@
       "answers": [
         "Tuzun ışık saçan bir madde olması",
         "Pilin ısınması",
-        "Sıvının ilk başta yalıtkan (örneğin saf su) olması, tuz eklendiğinde (tuzlu su olunca) iletken hale geçerek devreyi tamamlaması",
+        "İlk başta yalıtkan olan sıvının tuz eklenince iletken hale geçerek devreyi tamamlaması.",
         "Tuzun suyu buharlaştırması"
       ],
       "correctAnswerIndex": 2,
@@ -356,7 +356,7 @@
       "questionText": "Şehirlerarası yüksek gerilim hatlarında ve ev tesisatlarında kullanılan elektrik kablolarının iç telleri, neden gümüş veya altından değil de genellikle 'Bakır' ve 'Alüminyum' metallerinden üretilir?",
       "answers": [
         "Gümüş ve altının yalıtkan olması",
-        "Bakır ve alüminyumun direncinin düşük (iyi iletken) olmasının yanı sıra, doğada çok bulunup gümüş ve altına göre çok daha 'ucuz' ve ekonomik olması",
+        "İyi iletken olmalarının yanı sıra altın ve gümüşe kıyasla çok daha ucuz ve ekonomik olmaları.",
         "Bakırın daha güzel görünmesi",
         "Bakırın elektriği hiç geçirmemesi"
       ],
@@ -412,7 +412,7 @@
       "questionText": "Günümüzde sokak tabelalarında kullanılan 'Neon' lambalar veya okullardaki uzun 'Floresan' lambalar elektriği nasıl iletip ışık saçar?",
       "answers": [
         "İçlerinde devasa kalınlıkta metaller olduğu için",
-        "Tüpün içindeki bazı özel gazların, elektrik enerjisi verildiğinde iyonlaşıp 'iletken' hale gelmesi ve ışık saçması sayesinde",
+        "İçindeki gazların elektrik enerjisiyle iyonlaşıp iletken hale gelerek ışık saçması sayesinde.",
         "İçlerine su doldurulduğu için",
         "Pille çalıştıkları için"
       ],
