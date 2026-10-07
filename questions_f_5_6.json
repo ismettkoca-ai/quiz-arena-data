@@ -132,7 +132,7 @@
       "questionText": "Bilim insanları veya mühendisler elektrik devresi çizerken neden ampulün veya pilin gerçek resmini çizmek yerine 'Semboller' kullanırlar?",
       "answers": [
         "Gerçek resim çizmek yasak olduğu için",
-        "Sembollerle çizim yapmanın daha hızlı olması ve dünyanın her yerindeki (farklı dillerdeki) insanlar tarafından ortak olarak anlaşılabilmesi için",
+        "Sembollerle çizim yapmanın daha hızlı olması ve evrensel olarak anlaşılabilmesi için",
         "Sadece çocukların anlamasını sağlamak için",
         "Sayfada yer kalmadığı için"
       ],
@@ -217,7 +217,7 @@
       "answers": [
         "Anahtar 'açık' konuma gelmiş, kablo kopmuştur.",
         "Pil tükenmiştir.",
-        "Anahtar 'kapalı' konuma gelmiş, açık olan yol birleşmiş ve elektrik akımı tamamlanarak ampule ulaşmıştır.",
+        "Anahtar kapalı konuma gelmiş, açık olan yol birleşmiş ve elektrik akımı ampule ulaşmıştır.",
         "Ampul patlamıştır."
       ],
       "correctAnswerIndex": 2,
