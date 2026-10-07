@@ -311,11 +311,11 @@
     },
     {
       "id": "Q_7_6_023",
-      "questionText": "Otomobil fabrikalarında araçlar boyanırken boya tabancası boya damlacıklarını pozitif (+) yükle yükler. Aracın kaportası ise negatif (-) yükle yüklenir veya topraklanır. Bu uygulamanın temel amacı nedir?",
+      "questionText": "Otomobil fabrikalarında araçlar boyanırken boya damlacıkları (+), kaporta (-) yüklenir. Bu uygulamanın temel amacı nedir?",
       "answers": [
         "Aracın motor gücünü artırmak",
         "Boyanın çabuk kurumasını sağlamak",
-        "Aynı yüklü boya damlalarının havada birbirini iterek pürüzsüz yayılmasını ve zıt yüklü kaportaya kusursuz bir şekilde yapışmasını sağlamak",
+        "Aynı yüklü boyaların dağılıp, zıt yüklü kaportaya kusursuzca yapışmasını sağlamak.",
         "Boyanın rengini koyulaştırmak"
       ],
       "correctAnswerIndex": 2,
@@ -328,7 +328,7 @@
       "questionText": "Petrol, benzin veya LPG taşıyan tankerlerin arkasından yere doğru sarkan metal bir zincir bulunur. Bu zincirin kullanım amacı nedir?",
       "answers": [
         "Aracın çok hızlanmasını frenleyerek engellemek",
-        "Sürtünme sonucu tankerde biriken elektrik yükünü topraklayarak (yere aktararak) olası bir kıvılcım ve patlamayı önlemek",
+        "Sürtünmeyle biriken elektrik yükünü topraklayarak patlamayı önlemek.",
         "Arkasından gelen araçları uyarmak",
         "Rüzgar yönünü hesaplamak"
       ],
@@ -356,7 +356,7 @@
       "questionText": "Evdeki plastik bir tarağı saçımıza hızla sürttükten sonra küçük kağıt parçalarına yaklaştırdığımızda tarağın kağıtları havaya kaldırdığını (çektiğini) görürüz. Tarağın kağıtları çekmesinin bilimsel açıklaması nedir?",
       "answers": [
         "Tarağın mıknatısa dönüşmesi",
-        "Yüklü tarağın, nötr kağıt parçalarını 'etki ile elektriklenme' yoluyla kutuplaştırıp kendine çekmesi",
+        "Yüklü tarağın nötr kağıtları etki ile elektrikleyip kendine çekmesi.",
         "Kağıdın aniden pozitif yük üretmesi",
         "Hava akımının kağıtları havalandırması"
       ],
@@ -371,7 +371,7 @@
       "answers": [
         "Doktorların kayıp düşmesini engellemek",
         "Zeminin daha kolay temizlenmesini sağlamak",
-        "Ameliyathanede kullanılan yanıcı oksijen ve anestezi gazlarının, vücuttaki durgun elektrik kıvılcımlarıyla patlamasını önlemek",
+        "Durgun elektrik kıvılcımlarının yanıcı anestezi gazlarını patlatmasını önlemek.",
         "Daha ucuza mal etmek"
       ],
       "correctAnswerIndex": 2,
@@ -398,7 +398,7 @@
       "questionText": "Büyük fabrikaların bacalarından çıkan zararlı tozların ve küllerin doğaya salınmasını engellemek için bacalara takılan sistemlerde elektrostatik filtrelere başvurulur. Bu filtrelerin çalışma mantığı nedir?",
       "answers": [
         "Tozları yakarak yok etmek",
-        "Toz partiküllerine elektrik yükü verip, ardından zıt yüklü levhalarla bu tozları mıknatıs gibi çekerek bacada tutmak",
+        "Tozları zıt yükle yükleyip mıknatıs gibi plakalara çekerek bacada tutmak.",
         "Bacayı rüzgardan korumak",
         "Tozları daha yükseğe püskürtmek"
       ],
@@ -414,7 +414,7 @@
         "Hemen en yakınındaki uzun bir ağacın altına saklanmak",
         "Arazideki en yüksek tepeye koşmak",
         "Eldeki şemsiyeyi veya sivri uçlu metalleri havaya kaldırmak",
-        "Açık alanda sivri bir hedef olmamak için ayakları birleştirip yere doğru küçülerek (çömelerek) oturmak"
+        "Açık alanda sivri hedef olmamak için yere çömelerek oturmak."
       ],
       "correctAnswerIndex": 3,
       "category": "Elektriklenme",
