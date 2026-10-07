@@ -132,7 +132,7 @@
       "questionText": "Ali, 'Sadece pürüzsüz aynalarda yansıma kanunları geçerlidir, pürüzlü (dağınık) yüzeylerde yansıma kuralları bozulur' demiştir. Ali'nin bu düşüncesi için ne söylenebilir?",
       "answers": [
         "Kesinlikle doğrudur.",
-        "Yanlıştır, dağınık yansımada da her bir ışın kendi çarptığı noktanın Normal'ine göre yansıma kurallarına (Gelme = Yansıma) kesinlikle uyar.",
+        "Yanlıştır, dağınık yansımada da her ışın kendi çarptığı noktanın Normal'ine göre kurallara kesinlikle uyar.",
         "Sadece kırmızı ışıkta geçerlidir.",
         "Işığın hızına göre değişir."
       ],
@@ -174,7 +174,7 @@
       "questionText": "Sıcak yaz günlerinde açık renkli (beyaz) kıyafetler giymeyi tercih etmemizin, kışın ise koyu renkli (siyah) montlar giymemizin bilimsel nedeni nedir?",
       "answers": [
         "Yazın modasının açık renkler olması",
-        "Beyaz kıyafetlerin ışığı yansıtarak serin tutması, siyah kıyafetlerin ise ışığı soğurarak (emerek) vücudumuzu ısıtması",
+        "Beyaz kıyafetlerin ışığı yansıtması, siyah kıyafetlerin ise ışığı soğurarak vücudumuzu ısıtması",
         "Siyah kıyafetlerin daha hafif olması",
         "Açık renklerin teri daha çok emmesi"
       ],
@@ -230,7 +230,7 @@
       "questionText": "Yağmur yağdıktan sonra güneşin açmasıyla birlikte gökyüzünde beliren Gökkuşağı hangi olay sonucunda oluşur?",
       "answers": [
         "Bulutların ışığı tamamen yansıtmasıyla",
-        "Havadaki su damlacıklarının birer 'prizma' görevi görerek beyaz güneş ışığını renklerine ayırmasıyla",
+        "Su damlacıklarının birer 'prizma' görevi görerek beyaz ışığı renklerine ayırmasıyla",
         "Rüzgarın ışığı dağıtmasıyla",
         "Uzaydan gelen renkli meteorlarla"
       ],
@@ -273,7 +273,7 @@
       "answers": [
         "Gözümüzün cisimleri boyaması",
         "Cisimlerin beyaz ışık içindeki tüm renkleri aynı anda yansıtması",
-        "Cisimlerin üzerine düşen beyaz ışıktaki kendi rengini 'yansıtıp', diğer renkleri 'soğurması (emmesi)'",
+        "Cisimlerin üzerine düşen beyaz ışıktaki kendi rengini yansıtıp, diğer renkleri soğurması",
         "Cisimlerin ışık kaynağı olması"
       ],
       "correctAnswerIndex": 2,
@@ -356,7 +356,7 @@
       "questionText": "Açık renklerin ışığı yansıtması kuralı sadece kıyafetlerde kullanılmaz. Örneğin yaz aylarında çok sıcak olan şehirlerde (Bodrum gibi) evlerin dış cephesinin tamamen 'Beyaz'a boyanmasının sebebi nedir?",
       "answers": [
         "Beyaz boyanın daha ucuz olması",
-        "Güneş ışığını yansıtarak (soğurulmayı engelleyerek) evin içinin aşırı ısınmasını önlemek ve serin kalmasını sağlamak",
+        "Güneş ışığını yansıtarak evin aşırı ısınmasını önlemek ve serin kalmasını sağlamak",
         "Güneş enerjisi üretmek",
         "Geceleri evlerin parlamasını sağlamak"
       ],
