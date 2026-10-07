@@ -273,7 +273,7 @@
       "answers": [
         "Toz şekerin daha tatlı olması",
         "Toz şekerin kütlesinin daha az olması",
-        "Toz şekerin temas yüzeyinin daha geniş olması nedeniyle su moleküllerinin şekeri daha hızlı sarması",
+        "Toz şekerin temas yüzeyinin daha geniş olması sebebiyle daha hızlı çözünmesi.",
         "Toz şekerin kimyasal formülünün farklı olması"
       ],
       "correctAnswerIndex": 2,
@@ -357,7 +357,7 @@
       "answers": [
         "Kötü koku yaydığı için",
         "Sadece lavabo borularını tıkadığı için",
-        "Kanalizasyonla yeraltı sularına ve denizlere karışarak milyonlarca litre temiz suyu kirlettiği ve sudaki canlılara zarar verdiği için",
+        "Yeraltı sularına karışarak milyonlarca litre temiz suyu kirletip canlılara zarar verdiği için.",
         "Hava kirliliği yaptığı için"
       ],
       "correctAnswerIndex": 2,
@@ -384,7 +384,7 @@
       "questionText": "Geri dönüşümün doğaya ve ekonomiye sağladığı en büyük fayda aşağıdakilerden hangisidir?",
       "answers": [
         "Çöp miktarını artırması",
-        "Doğal kaynakların (ağaç, petrol vb.) tükenmesini yavaşlatması, enerji tasarrufu sağlaması ve çevre kirliliğini önlemesi",
+        "Doğal kaynakların tükenmesini yavaşlatarak enerji tasarrufu ve temiz bir çevre sağlaması.",
         "İnsanları daha çok tüketmeye teşvik etmesi",
         "Sadece plastik endüstrisini büyütmesi"
       ],
