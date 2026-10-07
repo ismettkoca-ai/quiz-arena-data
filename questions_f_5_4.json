@@ -202,7 +202,7 @@
       "questionText": "Yaz aylarında açık renkli kıyafetler giymemiz, kışın ise siyah ve koyu renkli kıyafetler tercih etmemiz ışığın hangi özelliği ile ilgilidir?",
       "answers": [
         "Siyah rengin ışığı çok iyi yansıtması",
-        "Koyu renklerin ışığı emmesi (soğurması) ve sıcaklık vermesi, açık renklerin ise ışığı yansıtarak serin tutması",
+        "Koyu renklerin ışığı soğurması, açık renklerin ise ışığı yansıtması",
         "Açık renklerin gece daha iyi görünmesi",
         "Kıyafetlerin saydam olması"
       ],
@@ -286,7 +286,7 @@
       "questionText": "Maddelerin kalınlığı (derinliği) arttıkça ışık geçirgenlik özellikleri değişebilir. Aşağıdakilerden hangisi bu duruma verilebilecek doğru bir örnektir?",
       "answers": [
         "Demirin inceldikçe aynaya dönüşmesi",
-        "Derin denizlerde dibe inildikçe ışığın geçememesi (Saydam olan suyun kalınlaştıkça opaka dönüşmesi)",
+        "Derin denizlerde dibe inildikçe ışığın geçememesi",
         "Duvarın boyandıkça saydamlaşması",
         "Tahtanın inceldikçe ışık saçması"
       ],
@@ -300,7 +300,7 @@
       "questionText": "Ambulansların ön kısmında 'AMBULANS' yazısının ters bir şekilde (aynadaki görüntüsü gibi simetrik) yazılmasının amacı nedir?",
       "answers": [
         "Estetik görünmesi için",
-        "Önde giden şoförlerin dikiz aynasından (düz aynadan) baktıklarında yazıyı düz (okunabilir) olarak görmeleri için",
+        "Önde giden şoförlerin dikiz aynasından baktıklarında yazıyı düz olarak görmeleri için",
         "Yazının yağmurda silinmemesi için",
         "Hastaların yazıyı rahat okuması için"
       ],
