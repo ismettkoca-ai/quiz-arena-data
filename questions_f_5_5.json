@@ -300,7 +300,7 @@
       "questionText": "Kış aylarında kar yağarken hava sıcaklığı sıfırın altında olmasına rağmen havanın biraz ısındığını, 'ılımanlaştığını' (ayazın kırıldığını) hissederiz. Kar yağarken havanın ısınmasının nedeni nedir?",
       "answers": [
         "Bulutların Güneş'e yaklaşması",
-        "Gaz halindeki su buharının kar tanelerine (katıya) dönüşürken içine hapsettiği ısıyı dışarıya (havaya) vermesi",
+        "Gaz halindeki su buharının kar tanelerine dönüşürken içine hapsettiği ısıyı dışarıya vermesi",
         "Karın sıcak bir madde olması",
         "Kışın Güneş'in daha çok ısıtması"
       ],
@@ -399,7 +399,7 @@
       "answers": [
         "Demirden tasarruf etmek",
         "Yağmur sularının oradan akmasını sağlamak",
-        "Yazın sıcakta demirler 'genleştiğinde' uzayıp birbirini iterek rayları eğmesini (bozmasını) engellemek",
+        "Yazın sıcakta demirler genleştiğinde uzayıp birbirini iterek rayları eğmesini engellemek",
         "Tekerleklerin ses çıkarmasını sağlamak"
       ],
       "correctAnswerIndex": 2,
