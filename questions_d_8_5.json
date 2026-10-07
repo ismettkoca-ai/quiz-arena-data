@@ -20,7 +20,7 @@
       "questionText": "İslam dininin ikinci temel kaynağı olan 'Sünnet' kavramının dini literatürdeki tanımı nedir?",
       "answers": [
         "Sadece peygamberimizin savaşlardaki taktikleridir.",
-        "Peygamberimizin (s.a.v) söylediği sözler, yaptığı davranışlar ve başkası yaptığında sessiz kalarak onayladığı tutumların tümüdür.",
+        "Peygamberimizin sözleri, davranışları ve başkasında görüp sessizce onayladığı tutumlardır.",
         "Geçmiş peygamberlerin hayat hikayeleridir.",
         "Arap kültürünün gelenekleridir."
       ],
@@ -104,7 +104,7 @@
       "questionText": "Kur'an-ı Kerim'in ana konularından biri olan 'Kıssa' kavramının tanımı nedir?",
       "answers": [
         "Gelecekte icat edilecek teknolojik cihazlardır.",
-        "Geçmişte yaşamış peygamberlerin ve milletlerin başından geçen, ibret alınması için anlatılan tarihi olaylardır.",
+        "Geçmiş peygamberlerin ve kavimlerin başından geçen, ibretlik tarihi olaylardır.",
         "Arap edebiyatına ait uydurma masallardır.",
         "Kısa okunan surelerin adıdır."
       ],
@@ -146,7 +146,7 @@
       "questionText": "Aşağıdakilerden hangisi Kur'an-ı Kerim'i diğer ilahi kitaplardan (Tevrat, İncil) ayıran en önemli temel özelliktir?",
       "answers": [
         "Sadece kağıda yazılmış olması",
-        "Hiçbir harfi bile değişmeden, tahrif edilmeden (bozulmadan) günümüze kadar ulaşmış tek ilahi kitap olması",
+        "Hiç değişmeden, tahrif edilmeden (bozulmadan) günümüze kadar ulaşan tek kitap olması.",
         "Sadece peygamberlerin okuyabilmesi",
         "Sadece ibadet yerlerinde bulunması"
       ],
@@ -272,7 +272,7 @@
       "questionText": "Tufan başladığında Hz. Nuh kendi öz oğlunu 'Yavrum bizimle gemiye bin' diye çağırmış, ancak oğlu 'Beni sudan koruyacak bir dağa sığınacağım' diyerek inanmamış ve boğulmuştur. Bu olaydan çıkarılacak en büyük ders nedir?",
       "answers": [
         "Dağların çok yüksek olmadığı",
-        "İmanın tamamen bireysel (kişisel) bir tercih olduğu, peygamber çocuğu olmanın bile kişiyi cehennemden kurtaramayacağı",
+        "İmanın kişisel bir tercih olduğu, peygamber çocuğu olmanın bile kurtuluş garanti etmeyeceği.",
         "Gemilerin dağlardan daha güvenli olduğu",
         "Yüzme bilmenin önemi"
       ],
@@ -385,7 +385,7 @@
       "answers": [
         "Arapçanın daha zor öğrenilmesi",
         "Peygamberin yorulması",
-        "İnsanların ayetleri (emir ve yasakları) kolayca kavraması, ezberlemesi ve yavaş yavaş hayata geçirmesinin sağlanması",
+        "İnsanların ayetleri kolayca kavraması, ezberlemesi ve yavaş yavaş hayata geçirmesidir.",
         "Sayfa sayısının uzaması"
       ],
       "correctAnswerIndex": 2,
@@ -409,7 +409,7 @@
     },
     {
       "id": "Q_8_5_030",
-      "questionText": "LGS Analiz Sorusu: Peygamberimiz 'Size iki emanet bırakıyorum, onlara sımsıkı sarıldığınız sürece asla yoldan sapmazsınız' demiştir. İslam'ın sapasağlam ayakta kalmasını sağlayan bu iki emanet nedir?",
+      "questionText": "Peygamberimiz 'Size iki emanet bırakıyorum, onlara sımsıkı sarıldığınız sürece asla yoldan sapmazsınız' demiştir. İslam'ın sapasağlam ayakta kalmasını sağlayan bu iki emanet nedir?",
       "answers": [
         "Kabe ve Mescid-i Nebevi",
         "Mekke ve Medine şehirleri",
