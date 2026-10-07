@@ -76,7 +76,7 @@
       "questionText": "İnsanda 46, moli balığında 46 ve eğrelti otunda 500 kromozom bulunmaktadır. Sadece bu bilgilere bakılarak aşağıdaki sonuçlardan hangisine kesinlikle ulaşılabilir?",
       "answers": [
         "Kromozom sayısı arttıkça canlının vücut büyüklüğü de artar.",
-        "Farklı tür canlıların kromozom sayıları aynı olabilir ve kromozom sayısının canlının gelişmişliğiyle bir ilgisi yoktur.",
+        "Farklı türlerin kromozom sayısı aynı olabilir ve bu durum canlının gelişmişliğini göstermez.",
         "Kromozom sayısı aynı olan canlılar kesinlikle birbiriyle akrabadır.",
         "Bitkiler hayvanlardan daha gelişmiştir."
       ],
@@ -189,7 +189,7 @@
       "answers": [
         "Akrabaların aynı evde yaşaması",
         "Baskın hastalık genlerinin aniden ortaya çıkması",
-        "Akrabalarda gen benzerliği fazla olduğu için, her iki tarafta da gizli bulunan çekinik (resesif) hastalık genlerinin yan yana gelme ihtimalinin artması",
+        "Gen benzerliğinden dolayı çekinik hastalık genlerinin yan yana gelme riskinin artması.",
         "Akrabalarda kromozom sayısının farklı olması"
       ],
       "correctAnswerIndex": 2,
@@ -255,7 +255,7 @@
     },
     {
       "id": "Q_8_2_019",
-      "questionText": "Aşağıdakilerden hangisi bir modifikasyon örneğidir?",
+      "questionText": "Aşağıdakilerden hangisi bir modifikasyon örneği değildir?",
       "answers": [
         "Altı parmaklı bebeklerin doğması",
         "Çuha çiçeğinin sıcak ortamda (25-35°C) beyaz, serin ortamda (15-20°C) kırmızı çiçek açması",
@@ -413,7 +413,7 @@
       "answers": [
         "Tarımda verimi yüksek tohumların üretilmesi",
         "Daha güçlü vitaminlerin ve aşıların üretilmesi",
-        "Genetiği Değiştirilmiş Organizmaların (GDO) insanlarda alerjik reaksiyonlara neden olması ve biyoçeşitliliği bozması",
+        "GDO'lu ürünlerin insanlarda alerjik reaksiyona neden olması ve biyoçeşitliliği bozması.",
         "Kalıtsal hastalıkların tedavi yöntemlerinin bulunması"
       ],
       "correctAnswerIndex": 2,
