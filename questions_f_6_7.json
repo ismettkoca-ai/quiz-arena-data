@@ -216,7 +216,7 @@
       "questionText": "Pillerin içinde cıva, kurşun ve kadmiyum gibi çok zehirli ağır metaller bulunur. Atık pillerin toprağa veya normal çöpe atılmasının en tehlikeli sonucu nedir?",
       "answers": [
         "Toprağı zenginleştirmesi",
-        "Bu zehirlerin toprağa ve yeraltı sularına karışarak besin zinciri yoluyla bitkilere, hayvanlara ve insanlara geçmesi (Zehirlenme)",
+        "Ağır metallerin toprağa ve suya sızarak besin zinciriyle canlıları zehirlemesi.",
         "Pillerin patlayıp yangın çıkarması",
         "Toprağın rengini değiştirmesi"
       ],
@@ -273,7 +273,7 @@
       "answers": [
         "Bu ürünün yenilebileceğini gösterir.",
         "Bu ürünün doğada hemen kaybolacağını gösterir.",
-        "Bu ürünün geri dönüştürülebilir malzemeden yapıldığını ve tekrar üretim döngüsüne katılabileceğini gösterir.",
+        "Ürünün geri dönüştürülebilir maddeden üretildiğini ve döngüye katılabileceğini gösterir.",
         "Bu ürünün tehlikeli olduğunu gösterir."
       ],
       "correctAnswerIndex": 2,
@@ -300,7 +300,7 @@
       "questionText": "Kozmetik ürünlerdeki boncukların veya denize atılan plastiklerin dalgalarla parçalanması sonucu oluşan, gözle görülmeyecek kadar küçük plastiklere 'Mikroplastik' denir. Mikroplastiklerin ekosistemdeki en büyük tehlikesi nedir?",
       "answers": [
         "Deniz suyunun tuzluluğunu artırması",
-        "Balıkların bunları plankton (yosun) sanıp yemesi ve bu plastiklerin besin zinciri yoluyla insan vücuduna kadar ulaşması",
+        "Balıkların bunları yutması ve plastiklerin besin zinciriyle insana kadar ulaşması.",
         "Gemi motorlarını bozması",
         "Suların buharlaşmasını engellemesi"
       ],
@@ -342,7 +342,7 @@
       "questionText": "Tarım arazilerinde çiftçilerin tarlalarına daha çok ürün almak için fazla miktarda suni (kimyasal) gübre ve böcek ilacı atmasının çevre üzerindeki en tehlikeli etkisi nedir?",
       "answers": [
         "Bitkilerin daha yeşil ve uzun olması",
-        "Kimyasalların toprağı zehirlemesi, yeraltı sularına karışarak nehirleri kirletmesi ve toprağın doğal verimini öldürmesi",
+        "Kimyasalların toprağı ve yeraltı sularını zehirleyip doğal verimi öldürmesi.",
         "Yağmur sularını artırması",
         "Hava kirliliğini tamamen önlemesi"
       ],
@@ -357,7 +357,7 @@
       "answers": [
         "Binayı hırsızlardan koruması",
         "Evin rengini güzelleştirmesi",
-        "Evin kışın sıcak, yazın serin kalmasını sağlayarak kömür ve doğal gaz (fosil yakıt) tüketimini büyük oranda azaltması ve havayı temiz tutması",
+        "Isı kaybını önleyerek fosil yakıt tüketimini azaltması ve havayı temiz tutması.",
         "Evin daha ağır olmasını sağlaması"
       ],
       "correctAnswerIndex": 2,
@@ -367,12 +367,12 @@
     },
     {
       "id": "Q_6_7_027",
-      "questionText": "Bilinçli bir çevre dostu (sürdürülebilir yaşam savunucusu), market alışverişine giderken kasadan plastik (naylon) poşet almak yerine yanında 'bez çanta' veya file taşır. Bu davranışın temel bilimsel nedeni nedir?",
+      "questionText": "Bilinçli bir çevre dostu, markette naylon poşet yerine bez çanta veya file taşır. Bu davranışın temel bilimsel nedeni nedir?",
       "answers": [
         "Bez çantanın daha hafif olması",
         "Plastik poşetlerin paralı olması",
         "Plastik poşetlerin çok ağır olması",
-        "Tek kullanımlık plastik poşetlerin doğada yüzlerce yıl parçalanmayıp çevreye ve canlılara kalıcı zarar vermesi"
+        "Plastik poşetlerin doğada yüzlerce yıl parçalanmayıp kalıcı zarar vermesi."
       ],
       "correctAnswerIndex": 3,
       "category": "Sürdürülebilir Yaşam ve Etkileşim",
@@ -395,11 +395,11 @@
     },
     {
       "id": "Q_6_7_029",
-      "questionText": "Doğada suyun sürekli bir döngü halinde olduğu (buharlaşıp yağmur olarak geri döndüğü) bilinmektedir. Buna rağmen bilim insanları neden sürekli 'Su Tasarrufu' yapılması konusunda uyarılarda bulunmaktadır?",
+      "questionText": "Doğada suyun sürekli bir döngü halinde olduğu bilinmektedir. Buna rağmen bilim insanları neden sürekli 'Su Tasarrufu' yapılması konusunda uyarmaktadır?",
       "answers": [
         "Suların uzaya kaçması yüzünden",
         "Suyun tamamen donması yüzünden",
-        "Dünyadaki suyun büyük bir kısmı tuzlu su (denizler) ve buzullar olduğu için, ulaşılabilir 'Temiz (Tatlı) İçme Suyu' miktarının çok az ve tükenme tehlikesinde olması yüzünden",
+        "Ulaşılabilir tatlı içme suyu miktarının çok az ve tükenme tehlikesinde olması yüzünden.",
         "Su döngüsünün artık durmuş olması yüzünden"
       ],
       "correctAnswerIndex": 2,
@@ -409,10 +409,10 @@
     },
     {
       "id": "Q_6_7_030",
-      "questionText": "Analiz Sorusu: Bir bölgedeki yılanların tarım ilaçları nedeniyle sayısının hızla azalması (yok olması) sonucunda, o bölgede farelerin (yılanların avlarının) hızla çoğalıp tüm tarım ürünlerini yediği gözlemlenmiştir. Bu olay doğa ile ilgili bize neyi kanıtlar?",
+      "questionText": "Analiz Sorusu: Yılanların tarım ilacıyla yok edildiği bir bölgede, farelerin hızla çoğalıp tüm ürünleri yediği gözlemlenmiştir. Bu olay bize neyi kanıtlar?",
       "answers": [
         "Yılanların zararlı hayvanlar olduğunu",
-        "Ekosistemdeki (doğadaki) her canlının birbirine kopmaz bağlarla (besin zinciriyle) bağlı olduğunu ve bir türün yok olmasının tüm dengeyi altüst edeceğini",
+        "Ekosistemde her türün birbirine bağlı olduğunu ve birinin yok oluşunun dengeyi bozacağını.",
         "Farelerin daha güçlü canlılar olduğunu",
         "Tarım ilaçlarının bitkilere fayda sağladığını"
       ],
