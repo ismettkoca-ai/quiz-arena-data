@@ -202,7 +202,7 @@
       "questionText": "Dünya'dan baktığımızda Ay'ın hep aynı yüzünü görürüz, arka tarafını (karanlık yüzünü) asla göremeyiz. Bu gizemli durumun nedeni nedir?",
       "answers": [
         "Ay'ın arka yüzünün tamamen siyah olması",
-        "Ay'ın kendi etrafındaki dönüş süresi ile Dünya etrafındaki dolanma süresinin birbirine eşit olması",
+        "Ay'ın kendi etrafındaki dönüş ve Dünya etrafındaki dolanma süresinin birbirine eşit olması",
         "Ay'ın hiç dönmemesi",
         "Dünya'nın Ay'dan daha yavaş dönmesi"
       ],
@@ -412,7 +412,7 @@
       "questionText": "Ay'ın yüzeyi nasıldır ve şekli en çok neye benzer?",
       "answers": [
         "Dümdüz, pürüzsüz bir ayna gibidir.",
-        "Tozla kaplıdır, dağlar, vadiler ve meteor çarpmasıyla oluşan dev çukurlar vardır. Şekli ise küreye benzer.",
+        "Tozla kaplıdır, dağlar, vadiler ve dev çukurlar vardır. Şekli küreye benzer.",
         "Küp şeklindedir ve tamamen okyanuslardan oluşur.",
         "Sıvı lavlarla kaplı bir alev topudur."
       ],
