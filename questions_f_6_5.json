@@ -119,7 +119,7 @@
       "answers": [
         "Sadece katı maddelerde bulunması demektir.",
         "Madde miktarına bağlı olarak sürekli değişmesi demektir.",
-        "Maddenin miktarından bağımsız olarak o madde türüne has olması ve diğer maddelerden ayırmamızı sağlaması demektir.",
+        "Madde miktarından bağımsız olarak o madde türüne has olmasıdır.",
         "Renginin çok parlak olması demektir."
       ],
       "correctAnswerIndex": 2,
@@ -216,7 +216,7 @@
       "questionText": "Eşit kütleli (ikisi de 1 kilogram) olan pamuk ve demir yan yana konulduğunda, pamuğun demirden devasa bir şekilde daha fazla yer (hacim) kapladığı görülür. Bunun nedeni nedir?",
       "answers": [
         "Pamuğun kütlesinin daha ağır olması",
-        "Demirin yoğunluğunun (özkütlesinin) pamuktan daha büyük olması, yani taneciklerinin dar bir alana sıkışmış olması",
+        "Demirin özkütlesinin pamuktan büyük olması, taneciklerin dar bir alana sıkışması.",
         "Pamuğun beyaz renkli olması",
         "Demirin suda batması"
       ],
@@ -244,7 +244,7 @@
       "questionText": "Suyun donduğunda hacminin büyümesi ve buz halinde suyun yüzeyinde kalması, doğadaki hangi hayati olayı sağlar?",
       "answers": [
         "Güneş'in daha parlak olmasını",
-        "Göllerin ve denizlerin dipten değil 'yüzeyden' donmaya başlamasını sağlayarak, alt kısımdaki suyun ve canlı yaşamının (balıkların) donmasını engeller.",
+        "Göllerin yüzeyden donmasını sağlayarak alt kısımdaki su canlılarını koruması.",
         "Suların tamamen kurumasını",
         "Gemilerin daha hızlı gitmesini"
       ],
@@ -301,7 +301,7 @@
       "answers": [
         "Suyun buharlaşma noktasını yükseltmek",
         "Uçağı daha ağır yapmak",
-        "Suyun donma noktasını sıfırın altına düşürerek (yoğunluğunu ve saf yapısını değiştirerek) suyun geç donmasını sağlamak",
+        "Suyun donma noktasını sıfırın altına düşürerek suyun geç donmasını sağlamak.",
         "Pisti renklendirmek"
       ],
       "correctAnswerIndex": 2,
@@ -398,7 +398,7 @@
       "questionText": "Deniz suyunda yüzmek, tatlı su gölünde yüzmekten çok daha kolaydır ve insan bedeni denizde daha çok su yüzeyinde kalır. Bunun fiziksel nedeni nedir?",
       "answers": [
         "Deniz suyunun daha soğuk olması",
-        "Deniz suyunun içindeki tuz nedeniyle yoğunluğunun tatlı sudan büyük olması ve daha fazla kaldırma kuvveti uygulaması",
+        "Tuz nedeniyle yoğunluğunun tatlı sudan büyük olması ve çok kaldırma kuvveti uygulaması.",
         "Denizlerin daha derin olması",
         "Denizlerde dalga olması"
       ],
