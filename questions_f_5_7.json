@@ -245,7 +245,7 @@
       "answers": [
         "Bu ürünün yenilebileceğini gösterir.",
         "Bu ürünün zehirli olduğunu gösterir.",
-        "Bu ürünün geri dönüştürülebilir malzemeden yapıldığını ve tekrar döngüye katılabileceğini gösterir.",
+        "Ürünün geri dönüştürülebilir malzemeden yapıldığını ve döngüye katılabileceğini gösterir.",
         "Bu ürünün çok pahalı olduğunu gösterir."
       ],
       "correctAnswerIndex": 2,
@@ -343,7 +343,7 @@
       "answers": [
         "Çevre kirliliğinin artmasını",
         "Ekonomik zarar etmesini",
-        "Doğal kaynakların (ağaç, maden) korunmasını ve enerji tasarrufu sağlayarak ekonomisinin güçlenmesini",
+        "Doğal kaynakların korunmasını, enerji tasarrufu sağlayarak ekonomisinin güçlenmesini",
         "Çöplerin her yere yayılmasını"
       ],
       "correctAnswerIndex": 2,
