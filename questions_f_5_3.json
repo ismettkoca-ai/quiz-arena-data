@@ -202,7 +202,7 @@
       "questionText": "Amip, öglena, paramesyum (terliksi hayvan) ve bakteriler tek hücreli canlılardır. Bu mikroskobik canlılar için aşağıdakilerden hangisi söylenebilir?",
       "answers": [
         "Yaşamsal faaliyetleri için karmaşık sistemlere (kalp, mide) ihtiyaç duyarlar.",
-        "Beslenme, solunum, boşaltım vb. tüm yaşam olaylarını sahip oldukları tek hücrede gerçekleştirirler.",
+        "Beslenme, solunum, boşaltım vb. tüm yaşam olaylarını tek hücrede gerçekleştirirler.",
         "Mutlaka gözle görülebilir büyüklüktedirler.",
         "Dokulardan oluşurlar."
       ],
@@ -357,7 +357,7 @@
       "answers": [
         "İkisinin de tıpatıp aynı olduğunu",
         "İnsan hücresinin yeşil, soğan hücresinin kırmızı olduğunu",
-        "Soğan hücresinin hücre duvarı sayesinde köşeli, insan hücresinin ise zardan dolayı yuvarlak olduğunu",
+        "Soğan hücresinin köşeli, insan hücresinin ise yuvarlak olduğunu",
         "Soğan hücresinde çekirdek olmadığını"
       ],
       "correctAnswerIndex": 2,
