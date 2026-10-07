@@ -133,7 +133,7 @@
       "answers": [
         "Çok az enerji üretmesi",
         "Maliyetinin çok düşük olması",
-        "Kazalar veya sızıntılar durumunda ölümcül radyasyon yayması ve atıklarının binlerce yıl tehlikeli kalması",
+        "Olası sızıntılarda ölümcül radyasyon yayması ve atıklarının tehlikesi.",
         "Sadece geceleri çalışabilmesi"
       ],
       "correctAnswerIndex": 2,
@@ -300,7 +300,7 @@
       "questionText": "Pillerin (bataryaların) normal çöpe atılması veya doğaya bırakılması çevresel açıdan neden çok büyük bir tehlikedir?",
       "answers": [
         "Hava ile temas edip oksijen ürettikleri için",
-        "İçerdikleri kurşun, cıva, kadmiyum gibi ağır metallerin toprağa ve yeraltı sularına karışarak zehirlenmelere yol açtığı için",
+        "İçerdikleri ağır metallerin toprağa ve yeraltı sularına karışması.",
         "Kısa sürede çürüyüp koku yaptıkları için",
         "Toprağı çok fazla ısıttıkları için"
       ],
@@ -412,7 +412,7 @@
       "questionText": "Küresel Isınma (Sera Etkisi) ile Ozon Tabakasının İncelmesi kavramları genellikle birbirine karıştırılır. Bu iki çevre sorunu arasındaki en temel fark aşağıdakilerden hangisidir?",
       "answers": [
         "İkisi de tamamen aynı şeydir.",
-        "Sera etkisi ısının atmosferde hapsolmasıdır; Ozon tabakasının incelmesi ise Güneş'in zararlı morötesi (UV) ışınlarının Dünya'ya ulaşmasına neden olan koruyucu kalkanın delinmesidir.",
+        "Sera etkisi ısının atmosferde hapsolmasıdır; ozon tabakasının incelmesi ise Dünya'nın UV kalkanının delinmesidir.",
         "Sera etkisini güneş, ozon tabakasını ay oluşturur.",
         "Ozon tabakası dünyayı ısıtır, sera etkisi dünyayı soğutur."
       ],
